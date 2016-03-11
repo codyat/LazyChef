@@ -1,0 +1,511 @@
+ndbno: 14035
+
+
+name: Beverages, ABBOTT, EAS soy protein powder
+
+
+name: Water
+unit: g
+value: 2.83
+label: scoop
+value: 1.25
+
+
+name: Energy
+unit: kcal
+value: 405.0
+label: scoop
+value: 178.0
+
+
+name: Energy
+unit: kJ
+value: 1694.0
+label: scoop
+value: 745.0
+
+
+name: Protein
+unit: g
+value: 47.62
+label: scoop
+value: 20.95
+
+
+name: Total lipid (fat)
+unit: g
+value: 3.57
+label: scoop
+value: 1.57
+
+
+name: Ash
+unit: g
+value: 2.03
+label: scoop
+value: 0.89
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 43.94
+label: scoop
+value: 19.33
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: scoop
+value: 0.0
+
+
+name: Sugars, total
+unit: g
+value: 40.48
+label: scoop
+value: 17.81
+
+
+name: Calcium, Ca
+unit: mg
+value: 95.0
+label: scoop
+value: 42.0
+
+
+name: Iron, Fe
+unit: mg
+value: 6.43
+label: scoop
+value: 2.83
+
+
+name: Magnesium, Mg
+unit: mg
+value: 22.0
+label: scoop
+value: 10.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 441.0
+label: scoop
+value: 194.0
+
+
+name: Potassium, K
+unit: mg
+value: 714.0
+label: scoop
+value: 314.0
+
+
+name: Sodium, Na
+unit: mg
+value: 452.0
+label: scoop
+value: 199.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 2.29
+label: scoop
+value: 1.01
+
+
+name: Copper, Cu
+unit: mg
+value: 1.001
+label: scoop
+value: 0.44
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.849
+label: scoop
+value: 0.374
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 0.7
+label: scoop
+value: 0.3
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: scoop
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.1
+label: scoop
+value: 0.044
+
+
+name: Riboflavin
+unit: mg
+value: 0.057
+label: scoop
+value: 0.025
+
+
+name: Niacin
+unit: mg
+value: 0.817
+label: scoop
+value: 0.359
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.034
+label: scoop
+value: 0.015
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.057
+label: scoop
+value: 0.025
+
+
+name: Folate, total
+unit: \u00B5g
+value: 100.0
+label: scoop
+value: 44.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: scoop
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 100.0
+label: scoop
+value: 44.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 100.0
+label: scoop
+value: 44.0
+
+
+name: Choline, total
+unit: mg
+value: 113.7
+label: scoop
+value: 50.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: scoop
+value: 0.0
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: scoop
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 0.0
+label: scoop
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: scoop
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 0.0
+label: scoop
+value: 0.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: scoop
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: scoop
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 0.0
+label: scoop
+value: 0.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: scoop
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 0.0
+label: scoop
+value: 0.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.12
+label: scoop
+value: 0.05
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: scoop
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: scoop
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: scoop
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 2.7
+label: scoop
+value: 1.2
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.0
+label: scoop
+value: 0.0
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: scoop
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: scoop
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: scoop
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: scoop
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: scoop
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.0
+label: scoop
+value: 0.0
+
+
+name: 16:0
+unit: g
+value: 0.0
+label: scoop
+value: 0.0
+
+
+name: 18:0
+unit: g
+value: 0.0
+label: scoop
+value: 0.0
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.644
+label: scoop
+value: 0.283
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.013
+label: scoop
+value: 0.006
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.631
+label: scoop
+value: 0.278
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: scoop
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: scoop
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 1.956
+label: scoop
+value: 0.861
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 1.729
+label: scoop
+value: 0.761
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.227
+label: scoop
+value: 0.1
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: scoop
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: scoop
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: scoop
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: scoop
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: scoop
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.0
+label: scoop
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: scoop
+value: 0.0
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: scoop
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: scoop
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: scoop
+value: 0.0
+
+
+

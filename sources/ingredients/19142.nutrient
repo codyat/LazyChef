@@ -1,0 +1,753 @@
+ndbno: 19142
+
+
+name: Candies, MOUNDS Candy Bar
+
+
+name: Water
+unit: g
+value: 9.05
+label: bar snack size
+value: 1.72
+label: package 1.9 oz
+value: 4.8
+
+
+name: Energy
+unit: kcal
+value: 486.0
+label: bar snack size
+value: 92.0
+label: package 1.9 oz
+value: 258.0
+
+
+name: Energy
+unit: kJ
+value: 2034.0
+label: bar snack size
+value: 386.0
+label: package 1.9 oz
+value: 1078.0
+
+
+name: Protein
+unit: g
+value: 4.6
+label: bar snack size
+value: 0.87
+label: package 1.9 oz
+value: 2.44
+
+
+name: Total lipid (fat)
+unit: g
+value: 26.6
+label: bar snack size
+value: 5.05
+label: package 1.9 oz
+value: 14.1
+
+
+name: Ash
+unit: g
+value: 0.87
+label: bar snack size
+value: 0.17
+label: package 1.9 oz
+value: 0.46
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 58.59
+label: bar snack size
+value: 11.13
+label: package 1.9 oz
+value: 31.05
+
+
+name: Fiber, total dietary
+unit: g
+value: 3.7
+label: bar snack size
+value: 0.7
+label: package 1.9 oz
+value: 2.0
+
+
+name: Sugars, total
+unit: g
+value: 46.19
+label: bar snack size
+value: 8.78
+label: package 1.9 oz
+value: 24.48
+
+
+name: Calcium, Ca
+unit: mg
+value: 21.0
+label: bar snack size
+value: 4.0
+label: package 1.9 oz
+value: 11.0
+
+
+name: Iron, Fe
+unit: mg
+value: 2.09
+label: bar snack size
+value: 0.4
+label: package 1.9 oz
+value: 1.11
+
+
+name: Magnesium, Mg
+unit: mg
+value: 55.0
+label: bar snack size
+value: 10.0
+label: package 1.9 oz
+value: 29.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 91.0
+label: bar snack size
+value: 17.0
+label: package 1.9 oz
+value: 48.0
+
+
+name: Potassium, K
+unit: mg
+value: 321.0
+label: bar snack size
+value: 61.0
+label: package 1.9 oz
+value: 170.0
+
+
+name: Sodium, Na
+unit: mg
+value: 145.0
+label: bar snack size
+value: 28.0
+label: package 1.9 oz
+value: 77.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 1.1
+label: bar snack size
+value: 0.21
+label: package 1.9 oz
+value: 0.58
+
+
+name: Copper, Cu
+unit: mg
+value: 0.4
+label: bar snack size
+value: 0.076
+label: package 1.9 oz
+value: 0.212
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.948
+label: bar snack size
+value: 0.18
+label: package 1.9 oz
+value: 0.502
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 6.6
+label: bar snack size
+value: 1.3
+label: package 1.9 oz
+value: 3.5
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.4
+label: bar snack size
+value: 0.1
+label: package 1.9 oz
+value: 0.2
+
+
+name: Thiamin
+unit: mg
+value: 0.049
+label: bar snack size
+value: 0.009
+label: package 1.9 oz
+value: 0.026
+
+
+name: Riboflavin
+unit: mg
+value: 0.058
+label: bar snack size
+value: 0.011
+label: package 1.9 oz
+value: 0.031
+
+
+name: Niacin
+unit: mg
+value: 0.277
+label: bar snack size
+value: 0.053
+label: package 1.9 oz
+value: 0.147
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.245
+label: bar snack size
+value: 0.047
+label: package 1.9 oz
+value: 0.13
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.09
+label: bar snack size
+value: 0.017
+label: package 1.9 oz
+value: 0.048
+
+
+name: Folate, total
+unit: \u00B5g
+value: 6.0
+label: bar snack size
+value: 1.0
+label: package 1.9 oz
+value: 3.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: bar snack size
+value: 0.0
+label: package 1.9 oz
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 6.0
+label: bar snack size
+value: 1.0
+label: package 1.9 oz
+value: 3.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 6.0
+label: bar snack size
+value: 1.0
+label: package 1.9 oz
+value: 3.0
+
+
+name: Choline, total
+unit: mg
+value: 11.8
+label: bar snack size
+value: 2.2
+label: package 1.9 oz
+value: 6.3
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: bar snack size
+value: 0.0
+label: package 1.9 oz
+value: 0.0
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: bar snack size
+value: 0.0
+label: package 1.9 oz
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 0.0
+label: bar snack size
+value: 0.0
+label: package 1.9 oz
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: bar snack size
+value: 0.0
+label: package 1.9 oz
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 0.0
+label: bar snack size
+value: 0.0
+label: package 1.9 oz
+value: 0.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: bar snack size
+value: 0.0
+label: package 1.9 oz
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: bar snack size
+value: 0.0
+label: package 1.9 oz
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 0.0
+label: bar snack size
+value: 0.0
+label: package 1.9 oz
+value: 0.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: bar snack size
+value: 0.0
+label: package 1.9 oz
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 5.0
+label: bar snack size
+value: 1.0
+label: package 1.9 oz
+value: 3.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.19
+label: bar snack size
+value: 0.04
+label: package 1.9 oz
+value: 0.1
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: bar snack size
+value: 0.0
+label: package 1.9 oz
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: bar snack size
+value: 0.0
+label: package 1.9 oz
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: bar snack size
+value: 0.0
+label: package 1.9 oz
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 1.6
+label: bar snack size
+value: 0.3
+label: package 1.9 oz
+value: 0.8
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 20.58
+label: bar snack size
+value: 3.91
+label: package 1.9 oz
+value: 10.907
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: bar snack size
+value: 0.0
+label: package 1.9 oz
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.118
+label: bar snack size
+value: 0.022
+label: package 1.9 oz
+value: 0.063
+
+
+name: 8:0
+unit: g
+value: 1.356
+label: bar snack size
+value: 0.258
+label: package 1.9 oz
+value: 0.719
+
+
+name: 10:0
+unit: g
+value: 1.081
+label: bar snack size
+value: 0.205
+label: package 1.9 oz
+value: 0.573
+
+
+name: 12:0
+unit: g
+value: 7.92
+label: bar snack size
+value: 1.505
+label: package 1.9 oz
+value: 4.198
+
+
+name: 13:0
+unit: g
+value: 0.0
+label: bar snack size
+value: 0.0
+label: package 1.9 oz
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 2.94
+label: bar snack size
+value: 0.559
+label: package 1.9 oz
+value: 1.558
+
+
+name: 15:0
+unit: g
+value: 0.012
+label: bar snack size
+value: 0.002
+label: package 1.9 oz
+value: 0.006
+
+
+name: 16:0
+unit: g
+value: 3.583
+label: bar snack size
+value: 0.681
+label: package 1.9 oz
+value: 1.899
+
+
+name: 17:0
+unit: g
+value: 0.012
+label: bar snack size
+value: 0.002
+label: package 1.9 oz
+value: 0.006
+
+
+name: 18:0
+unit: g
+value: 3.443
+label: bar snack size
+value: 0.654
+label: package 1.9 oz
+value: 1.825
+
+
+name: 20:0
+unit: g
+value: 0.105
+label: bar snack size
+value: 0.02
+label: package 1.9 oz
+value: 0.056
+
+
+name: 22:0
+unit: g
+value: 0.012
+label: bar snack size
+value: 0.002
+label: package 1.9 oz
+value: 0.006
+
+
+name: 24:0
+unit: g
+value: 0.0
+label: bar snack size
+value: 0.0
+label: package 1.9 oz
+value: 0.0
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.39
+label: bar snack size
+value: 0.074
+label: package 1.9 oz
+value: 0.207
+
+
+name: 14:1
+unit: g
+value: 0.009
+label: bar snack size
+value: 0.002
+label: package 1.9 oz
+value: 0.005
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: bar snack size
+value: 0.0
+label: package 1.9 oz
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.026
+label: bar snack size
+value: 0.005
+label: package 1.9 oz
+value: 0.014
+
+
+name: 17:1
+unit: g
+value: 0.009
+label: bar snack size
+value: 0.002
+label: package 1.9 oz
+value: 0.005
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.338
+label: bar snack size
+value: 0.064
+label: package 1.9 oz
+value: 0.179
+
+
+name: 20:1
+unit: g
+value: 0.009
+label: bar snack size
+value: 0.002
+label: package 1.9 oz
+value: 0.005
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: bar snack size
+value: 0.0
+label: package 1.9 oz
+value: 0.0
+
+
+name: 24:1 c
+unit: g
+value: 0.0
+label: bar snack size
+value: 0.0
+label: package 1.9 oz
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.14
+label: bar snack size
+value: 0.027
+label: package 1.9 oz
+value: 0.074
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.118
+label: bar snack size
+value: 0.022
+label: package 1.9 oz
+value: 0.063
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.005
+label: bar snack size
+value: 0.001
+label: package 1.9 oz
+value: 0.003
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: bar snack size
+value: 0.0
+label: package 1.9 oz
+value: 0.0
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.0
+label: bar snack size
+value: 0.0
+label: package 1.9 oz
+value: 0.0
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.009
+label: bar snack size
+value: 0.002
+label: package 1.9 oz
+value: 0.005
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.009
+label: bar snack size
+value: 0.002
+label: package 1.9 oz
+value: 0.005
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: bar snack size
+value: 0.0
+label: package 1.9 oz
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: bar snack size
+value: 0.0
+label: package 1.9 oz
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: bar snack size
+value: 0.0
+label: package 1.9 oz
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 2.0
+label: bar snack size
+value: 0.0
+label: package 1.9 oz
+value: 1.0
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: bar snack size
+value: 0.0
+label: package 1.9 oz
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 17.0
+label: bar snack size
+value: 3.0
+label: package 1.9 oz
+value: 9.0
+
+
+name: Theobromine
+unit: mg
+value: 130.0
+label: bar snack size
+value: 25.0
+label: package 1.9 oz
+value: 69.0
+
+

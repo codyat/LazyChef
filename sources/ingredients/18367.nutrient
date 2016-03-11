@@ -1,0 +1,655 @@
+ndbno: 18367
+
+
+name: Waffles, plain, prepared from recipe
+
+
+name: Water
+unit: g
+value: 42.0
+label: oz
+value: 11.91
+label: waffle, round (7\ dia)
+value: 31.5
+
+
+name: Energy
+unit: kcal
+value: 291.0
+label: oz
+value: 82.0
+label: waffle, round (7\ dia)
+value: 218.0
+
+
+name: Energy
+unit: kJ
+value: 1218.0
+label: oz
+value: 345.0
+label: waffle, round (7\ dia)
+value: 914.0
+
+
+name: Protein
+unit: g
+value: 7.9
+label: oz
+value: 2.24
+label: waffle, round (7\ dia)
+value: 5.92
+
+
+name: Total lipid (fat)
+unit: g
+value: 14.1
+label: oz
+value: 4.0
+label: waffle, round (7\ dia)
+value: 10.58
+
+
+name: Ash
+unit: g
+value: 3.1
+label: oz
+value: 0.88
+label: waffle, round (7\ dia)
+value: 2.32
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 32.9
+label: oz
+value: 9.33
+label: waffle, round (7\ dia)
+value: 24.68
+
+
+name: Calcium, Ca
+unit: mg
+value: 255.0
+label: oz
+value: 72.0
+label: waffle, round (7\ dia)
+value: 191.0
+
+
+name: Iron, Fe
+unit: mg
+value: 2.31
+label: oz
+value: 0.65
+label: waffle, round (7\ dia)
+value: 1.73
+
+
+name: Magnesium, Mg
+unit: mg
+value: 19.0
+label: oz
+value: 5.0
+label: waffle, round (7\ dia)
+value: 14.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 190.0
+label: oz
+value: 54.0
+label: waffle, round (7\ dia)
+value: 142.0
+
+
+name: Potassium, K
+unit: mg
+value: 159.0
+label: oz
+value: 45.0
+label: waffle, round (7\ dia)
+value: 119.0
+
+
+name: Sodium, Na
+unit: mg
+value: 511.0
+label: oz
+value: 145.0
+label: waffle, round (7\ dia)
+value: 383.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.68
+label: oz
+value: 0.19
+label: waffle, round (7\ dia)
+value: 0.51
+
+
+name: Copper, Cu
+unit: mg
+value: 0.062
+label: oz
+value: 0.018
+label: waffle, round (7\ dia)
+value: 0.047
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.265
+label: oz
+value: 0.075
+label: waffle, round (7\ dia)
+value: 0.199
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 46.2
+label: oz
+value: 13.1
+label: waffle, round (7\ dia)
+value: 34.6
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.4
+label: oz
+value: 0.1
+label: waffle, round (7\ dia)
+value: 0.3
+
+
+name: Thiamin
+unit: mg
+value: 0.263
+label: oz
+value: 0.075
+label: waffle, round (7\ dia)
+value: 0.197
+
+
+name: Riboflavin
+unit: mg
+value: 0.347
+label: oz
+value: 0.098
+label: waffle, round (7\ dia)
+value: 0.26
+
+
+name: Niacin
+unit: mg
+value: 2.073
+label: oz
+value: 0.588
+label: waffle, round (7\ dia)
+value: 1.555
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.485
+label: oz
+value: 0.137
+label: waffle, round (7\ dia)
+value: 0.364
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.056
+label: oz
+value: 0.016
+label: waffle, round (7\ dia)
+value: 0.042
+
+
+name: Folate, total
+unit: \u00B5g
+value: 46.0
+label: oz
+value: 13.0
+label: waffle, round (7\ dia)
+value: 34.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 31.0
+label: oz
+value: 9.0
+label: waffle, round (7\ dia)
+value: 23.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 15.0
+label: oz
+value: 4.0
+label: waffle, round (7\ dia)
+value: 11.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 68.0
+label: oz
+value: 19.0
+label: waffle, round (7\ dia)
+value: 51.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.25
+label: oz
+value: 0.07
+label: waffle, round (7\ dia)
+value: 0.19
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 65.0
+label: oz
+value: 18.0
+label: waffle, round (7\ dia)
+value: 49.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 64.0
+label: oz
+value: 18.0
+label: waffle, round (7\ dia)
+value: 48.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 228.0
+label: oz
+value: 65.0
+label: waffle, round (7\ dia)
+value: 171.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 2.866
+label: oz
+value: 0.813
+label: waffle, round (7\ dia)
+value: 2.15
+
+
+name: 4:0
+unit: g
+value: 0.041
+label: oz
+value: 0.012
+label: waffle, round (7\ dia)
+value: 0.031
+
+
+name: 6:0
+unit: g
+value: 0.025
+label: oz
+value: 0.007
+label: waffle, round (7\ dia)
+value: 0.019
+
+
+name: 8:0
+unit: g
+value: 0.014
+label: oz
+value: 0.004
+label: waffle, round (7\ dia)
+value: 0.01
+
+
+name: 10:0
+unit: g
+value: 0.032
+label: oz
+value: 0.009
+label: waffle, round (7\ dia)
+value: 0.024
+
+
+name: 12:0
+unit: g
+value: 0.036
+label: oz
+value: 0.01
+label: waffle, round (7\ dia)
+value: 0.027
+
+
+name: 14:0
+unit: g
+value: 0.145
+label: oz
+value: 0.041
+label: waffle, round (7\ dia)
+value: 0.109
+
+
+name: 16:0
+unit: g
+value: 1.865
+label: oz
+value: 0.529
+label: waffle, round (7\ dia)
+value: 1.399
+
+
+name: 18:0
+unit: g
+value: 0.696
+label: oz
+value: 0.197
+label: waffle, round (7\ dia)
+value: 0.522
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 3.521
+label: oz
+value: 0.998
+label: waffle, round (7\ dia)
+value: 2.641
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.096
+label: oz
+value: 0.027
+label: waffle, round (7\ dia)
+value: 0.072
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 3.395
+label: oz
+value: 0.962
+label: waffle, round (7\ dia)
+value: 2.546
+
+
+name: 20:1
+unit: g
+value: 0.026
+label: oz
+value: 0.007
+label: waffle, round (7\ dia)
+value: 0.02
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: waffle, round (7\ dia)
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 6.785
+label: oz
+value: 1.924
+label: waffle, round (7\ dia)
+value: 5.089
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 5.975
+label: oz
+value: 1.694
+label: waffle, round (7\ dia)
+value: 4.481
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.782
+label: oz
+value: 0.222
+label: waffle, round (7\ dia)
+value: 0.586
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: waffle, round (7\ dia)
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.021
+label: oz
+value: 0.006
+label: waffle, round (7\ dia)
+value: 0.016
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.001
+label: oz
+value: 0.0
+label: waffle, round (7\ dia)
+value: 0.001
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: waffle, round (7\ dia)
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.006
+label: oz
+value: 0.002
+label: waffle, round (7\ dia)
+value: 0.005
+
+
+name: Cholesterol
+unit: mg
+value: 69.0
+label: oz
+value: 20.0
+label: waffle, round (7\ dia)
+value: 52.0
+
+
+name: Tryptophan
+unit: g
+value: 0.099
+label: oz
+value: 0.028
+label: waffle, round (7\ dia)
+value: 0.074
+
+
+name: Threonine
+unit: g
+value: 0.289
+label: oz
+value: 0.082
+label: waffle, round (7\ dia)
+value: 0.217
+
+
+name: Isoleucine
+unit: g
+value: 0.362
+label: oz
+value: 0.103
+label: waffle, round (7\ dia)
+value: 0.271
+
+
+name: Leucine
+unit: g
+value: 0.63
+label: oz
+value: 0.179
+label: waffle, round (7\ dia)
+value: 0.472
+
+
+name: Lysine
+unit: g
+value: 0.384
+label: oz
+value: 0.109
+label: waffle, round (7\ dia)
+value: 0.288
+
+
+name: Methionine
+unit: g
+value: 0.179
+label: oz
+value: 0.051
+label: waffle, round (7\ dia)
+value: 0.134
+
+
+name: Cystine
+unit: g
+value: 0.145
+label: oz
+value: 0.041
+label: waffle, round (7\ dia)
+value: 0.109
+
+
+name: Phenylalanine
+unit: g
+value: 0.395
+label: oz
+value: 0.112
+label: waffle, round (7\ dia)
+value: 0.296
+
+
+name: Tyrosine
+unit: g
+value: 0.293
+label: oz
+value: 0.083
+label: waffle, round (7\ dia)
+value: 0.22
+
+
+name: Valine
+unit: g
+value: 0.409
+label: oz
+value: 0.116
+label: waffle, round (7\ dia)
+value: 0.307
+
+
+name: Arginine
+unit: g
+value: 0.345
+label: oz
+value: 0.098
+label: waffle, round (7\ dia)
+value: 0.259
+
+
+name: Histidine
+unit: g
+value: 0.187
+label: oz
+value: 0.053
+label: waffle, round (7\ dia)
+value: 0.14
+
+
+name: Alanine
+unit: g
+value: 0.301
+label: oz
+value: 0.085
+label: waffle, round (7\ dia)
+value: 0.226
+
+
+name: Aspartic acid
+unit: g
+value: 0.509
+label: oz
+value: 0.144
+label: waffle, round (7\ dia)
+value: 0.382
+
+
+name: Glutamic acid
+unit: g
+value: 1.989
+label: oz
+value: 0.564
+label: waffle, round (7\ dia)
+value: 1.492
+
+
+name: Glycine
+unit: g
+value: 0.247
+label: oz
+value: 0.07
+label: waffle, round (7\ dia)
+value: 0.185
+
+
+name: Proline
+unit: g
+value: 0.726
+label: oz
+value: 0.206
+label: waffle, round (7\ dia)
+value: 0.544
+
+
+name: Serine
+unit: g
+value: 0.447
+label: oz
+value: 0.127
+label: waffle, round (7\ dia)
+value: 0.335
+
+
+

@@ -1,0 +1,643 @@
+ndbno: 07013
+
+
+name: Bratwurst, pork, cooked
+
+
+name: Water
+unit: g
+value: 51.45
+label: link cooked
+value: 43.73
+
+
+name: Energy
+unit: kcal
+value: 333.0
+label: link cooked
+value: 283.0
+
+
+name: Energy
+unit: kJ
+value: 1393.0
+label: link cooked
+value: 1184.0
+
+
+name: Protein
+unit: g
+value: 13.72
+label: link cooked
+value: 11.66
+
+
+name: Total lipid (fat)
+unit: g
+value: 29.18
+label: link cooked
+value: 24.8
+
+
+name: Ash
+unit: g
+value: 2.8
+label: link cooked
+value: 2.38
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 2.85
+label: link cooked
+value: 2.42
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: link cooked
+value: 0.0
+
+
+name: Sugars, total
+unit: g
+value: 0.0
+label: link cooked
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 28.0
+label: link cooked
+value: 24.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.53
+label: link cooked
+value: 0.45
+
+
+name: Magnesium, Mg
+unit: mg
+value: 21.0
+label: link cooked
+value: 18.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 208.0
+label: link cooked
+value: 177.0
+
+
+name: Potassium, K
+unit: mg
+value: 348.0
+label: link cooked
+value: 296.0
+
+
+name: Sodium, Na
+unit: mg
+value: 846.0
+label: link cooked
+value: 719.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 3.25
+label: link cooked
+value: 2.76
+
+
+name: Copper, Cu
+unit: mg
+value: 0.104
+label: link cooked
+value: 0.088
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.014
+label: link cooked
+value: 0.012
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 39.7
+label: link cooked
+value: 33.7
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: link cooked
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.459
+label: link cooked
+value: 0.39
+
+
+name: Riboflavin
+unit: mg
+value: 0.307
+label: link cooked
+value: 0.261
+
+
+name: Niacin
+unit: mg
+value: 4.795
+label: link cooked
+value: 4.076
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.666
+label: link cooked
+value: 0.566
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.327
+label: link cooked
+value: 0.278
+
+
+name: Folate, total
+unit: \u00B5g
+value: 3.0
+label: link cooked
+value: 3.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: link cooked
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 3.0
+label: link cooked
+value: 3.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 3.0
+label: link cooked
+value: 3.0
+
+
+name: Choline, total
+unit: mg
+value: 94.0
+label: link cooked
+value: 79.9
+
+
+name: Betaine
+unit: mg
+value: 3.6
+label: link cooked
+value: 3.1
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.73
+label: link cooked
+value: 0.62
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: link cooked
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 2.0
+label: link cooked
+value: 2.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 2.0
+label: link cooked
+value: 2.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 0.0
+label: link cooked
+value: 0.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: link cooked
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: link cooked
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 6.0
+label: link cooked
+value: 5.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: link cooked
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 0.0
+label: link cooked
+value: 0.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.26
+label: link cooked
+value: 0.22
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: link cooked
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 1.1
+label: link cooked
+value: 0.9
+
+
+name: Vitamin D
+unit: IU
+value: 44.0
+label: link cooked
+value: 37.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 3.4
+label: link cooked
+value: 2.9
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 9.998
+label: link cooked
+value: 8.498
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: link cooked
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: link cooked
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: link cooked
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.013
+label: link cooked
+value: 0.011
+
+
+name: 12:0
+unit: g
+value: 0.013
+label: link cooked
+value: 0.011
+
+
+name: 14:0
+unit: g
+value: 0.335
+label: link cooked
+value: 0.285
+
+
+name: 16:0
+unit: g
+value: 6.207
+label: link cooked
+value: 5.276
+
+
+name: 18:0
+unit: g
+value: 3.429
+label: link cooked
+value: 2.915
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 14.692
+label: link cooked
+value: 12.488
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.866
+label: link cooked
+value: 0.736
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 13.561
+label: link cooked
+value: 11.527
+
+
+name: 20:1
+unit: g
+value: 0.265
+label: link cooked
+value: 0.225
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: link cooked
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 2.632
+label: link cooked
+value: 2.237
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 2.419
+label: link cooked
+value: 2.056
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.099
+label: link cooked
+value: 0.084
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: link cooked
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.114
+label: link cooked
+value: 0.097
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: link cooked
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: link cooked
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: link cooked
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 74.0
+label: link cooked
+value: 63.0
+
+
+name: Phytosterols
+unit: mg
+value: 0.0
+label: link cooked
+value: 0.0
+
+
+name: Tryptophan
+unit: g
+value: 0.347
+label: link cooked
+value: 0.295
+
+
+name: Threonine
+unit: g
+value: 1.249
+label: link cooked
+value: 1.062
+
+
+name: Isoleucine
+unit: g
+value: 1.281
+label: link cooked
+value: 1.089
+
+
+name: Leucine
+unit: g
+value: 2.195
+label: link cooked
+value: 1.866
+
+
+name: Lysine
+unit: g
+value: 2.46
+label: link cooked
+value: 2.091
+
+
+name: Methionine
+unit: g
+value: 0.724
+label: link cooked
+value: 0.615
+
+
+name: Cystine
+unit: g
+value: 0.349
+label: link cooked
+value: 0.297
+
+
+name: Phenylalanine
+unit: g
+value: 1.092
+label: link cooked
+value: 0.928
+
+
+name: Tyrosine
+unit: g
+value: 0.953
+label: link cooked
+value: 0.81
+
+
+name: Valine
+unit: g
+value: 1.484
+label: link cooked
+value: 1.261
+
+
+name: Arginine
+unit: g
+value: 1.7
+label: link cooked
+value: 1.445
+
+
+name: Histidine
+unit: g
+value: 1.093
+label: link cooked
+value: 0.929
+
+
+name: Alanine
+unit: g
+value: 1.594
+label: link cooked
+value: 1.355
+
+
+name: Aspartic acid
+unit: g
+value: 2.537
+label: link cooked
+value: 2.156
+
+
+name: Glutamic acid
+unit: g
+value: 4.282
+label: link cooked
+value: 3.64
+
+
+name: Glycine
+unit: g
+value: 1.299
+label: link cooked
+value: 1.104
+
+
+name: Proline
+unit: g
+value: 1.099
+label: link cooked
+value: 0.934
+
+
+name: Serine
+unit: g
+value: 1.13
+label: link cooked
+value: 0.96
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: link cooked
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: link cooked
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: link cooked
+value: 0.0
+
+

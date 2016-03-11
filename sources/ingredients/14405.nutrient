@@ -1,0 +1,412 @@
+ndbno: 14405
+
+
+name: Beverages, fruit punch juice drink, frozen concentrate
+
+
+name: Water
+unit: g
+value: 55.5
+label: fl oz
+value: 19.54
+label: can (12 fl oz)
+value: 234.76
+
+
+name: Energy
+unit: kcal
+value: 175.0
+label: fl oz
+value: 62.0
+label: can (12 fl oz)
+value: 740.0
+
+
+name: Energy
+unit: kJ
+value: 732.0
+label: fl oz
+value: 258.0
+label: can (12 fl oz)
+value: 3096.0
+
+
+name: Protein
+unit: g
+value: 0.3
+label: fl oz
+value: 0.11
+label: can (12 fl oz)
+value: 1.27
+
+
+name: Total lipid (fat)
+unit: g
+value: 0.7
+label: fl oz
+value: 0.25
+label: can (12 fl oz)
+value: 2.96
+
+
+name: Ash
+unit: g
+value: 0.5
+label: fl oz
+value: 0.18
+label: can (12 fl oz)
+value: 2.12
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 43.1
+label: fl oz
+value: 15.17
+label: can (12 fl oz)
+value: 182.31
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.2
+label: fl oz
+value: 0.1
+label: can (12 fl oz)
+value: 0.8
+
+
+name: Calcium, Ca
+unit: mg
+value: 20.0
+label: fl oz
+value: 7.0
+label: can (12 fl oz)
+value: 85.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.8
+label: fl oz
+value: 0.28
+label: can (12 fl oz)
+value: 3.38
+
+
+name: Magnesium, Mg
+unit: mg
+value: 11.0
+label: fl oz
+value: 4.0
+label: can (12 fl oz)
+value: 47.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 12.0
+label: fl oz
+value: 4.0
+label: can (12 fl oz)
+value: 51.0
+
+
+name: Potassium, K
+unit: mg
+value: 270.0
+label: fl oz
+value: 95.0
+label: can (12 fl oz)
+value: 1142.0
+
+
+name: Sodium, Na
+unit: mg
+value: 10.0
+label: fl oz
+value: 4.0
+label: can (12 fl oz)
+value: 42.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.7
+label: fl oz
+value: 0.25
+label: can (12 fl oz)
+value: 2.96
+
+
+name: Copper, Cu
+unit: mg
+value: 0.07
+label: fl oz
+value: 0.025
+label: can (12 fl oz)
+value: 0.296
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.21
+label: fl oz
+value: 0.074
+label: can (12 fl oz)
+value: 0.888
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 0.0
+label: fl oz
+value: 0.0
+label: can (12 fl oz)
+value: 0.0
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 19.7
+label: fl oz
+value: 6.9
+label: can (12 fl oz)
+value: 83.3
+
+
+name: Thiamin
+unit: mg
+value: 0.004
+label: fl oz
+value: 0.001
+label: can (12 fl oz)
+value: 0.017
+
+
+name: Riboflavin
+unit: mg
+value: 0.23
+label: fl oz
+value: 0.081
+label: can (12 fl oz)
+value: 0.973
+
+
+name: Niacin
+unit: mg
+value: 0.208
+label: fl oz
+value: 0.073
+label: can (12 fl oz)
+value: 0.88
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.103
+label: fl oz
+value: 0.036
+label: can (12 fl oz)
+value: 0.436
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.045
+label: fl oz
+value: 0.016
+label: can (12 fl oz)
+value: 0.19
+
+
+name: Folate, total
+unit: \u00B5g
+value: 7.0
+label: fl oz
+value: 2.0
+label: can (12 fl oz)
+value: 30.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: fl oz
+value: 0.0
+label: can (12 fl oz)
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 7.0
+label: fl oz
+value: 2.0
+label: can (12 fl oz)
+value: 30.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 7.0
+label: fl oz
+value: 2.0
+label: can (12 fl oz)
+value: 30.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: fl oz
+value: 0.0
+label: can (12 fl oz)
+value: 0.0
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: fl oz
+value: 0.0
+label: can (12 fl oz)
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 1.0
+label: fl oz
+value: 0.0
+label: can (12 fl oz)
+value: 4.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: fl oz
+value: 0.0
+label: can (12 fl oz)
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 21.0
+label: fl oz
+value: 7.0
+label: can (12 fl oz)
+value: 89.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.087
+label: fl oz
+value: 0.031
+label: can (12 fl oz)
+value: 0.368
+
+
+name: 14:0
+unit: g
+value: 0.002
+label: fl oz
+value: 0.001
+label: can (12 fl oz)
+value: 0.008
+
+
+name: 16:0
+unit: g
+value: 0.079
+label: fl oz
+value: 0.028
+label: can (12 fl oz)
+value: 0.334
+
+
+name: 18:0
+unit: g
+value: 0.004
+label: fl oz
+value: 0.001
+label: can (12 fl oz)
+value: 0.017
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.086
+label: fl oz
+value: 0.03
+label: can (12 fl oz)
+value: 0.364
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.007
+label: fl oz
+value: 0.002
+label: can (12 fl oz)
+value: 0.03
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.047
+label: fl oz
+value: 0.017
+label: can (12 fl oz)
+value: 0.199
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.173
+label: fl oz
+value: 0.061
+label: can (12 fl oz)
+value: 0.732
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.126
+label: fl oz
+value: 0.044
+label: can (12 fl oz)
+value: 0.533
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.047
+label: fl oz
+value: 0.017
+label: can (12 fl oz)
+value: 0.199
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: can (12 fl oz)
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: fl oz
+value: 0.0
+label: can (12 fl oz)
+value: 0.0
+
+
+

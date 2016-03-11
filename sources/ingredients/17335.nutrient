@@ -1,0 +1,789 @@
+ndbno: 17335
+
+
+name: Game meat, bison, ribeye, separable lean only, 1\ steak, cooked, broiled
+
+
+name: Water
+unit: g
+value: 64.48
+label: serving ( 3 oz )
+value: 54.81
+label: steak ( yield from 232.8 g raw meat )
+value: 115.42
+
+
+name: Energy
+unit: kcal
+value: 177.0
+label: serving ( 3 oz )
+value: 150.0
+label: steak ( yield from 232.8 g raw meat )
+value: 317.0
+
+
+name: Energy
+unit: kJ
+value: 740.0
+label: serving ( 3 oz )
+value: 629.0
+label: steak ( yield from 232.8 g raw meat )
+value: 1325.0
+
+
+name: Protein
+unit: g
+value: 29.45
+label: serving ( 3 oz )
+value: 25.03
+label: steak ( yield from 232.8 g raw meat )
+value: 52.72
+
+
+name: Total lipid (fat)
+unit: g
+value: 5.67
+label: serving ( 3 oz )
+value: 4.82
+label: steak ( yield from 232.8 g raw meat )
+value: 10.15
+
+
+name: Ash
+unit: g
+value: 1.02
+label: serving ( 3 oz )
+value: 0.87
+label: steak ( yield from 232.8 g raw meat )
+value: 1.83
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: steak ( yield from 232.8 g raw meat )
+value: 0.0
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: steak ( yield from 232.8 g raw meat )
+value: 0.0
+
+
+name: Sugars, total
+unit: g
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: steak ( yield from 232.8 g raw meat )
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 7.0
+label: serving ( 3 oz )
+value: 6.0
+label: steak ( yield from 232.8 g raw meat )
+value: 13.0
+
+
+name: Iron, Fe
+unit: mg
+value: 2.88
+label: serving ( 3 oz )
+value: 2.45
+label: steak ( yield from 232.8 g raw meat )
+value: 5.16
+
+
+name: Magnesium, Mg
+unit: mg
+value: 26.0
+label: serving ( 3 oz )
+value: 22.0
+label: steak ( yield from 232.8 g raw meat )
+value: 47.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 238.0
+label: serving ( 3 oz )
+value: 202.0
+label: steak ( yield from 232.8 g raw meat )
+value: 426.0
+
+
+name: Potassium, K
+unit: mg
+value: 371.0
+label: serving ( 3 oz )
+value: 315.0
+label: steak ( yield from 232.8 g raw meat )
+value: 664.0
+
+
+name: Sodium, Na
+unit: mg
+value: 52.0
+label: serving ( 3 oz )
+value: 44.0
+label: steak ( yield from 232.8 g raw meat )
+value: 93.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 5.01
+label: serving ( 3 oz )
+value: 4.26
+label: steak ( yield from 232.8 g raw meat )
+value: 8.97
+
+
+name: Copper, Cu
+unit: mg
+value: 0.201
+label: serving ( 3 oz )
+value: 0.171
+label: steak ( yield from 232.8 g raw meat )
+value: 0.36
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.012
+label: serving ( 3 oz )
+value: 0.01
+label: steak ( yield from 232.8 g raw meat )
+value: 0.021
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 42.1
+label: serving ( 3 oz )
+value: 35.8
+label: steak ( yield from 232.8 g raw meat )
+value: 75.4
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: steak ( yield from 232.8 g raw meat )
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.137
+label: serving ( 3 oz )
+value: 0.116
+label: steak ( yield from 232.8 g raw meat )
+value: 0.245
+
+
+name: Riboflavin
+unit: mg
+value: 0.307
+label: serving ( 3 oz )
+value: 0.261
+label: steak ( yield from 232.8 g raw meat )
+value: 0.55
+
+
+name: Niacin
+unit: mg
+value: 6.687
+label: serving ( 3 oz )
+value: 5.684
+label: steak ( yield from 232.8 g raw meat )
+value: 11.97
+
+
+name: Pantothenic acid
+unit: mg
+value: 1.01
+label: serving ( 3 oz )
+value: 0.858
+label: steak ( yield from 232.8 g raw meat )
+value: 1.808
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.475
+label: serving ( 3 oz )
+value: 0.404
+label: steak ( yield from 232.8 g raw meat )
+value: 0.85
+
+
+name: Folate, total
+unit: \u00B5g
+value: 18.0
+label: serving ( 3 oz )
+value: 15.0
+label: steak ( yield from 232.8 g raw meat )
+value: 32.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: steak ( yield from 232.8 g raw meat )
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 18.0
+label: serving ( 3 oz )
+value: 15.0
+label: steak ( yield from 232.8 g raw meat )
+value: 32.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 18.0
+label: serving ( 3 oz )
+value: 15.0
+label: steak ( yield from 232.8 g raw meat )
+value: 32.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 1.29
+label: serving ( 3 oz )
+value: 1.1
+label: steak ( yield from 232.8 g raw meat )
+value: 2.31
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: steak ( yield from 232.8 g raw meat )
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: steak ( yield from 232.8 g raw meat )
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: steak ( yield from 232.8 g raw meat )
+value: 0.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: steak ( yield from 232.8 g raw meat )
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: steak ( yield from 232.8 g raw meat )
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: steak ( yield from 232.8 g raw meat )
+value: 0.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: steak ( yield from 232.8 g raw meat )
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: steak ( yield from 232.8 g raw meat )
+value: 0.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.21
+label: serving ( 3 oz )
+value: 0.18
+label: steak ( yield from 232.8 g raw meat )
+value: 0.38
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 2.419
+label: serving ( 3 oz )
+value: 2.056
+label: steak ( yield from 232.8 g raw meat )
+value: 4.33
+
+
+name: 8:0
+unit: g
+value: 0.002
+label: serving ( 3 oz )
+value: 0.002
+label: steak ( yield from 232.8 g raw meat )
+value: 0.004
+
+
+name: 10:0
+unit: g
+value: 0.002
+label: serving ( 3 oz )
+value: 0.002
+label: steak ( yield from 232.8 g raw meat )
+value: 0.004
+
+
+name: 12:0
+unit: g
+value: 0.002
+label: serving ( 3 oz )
+value: 0.002
+label: steak ( yield from 232.8 g raw meat )
+value: 0.004
+
+
+name: 14:0
+unit: g
+value: 0.102
+label: serving ( 3 oz )
+value: 0.087
+label: steak ( yield from 232.8 g raw meat )
+value: 0.183
+
+
+name: 15:0
+unit: g
+value: 0.03
+label: serving ( 3 oz )
+value: 0.026
+label: steak ( yield from 232.8 g raw meat )
+value: 0.054
+
+
+name: 16:0
+unit: g
+value: 1.02
+label: serving ( 3 oz )
+value: 0.867
+label: steak ( yield from 232.8 g raw meat )
+value: 1.826
+
+
+name: 17:0
+unit: g
+value: 0.086
+label: serving ( 3 oz )
+value: 0.073
+label: steak ( yield from 232.8 g raw meat )
+value: 0.154
+
+
+name: 18:0
+unit: g
+value: 1.164
+label: serving ( 3 oz )
+value: 0.989
+label: steak ( yield from 232.8 g raw meat )
+value: 2.084
+
+
+name: 20:0
+unit: g
+value: 0.011
+label: serving ( 3 oz )
+value: 0.009
+label: steak ( yield from 232.8 g raw meat )
+value: 0.02
+
+
+name: 22:0
+unit: g
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: steak ( yield from 232.8 g raw meat )
+value: 0.0
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 2.213
+label: serving ( 3 oz )
+value: 1.881
+label: steak ( yield from 232.8 g raw meat )
+value: 3.961
+
+
+name: 14:1
+unit: g
+value: 0.008
+label: serving ( 3 oz )
+value: 0.007
+label: steak ( yield from 232.8 g raw meat )
+value: 0.014
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: steak ( yield from 232.8 g raw meat )
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.113
+label: serving ( 3 oz )
+value: 0.096
+label: steak ( yield from 232.8 g raw meat )
+value: 0.202
+
+
+name: 17:1
+unit: g
+value: 0.041
+label: serving ( 3 oz )
+value: 0.035
+label: steak ( yield from 232.8 g raw meat )
+value: 0.073
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 2.033
+label: serving ( 3 oz )
+value: 1.728
+label: steak ( yield from 232.8 g raw meat )
+value: 3.639
+
+
+name: 20:1
+unit: g
+value: 0.018
+label: serving ( 3 oz )
+value: 0.015
+label: steak ( yield from 232.8 g raw meat )
+value: 0.032
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.266
+label: serving ( 3 oz )
+value: 0.226
+label: steak ( yield from 232.8 g raw meat )
+value: 0.476
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.205
+label: serving ( 3 oz )
+value: 0.174
+label: steak ( yield from 232.8 g raw meat )
+value: 0.367
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.03
+label: serving ( 3 oz )
+value: 0.026
+label: steak ( yield from 232.8 g raw meat )
+value: 0.054
+
+
+name: 18:3 n-6 c,c,c
+unit: g
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: steak ( yield from 232.8 g raw meat )
+value: 0.0
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: steak ( yield from 232.8 g raw meat )
+value: 0.0
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.002
+label: serving ( 3 oz )
+value: 0.002
+label: steak ( yield from 232.8 g raw meat )
+value: 0.004
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.029
+label: serving ( 3 oz )
+value: 0.025
+label: steak ( yield from 232.8 g raw meat )
+value: 0.052
+
+
+name: Cholesterol
+unit: mg
+value: 79.0
+label: serving ( 3 oz )
+value: 67.0
+label: steak ( yield from 232.8 g raw meat )
+value: 141.0
+
+
+name: Tryptophan
+unit: g
+value: 0.223
+label: serving ( 3 oz )
+value: 0.19
+label: steak ( yield from 232.8 g raw meat )
+value: 0.399
+
+
+name: Threonine
+unit: g
+value: 1.336
+label: serving ( 3 oz )
+value: 1.136
+label: steak ( yield from 232.8 g raw meat )
+value: 2.391
+
+
+name: Isoleucine
+unit: g
+value: 1.422
+label: serving ( 3 oz )
+value: 1.209
+label: steak ( yield from 232.8 g raw meat )
+value: 2.545
+
+
+name: Leucine
+unit: g
+value: 2.527
+label: serving ( 3 oz )
+value: 2.148
+label: steak ( yield from 232.8 g raw meat )
+value: 4.523
+
+
+name: Lysine
+unit: g
+value: 2.732
+label: serving ( 3 oz )
+value: 2.322
+label: steak ( yield from 232.8 g raw meat )
+value: 4.89
+
+
+name: Methionine
+unit: g
+value: 0.796
+label: serving ( 3 oz )
+value: 0.677
+label: steak ( yield from 232.8 g raw meat )
+value: 1.425
+
+
+name: Cystine
+unit: g
+value: 0.351
+label: serving ( 3 oz )
+value: 0.298
+label: steak ( yield from 232.8 g raw meat )
+value: 0.628
+
+
+name: Phenylalanine
+unit: g
+value: 1.25
+label: serving ( 3 oz )
+value: 1.062
+label: steak ( yield from 232.8 g raw meat )
+value: 2.238
+
+
+name: Tyrosine
+unit: g
+value: 1.002
+label: serving ( 3 oz )
+value: 0.852
+label: steak ( yield from 232.8 g raw meat )
+value: 1.794
+
+
+name: Valine
+unit: g
+value: 1.584
+label: serving ( 3 oz )
+value: 1.346
+label: steak ( yield from 232.8 g raw meat )
+value: 2.835
+
+
+name: Arginine
+unit: g
+value: 2.005
+label: serving ( 3 oz )
+value: 1.704
+label: steak ( yield from 232.8 g raw meat )
+value: 3.589
+
+
+name: Histidine
+unit: g
+value: 1.079
+label: serving ( 3 oz )
+value: 0.917
+label: steak ( yield from 232.8 g raw meat )
+value: 1.931
+
+
+name: Alanine
+unit: g
+value: 1.962
+label: serving ( 3 oz )
+value: 1.668
+label: steak ( yield from 232.8 g raw meat )
+value: 3.512
+
+
+name: Aspartic acid
+unit: g
+value: 2.878
+label: serving ( 3 oz )
+value: 2.446
+label: steak ( yield from 232.8 g raw meat )
+value: 5.152
+
+
+name: Glutamic acid
+unit: g
+value: 4.797
+label: serving ( 3 oz )
+value: 4.077
+label: steak ( yield from 232.8 g raw meat )
+value: 8.587
+
+
+name: Glycine
+unit: g
+value: 1.911
+label: serving ( 3 oz )
+value: 1.624
+label: steak ( yield from 232.8 g raw meat )
+value: 3.421
+
+
+name: Proline
+unit: g
+value: 1.508
+label: serving ( 3 oz )
+value: 1.282
+label: steak ( yield from 232.8 g raw meat )
+value: 2.699
+
+
+name: Serine
+unit: g
+value: 1.225
+label: serving ( 3 oz )
+value: 1.041
+label: steak ( yield from 232.8 g raw meat )
+value: 2.193
+
+
+name: Hydroxyproline
+unit: g
+value: 0.368
+label: serving ( 3 oz )
+value: 0.313
+label: steak ( yield from 232.8 g raw meat )
+value: 0.659
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: steak ( yield from 232.8 g raw meat )
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: steak ( yield from 232.8 g raw meat )
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: steak ( yield from 232.8 g raw meat )
+value: 0.0
+
+

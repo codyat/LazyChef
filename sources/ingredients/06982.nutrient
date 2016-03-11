@@ -1,0 +1,852 @@
+ndbno: 06982
+
+
+name: Soup, ramen noodle, beef flavor, dry
+
+
+name: Water
+unit: g
+value: 6.56
+label: package without flavor packet
+value: 5.38
+label: packet
+value: 0.37
+
+
+name: Energy
+unit: kcal
+value: 441.0
+label: package without flavor packet
+value: 362.0
+label: packet
+value: 25.0
+
+
+name: Energy
+unit: kJ
+value: 1846.0
+label: package without flavor packet
+value: 1514.0
+label: packet
+value: 103.0
+
+
+name: Protein
+unit: g
+value: 10.06
+label: package without flavor packet
+value: 8.25
+label: packet
+value: 0.56
+
+
+name: Total lipid (fat)
+unit: g
+value: 17.73
+label: package without flavor packet
+value: 14.54
+label: packet
+value: 0.99
+
+
+name: Ash
+unit: g
+value: 5.31
+label: package without flavor packet
+value: 4.35
+label: packet
+value: 0.3
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 60.34
+label: package without flavor packet
+value: 49.48
+label: packet
+value: 3.38
+
+
+name: Fiber, total dietary
+unit: g
+value: 3.0
+label: package without flavor packet
+value: 2.5
+label: packet
+value: 0.2
+
+
+name: Sugars, total
+unit: g
+value: 1.99
+label: package without flavor packet
+value: 1.63
+label: packet
+value: 0.11
+
+
+name: Sucrose
+unit: g
+value: 1.4
+label: package without flavor packet
+value: 1.15
+label: packet
+value: 0.08
+
+
+name: Glucose (dextrose)
+unit: g
+value: 0.0
+label: package without flavor packet
+value: 0.0
+label: packet
+value: 0.0
+
+
+name: Fructose
+unit: g
+value: 0.0
+label: package without flavor packet
+value: 0.0
+label: packet
+value: 0.0
+
+
+name: Lactose
+unit: g
+value: 0.0
+label: package without flavor packet
+value: 0.0
+label: packet
+value: 0.0
+
+
+name: Maltose
+unit: g
+value: 0.59
+label: package without flavor packet
+value: 0.48
+label: packet
+value: 0.03
+
+
+name: Galactose
+unit: g
+value: 0.0
+label: package without flavor packet
+value: 0.0
+label: packet
+value: 0.0
+
+
+name: Starch
+unit: g
+value: 56.06
+label: package without flavor packet
+value: 45.97
+label: packet
+value: 3.14
+
+
+name: Calcium, Ca
+unit: mg
+value: 21.0
+label: package without flavor packet
+value: 17.0
+label: packet
+value: 1.0
+
+
+name: Iron, Fe
+unit: mg
+value: 3.93
+label: package without flavor packet
+value: 3.22
+label: packet
+value: 0.22
+
+
+name: Magnesium, Mg
+unit: mg
+value: 25.0
+label: package without flavor packet
+value: 20.0
+label: packet
+value: 1.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 115.0
+label: package without flavor packet
+value: 94.0
+label: packet
+value: 6.0
+
+
+name: Potassium, K
+unit: mg
+value: 177.0
+label: package without flavor packet
+value: 145.0
+label: packet
+value: 10.0
+
+
+name: Sodium, Na
+unit: mg
+value: 1727.0
+label: package without flavor packet
+value: 1416.0
+label: packet
+value: 97.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.61
+label: package without flavor packet
+value: 0.5
+label: packet
+value: 0.03
+
+
+name: Copper, Cu
+unit: mg
+value: 0.122
+label: package without flavor packet
+value: 0.1
+label: packet
+value: 0.007
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.644
+label: package without flavor packet
+value: 0.528
+label: packet
+value: 0.036
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 19.6
+label: package without flavor packet
+value: 16.1
+label: packet
+value: 1.1
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.6
+label: package without flavor packet
+value: 0.5
+label: packet
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.479
+label: package without flavor packet
+value: 0.393
+label: packet
+value: 0.027
+
+
+name: Riboflavin
+unit: mg
+value: 0.258
+label: package without flavor packet
+value: 0.212
+label: packet
+value: 0.014
+
+
+name: Niacin
+unit: mg
+value: 5.139
+label: package without flavor packet
+value: 4.214
+label: packet
+value: 0.288
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.448
+label: package without flavor packet
+value: 0.367
+label: packet
+value: 0.025
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.037
+label: package without flavor packet
+value: 0.03
+label: packet
+value: 0.002
+
+
+name: Folate, total
+unit: \u00B5g
+value: 111.0
+label: package without flavor packet
+value: 91.0
+label: packet
+value: 6.0
+
+
+name: Choline, total
+unit: mg
+value: 5.3
+label: package without flavor packet
+value: 4.3
+label: packet
+value: 0.3
+
+
+name: Betaine
+unit: mg
+value: 19.2
+label: package without flavor packet
+value: 15.7
+label: packet
+value: 1.1
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: package without flavor packet
+value: 0.0
+label: packet
+value: 0.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 2.49
+label: package without flavor packet
+value: 2.04
+label: packet
+value: 0.14
+
+
+name: Tocopherol, beta
+unit: mg
+value: 0.21
+label: package without flavor packet
+value: 0.17
+label: packet
+value: 0.01
+
+
+name: Tocopherol, gamma
+unit: mg
+value: 0.11
+label: package without flavor packet
+value: 0.09
+label: packet
+value: 0.01
+
+
+name: Tocopherol, delta
+unit: mg
+value: 0.0
+label: package without flavor packet
+value: 0.0
+label: packet
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 9.0
+label: package without flavor packet
+value: 7.4
+label: packet
+value: 0.5
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 8.158
+label: package without flavor packet
+value: 6.69
+label: packet
+value: 0.457
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: package without flavor packet
+value: 0.0
+label: packet
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: package without flavor packet
+value: 0.0
+label: packet
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.005
+label: package without flavor packet
+value: 0.004
+label: packet
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.012
+label: package without flavor packet
+value: 0.01
+label: packet
+value: 0.001
+
+
+name: 12:0
+unit: g
+value: 0.055
+label: package without flavor packet
+value: 0.045
+label: packet
+value: 0.003
+
+
+name: 14:0
+unit: g
+value: 0.178
+label: package without flavor packet
+value: 0.146
+label: packet
+value: 0.01
+
+
+name: 15:0
+unit: g
+value: 0.01
+label: package without flavor packet
+value: 0.008
+label: packet
+value: 0.001
+
+
+name: 16:0
+unit: g
+value: 7.071
+label: package without flavor packet
+value: 5.798
+label: packet
+value: 0.396
+
+
+name: 17:0
+unit: g
+value: 0.018
+label: package without flavor packet
+value: 0.015
+label: packet
+value: 0.001
+
+
+name: 18:0
+unit: g
+value: 0.721
+label: package without flavor packet
+value: 0.591
+label: packet
+value: 0.04
+
+
+name: 20:0
+unit: g
+value: 0.059
+label: package without flavor packet
+value: 0.048
+label: packet
+value: 0.003
+
+
+name: 22:0
+unit: g
+value: 0.013
+label: package without flavor packet
+value: 0.011
+label: packet
+value: 0.001
+
+
+name: 24:0
+unit: g
+value: 0.016
+label: package without flavor packet
+value: 0.013
+label: packet
+value: 0.001
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 6.189
+label: package without flavor packet
+value: 5.075
+label: packet
+value: 0.347
+
+
+name: 14:1
+unit: g
+value: 0.0
+label: package without flavor packet
+value: 0.0
+label: packet
+value: 0.0
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: package without flavor packet
+value: 0.0
+label: packet
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.027
+label: package without flavor packet
+value: 0.022
+label: packet
+value: 0.002
+
+
+name: 16:1 c
+unit: g
+value: 0.027
+label: package without flavor packet
+value: 0.022
+label: packet
+value: 0.002
+
+
+name: 16:1 t
+unit: g
+value: 0.0
+label: package without flavor packet
+value: 0.0
+label: packet
+value: 0.0
+
+
+name: 17:1
+unit: g
+value: 0.006
+label: package without flavor packet
+value: 0.005
+label: packet
+value: 0.0
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 6.124
+label: package without flavor packet
+value: 5.022
+label: packet
+value: 0.343
+
+
+name: 18:1 c
+unit: g
+value: 6.1
+label: package without flavor packet
+value: 5.002
+label: packet
+value: 0.342
+
+
+name: 18:1 t
+unit: g
+value: 0.023
+label: package without flavor packet
+value: 0.019
+label: packet
+value: 0.001
+
+
+name: 20:1
+unit: g
+value: 0.032
+label: package without flavor packet
+value: 0.026
+label: packet
+value: 0.002
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: package without flavor packet
+value: 0.0
+label: packet
+value: 0.0
+
+
+name: 22:1 c
+unit: g
+value: 0.0
+label: package without flavor packet
+value: 0.0
+label: packet
+value: 0.0
+
+
+name: 22:1 t
+unit: g
+value: 0.0
+label: package without flavor packet
+value: 0.0
+label: packet
+value: 0.0
+
+
+name: 24:1 c
+unit: g
+value: 0.0
+label: package without flavor packet
+value: 0.0
+label: packet
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 2.191
+label: package without flavor packet
+value: 1.797
+label: packet
+value: 0.123
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 2.121
+label: package without flavor packet
+value: 1.739
+label: packet
+value: 0.119
+
+
+name: 18:2 n-6 c,c
+unit: g
+value: 2.07
+label: package without flavor packet
+value: 1.697
+label: packet
+value: 0.116
+
+
+name: 18:2 CLAs
+unit: g
+value: 0.006
+label: package without flavor packet
+value: 0.005
+label: packet
+value: 0.0
+
+
+name: 18:2 t not further defined
+unit: g
+value: 0.046
+label: package without flavor packet
+value: 0.038
+label: packet
+value: 0.003
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.062
+label: package without flavor packet
+value: 0.051
+label: packet
+value: 0.003
+
+
+name: 18:3 n-3 c,c,c (ALA)
+unit: g
+value: 0.055
+label: package without flavor packet
+value: 0.045
+label: packet
+value: 0.003
+
+
+name: 18:3 n-6 c,c,c
+unit: g
+value: 0.007
+label: package without flavor packet
+value: 0.006
+label: packet
+value: 0.0
+
+
+name: 18:3i
+unit: g
+value: 0.0
+label: package without flavor packet
+value: 0.0
+label: packet
+value: 0.0
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: package without flavor packet
+value: 0.0
+label: packet
+value: 0.0
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.002
+label: package without flavor packet
+value: 0.002
+label: packet
+value: 0.0
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.002
+label: package without flavor packet
+value: 0.002
+label: packet
+value: 0.0
+
+
+name: 20:3 n-6
+unit: g
+value: 0.0
+label: package without flavor packet
+value: 0.0
+label: packet
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.004
+label: package without flavor packet
+value: 0.003
+label: packet
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: package without flavor packet
+value: 0.0
+label: packet
+value: 0.0
+
+
+name: 22:4
+unit: g
+value: 0.001
+label: package without flavor packet
+value: 0.001
+label: packet
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: package without flavor packet
+value: 0.0
+label: packet
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: package without flavor packet
+value: 0.0
+label: packet
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.069
+label: package without flavor packet
+value: 0.057
+label: packet
+value: 0.004
+
+
+name: Fatty acids, total trans-monoenoic
+unit: g
+value: 0.023
+label: package without flavor packet
+value: 0.019
+label: packet
+value: 0.001
+
+
+name: Daidzein
+unit: mg
+value: 0.73
+label: package without flavor packet
+value: 0.6
+label: packet
+value: 0.04
+
+
+name: Genistein
+unit: mg
+value: 0.43
+label: package without flavor packet
+value: 0.36
+label: packet
+value: 0.02
+
+
+name: Glycitein
+unit: mg
+value: 0.07
+label: package without flavor packet
+value: 0.05
+label: packet
+value: 0.0
+
+
+name: Total isoflavones
+unit: mg
+value: 1.23
+label: package without flavor packet
+value: 1.01
+label: packet
+value: 0.07
+
+

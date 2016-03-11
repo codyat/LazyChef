@@ -1,0 +1,1410 @@
+ndbno: 21026
+
+
+name: Fast foods, potatoes, hash browns, round pieces or patty
+
+
+name: Water
+unit: g
+value: 49.27
+label: round piece
+value: 2.71
+label: patty
+value: 26.11
+label: serving 14 round pieces
+value: 37.94
+label: serving 29 round pieces
+value: 78.83
+
+
+name: Energy
+unit: kcal
+value: 272.0
+label: round piece
+value: 15.0
+label: patty
+value: 144.0
+label: serving 14 round pieces
+value: 209.0
+label: serving 29 round pieces
+value: 435.0
+
+
+name: Energy
+unit: kJ
+value: 1140.0
+label: round piece
+value: 63.0
+label: patty
+value: 604.0
+label: serving 14 round pieces
+value: 878.0
+label: serving 29 round pieces
+value: 1824.0
+
+
+name: Protein
+unit: g
+value: 2.58
+label: round piece
+value: 0.14
+label: patty
+value: 1.37
+label: serving 14 round pieces
+value: 1.99
+label: serving 29 round pieces
+value: 4.13
+
+
+name: Total lipid (fat)
+unit: g
+value: 17.04
+label: round piece
+value: 0.94
+label: patty
+value: 9.03
+label: serving 14 round pieces
+value: 13.12
+label: serving 29 round pieces
+value: 27.26
+
+
+name: Ash
+unit: g
+value: 2.23
+label: round piece
+value: 0.12
+label: patty
+value: 1.18
+label: serving 14 round pieces
+value: 1.72
+label: serving 29 round pieces
+value: 3.57
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 28.88
+label: round piece
+value: 1.59
+label: patty
+value: 15.31
+label: serving 14 round pieces
+value: 22.24
+label: serving 29 round pieces
+value: 46.21
+
+
+name: Fiber, total dietary
+unit: g
+value: 2.7
+label: round piece
+value: 0.1
+label: patty
+value: 1.4
+label: serving 14 round pieces
+value: 2.1
+label: serving 29 round pieces
+value: 4.3
+
+
+name: Sugars, total
+unit: g
+value: 0.56
+label: round piece
+value: 0.03
+label: patty
+value: 0.3
+label: serving 14 round pieces
+value: 0.43
+label: serving 29 round pieces
+value: 0.9
+
+
+name: Sucrose
+unit: g
+value: 0.0
+label: round piece
+value: 0.0
+label: patty
+value: 0.0
+label: serving 14 round pieces
+value: 0.0
+label: serving 29 round pieces
+value: 0.0
+
+
+name: Glucose (dextrose)
+unit: g
+value: 0.31
+label: round piece
+value: 0.02
+label: patty
+value: 0.16
+label: serving 14 round pieces
+value: 0.24
+label: serving 29 round pieces
+value: 0.5
+
+
+name: Fructose
+unit: g
+value: 0.24
+label: round piece
+value: 0.01
+label: patty
+value: 0.13
+label: serving 14 round pieces
+value: 0.18
+label: serving 29 round pieces
+value: 0.38
+
+
+name: Lactose
+unit: g
+value: 0.0
+label: round piece
+value: 0.0
+label: patty
+value: 0.0
+label: serving 14 round pieces
+value: 0.0
+label: serving 29 round pieces
+value: 0.0
+
+
+name: Maltose
+unit: g
+value: 0.0
+label: round piece
+value: 0.0
+label: patty
+value: 0.0
+label: serving 14 round pieces
+value: 0.0
+label: serving 29 round pieces
+value: 0.0
+
+
+name: Galactose
+unit: g
+value: 0.0
+label: round piece
+value: 0.0
+label: patty
+value: 0.0
+label: serving 14 round pieces
+value: 0.0
+label: serving 29 round pieces
+value: 0.0
+
+
+name: Starch
+unit: g
+value: 25.74
+label: round piece
+value: 1.42
+label: patty
+value: 13.64
+label: serving 14 round pieces
+value: 19.82
+label: serving 29 round pieces
+value: 41.18
+
+
+name: Calcium, Ca
+unit: mg
+value: 19.0
+label: round piece
+value: 1.0
+label: patty
+value: 10.0
+label: serving 14 round pieces
+value: 15.0
+label: serving 29 round pieces
+value: 30.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.6
+label: round piece
+value: 0.03
+label: patty
+value: 0.32
+label: serving 14 round pieces
+value: 0.46
+label: serving 29 round pieces
+value: 0.96
+
+
+name: Magnesium, Mg
+unit: mg
+value: 21.0
+label: round piece
+value: 1.0
+label: patty
+value: 11.0
+label: serving 14 round pieces
+value: 16.0
+label: serving 29 round pieces
+value: 34.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 98.0
+label: round piece
+value: 5.0
+label: patty
+value: 52.0
+label: serving 14 round pieces
+value: 75.0
+label: serving 29 round pieces
+value: 157.0
+
+
+name: Potassium, K
+unit: mg
+value: 355.0
+label: round piece
+value: 20.0
+label: patty
+value: 188.0
+label: serving 14 round pieces
+value: 273.0
+label: serving 29 round pieces
+value: 568.0
+
+
+name: Sodium, Na
+unit: mg
+value: 566.0
+label: round piece
+value: 31.0
+label: patty
+value: 300.0
+label: serving 14 round pieces
+value: 436.0
+label: serving 29 round pieces
+value: 906.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.36
+label: round piece
+value: 0.02
+label: patty
+value: 0.19
+label: serving 14 round pieces
+value: 0.28
+label: serving 29 round pieces
+value: 0.58
+
+
+name: Copper, Cu
+unit: mg
+value: 0.1
+label: round piece
+value: 0.006
+label: patty
+value: 0.053
+label: serving 14 round pieces
+value: 0.077
+label: serving 29 round pieces
+value: 0.16
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.158
+label: round piece
+value: 0.009
+label: patty
+value: 0.084
+label: serving 14 round pieces
+value: 0.122
+label: serving 29 round pieces
+value: 0.253
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 0.4
+label: round piece
+value: 0.0
+label: patty
+value: 0.2
+label: serving 14 round pieces
+value: 0.3
+label: serving 29 round pieces
+value: 0.6
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 5.4
+label: round piece
+value: 0.3
+label: patty
+value: 2.9
+label: serving 14 round pieces
+value: 4.2
+label: serving 29 round pieces
+value: 8.6
+
+
+name: Thiamin
+unit: mg
+value: 0.137
+label: round piece
+value: 0.008
+label: patty
+value: 0.073
+label: serving 14 round pieces
+value: 0.105
+label: serving 29 round pieces
+value: 0.219
+
+
+name: Riboflavin
+unit: mg
+value: 0.038
+label: round piece
+value: 0.002
+label: patty
+value: 0.02
+label: serving 14 round pieces
+value: 0.029
+label: serving 29 round pieces
+value: 0.061
+
+
+name: Niacin
+unit: mg
+value: 1.838
+label: round piece
+value: 0.101
+label: patty
+value: 0.974
+label: serving 14 round pieces
+value: 1.415
+label: serving 29 round pieces
+value: 2.941
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.38
+label: round piece
+value: 0.021
+label: patty
+value: 0.201
+label: serving 14 round pieces
+value: 0.293
+label: serving 29 round pieces
+value: 0.608
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.186
+label: round piece
+value: 0.01
+label: patty
+value: 0.099
+label: serving 14 round pieces
+value: 0.143
+label: serving 29 round pieces
+value: 0.298
+
+
+name: Folate, total
+unit: \u00B5g
+value: 12.0
+label: round piece
+value: 1.0
+label: patty
+value: 6.0
+label: serving 14 round pieces
+value: 9.0
+label: serving 29 round pieces
+value: 19.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: round piece
+value: 0.0
+label: patty
+value: 0.0
+label: serving 14 round pieces
+value: 0.0
+label: serving 29 round pieces
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 12.0
+label: round piece
+value: 1.0
+label: patty
+value: 6.0
+label: serving 14 round pieces
+value: 9.0
+label: serving 29 round pieces
+value: 19.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 12.0
+label: round piece
+value: 1.0
+label: patty
+value: 6.0
+label: serving 14 round pieces
+value: 9.0
+label: serving 29 round pieces
+value: 19.0
+
+
+name: Choline, total
+unit: mg
+value: 17.8
+label: round piece
+value: 1.0
+label: patty
+value: 9.4
+label: serving 14 round pieces
+value: 13.7
+label: serving 29 round pieces
+value: 28.5
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: round piece
+value: 0.0
+label: patty
+value: 0.0
+label: serving 14 round pieces
+value: 0.0
+label: serving 29 round pieces
+value: 0.0
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: round piece
+value: 0.0
+label: patty
+value: 0.0
+label: serving 14 round pieces
+value: 0.0
+label: serving 29 round pieces
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 0.0
+label: round piece
+value: 0.0
+label: patty
+value: 0.0
+label: serving 14 round pieces
+value: 0.0
+label: serving 29 round pieces
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: round piece
+value: 0.0
+label: patty
+value: 0.0
+label: serving 14 round pieces
+value: 0.0
+label: serving 29 round pieces
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 1.0
+label: round piece
+value: 0.0
+label: patty
+value: 1.0
+label: serving 14 round pieces
+value: 1.0
+label: serving 29 round pieces
+value: 2.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: round piece
+value: 0.0
+label: patty
+value: 0.0
+label: serving 14 round pieces
+value: 0.0
+label: serving 29 round pieces
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: round piece
+value: 0.0
+label: patty
+value: 0.0
+label: serving 14 round pieces
+value: 0.0
+label: serving 29 round pieces
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 2.0
+label: round piece
+value: 0.0
+label: patty
+value: 1.0
+label: serving 14 round pieces
+value: 2.0
+label: serving 29 round pieces
+value: 3.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: round piece
+value: 0.0
+label: patty
+value: 0.0
+label: serving 14 round pieces
+value: 0.0
+label: serving 29 round pieces
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 18.0
+label: round piece
+value: 1.0
+label: patty
+value: 10.0
+label: serving 14 round pieces
+value: 14.0
+label: serving 29 round pieces
+value: 29.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 2.62
+label: round piece
+value: 0.14
+label: patty
+value: 1.39
+label: serving 14 round pieces
+value: 2.02
+label: serving 29 round pieces
+value: 4.19
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: round piece
+value: 0.0
+label: patty
+value: 0.0
+label: serving 14 round pieces
+value: 0.0
+label: serving 29 round pieces
+value: 0.0
+
+
+name: Tocopherol, beta
+unit: mg
+value: 0.13
+label: round piece
+value: 0.01
+label: patty
+value: 0.07
+label: serving 14 round pieces
+value: 0.1
+label: serving 29 round pieces
+value: 0.21
+
+
+name: Tocopherol, gamma
+unit: mg
+value: 4.93
+label: round piece
+value: 0.27
+label: patty
+value: 2.61
+label: serving 14 round pieces
+value: 3.8
+label: serving 29 round pieces
+value: 7.89
+
+
+name: Tocopherol, delta
+unit: mg
+value: 0.65
+label: round piece
+value: 0.04
+label: patty
+value: 0.34
+label: serving 14 round pieces
+value: 0.5
+label: serving 29 round pieces
+value: 1.04
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: round piece
+value: 0.0
+label: patty
+value: 0.0
+label: serving 14 round pieces
+value: 0.0
+label: serving 29 round pieces
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: round piece
+value: 0.0
+label: patty
+value: 0.0
+label: serving 14 round pieces
+value: 0.0
+label: serving 29 round pieces
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 9.9
+label: round piece
+value: 0.5
+label: patty
+value: 5.2
+label: serving 14 round pieces
+value: 7.6
+label: serving 29 round pieces
+value: 15.8
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 2.54
+label: round piece
+value: 0.14
+label: patty
+value: 1.346
+label: serving 14 round pieces
+value: 1.956
+label: serving 29 round pieces
+value: 4.064
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: round piece
+value: 0.0
+label: patty
+value: 0.0
+label: serving 14 round pieces
+value: 0.0
+label: serving 29 round pieces
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: round piece
+value: 0.0
+label: patty
+value: 0.0
+label: serving 14 round pieces
+value: 0.0
+label: serving 29 round pieces
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.009
+label: round piece
+value: 0.0
+label: patty
+value: 0.005
+label: serving 14 round pieces
+value: 0.007
+label: serving 29 round pieces
+value: 0.014
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: round piece
+value: 0.0
+label: patty
+value: 0.0
+label: serving 14 round pieces
+value: 0.0
+label: serving 29 round pieces
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.005
+label: round piece
+value: 0.0
+label: patty
+value: 0.003
+label: serving 14 round pieces
+value: 0.004
+label: serving 29 round pieces
+value: 0.008
+
+
+name: 14:0
+unit: g
+value: 0.02
+label: round piece
+value: 0.001
+label: patty
+value: 0.011
+label: serving 14 round pieces
+value: 0.015
+label: serving 29 round pieces
+value: 0.032
+
+
+name: 15:0
+unit: g
+value: 0.006
+label: round piece
+value: 0.0
+label: patty
+value: 0.003
+label: serving 14 round pieces
+value: 0.005
+label: serving 29 round pieces
+value: 0.01
+
+
+name: 16:0
+unit: g
+value: 1.422
+label: round piece
+value: 0.078
+label: patty
+value: 0.754
+label: serving 14 round pieces
+value: 1.095
+label: serving 29 round pieces
+value: 2.275
+
+
+name: 17:0
+unit: g
+value: 0.011
+label: round piece
+value: 0.001
+label: patty
+value: 0.006
+label: serving 14 round pieces
+value: 0.008
+label: serving 29 round pieces
+value: 0.018
+
+
+name: 18:0
+unit: g
+value: 0.903
+label: round piece
+value: 0.05
+label: patty
+value: 0.479
+label: serving 14 round pieces
+value: 0.695
+label: serving 29 round pieces
+value: 1.445
+
+
+name: 20:0
+unit: g
+value: 0.089
+label: round piece
+value: 0.005
+label: patty
+value: 0.047
+label: serving 14 round pieces
+value: 0.069
+label: serving 29 round pieces
+value: 0.142
+
+
+name: 22:0
+unit: g
+value: 0.047
+label: round piece
+value: 0.003
+label: patty
+value: 0.025
+label: serving 14 round pieces
+value: 0.036
+label: serving 29 round pieces
+value: 0.075
+
+
+name: 24:0
+unit: g
+value: 0.027
+label: round piece
+value: 0.001
+label: patty
+value: 0.014
+label: serving 14 round pieces
+value: 0.021
+label: serving 29 round pieces
+value: 0.043
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 7.827
+label: round piece
+value: 0.43
+label: patty
+value: 4.148
+label: serving 14 round pieces
+value: 6.027
+label: serving 29 round pieces
+value: 12.523
+
+
+name: 14:1
+unit: g
+value: 0.0
+label: round piece
+value: 0.0
+label: patty
+value: 0.0
+label: serving 14 round pieces
+value: 0.0
+label: serving 29 round pieces
+value: 0.0
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: round piece
+value: 0.0
+label: patty
+value: 0.0
+label: serving 14 round pieces
+value: 0.0
+label: serving 29 round pieces
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.03
+label: round piece
+value: 0.002
+label: patty
+value: 0.016
+label: serving 14 round pieces
+value: 0.023
+label: serving 29 round pieces
+value: 0.048
+
+
+name: 16:1 c
+unit: g
+value: 0.03
+label: round piece
+value: 0.002
+label: patty
+value: 0.016
+label: serving 14 round pieces
+value: 0.023
+label: serving 29 round pieces
+value: 0.048
+
+
+name: 16:1 t
+unit: g
+value: 0.0
+label: round piece
+value: 0.0
+label: patty
+value: 0.0
+label: serving 14 round pieces
+value: 0.0
+label: serving 29 round pieces
+value: 0.0
+
+
+name: 17:1
+unit: g
+value: 0.008
+label: round piece
+value: 0.0
+label: patty
+value: 0.004
+label: serving 14 round pieces
+value: 0.006
+label: serving 29 round pieces
+value: 0.013
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 7.629
+label: round piece
+value: 0.42
+label: patty
+value: 4.043
+label: serving 14 round pieces
+value: 5.874
+label: serving 29 round pieces
+value: 12.206
+
+
+name: 18:1 c
+unit: g
+value: 7.605
+label: round piece
+value: 0.418
+label: patty
+value: 4.031
+label: serving 14 round pieces
+value: 5.856
+label: serving 29 round pieces
+value: 12.168
+
+
+name: 18:1 t
+unit: g
+value: 0.024
+label: round piece
+value: 0.001
+label: patty
+value: 0.013
+label: serving 14 round pieces
+value: 0.018
+label: serving 29 round pieces
+value: 0.038
+
+
+name: 20:1
+unit: g
+value: 0.143
+label: round piece
+value: 0.008
+label: patty
+value: 0.076
+label: serving 14 round pieces
+value: 0.11
+label: serving 29 round pieces
+value: 0.229
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.004
+label: round piece
+value: 0.0
+label: patty
+value: 0.002
+label: serving 14 round pieces
+value: 0.003
+label: serving 29 round pieces
+value: 0.006
+
+
+name: 22:1 c
+unit: g
+value: 0.004
+label: round piece
+value: 0.0
+label: patty
+value: 0.002
+label: serving 14 round pieces
+value: 0.003
+label: serving 29 round pieces
+value: 0.006
+
+
+name: 22:1 t
+unit: g
+value: 0.0
+label: round piece
+value: 0.0
+label: patty
+value: 0.0
+label: serving 14 round pieces
+value: 0.0
+label: serving 29 round pieces
+value: 0.0
+
+
+name: 24:1 c
+unit: g
+value: 0.013
+label: round piece
+value: 0.001
+label: patty
+value: 0.007
+label: serving 14 round pieces
+value: 0.01
+label: serving 29 round pieces
+value: 0.021
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 5.665
+label: round piece
+value: 0.312
+label: patty
+value: 3.002
+label: serving 14 round pieces
+value: 4.362
+label: serving 29 round pieces
+value: 9.064
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 5.18
+label: round piece
+value: 0.285
+label: patty
+value: 2.745
+label: serving 14 round pieces
+value: 3.989
+label: serving 29 round pieces
+value: 8.288
+
+
+name: 18:2 n-6 c,c
+unit: g
+value: 5.131
+label: round piece
+value: 0.282
+label: patty
+value: 2.719
+label: serving 14 round pieces
+value: 3.951
+label: serving 29 round pieces
+value: 8.21
+
+
+name: 18:2 CLAs
+unit: g
+value: 0.016
+label: round piece
+value: 0.001
+label: patty
+value: 0.008
+label: serving 14 round pieces
+value: 0.012
+label: serving 29 round pieces
+value: 0.026
+
+
+name: 18:2 t not further defined
+unit: g
+value: 0.032
+label: round piece
+value: 0.002
+label: patty
+value: 0.017
+label: serving 14 round pieces
+value: 0.025
+label: serving 29 round pieces
+value: 0.051
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.471
+label: round piece
+value: 0.026
+label: patty
+value: 0.25
+label: serving 14 round pieces
+value: 0.363
+label: serving 29 round pieces
+value: 0.754
+
+
+name: 18:3 n-3 c,c,c (ALA)
+unit: g
+value: 0.441
+label: round piece
+value: 0.024
+label: patty
+value: 0.234
+label: serving 14 round pieces
+value: 0.34
+label: serving 29 round pieces
+value: 0.706
+
+
+name: 18:3 n-6 c,c,c
+unit: g
+value: 0.03
+label: round piece
+value: 0.002
+label: patty
+value: 0.016
+label: serving 14 round pieces
+value: 0.023
+label: serving 29 round pieces
+value: 0.048
+
+
+name: 18:3i
+unit: g
+value: 0.0
+label: round piece
+value: 0.0
+label: patty
+value: 0.0
+label: serving 14 round pieces
+value: 0.0
+label: serving 29 round pieces
+value: 0.0
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: round piece
+value: 0.0
+label: patty
+value: 0.0
+label: serving 14 round pieces
+value: 0.0
+label: serving 29 round pieces
+value: 0.0
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.008
+label: round piece
+value: 0.0
+label: patty
+value: 0.004
+label: serving 14 round pieces
+value: 0.006
+label: serving 29 round pieces
+value: 0.013
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.0
+label: round piece
+value: 0.0
+label: patty
+value: 0.0
+label: serving 14 round pieces
+value: 0.0
+label: serving 29 round pieces
+value: 0.0
+
+
+name: 20:3 n-6
+unit: g
+value: 0.0
+label: round piece
+value: 0.0
+label: patty
+value: 0.0
+label: serving 14 round pieces
+value: 0.0
+label: serving 29 round pieces
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.005
+label: round piece
+value: 0.0
+label: patty
+value: 0.003
+label: serving 14 round pieces
+value: 0.004
+label: serving 29 round pieces
+value: 0.008
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: round piece
+value: 0.0
+label: patty
+value: 0.0
+label: serving 14 round pieces
+value: 0.0
+label: serving 29 round pieces
+value: 0.0
+
+
+name: 22:4
+unit: g
+value: 0.0
+label: round piece
+value: 0.0
+label: patty
+value: 0.0
+label: serving 14 round pieces
+value: 0.0
+label: serving 29 round pieces
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: round piece
+value: 0.0
+label: patty
+value: 0.0
+label: serving 14 round pieces
+value: 0.0
+label: serving 29 round pieces
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: round piece
+value: 0.0
+label: patty
+value: 0.0
+label: serving 14 round pieces
+value: 0.0
+label: serving 29 round pieces
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.056
+label: round piece
+value: 0.003
+label: patty
+value: 0.03
+label: serving 14 round pieces
+value: 0.043
+label: serving 29 round pieces
+value: 0.09
+
+
+name: Fatty acids, total trans-monoenoic
+unit: g
+value: 0.024
+label: round piece
+value: 0.001
+label: patty
+value: 0.013
+label: serving 14 round pieces
+value: 0.018
+label: serving 29 round pieces
+value: 0.038
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: round piece
+value: 0.0
+label: patty
+value: 0.0
+label: serving 14 round pieces
+value: 0.0
+label: serving 29 round pieces
+value: 0.0
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: round piece
+value: 0.0
+label: patty
+value: 0.0
+label: serving 14 round pieces
+value: 0.0
+label: serving 29 round pieces
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: round piece
+value: 0.0
+label: patty
+value: 0.0
+label: serving 14 round pieces
+value: 0.0
+label: serving 29 round pieces
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: round piece
+value: 0.0
+label: patty
+value: 0.0
+label: serving 14 round pieces
+value: 0.0
+label: serving 29 round pieces
+value: 0.0
+
+

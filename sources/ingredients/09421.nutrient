@@ -1,0 +1,461 @@
+ndbno: 09421
+
+
+name: Dates, medjool
+
+
+name: Water
+unit: g
+value: 21.32
+label: date, pitted
+value: 5.12
+
+
+name: Energy
+unit: kcal
+value: 277.0
+label: date, pitted
+value: 66.0
+
+
+name: Energy
+unit: kJ
+value: 1160.0
+label: date, pitted
+value: 278.0
+
+
+name: Protein
+unit: g
+value: 1.81
+label: date, pitted
+value: 0.43
+
+
+name: Total lipid (fat)
+unit: g
+value: 0.15
+label: date, pitted
+value: 0.04
+
+
+name: Ash
+unit: g
+value: 1.74
+label: date, pitted
+value: 0.42
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 74.97
+label: date, pitted
+value: 17.99
+
+
+name: Fiber, total dietary
+unit: g
+value: 6.7
+label: date, pitted
+value: 1.6
+
+
+name: Sugars, total
+unit: g
+value: 66.47
+label: date, pitted
+value: 15.95
+
+
+name: Sucrose
+unit: g
+value: 0.53
+label: date, pitted
+value: 0.13
+
+
+name: Glucose (dextrose)
+unit: g
+value: 33.68
+label: date, pitted
+value: 8.08
+
+
+name: Fructose
+unit: g
+value: 31.95
+label: date, pitted
+value: 7.67
+
+
+name: Lactose
+unit: g
+value: 0.0
+label: date, pitted
+value: 0.0
+
+
+name: Maltose
+unit: g
+value: 0.3
+label: date, pitted
+value: 0.07
+
+
+name: Galactose
+unit: g
+value: 0.0
+label: date, pitted
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 64.0
+label: date, pitted
+value: 15.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.9
+label: date, pitted
+value: 0.22
+
+
+name: Magnesium, Mg
+unit: mg
+value: 54.0
+label: date, pitted
+value: 13.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 62.0
+label: date, pitted
+value: 15.0
+
+
+name: Potassium, K
+unit: mg
+value: 696.0
+label: date, pitted
+value: 167.0
+
+
+name: Sodium, Na
+unit: mg
+value: 1.0
+label: date, pitted
+value: 0.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.44
+label: date, pitted
+value: 0.11
+
+
+name: Copper, Cu
+unit: mg
+value: 0.362
+label: date, pitted
+value: 0.087
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.296
+label: date, pitted
+value: 0.071
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: date, pitted
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.05
+label: date, pitted
+value: 0.012
+
+
+name: Riboflavin
+unit: mg
+value: 0.06
+label: date, pitted
+value: 0.014
+
+
+name: Niacin
+unit: mg
+value: 1.61
+label: date, pitted
+value: 0.386
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.805
+label: date, pitted
+value: 0.193
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.249
+label: date, pitted
+value: 0.06
+
+
+name: Folate, total
+unit: \u00B5g
+value: 15.0
+label: date, pitted
+value: 4.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: date, pitted
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 15.0
+label: date, pitted
+value: 4.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 15.0
+label: date, pitted
+value: 4.0
+
+
+name: Choline, total
+unit: mg
+value: 9.9
+label: date, pitted
+value: 2.4
+
+
+name: Betaine
+unit: mg
+value: 0.4
+label: date, pitted
+value: 0.1
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 7.0
+label: date, pitted
+value: 2.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 89.0
+label: date, pitted
+value: 21.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: date, pitted
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: date, pitted
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 149.0
+label: date, pitted
+value: 36.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: date, pitted
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 23.0
+label: date, pitted
+value: 6.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: date, pitted
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: date, pitted
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 2.7
+label: date, pitted
+value: 0.6
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.0
+label: date, pitted
+value: 0.0
+
+
+name: Tryptophan
+unit: g
+value: 0.007
+label: date, pitted
+value: 0.002
+
+
+name: Threonine
+unit: g
+value: 0.042
+label: date, pitted
+value: 0.01
+
+
+name: Isoleucine
+unit: g
+value: 0.045
+label: date, pitted
+value: 0.011
+
+
+name: Leucine
+unit: g
+value: 0.082
+label: date, pitted
+value: 0.02
+
+
+name: Lysine
+unit: g
+value: 0.054
+label: date, pitted
+value: 0.013
+
+
+name: Methionine
+unit: g
+value: 0.017
+label: date, pitted
+value: 0.004
+
+
+name: Cystine
+unit: g
+value: 0.046
+label: date, pitted
+value: 0.011
+
+
+name: Phenylalanine
+unit: g
+value: 0.048
+label: date, pitted
+value: 0.012
+
+
+name: Tyrosine
+unit: g
+value: 0.016
+label: date, pitted
+value: 0.004
+
+
+name: Valine
+unit: g
+value: 0.066
+label: date, pitted
+value: 0.016
+
+
+name: Arginine
+unit: g
+value: 0.06
+label: date, pitted
+value: 0.014
+
+
+name: Histidine
+unit: g
+value: 0.029
+label: date, pitted
+value: 0.007
+
+
+name: Alanine
+unit: g
+value: 0.078
+label: date, pitted
+value: 0.019
+
+
+name: Aspartic acid
+unit: g
+value: 0.22
+label: date, pitted
+value: 0.053
+
+
+name: Glutamic acid
+unit: g
+value: 0.265
+label: date, pitted
+value: 0.064
+
+
+name: Glycine
+unit: g
+value: 0.09
+label: date, pitted
+value: 0.022
+
+
+name: Proline
+unit: g
+value: 0.111
+label: date, pitted
+value: 0.027
+
+
+name: Serine
+unit: g
+value: 0.062
+label: date, pitted
+value: 0.015
+
+

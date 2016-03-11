@@ -1,0 +1,820 @@
+ndbno: 05146
+
+
+name: Goose, domesticated, meat and skin, raw
+
+
+name: Water
+unit: g
+value: 49.66
+label: oz
+value: 42.21
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 158.91
+label: goose
+value: 655.02
+
+
+name: Energy
+unit: kcal
+value: 371.0
+label: oz
+value: 315.0
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 1187.0
+label: goose
+value: 4893.0
+
+
+name: Energy
+unit: kJ
+value: 1552.0
+label: oz
+value: 1319.0
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 4966.0
+label: goose
+value: 20471.0
+
+
+name: Protein
+unit: g
+value: 15.86
+label: oz
+value: 13.48
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 50.75
+label: goose
+value: 209.19
+
+
+name: Total lipid (fat)
+unit: g
+value: 33.62
+label: oz
+value: 28.58
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 107.58
+label: goose
+value: 443.45
+
+
+name: Ash
+unit: g
+value: 0.87
+label: oz
+value: 0.74
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 2.78
+label: goose
+value: 11.48
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 0.0
+label: goose
+value: 0.0
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 0.0
+label: goose
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 12.0
+label: oz
+value: 10.0
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 38.0
+label: goose
+value: 158.0
+
+
+name: Iron, Fe
+unit: mg
+value: 2.5
+label: oz
+value: 2.12
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 8.0
+label: goose
+value: 32.98
+
+
+name: Magnesium, Mg
+unit: mg
+value: 18.0
+label: oz
+value: 15.0
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 58.0
+label: goose
+value: 237.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 234.0
+label: oz
+value: 199.0
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 749.0
+label: goose
+value: 3086.0
+
+
+name: Potassium, K
+unit: mg
+value: 308.0
+label: oz
+value: 262.0
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 986.0
+label: goose
+value: 4063.0
+
+
+name: Sodium, Na
+unit: mg
+value: 73.0
+label: oz
+value: 62.0
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 234.0
+label: goose
+value: 963.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 1.72
+label: oz
+value: 1.46
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 5.5
+label: goose
+value: 22.69
+
+
+name: Copper, Cu
+unit: mg
+value: 0.27
+label: oz
+value: 0.23
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 0.864
+label: goose
+value: 3.561
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.02
+label: oz
+value: 0.017
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 0.064
+label: goose
+value: 0.264
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 14.4
+label: oz
+value: 12.2
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 46.1
+label: goose
+value: 189.9
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 4.2
+label: oz
+value: 3.6
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 13.4
+label: goose
+value: 55.4
+
+
+name: Thiamin
+unit: mg
+value: 0.085
+label: oz
+value: 0.072
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 0.272
+label: goose
+value: 1.121
+
+
+name: Riboflavin
+unit: mg
+value: 0.245
+label: oz
+value: 0.208
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 0.784
+label: goose
+value: 3.232
+
+
+name: Niacin
+unit: mg
+value: 3.608
+label: oz
+value: 3.067
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 11.546
+label: goose
+value: 47.59
+
+
+name: Pantothenic acid
+unit: mg
+value: 1.294
+label: oz
+value: 1.1
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 4.141
+label: goose
+value: 17.068
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.39
+label: oz
+value: 0.331
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 1.248
+label: goose
+value: 5.144
+
+
+name: Folate, total
+unit: \u00B5g
+value: 4.0
+label: oz
+value: 3.0
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 13.0
+label: goose
+value: 53.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 0.0
+label: goose
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 4.0
+label: oz
+value: 3.0
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 13.0
+label: goose
+value: 53.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 4.0
+label: oz
+value: 3.0
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 13.0
+label: goose
+value: 53.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.34
+label: oz
+value: 0.29
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 1.09
+label: goose
+value: 4.48
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 17.0
+label: oz
+value: 14.0
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 54.0
+label: goose
+value: 224.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 17.0
+label: oz
+value: 14.0
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 54.0
+label: goose
+value: 224.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 55.0
+label: oz
+value: 47.0
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 176.0
+label: goose
+value: 725.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 9.78
+label: oz
+value: 8.313
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 31.296
+label: goose
+value: 128.998
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 0.0
+label: goose
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 0.0
+label: goose
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 0.0
+label: goose
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 0.0
+label: goose
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.03
+label: oz
+value: 0.026
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 0.096
+label: goose
+value: 0.396
+
+
+name: 14:0
+unit: g
+value: 0.17
+label: oz
+value: 0.145
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 0.544
+label: goose
+value: 2.242
+
+
+name: 16:0
+unit: g
+value: 6.95
+label: oz
+value: 5.908
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 22.24
+label: goose
+value: 91.67
+
+
+name: 18:0
+unit: g
+value: 2.33
+label: oz
+value: 1.981
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 7.456
+label: goose
+value: 30.733
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 17.77
+label: oz
+value: 15.104
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 56.864
+label: goose
+value: 234.386
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.98
+label: oz
+value: 0.833
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 3.136
+label: goose
+value: 12.926
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 16.68
+label: oz
+value: 14.178
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 53.376
+label: goose
+value: 220.009
+
+
+name: 20:1
+unit: g
+value: 0.04
+label: oz
+value: 0.034
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 0.128
+label: goose
+value: 0.528
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 0.0
+label: goose
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 3.76
+label: oz
+value: 3.196
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 12.032
+label: goose
+value: 49.594
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 3.34
+label: oz
+value: 2.839
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 10.688
+label: goose
+value: 44.055
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.21
+label: oz
+value: 0.178
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 0.672
+label: goose
+value: 2.77
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 0.0
+label: goose
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 0.0
+label: goose
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 0.0
+label: goose
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 0.0
+label: goose
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 0.0
+label: goose
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 80.0
+label: oz
+value: 68.0
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 256.0
+label: goose
+value: 1055.0
+
+
+name: Tryptophan
+unit: g
+value: 0.207
+label: oz
+value: 0.176
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 0.662
+label: goose
+value: 2.73
+
+
+name: Threonine
+unit: g
+value: 0.708
+label: oz
+value: 0.602
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 2.266
+label: goose
+value: 9.339
+
+
+name: Isoleucine
+unit: g
+value: 0.746
+label: oz
+value: 0.634
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 2.387
+label: goose
+value: 9.84
+
+
+name: Leucine
+unit: g
+value: 1.33
+label: oz
+value: 1.13
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 4.256
+label: goose
+value: 17.543
+
+
+name: Lysine
+unit: g
+value: 1.254
+label: oz
+value: 1.066
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 4.013
+label: goose
+value: 16.54
+
+
+name: Methionine
+unit: g
+value: 0.383
+label: oz
+value: 0.326
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 1.226
+label: goose
+value: 5.052
+
+
+name: Cystine
+unit: g
+value: 0.247
+label: oz
+value: 0.21
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 0.79
+label: goose
+value: 3.258
+
+
+name: Phenylalanine
+unit: g
+value: 0.665
+label: oz
+value: 0.565
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 2.128
+label: goose
+value: 8.771
+
+
+name: Tyrosine
+unit: g
+value: 0.508
+label: oz
+value: 0.432
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 1.626
+label: goose
+value: 6.701
+
+
+name: Valine
+unit: g
+value: 0.777
+label: oz
+value: 0.66
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 2.486
+label: goose
+value: 10.249
+
+
+name: Arginine
+unit: g
+value: 0.987
+label: oz
+value: 0.839
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 3.158
+label: goose
+value: 13.019
+
+
+name: Histidine
+unit: g
+value: 0.442
+label: oz
+value: 0.376
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 1.414
+label: goose
+value: 5.83
+
+
+name: Alanine
+unit: g
+value: 0.977
+label: oz
+value: 0.83
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 3.126
+label: goose
+value: 12.887
+
+
+name: Aspartic acid
+unit: g
+value: 1.426
+label: oz
+value: 1.212
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 4.563
+label: goose
+value: 18.809
+
+
+name: Glutamic acid
+unit: g
+value: 2.358
+label: oz
+value: 2.004
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 7.546
+label: goose
+value: 31.102
+
+
+name: Glycine
+unit: g
+value: 1.005
+label: oz
+value: 0.854
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 3.216
+label: goose
+value: 13.256
+
+
+name: Proline
+unit: g
+value: 0.766
+label: oz
+value: 0.651
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 2.451
+label: goose
+value: 10.104
+
+
+name: Serine
+unit: g
+value: 0.632
+label: oz
+value: 0.537
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 2.022
+label: goose
+value: 8.336
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook goose)
+value: 0.0
+label: goose
+value: 0.0
+
+

@@ -1,0 +1,769 @@
+ndbno: 05333
+
+
+name: Chicken, ground, crumbles, cooked, pan-browned
+
+
+name: Water
+unit: g
+value: 64.92
+label: oz crumbled
+value: 55.18
+
+
+name: Energy
+unit: kcal
+value: 189.0
+label: oz crumbled
+value: 161.0
+
+
+name: Energy
+unit: kJ
+value: 790.0
+label: oz crumbled
+value: 672.0
+
+
+name: Protein
+unit: g
+value: 23.28
+label: oz crumbled
+value: 19.79
+
+
+name: Total lipid (fat)
+unit: g
+value: 10.92
+label: oz crumbled
+value: 9.28
+
+
+name: Ash
+unit: g
+value: 1.57
+label: oz crumbled
+value: 1.33
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 0.0
+label: oz crumbled
+value: 0.0
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: oz crumbled
+value: 0.0
+
+
+name: Sugars, total
+unit: g
+value: 0.0
+label: oz crumbled
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 8.0
+label: oz crumbled
+value: 7.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.93
+label: oz crumbled
+value: 0.79
+
+
+name: Magnesium, Mg
+unit: mg
+value: 28.0
+label: oz crumbled
+value: 24.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 234.0
+label: oz crumbled
+value: 199.0
+
+
+name: Potassium, K
+unit: mg
+value: 677.0
+label: oz crumbled
+value: 575.0
+
+
+name: Sodium, Na
+unit: mg
+value: 75.0
+label: oz crumbled
+value: 64.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 1.92
+label: oz crumbled
+value: 1.63
+
+
+name: Copper, Cu
+unit: mg
+value: 0.062
+label: oz crumbled
+value: 0.053
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.016
+label: oz crumbled
+value: 0.014
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 14.3
+label: oz crumbled
+value: 12.2
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: oz crumbled
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.121
+label: oz crumbled
+value: 0.103
+
+
+name: Riboflavin
+unit: mg
+value: 0.302
+label: oz crumbled
+value: 0.257
+
+
+name: Niacin
+unit: mg
+value: 7.107
+label: oz crumbled
+value: 6.041
+
+
+name: Pantothenic acid
+unit: mg
+value: 1.327
+label: oz crumbled
+value: 1.128
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.538
+label: oz crumbled
+value: 0.457
+
+
+name: Folate, total
+unit: \u00B5g
+value: 2.0
+label: oz crumbled
+value: 2.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: oz crumbled
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 2.0
+label: oz crumbled
+value: 2.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 2.0
+label: oz crumbled
+value: 2.0
+
+
+name: Choline, total
+unit: mg
+value: 59.0
+label: oz crumbled
+value: 50.2
+
+
+name: Betaine
+unit: mg
+value: 5.0
+label: oz crumbled
+value: 4.2
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.51
+label: oz crumbled
+value: 0.43
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: oz crumbled
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 0.0
+label: oz crumbled
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: oz crumbled
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 0.0
+label: oz crumbled
+value: 0.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: oz crumbled
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: oz crumbled
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 0.0
+label: oz crumbled
+value: 0.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: oz crumbled
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 0.0
+label: oz crumbled
+value: 0.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.39
+label: oz crumbled
+value: 0.33
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: oz crumbled
+value: 0.0
+
+
+name: Tocopherol, beta
+unit: mg
+value: 0.0
+label: oz crumbled
+value: 0.0
+
+
+name: Tocopherol, gamma
+unit: mg
+value: 0.24
+label: oz crumbled
+value: 0.2
+
+
+name: Tocopherol, delta
+unit: mg
+value: 0.03
+label: oz crumbled
+value: 0.03
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 2.1
+label: oz crumbled
+value: 1.8
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 3.11
+label: oz crumbled
+value: 2.643
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: oz crumbled
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: oz crumbled
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: oz crumbled
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: oz crumbled
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: oz crumbled
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.056
+label: oz crumbled
+value: 0.048
+
+
+name: 15:0
+unit: g
+value: 0.002
+label: oz crumbled
+value: 0.002
+
+
+name: 16:0
+unit: g
+value: 2.414
+label: oz crumbled
+value: 2.052
+
+
+name: 17:0
+unit: g
+value: 0.009
+label: oz crumbled
+value: 0.008
+
+
+name: 18:0
+unit: g
+value: 0.621
+label: oz crumbled
+value: 0.528
+
+
+name: 20:0
+unit: g
+value: 0.008
+label: oz crumbled
+value: 0.007
+
+
+name: 22:0
+unit: g
+value: 0.0
+label: oz crumbled
+value: 0.0
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 4.879
+label: oz crumbled
+value: 4.147
+
+
+name: 14:1
+unit: g
+value: 0.021
+label: oz crumbled
+value: 0.018
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: oz crumbled
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.725
+label: oz crumbled
+value: 0.616
+
+
+name: 17:1
+unit: g
+value: 0.0
+label: oz crumbled
+value: 0.0
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 4.099
+label: oz crumbled
+value: 3.484
+
+
+name: 18:1 c
+unit: g
+value: 4.043
+label: oz crumbled
+value: 3.437
+
+
+name: 18:1 t
+unit: g
+value: 0.056
+label: oz crumbled
+value: 0.048
+
+
+name: 20:1
+unit: g
+value: 0.033
+label: oz crumbled
+value: 0.028
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: oz crumbled
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 2.08
+label: oz crumbled
+value: 1.768
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 1.818
+label: oz crumbled
+value: 1.545
+
+
+name: 18:2 n-6 c,c
+unit: g
+value: 1.787
+label: oz crumbled
+value: 1.519
+
+
+name: 18:2 t,t
+unit: g
+value: 0.031
+label: oz crumbled
+value: 0.026
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.1
+label: oz crumbled
+value: 0.085
+
+
+name: 18:3 n-3 c,c,c (ALA)
+unit: g
+value: 0.081
+label: oz crumbled
+value: 0.069
+
+
+name: 18:3 n-6 c,c,c
+unit: g
+value: 0.02
+label: oz crumbled
+value: 0.017
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: oz crumbled
+value: 0.0
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.015
+label: oz crumbled
+value: 0.013
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.0
+label: oz crumbled
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.106
+label: oz crumbled
+value: 0.09
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.008
+label: oz crumbled
+value: 0.007
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.016
+label: oz crumbled
+value: 0.014
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.031
+label: oz crumbled
+value: 0.026
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.087
+label: oz crumbled
+value: 0.074
+
+
+name: Fatty acids, total trans-monoenoic
+unit: g
+value: 0.056
+label: oz crumbled
+value: 0.048
+
+
+name: Cholesterol
+unit: mg
+value: 107.0
+label: oz crumbled
+value: 91.0
+
+
+name: Tryptophan
+unit: g
+value: 0.196
+label: oz crumbled
+value: 0.167
+
+
+name: Threonine
+unit: g
+value: 0.97
+label: oz crumbled
+value: 0.824
+
+
+name: Isoleucine
+unit: g
+value: 1.06
+label: oz crumbled
+value: 0.901
+
+
+name: Leucine
+unit: g
+value: 1.816
+label: oz crumbled
+value: 1.544
+
+
+name: Lysine
+unit: g
+value: 2.014
+label: oz crumbled
+value: 1.712
+
+
+name: Methionine
+unit: g
+value: 0.596
+label: oz crumbled
+value: 0.507
+
+
+name: Cystine
+unit: g
+value: 0.251
+label: oz crumbled
+value: 0.213
+
+
+name: Phenylalanine
+unit: g
+value: 0.912
+label: oz crumbled
+value: 0.775
+
+
+name: Tyrosine
+unit: g
+value: 0.806
+label: oz crumbled
+value: 0.685
+
+
+name: Valine
+unit: g
+value: 1.102
+label: oz crumbled
+value: 0.937
+
+
+name: Arginine
+unit: g
+value: 1.505
+label: oz crumbled
+value: 1.279
+
+
+name: Histidine
+unit: g
+value: 0.706
+label: oz crumbled
+value: 0.6
+
+
+name: Alanine
+unit: g
+value: 1.323
+label: oz crumbled
+value: 1.125
+
+
+name: Aspartic acid
+unit: g
+value: 2.156
+label: oz crumbled
+value: 1.833
+
+
+name: Glutamic acid
+unit: g
+value: 3.484
+label: oz crumbled
+value: 2.961
+
+
+name: Glycine
+unit: g
+value: 1.118
+label: oz crumbled
+value: 0.95
+
+
+name: Proline
+unit: g
+value: 0.878
+label: oz crumbled
+value: 0.746
+
+
+name: Serine
+unit: g
+value: 0.976
+label: oz crumbled
+value: 0.83
+
+
+name: Hydroxyproline
+unit: g
+value: 0.126
+label: oz crumbled
+value: 0.107
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: oz crumbled
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: oz crumbled
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: oz crumbled
+value: 0.0
+
+

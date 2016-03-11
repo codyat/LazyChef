@@ -1,0 +1,769 @@
+ndbno: 36035
+
+
+name: Restaurant, family style, coleslaw
+
+
+name: Water
+unit: g
+value: 74.03
+label: serving
+value: 79.95
+
+
+name: Energy
+unit: kcal
+value: 159.0
+label: serving
+value: 172.0
+
+
+name: Energy
+unit: kJ
+value: 665.0
+label: serving
+value: 718.0
+
+
+name: Protein
+unit: g
+value: 0.88
+label: serving
+value: 0.95
+
+
+name: Total lipid (fat)
+unit: g
+value: 11.78
+label: serving
+value: 12.72
+
+
+name: Ash
+unit: g
+value: 0.95
+label: serving
+value: 1.03
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 12.35
+label: serving
+value: 13.34
+
+
+name: Fiber, total dietary
+unit: g
+value: 1.9
+label: serving
+value: 2.1
+
+
+name: Sugars, total
+unit: g
+value: 9.54
+label: serving
+value: 10.3
+
+
+name: Sucrose
+unit: g
+value: 2.91
+label: serving
+value: 3.14
+
+
+name: Glucose (dextrose)
+unit: g
+value: 3.51
+label: serving
+value: 3.79
+
+
+name: Fructose
+unit: g
+value: 2.94
+label: serving
+value: 3.18
+
+
+name: Lactose
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: Maltose
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: Galactose
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: Starch
+unit: g
+value: 0.07
+label: serving
+value: 0.08
+
+
+name: Calcium, Ca
+unit: mg
+value: 34.0
+label: serving
+value: 37.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.3
+label: serving
+value: 0.32
+
+
+name: Magnesium, Mg
+unit: mg
+value: 10.0
+label: serving
+value: 11.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 25.0
+label: serving
+value: 27.0
+
+
+name: Potassium, K
+unit: mg
+value: 153.0
+label: serving
+value: 165.0
+
+
+name: Sodium, Na
+unit: mg
+value: 221.0
+label: serving
+value: 239.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.18
+label: serving
+value: 0.19
+
+
+name: Copper, Cu
+unit: mg
+value: 0.018
+label: serving
+value: 0.019
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.148
+label: serving
+value: 0.16
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 1.9
+label: serving
+value: 2.1
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 13.7
+label: serving
+value: 14.8
+
+
+name: Thiamin
+unit: mg
+value: 0.029
+label: serving
+value: 0.031
+
+
+name: Riboflavin
+unit: mg
+value: 0.058
+label: serving
+value: 0.063
+
+
+name: Niacin
+unit: mg
+value: 0.281
+label: serving
+value: 0.303
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.258
+label: serving
+value: 0.279
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.119
+label: serving
+value: 0.129
+
+
+name: Folate, total
+unit: \u00B5g
+value: 25.0
+label: serving
+value: 27.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 25.0
+label: serving
+value: 27.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 25.0
+label: serving
+value: 27.0
+
+
+name: Choline, total
+unit: mg
+value: 8.2
+label: serving
+value: 8.9
+
+
+name: Betaine
+unit: mg
+value: 0.3
+label: serving
+value: 0.3
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 54.0
+label: serving
+value: 58.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 5.0
+label: serving
+value: 5.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 456.0
+label: serving
+value: 492.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 262.0
+label: serving
+value: 283.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 2.0
+label: serving
+value: 2.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 996.0
+label: serving
+value: 1076.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 4.0
+label: serving
+value: 4.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 67.0
+label: serving
+value: 72.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.8
+label: serving
+value: 0.86
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: Tocopherol, beta
+unit: mg
+value: 0.1
+label: serving
+value: 0.11
+
+
+name: Tocopherol, gamma
+unit: mg
+value: 6.91
+label: serving
+value: 7.46
+
+
+name: Tocopherol, delta
+unit: mg
+value: 2.38
+label: serving
+value: 2.57
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 79.0
+label: serving
+value: 85.3
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 1.909
+label: serving
+value: 2.062
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.004
+label: serving
+value: 0.004
+
+
+name: 12:0
+unit: g
+value: 0.002
+label: serving
+value: 0.002
+
+
+name: 14:0
+unit: g
+value: 0.012
+label: serving
+value: 0.013
+
+
+name: 15:0
+unit: g
+value: 0.003
+label: serving
+value: 0.003
+
+
+name: 16:0
+unit: g
+value: 1.262
+label: serving
+value: 1.363
+
+
+name: 17:0
+unit: g
+value: 0.012
+label: serving
+value: 0.013
+
+
+name: 18:0
+unit: g
+value: 0.517
+label: serving
+value: 0.558
+
+
+name: 20:0
+unit: g
+value: 0.04
+label: serving
+value: 0.043
+
+
+name: 22:0
+unit: g
+value: 0.04
+label: serving
+value: 0.043
+
+
+name: 24:0
+unit: g
+value: 0.015
+label: serving
+value: 0.016
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 2.582
+label: serving
+value: 2.789
+
+
+name: 14:1
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.017
+label: serving
+value: 0.018
+
+
+name: 16:1 c
+unit: g
+value: 0.017
+label: serving
+value: 0.018
+
+
+name: 16:1 t
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: 17:1
+unit: g
+value: 0.007
+label: serving
+value: 0.008
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 2.501
+label: serving
+value: 2.701
+
+
+name: 18:1 c
+unit: g
+value: 2.493
+label: serving
+value: 2.692
+
+
+name: 18:1 t
+unit: g
+value: 0.008
+label: serving
+value: 0.009
+
+
+name: 20:1
+unit: g
+value: 0.05
+label: serving
+value: 0.054
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.007
+label: serving
+value: 0.008
+
+
+name: 22:1 c
+unit: g
+value: 0.007
+label: serving
+value: 0.008
+
+
+name: 22:1 t
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: 24:1 c
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 6.913
+label: serving
+value: 7.466
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 6.017
+label: serving
+value: 6.498
+
+
+name: 18:2 n-6 c,c
+unit: g
+value: 5.957
+label: serving
+value: 6.434
+
+
+name: 18:2 CLAs
+unit: g
+value: 0.011
+label: serving
+value: 0.012
+
+
+name: 18:2 t not further defined
+unit: g
+value: 0.05
+label: serving
+value: 0.054
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.876
+label: serving
+value: 0.946
+
+
+name: 18:3 n-3 c,c,c (ALA)
+unit: g
+value: 0.837
+label: serving
+value: 0.904
+
+
+name: 18:3 n-6 c,c,c
+unit: g
+value: 0.039
+label: serving
+value: 0.042
+
+
+name: 18:3i
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.007
+label: serving
+value: 0.008
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.001
+label: serving
+value: 0.001
+
+
+name: 20:3 n-6
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.011
+label: serving
+value: 0.012
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: 22:4
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.001
+label: serving
+value: 0.001
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.058
+label: serving
+value: 0.063
+
+
+name: Fatty acids, total trans-monoenoic
+unit: g
+value: 0.008
+label: serving
+value: 0.009
+
+
+name: Cholesterol
+unit: mg
+value: 8.0
+label: serving
+value: 9.0
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: serving
+value: 0.0
+
+

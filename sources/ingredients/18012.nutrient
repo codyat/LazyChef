@@ -1,0 +1,807 @@
+ndbno: 18012
+
+
+name: Biscuits, plain or buttermilk, refrigerated dough, lower fat
+
+
+name: Water
+unit: g
+value: 37.76
+label: serving 1 biscuit
+value: 21.9
+label: oz
+value: 10.7
+
+
+name: Energy
+unit: kcal
+value: 270.0
+label: serving 1 biscuit
+value: 157.0
+label: oz
+value: 77.0
+
+
+name: Energy
+unit: kJ
+value: 1132.0
+label: serving 1 biscuit
+value: 657.0
+label: oz
+value: 321.0
+
+
+name: Protein
+unit: g
+value: 6.7
+label: serving 1 biscuit
+value: 3.89
+label: oz
+value: 1.9
+
+
+name: Total lipid (fat)
+unit: g
+value: 7.83
+label: serving 1 biscuit
+value: 4.54
+label: oz
+value: 2.22
+
+
+name: Ash
+unit: g
+value: 4.02
+label: serving 1 biscuit
+value: 2.33
+label: oz
+value: 1.14
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 43.7
+label: serving 1 biscuit
+value: 25.35
+label: oz
+value: 12.39
+
+
+name: Fiber, total dietary
+unit: g
+value: 2.0
+label: serving 1 biscuit
+value: 1.2
+label: oz
+value: 0.6
+
+
+name: Sugars, total
+unit: g
+value: 7.18
+label: serving 1 biscuit
+value: 4.16
+label: oz
+value: 2.04
+
+
+name: Calcium, Ca
+unit: mg
+value: 26.0
+label: serving 1 biscuit
+value: 15.0
+label: oz
+value: 7.0
+
+
+name: Iron, Fe
+unit: mg
+value: 2.13
+label: serving 1 biscuit
+value: 1.24
+label: oz
+value: 0.6
+
+
+name: Magnesium, Mg
+unit: mg
+value: 15.0
+label: serving 1 biscuit
+value: 9.0
+label: oz
+value: 4.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 400.0
+label: serving 1 biscuit
+value: 232.0
+label: oz
+value: 113.0
+
+
+name: Potassium, K
+unit: mg
+value: 159.0
+label: serving 1 biscuit
+value: 92.0
+label: oz
+value: 45.0
+
+
+name: Sodium, Na
+unit: mg
+value: 828.0
+label: serving 1 biscuit
+value: 480.0
+label: oz
+value: 235.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.39
+label: serving 1 biscuit
+value: 0.23
+label: oz
+value: 0.11
+
+
+name: Copper, Cu
+unit: mg
+value: 0.079
+label: serving 1 biscuit
+value: 0.046
+label: oz
+value: 0.022
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.301
+label: serving 1 biscuit
+value: 0.175
+label: oz
+value: 0.085
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 18.9
+label: serving 1 biscuit
+value: 11.0
+label: oz
+value: 5.4
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.1
+label: serving 1 biscuit
+value: 0.1
+label: oz
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.448
+label: serving 1 biscuit
+value: 0.26
+label: oz
+value: 0.127
+
+
+name: Riboflavin
+unit: mg
+value: 0.222
+label: serving 1 biscuit
+value: 0.129
+label: oz
+value: 0.063
+
+
+name: Niacin
+unit: mg
+value: 3.295
+label: serving 1 biscuit
+value: 1.911
+label: oz
+value: 0.934
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.367
+label: serving 1 biscuit
+value: 0.213
+label: oz
+value: 0.104
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.024
+label: serving 1 biscuit
+value: 0.014
+label: oz
+value: 0.007
+
+
+name: Folate, total
+unit: \u00B5g
+value: 85.0
+label: serving 1 biscuit
+value: 49.0
+label: oz
+value: 24.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 79.0
+label: serving 1 biscuit
+value: 46.0
+label: oz
+value: 22.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 6.0
+label: serving 1 biscuit
+value: 3.0
+label: oz
+value: 2.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 140.0
+label: serving 1 biscuit
+value: 81.0
+label: oz
+value: 40.0
+
+
+name: Choline, total
+unit: mg
+value: 3.5
+label: serving 1 biscuit
+value: 2.0
+label: oz
+value: 1.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: serving 1 biscuit
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: serving 1 biscuit
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 0.0
+label: serving 1 biscuit
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: serving 1 biscuit
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 0.0
+label: serving 1 biscuit
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: serving 1 biscuit
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: serving 1 biscuit
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 0.0
+label: serving 1 biscuit
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: serving 1 biscuit
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 10.0
+label: serving 1 biscuit
+value: 6.0
+label: oz
+value: 3.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.06
+label: serving 1 biscuit
+value: 0.03
+label: oz
+value: 0.02
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: serving 1 biscuit
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: serving 1 biscuit
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: serving 1 biscuit
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 1.9
+label: serving 1 biscuit
+value: 1.1
+label: oz
+value: 0.5
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 3.14
+label: serving 1 biscuit
+value: 1.821
+label: oz
+value: 0.89
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: serving 1 biscuit
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: serving 1 biscuit
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: serving 1 biscuit
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: serving 1 biscuit
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: serving 1 biscuit
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.02
+label: serving 1 biscuit
+value: 0.012
+label: oz
+value: 0.006
+
+
+name: 16:0
+unit: g
+value: 0.596
+label: serving 1 biscuit
+value: 0.346
+label: oz
+value: 0.169
+
+
+name: 18:0
+unit: g
+value: 0.497
+label: serving 1 biscuit
+value: 0.288
+label: oz
+value: 0.141
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 2.405
+label: serving 1 biscuit
+value: 1.395
+label: oz
+value: 0.682
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.0
+label: serving 1 biscuit
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 2.405
+label: serving 1 biscuit
+value: 1.395
+label: oz
+value: 0.682
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: serving 1 biscuit
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: serving 1 biscuit
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.671
+label: serving 1 biscuit
+value: 0.389
+label: oz
+value: 0.19
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.637
+label: serving 1 biscuit
+value: 0.369
+label: oz
+value: 0.181
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.034
+label: serving 1 biscuit
+value: 0.02
+label: oz
+value: 0.01
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: serving 1 biscuit
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: serving 1 biscuit
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: serving 1 biscuit
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: serving 1 biscuit
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: serving 1 biscuit
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: serving 1 biscuit
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Tryptophan
+unit: g
+value: 0.082
+label: serving 1 biscuit
+value: 0.048
+label: oz
+value: 0.023
+
+
+name: Threonine
+unit: g
+value: 0.182
+label: serving 1 biscuit
+value: 0.106
+label: oz
+value: 0.052
+
+
+name: Isoleucine
+unit: g
+value: 0.231
+label: serving 1 biscuit
+value: 0.134
+label: oz
+value: 0.065
+
+
+name: Leucine
+unit: g
+value: 0.461
+label: serving 1 biscuit
+value: 0.267
+label: oz
+value: 0.131
+
+
+name: Lysine
+unit: g
+value: 0.148
+label: serving 1 biscuit
+value: 0.086
+label: oz
+value: 0.042
+
+
+name: Methionine
+unit: g
+value: 0.118
+label: serving 1 biscuit
+value: 0.068
+label: oz
+value: 0.033
+
+
+name: Cystine
+unit: g
+value: 0.142
+label: serving 1 biscuit
+value: 0.082
+label: oz
+value: 0.04
+
+
+name: Phenylalanine
+unit: g
+value: 0.337
+label: serving 1 biscuit
+value: 0.195
+label: oz
+value: 0.096
+
+
+name: Tyrosine
+unit: g
+value: 0.202
+label: serving 1 biscuit
+value: 0.117
+label: oz
+value: 0.057
+
+
+name: Valine
+unit: g
+value: 0.269
+label: serving 1 biscuit
+value: 0.156
+label: oz
+value: 0.076
+
+
+name: Arginine
+unit: g
+value: 0.27
+label: serving 1 biscuit
+value: 0.157
+label: oz
+value: 0.077
+
+
+name: Histidine
+unit: g
+value: 0.149
+label: serving 1 biscuit
+value: 0.086
+label: oz
+value: 0.042
+
+
+name: Alanine
+unit: g
+value: 0.215
+label: serving 1 biscuit
+value: 0.125
+label: oz
+value: 0.061
+
+
+name: Aspartic acid
+unit: g
+value: 0.282
+label: serving 1 biscuit
+value: 0.164
+label: oz
+value: 0.08
+
+
+name: Glutamic acid
+unit: g
+value: 2.251
+label: serving 1 biscuit
+value: 1.306
+label: oz
+value: 0.638
+
+
+name: Glycine
+unit: g
+value: 0.24
+label: serving 1 biscuit
+value: 0.139
+label: oz
+value: 0.068
+
+
+name: Proline
+unit: g
+value: 0.775
+label: serving 1 biscuit
+value: 0.45
+label: oz
+value: 0.22
+
+
+name: Serine
+unit: g
+value: 0.333
+label: serving 1 biscuit
+value: 0.193
+label: oz
+value: 0.094
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: serving 1 biscuit
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: serving 1 biscuit
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: serving 1 biscuit
+value: 0.0
+label: oz
+value: 0.0
+
+

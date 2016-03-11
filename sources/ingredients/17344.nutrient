@@ -1,0 +1,925 @@
+ndbno: 17344
+
+
+name: Game meat, deer, ground, cooked, pan-broiled
+
+
+name: Water
+unit: g
+value: 64.23
+label: patty
+value: 59.73
+label: serving ( 3 oz )
+value: 54.6
+
+
+name: Energy
+unit: kcal
+value: 187.0
+label: patty
+value: 174.0
+label: serving ( 3 oz )
+value: 159.0
+
+
+name: Energy
+unit: kJ
+value: 783.0
+label: patty
+value: 728.0
+label: serving ( 3 oz )
+value: 666.0
+
+
+name: Protein
+unit: g
+value: 26.45
+label: patty
+value: 24.6
+label: serving ( 3 oz )
+value: 22.48
+
+
+name: Total lipid (fat)
+unit: g
+value: 8.22
+label: patty
+value: 7.64
+label: serving ( 3 oz )
+value: 6.99
+
+
+name: Ash
+unit: g
+value: 1.07
+label: patty
+value: 1.0
+label: serving ( 3 oz )
+value: 0.91
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 0.0
+label: patty
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: patty
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+
+
+name: Sugars, total
+unit: g
+value: 0.0
+label: patty
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 14.0
+label: patty
+value: 13.0
+label: serving ( 3 oz )
+value: 12.0
+
+
+name: Iron, Fe
+unit: mg
+value: 3.35
+label: patty
+value: 3.12
+label: serving ( 3 oz )
+value: 2.85
+
+
+name: Magnesium, Mg
+unit: mg
+value: 24.0
+label: patty
+value: 22.0
+label: serving ( 3 oz )
+value: 20.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 228.0
+label: patty
+value: 212.0
+label: serving ( 3 oz )
+value: 194.0
+
+
+name: Potassium, K
+unit: mg
+value: 364.0
+label: patty
+value: 339.0
+label: serving ( 3 oz )
+value: 309.0
+
+
+name: Sodium, Na
+unit: mg
+value: 78.0
+label: patty
+value: 73.0
+label: serving ( 3 oz )
+value: 66.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 5.2
+label: patty
+value: 4.84
+label: serving ( 3 oz )
+value: 4.42
+
+
+name: Copper, Cu
+unit: mg
+value: 0.1
+label: patty
+value: 0.093
+label: serving ( 3 oz )
+value: 0.085
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.013
+label: patty
+value: 0.012
+label: serving ( 3 oz )
+value: 0.011
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 10.3
+label: patty
+value: 9.6
+label: serving ( 3 oz )
+value: 8.8
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: patty
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.503
+label: patty
+value: 0.468
+label: serving ( 3 oz )
+value: 0.428
+
+
+name: Riboflavin
+unit: mg
+value: 0.327
+label: patty
+value: 0.304
+label: serving ( 3 oz )
+value: 0.278
+
+
+name: Niacin
+unit: mg
+value: 9.257
+label: patty
+value: 8.609
+label: serving ( 3 oz )
+value: 7.868
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.76
+label: patty
+value: 0.707
+label: serving ( 3 oz )
+value: 0.646
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.468
+label: patty
+value: 0.435
+label: serving ( 3 oz )
+value: 0.398
+
+
+name: Folate, total
+unit: \u00B5g
+value: 8.0
+label: patty
+value: 7.0
+label: serving ( 3 oz )
+value: 7.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: patty
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 8.0
+label: patty
+value: 7.0
+label: serving ( 3 oz )
+value: 7.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 8.0
+label: patty
+value: 7.0
+label: serving ( 3 oz )
+value: 7.0
+
+
+name: Choline, total
+unit: mg
+value: 101.9
+label: patty
+value: 94.8
+label: serving ( 3 oz )
+value: 86.6
+
+
+name: Betaine
+unit: mg
+value: 13.4
+label: patty
+value: 12.5
+label: serving ( 3 oz )
+value: 11.4
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 2.32
+label: patty
+value: 2.16
+label: serving ( 3 oz )
+value: 1.97
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: patty
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 0.0
+label: patty
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: patty
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 0.0
+label: patty
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: patty
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: patty
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 0.0
+label: patty
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: patty
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 0.0
+label: patty
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.68
+label: patty
+value: 0.63
+label: serving ( 3 oz )
+value: 0.58
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: patty
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: patty
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+
+
+name: Vitamin D3 (cholecalciferol)
+unit: \u00B5g
+value: 0.0
+label: patty
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: patty
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 1.4
+label: patty
+value: 1.3
+label: serving ( 3 oz )
+value: 1.2
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 3.993
+label: patty
+value: 3.713
+label: serving ( 3 oz )
+value: 3.394
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: patty
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: patty
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: patty
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: patty
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.011
+label: patty
+value: 0.01
+label: serving ( 3 oz )
+value: 0.009
+
+
+name: 14:0
+unit: g
+value: 0.32
+label: patty
+value: 0.298
+label: serving ( 3 oz )
+value: 0.272
+
+
+name: 15:0
+unit: g
+value: 0.086
+label: patty
+value: 0.08
+label: serving ( 3 oz )
+value: 0.073
+
+
+name: 16:0
+unit: g
+value: 1.769
+label: patty
+value: 1.645
+label: serving ( 3 oz )
+value: 1.504
+
+
+name: 17:0
+unit: g
+value: 0.096
+label: patty
+value: 0.089
+label: serving ( 3 oz )
+value: 0.082
+
+
+name: 18:0
+unit: g
+value: 1.691
+label: patty
+value: 1.573
+label: serving ( 3 oz )
+value: 1.437
+
+
+name: 20:0
+unit: g
+value: 0.019
+label: patty
+value: 0.018
+label: serving ( 3 oz )
+value: 0.016
+
+
+name: 22:0
+unit: g
+value: 0.002
+label: patty
+value: 0.002
+label: serving ( 3 oz )
+value: 0.002
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 1.939
+label: patty
+value: 1.803
+label: serving ( 3 oz )
+value: 1.648
+
+
+name: 14:1
+unit: g
+value: 0.064
+label: patty
+value: 0.06
+label: serving ( 3 oz )
+value: 0.054
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: patty
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.291
+label: patty
+value: 0.271
+label: serving ( 3 oz )
+value: 0.247
+
+
+name: 17:1
+unit: g
+value: 0.031
+label: patty
+value: 0.029
+label: serving ( 3 oz )
+value: 0.026
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 1.545
+label: patty
+value: 1.437
+label: serving ( 3 oz )
+value: 1.313
+
+
+name: 20:1
+unit: g
+value: 0.008
+label: patty
+value: 0.007
+label: serving ( 3 oz )
+value: 0.007
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: patty
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.444
+label: patty
+value: 0.413
+label: serving ( 3 oz )
+value: 0.377
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.262
+label: patty
+value: 0.244
+label: serving ( 3 oz )
+value: 0.223
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.098
+label: patty
+value: 0.091
+label: serving ( 3 oz )
+value: 0.083
+
+
+name: 18:3 n-6 c,c,c
+unit: g
+value: 0.004
+label: patty
+value: 0.004
+label: serving ( 3 oz )
+value: 0.003
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: patty
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.0
+label: patty
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.0
+label: patty
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.081
+label: patty
+value: 0.075
+label: serving ( 3 oz )
+value: 0.069
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: patty
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: patty
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: patty
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 98.0
+label: patty
+value: 91.0
+label: serving ( 3 oz )
+value: 83.0
+
+
+name: Tryptophan
+unit: g
+value: 0.234
+label: patty
+value: 0.218
+label: serving ( 3 oz )
+value: 0.199
+
+
+name: Threonine
+unit: g
+value: 0.998
+label: patty
+value: 0.928
+label: serving ( 3 oz )
+value: 0.848
+
+
+name: Isoleucine
+unit: g
+value: 1.133
+label: patty
+value: 1.054
+label: serving ( 3 oz )
+value: 0.963
+
+
+name: Leucine
+unit: g
+value: 2.008
+label: patty
+value: 1.867
+label: serving ( 3 oz )
+value: 1.707
+
+
+name: Lysine
+unit: g
+value: 2.143
+label: patty
+value: 1.993
+label: serving ( 3 oz )
+value: 1.822
+
+
+name: Methionine
+unit: g
+value: 0.616
+label: patty
+value: 0.573
+label: serving ( 3 oz )
+value: 0.524
+
+
+name: Cystine
+unit: g
+value: 0.246
+label: patty
+value: 0.229
+label: serving ( 3 oz )
+value: 0.209
+
+
+name: Phenylalanine
+unit: g
+value: 0.998
+label: patty
+value: 0.928
+label: serving ( 3 oz )
+value: 0.848
+
+
+name: Tyrosine
+unit: g
+value: 0.825
+label: patty
+value: 0.767
+label: serving ( 3 oz )
+value: 0.701
+
+
+name: Valine
+unit: g
+value: 1.281
+label: patty
+value: 1.191
+label: serving ( 3 oz )
+value: 1.089
+
+
+name: Arginine
+unit: g
+value: 1.576
+label: patty
+value: 1.466
+label: serving ( 3 oz )
+value: 1.34
+
+
+name: Histidine
+unit: g
+value: 0.788
+label: patty
+value: 0.733
+label: serving ( 3 oz )
+value: 0.67
+
+
+name: Alanine
+unit: g
+value: 1.54
+label: patty
+value: 1.432
+label: serving ( 3 oz )
+value: 1.309
+
+
+name: Aspartic acid
+unit: g
+value: 2.291
+label: patty
+value: 2.131
+label: serving ( 3 oz )
+value: 1.947
+
+
+name: Glutamic acid
+unit: g
+value: 3.744
+label: patty
+value: 3.482
+label: serving ( 3 oz )
+value: 3.182
+
+
+name: Glycine
+unit: g
+value: 1.441
+label: patty
+value: 1.34
+label: serving ( 3 oz )
+value: 1.225
+
+
+name: Proline
+unit: g
+value: 1.158
+label: patty
+value: 1.077
+label: serving ( 3 oz )
+value: 0.984
+
+
+name: Serine
+unit: g
+value: 0.911
+label: patty
+value: 0.847
+label: serving ( 3 oz )
+value: 0.774
+
+
+name: Hydroxyproline
+unit: g
+value: 0.382
+label: patty
+value: 0.355
+label: serving ( 3 oz )
+value: 0.325
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: patty
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: patty
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: patty
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+
+
+

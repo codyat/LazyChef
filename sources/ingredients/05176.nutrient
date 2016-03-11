@@ -1,0 +1,838 @@
+ndbno: 05176
+
+
+name: Turkey, heart, all classes, cooked, simmered
+
+
+name: Water
+unit: g
+value: 67.15
+label: heart
+value: 13.43
+
+
+name: Energy
+unit: kcal
+value: 174.0
+label: heart
+value: 35.0
+
+
+name: Energy
+unit: kJ
+value: 728.0
+label: heart
+value: 146.0
+
+
+name: Protein
+unit: g
+value: 24.88
+label: heart
+value: 4.98
+
+
+name: Total lipid (fat)
+unit: g
+value: 7.52
+label: heart
+value: 1.5
+
+
+name: Ash
+unit: g
+value: 1.21
+label: heart
+value: 0.24
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 0.0
+label: heart
+value: 0.0
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: heart
+value: 0.0
+
+
+name: Sugars, total
+unit: g
+value: 0.0
+label: heart
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 21.0
+label: heart
+value: 4.0
+
+
+name: Iron, Fe
+unit: mg
+value: 6.96
+label: heart
+value: 1.39
+
+
+name: Magnesium, Mg
+unit: mg
+value: 28.0
+label: heart
+value: 6.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 241.0
+label: heart
+value: 48.0
+
+
+name: Potassium, K
+unit: mg
+value: 203.0
+label: heart
+value: 41.0
+
+
+name: Sodium, Na
+unit: mg
+value: 140.0
+label: heart
+value: 28.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 4.6
+label: heart
+value: 0.92
+
+
+name: Copper, Cu
+unit: mg
+value: 0.825
+label: heart
+value: 0.165
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.121
+label: heart
+value: 0.024
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 56.8
+label: heart
+value: 11.4
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: heart
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.236
+label: heart
+value: 0.047
+
+
+name: Riboflavin
+unit: mg
+value: 1.54
+label: heart
+value: 0.308
+
+
+name: Niacin
+unit: mg
+value: 7.76
+label: heart
+value: 1.552
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.608
+label: heart
+value: 0.122
+
+
+name: Folate, total
+unit: \u00B5g
+value: 8.0
+label: heart
+value: 2.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: heart
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 8.0
+label: heart
+value: 2.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 8.0
+label: heart
+value: 2.0
+
+
+name: Choline, total
+unit: mg
+value: 172.5
+label: heart
+value: 34.5
+
+
+name: Betaine
+unit: mg
+value: 3.1
+label: heart
+value: 0.6
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 13.9
+label: heart
+value: 2.78
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: heart
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 16.0
+label: heart
+value: 3.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 16.0
+label: heart
+value: 3.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 0.0
+label: heart
+value: 0.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: heart
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: heart
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 54.0
+label: heart
+value: 11.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: heart
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 0.0
+label: heart
+value: 0.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.13
+label: heart
+value: 0.03
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: heart
+value: 0.0
+
+
+name: Tocopherol, beta
+unit: mg
+value: 0.0
+label: heart
+value: 0.0
+
+
+name: Tocopherol, gamma
+unit: mg
+value: 0.16
+label: heart
+value: 0.03
+
+
+name: Tocopherol, delta
+unit: mg
+value: 0.0
+label: heart
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: heart
+value: 0.0
+
+
+name: Vitamin D3 (cholecalciferol)
+unit: \u00B5g
+value: 0.0
+label: heart
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: heart
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 0.0
+label: heart
+value: 0.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 1.898
+label: heart
+value: 0.38
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: heart
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: heart
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: heart
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.004
+label: heart
+value: 0.001
+
+
+name: 12:0
+unit: g
+value: 0.054
+label: heart
+value: 0.011
+
+
+name: 14:0
+unit: g
+value: 0.064
+label: heart
+value: 0.013
+
+
+name: 15:0
+unit: g
+value: 0.009
+label: heart
+value: 0.002
+
+
+name: 16:0
+unit: g
+value: 1.117
+label: heart
+value: 0.223
+
+
+name: 17:0
+unit: g
+value: 0.016
+label: heart
+value: 0.003
+
+
+name: 18:0
+unit: g
+value: 0.625
+label: heart
+value: 0.125
+
+
+name: 20:0
+unit: g
+value: 0.007
+label: heart
+value: 0.001
+
+
+name: 22:0
+unit: g
+value: 0.003
+label: heart
+value: 0.001
+
+
+name: 24:0
+unit: g
+value: 0.0
+label: heart
+value: 0.0
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 1.668
+label: heart
+value: 0.334
+
+
+name: 14:1
+unit: g
+value: 0.005
+label: heart
+value: 0.001
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: heart
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.112
+label: heart
+value: 0.022
+
+
+name: 16:1 c
+unit: g
+value: 0.109
+label: heart
+value: 0.022
+
+
+name: 16:1 t
+unit: g
+value: 0.003
+label: heart
+value: 0.001
+
+
+name: 17:1
+unit: g
+value: 0.011
+label: heart
+value: 0.002
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 1.519
+label: heart
+value: 0.304
+
+
+name: 18:1 c
+unit: g
+value: 1.476
+label: heart
+value: 0.295
+
+
+name: 18:1 t
+unit: g
+value: 0.043
+label: heart
+value: 0.009
+
+
+name: 20:1
+unit: g
+value: 0.021
+label: heart
+value: 0.004
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: heart
+value: 0.0
+
+
+name: 22:1 c
+unit: g
+value: 0.0
+label: heart
+value: 0.0
+
+
+name: 22:1 t
+unit: g
+value: 0.0
+label: heart
+value: 0.0
+
+
+name: 24:1 c
+unit: g
+value: 0.0
+label: heart
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 1.832
+label: heart
+value: 0.366
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 1.412
+label: heart
+value: 0.282
+
+
+name: 18:2 n-6 c,c
+unit: g
+value: 1.39
+label: heart
+value: 0.278
+
+
+name: 18:2 CLAs
+unit: g
+value: 0.007
+label: heart
+value: 0.001
+
+
+name: 18:2 t not further defined
+unit: g
+value: 0.016
+label: heart
+value: 0.003
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.05
+label: heart
+value: 0.01
+
+
+name: 18:3 n-3 c,c,c (ALA)
+unit: g
+value: 0.049
+label: heart
+value: 0.01
+
+
+name: 18:3 n-6 c,c,c
+unit: g
+value: 0.001
+label: heart
+value: 0.0
+
+
+name: 18:4
+unit: g
+value: 0.009
+label: heart
+value: 0.002
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.009
+label: heart
+value: 0.002
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.008
+label: heart
+value: 0.002
+
+
+name: 20:3 n-6
+unit: g
+value: 0.008
+label: heart
+value: 0.002
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.305
+label: heart
+value: 0.061
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.009
+label: heart
+value: 0.002
+
+
+name: 22:4
+unit: g
+value: 0.016
+label: heart
+value: 0.003
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.007
+label: heart
+value: 0.001
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.005
+label: heart
+value: 0.001
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.061
+label: heart
+value: 0.012
+
+
+name: Fatty acids, total trans-monoenoic
+unit: g
+value: 0.046
+label: heart
+value: 0.009
+
+
+name: Cholesterol
+unit: mg
+value: 359.0
+label: heart
+value: 72.0
+
+
+name: Tryptophan
+unit: g
+value: 0.271
+label: heart
+value: 0.054
+
+
+name: Threonine
+unit: g
+value: 0.899
+label: heart
+value: 0.18
+
+
+name: Isoleucine
+unit: g
+value: 0.707
+label: heart
+value: 0.141
+
+
+name: Leucine
+unit: g
+value: 1.785
+label: heart
+value: 0.357
+
+
+name: Lysine
+unit: g
+value: 1.877
+label: heart
+value: 0.375
+
+
+name: Methionine
+unit: g
+value: 0.628
+label: heart
+value: 0.126
+
+
+name: Cystine
+unit: g
+value: 0.289
+label: heart
+value: 0.058
+
+
+name: Phenylalanine
+unit: g
+value: 0.916
+label: heart
+value: 0.183
+
+
+name: Tyrosine
+unit: g
+value: 0.787
+label: heart
+value: 0.157
+
+
+name: Valine
+unit: g
+value: 0.876
+label: heart
+value: 0.175
+
+
+name: Arginine
+unit: g
+value: 1.454
+label: heart
+value: 0.291
+
+
+name: Histidine
+unit: g
+value: 0.543
+label: heart
+value: 0.109
+
+
+name: Alanine
+unit: g
+value: 1.369
+label: heart
+value: 0.274
+
+
+name: Aspartic acid
+unit: g
+value: 1.936
+label: heart
+value: 0.387
+
+
+name: Glutamic acid
+unit: g
+value: 3.246
+label: heart
+value: 0.649
+
+
+name: Glycine
+unit: g
+value: 1.344
+label: heart
+value: 0.269
+
+
+name: Proline
+unit: g
+value: 1.509
+label: heart
+value: 0.302
+
+
+name: Serine
+unit: g
+value: 1.067
+label: heart
+value: 0.213
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: heart
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: heart
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: heart
+value: 0.0
+

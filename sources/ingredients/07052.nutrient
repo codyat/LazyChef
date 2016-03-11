@@ -1,0 +1,825 @@
+ndbno: 07052
+
+
+name: Pastrami, turkey
+
+
+name: Water
+unit: g
+value: 71.73
+label: slices
+value: 40.89
+label: package (8 oz)
+value: 162.83
+
+
+name: Energy
+unit: kcal
+value: 139.0
+label: slices
+value: 79.0
+label: package (8 oz)
+value: 316.0
+
+
+name: Energy
+unit: kJ
+value: 580.0
+label: slices
+value: 331.0
+label: package (8 oz)
+value: 1317.0
+
+
+name: Protein
+unit: g
+value: 16.3
+label: slices
+value: 9.29
+label: package (8 oz)
+value: 37.0
+
+
+name: Total lipid (fat)
+unit: g
+value: 6.21
+label: slices
+value: 3.54
+label: package (8 oz)
+value: 14.1
+
+
+name: Ash
+unit: g
+value: 3.98
+label: slices
+value: 2.27
+label: package (8 oz)
+value: 9.03
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 3.34
+label: slices
+value: 1.9
+label: package (8 oz)
+value: 7.58
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.1
+label: slices
+value: 0.1
+label: package (8 oz)
+value: 0.2
+
+
+name: Sugars, total
+unit: g
+value: 3.34
+label: slices
+value: 1.9
+label: package (8 oz)
+value: 7.58
+
+
+name: Calcium, Ca
+unit: mg
+value: 11.0
+label: slices
+value: 6.0
+label: package (8 oz)
+value: 25.0
+
+
+name: Iron, Fe
+unit: mg
+value: 4.2
+label: slices
+value: 2.39
+label: package (8 oz)
+value: 9.53
+
+
+name: Magnesium, Mg
+unit: mg
+value: 14.0
+label: slices
+value: 8.0
+label: package (8 oz)
+value: 32.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 200.0
+label: slices
+value: 114.0
+label: package (8 oz)
+value: 454.0
+
+
+name: Potassium, K
+unit: mg
+value: 345.0
+label: slices
+value: 197.0
+label: package (8 oz)
+value: 783.0
+
+
+name: Sodium, Na
+unit: mg
+value: 1123.0
+label: slices
+value: 640.0
+label: package (8 oz)
+value: 2549.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 2.16
+label: slices
+value: 1.23
+label: package (8 oz)
+value: 4.9
+
+
+name: Copper, Cu
+unit: mg
+value: 0.05
+label: slices
+value: 0.028
+label: package (8 oz)
+value: 0.114
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.013
+label: slices
+value: 0.007
+label: package (8 oz)
+value: 0.03
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 16.1
+label: slices
+value: 9.2
+label: package (8 oz)
+value: 36.5
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 8.1
+label: slices
+value: 4.6
+label: package (8 oz)
+value: 18.4
+
+
+name: Thiamin
+unit: mg
+value: 0.055
+label: slices
+value: 0.031
+label: package (8 oz)
+value: 0.125
+
+
+name: Riboflavin
+unit: mg
+value: 0.25
+label: slices
+value: 0.142
+label: package (8 oz)
+value: 0.568
+
+
+name: Niacin
+unit: mg
+value: 3.527
+label: slices
+value: 2.01
+label: package (8 oz)
+value: 8.006
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.58
+label: slices
+value: 0.331
+label: package (8 oz)
+value: 1.317
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.27
+label: slices
+value: 0.154
+label: package (8 oz)
+value: 0.613
+
+
+name: Folate, total
+unit: \u00B5g
+value: 5.0
+label: slices
+value: 3.0
+label: package (8 oz)
+value: 11.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: slices
+value: 0.0
+label: package (8 oz)
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 5.0
+label: slices
+value: 3.0
+label: package (8 oz)
+value: 11.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 5.0
+label: slices
+value: 3.0
+label: package (8 oz)
+value: 11.0
+
+
+name: Choline, total
+unit: mg
+value: 66.7
+label: slices
+value: 38.0
+label: package (8 oz)
+value: 151.4
+
+
+name: Betaine
+unit: mg
+value: 5.9
+label: slices
+value: 3.4
+label: package (8 oz)
+value: 13.4
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.24
+label: slices
+value: 0.14
+label: package (8 oz)
+value: 0.54
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: slices
+value: 0.0
+label: package (8 oz)
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 4.0
+label: slices
+value: 2.0
+label: package (8 oz)
+value: 9.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 4.0
+label: slices
+value: 2.0
+label: package (8 oz)
+value: 9.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 7.0
+label: slices
+value: 4.0
+label: package (8 oz)
+value: 16.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: slices
+value: 0.0
+label: package (8 oz)
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: slices
+value: 0.0
+label: package (8 oz)
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 12.0
+label: slices
+value: 7.0
+label: package (8 oz)
+value: 27.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: slices
+value: 0.0
+label: package (8 oz)
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 0.0
+label: slices
+value: 0.0
+label: package (8 oz)
+value: 0.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.22
+label: slices
+value: 0.13
+label: package (8 oz)
+value: 0.5
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: slices
+value: 0.0
+label: package (8 oz)
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.2
+label: slices
+value: 0.1
+label: package (8 oz)
+value: 0.5
+
+
+name: Vitamin D3 (cholecalciferol)
+unit: \u00B5g
+value: 0.2
+label: slices
+value: 0.1
+label: package (8 oz)
+value: 0.5
+
+
+name: Vitamin D
+unit: IU
+value: 10.0
+label: slices
+value: 6.0
+label: package (8 oz)
+value: 23.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 0.0
+label: slices
+value: 0.0
+label: package (8 oz)
+value: 0.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 1.395
+label: slices
+value: 0.795
+label: package (8 oz)
+value: 3.167
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: slices
+value: 0.0
+label: package (8 oz)
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: slices
+value: 0.0
+label: package (8 oz)
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: slices
+value: 0.0
+label: package (8 oz)
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: slices
+value: 0.0
+label: package (8 oz)
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.01
+label: slices
+value: 0.006
+label: package (8 oz)
+value: 0.023
+
+
+name: 14:0
+unit: g
+value: 0.04
+label: slices
+value: 0.023
+label: package (8 oz)
+value: 0.091
+
+
+name: 16:0
+unit: g
+value: 1.11
+label: slices
+value: 0.633
+label: package (8 oz)
+value: 2.52
+
+
+name: 18:0
+unit: g
+value: 0.45
+label: slices
+value: 0.256
+label: package (8 oz)
+value: 1.022
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 1.93
+label: slices
+value: 1.1
+label: package (8 oz)
+value: 4.381
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.34
+label: slices
+value: 0.194
+label: package (8 oz)
+value: 0.772
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 1.66
+label: slices
+value: 0.946
+label: package (8 oz)
+value: 3.768
+
+
+name: 20:1
+unit: g
+value: 0.01
+label: slices
+value: 0.006
+label: package (8 oz)
+value: 0.023
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.01
+label: slices
+value: 0.006
+label: package (8 oz)
+value: 0.023
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 1.42
+label: slices
+value: 0.809
+label: package (8 oz)
+value: 3.223
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 1.32
+label: slices
+value: 0.752
+label: package (8 oz)
+value: 2.996
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.07
+label: slices
+value: 0.04
+label: package (8 oz)
+value: 0.159
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: slices
+value: 0.0
+label: package (8 oz)
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.12
+label: slices
+value: 0.068
+label: package (8 oz)
+value: 0.272
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: slices
+value: 0.0
+label: package (8 oz)
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.02
+label: slices
+value: 0.011
+label: package (8 oz)
+value: 0.045
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.02
+label: slices
+value: 0.011
+label: package (8 oz)
+value: 0.045
+
+
+name: Cholesterol
+unit: mg
+value: 68.0
+label: slices
+value: 39.0
+label: package (8 oz)
+value: 154.0
+
+
+name: Tryptophan
+unit: g
+value: 0.203
+label: slices
+value: 0.116
+label: package (8 oz)
+value: 0.461
+
+
+name: Threonine
+unit: g
+value: 0.798
+label: slices
+value: 0.455
+label: package (8 oz)
+value: 1.811
+
+
+name: Isoleucine
+unit: g
+value: 0.918
+label: slices
+value: 0.523
+label: package (8 oz)
+value: 2.084
+
+
+name: Leucine
+unit: g
+value: 1.421
+label: slices
+value: 0.81
+label: package (8 oz)
+value: 3.226
+
+
+name: Lysine
+unit: g
+value: 1.662
+label: slices
+value: 0.947
+label: package (8 oz)
+value: 3.773
+
+
+name: Methionine
+unit: g
+value: 0.512
+label: slices
+value: 0.292
+label: package (8 oz)
+value: 1.162
+
+
+name: Cystine
+unit: g
+value: 0.206
+label: slices
+value: 0.117
+label: package (8 oz)
+value: 0.468
+
+
+name: Phenylalanine
+unit: g
+value: 0.715
+label: slices
+value: 0.408
+label: package (8 oz)
+value: 1.623
+
+
+name: Tyrosine
+unit: g
+value: 0.694
+label: slices
+value: 0.396
+label: package (8 oz)
+value: 1.575
+
+
+name: Valine
+unit: g
+value: 0.952
+label: slices
+value: 0.543
+label: package (8 oz)
+value: 2.161
+
+
+name: Arginine
+unit: g
+value: 1.29
+label: slices
+value: 0.735
+label: package (8 oz)
+value: 2.928
+
+
+name: Histidine
+unit: g
+value: 0.549
+label: slices
+value: 0.313
+label: package (8 oz)
+value: 1.246
+
+
+name: Alanine
+unit: g
+value: 1.166
+label: slices
+value: 0.665
+label: package (8 oz)
+value: 2.647
+
+
+name: Aspartic acid
+unit: g
+value: 1.761
+label: slices
+value: 1.004
+label: package (8 oz)
+value: 3.997
+
+
+name: Glutamic acid
+unit: g
+value: 2.92
+label: slices
+value: 1.664
+label: package (8 oz)
+value: 6.628
+
+
+name: Glycine
+unit: g
+value: 1.103
+label: slices
+value: 0.629
+label: package (8 oz)
+value: 2.504
+
+
+name: Proline
+unit: g
+value: 0.85
+label: slices
+value: 0.484
+label: package (8 oz)
+value: 1.93
+
+
+name: Serine
+unit: g
+value: 0.806
+label: slices
+value: 0.459
+label: package (8 oz)
+value: 1.83
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: slices
+value: 0.0
+label: package (8 oz)
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: slices
+value: 0.0
+label: package (8 oz)
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: slices
+value: 0.0
+label: package (8 oz)
+value: 0.0
+
+

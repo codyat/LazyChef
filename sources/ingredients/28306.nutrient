@@ -1,0 +1,608 @@
+ndbno: 28306
+
+
+name: Bread, chapati or roti, plain, commercially prepared
+
+
+name: Water
+unit: g
+value: 33.0
+label: piece
+value: 22.44
+
+
+name: Energy
+unit: kcal
+value: 297.0
+label: piece
+value: 202.0
+
+
+name: Energy
+unit: kJ
+value: 1245.0
+label: piece
+value: 847.0
+
+
+name: Protein
+unit: g
+value: 11.25
+label: piece
+value: 7.65
+
+
+name: Total lipid (fat)
+unit: g
+value: 7.45
+label: piece
+value: 5.07
+
+
+name: Ash
+unit: g
+value: 1.94
+label: piece
+value: 1.32
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 46.36
+label: piece
+value: 31.52
+
+
+name: Fiber, total dietary
+unit: g
+value: 4.9
+label: piece
+value: 3.3
+
+
+name: Sugars, total
+unit: g
+value: 2.72
+label: piece
+value: 1.85
+
+
+name: Sucrose
+unit: g
+value: 0.29
+label: piece
+value: 0.2
+
+
+name: Glucose (dextrose)
+unit: g
+value: 0.25
+label: piece
+value: 0.17
+
+
+name: Fructose
+unit: g
+value: 0.54
+label: piece
+value: 0.37
+
+
+name: Lactose
+unit: g
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: Maltose
+unit: g
+value: 1.65
+label: piece
+value: 1.12
+
+
+name: Galactose
+unit: g
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: Starch
+unit: g
+value: 37.75
+label: piece
+value: 25.67
+
+
+name: Calcium, Ca
+unit: mg
+value: 93.0
+label: piece
+value: 63.0
+
+
+name: Iron, Fe
+unit: mg
+value: 3.01
+label: piece
+value: 2.05
+
+
+name: Magnesium, Mg
+unit: mg
+value: 62.0
+label: piece
+value: 42.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 184.0
+label: piece
+value: 125.0
+
+
+name: Potassium, K
+unit: mg
+value: 266.0
+label: piece
+value: 181.0
+
+
+name: Sodium, Na
+unit: mg
+value: 409.0
+label: piece
+value: 278.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 1.57
+label: piece
+value: 1.07
+
+
+name: Copper, Cu
+unit: mg
+value: 0.252
+label: piece
+value: 0.171
+
+
+name: Manganese, Mn
+unit: mg
+value: 1.251
+label: piece
+value: 0.851
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 53.7
+label: piece
+value: 36.5
+
+
+name: Thiamin
+unit: mg
+value: 0.55
+label: piece
+value: 0.374
+
+
+name: Riboflavin
+unit: mg
+value: 0.2
+label: piece
+value: 0.136
+
+
+name: Niacin
+unit: mg
+value: 6.78
+label: piece
+value: 4.61
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.58
+label: piece
+value: 0.394
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.27
+label: piece
+value: 0.184
+
+
+name: Folate, total
+unit: \u00B5g
+value: 61.0
+label: piece
+value: 41.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 61.0
+label: piece
+value: 41.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.88
+label: piece
+value: 0.6
+
+
+name: Tocopherol, beta
+unit: mg
+value: 0.22
+label: piece
+value: 0.15
+
+
+name: Tocopherol, gamma
+unit: mg
+value: 0.89
+label: piece
+value: 0.61
+
+
+name: Tocopherol, delta
+unit: mg
+value: 0.1
+label: piece
+value: 0.07
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 1.953
+label: piece
+value: 1.328
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.011
+label: piece
+value: 0.007
+
+
+name: 12:0
+unit: g
+value: 0.01
+label: piece
+value: 0.007
+
+
+name: 14:0
+unit: g
+value: 0.035
+label: piece
+value: 0.024
+
+
+name: 15:0
+unit: g
+value: 0.005
+label: piece
+value: 0.003
+
+
+name: 16:0
+unit: g
+value: 1.645
+label: piece
+value: 1.119
+
+
+name: 17:0
+unit: g
+value: 0.005
+label: piece
+value: 0.003
+
+
+name: 18:0
+unit: g
+value: 0.21
+label: piece
+value: 0.143
+
+
+name: 20:0
+unit: g
+value: 0.018
+label: piece
+value: 0.012
+
+
+name: 22:0
+unit: g
+value: 0.008
+label: piece
+value: 0.005
+
+
+name: 24:0
+unit: g
+value: 0.006
+label: piece
+value: 0.004
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 1.893
+label: piece
+value: 1.287
+
+
+name: 14:1
+unit: g
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.008
+label: piece
+value: 0.005
+
+
+name: 16:1 c
+unit: g
+value: 0.008
+label: piece
+value: 0.005
+
+
+name: 16:1 t
+unit: g
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: 17:1
+unit: g
+value: 0.003
+label: piece
+value: 0.002
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 1.854
+label: piece
+value: 1.261
+
+
+name: 18:1 c
+unit: g
+value: 1.828
+label: piece
+value: 1.243
+
+
+name: 18:1 t
+unit: g
+value: 0.026
+label: piece
+value: 0.018
+
+
+name: 20:1
+unit: g
+value: 0.028
+label: piece
+value: 0.019
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: 22:1 c
+unit: g
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: 22:1 t
+unit: g
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: 24:1 c
+unit: g
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 1.147
+label: piece
+value: 0.78
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 1.013
+label: piece
+value: 0.689
+
+
+name: 18:2 n-6 c,c
+unit: g
+value: 1.003
+label: piece
+value: 0.682
+
+
+name: 18:2 CLAs
+unit: g
+value: 0.002
+label: piece
+value: 0.001
+
+
+name: 18:2 t not further defined
+unit: g
+value: 0.008
+label: piece
+value: 0.005
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.132
+label: piece
+value: 0.09
+
+
+name: 18:3 n-3 c,c,c (ALA)
+unit: g
+value: 0.129
+label: piece
+value: 0.088
+
+
+name: 18:3 n-6 c,c,c
+unit: g
+value: 0.004
+label: piece
+value: 0.003
+
+
+name: 18:3i
+unit: g
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.001
+label: piece
+value: 0.001
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: 20:3 n-6
+unit: g
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: 22:4
+unit: g
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.034
+label: piece
+value: 0.023
+
+
+name: Fatty acids, total trans-monoenoic
+unit: g
+value: 0.026
+label: piece
+value: 0.018
+
+

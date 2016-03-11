@@ -1,0 +1,735 @@
+ndbno: 22928
+
+
+name: Burrito, beef and bean, microwaved
+
+
+name: Water
+unit: g
+value: 38.14
+label: burrito cooked
+value: 44.24
+label: oz
+value: 10.81
+
+
+name: Energy
+unit: kcal
+value: 298.0
+label: burrito cooked
+value: 346.0
+label: oz
+value: 84.0
+
+
+name: Energy
+unit: kJ
+value: 1247.0
+label: burrito cooked
+value: 1447.0
+label: oz
+value: 354.0
+
+
+name: Protein
+unit: g
+value: 8.73
+label: burrito cooked
+value: 10.13
+label: oz
+value: 2.47
+
+
+name: Total lipid (fat)
+unit: g
+value: 11.94
+label: burrito cooked
+value: 13.85
+label: oz
+value: 3.38
+
+
+name: Ash
+unit: g
+value: 2.24
+label: burrito cooked
+value: 2.6
+label: oz
+value: 0.64
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 38.95
+label: burrito cooked
+value: 45.18
+label: oz
+value: 11.04
+
+
+name: Fiber, total dietary
+unit: g
+value: 6.9
+label: burrito cooked
+value: 8.0
+label: oz
+value: 2.0
+
+
+name: Sugars, total
+unit: g
+value: 1.36
+label: burrito cooked
+value: 1.58
+label: oz
+value: 0.39
+
+
+name: Sucrose
+unit: g
+value: 0.47
+label: burrito cooked
+value: 0.55
+label: oz
+value: 0.13
+
+
+name: Glucose (dextrose)
+unit: g
+value: 0.0
+label: burrito cooked
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Fructose
+unit: g
+value: 0.14
+label: burrito cooked
+value: 0.16
+label: oz
+value: 0.04
+
+
+name: Lactose
+unit: g
+value: 0.0
+label: burrito cooked
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Maltose
+unit: g
+value: 0.75
+label: burrito cooked
+value: 0.87
+label: oz
+value: 0.21
+
+
+name: Galactose
+unit: g
+value: 0.0
+label: burrito cooked
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 39.0
+label: burrito cooked
+value: 45.0
+label: oz
+value: 11.0
+
+
+name: Iron, Fe
+unit: mg
+value: 3.12
+label: burrito cooked
+value: 3.62
+label: oz
+value: 0.88
+
+
+name: Magnesium, Mg
+unit: mg
+value: 36.0
+label: burrito cooked
+value: 42.0
+label: oz
+value: 10.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 97.0
+label: burrito cooked
+value: 113.0
+label: oz
+value: 27.0
+
+
+name: Potassium, K
+unit: mg
+value: 271.0
+label: burrito cooked
+value: 314.0
+label: oz
+value: 77.0
+
+
+name: Sodium, Na
+unit: mg
+value: 659.0
+label: burrito cooked
+value: 764.0
+label: oz
+value: 187.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 1.24
+label: burrito cooked
+value: 1.44
+label: oz
+value: 0.35
+
+
+name: Copper, Cu
+unit: mg
+value: 0.228
+label: burrito cooked
+value: 0.264
+label: oz
+value: 0.065
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.531
+label: burrito cooked
+value: 0.616
+label: oz
+value: 0.151
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 13.6
+label: burrito cooked
+value: 15.8
+label: oz
+value: 3.9
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 1.0
+label: burrito cooked
+value: 1.2
+label: oz
+value: 0.3
+
+
+name: Thiamin
+unit: mg
+value: 0.461
+label: burrito cooked
+value: 0.535
+label: oz
+value: 0.131
+
+
+name: Riboflavin
+unit: mg
+value: 0.23
+label: burrito cooked
+value: 0.267
+label: oz
+value: 0.065
+
+
+name: Niacin
+unit: mg
+value: 3.566
+label: burrito cooked
+value: 4.137
+label: oz
+value: 1.011
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.008
+label: burrito cooked
+value: 0.009
+label: oz
+value: 0.002
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.132
+label: burrito cooked
+value: 0.153
+label: oz
+value: 0.037
+
+
+name: Folate, total
+unit: \u00B5g
+value: 76.0
+label: burrito cooked
+value: 88.0
+label: oz
+value: 22.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 53.0
+label: burrito cooked
+value: 61.0
+label: oz
+value: 15.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 23.0
+label: burrito cooked
+value: 27.0
+label: oz
+value: 7.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 113.0
+label: burrito cooked
+value: 131.0
+label: oz
+value: 32.0
+
+
+name: Choline, total
+unit: mg
+value: 28.1
+label: burrito cooked
+value: 32.6
+label: oz
+value: 8.0
+
+
+name: Betaine
+unit: mg
+value: 34.0
+label: burrito cooked
+value: 39.4
+label: oz
+value: 9.6
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.14
+label: burrito cooked
+value: 0.16
+label: oz
+value: 0.04
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: burrito cooked
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 13.0
+label: burrito cooked
+value: 15.0
+label: oz
+value: 4.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: burrito cooked
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 144.0
+label: burrito cooked
+value: 167.0
+label: oz
+value: 41.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: burrito cooked
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 25.0
+label: burrito cooked
+value: 29.0
+label: oz
+value: 7.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 261.0
+label: burrito cooked
+value: 303.0
+label: oz
+value: 74.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 3128.0
+label: burrito cooked
+value: 3628.0
+label: oz
+value: 887.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 64.0
+label: burrito cooked
+value: 74.0
+label: oz
+value: 18.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.79
+label: burrito cooked
+value: 0.92
+label: oz
+value: 0.22
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 7.5
+label: burrito cooked
+value: 8.7
+label: oz
+value: 2.1
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 4.072
+label: burrito cooked
+value: 4.724
+label: oz
+value: 1.154
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: burrito cooked
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: burrito cooked
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: burrito cooked
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: burrito cooked
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: burrito cooked
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.264
+label: burrito cooked
+value: 0.306
+label: oz
+value: 0.075
+
+
+name: 15:0
+unit: g
+value: 0.0
+label: burrito cooked
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 16:0
+unit: g
+value: 2.386
+label: burrito cooked
+value: 2.768
+label: oz
+value: 0.676
+
+
+name: 17:0
+unit: g
+value: 0.075
+label: burrito cooked
+value: 0.087
+label: oz
+value: 0.021
+
+
+name: 18:0
+unit: g
+value: 1.348
+label: burrito cooked
+value: 1.564
+label: oz
+value: 0.382
+
+
+name: 20:0
+unit: g
+value: 0.0
+label: burrito cooked
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 22:0
+unit: g
+value: 0.0
+label: burrito cooked
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 24:0
+unit: g
+value: 0.0
+label: burrito cooked
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 5.035
+label: burrito cooked
+value: 5.841
+label: oz
+value: 1.427
+
+
+name: 14:1
+unit: g
+value: 0.036
+label: burrito cooked
+value: 0.042
+label: oz
+value: 0.01
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.375
+label: burrito cooked
+value: 0.435
+label: oz
+value: 0.106
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 4.624
+label: burrito cooked
+value: 5.364
+label: oz
+value: 1.311
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: burrito cooked
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: burrito cooked
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 1.763
+label: burrito cooked
+value: 2.045
+label: oz
+value: 0.5
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 1.553
+label: burrito cooked
+value: 1.801
+label: oz
+value: 0.44
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.21
+label: burrito cooked
+value: 0.244
+label: oz
+value: 0.06
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: burrito cooked
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: burrito cooked
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: burrito cooked
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: burrito cooked
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: burrito cooked
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 9.0
+label: burrito cooked
+value: 10.0
+label: oz
+value: 3.0
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: burrito cooked
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: burrito cooked
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: burrito cooked
+value: 0.0
+label: oz
+value: 0.0
+
+

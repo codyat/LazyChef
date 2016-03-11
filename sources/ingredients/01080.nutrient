@@ -1,0 +1,691 @@
+ndbno: 01080
+
+
+name: Milk, reduced fat, fluid, 2% milkfat, with added nonfat milk solids and vitamin A and vitamin D
+
+
+name: Water
+unit: g
+value: 88.86
+label: cup
+value: 217.71
+label: quart
+value: 870.83
+
+
+name: Energy
+unit: kcal
+value: 51.0
+label: cup
+value: 125.0
+label: quart
+value: 500.0
+
+
+name: Energy
+unit: kJ
+value: 213.0
+label: cup
+value: 522.0
+label: quart
+value: 2087.0
+
+
+name: Protein
+unit: g
+value: 3.48
+label: cup
+value: 8.53
+label: quart
+value: 34.1
+
+
+name: Total lipid (fat)
+unit: g
+value: 1.92
+label: cup
+value: 4.7
+label: quart
+value: 18.82
+
+
+name: Ash
+unit: g
+value: 0.77
+label: cup
+value: 1.89
+label: quart
+value: 7.55
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 4.97
+label: cup
+value: 12.18
+label: quart
+value: 48.71
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: quart
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 128.0
+label: cup
+value: 314.0
+label: quart
+value: 1254.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.05
+label: cup
+value: 0.12
+label: quart
+value: 0.49
+
+
+name: Magnesium, Mg
+unit: mg
+value: 14.0
+label: cup
+value: 34.0
+label: quart
+value: 137.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 100.0
+label: cup
+value: 245.0
+label: quart
+value: 980.0
+
+
+name: Potassium, K
+unit: mg
+value: 162.0
+label: cup
+value: 397.0
+label: quart
+value: 1588.0
+
+
+name: Sodium, Na
+unit: mg
+value: 52.0
+label: cup
+value: 127.0
+label: quart
+value: 510.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.4
+label: cup
+value: 0.98
+label: quart
+value: 3.92
+
+
+name: Copper, Cu
+unit: mg
+value: 0.008
+label: cup
+value: 0.02
+label: quart
+value: 0.078
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.002
+label: cup
+value: 0.005
+label: quart
+value: 0.02
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 2.3
+label: cup
+value: 5.6
+label: quart
+value: 22.5
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 1.0
+label: cup
+value: 2.4
+label: quart
+value: 9.8
+
+
+name: Thiamin
+unit: mg
+value: 0.04
+label: cup
+value: 0.098
+label: quart
+value: 0.392
+
+
+name: Riboflavin
+unit: mg
+value: 0.173
+label: cup
+value: 0.424
+label: quart
+value: 1.695
+
+
+name: Niacin
+unit: mg
+value: 0.09
+label: cup
+value: 0.22
+label: quart
+value: 0.882
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.336
+label: cup
+value: 0.823
+label: quart
+value: 3.293
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.045
+label: cup
+value: 0.11
+label: quart
+value: 0.441
+
+
+name: Folate, total
+unit: \u00B5g
+value: 5.0
+label: cup
+value: 12.0
+label: quart
+value: 49.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: quart
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 5.0
+label: cup
+value: 12.0
+label: quart
+value: 49.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 5.0
+label: cup
+value: 12.0
+label: quart
+value: 49.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.38
+label: cup
+value: 0.93
+label: quart
+value: 3.72
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 56.0
+label: cup
+value: 137.0
+label: quart
+value: 549.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 55.0
+label: cup
+value: 135.0
+label: quart
+value: 539.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 204.0
+label: cup
+value: 500.0
+label: quart
+value: 1999.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 1.0
+label: cup
+value: 2.4
+label: quart
+value: 9.8
+
+
+name: Vitamin D
+unit: IU
+value: 40.0
+label: cup
+value: 98.0
+label: quart
+value: 392.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 1.195
+label: cup
+value: 2.928
+label: quart
+value: 11.711
+
+
+name: 4:0
+unit: g
+value: 0.062
+label: cup
+value: 0.152
+label: quart
+value: 0.608
+
+
+name: 6:0
+unit: g
+value: 0.037
+label: cup
+value: 0.091
+label: quart
+value: 0.363
+
+
+name: 8:0
+unit: g
+value: 0.021
+label: cup
+value: 0.051
+label: quart
+value: 0.206
+
+
+name: 10:0
+unit: g
+value: 0.048
+label: cup
+value: 0.118
+label: quart
+value: 0.47
+
+
+name: 12:0
+unit: g
+value: 0.054
+label: cup
+value: 0.132
+label: quart
+value: 0.529
+
+
+name: 14:0
+unit: g
+value: 0.193
+label: cup
+value: 0.473
+label: quart
+value: 1.891
+
+
+name: 16:0
+unit: g
+value: 0.505
+label: cup
+value: 1.237
+label: quart
+value: 4.949
+
+
+name: 18:0
+unit: g
+value: 0.233
+label: cup
+value: 0.571
+label: quart
+value: 2.283
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.555
+label: cup
+value: 1.36
+label: quart
+value: 5.439
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.043
+label: cup
+value: 0.105
+label: quart
+value: 0.421
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.483
+label: cup
+value: 1.183
+label: quart
+value: 4.733
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: quart
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: quart
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.071
+label: cup
+value: 0.174
+label: quart
+value: 0.696
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.043
+label: cup
+value: 0.105
+label: quart
+value: 0.421
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.028
+label: cup
+value: 0.069
+label: quart
+value: 0.274
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: quart
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: quart
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: quart
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: quart
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: quart
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 8.0
+label: cup
+value: 20.0
+label: quart
+value: 78.0
+
+
+name: Tryptophan
+unit: g
+value: 0.049
+label: cup
+value: 0.12
+label: quart
+value: 0.48
+
+
+name: Threonine
+unit: g
+value: 0.157
+label: cup
+value: 0.385
+label: quart
+value: 1.539
+
+
+name: Isoleucine
+unit: g
+value: 0.211
+label: cup
+value: 0.517
+label: quart
+value: 2.068
+
+
+name: Leucine
+unit: g
+value: 0.341
+label: cup
+value: 0.835
+label: quart
+value: 3.342
+
+
+name: Lysine
+unit: g
+value: 0.276
+label: cup
+value: 0.676
+label: quart
+value: 2.705
+
+
+name: Methionine
+unit: g
+value: 0.087
+label: cup
+value: 0.213
+label: quart
+value: 0.853
+
+
+name: Cystine
+unit: g
+value: 0.032
+label: cup
+value: 0.078
+label: quart
+value: 0.314
+
+
+name: Phenylalanine
+unit: g
+value: 0.168
+label: cup
+value: 0.412
+label: quart
+value: 1.646
+
+
+name: Tyrosine
+unit: g
+value: 0.168
+label: cup
+value: 0.412
+label: quart
+value: 1.646
+
+
+name: Valine
+unit: g
+value: 0.233
+label: cup
+value: 0.571
+label: quart
+value: 2.283
+
+
+name: Arginine
+unit: g
+value: 0.126
+label: cup
+value: 0.309
+label: quart
+value: 1.235
+
+
+name: Histidine
+unit: g
+value: 0.094
+label: cup
+value: 0.23
+label: quart
+value: 0.921
+
+
+name: Alanine
+unit: g
+value: 0.12
+label: cup
+value: 0.294
+label: quart
+value: 1.176
+
+
+name: Aspartic acid
+unit: g
+value: 0.264
+label: cup
+value: 0.647
+label: quart
+value: 2.587
+
+
+name: Glutamic acid
+unit: g
+value: 0.729
+label: cup
+value: 1.786
+label: quart
+value: 7.144
+
+
+name: Glycine
+unit: g
+value: 0.074
+label: cup
+value: 0.181
+label: quart
+value: 0.725
+
+
+name: Proline
+unit: g
+value: 0.337
+label: cup
+value: 0.826
+label: quart
+value: 3.303
+
+
+name: Serine
+unit: g
+value: 0.189
+label: cup
+value: 0.463
+label: quart
+value: 1.852
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: quart
+value: 0.0
+
+
+

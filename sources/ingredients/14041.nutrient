@@ -1,0 +1,532 @@
+ndbno: 14041
+
+
+name: Beverages, NESTLE, Boost plus, nutritional drink, ready-to-drink
+
+
+name: Water
+unit: g
+value: 71.1
+label: bottle
+value: 168.51
+
+
+name: Energy
+unit: kcal
+value: 138.0
+label: bottle
+value: 327.0
+
+
+name: Energy
+unit: kJ
+value: 579.0
+label: bottle
+value: 1372.0
+
+
+name: Protein
+unit: g
+value: 5.38
+label: bottle
+value: 12.75
+
+
+name: Total lipid (fat)
+unit: g
+value: 5.38
+label: bottle
+value: 12.75
+
+
+name: Ash
+unit: g
+value: 0.97
+label: bottle
+value: 2.3
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 17.29
+label: bottle
+value: 40.98
+
+
+name: Fiber, total dietary
+unit: g
+value: 1.2
+label: bottle
+value: 2.8
+
+
+name: Sugars, total
+unit: g
+value: 8.46
+label: bottle
+value: 20.05
+
+
+name: Calcium, Ca
+unit: mg
+value: 135.0
+label: bottle
+value: 320.0
+
+
+name: Iron, Fe
+unit: mg
+value: 1.73
+label: bottle
+value: 4.1
+
+
+name: Magnesium, Mg
+unit: mg
+value: 38.0
+label: bottle
+value: 90.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 115.0
+label: bottle
+value: 273.0
+
+
+name: Potassium, K
+unit: mg
+value: 138.0
+label: bottle
+value: 327.0
+
+
+name: Sodium, Na
+unit: mg
+value: 77.0
+label: bottle
+value: 182.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 1.73
+label: bottle
+value: 4.1
+
+
+name: Copper, Cu
+unit: mg
+value: 0.192
+label: bottle
+value: 0.455
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.269
+label: bottle
+value: 0.638
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 6.7
+label: bottle
+value: 15.9
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 23.1
+label: bottle
+value: 54.7
+
+
+name: Thiamin
+unit: mg
+value: 0.144
+label: bottle
+value: 0.341
+
+
+name: Riboflavin
+unit: mg
+value: 0.163
+label: bottle
+value: 0.386
+
+
+name: Niacin
+unit: mg
+value: 1.537
+label: bottle
+value: 3.643
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.961
+label: bottle
+value: 2.278
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.269
+label: bottle
+value: 0.638
+
+
+name: Folate, total
+unit: \u00B5g
+value: 38.0
+label: bottle
+value: 90.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 38.0
+label: bottle
+value: 90.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 0.0
+label: bottle
+value: 0.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 65.0
+label: bottle
+value: 154.0
+
+
+name: Choline, total
+unit: mg
+value: 21.1
+label: bottle
+value: 50.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.81
+label: bottle
+value: 1.92
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.81
+label: bottle
+value: 1.92
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 84.0
+label: bottle
+value: 199.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 72.0
+label: bottle
+value: 171.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 144.0
+label: bottle
+value: 341.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: bottle
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: bottle
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 480.0
+label: bottle
+value: 1138.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: bottle
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 0.0
+label: bottle
+value: 0.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 5.19
+label: bottle
+value: 12.3
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: bottle
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 2.3
+label: bottle
+value: 5.5
+
+
+name: Vitamin D3 (cholecalciferol)
+unit: \u00B5g
+value: 2.3
+label: bottle
+value: 5.5
+
+
+name: Vitamin D
+unit: IU
+value: 92.0
+label: bottle
+value: 218.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 12.3
+label: bottle
+value: 29.2
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.42
+label: bottle
+value: 0.995
+
+
+name: 4:0
+unit: g
+value: 0.001
+label: bottle
+value: 0.002
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: bottle
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: bottle
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: bottle
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: bottle
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.004
+label: bottle
+value: 0.009
+
+
+name: 15:0
+unit: g
+value: 0.029
+label: bottle
+value: 0.069
+
+
+name: 16:0
+unit: g
+value: 0.139
+label: bottle
+value: 0.329
+
+
+name: 18:0
+unit: g
+value: 0.158
+label: bottle
+value: 0.374
+
+
+name: 22:0
+unit: g
+value: 0.036
+label: bottle
+value: 0.085
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 2.551
+label: bottle
+value: 6.046
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.003
+label: bottle
+value: 0.007
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 2.207
+label: bottle
+value: 5.231
+
+
+name: 20:1
+unit: g
+value: 0.026
+label: bottle
+value: 0.062
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: bottle
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.122
+label: bottle
+value: 0.289
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.101
+label: bottle
+value: 0.239
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.006
+label: bottle
+value: 0.014
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: bottle
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: bottle
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: bottle
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: bottle
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: bottle
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.0
+label: bottle
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 4.0
+label: bottle
+value: 9.0
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: bottle
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: bottle
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: bottle
+value: 0.0
+
+
+

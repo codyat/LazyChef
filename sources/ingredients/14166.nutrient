@@ -1,0 +1,743 @@
+ndbno: 14166
+
+
+name: Beverages, carbonated, low calorie, cola or pepper-types, with sodium saccharin, contains caffeine
+
+
+name: Water
+unit: g
+value: 99.8
+label: fl oz
+value: 29.54
+label: bottle (16 fl oz)
+value: 473.05
+label: can (12 fl oz)
+value: 354.29
+
+
+name: Energy
+unit: kcal
+value: 0.0
+label: fl oz
+value: 0.0
+label: bottle (16 fl oz)
+value: 0.0
+label: can (12 fl oz)
+value: 0.0
+
+
+name: Energy
+unit: kJ
+value: 0.0
+label: fl oz
+value: 0.0
+label: bottle (16 fl oz)
+value: 0.0
+label: can (12 fl oz)
+value: 0.0
+
+
+name: Protein
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: bottle (16 fl oz)
+value: 0.0
+label: can (12 fl oz)
+value: 0.0
+
+
+name: Total lipid (fat)
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: bottle (16 fl oz)
+value: 0.0
+label: can (12 fl oz)
+value: 0.0
+
+
+name: Ash
+unit: g
+value: 0.1
+label: fl oz
+value: 0.03
+label: bottle (16 fl oz)
+value: 0.47
+label: can (12 fl oz)
+value: 0.36
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 0.1
+label: fl oz
+value: 0.03
+label: bottle (16 fl oz)
+value: 0.47
+label: can (12 fl oz)
+value: 0.36
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: bottle (16 fl oz)
+value: 0.0
+label: can (12 fl oz)
+value: 0.0
+
+
+name: Sugars, total
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: bottle (16 fl oz)
+value: 0.0
+label: can (12 fl oz)
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 4.0
+label: fl oz
+value: 1.0
+label: bottle (16 fl oz)
+value: 19.0
+label: can (12 fl oz)
+value: 14.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.02
+label: fl oz
+value: 0.01
+label: bottle (16 fl oz)
+value: 0.09
+label: can (12 fl oz)
+value: 0.07
+
+
+name: Magnesium, Mg
+unit: mg
+value: 1.0
+label: fl oz
+value: 0.0
+label: bottle (16 fl oz)
+value: 5.0
+label: can (12 fl oz)
+value: 4.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 11.0
+label: fl oz
+value: 3.0
+label: bottle (16 fl oz)
+value: 52.0
+label: can (12 fl oz)
+value: 39.0
+
+
+name: Potassium, K
+unit: mg
+value: 4.0
+label: fl oz
+value: 1.0
+label: bottle (16 fl oz)
+value: 19.0
+label: can (12 fl oz)
+value: 14.0
+
+
+name: Sodium, Na
+unit: mg
+value: 16.0
+label: fl oz
+value: 5.0
+label: bottle (16 fl oz)
+value: 76.0
+label: can (12 fl oz)
+value: 57.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.03
+label: fl oz
+value: 0.01
+label: bottle (16 fl oz)
+value: 0.14
+label: can (12 fl oz)
+value: 0.11
+
+
+name: Copper, Cu
+unit: mg
+value: 0.013
+label: fl oz
+value: 0.004
+label: bottle (16 fl oz)
+value: 0.062
+label: can (12 fl oz)
+value: 0.046
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.009
+label: fl oz
+value: 0.003
+label: bottle (16 fl oz)
+value: 0.043
+label: can (12 fl oz)
+value: 0.032
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 0.1
+label: fl oz
+value: 0.0
+label: bottle (16 fl oz)
+value: 0.5
+label: can (12 fl oz)
+value: 0.4
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: fl oz
+value: 0.0
+label: bottle (16 fl oz)
+value: 0.0
+label: can (12 fl oz)
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.0
+label: fl oz
+value: 0.0
+label: bottle (16 fl oz)
+value: 0.0
+label: can (12 fl oz)
+value: 0.0
+
+
+name: Riboflavin
+unit: mg
+value: 0.0
+label: fl oz
+value: 0.0
+label: bottle (16 fl oz)
+value: 0.0
+label: can (12 fl oz)
+value: 0.0
+
+
+name: Niacin
+unit: mg
+value: 0.0
+label: fl oz
+value: 0.0
+label: bottle (16 fl oz)
+value: 0.0
+label: can (12 fl oz)
+value: 0.0
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.0
+label: fl oz
+value: 0.0
+label: bottle (16 fl oz)
+value: 0.0
+label: can (12 fl oz)
+value: 0.0
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.0
+label: fl oz
+value: 0.0
+label: bottle (16 fl oz)
+value: 0.0
+label: can (12 fl oz)
+value: 0.0
+
+
+name: Folate, total
+unit: \u00B5g
+value: 0.0
+label: fl oz
+value: 0.0
+label: bottle (16 fl oz)
+value: 0.0
+label: can (12 fl oz)
+value: 0.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: fl oz
+value: 0.0
+label: bottle (16 fl oz)
+value: 0.0
+label: can (12 fl oz)
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 0.0
+label: fl oz
+value: 0.0
+label: bottle (16 fl oz)
+value: 0.0
+label: can (12 fl oz)
+value: 0.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 0.0
+label: fl oz
+value: 0.0
+label: bottle (16 fl oz)
+value: 0.0
+label: can (12 fl oz)
+value: 0.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: fl oz
+value: 0.0
+label: bottle (16 fl oz)
+value: 0.0
+label: can (12 fl oz)
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 0.0
+label: fl oz
+value: 0.0
+label: bottle (16 fl oz)
+value: 0.0
+label: can (12 fl oz)
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: fl oz
+value: 0.0
+label: bottle (16 fl oz)
+value: 0.0
+label: can (12 fl oz)
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 0.0
+label: fl oz
+value: 0.0
+label: bottle (16 fl oz)
+value: 0.0
+label: can (12 fl oz)
+value: 0.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: fl oz
+value: 0.0
+label: bottle (16 fl oz)
+value: 0.0
+label: can (12 fl oz)
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: fl oz
+value: 0.0
+label: bottle (16 fl oz)
+value: 0.0
+label: can (12 fl oz)
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 0.0
+label: fl oz
+value: 0.0
+label: bottle (16 fl oz)
+value: 0.0
+label: can (12 fl oz)
+value: 0.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: fl oz
+value: 0.0
+label: bottle (16 fl oz)
+value: 0.0
+label: can (12 fl oz)
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 0.0
+label: fl oz
+value: 0.0
+label: bottle (16 fl oz)
+value: 0.0
+label: can (12 fl oz)
+value: 0.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.0
+label: fl oz
+value: 0.0
+label: bottle (16 fl oz)
+value: 0.0
+label: can (12 fl oz)
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 0.0
+label: fl oz
+value: 0.0
+label: bottle (16 fl oz)
+value: 0.0
+label: can (12 fl oz)
+value: 0.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: bottle (16 fl oz)
+value: 0.0
+label: can (12 fl oz)
+value: 0.0
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: bottle (16 fl oz)
+value: 0.0
+label: can (12 fl oz)
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: bottle (16 fl oz)
+value: 0.0
+label: can (12 fl oz)
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: bottle (16 fl oz)
+value: 0.0
+label: can (12 fl oz)
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: bottle (16 fl oz)
+value: 0.0
+label: can (12 fl oz)
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: bottle (16 fl oz)
+value: 0.0
+label: can (12 fl oz)
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: bottle (16 fl oz)
+value: 0.0
+label: can (12 fl oz)
+value: 0.0
+
+
+name: 16:0
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: bottle (16 fl oz)
+value: 0.0
+label: can (12 fl oz)
+value: 0.0
+
+
+name: 18:0
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: bottle (16 fl oz)
+value: 0.0
+label: can (12 fl oz)
+value: 0.0
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: bottle (16 fl oz)
+value: 0.0
+label: can (12 fl oz)
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: bottle (16 fl oz)
+value: 0.0
+label: can (12 fl oz)
+value: 0.0
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: bottle (16 fl oz)
+value: 0.0
+label: can (12 fl oz)
+value: 0.0
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: bottle (16 fl oz)
+value: 0.0
+label: can (12 fl oz)
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: bottle (16 fl oz)
+value: 0.0
+label: can (12 fl oz)
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: bottle (16 fl oz)
+value: 0.0
+label: can (12 fl oz)
+value: 0.0
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: bottle (16 fl oz)
+value: 0.0
+label: can (12 fl oz)
+value: 0.0
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: bottle (16 fl oz)
+value: 0.0
+label: can (12 fl oz)
+value: 0.0
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: bottle (16 fl oz)
+value: 0.0
+label: can (12 fl oz)
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: bottle (16 fl oz)
+value: 0.0
+label: can (12 fl oz)
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: bottle (16 fl oz)
+value: 0.0
+label: can (12 fl oz)
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: bottle (16 fl oz)
+value: 0.0
+label: can (12 fl oz)
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: bottle (16 fl oz)
+value: 0.0
+label: can (12 fl oz)
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: bottle (16 fl oz)
+value: 0.0
+label: can (12 fl oz)
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: fl oz
+value: 0.0
+label: bottle (16 fl oz)
+value: 0.0
+label: can (12 fl oz)
+value: 0.0
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: bottle (16 fl oz)
+value: 0.0
+label: can (12 fl oz)
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 11.0
+label: fl oz
+value: 3.0
+label: bottle (16 fl oz)
+value: 52.0
+label: can (12 fl oz)
+value: 39.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: fl oz
+value: 0.0
+label: bottle (16 fl oz)
+value: 0.0
+label: can (12 fl oz)
+value: 0.0
+
+

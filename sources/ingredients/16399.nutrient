@@ -1,0 +1,594 @@
+ndbno: 16399
+
+
+name: Peanut butter with omega-3, creamy
+
+
+name: Water
+unit: g
+value: 0.99
+label: tbsp
+value: 0.16
+
+
+name: Energy
+unit: kcal
+value: 608.0
+label: tbsp
+value: 97.0
+
+
+name: Energy
+unit: kJ
+value: 2542.0
+label: tbsp
+value: 407.0
+
+
+name: Protein
+unit: g
+value: 24.47
+label: tbsp
+value: 3.92
+
+
+name: Total lipid (fat)
+unit: g
+value: 54.17
+label: tbsp
+value: 8.67
+
+
+name: Ash
+unit: g
+value: 3.37
+label: tbsp
+value: 0.54
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 17.0
+label: tbsp
+value: 2.72
+
+
+name: Fiber, total dietary
+unit: g
+value: 6.1
+label: tbsp
+value: 1.0
+
+
+name: Sugars, total
+unit: g
+value: 3.11
+label: tbsp
+value: 0.5
+
+
+name: Sucrose
+unit: g
+value: 3.11
+label: tbsp
+value: 0.5
+
+
+name: Glucose (dextrose)
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: Fructose
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: Lactose
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: Maltose
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: Galactose
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: Starch
+unit: g
+value: 3.32
+label: tbsp
+value: 0.53
+
+
+name: Calcium, Ca
+unit: mg
+value: 45.0
+label: tbsp
+value: 7.0
+
+
+name: Iron, Fe
+unit: mg
+value: 1.67
+label: tbsp
+value: 0.27
+
+
+name: Magnesium, Mg
+unit: mg
+value: 191.0
+label: tbsp
+value: 31.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 426.0
+label: tbsp
+value: 68.0
+
+
+name: Potassium, K
+unit: mg
+value: 780.0
+label: tbsp
+value: 125.0
+
+
+name: Sodium, Na
+unit: mg
+value: 356.0
+label: tbsp
+value: 57.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 3.08
+label: tbsp
+value: 0.49
+
+
+name: Copper, Cu
+unit: mg
+value: 0.476
+label: tbsp
+value: 0.076
+
+
+name: Manganese, Mn
+unit: mg
+value: 1.85
+label: tbsp
+value: 0.296
+
+
+name: Thiamin
+unit: mg
+value: 0.055
+label: tbsp
+value: 0.009
+
+
+name: Riboflavin
+unit: mg
+value: 0.087
+label: tbsp
+value: 0.014
+
+
+name: Niacin
+unit: mg
+value: 12.875
+label: tbsp
+value: 2.06
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.87
+label: tbsp
+value: 0.139
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.292
+label: tbsp
+value: 0.047
+
+
+name: Choline, total
+unit: mg
+value: 94.5
+label: tbsp
+value: 15.1
+
+
+name: Betaine
+unit: mg
+value: 0.6
+label: tbsp
+value: 0.1
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 10.34
+label: tbsp
+value: 1.65
+
+
+name: Tocopherol, beta
+unit: mg
+value: 0.28
+label: tbsp
+value: 0.04
+
+
+name: Tocopherol, gamma
+unit: mg
+value: 13.44
+label: tbsp
+value: 2.15
+
+
+name: Tocopherol, delta
+unit: mg
+value: 0.96
+label: tbsp
+value: 0.15
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 9.691
+label: tbsp
+value: 1.551
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.001
+label: tbsp
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.02
+label: tbsp
+value: 0.003
+
+
+name: 12:0
+unit: g
+value: 0.011
+label: tbsp
+value: 0.002
+
+
+name: 14:0
+unit: g
+value: 0.046
+label: tbsp
+value: 0.007
+
+
+name: 15:0
+unit: g
+value: 0.008
+label: tbsp
+value: 0.001
+
+
+name: 16:0
+unit: g
+value: 5.317
+label: tbsp
+value: 0.851
+
+
+name: 17:0
+unit: g
+value: 0.043
+label: tbsp
+value: 0.007
+
+
+name: 18:0
+unit: g
+value: 1.417
+label: tbsp
+value: 0.227
+
+
+name: 20:0
+unit: g
+value: 0.579
+label: tbsp
+value: 0.093
+
+
+name: 22:0
+unit: g
+value: 1.329
+label: tbsp
+value: 0.213
+
+
+name: 24:0
+unit: g
+value: 0.92
+label: tbsp
+value: 0.147
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 36.614
+label: tbsp
+value: 5.858
+
+
+name: 14:1
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.058
+label: tbsp
+value: 0.009
+
+
+name: 16:1 c
+unit: g
+value: 0.058
+label: tbsp
+value: 0.009
+
+
+name: 16:1 t
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: 17:1
+unit: g
+value: 0.044
+label: tbsp
+value: 0.007
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 35.375
+label: tbsp
+value: 5.66
+
+
+name: 18:1 c
+unit: g
+value: 35.351
+label: tbsp
+value: 5.656
+
+
+name: 18:1 t
+unit: g
+value: 0.023
+label: tbsp
+value: 0.004
+
+
+name: 20:1
+unit: g
+value: 1.026
+label: tbsp
+value: 0.164
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.11
+label: tbsp
+value: 0.018
+
+
+name: 22:1 c
+unit: g
+value: 0.109
+label: tbsp
+value: 0.017
+
+
+name: 22:1 t
+unit: g
+value: 0.001
+label: tbsp
+value: 0.0
+
+
+name: 24:1 c
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 6.95
+label: tbsp
+value: 1.112
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 3.843
+label: tbsp
+value: 0.615
+
+
+name: 18:2 n-6 c,c
+unit: g
+value: 3.817
+label: tbsp
+value: 0.611
+
+
+name: 18:2 CLAs
+unit: g
+value: 0.013
+label: tbsp
+value: 0.002
+
+
+name: 18:2 t not further defined
+unit: g
+value: 0.012
+label: tbsp
+value: 0.002
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 2.933
+label: tbsp
+value: 0.469
+
+
+name: 18:3 n-3 c,c,c (ALA)
+unit: g
+value: 2.928
+label: tbsp
+value: 0.468
+
+
+name: 18:3 n-6 c,c,c
+unit: g
+value: 0.005
+label: tbsp
+value: 0.001
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.007
+label: tbsp
+value: 0.001
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.004
+label: tbsp
+value: 0.001
+
+
+name: 20:3 n-6
+unit: g
+value: 0.003
+label: tbsp
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: 22:4
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.164
+label: tbsp
+value: 0.026
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.037
+label: tbsp
+value: 0.006
+
+
+name: Fatty acids, total trans-monoenoic
+unit: g
+value: 0.025
+label: tbsp
+value: 0.004
+
+

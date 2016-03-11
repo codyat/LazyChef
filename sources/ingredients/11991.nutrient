@@ -1,0 +1,366 @@
+ndbno: 11991
+
+
+name: Yautia (tannier), raw
+
+
+name: Water
+unit: g
+value: 73.06
+label: cup, sliced
+value: 98.63
+label: root
+value: 222.83
+
+
+name: Energy
+unit: kcal
+value: 98.0
+label: cup, sliced
+value: 132.0
+label: root
+value: 299.0
+
+
+name: Energy
+unit: kJ
+value: 411.0
+label: cup, sliced
+value: 555.0
+label: root
+value: 1254.0
+
+
+name: Protein
+unit: g
+value: 1.46
+label: cup, sliced
+value: 1.97
+label: root
+value: 4.45
+
+
+name: Total lipid (fat)
+unit: g
+value: 0.4
+label: cup, sliced
+value: 0.54
+label: root
+value: 1.22
+
+
+name: Ash
+unit: g
+value: 1.45
+label: cup, sliced
+value: 1.96
+label: root
+value: 4.42
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 23.63
+label: cup, sliced
+value: 31.9
+label: root
+value: 72.07
+
+
+name: Fiber, total dietary
+unit: g
+value: 1.5
+label: cup, sliced
+value: 2.0
+label: root
+value: 4.6
+
+
+name: Calcium, Ca
+unit: mg
+value: 9.0
+label: cup, sliced
+value: 12.0
+label: root
+value: 27.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.98
+label: cup, sliced
+value: 1.32
+label: root
+value: 2.99
+
+
+name: Magnesium, Mg
+unit: mg
+value: 24.0
+label: cup, sliced
+value: 32.0
+label: root
+value: 73.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 51.0
+label: cup, sliced
+value: 69.0
+label: root
+value: 156.0
+
+
+name: Potassium, K
+unit: mg
+value: 598.0
+label: cup, sliced
+value: 807.0
+label: root
+value: 1824.0
+
+
+name: Sodium, Na
+unit: mg
+value: 21.0
+label: cup, sliced
+value: 28.0
+label: root
+value: 64.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.5
+label: cup, sliced
+value: 0.68
+label: root
+value: 1.52
+
+
+name: Copper, Cu
+unit: mg
+value: 0.257
+label: cup, sliced
+value: 0.347
+label: root
+value: 0.784
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.186
+label: cup, sliced
+value: 0.251
+label: root
+value: 0.567
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 0.7
+label: cup, sliced
+value: 0.9
+label: root
+value: 2.1
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 5.2
+label: cup, sliced
+value: 7.0
+label: root
+value: 15.9
+
+
+name: Thiamin
+unit: mg
+value: 0.097
+label: cup, sliced
+value: 0.131
+label: root
+value: 0.296
+
+
+name: Riboflavin
+unit: mg
+value: 0.04
+label: cup, sliced
+value: 0.054
+label: root
+value: 0.122
+
+
+name: Niacin
+unit: mg
+value: 0.667
+label: cup, sliced
+value: 0.9
+label: root
+value: 2.034
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.209
+label: cup, sliced
+value: 0.282
+label: root
+value: 0.637
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.237
+label: cup, sliced
+value: 0.32
+label: root
+value: 0.723
+
+
+name: Folate, total
+unit: \u00B5g
+value: 17.0
+label: cup, sliced
+value: 23.0
+label: root
+value: 52.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: root
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 17.0
+label: cup, sliced
+value: 23.0
+label: root
+value: 52.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 17.0
+label: cup, sliced
+value: 23.0
+label: root
+value: 52.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: root
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: root
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: root
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 5.0
+label: cup, sliced
+value: 7.0
+label: root
+value: 15.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: root
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: root
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 8.0
+label: cup, sliced
+value: 11.0
+label: root
+value: 24.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: root
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: root
+value: 0.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.082
+label: cup, sliced
+value: 0.111
+label: root
+value: 0.25
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: root
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: root
+value: 0.0
+
+

@@ -1,0 +1,762 @@
+ndbno: 21130
+
+
+name: Fast foods, onion rings, breaded and fried
+
+
+name: Water
+unit: g
+value: 24.52
+label: package (18 onion rings)
+value: 28.69
+
+
+name: Energy
+unit: kcal
+value: 411.0
+label: package (18 onion rings)
+value: 481.0
+
+
+name: Energy
+unit: kJ
+value: 1718.0
+label: package (18 onion rings)
+value: 2010.0
+
+
+name: Protein
+unit: g
+value: 3.86
+label: package (18 onion rings)
+value: 4.52
+
+
+name: Total lipid (fat)
+unit: g
+value: 25.23
+label: package (18 onion rings)
+value: 29.52
+
+
+name: Ash
+unit: g
+value: 2.82
+label: package (18 onion rings)
+value: 3.3
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 43.58
+label: package (18 onion rings)
+value: 50.99
+
+
+name: Fiber, total dietary
+unit: g
+value: 2.7
+label: package (18 onion rings)
+value: 3.2
+
+
+name: Sugars, total
+unit: g
+value: 5.43
+label: package (18 onion rings)
+value: 6.35
+
+
+name: Sucrose
+unit: g
+value: 3.56
+label: package (18 onion rings)
+value: 4.17
+
+
+name: Glucose (dextrose)
+unit: g
+value: 0.44
+label: package (18 onion rings)
+value: 0.51
+
+
+name: Fructose
+unit: g
+value: 0.98
+label: package (18 onion rings)
+value: 1.15
+
+
+name: Lactose
+unit: g
+value: 0.0
+label: package (18 onion rings)
+value: 0.0
+
+
+name: Maltose
+unit: g
+value: 0.45
+label: package (18 onion rings)
+value: 0.53
+
+
+name: Galactose
+unit: g
+value: 0.0
+label: package (18 onion rings)
+value: 0.0
+
+
+name: Starch
+unit: g
+value: 26.5
+label: package (18 onion rings)
+value: 31.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 115.0
+label: package (18 onion rings)
+value: 135.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.78
+label: package (18 onion rings)
+value: 0.91
+
+
+name: Magnesium, Mg
+unit: mg
+value: 19.0
+label: package (18 onion rings)
+value: 22.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 158.0
+label: package (18 onion rings)
+value: 185.0
+
+
+name: Potassium, K
+unit: mg
+value: 167.0
+label: package (18 onion rings)
+value: 195.0
+
+
+name: Sodium, Na
+unit: mg
+value: 776.0
+label: package (18 onion rings)
+value: 908.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.51
+label: package (18 onion rings)
+value: 0.6
+
+
+name: Copper, Cu
+unit: mg
+value: 0.075
+label: package (18 onion rings)
+value: 0.088
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.342
+label: package (18 onion rings)
+value: 0.4
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 5.7
+label: package (18 onion rings)
+value: 6.7
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 1.4
+label: package (18 onion rings)
+value: 1.6
+
+
+name: Thiamin
+unit: mg
+value: 0.11
+label: package (18 onion rings)
+value: 0.129
+
+
+name: Riboflavin
+unit: mg
+value: 0.063
+label: package (18 onion rings)
+value: 0.074
+
+
+name: Niacin
+unit: mg
+value: 0.673
+label: package (18 onion rings)
+value: 0.787
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.325
+label: package (18 onion rings)
+value: 0.38
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.133
+label: package (18 onion rings)
+value: 0.156
+
+
+name: Folate, total
+unit: \u00B5g
+value: 42.0
+label: package (18 onion rings)
+value: 49.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: package (18 onion rings)
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 42.0
+label: package (18 onion rings)
+value: 49.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 42.0
+label: package (18 onion rings)
+value: 49.0
+
+
+name: Choline, total
+unit: mg
+value: 8.4
+label: package (18 onion rings)
+value: 9.8
+
+
+name: Betaine
+unit: mg
+value: 16.6
+label: package (18 onion rings)
+value: 19.4
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: package (18 onion rings)
+value: 0.0
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: package (18 onion rings)
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 0.0
+label: package (18 onion rings)
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: package (18 onion rings)
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 2.0
+label: package (18 onion rings)
+value: 2.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: package (18 onion rings)
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 3.0
+label: package (18 onion rings)
+value: 4.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 6.0
+label: package (18 onion rings)
+value: 7.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: package (18 onion rings)
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 38.0
+label: package (18 onion rings)
+value: 44.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 4.92
+label: package (18 onion rings)
+value: 5.76
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: package (18 onion rings)
+value: 0.0
+
+
+name: Tocopherol, beta
+unit: mg
+value: 0.18
+label: package (18 onion rings)
+value: 0.21
+
+
+name: Tocopherol, gamma
+unit: mg
+value: 11.02
+label: package (18 onion rings)
+value: 12.89
+
+
+name: Tocopherol, delta
+unit: mg
+value: 1.22
+label: package (18 onion rings)
+value: 1.43
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: package (18 onion rings)
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: package (18 onion rings)
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 55.8
+label: package (18 onion rings)
+value: 65.3
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 4.194
+label: package (18 onion rings)
+value: 4.907
+
+
+name: 4:0
+unit: g
+value: 0.004
+label: package (18 onion rings)
+value: 0.005
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: package (18 onion rings)
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.015
+label: package (18 onion rings)
+value: 0.018
+
+
+name: 10:0
+unit: g
+value: 0.012
+label: package (18 onion rings)
+value: 0.014
+
+
+name: 12:0
+unit: g
+value: 0.006
+label: package (18 onion rings)
+value: 0.007
+
+
+name: 14:0
+unit: g
+value: 0.058
+label: package (18 onion rings)
+value: 0.068
+
+
+name: 15:0
+unit: g
+value: 0.006
+label: package (18 onion rings)
+value: 0.007
+
+
+name: 16:0
+unit: g
+value: 3.242
+label: package (18 onion rings)
+value: 3.793
+
+
+name: 17:0
+unit: g
+value: 0.02
+label: package (18 onion rings)
+value: 0.023
+
+
+name: 18:0
+unit: g
+value: 0.655
+label: package (18 onion rings)
+value: 0.766
+
+
+name: 20:0
+unit: g
+value: 0.087
+label: package (18 onion rings)
+value: 0.102
+
+
+name: 22:0
+unit: g
+value: 0.052
+label: package (18 onion rings)
+value: 0.061
+
+
+name: 24:0
+unit: g
+value: 0.036
+label: package (18 onion rings)
+value: 0.042
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 6.885
+label: package (18 onion rings)
+value: 8.055
+
+
+name: 14:1
+unit: g
+value: 0.0
+label: package (18 onion rings)
+value: 0.0
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: package (18 onion rings)
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.053
+label: package (18 onion rings)
+value: 0.062
+
+
+name: 16:1 c
+unit: g
+value: 0.053
+label: package (18 onion rings)
+value: 0.062
+
+
+name: 16:1 t
+unit: g
+value: 0.0
+label: package (18 onion rings)
+value: 0.0
+
+
+name: 17:1
+unit: g
+value: 0.011
+label: package (18 onion rings)
+value: 0.013
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 6.729
+label: package (18 onion rings)
+value: 7.873
+
+
+name: 18:1 c
+unit: g
+value: 6.7
+label: package (18 onion rings)
+value: 7.839
+
+
+name: 18:1 t
+unit: g
+value: 0.029
+label: package (18 onion rings)
+value: 0.034
+
+
+name: 20:1
+unit: g
+value: 0.081
+label: package (18 onion rings)
+value: 0.095
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.005
+label: package (18 onion rings)
+value: 0.006
+
+
+name: 22:1 c
+unit: g
+value: 0.003
+label: package (18 onion rings)
+value: 0.004
+
+
+name: 22:1 t
+unit: g
+value: 0.002
+label: package (18 onion rings)
+value: 0.002
+
+
+name: 24:1 c
+unit: g
+value: 0.007
+label: package (18 onion rings)
+value: 0.008
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 12.149
+label: package (18 onion rings)
+value: 14.214
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 11.507
+label: package (18 onion rings)
+value: 13.463
+
+
+name: 18:2 n-6 c,c
+unit: g
+value: 11.338
+label: package (18 onion rings)
+value: 13.265
+
+
+name: 18:2 CLAs
+unit: g
+value: 0.037
+label: package (18 onion rings)
+value: 0.043
+
+
+name: 18:2 t not further defined
+unit: g
+value: 0.133
+label: package (18 onion rings)
+value: 0.156
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.619
+label: package (18 onion rings)
+value: 0.724
+
+
+name: 18:3 n-3 c,c,c (ALA)
+unit: g
+value: 0.577
+label: package (18 onion rings)
+value: 0.675
+
+
+name: 18:3 n-6 c,c,c
+unit: g
+value: 0.042
+label: package (18 onion rings)
+value: 0.049
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: package (18 onion rings)
+value: 0.0
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.009
+label: package (18 onion rings)
+value: 0.011
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.004
+label: package (18 onion rings)
+value: 0.005
+
+
+name: 20:3 n-6
+unit: g
+value: 0.0
+label: package (18 onion rings)
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.007
+label: package (18 onion rings)
+value: 0.008
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.001
+label: package (18 onion rings)
+value: 0.001
+
+
+name: 22:4
+unit: g
+value: 0.001
+label: package (18 onion rings)
+value: 0.001
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: package (18 onion rings)
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: package (18 onion rings)
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.164
+label: package (18 onion rings)
+value: 0.192
+
+
+name: Fatty acids, total trans-monoenoic
+unit: g
+value: 0.031
+label: package (18 onion rings)
+value: 0.036
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: package (18 onion rings)
+value: 0.0
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: package (18 onion rings)
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: package (18 onion rings)
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: package (18 onion rings)
+value: 0.0
+
+

@@ -1,0 +1,385 @@
+ndbno: 19240
+
+
+name: Frostings, chocolate, creamy, dry mix
+
+
+name: Water
+unit: g
+value: 0.6
+label: package
+value: 2.33
+
+
+name: Energy
+unit: kcal
+value: 389.0
+label: package
+value: 1509.0
+
+
+name: Energy
+unit: kJ
+value: 1628.0
+label: package
+value: 6317.0
+
+
+name: Protein
+unit: g
+value: 1.3
+label: package
+value: 5.04
+
+
+name: Total lipid (fat)
+unit: g
+value: 5.2
+label: package
+value: 20.18
+
+
+name: Ash
+unit: g
+value: 0.6
+label: package
+value: 2.33
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 92.0
+label: package
+value: 356.96
+
+
+name: Fiber, total dietary
+unit: g
+value: 2.4
+label: package
+value: 9.3
+
+
+name: Calcium, Ca
+unit: mg
+value: 11.0
+label: package
+value: 43.0
+
+
+name: Iron, Fe
+unit: mg
+value: 1.19
+label: package
+value: 4.62
+
+
+name: Magnesium, Mg
+unit: mg
+value: 38.0
+label: package
+value: 147.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 62.0
+label: package
+value: 241.0
+
+
+name: Potassium, K
+unit: mg
+value: 180.0
+label: package
+value: 698.0
+
+
+name: Sodium, Na
+unit: mg
+value: 76.0
+label: package
+value: 295.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.81
+label: package
+value: 3.14
+
+
+name: Copper, Cu
+unit: mg
+value: 0.294
+label: package
+value: 1.141
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.333
+label: package
+value: 1.292
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 1.6
+label: package
+value: 6.2
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.006
+label: package
+value: 0.023
+
+
+name: Riboflavin
+unit: mg
+value: 0.029
+label: package
+value: 0.113
+
+
+name: Niacin
+unit: mg
+value: 0.142
+label: package
+value: 0.551
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.029
+label: package
+value: 0.113
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.08
+label: package
+value: 0.31
+
+
+name: Folate, total
+unit: \u00B5g
+value: 3.0
+label: package
+value: 12.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 3.0
+label: package
+value: 12.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 3.0
+label: package
+value: 12.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Tryptophan
+unit: g
+value: 0.02
+label: package
+value: 0.078
+
+
+name: Threonine
+unit: g
+value: 0.053
+label: package
+value: 0.206
+
+
+name: Isoleucine
+unit: g
+value: 0.052
+label: package
+value: 0.202
+
+
+name: Leucine
+unit: g
+value: 0.082
+label: package
+value: 0.318
+
+
+name: Lysine
+unit: g
+value: 0.067
+label: package
+value: 0.26
+
+
+name: Methionine
+unit: g
+value: 0.014
+label: package
+value: 0.054
+
+
+name: Cystine
+unit: g
+value: 0.016
+label: package
+value: 0.062
+
+
+name: Phenylalanine
+unit: g
+value: 0.064
+label: package
+value: 0.248
+
+
+name: Tyrosine
+unit: g
+value: 0.05
+label: package
+value: 0.194
+
+
+name: Valine
+unit: g
+value: 0.08
+label: package
+value: 0.31
+
+
+name: Arginine
+unit: g
+value: 0.076
+label: package
+value: 0.295
+
+
+name: Histidine
+unit: g
+value: 0.023
+label: package
+value: 0.089
+
+
+name: Alanine
+unit: g
+value: 0.062
+label: package
+value: 0.241
+
+
+name: Aspartic acid
+unit: g
+value: 0.133
+label: package
+value: 0.516
+
+
+name: Glutamic acid
+unit: g
+value: 0.202
+label: package
+value: 0.784
+
+
+name: Glycine
+unit: g
+value: 0.06
+label: package
+value: 0.233
+
+
+name: Proline
+unit: g
+value: 0.058
+label: package
+value: 0.225
+
+
+name: Serine
+unit: g
+value: 0.058
+label: package
+value: 0.225
+
+
+name: Caffeine
+unit: mg
+value: 6.0
+label: package
+value: 23.0
+
+
+name: Theobromine
+unit: mg
+value: 188.0
+label: package
+value: 729.0
+
+
+

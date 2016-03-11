@@ -1,0 +1,726 @@
+ndbno: 12149
+
+
+name: Nuts, pine nuts, pinyon, dried
+
+
+name: Water
+unit: g
+value: 5.9
+label: oz
+value: 1.67
+label: nuts
+value: 0.06
+
+
+name: Energy
+unit: kcal
+value: 629.0
+label: oz
+value: 178.0
+label: nuts
+value: 6.0
+
+
+name: Energy
+unit: kJ
+value: 2632.0
+label: oz
+value: 746.0
+label: nuts
+value: 26.0
+
+
+name: Protein
+unit: g
+value: 11.57
+label: oz
+value: 3.28
+label: nuts
+value: 0.12
+
+
+name: Total lipid (fat)
+unit: g
+value: 60.98
+label: oz
+value: 17.29
+label: nuts
+value: 0.61
+
+
+name: Ash
+unit: g
+value: 2.26
+label: oz
+value: 0.64
+label: nuts
+value: 0.02
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 19.3
+label: oz
+value: 5.47
+label: nuts
+value: 0.19
+
+
+name: Fiber, total dietary
+unit: g
+value: 10.7
+label: oz
+value: 3.0
+label: nuts
+value: 0.1
+
+
+name: Calcium, Ca
+unit: mg
+value: 8.0
+label: oz
+value: 2.0
+label: nuts
+value: 0.0
+
+
+name: Iron, Fe
+unit: mg
+value: 3.06
+label: oz
+value: 0.87
+label: nuts
+value: 0.03
+
+
+name: Magnesium, Mg
+unit: mg
+value: 234.0
+label: oz
+value: 66.0
+label: nuts
+value: 2.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 35.0
+label: oz
+value: 10.0
+label: nuts
+value: 0.0
+
+
+name: Potassium, K
+unit: mg
+value: 628.0
+label: oz
+value: 178.0
+label: nuts
+value: 6.0
+
+
+name: Sodium, Na
+unit: mg
+value: 72.0
+label: oz
+value: 20.0
+label: nuts
+value: 1.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 4.28
+label: oz
+value: 1.21
+label: nuts
+value: 0.04
+
+
+name: Copper, Cu
+unit: mg
+value: 1.035
+label: oz
+value: 0.293
+label: nuts
+value: 0.01
+
+
+name: Manganese, Mn
+unit: mg
+value: 4.333
+label: oz
+value: 1.228
+label: nuts
+value: 0.043
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 2.0
+label: oz
+value: 0.6
+label: nuts
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 1.243
+label: oz
+value: 0.352
+label: nuts
+value: 0.012
+
+
+name: Riboflavin
+unit: mg
+value: 0.223
+label: oz
+value: 0.063
+label: nuts
+value: 0.002
+
+
+name: Niacin
+unit: mg
+value: 4.37
+label: oz
+value: 1.239
+label: nuts
+value: 0.044
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.21
+label: oz
+value: 0.06
+label: nuts
+value: 0.002
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.111
+label: oz
+value: 0.031
+label: nuts
+value: 0.001
+
+
+name: Folate, total
+unit: \u00B5g
+value: 58.0
+label: oz
+value: 16.0
+label: nuts
+value: 1.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: nuts
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 58.0
+label: oz
+value: 16.0
+label: nuts
+value: 1.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 58.0
+label: oz
+value: 16.0
+label: nuts
+value: 1.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: nuts
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 1.0
+label: oz
+value: 0.0
+label: nuts
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: nuts
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 29.0
+label: oz
+value: 8.0
+label: nuts
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: nuts
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: oz
+value: 0.0
+label: nuts
+value: 0.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 9.377
+label: oz
+value: 2.658
+label: nuts
+value: 0.094
+
+
+name: 16:0
+unit: g
+value: 4.416
+label: oz
+value: 1.252
+label: nuts
+value: 0.044
+
+
+name: 18:0
+unit: g
+value: 2.011
+label: oz
+value: 0.57
+label: nuts
+value: 0.02
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 22.942
+label: oz
+value: 6.504
+label: nuts
+value: 0.229
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.25
+label: oz
+value: 0.071
+label: nuts
+value: 0.002
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 21.528
+label: oz
+value: 6.103
+label: nuts
+value: 0.215
+
+
+name: 20:1
+unit: g
+value: 1.164
+label: oz
+value: 0.33
+label: nuts
+value: 0.012
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 25.668
+label: oz
+value: 7.277
+label: nuts
+value: 0.257
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 24.882
+label: oz
+value: 7.054
+label: nuts
+value: 0.249
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.787
+label: oz
+value: 0.223
+label: nuts
+value: 0.008
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: nuts
+value: 0.0
+
+
+name: Tryptophan
+unit: g
+value: 0.146
+label: oz
+value: 0.041
+label: nuts
+value: 0.001
+
+
+name: Threonine
+unit: g
+value: 0.367
+label: oz
+value: 0.104
+label: nuts
+value: 0.004
+
+
+name: Isoleucine
+unit: g
+value: 0.45
+label: oz
+value: 0.128
+label: nuts
+value: 0.005
+
+
+name: Leucine
+unit: g
+value: 0.834
+label: oz
+value: 0.236
+label: nuts
+value: 0.008
+
+
+name: Lysine
+unit: g
+value: 0.434
+label: oz
+value: 0.123
+label: nuts
+value: 0.004
+
+
+name: Methionine
+unit: g
+value: 0.207
+label: oz
+value: 0.059
+label: nuts
+value: 0.002
+
+
+name: Cystine
+unit: g
+value: 0.21
+label: oz
+value: 0.06
+label: nuts
+value: 0.002
+
+
+name: Phenylalanine
+unit: g
+value: 0.443
+label: oz
+value: 0.126
+label: nuts
+value: 0.004
+
+
+name: Tyrosine
+unit: g
+value: 0.424
+label: oz
+value: 0.12
+label: nuts
+value: 0.004
+
+
+name: Valine
+unit: g
+value: 0.598
+label: oz
+value: 0.17
+label: nuts
+value: 0.006
+
+
+name: Arginine
+unit: g
+value: 2.251
+label: oz
+value: 0.638
+label: nuts
+value: 0.023
+
+
+name: Histidine
+unit: g
+value: 0.277
+label: oz
+value: 0.079
+label: nuts
+value: 0.003
+
+
+name: Alanine
+unit: g
+value: 0.605
+label: oz
+value: 0.172
+label: nuts
+value: 0.006
+
+
+name: Aspartic acid
+unit: g
+value: 1.054
+label: oz
+value: 0.299
+label: nuts
+value: 0.011
+
+
+name: Glutamic acid
+unit: g
+value: 1.969
+label: oz
+value: 0.558
+label: nuts
+value: 0.02
+
+
+name: Glycine
+unit: g
+value: 0.589
+label: oz
+value: 0.167
+label: nuts
+value: 0.006
+
+
+name: Proline
+unit: g
+value: 0.622
+label: oz
+value: 0.176
+label: nuts
+value: 0.006
+
+
+name: Serine
+unit: g
+value: 0.491
+label: oz
+value: 0.139
+label: nuts
+value: 0.005
+
+
+name: Cyanidin
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: nuts
+value: 0.0
+
+
+name: Petunidin
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: nuts
+value: 0.0
+
+
+name: Delphinidin
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: nuts
+value: 0.0
+
+
+name: Malvidin
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: nuts
+value: 0.0
+
+
+name: Pelargonidin
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: nuts
+value: 0.0
+
+
+name: Peonidin
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: nuts
+value: 0.0
+
+
+name: (+)-Catechin
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: nuts
+value: 0.0
+
+
+name: (-)-Epigallocatechin
+unit: mg
+value: 0.5
+label: oz
+value: 0.1
+label: nuts
+value: 0.0
+
+
+name: (-)-Epicatechin
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: nuts
+value: 0.0
+
+
+name: (-)-Epicatechin 3-gallate
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: nuts
+value: 0.0
+
+
+name: (-)-Epigallocatechin 3-gallate
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: nuts
+value: 0.0
+
+
+name: (+)-Gallocatechin
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: nuts
+value: 0.0
+
+
+name: Hesperetin
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: nuts
+value: 0.0
+
+
+name: Naringenin
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: nuts
+value: 0.0
+
+
+name: Apigenin
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: nuts
+value: 0.0
+
+
+name: Luteolin
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: nuts
+value: 0.0
+
+
+name: Myricetin
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: nuts
+value: 0.0
+
+
+name: Quercetin
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: nuts
+value: 0.0
+
+

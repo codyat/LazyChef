@@ -1,0 +1,812 @@
+ndbno: 09415
+
+
+name: Pears, raw, green anjou
+
+
+name: Water
+unit: g
+value: 83.31
+label: cup, sliced
+value: 116.63
+label: small
+value: 143.29
+label: medium
+value: 168.29
+label: large
+value: 201.61
+
+
+name: Energy
+unit: kcal
+value: 66.0
+label: cup, sliced
+value: 92.0
+label: small
+value: 114.0
+label: medium
+value: 133.0
+label: large
+value: 160.0
+
+
+name: Energy
+unit: kJ
+value: 275.0
+label: cup, sliced
+value: 385.0
+label: small
+value: 473.0
+label: medium
+value: 556.0
+label: large
+value: 666.0
+
+
+name: Protein
+unit: g
+value: 0.44
+label: cup, sliced
+value: 0.62
+label: small
+value: 0.76
+label: medium
+value: 0.89
+label: large
+value: 1.06
+
+
+name: Total lipid (fat)
+unit: g
+value: 0.1
+label: cup, sliced
+value: 0.14
+label: small
+value: 0.17
+label: medium
+value: 0.2
+label: large
+value: 0.24
+
+
+name: Ash
+unit: g
+value: 0.37
+label: cup, sliced
+value: 0.52
+label: small
+value: 0.64
+label: medium
+value: 0.75
+label: large
+value: 0.9
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 15.79
+label: cup, sliced
+value: 22.11
+label: small
+value: 27.16
+label: medium
+value: 31.9
+label: large
+value: 38.21
+
+
+name: Fiber, total dietary
+unit: g
+value: 3.1
+label: cup, sliced
+value: 4.3
+label: small
+value: 5.3
+label: medium
+value: 6.3
+label: large
+value: 7.5
+
+
+name: Sugars, total
+unit: g
+value: 9.73
+label: cup, sliced
+value: 13.62
+label: small
+value: 16.74
+label: medium
+value: 19.65
+label: large
+value: 23.55
+
+
+name: Sucrose
+unit: g
+value: 0.33
+label: cup, sliced
+value: 0.46
+label: small
+value: 0.57
+label: medium
+value: 0.67
+label: large
+value: 0.8
+
+
+name: Glucose (dextrose)
+unit: g
+value: 3.33
+label: cup, sliced
+value: 4.66
+label: small
+value: 5.73
+label: medium
+value: 6.73
+label: large
+value: 8.06
+
+
+name: Fructose
+unit: g
+value: 6.06
+label: cup, sliced
+value: 8.48
+label: small
+value: 10.42
+label: medium
+value: 12.24
+label: large
+value: 14.67
+
+
+name: Lactose
+unit: g
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: small
+value: 0.0
+label: medium
+value: 0.0
+label: large
+value: 0.0
+
+
+name: Maltose
+unit: g
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: small
+value: 0.0
+label: medium
+value: 0.0
+label: large
+value: 0.0
+
+
+name: Galactose
+unit: g
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: small
+value: 0.0
+label: medium
+value: 0.0
+label: large
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 11.0
+label: cup, sliced
+value: 15.0
+label: small
+value: 19.0
+label: medium
+value: 22.0
+label: large
+value: 27.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.24
+label: cup, sliced
+value: 0.34
+label: small
+value: 0.41
+label: medium
+value: 0.48
+label: large
+value: 0.58
+
+
+name: Magnesium, Mg
+unit: mg
+value: 7.0
+label: cup, sliced
+value: 10.0
+label: small
+value: 12.0
+label: medium
+value: 14.0
+label: large
+value: 17.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 13.0
+label: cup, sliced
+value: 18.0
+label: small
+value: 22.0
+label: medium
+value: 26.0
+label: large
+value: 31.0
+
+
+name: Potassium, K
+unit: mg
+value: 127.0
+label: cup, sliced
+value: 178.0
+label: small
+value: 218.0
+label: medium
+value: 257.0
+label: large
+value: 307.0
+
+
+name: Sodium, Na
+unit: mg
+value: 1.0
+label: cup, sliced
+value: 1.0
+label: small
+value: 2.0
+label: medium
+value: 2.0
+label: large
+value: 2.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.1
+label: cup, sliced
+value: 0.14
+label: small
+value: 0.17
+label: medium
+value: 0.2
+label: large
+value: 0.24
+
+
+name: Copper, Cu
+unit: mg
+value: 0.077
+label: cup, sliced
+value: 0.108
+label: small
+value: 0.132
+label: medium
+value: 0.156
+label: large
+value: 0.186
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.048
+label: cup, sliced
+value: 0.067
+label: small
+value: 0.083
+label: medium
+value: 0.097
+label: large
+value: 0.116
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: small
+value: 0.0
+label: medium
+value: 0.0
+label: large
+value: 0.0
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 4.4
+label: cup, sliced
+value: 6.2
+label: small
+value: 7.6
+label: medium
+value: 8.9
+label: large
+value: 10.6
+
+
+name: Thiamin
+unit: mg
+value: 0.01
+label: cup, sliced
+value: 0.014
+label: small
+value: 0.017
+label: medium
+value: 0.02
+label: large
+value: 0.024
+
+
+name: Riboflavin
+unit: mg
+value: 0.022
+label: cup, sliced
+value: 0.031
+label: small
+value: 0.038
+label: medium
+value: 0.044
+label: large
+value: 0.053
+
+
+name: Niacin
+unit: mg
+value: 0.151
+label: cup, sliced
+value: 0.211
+label: small
+value: 0.26
+label: medium
+value: 0.305
+label: large
+value: 0.365
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.043
+label: cup, sliced
+value: 0.06
+label: small
+value: 0.074
+label: medium
+value: 0.087
+label: large
+value: 0.104
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.026
+label: cup, sliced
+value: 0.036
+label: small
+value: 0.045
+label: medium
+value: 0.053
+label: large
+value: 0.063
+
+
+name: Folate, total
+unit: \u00B5g
+value: 9.0
+label: cup, sliced
+value: 13.0
+label: small
+value: 15.0
+label: medium
+value: 18.0
+label: large
+value: 22.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 9.0
+label: cup, sliced
+value: 13.0
+label: small
+value: 15.0
+label: medium
+value: 18.0
+label: large
+value: 22.0
+
+
+name: Choline, total
+unit: mg
+value: 5.1
+label: cup, sliced
+value: 7.1
+label: small
+value: 8.8
+label: medium
+value: 10.3
+label: large
+value: 12.3
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 1.0
+label: cup, sliced
+value: 1.0
+label: small
+value: 2.0
+label: medium
+value: 2.0
+label: large
+value: 2.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 14.0
+label: cup, sliced
+value: 20.0
+label: small
+value: 24.0
+label: medium
+value: 28.0
+label: large
+value: 34.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: small
+value: 0.0
+label: medium
+value: 0.0
+label: large
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 1.0
+label: cup, sliced
+value: 1.0
+label: small
+value: 2.0
+label: medium
+value: 2.0
+label: large
+value: 2.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 25.0
+label: cup, sliced
+value: 35.0
+label: small
+value: 43.0
+label: medium
+value: 50.0
+label: large
+value: 60.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: small
+value: 0.0
+label: medium
+value: 0.0
+label: large
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 46.0
+label: cup, sliced
+value: 64.0
+label: small
+value: 79.0
+label: medium
+value: 93.0
+label: large
+value: 111.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.12
+label: cup, sliced
+value: 0.17
+label: small
+value: 0.21
+label: medium
+value: 0.24
+label: large
+value: 0.29
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 4.3
+label: cup, sliced
+value: 6.0
+label: small
+value: 7.4
+label: medium
+value: 8.7
+label: large
+value: 10.4
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: small
+value: 0.0
+label: medium
+value: 0.0
+label: large
+value: 0.0
+
+
+name: Tryptophan
+unit: g
+value: 0.002
+label: cup, sliced
+value: 0.003
+label: small
+value: 0.003
+label: medium
+value: 0.004
+label: large
+value: 0.005
+
+
+name: Threonine
+unit: g
+value: 0.014
+label: cup, sliced
+value: 0.02
+label: small
+value: 0.024
+label: medium
+value: 0.028
+label: large
+value: 0.034
+
+
+name: Isoleucine
+unit: g
+value: 0.013
+label: cup, sliced
+value: 0.018
+label: small
+value: 0.022
+label: medium
+value: 0.026
+label: large
+value: 0.031
+
+
+name: Leucine
+unit: g
+value: 0.022
+label: cup, sliced
+value: 0.031
+label: small
+value: 0.038
+label: medium
+value: 0.044
+label: large
+value: 0.053
+
+
+name: Lysine
+unit: g
+value: 0.02
+label: cup, sliced
+value: 0.028
+label: small
+value: 0.034
+label: medium
+value: 0.04
+label: large
+value: 0.048
+
+
+name: Methionine
+unit: g
+value: 0.003
+label: cup, sliced
+value: 0.004
+label: small
+value: 0.005
+label: medium
+value: 0.006
+label: large
+value: 0.007
+
+
+name: Cystine
+unit: g
+value: 0.002
+label: cup, sliced
+value: 0.003
+label: small
+value: 0.003
+label: medium
+value: 0.004
+label: large
+value: 0.005
+
+
+name: Phenylalanine
+unit: g
+value: 0.013
+label: cup, sliced
+value: 0.018
+label: small
+value: 0.022
+label: medium
+value: 0.026
+label: large
+value: 0.031
+
+
+name: Tyrosine
+unit: g
+value: 0.002
+label: cup, sliced
+value: 0.003
+label: small
+value: 0.003
+label: medium
+value: 0.004
+label: large
+value: 0.005
+
+
+name: Valine
+unit: g
+value: 0.02
+label: cup, sliced
+value: 0.028
+label: small
+value: 0.034
+label: medium
+value: 0.04
+label: large
+value: 0.048
+
+
+name: Arginine
+unit: g
+value: 0.012
+label: cup, sliced
+value: 0.017
+label: small
+value: 0.021
+label: medium
+value: 0.024
+label: large
+value: 0.029
+
+
+name: Histidine
+unit: g
+value: 0.002
+label: cup, sliced
+value: 0.003
+label: small
+value: 0.003
+label: medium
+value: 0.004
+label: large
+value: 0.005
+
+
+name: Alanine
+unit: g
+value: 0.016
+label: cup, sliced
+value: 0.022
+label: small
+value: 0.028
+label: medium
+value: 0.032
+label: large
+value: 0.039
+
+
+name: Aspartic acid
+unit: g
+value: 0.124
+label: cup, sliced
+value: 0.174
+label: small
+value: 0.213
+label: medium
+value: 0.25
+label: large
+value: 0.3
+
+
+name: Glutamic acid
+unit: g
+value: 0.036
+label: cup, sliced
+value: 0.05
+label: small
+value: 0.062
+label: medium
+value: 0.073
+label: large
+value: 0.087
+
+
+name: Glycine
+unit: g
+value: 0.015
+label: cup, sliced
+value: 0.021
+label: small
+value: 0.026
+label: medium
+value: 0.03
+label: large
+value: 0.036
+
+
+name: Proline
+unit: g
+value: 0.025
+label: cup, sliced
+value: 0.035
+label: small
+value: 0.043
+label: medium
+value: 0.051
+label: large
+value: 0.061
+
+
+name: Serine
+unit: g
+value: 0.018
+label: cup, sliced
+value: 0.025
+label: small
+value: 0.031
+label: medium
+value: 0.036
+label: large
+value: 0.044
+
+

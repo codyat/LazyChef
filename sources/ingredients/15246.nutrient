@@ -1,0 +1,601 @@
+ndbno: 15246
+
+
+name: Mollusks, oyster, eastern, farmed, cooked, dry heat
+
+
+name: Water
+unit: g
+value: 81.95
+label: oz
+value: 69.66
+label: medium
+value: 48.35
+
+
+name: Energy
+unit: kcal
+value: 79.0
+label: oz
+value: 67.0
+label: medium
+value: 47.0
+
+
+name: Energy
+unit: kJ
+value: 331.0
+label: oz
+value: 281.0
+label: medium
+value: 195.0
+
+
+name: Protein
+unit: g
+value: 7.0
+label: oz
+value: 5.95
+label: medium
+value: 4.13
+
+
+name: Total lipid (fat)
+unit: g
+value: 2.12
+label: oz
+value: 1.8
+label: medium
+value: 1.25
+
+
+name: Ash
+unit: g
+value: 1.65
+label: oz
+value: 1.4
+label: medium
+value: 0.97
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 7.28
+label: oz
+value: 6.19
+label: medium
+value: 4.3
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: medium
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 56.0
+label: oz
+value: 48.0
+label: medium
+value: 33.0
+
+
+name: Iron, Fe
+unit: mg
+value: 7.77
+label: oz
+value: 6.6
+label: medium
+value: 4.58
+
+
+name: Magnesium, Mg
+unit: mg
+value: 33.0
+label: oz
+value: 28.0
+label: medium
+value: 19.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 115.0
+label: oz
+value: 98.0
+label: medium
+value: 68.0
+
+
+name: Potassium, K
+unit: mg
+value: 152.0
+label: oz
+value: 129.0
+label: medium
+value: 90.0
+
+
+name: Sodium, Na
+unit: mg
+value: 163.0
+label: oz
+value: 139.0
+label: medium
+value: 96.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 45.15
+label: oz
+value: 38.38
+label: medium
+value: 26.64
+
+
+name: Copper, Cu
+unit: mg
+value: 1.434
+label: oz
+value: 1.219
+label: medium
+value: 0.846
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.425
+label: oz
+value: 0.361
+label: medium
+value: 0.251
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 77.5
+label: oz
+value: 65.9
+label: medium
+value: 45.7
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 6.0
+label: oz
+value: 5.1
+label: medium
+value: 3.5
+
+
+name: Thiamin
+unit: mg
+value: 0.13
+label: oz
+value: 0.11
+label: medium
+value: 0.077
+
+
+name: Riboflavin
+unit: mg
+value: 0.055
+label: oz
+value: 0.047
+label: medium
+value: 0.032
+
+
+name: Niacin
+unit: mg
+value: 1.792
+label: oz
+value: 1.523
+label: medium
+value: 1.057
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.195
+label: oz
+value: 0.166
+label: medium
+value: 0.115
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.076
+label: oz
+value: 0.065
+label: medium
+value: 0.045
+
+
+name: Folate, total
+unit: \u00B5g
+value: 24.0
+label: oz
+value: 20.0
+label: medium
+value: 14.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: medium
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 24.0
+label: oz
+value: 20.0
+label: medium
+value: 14.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 24.0
+label: oz
+value: 20.0
+label: medium
+value: 14.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 24.3
+label: oz
+value: 20.66
+label: medium
+value: 14.34
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 19.0
+label: oz
+value: 16.0
+label: medium
+value: 11.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 19.0
+label: oz
+value: 16.0
+label: medium
+value: 11.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 63.0
+label: oz
+value: 54.0
+label: medium
+value: 37.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.683
+label: oz
+value: 0.581
+label: medium
+value: 0.403
+
+
+name: 14:0
+unit: g
+value: 0.053
+label: oz
+value: 0.045
+label: medium
+value: 0.031
+
+
+name: 16:0
+unit: g
+value: 0.489
+label: oz
+value: 0.416
+label: medium
+value: 0.289
+
+
+name: 18:0
+unit: g
+value: 0.07
+label: oz
+value: 0.06
+label: medium
+value: 0.041
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.23
+label: oz
+value: 0.196
+label: medium
+value: 0.136
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.059
+label: oz
+value: 0.05
+label: medium
+value: 0.035
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.111
+label: oz
+value: 0.094
+label: medium
+value: 0.065
+
+
+name: 20:1
+unit: g
+value: 0.049
+label: oz
+value: 0.042
+label: medium
+value: 0.029
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.713
+label: oz
+value: 0.606
+label: medium
+value: 0.421
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.043
+label: oz
+value: 0.037
+label: medium
+value: 0.025
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.063
+label: oz
+value: 0.054
+label: medium
+value: 0.037
+
+
+name: 18:4
+unit: g
+value: 0.118
+label: oz
+value: 0.1
+label: medium
+value: 0.07
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.044
+label: oz
+value: 0.037
+label: medium
+value: 0.026
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.229
+label: oz
+value: 0.195
+label: medium
+value: 0.135
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.211
+label: oz
+value: 0.179
+label: medium
+value: 0.124
+
+
+name: Cholesterol
+unit: mg
+value: 38.0
+label: oz
+value: 32.0
+label: medium
+value: 22.0
+
+
+name: Tryptophan
+unit: g
+value: 0.078
+label: oz
+value: 0.066
+label: medium
+value: 0.046
+
+
+name: Threonine
+unit: g
+value: 0.301
+label: oz
+value: 0.256
+label: medium
+value: 0.178
+
+
+name: Isoleucine
+unit: g
+value: 0.305
+label: oz
+value: 0.259
+label: medium
+value: 0.18
+
+
+name: Leucine
+unit: g
+value: 0.493
+label: oz
+value: 0.419
+label: medium
+value: 0.291
+
+
+name: Lysine
+unit: g
+value: 0.523
+label: oz
+value: 0.445
+label: medium
+value: 0.309
+
+
+name: Methionine
+unit: g
+value: 0.158
+label: oz
+value: 0.134
+label: medium
+value: 0.093
+
+
+name: Cystine
+unit: g
+value: 0.092
+label: oz
+value: 0.078
+label: medium
+value: 0.054
+
+
+name: Phenylalanine
+unit: g
+value: 0.251
+label: oz
+value: 0.213
+label: medium
+value: 0.148
+
+
+name: Tyrosine
+unit: g
+value: 0.224
+label: oz
+value: 0.19
+label: medium
+value: 0.132
+
+
+name: Valine
+unit: g
+value: 0.306
+label: oz
+value: 0.26
+label: medium
+value: 0.181
+
+
+name: Arginine
+unit: g
+value: 0.511
+label: oz
+value: 0.434
+label: medium
+value: 0.301
+
+
+name: Histidine
+unit: g
+value: 0.134
+label: oz
+value: 0.114
+label: medium
+value: 0.079
+
+
+name: Alanine
+unit: g
+value: 0.423
+label: oz
+value: 0.36
+label: medium
+value: 0.25
+
+
+name: Aspartic acid
+unit: g
+value: 0.675
+label: oz
+value: 0.574
+label: medium
+value: 0.398
+
+
+name: Glutamic acid
+unit: g
+value: 0.952
+label: oz
+value: 0.809
+label: medium
+value: 0.562
+
+
+name: Glycine
+unit: g
+value: 0.438
+label: oz
+value: 0.372
+label: medium
+value: 0.258
+
+
+name: Proline
+unit: g
+value: 0.286
+label: oz
+value: 0.243
+label: medium
+value: 0.169
+
+
+name: Serine
+unit: g
+value: 0.314
+label: oz
+value: 0.267
+label: medium
+value: 0.185
+
+
+

@@ -1,0 +1,399 @@
+ndbno: 10805
+
+
+name: USDA Commodity, pork, ground, fine/coarse, frozen, raw
+
+
+name: Water
+unit: g
+value: 64.46
+label: oz crumbles
+value: 72.84
+
+
+name: Energy
+unit: kcal
+value: 221.0
+label: oz crumbles
+value: 250.0
+
+
+name: Energy
+unit: kJ
+value: 925.0
+label: oz crumbles
+value: 1045.0
+
+
+name: Protein
+unit: g
+value: 15.41
+label: oz crumbles
+value: 17.41
+
+
+name: Total lipid (fat)
+unit: g
+value: 17.18
+label: oz crumbles
+value: 19.41
+
+
+name: Ash
+unit: g
+value: 0.79
+label: oz crumbles
+value: 0.89
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 0.0
+label: oz crumbles
+value: 0.0
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: oz crumbles
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 14.0
+label: oz crumbles
+value: 16.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.91
+label: oz crumbles
+value: 1.03
+
+
+name: Magnesium, Mg
+unit: mg
+value: 20.0
+label: oz crumbles
+value: 23.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 181.0
+label: oz crumbles
+value: 205.0
+
+
+name: Potassium, K
+unit: mg
+value: 297.0
+label: oz crumbles
+value: 336.0
+
+
+name: Sodium, Na
+unit: mg
+value: 58.0
+label: oz crumbles
+value: 66.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 2.28
+label: oz crumbles
+value: 2.58
+
+
+name: Copper, Cu
+unit: mg
+value: 0.047
+label: oz crumbles
+value: 0.053
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.01
+label: oz crumbles
+value: 0.011
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 24.6
+label: oz crumbles
+value: 27.8
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.6
+label: oz crumbles
+value: 0.7
+
+
+name: Thiamin
+unit: mg
+value: 0.668
+label: oz crumbles
+value: 0.755
+
+
+name: Riboflavin
+unit: mg
+value: 0.214
+label: oz crumbles
+value: 0.242
+
+
+name: Niacin
+unit: mg
+value: 3.959
+label: oz crumbles
+value: 4.474
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.61
+label: oz crumbles
+value: 0.689
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.35
+label: oz crumbles
+value: 0.395
+
+
+name: Folate, total
+unit: \u00B5g
+value: 5.0
+label: oz crumbles
+value: 6.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: oz crumbles
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 5.0
+label: oz crumbles
+value: 6.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 5.0
+label: oz crumbles
+value: 6.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.64
+label: oz crumbles
+value: 0.72
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 2.0
+label: oz crumbles
+value: 2.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 2.0
+label: oz crumbles
+value: 2.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 6.0
+label: oz crumbles
+value: 7.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 6.379
+label: oz crumbles
+value: 7.208
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: oz crumbles
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: oz crumbles
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.008
+label: oz crumbles
+value: 0.009
+
+
+name: 10:0
+unit: g
+value: 0.008
+label: oz crumbles
+value: 0.009
+
+
+name: 12:0
+unit: g
+value: 0.016
+label: oz crumbles
+value: 0.018
+
+
+name: 14:0
+unit: g
+value: 0.267
+label: oz crumbles
+value: 0.302
+
+
+name: 16:0
+unit: g
+value: 3.866
+label: oz crumbles
+value: 4.369
+
+
+name: 18:0
+unit: g
+value: 2.067
+label: oz crumbles
+value: 2.336
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 7.651
+label: oz crumbles
+value: 8.646
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.527
+label: oz crumbles
+value: 0.596
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 6.889
+label: oz crumbles
+value: 7.785
+
+
+name: 20:1
+unit: g
+value: 0.13
+label: oz crumbles
+value: 0.147
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: oz crumbles
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 1.548
+label: oz crumbles
+value: 1.749
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 1.354
+label: oz crumbles
+value: 1.53
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.057
+label: oz crumbles
+value: 0.064
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: oz crumbles
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.065
+label: oz crumbles
+value: 0.073
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: oz crumbles
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: oz crumbles
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: oz crumbles
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 58.0
+label: oz crumbles
+value: 66.0
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: oz crumbles
+value: 0.0
+
+
+

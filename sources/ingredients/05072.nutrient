@@ -1,0 +1,672 @@
+ndbno: 05072
+
+
+name: Chicken, broilers or fryers, drumstick, meat only, cooked, fried
+
+
+name: Water
+unit: g
+value: 62.24
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 15.56
+label: drumstick, bone and skin removed
+value: 26.14
+
+
+name: Energy
+unit: kcal
+value: 195.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 49.0
+label: drumstick, bone and skin removed
+value: 82.0
+
+
+name: Energy
+unit: kJ
+value: 816.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 204.0
+label: drumstick, bone and skin removed
+value: 343.0
+
+
+name: Protein
+unit: g
+value: 28.62
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 7.16
+label: drumstick, bone and skin removed
+value: 12.02
+
+
+name: Total lipid (fat)
+unit: g
+value: 8.08
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 2.02
+label: drumstick, bone and skin removed
+value: 3.39
+
+
+name: Ash
+unit: g
+value: 1.06
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.26
+label: drumstick, bone and skin removed
+value: 0.45
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.0
+label: drumstick, bone and skin removed
+value: 0.0
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.0
+label: drumstick, bone and skin removed
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 12.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 3.0
+label: drumstick, bone and skin removed
+value: 5.0
+
+
+name: Iron, Fe
+unit: mg
+value: 1.32
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.33
+label: drumstick, bone and skin removed
+value: 0.55
+
+
+name: Magnesium, Mg
+unit: mg
+value: 24.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 6.0
+label: drumstick, bone and skin removed
+value: 10.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 186.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 46.0
+label: drumstick, bone and skin removed
+value: 78.0
+
+
+name: Potassium, K
+unit: mg
+value: 249.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 62.0
+label: drumstick, bone and skin removed
+value: 105.0
+
+
+name: Sodium, Na
+unit: mg
+value: 96.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 24.0
+label: drumstick, bone and skin removed
+value: 40.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 3.22
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.8
+label: drumstick, bone and skin removed
+value: 1.35
+
+
+name: Copper, Cu
+unit: mg
+value: 0.08
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.02
+label: drumstick, bone and skin removed
+value: 0.034
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.021
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.005
+label: drumstick, bone and skin removed
+value: 0.009
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 19.6
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 4.9
+label: drumstick, bone and skin removed
+value: 8.2
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.0
+label: drumstick, bone and skin removed
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.077
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.019
+label: drumstick, bone and skin removed
+value: 0.032
+
+
+name: Riboflavin
+unit: mg
+value: 0.236
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.059
+label: drumstick, bone and skin removed
+value: 0.099
+
+
+name: Niacin
+unit: mg
+value: 6.146
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 1.536
+label: drumstick, bone and skin removed
+value: 2.581
+
+
+name: Pantothenic acid
+unit: mg
+value: 1.32
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.33
+label: drumstick, bone and skin removed
+value: 0.554
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.39
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.098
+label: drumstick, bone and skin removed
+value: 0.164
+
+
+name: Folate, total
+unit: \u00B5g
+value: 9.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 2.0
+label: drumstick, bone and skin removed
+value: 4.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.0
+label: drumstick, bone and skin removed
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 9.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 2.0
+label: drumstick, bone and skin removed
+value: 4.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 9.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 2.0
+label: drumstick, bone and skin removed
+value: 4.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.35
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.09
+label: drumstick, bone and skin removed
+value: 0.15
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 18.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 4.0
+label: drumstick, bone and skin removed
+value: 8.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 18.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 4.0
+label: drumstick, bone and skin removed
+value: 8.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 61.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 15.0
+label: drumstick, bone and skin removed
+value: 26.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 2.13
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.532
+label: drumstick, bone and skin removed
+value: 0.895
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.0
+label: drumstick, bone and skin removed
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.0
+label: drumstick, bone and skin removed
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.0
+label: drumstick, bone and skin removed
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.0
+label: drumstick, bone and skin removed
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.02
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.005
+label: drumstick, bone and skin removed
+value: 0.008
+
+
+name: 14:0
+unit: g
+value: 0.05
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.012
+label: drumstick, bone and skin removed
+value: 0.021
+
+
+name: 16:0
+unit: g
+value: 1.41
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.352
+label: drumstick, bone and skin removed
+value: 0.592
+
+
+name: 18:0
+unit: g
+value: 0.59
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.148
+label: drumstick, bone and skin removed
+value: 0.248
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 2.94
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.735
+label: drumstick, bone and skin removed
+value: 1.235
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.31
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.078
+label: drumstick, bone and skin removed
+value: 0.13
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 2.57
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.642
+label: drumstick, bone and skin removed
+value: 1.079
+
+
+name: 20:1
+unit: g
+value: 0.03
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.008
+label: drumstick, bone and skin removed
+value: 0.013
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.0
+label: drumstick, bone and skin removed
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 1.97
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.492
+label: drumstick, bone and skin removed
+value: 0.827
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 1.64
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.41
+label: drumstick, bone and skin removed
+value: 0.689
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.08
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.02
+label: drumstick, bone and skin removed
+value: 0.034
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.0
+label: drumstick, bone and skin removed
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.12
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.03
+label: drumstick, bone and skin removed
+value: 0.05
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.01
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.002
+label: drumstick, bone and skin removed
+value: 0.004
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.03
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.008
+label: drumstick, bone and skin removed
+value: 0.013
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.05
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.012
+label: drumstick, bone and skin removed
+value: 0.021
+
+
+name: Cholesterol
+unit: mg
+value: 94.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 24.0
+label: drumstick, bone and skin removed
+value: 39.0
+
+
+name: Tryptophan
+unit: g
+value: 0.335
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.084
+label: drumstick, bone and skin removed
+value: 0.141
+
+
+name: Threonine
+unit: g
+value: 1.209
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.302
+label: drumstick, bone and skin removed
+value: 0.508
+
+
+name: Isoleucine
+unit: g
+value: 1.511
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.378
+label: drumstick, bone and skin removed
+value: 0.635
+
+
+name: Leucine
+unit: g
+value: 2.148
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.537
+label: drumstick, bone and skin removed
+value: 0.902
+
+
+name: Lysine
+unit: g
+value: 2.431
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.608
+label: drumstick, bone and skin removed
+value: 1.021
+
+
+name: Methionine
+unit: g
+value: 0.792
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.198
+label: drumstick, bone and skin removed
+value: 0.333
+
+
+name: Cystine
+unit: g
+value: 0.366
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.092
+label: drumstick, bone and skin removed
+value: 0.154
+
+
+name: Phenylalanine
+unit: g
+value: 1.135
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.284
+label: drumstick, bone and skin removed
+value: 0.477
+
+
+name: Tyrosine
+unit: g
+value: 0.966
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.242
+label: drumstick, bone and skin removed
+value: 0.406
+
+
+name: Valine
+unit: g
+value: 1.42
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.355
+label: drumstick, bone and skin removed
+value: 0.596
+
+
+name: Arginine
+unit: g
+value: 1.727
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.432
+label: drumstick, bone and skin removed
+value: 0.725
+
+
+name: Histidine
+unit: g
+value: 0.888
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.222
+label: drumstick, bone and skin removed
+value: 0.373
+
+
+name: Alanine
+unit: g
+value: 1.561
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.39
+label: drumstick, bone and skin removed
+value: 0.656
+
+
+name: Aspartic acid
+unit: g
+value: 2.55
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.638
+label: drumstick, bone and skin removed
+value: 1.071
+
+
+name: Glutamic acid
+unit: g
+value: 4.286
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 1.072
+label: drumstick, bone and skin removed
+value: 1.8
+
+
+name: Glycine
+unit: g
+value: 1.406
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.352
+label: drumstick, bone and skin removed
+value: 0.591
+
+
+name: Proline
+unit: g
+value: 1.177
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.294
+label: drumstick, bone and skin removed
+value: 0.494
+
+
+name: Serine
+unit: g
+value: 0.985
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.246
+label: drumstick, bone and skin removed
+value: 0.414
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.0
+label: drumstick, bone and skin removed
+value: 0.0
+
+

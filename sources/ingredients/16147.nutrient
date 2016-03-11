@@ -1,0 +1,789 @@
+ndbno: 16147
+
+
+name: Veggie burgers or soyburgers, unprepared
+
+
+name: Water
+unit: g
+value: 61.21
+label: pattie
+value: 42.85
+
+
+name: Energy
+unit: kcal
+value: 177.0
+label: pattie
+value: 124.0
+
+
+name: Energy
+unit: kJ
+value: 739.0
+label: pattie
+value: 517.0
+
+
+name: Protein
+unit: g
+value: 15.7
+label: pattie
+value: 10.99
+
+
+name: Total lipid (fat)
+unit: g
+value: 6.3
+label: pattie
+value: 4.41
+
+
+name: Ash
+unit: g
+value: 2.52
+label: pattie
+value: 1.76
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 14.27
+label: pattie
+value: 9.99
+
+
+name: Fiber, total dietary
+unit: g
+value: 4.9
+label: pattie
+value: 3.4
+
+
+name: Sugars, total
+unit: g
+value: 1.07
+label: pattie
+value: 0.75
+
+
+name: Sucrose
+unit: g
+value: 0.62
+label: pattie
+value: 0.43
+
+
+name: Glucose (dextrose)
+unit: g
+value: 0.26
+label: pattie
+value: 0.18
+
+
+name: Fructose
+unit: g
+value: 0.13
+label: pattie
+value: 0.09
+
+
+name: Lactose
+unit: g
+value: 0.06
+label: pattie
+value: 0.04
+
+
+name: Maltose
+unit: g
+value: 0.0
+label: pattie
+value: 0.0
+
+
+name: Galactose
+unit: g
+value: 0.0
+label: pattie
+value: 0.0
+
+
+name: Starch
+unit: g
+value: 5.78
+label: pattie
+value: 4.05
+
+
+name: Calcium, Ca
+unit: mg
+value: 136.0
+label: pattie
+value: 95.0
+
+
+name: Iron, Fe
+unit: mg
+value: 2.41
+label: pattie
+value: 1.69
+
+
+name: Magnesium, Mg
+unit: mg
+value: 56.0
+label: pattie
+value: 39.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 206.0
+label: pattie
+value: 144.0
+
+
+name: Potassium, K
+unit: mg
+value: 333.0
+label: pattie
+value: 233.0
+
+
+name: Sodium, Na
+unit: mg
+value: 569.0
+label: pattie
+value: 398.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 1.26
+label: pattie
+value: 0.88
+
+
+name: Copper, Cu
+unit: mg
+value: 0.2
+label: pattie
+value: 0.14
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.951
+label: pattie
+value: 0.666
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 22.6
+label: pattie
+value: 15.8
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 4.5
+label: pattie
+value: 3.2
+
+
+name: Thiamin
+unit: mg
+value: 2.651
+label: pattie
+value: 1.856
+
+
+name: Riboflavin
+unit: mg
+value: 0.244
+label: pattie
+value: 0.171
+
+
+name: Niacin
+unit: mg
+value: 3.753
+label: pattie
+value: 2.627
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.289
+label: pattie
+value: 0.202
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.303
+label: pattie
+value: 0.212
+
+
+name: Folate, total
+unit: \u00B5g
+value: 124.0
+label: pattie
+value: 87.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: pattie
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 124.0
+label: pattie
+value: 87.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 124.0
+label: pattie
+value: 87.0
+
+
+name: Choline, total
+unit: mg
+value: 19.4
+label: pattie
+value: 13.6
+
+
+name: Betaine
+unit: mg
+value: 6.1
+label: pattie
+value: 4.3
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 2.01
+label: pattie
+value: 1.41
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 2.01
+label: pattie
+value: 1.41
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 1.0
+label: pattie
+value: 1.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: pattie
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 10.0
+label: pattie
+value: 7.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: pattie
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: pattie
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 16.0
+label: pattie
+value: 11.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: pattie
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 0.0
+label: pattie
+value: 0.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.23
+label: pattie
+value: 0.16
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: pattie
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: pattie
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: pattie
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 4.2
+label: pattie
+value: 2.9
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 1.44
+label: pattie
+value: 1.008
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: pattie
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: pattie
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.099
+label: pattie
+value: 0.069
+
+
+name: 10:0
+unit: g
+value: 0.081
+label: pattie
+value: 0.057
+
+
+name: 12:0
+unit: g
+value: 0.032
+label: pattie
+value: 0.022
+
+
+name: 14:0
+unit: g
+value: 0.112
+label: pattie
+value: 0.078
+
+
+name: 15:0
+unit: g
+value: 0.011
+label: pattie
+value: 0.008
+
+
+name: 16:0
+unit: g
+value: 0.805
+label: pattie
+value: 0.564
+
+
+name: 17:0
+unit: g
+value: 0.008
+label: pattie
+value: 0.006
+
+
+name: 18:0
+unit: g
+value: 0.267
+label: pattie
+value: 0.187
+
+
+name: 20:0
+unit: g
+value: 0.018
+label: pattie
+value: 0.013
+
+
+name: 22:0
+unit: g
+value: 0.007
+label: pattie
+value: 0.005
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 1.778
+label: pattie
+value: 1.245
+
+
+name: 14:1
+unit: g
+value: 0.008
+label: pattie
+value: 0.006
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: pattie
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.023
+label: pattie
+value: 0.016
+
+
+name: 17:1
+unit: g
+value: 0.002
+label: pattie
+value: 0.001
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 1.72
+label: pattie
+value: 1.204
+
+
+name: 20:1
+unit: g
+value: 0.023
+label: pattie
+value: 0.016
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: pattie
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 2.023
+label: pattie
+value: 1.416
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 1.94
+label: pattie
+value: 1.358
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.0
+label: pattie
+value: 0.0
+
+
+name: 18:3 n-3 c,c,c (ALA)
+unit: g
+value: 0.081
+label: pattie
+value: 0.057
+
+
+name: 18:3 n-6 c,c,c
+unit: g
+value: 0.0
+label: pattie
+value: 0.0
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: pattie
+value: 0.0
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.0
+label: pattie
+value: 0.0
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.0
+label: pattie
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.001
+label: pattie
+value: 0.001
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: pattie
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: pattie
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: pattie
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 5.0
+label: pattie
+value: 4.0
+
+
+name: Tryptophan
+unit: g
+value: 0.162
+label: pattie
+value: 0.113
+
+
+name: Threonine
+unit: g
+value: 0.605
+label: pattie
+value: 0.424
+
+
+name: Isoleucine
+unit: g
+value: 0.78
+label: pattie
+value: 0.546
+
+
+name: Leucine
+unit: g
+value: 1.399
+label: pattie
+value: 0.979
+
+
+name: Lysine
+unit: g
+value: 1.004
+label: pattie
+value: 0.703
+
+
+name: Methionine
+unit: g
+value: 0.291
+label: pattie
+value: 0.204
+
+
+name: Cystine
+unit: g
+value: 0.26
+label: pattie
+value: 0.182
+
+
+name: Phenylalanine
+unit: g
+value: 0.885
+label: pattie
+value: 0.62
+
+
+name: Tyrosine
+unit: g
+value: 0.652
+label: pattie
+value: 0.456
+
+
+name: Valine
+unit: g
+value: 0.89
+label: pattie
+value: 0.623
+
+
+name: Arginine
+unit: g
+value: 1.045
+label: pattie
+value: 0.731
+
+
+name: Histidine
+unit: g
+value: 0.465
+label: pattie
+value: 0.326
+
+
+name: Alanine
+unit: g
+value: 0.726
+label: pattie
+value: 0.508
+
+
+name: Aspartic acid
+unit: g
+value: 1.553
+label: pattie
+value: 1.087
+
+
+name: Glutamic acid
+unit: g
+value: 4.086
+label: pattie
+value: 2.86
+
+
+name: Glycine
+unit: g
+value: 0.66
+label: pattie
+value: 0.462
+
+
+name: Proline
+unit: g
+value: 1.299
+label: pattie
+value: 0.909
+
+
+name: Serine
+unit: g
+value: 0.967
+label: pattie
+value: 0.677
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: pattie
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: pattie
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: pattie
+value: 0.0
+
+
+name: Glycitein
+unit: mg
+value: 0.55
+label: pattie
+value: 0.38
+
+
+name: Biochanin A
+unit: mg
+value: 0.0
+label: pattie
+value: 0.0
+
+
+name: Formononetin
+unit: mg
+value: 0.0
+label: pattie
+value: 0.0
+
+
+name: Coumestrol
+unit: mg
+value: 0.0
+label: pattie
+value: 0.0
+

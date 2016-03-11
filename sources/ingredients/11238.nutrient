@@ -1,0 +1,425 @@
+ndbno: 11238
+
+
+name: Mushrooms, shiitake, raw
+
+
+name: Water
+unit: g
+value: 89.74
+label: piece whole
+value: 17.05
+
+
+name: Energy
+unit: kcal
+value: 34.0
+label: piece whole
+value: 6.0
+
+
+name: Energy
+unit: kJ
+value: 141.0
+label: piece whole
+value: 27.0
+
+
+name: Protein
+unit: g
+value: 2.24
+label: piece whole
+value: 0.43
+
+
+name: Total lipid (fat)
+unit: g
+value: 0.49
+label: piece whole
+value: 0.09
+
+
+name: Ash
+unit: g
+value: 0.73
+label: piece whole
+value: 0.14
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 6.79
+label: piece whole
+value: 1.29
+
+
+name: Fiber, total dietary
+unit: g
+value: 2.5
+label: piece whole
+value: 0.5
+
+
+name: Sugars, total
+unit: g
+value: 2.38
+label: piece whole
+value: 0.45
+
+
+name: Sucrose
+unit: g
+value: 0.0
+label: piece whole
+value: 0.0
+
+
+name: Glucose (dextrose)
+unit: g
+value: 2.38
+label: piece whole
+value: 0.45
+
+
+name: Fructose
+unit: g
+value: 0.0
+label: piece whole
+value: 0.0
+
+
+name: Lactose
+unit: g
+value: 0.0
+label: piece whole
+value: 0.0
+
+
+name: Maltose
+unit: g
+value: 0.0
+label: piece whole
+value: 0.0
+
+
+name: Galactose
+unit: g
+value: 0.0
+label: piece whole
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 2.0
+label: piece whole
+value: 0.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.41
+label: piece whole
+value: 0.08
+
+
+name: Magnesium, Mg
+unit: mg
+value: 20.0
+label: piece whole
+value: 4.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 112.0
+label: piece whole
+value: 21.0
+
+
+name: Potassium, K
+unit: mg
+value: 304.0
+label: piece whole
+value: 58.0
+
+
+name: Sodium, Na
+unit: mg
+value: 9.0
+label: piece whole
+value: 2.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 1.03
+label: piece whole
+value: 0.2
+
+
+name: Copper, Cu
+unit: mg
+value: 0.142
+label: piece whole
+value: 0.027
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.23
+label: piece whole
+value: 0.044
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 5.7
+label: piece whole
+value: 1.1
+
+
+name: Thiamin
+unit: mg
+value: 0.015
+label: piece whole
+value: 0.003
+
+
+name: Riboflavin
+unit: mg
+value: 0.217
+label: piece whole
+value: 0.041
+
+
+name: Niacin
+unit: mg
+value: 3.877
+label: piece whole
+value: 0.737
+
+
+name: Pantothenic acid
+unit: mg
+value: 1.5
+label: piece whole
+value: 0.285
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.293
+label: piece whole
+value: 0.056
+
+
+name: Folate, total
+unit: \u00B5g
+value: 13.0
+label: piece whole
+value: 2.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: piece whole
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 13.0
+label: piece whole
+value: 2.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 13.0
+label: piece whole
+value: 2.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.4
+label: piece whole
+value: 0.1
+
+
+name: Vitamin D2 (ergocalciferol)
+unit: \u00B5g
+value: 0.4
+label: piece whole
+value: 0.1
+
+
+name: Vitamin D3 (cholecalciferol)
+unit: \u00B5g
+value: 0.0
+label: piece whole
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 18.0
+label: piece whole
+value: 3.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.0
+label: piece whole
+value: 0.0
+
+
+name: Stigmasterol
+unit: mg
+value: 0.0
+label: piece whole
+value: 0.0
+
+
+name: Campesterol
+unit: mg
+value: 2.0
+label: piece whole
+value: 0.0
+
+
+name: Beta-sitosterol
+unit: mg
+value: 0.0
+label: piece whole
+value: 0.0
+
+
+name: Tryptophan
+unit: g
+value: 0.011
+label: piece whole
+value: 0.002
+
+
+name: Threonine
+unit: g
+value: 0.134
+label: piece whole
+value: 0.025
+
+
+name: Isoleucine
+unit: g
+value: 0.111
+label: piece whole
+value: 0.021
+
+
+name: Leucine
+unit: g
+value: 0.189
+label: piece whole
+value: 0.036
+
+
+name: Lysine
+unit: g
+value: 0.134
+label: piece whole
+value: 0.025
+
+
+name: Methionine
+unit: g
+value: 0.033
+label: piece whole
+value: 0.006
+
+
+name: Cystine
+unit: g
+value: 0.022
+label: piece whole
+value: 0.004
+
+
+name: Phenylalanine
+unit: g
+value: 0.111
+label: piece whole
+value: 0.021
+
+
+name: Tyrosine
+unit: g
+value: 0.078
+label: piece whole
+value: 0.015
+
+
+name: Valine
+unit: g
+value: 0.145
+label: piece whole
+value: 0.028
+
+
+name: Arginine
+unit: g
+value: 0.156
+label: piece whole
+value: 0.03
+
+
+name: Histidine
+unit: g
+value: 0.056
+label: piece whole
+value: 0.011
+
+
+name: Alanine
+unit: g
+value: 0.167
+label: piece whole
+value: 0.032
+
+
+name: Aspartic acid
+unit: g
+value: 0.301
+label: piece whole
+value: 0.057
+
+
+name: Glutamic acid
+unit: g
+value: 0.68
+label: piece whole
+value: 0.129
+
+
+name: Glycine
+unit: g
+value: 0.145
+label: piece whole
+value: 0.028
+
+
+name: Proline
+unit: g
+value: 0.1
+label: piece whole
+value: 0.019
+
+
+name: Serine
+unit: g
+value: 0.145
+label: piece whole
+value: 0.028
+

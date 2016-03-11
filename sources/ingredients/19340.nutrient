@@ -1,0 +1,788 @@
+ndbno: 19340
+
+
+name: Sugars, maple
+
+
+name: Water
+unit: g
+value: 8.0
+label: tsp
+value: 0.24
+label: oz
+value: 2.27
+label: piece (1-3/4\ x 1-1/4\ x 1/2\)
+value: 2.24
+
+
+name: Energy
+unit: kcal
+value: 354.0
+label: tsp
+value: 11.0
+label: oz
+value: 100.0
+label: piece (1-3/4\ x 1-1/4\ x 1/2\)
+value: 99.0
+
+
+name: Energy
+unit: kJ
+value: 1481.0
+label: tsp
+value: 44.0
+label: oz
+value: 420.0
+label: piece (1-3/4\ x 1-1/4\ x 1/2\)
+value: 415.0
+
+
+name: Protein
+unit: g
+value: 0.1
+label: tsp
+value: 0.0
+label: oz
+value: 0.03
+label: piece (1-3/4\ x 1-1/4\ x 1/2\)
+value: 0.03
+
+
+name: Total lipid (fat)
+unit: g
+value: 0.2
+label: tsp
+value: 0.01
+label: oz
+value: 0.06
+label: piece (1-3/4\ x 1-1/4\ x 1/2\)
+value: 0.06
+
+
+name: Ash
+unit: g
+value: 0.8
+label: tsp
+value: 0.02
+label: oz
+value: 0.23
+label: piece (1-3/4\ x 1-1/4\ x 1/2\)
+value: 0.22
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 90.9
+label: tsp
+value: 2.73
+label: oz
+value: 25.77
+label: piece (1-3/4\ x 1-1/4\ x 1/2\)
+value: 25.45
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: tsp
+value: 0.0
+label: oz
+value: 0.0
+label: piece (1-3/4\ x 1-1/4\ x 1/2\)
+value: 0.0
+
+
+name: Sugars, total
+unit: g
+value: 84.87
+label: tsp
+value: 2.55
+label: oz
+value: 24.06
+label: piece (1-3/4\ x 1-1/4\ x 1/2\)
+value: 23.76
+
+
+name: Calcium, Ca
+unit: mg
+value: 90.0
+label: tsp
+value: 3.0
+label: oz
+value: 26.0
+label: piece (1-3/4\ x 1-1/4\ x 1/2\)
+value: 25.0
+
+
+name: Iron, Fe
+unit: mg
+value: 1.61
+label: tsp
+value: 0.05
+label: oz
+value: 0.46
+label: piece (1-3/4\ x 1-1/4\ x 1/2\)
+value: 0.45
+
+
+name: Magnesium, Mg
+unit: mg
+value: 19.0
+label: tsp
+value: 1.0
+label: oz
+value: 5.0
+label: piece (1-3/4\ x 1-1/4\ x 1/2\)
+value: 5.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 3.0
+label: tsp
+value: 0.0
+label: oz
+value: 1.0
+label: piece (1-3/4\ x 1-1/4\ x 1/2\)
+value: 1.0
+
+
+name: Potassium, K
+unit: mg
+value: 274.0
+label: tsp
+value: 8.0
+label: oz
+value: 78.0
+label: piece (1-3/4\ x 1-1/4\ x 1/2\)
+value: 77.0
+
+
+name: Sodium, Na
+unit: mg
+value: 11.0
+label: tsp
+value: 0.0
+label: oz
+value: 3.0
+label: piece (1-3/4\ x 1-1/4\ x 1/2\)
+value: 3.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 6.06
+label: tsp
+value: 0.18
+label: oz
+value: 1.72
+label: piece (1-3/4\ x 1-1/4\ x 1/2\)
+value: 1.7
+
+
+name: Copper, Cu
+unit: mg
+value: 0.099
+label: tsp
+value: 0.003
+label: oz
+value: 0.028
+label: piece (1-3/4\ x 1-1/4\ x 1/2\)
+value: 0.028
+
+
+name: Manganese, Mn
+unit: mg
+value: 4.422
+label: tsp
+value: 0.133
+label: oz
+value: 1.254
+label: piece (1-3/4\ x 1-1/4\ x 1/2\)
+value: 1.238
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 0.8
+label: tsp
+value: 0.0
+label: oz
+value: 0.2
+label: piece (1-3/4\ x 1-1/4\ x 1/2\)
+value: 0.2
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: tsp
+value: 0.0
+label: oz
+value: 0.0
+label: piece (1-3/4\ x 1-1/4\ x 1/2\)
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.009
+label: tsp
+value: 0.0
+label: oz
+value: 0.003
+label: piece (1-3/4\ x 1-1/4\ x 1/2\)
+value: 0.003
+
+
+name: Riboflavin
+unit: mg
+value: 0.013
+label: tsp
+value: 0.0
+label: oz
+value: 0.004
+label: piece (1-3/4\ x 1-1/4\ x 1/2\)
+value: 0.004
+
+
+name: Niacin
+unit: mg
+value: 0.04
+label: tsp
+value: 0.001
+label: oz
+value: 0.011
+label: piece (1-3/4\ x 1-1/4\ x 1/2\)
+value: 0.011
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.048
+label: tsp
+value: 0.001
+label: oz
+value: 0.014
+label: piece (1-3/4\ x 1-1/4\ x 1/2\)
+value: 0.013
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.003
+label: tsp
+value: 0.0
+label: oz
+value: 0.001
+label: piece (1-3/4\ x 1-1/4\ x 1/2\)
+value: 0.001
+
+
+name: Folate, total
+unit: \u00B5g
+value: 0.0
+label: tsp
+value: 0.0
+label: oz
+value: 0.0
+label: piece (1-3/4\ x 1-1/4\ x 1/2\)
+value: 0.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: tsp
+value: 0.0
+label: oz
+value: 0.0
+label: piece (1-3/4\ x 1-1/4\ x 1/2\)
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 0.0
+label: tsp
+value: 0.0
+label: oz
+value: 0.0
+label: piece (1-3/4\ x 1-1/4\ x 1/2\)
+value: 0.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 0.0
+label: tsp
+value: 0.0
+label: oz
+value: 0.0
+label: piece (1-3/4\ x 1-1/4\ x 1/2\)
+value: 0.0
+
+
+name: Choline, total
+unit: mg
+value: 2.1
+label: tsp
+value: 0.1
+label: oz
+value: 0.6
+label: piece (1-3/4\ x 1-1/4\ x 1/2\)
+value: 0.6
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: tsp
+value: 0.0
+label: oz
+value: 0.0
+label: piece (1-3/4\ x 1-1/4\ x 1/2\)
+value: 0.0
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: tsp
+value: 0.0
+label: oz
+value: 0.0
+label: piece (1-3/4\ x 1-1/4\ x 1/2\)
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 0.0
+label: tsp
+value: 0.0
+label: oz
+value: 0.0
+label: piece (1-3/4\ x 1-1/4\ x 1/2\)
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: tsp
+value: 0.0
+label: oz
+value: 0.0
+label: piece (1-3/4\ x 1-1/4\ x 1/2\)
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 0.0
+label: tsp
+value: 0.0
+label: oz
+value: 0.0
+label: piece (1-3/4\ x 1-1/4\ x 1/2\)
+value: 0.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: tsp
+value: 0.0
+label: oz
+value: 0.0
+label: piece (1-3/4\ x 1-1/4\ x 1/2\)
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: tsp
+value: 0.0
+label: oz
+value: 0.0
+label: piece (1-3/4\ x 1-1/4\ x 1/2\)
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 0.0
+label: tsp
+value: 0.0
+label: oz
+value: 0.0
+label: piece (1-3/4\ x 1-1/4\ x 1/2\)
+value: 0.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: tsp
+value: 0.0
+label: oz
+value: 0.0
+label: piece (1-3/4\ x 1-1/4\ x 1/2\)
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 0.0
+label: tsp
+value: 0.0
+label: oz
+value: 0.0
+label: piece (1-3/4\ x 1-1/4\ x 1/2\)
+value: 0.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.0
+label: tsp
+value: 0.0
+label: oz
+value: 0.0
+label: piece (1-3/4\ x 1-1/4\ x 1/2\)
+value: 0.0
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: tsp
+value: 0.0
+label: oz
+value: 0.0
+label: piece (1-3/4\ x 1-1/4\ x 1/2\)
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: tsp
+value: 0.0
+label: oz
+value: 0.0
+label: piece (1-3/4\ x 1-1/4\ x 1/2\)
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: tsp
+value: 0.0
+label: oz
+value: 0.0
+label: piece (1-3/4\ x 1-1/4\ x 1/2\)
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 0.0
+label: tsp
+value: 0.0
+label: oz
+value: 0.0
+label: piece (1-3/4\ x 1-1/4\ x 1/2\)
+value: 0.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.036
+label: tsp
+value: 0.001
+label: oz
+value: 0.01
+label: piece (1-3/4\ x 1-1/4\ x 1/2\)
+value: 0.01
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: tsp
+value: 0.0
+label: oz
+value: 0.0
+label: piece (1-3/4\ x 1-1/4\ x 1/2\)
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: tsp
+value: 0.0
+label: oz
+value: 0.0
+label: piece (1-3/4\ x 1-1/4\ x 1/2\)
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: tsp
+value: 0.0
+label: oz
+value: 0.0
+label: piece (1-3/4\ x 1-1/4\ x 1/2\)
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: tsp
+value: 0.0
+label: oz
+value: 0.0
+label: piece (1-3/4\ x 1-1/4\ x 1/2\)
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: tsp
+value: 0.0
+label: oz
+value: 0.0
+label: piece (1-3/4\ x 1-1/4\ x 1/2\)
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.0
+label: tsp
+value: 0.0
+label: oz
+value: 0.0
+label: piece (1-3/4\ x 1-1/4\ x 1/2\)
+value: 0.0
+
+
+name: 16:0
+unit: g
+value: 0.036
+label: tsp
+value: 0.001
+label: oz
+value: 0.01
+label: piece (1-3/4\ x 1-1/4\ x 1/2\)
+value: 0.01
+
+
+name: 18:0
+unit: g
+value: 0.004
+label: tsp
+value: 0.0
+label: oz
+value: 0.001
+label: piece (1-3/4\ x 1-1/4\ x 1/2\)
+value: 0.001
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.064
+label: tsp
+value: 0.002
+label: oz
+value: 0.018
+label: piece (1-3/4\ x 1-1/4\ x 1/2\)
+value: 0.018
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.0
+label: tsp
+value: 0.0
+label: oz
+value: 0.0
+label: piece (1-3/4\ x 1-1/4\ x 1/2\)
+value: 0.0
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.064
+label: tsp
+value: 0.002
+label: oz
+value: 0.018
+label: piece (1-3/4\ x 1-1/4\ x 1/2\)
+value: 0.018
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: tsp
+value: 0.0
+label: oz
+value: 0.0
+label: piece (1-3/4\ x 1-1/4\ x 1/2\)
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: tsp
+value: 0.0
+label: oz
+value: 0.0
+label: piece (1-3/4\ x 1-1/4\ x 1/2\)
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.1
+label: tsp
+value: 0.003
+label: oz
+value: 0.028
+label: piece (1-3/4\ x 1-1/4\ x 1/2\)
+value: 0.028
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.1
+label: tsp
+value: 0.003
+label: oz
+value: 0.028
+label: piece (1-3/4\ x 1-1/4\ x 1/2\)
+value: 0.028
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.0
+label: tsp
+value: 0.0
+label: oz
+value: 0.0
+label: piece (1-3/4\ x 1-1/4\ x 1/2\)
+value: 0.0
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: tsp
+value: 0.0
+label: oz
+value: 0.0
+label: piece (1-3/4\ x 1-1/4\ x 1/2\)
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: tsp
+value: 0.0
+label: oz
+value: 0.0
+label: piece (1-3/4\ x 1-1/4\ x 1/2\)
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: tsp
+value: 0.0
+label: oz
+value: 0.0
+label: piece (1-3/4\ x 1-1/4\ x 1/2\)
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: tsp
+value: 0.0
+label: oz
+value: 0.0
+label: piece (1-3/4\ x 1-1/4\ x 1/2\)
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: tsp
+value: 0.0
+label: oz
+value: 0.0
+label: piece (1-3/4\ x 1-1/4\ x 1/2\)
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: tsp
+value: 0.0
+label: oz
+value: 0.0
+label: piece (1-3/4\ x 1-1/4\ x 1/2\)
+value: 0.0
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: tsp
+value: 0.0
+label: oz
+value: 0.0
+label: piece (1-3/4\ x 1-1/4\ x 1/2\)
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: tsp
+value: 0.0
+label: oz
+value: 0.0
+label: piece (1-3/4\ x 1-1/4\ x 1/2\)
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: tsp
+value: 0.0
+label: oz
+value: 0.0
+label: piece (1-3/4\ x 1-1/4\ x 1/2\)
+value: 0.0
+
+
+

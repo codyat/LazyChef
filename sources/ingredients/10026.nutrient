@@ -1,0 +1,826 @@
+ndbno: 10026
+
+
+name: Pork, fresh, loin, whole, separable lean only, cooked, broiled
+
+
+name: Water
+unit: g
+value: 60.72
+label: oz
+value: 51.61
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 47.97
+
+
+name: Energy
+unit: kcal
+value: 210.0
+label: oz
+value: 178.0
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 166.0
+
+
+name: Energy
+unit: kJ
+value: 879.0
+label: oz
+value: 747.0
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 694.0
+
+
+name: Protein
+unit: g
+value: 28.57
+label: oz
+value: 24.28
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 22.57
+
+
+name: Total lipid (fat)
+unit: g
+value: 9.8
+label: oz
+value: 8.33
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 7.74
+
+
+name: Ash
+unit: g
+value: 1.4
+label: oz
+value: 1.19
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 1.11
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 0.0
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 0.0
+
+
+name: Sugars, total
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 17.0
+label: oz
+value: 14.0
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 13.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.91
+label: oz
+value: 0.77
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 0.72
+
+
+name: Magnesium, Mg
+unit: mg
+value: 29.0
+label: oz
+value: 25.0
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 23.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 253.0
+label: oz
+value: 215.0
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 200.0
+
+
+name: Potassium, K
+unit: mg
+value: 438.0
+label: oz
+value: 372.0
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 346.0
+
+
+name: Sodium, Na
+unit: mg
+value: 64.0
+label: oz
+value: 54.0
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 51.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 2.48
+label: oz
+value: 2.11
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 1.96
+
+
+name: Copper, Cu
+unit: mg
+value: 0.075
+label: oz
+value: 0.064
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 0.059
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.009
+label: oz
+value: 0.008
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 0.007
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 48.2
+label: oz
+value: 41.0
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 38.1
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.7
+label: oz
+value: 0.6
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 0.6
+
+
+name: Thiamin
+unit: mg
+value: 0.923
+label: oz
+value: 0.785
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 0.729
+
+
+name: Riboflavin
+unit: mg
+value: 0.338
+label: oz
+value: 0.287
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 0.267
+
+
+name: Niacin
+unit: mg
+value: 5.243
+label: oz
+value: 4.457
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 4.142
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.729
+label: oz
+value: 0.62
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 0.576
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.492
+label: oz
+value: 0.418
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 0.389
+
+
+name: Folate, total
+unit: \u00B5g
+value: 6.0
+label: oz
+value: 5.0
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 5.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 6.0
+label: oz
+value: 5.0
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 5.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 6.0
+label: oz
+value: 5.0
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 5.0
+
+
+name: Choline, total
+unit: mg
+value: 98.2
+label: oz
+value: 83.5
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 77.6
+
+
+name: Betaine
+unit: mg
+value: 3.8
+label: oz
+value: 3.2
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 3.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.72
+label: oz
+value: 0.61
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 0.57
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 2.0
+label: oz
+value: 2.0
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 2.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 2.0
+label: oz
+value: 2.0
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 2.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 0.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 7.0
+label: oz
+value: 6.0
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 6.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 0.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.27
+label: oz
+value: 0.23
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 0.21
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.9
+label: oz
+value: 0.8
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 0.7
+
+
+name: Vitamin D3 (cholecalciferol)
+unit: \u00B5g
+value: 0.9
+label: oz
+value: 0.8
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 0.7
+
+
+name: Vitamin D
+unit: IU
+value: 37.0
+label: oz
+value: 31.0
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 29.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 0.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 3.64
+label: oz
+value: 3.094
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 2.876
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.01
+label: oz
+value: 0.008
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 0.008
+
+
+name: 12:0
+unit: g
+value: 0.01
+label: oz
+value: 0.008
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 0.008
+
+
+name: 14:0
+unit: g
+value: 0.13
+label: oz
+value: 0.11
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 0.103
+
+
+name: 16:0
+unit: g
+value: 2.25
+label: oz
+value: 1.912
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 1.778
+
+
+name: 18:0
+unit: g
+value: 1.18
+label: oz
+value: 1.003
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 0.932
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 4.45
+label: oz
+value: 3.782
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 3.516
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.32
+label: oz
+value: 0.272
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 0.253
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 4.0
+label: oz
+value: 3.4
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 3.16
+
+
+name: 20:1
+unit: g
+value: 0.09
+label: oz
+value: 0.076
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 0.071
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.77
+label: oz
+value: 0.655
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 0.608
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.68
+label: oz
+value: 0.578
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 0.537
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.02
+label: oz
+value: 0.017
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 0.016
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.04
+label: oz
+value: 0.034
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 0.032
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 79.0
+label: oz
+value: 67.0
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 62.0
+
+
+name: Tryptophan
+unit: g
+value: 0.363
+label: oz
+value: 0.309
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 0.287
+
+
+name: Threonine
+unit: g
+value: 1.305
+label: oz
+value: 1.109
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 1.031
+
+
+name: Isoleucine
+unit: g
+value: 1.338
+label: oz
+value: 1.137
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 1.057
+
+
+name: Leucine
+unit: g
+value: 2.292
+label: oz
+value: 1.948
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 1.811
+
+
+name: Lysine
+unit: g
+value: 2.569
+label: oz
+value: 2.184
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 2.03
+
+
+name: Methionine
+unit: g
+value: 0.756
+label: oz
+value: 0.643
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 0.597
+
+
+name: Cystine
+unit: g
+value: 0.364
+label: oz
+value: 0.309
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 0.288
+
+
+name: Phenylalanine
+unit: g
+value: 1.14
+label: oz
+value: 0.969
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 0.901
+
+
+name: Tyrosine
+unit: g
+value: 0.995
+label: oz
+value: 0.846
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 0.786
+
+
+name: Valine
+unit: g
+value: 1.55
+label: oz
+value: 1.318
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 1.224
+
+
+name: Arginine
+unit: g
+value: 1.776
+label: oz
+value: 1.51
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 1.403
+
+
+name: Histidine
+unit: g
+value: 1.141
+label: oz
+value: 0.97
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 0.901
+
+
+name: Alanine
+unit: g
+value: 1.664
+label: oz
+value: 1.414
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 1.315
+
+
+name: Aspartic acid
+unit: g
+value: 2.65
+label: oz
+value: 2.252
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 2.094
+
+
+name: Glutamic acid
+unit: g
+value: 4.472
+label: oz
+value: 3.801
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 3.533
+
+
+name: Glycine
+unit: g
+value: 1.357
+label: oz
+value: 1.153
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 1.072
+
+
+name: Proline
+unit: g
+value: 1.148
+label: oz
+value: 0.976
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 0.907
+
+
+name: Serine
+unit: g
+value: 1.18
+label: oz
+value: 1.003
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 0.932
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)
+value: 0.0
+
+
+

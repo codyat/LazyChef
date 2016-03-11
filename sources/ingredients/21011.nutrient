@@ -1,0 +1,377 @@
+ndbno: 21011
+
+
+name: Fast foods, croissant, with egg and cheese
+
+
+name: Water
+unit: g
+value: 45.47
+label: croissant
+value: 57.75
+
+
+name: Energy
+unit: kcal
+value: 304.0
+label: croissant
+value: 386.0
+
+
+name: Energy
+unit: kJ
+value: 1270.0
+label: croissant
+value: 1613.0
+
+
+name: Protein
+unit: g
+value: 10.07
+label: croissant
+value: 12.79
+
+
+name: Total lipid (fat)
+unit: g
+value: 19.45
+label: croissant
+value: 24.7
+
+
+name: Ash
+unit: g
+value: 2.56
+label: croissant
+value: 3.25
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 22.45
+label: croissant
+value: 28.51
+
+
+name: Calcium, Ca
+unit: mg
+value: 192.0
+label: croissant
+value: 244.0
+
+
+name: Iron, Fe
+unit: mg
+value: 1.73
+label: croissant
+value: 2.2
+
+
+name: Magnesium, Mg
+unit: mg
+value: 17.0
+label: croissant
+value: 22.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 274.0
+label: croissant
+value: 348.0
+
+
+name: Potassium, K
+unit: mg
+value: 137.0
+label: croissant
+value: 174.0
+
+
+name: Sodium, Na
+unit: mg
+value: 434.0
+label: croissant
+value: 551.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 1.38
+label: croissant
+value: 1.75
+
+
+name: Copper, Cu
+unit: mg
+value: 0.072
+label: croissant
+value: 0.091
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.178
+label: croissant
+value: 0.226
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 19.3
+label: croissant
+value: 24.5
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.1
+label: croissant
+value: 0.1
+
+
+name: Thiamin
+unit: mg
+value: 0.15
+label: croissant
+value: 0.19
+
+
+name: Riboflavin
+unit: mg
+value: 0.3
+label: croissant
+value: 0.381
+
+
+name: Niacin
+unit: mg
+value: 1.19
+label: croissant
+value: 1.511
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.83
+label: croissant
+value: 1.054
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.08
+label: croissant
+value: 0.102
+
+
+name: Folate, total
+unit: \u00B5g
+value: 37.0
+label: croissant
+value: 47.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 8.0
+label: croissant
+value: 10.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 29.0
+label: croissant
+value: 37.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 43.0
+label: croissant
+value: 55.0
+
+
+name: Choline, total
+unit: mg
+value: 92.2
+label: croissant
+value: 117.1
+
+
+name: Betaine
+unit: mg
+value: 10.0
+label: croissant
+value: 12.7
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.61
+label: croissant
+value: 0.77
+
+
+name: Vitamin A, IU
+unit: IU
+value: 788.0
+label: croissant
+value: 1001.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 11.075
+label: croissant
+value: 14.065
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 5.938
+label: croissant
+value: 7.541
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 1.076
+label: croissant
+value: 1.367
+
+
+name: Cholesterol
+unit: mg
+value: 170.0
+label: croissant
+value: 216.0
+
+
+name: Tryptophan
+unit: g
+value: 0.145
+label: croissant
+value: 0.184
+
+
+name: Threonine
+unit: g
+value: 0.375
+label: croissant
+value: 0.476
+
+
+name: Isoleucine
+unit: g
+value: 0.499
+label: croissant
+value: 0.634
+
+
+name: Leucine
+unit: g
+value: 0.846
+label: croissant
+value: 1.074
+
+
+name: Lysine
+unit: g
+value: 0.734
+label: croissant
+value: 0.932
+
+
+name: Methionine
+unit: g
+value: 0.262
+label: croissant
+value: 0.333
+
+
+name: Cystine
+unit: g
+value: 0.148
+label: croissant
+value: 0.188
+
+
+name: Phenylalanine
+unit: g
+value: 0.522
+label: croissant
+value: 0.663
+
+
+name: Tyrosine
+unit: g
+value: 0.454
+label: croissant
+value: 0.577
+
+
+name: Valine
+unit: g
+value: 0.601
+label: croissant
+value: 0.763
+
+
+name: Arginine
+unit: g
+value: 0.481
+label: croissant
+value: 0.611
+
+
+name: Histidine
+unit: g
+value: 0.311
+label: croissant
+value: 0.395
+
+
+name: Alanine
+unit: g
+value: 0.375
+label: croissant
+value: 0.476
+
+
+name: Aspartic acid
+unit: g
+value: 0.704
+label: croissant
+value: 0.894
+
+
+name: Glutamic acid
+unit: g
+value: 2.065
+label: croissant
+value: 2.623
+
+
+name: Glycine
+unit: g
+value: 0.26
+label: croissant
+value: 0.33
+
+
+name: Proline
+unit: g
+value: 0.841
+label: croissant
+value: 1.068
+
+
+name: Serine
+unit: g
+value: 0.573
+label: croissant
+value: 0.728
+
+

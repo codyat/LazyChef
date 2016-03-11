@@ -1,0 +1,587 @@
+ndbno: 21385
+
+
+name: BURGER KING, CROISSAN'WICH with Egg and Cheese
+
+
+name: Water
+unit: g
+value: 46.4
+label: item
+value: 51.04
+
+
+name: Energy
+unit: kcal
+value: 283.0
+label: item
+value: 311.0
+
+
+name: Energy
+unit: kJ
+value: 1182.0
+label: item
+value: 1300.0
+
+
+name: Protein
+unit: g
+value: 10.35
+label: item
+value: 11.38
+
+
+name: Total lipid (fat)
+unit: g
+value: 15.78
+label: item
+value: 17.36
+
+
+name: Ash
+unit: g
+value: 2.68
+label: item
+value: 2.95
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 24.79
+label: item
+value: 27.27
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.7
+label: item
+value: 0.8
+
+
+name: Sugars, total
+unit: g
+value: 4.03
+label: item
+value: 4.43
+
+
+name: Sucrose
+unit: g
+value: 0.0
+label: item
+value: 0.0
+
+
+name: Glucose (dextrose)
+unit: g
+value: 0.64
+label: item
+value: 0.7
+
+
+name: Fructose
+unit: g
+value: 0.89
+label: item
+value: 0.98
+
+
+name: Lactose
+unit: g
+value: 1.71
+label: item
+value: 1.88
+
+
+name: Maltose
+unit: g
+value: 0.8
+label: item
+value: 0.88
+
+
+name: Galactose
+unit: g
+value: 0.0
+label: item
+value: 0.0
+
+
+name: Starch
+unit: g
+value: 17.56
+label: item
+value: 19.32
+
+
+name: Calcium, Ca
+unit: mg
+value: 231.0
+label: item
+value: 254.0
+
+
+name: Iron, Fe
+unit: mg
+value: 1.9
+label: item
+value: 2.09
+
+
+name: Magnesium, Mg
+unit: mg
+value: 17.0
+label: item
+value: 19.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 249.0
+label: item
+value: 274.0
+
+
+name: Potassium, K
+unit: mg
+value: 168.0
+label: item
+value: 185.0
+
+
+name: Sodium, Na
+unit: mg
+value: 650.0
+label: item
+value: 715.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 1.04
+label: item
+value: 1.14
+
+
+name: Copper, Cu
+unit: mg
+value: 0.074
+label: item
+value: 0.081
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.227
+label: item
+value: 0.25
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 22.2
+label: item
+value: 24.4
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: item
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.243
+label: item
+value: 0.267
+
+
+name: Riboflavin
+unit: mg
+value: 0.426
+label: item
+value: 0.469
+
+
+name: Niacin
+unit: mg
+value: 2.052
+label: item
+value: 2.257
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.828
+label: item
+value: 0.911
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.117
+label: item
+value: 0.129
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.53
+label: item
+value: 0.58
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 1.11
+label: item
+value: 1.22
+
+
+name: Tocopherol, beta
+unit: mg
+value: 0.06
+label: item
+value: 0.07
+
+
+name: Tocopherol, gamma
+unit: mg
+value: 4.74
+label: item
+value: 5.21
+
+
+name: Tocopherol, delta
+unit: mg
+value: 1.83
+label: item
+value: 2.01
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 9.5
+label: item
+value: 10.4
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 4.766
+label: item
+value: 5.243
+
+
+name: 8:0
+unit: g
+value: 0.175
+label: item
+value: 0.192
+
+
+name: 10:0
+unit: g
+value: 0.15
+label: item
+value: 0.165
+
+
+name: 12:0
+unit: g
+value: 0.097
+label: item
+value: 0.107
+
+
+name: 14:0
+unit: g
+value: 0.347
+label: item
+value: 0.382
+
+
+name: 15:0
+unit: g
+value: 0.038
+label: item
+value: 0.042
+
+
+name: 16:0
+unit: g
+value: 2.722
+label: item
+value: 2.994
+
+
+name: 17:0
+unit: g
+value: 0.033
+label: item
+value: 0.036
+
+
+name: 18:0
+unit: g
+value: 1.15
+label: item
+value: 1.265
+
+
+name: 20:0
+unit: g
+value: 0.029
+label: item
+value: 0.032
+
+
+name: 22:0
+unit: g
+value: 0.025
+label: item
+value: 0.028
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 6.668
+label: item
+value: 7.335
+
+
+name: 14:1
+unit: g
+value: 0.028
+label: item
+value: 0.031
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: item
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.162
+label: item
+value: 0.178
+
+
+name: 17:1
+unit: g
+value: 0.0
+label: item
+value: 0.0
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 6.443
+label: item
+value: 7.087
+
+
+name: 20:1
+unit: g
+value: 0.034
+label: item
+value: 0.037
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 2.93
+label: item
+value: 3.223
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 2.601
+label: item
+value: 2.861
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.269
+label: item
+value: 0.296
+
+
+name: 18:3 n-3 c,c,c (ALA)
+unit: g
+value: 0.269
+label: item
+value: 0.296
+
+
+name: 18:3 n-6 c,c,c
+unit: g
+value: 0.0
+label: item
+value: 0.0
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.0
+label: item
+value: 0.0
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.0
+label: item
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.06
+label: item
+value: 0.066
+
+
+name: Cholesterol
+unit: mg
+value: 139.0
+label: item
+value: 153.0
+
+
+name: Tryptophan
+unit: g
+value: 0.1
+label: item
+value: 0.11
+
+
+name: Threonine
+unit: g
+value: 0.36
+label: item
+value: 0.396
+
+
+name: Isoleucine
+unit: g
+value: 0.486
+label: item
+value: 0.535
+
+
+name: Leucine
+unit: g
+value: 0.865
+label: item
+value: 0.952
+
+
+name: Lysine
+unit: g
+value: 0.548
+label: item
+value: 0.603
+
+
+name: Methionine
+unit: g
+value: 0.231
+label: item
+value: 0.254
+
+
+name: Cystine
+unit: g
+value: 0.197
+label: item
+value: 0.217
+
+
+name: Phenylalanine
+unit: g
+value: 0.528
+label: item
+value: 0.581
+
+
+name: Tyrosine
+unit: g
+value: 0.394
+label: item
+value: 0.433
+
+
+name: Valine
+unit: g
+value: 0.606
+label: item
+value: 0.667
+
+
+name: Arginine
+unit: g
+value: 0.484
+label: item
+value: 0.532
+
+
+name: Histidine
+unit: g
+value: 0.263
+label: item
+value: 0.289
+
+
+name: Alanine
+unit: g
+value: 0.451
+label: item
+value: 0.496
+
+
+name: Aspartic acid
+unit: g
+value: 0.771
+label: item
+value: 0.848
+
+
+name: Glutamic acid
+unit: g
+value: 2.566
+label: item
+value: 2.823
+
+
+name: Glycine
+unit: g
+value: 0.336
+label: item
+value: 0.37
+
+
+name: Proline
+unit: g
+value: 0.883
+label: item
+value: 0.971
+
+
+name: Serine
+unit: g
+value: 0.648
+label: item
+value: 0.713
+
+

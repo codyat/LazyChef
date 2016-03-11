@@ -1,0 +1,817 @@
+ndbno: 01111
+
+
+name: Milk shakes, thick vanilla
+
+
+name: Water
+unit: g
+value: 74.45
+label: fl oz
+value: 21.14
+label: container (11 oz)
+value: 233.03
+
+
+name: Energy
+unit: kcal
+value: 112.0
+label: fl oz
+value: 32.0
+label: container (11 oz)
+value: 351.0
+
+
+name: Energy
+unit: kJ
+value: 468.0
+label: fl oz
+value: 133.0
+label: container (11 oz)
+value: 1465.0
+
+
+name: Protein
+unit: g
+value: 3.86
+label: fl oz
+value: 1.1
+label: container (11 oz)
+value: 12.08
+
+
+name: Total lipid (fat)
+unit: g
+value: 3.03
+label: fl oz
+value: 0.86
+label: container (11 oz)
+value: 9.48
+
+
+name: Ash
+unit: g
+value: 0.91
+label: fl oz
+value: 0.26
+label: container (11 oz)
+value: 2.85
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 17.75
+label: fl oz
+value: 5.04
+label: container (11 oz)
+value: 55.56
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: container (11 oz)
+value: 0.0
+
+
+name: Sugars, total
+unit: g
+value: 17.75
+label: fl oz
+value: 5.04
+label: container (11 oz)
+value: 55.56
+
+
+name: Calcium, Ca
+unit: mg
+value: 146.0
+label: fl oz
+value: 41.0
+label: container (11 oz)
+value: 457.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.1
+label: fl oz
+value: 0.03
+label: container (11 oz)
+value: 0.31
+
+
+name: Magnesium, Mg
+unit: mg
+value: 12.0
+label: fl oz
+value: 3.0
+label: container (11 oz)
+value: 38.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 115.0
+label: fl oz
+value: 33.0
+label: container (11 oz)
+value: 360.0
+
+
+name: Potassium, K
+unit: mg
+value: 183.0
+label: fl oz
+value: 52.0
+label: container (11 oz)
+value: 573.0
+
+
+name: Sodium, Na
+unit: mg
+value: 95.0
+label: fl oz
+value: 27.0
+label: container (11 oz)
+value: 297.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.39
+label: fl oz
+value: 0.11
+label: container (11 oz)
+value: 1.22
+
+
+name: Copper, Cu
+unit: mg
+value: 0.051
+label: fl oz
+value: 0.014
+label: container (11 oz)
+value: 0.16
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.014
+label: fl oz
+value: 0.004
+label: container (11 oz)
+value: 0.044
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 2.3
+label: fl oz
+value: 0.7
+label: container (11 oz)
+value: 7.2
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: fl oz
+value: 0.0
+label: container (11 oz)
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.03
+label: fl oz
+value: 0.009
+label: container (11 oz)
+value: 0.094
+
+
+name: Riboflavin
+unit: mg
+value: 0.195
+label: fl oz
+value: 0.055
+label: container (11 oz)
+value: 0.61
+
+
+name: Niacin
+unit: mg
+value: 0.146
+label: fl oz
+value: 0.041
+label: container (11 oz)
+value: 0.457
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.368
+label: fl oz
+value: 0.105
+label: container (11 oz)
+value: 1.152
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.042
+label: fl oz
+value: 0.012
+label: container (11 oz)
+value: 0.131
+
+
+name: Folate, total
+unit: \u00B5g
+value: 7.0
+label: fl oz
+value: 2.0
+label: container (11 oz)
+value: 22.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: fl oz
+value: 0.0
+label: container (11 oz)
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 7.0
+label: fl oz
+value: 2.0
+label: container (11 oz)
+value: 22.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 7.0
+label: fl oz
+value: 2.0
+label: container (11 oz)
+value: 22.0
+
+
+name: Choline, total
+unit: mg
+value: 14.3
+label: fl oz
+value: 4.1
+label: container (11 oz)
+value: 44.8
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.52
+label: fl oz
+value: 0.15
+label: container (11 oz)
+value: 1.63
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: fl oz
+value: 0.0
+label: container (11 oz)
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 25.0
+label: fl oz
+value: 7.0
+label: container (11 oz)
+value: 78.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 25.0
+label: fl oz
+value: 7.0
+label: container (11 oz)
+value: 78.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 5.0
+label: fl oz
+value: 1.0
+label: container (11 oz)
+value: 16.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: fl oz
+value: 0.0
+label: container (11 oz)
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: fl oz
+value: 0.0
+label: container (11 oz)
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 91.0
+label: fl oz
+value: 26.0
+label: container (11 oz)
+value: 285.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: fl oz
+value: 0.0
+label: container (11 oz)
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 0.0
+label: fl oz
+value: 0.0
+label: container (11 oz)
+value: 0.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.05
+label: fl oz
+value: 0.01
+label: container (11 oz)
+value: 0.16
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: fl oz
+value: 0.0
+label: container (11 oz)
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 1.2
+label: fl oz
+value: 0.3
+label: container (11 oz)
+value: 3.8
+
+
+name: Vitamin D3 (cholecalciferol)
+unit: \u00B5g
+value: 1.2
+label: fl oz
+value: 0.3
+label: container (11 oz)
+value: 3.8
+
+
+name: Vitamin D
+unit: IU
+value: 48.0
+label: fl oz
+value: 14.0
+label: container (11 oz)
+value: 150.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 0.2
+label: fl oz
+value: 0.1
+label: container (11 oz)
+value: 0.6
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 1.886
+label: fl oz
+value: 0.536
+label: container (11 oz)
+value: 5.903
+
+
+name: 4:0
+unit: g
+value: 0.098
+label: fl oz
+value: 0.028
+label: container (11 oz)
+value: 0.307
+
+
+name: 6:0
+unit: g
+value: 0.058
+label: fl oz
+value: 0.016
+label: container (11 oz)
+value: 0.182
+
+
+name: 8:0
+unit: g
+value: 0.034
+label: fl oz
+value: 0.01
+label: container (11 oz)
+value: 0.106
+
+
+name: 10:0
+unit: g
+value: 0.076
+label: fl oz
+value: 0.022
+label: container (11 oz)
+value: 0.238
+
+
+name: 12:0
+unit: g
+value: 0.085
+label: fl oz
+value: 0.024
+label: container (11 oz)
+value: 0.266
+
+
+name: 14:0
+unit: g
+value: 0.305
+label: fl oz
+value: 0.087
+label: container (11 oz)
+value: 0.955
+
+
+name: 16:0
+unit: g
+value: 0.797
+label: fl oz
+value: 0.226
+label: container (11 oz)
+value: 2.495
+
+
+name: 18:0
+unit: g
+value: 0.367
+label: fl oz
+value: 0.104
+label: container (11 oz)
+value: 1.149
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.875
+label: fl oz
+value: 0.248
+label: container (11 oz)
+value: 2.739
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.068
+label: fl oz
+value: 0.019
+label: container (11 oz)
+value: 0.213
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.762
+label: fl oz
+value: 0.216
+label: container (11 oz)
+value: 2.385
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: container (11 oz)
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: container (11 oz)
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.113
+label: fl oz
+value: 0.032
+label: container (11 oz)
+value: 0.354
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.068
+label: fl oz
+value: 0.019
+label: container (11 oz)
+value: 0.213
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.044
+label: fl oz
+value: 0.012
+label: container (11 oz)
+value: 0.138
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: container (11 oz)
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: container (11 oz)
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: container (11 oz)
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: container (11 oz)
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: container (11 oz)
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 12.0
+label: fl oz
+value: 3.0
+label: container (11 oz)
+value: 38.0
+
+
+name: Tryptophan
+unit: g
+value: 0.054
+label: fl oz
+value: 0.015
+label: container (11 oz)
+value: 0.169
+
+
+name: Threonine
+unit: g
+value: 0.174
+label: fl oz
+value: 0.049
+label: container (11 oz)
+value: 0.545
+
+
+name: Isoleucine
+unit: g
+value: 0.234
+label: fl oz
+value: 0.066
+label: container (11 oz)
+value: 0.732
+
+
+name: Leucine
+unit: g
+value: 0.378
+label: fl oz
+value: 0.107
+label: container (11 oz)
+value: 1.183
+
+
+name: Lysine
+unit: g
+value: 0.306
+label: fl oz
+value: 0.087
+label: container (11 oz)
+value: 0.958
+
+
+name: Methionine
+unit: g
+value: 0.097
+label: fl oz
+value: 0.028
+label: container (11 oz)
+value: 0.304
+
+
+name: Cystine
+unit: g
+value: 0.036
+label: fl oz
+value: 0.01
+label: container (11 oz)
+value: 0.113
+
+
+name: Phenylalanine
+unit: g
+value: 0.186
+label: fl oz
+value: 0.053
+label: container (11 oz)
+value: 0.582
+
+
+name: Tyrosine
+unit: g
+value: 0.186
+label: fl oz
+value: 0.053
+label: container (11 oz)
+value: 0.582
+
+
+name: Valine
+unit: g
+value: 0.258
+label: fl oz
+value: 0.073
+label: container (11 oz)
+value: 0.808
+
+
+name: Arginine
+unit: g
+value: 0.14
+label: fl oz
+value: 0.04
+label: container (11 oz)
+value: 0.438
+
+
+name: Histidine
+unit: g
+value: 0.105
+label: fl oz
+value: 0.03
+label: container (11 oz)
+value: 0.329
+
+
+name: Alanine
+unit: g
+value: 0.133
+label: fl oz
+value: 0.038
+label: container (11 oz)
+value: 0.416
+
+
+name: Aspartic acid
+unit: g
+value: 0.293
+label: fl oz
+value: 0.083
+label: container (11 oz)
+value: 0.917
+
+
+name: Glutamic acid
+unit: g
+value: 0.808
+label: fl oz
+value: 0.229
+label: container (11 oz)
+value: 2.529
+
+
+name: Glycine
+unit: g
+value: 0.082
+label: fl oz
+value: 0.023
+label: container (11 oz)
+value: 0.257
+
+
+name: Proline
+unit: g
+value: 0.374
+label: fl oz
+value: 0.106
+label: container (11 oz)
+value: 1.171
+
+
+name: Serine
+unit: g
+value: 0.21
+label: fl oz
+value: 0.06
+label: container (11 oz)
+value: 0.657
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: container (11 oz)
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: fl oz
+value: 0.0
+label: container (11 oz)
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: fl oz
+value: 0.0
+label: container (11 oz)
+value: 0.0
+
+
+

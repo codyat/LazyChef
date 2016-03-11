@@ -1,0 +1,706 @@
+ndbno: 21418
+
+
+name: POPEYES, Spicy Chicken Strips, analyzed 2006
+
+
+name: Water
+unit: g
+value: 47.11
+label: strip
+value: 24.97
+
+
+name: Energy
+unit: kcal
+value: 253.0
+label: strip
+value: 134.0
+
+
+name: Energy
+unit: kJ
+value: 1060.0
+label: strip
+value: 562.0
+
+
+name: Protein
+unit: g
+value: 19.61
+label: strip
+value: 10.39
+
+
+name: Total lipid (fat)
+unit: g
+value: 11.2
+label: strip
+value: 5.94
+
+
+name: Ash
+unit: g
+value: 3.56
+label: strip
+value: 1.89
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 18.52
+label: strip
+value: 9.82
+
+
+name: Fiber, total dietary
+unit: g
+value: 1.2
+label: strip
+value: 0.6
+
+
+name: Sugars, total
+unit: g
+value: 0.0
+label: strip
+value: 0.0
+
+
+name: Sucrose
+unit: g
+value: 0.0
+label: strip
+value: 0.0
+
+
+name: Glucose (dextrose)
+unit: g
+value: 0.0
+label: strip
+value: 0.0
+
+
+name: Fructose
+unit: g
+value: 0.0
+label: strip
+value: 0.0
+
+
+name: Lactose
+unit: g
+value: 0.0
+label: strip
+value: 0.0
+
+
+name: Maltose
+unit: g
+value: 0.0
+label: strip
+value: 0.0
+
+
+name: Galactose
+unit: g
+value: 0.0
+label: strip
+value: 0.0
+
+
+name: Starch
+unit: g
+value: 17.55
+label: strip
+value: 9.3
+
+
+name: Calcium, Ca
+unit: mg
+value: 12.0
+label: strip
+value: 6.0
+
+
+name: Iron, Fe
+unit: mg
+value: 1.01
+label: strip
+value: 0.54
+
+
+name: Magnesium, Mg
+unit: mg
+value: 28.0
+label: strip
+value: 15.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 276.0
+label: strip
+value: 146.0
+
+
+name: Potassium, K
+unit: mg
+value: 289.0
+label: strip
+value: 153.0
+
+
+name: Sodium, Na
+unit: mg
+value: 997.0
+label: strip
+value: 528.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.6
+label: strip
+value: 0.32
+
+
+name: Copper, Cu
+unit: mg
+value: 0.071
+label: strip
+value: 0.038
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.222
+label: strip
+value: 0.118
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 18.9
+label: strip
+value: 10.0
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: strip
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.117
+label: strip
+value: 0.062
+
+
+name: Riboflavin
+unit: mg
+value: 0.13
+label: strip
+value: 0.069
+
+
+name: Niacin
+unit: mg
+value: 8.69
+label: strip
+value: 4.606
+
+
+name: Pantothenic acid
+unit: mg
+value: 1.1
+label: strip
+value: 0.583
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.426
+label: strip
+value: 0.226
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.2
+label: strip
+value: 0.11
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 4.743
+label: strip
+value: 2.514
+
+
+name: 4:0
+unit: g
+value: 0.004
+label: strip
+value: 0.002
+
+
+name: 6:0
+unit: g
+value: 0.012
+label: strip
+value: 0.006
+
+
+name: 8:0
+unit: g
+value: 0.006
+label: strip
+value: 0.003
+
+
+name: 10:0
+unit: g
+value: 0.019
+label: strip
+value: 0.01
+
+
+name: 12:0
+unit: g
+value: 0.009
+label: strip
+value: 0.005
+
+
+name: 14:0
+unit: g
+value: 0.277
+label: strip
+value: 0.147
+
+
+name: 15:0
+unit: g
+value: 0.044
+label: strip
+value: 0.023
+
+
+name: 16:0
+unit: g
+value: 2.652
+label: strip
+value: 1.406
+
+
+name: 17:0
+unit: g
+value: 0.138
+label: strip
+value: 0.073
+
+
+name: 18:0
+unit: g
+value: 1.553
+label: strip
+value: 0.823
+
+
+name: 20:0
+unit: g
+value: 0.015
+label: strip
+value: 0.008
+
+
+name: 22:0
+unit: g
+value: 0.009
+label: strip
+value: 0.005
+
+
+name: 24:0
+unit: g
+value: 0.004
+label: strip
+value: 0.002
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 5.321
+label: strip
+value: 2.82
+
+
+name: 14:1
+unit: g
+value: 0.072
+label: strip
+value: 0.038
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: strip
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.515
+label: strip
+value: 0.273
+
+
+name: 16:1 c
+unit: g
+value: 0.495
+label: strip
+value: 0.262
+
+
+name: 16:1 t
+unit: g
+value: 0.021
+label: strip
+value: 0.011
+
+
+name: 17:1
+unit: g
+value: 0.102
+label: strip
+value: 0.054
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 4.554
+label: strip
+value: 2.414
+
+
+name: 18:1 c
+unit: g
+value: 4.076
+label: strip
+value: 2.16
+
+
+name: 18:1 t
+unit: g
+value: 0.478
+label: strip
+value: 0.253
+
+
+name: 20:1
+unit: g
+value: 0.067
+label: strip
+value: 0.036
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.007
+label: strip
+value: 0.004
+
+
+name: 22:1 c
+unit: g
+value: 0.005
+label: strip
+value: 0.003
+
+
+name: 22:1 t
+unit: g
+value: 0.003
+label: strip
+value: 0.002
+
+
+name: 24:1 c
+unit: g
+value: 0.003
+label: strip
+value: 0.002
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 1.112
+label: strip
+value: 0.589
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.977
+label: strip
+value: 0.518
+
+
+name: 18:2 n-6 c,c
+unit: g
+value: 0.865
+label: strip
+value: 0.458
+
+
+name: 18:2 CLAs
+unit: g
+value: 0.045
+label: strip
+value: 0.024
+
+
+name: 18:2 t not further defined
+unit: g
+value: 0.066
+label: strip
+value: 0.035
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.015
+label: strip
+value: 0.008
+
+
+name: 18:3 n-3 c,c,c (ALA)
+unit: g
+value: 0.008
+label: strip
+value: 0.004
+
+
+name: 18:3 n-6 c,c,c
+unit: g
+value: 0.007
+label: strip
+value: 0.004
+
+
+name: 18:4
+unit: g
+value: 0.01
+label: strip
+value: 0.005
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.007
+label: strip
+value: 0.004
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.023
+label: strip
+value: 0.012
+
+
+name: 20:3 n-6
+unit: g
+value: 0.021
+label: strip
+value: 0.011
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.055
+label: strip
+value: 0.029
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.004
+label: strip
+value: 0.002
+
+
+name: 22:4
+unit: g
+value: 0.011
+label: strip
+value: 0.006
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.004
+label: strip
+value: 0.002
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.004
+label: strip
+value: 0.002
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.568
+label: strip
+value: 0.301
+
+
+name: Fatty acids, total trans-monoenoic
+unit: g
+value: 0.502
+label: strip
+value: 0.266
+
+
+name: Cholesterol
+unit: mg
+value: 53.0
+label: strip
+value: 28.0
+
+
+name: Tryptophan
+unit: g
+value: 0.235
+label: strip
+value: 0.125
+
+
+name: Threonine
+unit: g
+value: 0.78
+label: strip
+value: 0.413
+
+
+name: Isoleucine
+unit: g
+value: 0.809
+label: strip
+value: 0.429
+
+
+name: Leucine
+unit: g
+value: 1.469
+label: strip
+value: 0.779
+
+
+name: Lysine
+unit: g
+value: 1.389
+label: strip
+value: 0.736
+
+
+name: Methionine
+unit: g
+value: 0.475
+label: strip
+value: 0.252
+
+
+name: Cystine
+unit: g
+value: 0.262
+label: strip
+value: 0.139
+
+
+name: Phenylalanine
+unit: g
+value: 0.787
+label: strip
+value: 0.417
+
+
+name: Tyrosine
+unit: g
+value: 0.512
+label: strip
+value: 0.271
+
+
+name: Valine
+unit: g
+value: 0.857
+label: strip
+value: 0.454
+
+
+name: Arginine
+unit: g
+value: 1.097
+label: strip
+value: 0.581
+
+
+name: Histidine
+unit: g
+value: 0.63
+label: strip
+value: 0.334
+
+
+name: Alanine
+unit: g
+value: 1.012
+label: strip
+value: 0.536
+
+
+name: Aspartic acid
+unit: g
+value: 1.647
+label: strip
+value: 0.873
+
+
+name: Glutamic acid
+unit: g
+value: 3.562
+label: strip
+value: 1.888
+
+
+name: Glycine
+unit: g
+value: 0.777
+label: strip
+value: 0.412
+
+
+name: Proline
+unit: g
+value: 0.992
+label: strip
+value: 0.526
+
+
+name: Serine
+unit: g
+value: 0.767
+label: strip
+value: 0.407
+
+

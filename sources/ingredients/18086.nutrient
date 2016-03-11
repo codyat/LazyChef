@@ -1,0 +1,556 @@
+ndbno: 18086
+
+
+name: Cake, angelfood, commercially prepared
+
+
+name: Water
+unit: g
+value: 33.2
+label: piece (1/12 of 12 oz cake)
+value: 9.3
+label: cake (9\ dia x 4\)
+value: 112.88
+
+
+name: Energy
+unit: kcal
+value: 258.0
+label: piece (1/12 of 12 oz cake)
+value: 72.0
+label: cake (9\ dia x 4\)
+value: 877.0
+
+
+name: Energy
+unit: kJ
+value: 1077.0
+label: piece (1/12 of 12 oz cake)
+value: 302.0
+label: cake (9\ dia x 4\)
+value: 3662.0
+
+
+name: Protein
+unit: g
+value: 5.9
+label: piece (1/12 of 12 oz cake)
+value: 1.65
+label: cake (9\ dia x 4\)
+value: 20.06
+
+
+name: Total lipid (fat)
+unit: g
+value: 0.8
+label: piece (1/12 of 12 oz cake)
+value: 0.22
+label: cake (9\ dia x 4\)
+value: 2.72
+
+
+name: Ash
+unit: g
+value: 2.3
+label: piece (1/12 of 12 oz cake)
+value: 0.64
+label: cake (9\ dia x 4\)
+value: 7.82
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 57.8
+label: piece (1/12 of 12 oz cake)
+value: 16.18
+label: cake (9\ dia x 4\)
+value: 196.52
+
+
+name: Fiber, total dietary
+unit: g
+value: 1.5
+label: piece (1/12 of 12 oz cake)
+value: 0.4
+label: cake (9\ dia x 4\)
+value: 5.1
+
+
+name: Calcium, Ca
+unit: mg
+value: 140.0
+label: piece (1/12 of 12 oz cake)
+value: 39.0
+label: cake (9\ dia x 4\)
+value: 476.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.52
+label: piece (1/12 of 12 oz cake)
+value: 0.15
+label: cake (9\ dia x 4\)
+value: 1.77
+
+
+name: Magnesium, Mg
+unit: mg
+value: 12.0
+label: piece (1/12 of 12 oz cake)
+value: 3.0
+label: cake (9\ dia x 4\)
+value: 41.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 324.0
+label: piece (1/12 of 12 oz cake)
+value: 91.0
+label: cake (9\ dia x 4\)
+value: 1102.0
+
+
+name: Potassium, K
+unit: mg
+value: 93.0
+label: piece (1/12 of 12 oz cake)
+value: 26.0
+label: cake (9\ dia x 4\)
+value: 316.0
+
+
+name: Sodium, Na
+unit: mg
+value: 749.0
+label: piece (1/12 of 12 oz cake)
+value: 210.0
+label: cake (9\ dia x 4\)
+value: 2547.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.07
+label: piece (1/12 of 12 oz cake)
+value: 0.02
+label: cake (9\ dia x 4\)
+value: 0.24
+
+
+name: Copper, Cu
+unit: mg
+value: 0.078
+label: piece (1/12 of 12 oz cake)
+value: 0.022
+label: cake (9\ dia x 4\)
+value: 0.265
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.085
+label: piece (1/12 of 12 oz cake)
+value: 0.024
+label: cake (9\ dia x 4\)
+value: 0.289
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 7.3
+label: piece (1/12 of 12 oz cake)
+value: 2.0
+label: cake (9\ dia x 4\)
+value: 24.8
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: piece (1/12 of 12 oz cake)
+value: 0.0
+label: cake (9\ dia x 4\)
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.102
+label: piece (1/12 of 12 oz cake)
+value: 0.029
+label: cake (9\ dia x 4\)
+value: 0.347
+
+
+name: Riboflavin
+unit: mg
+value: 0.491
+label: piece (1/12 of 12 oz cake)
+value: 0.137
+label: cake (9\ dia x 4\)
+value: 1.669
+
+
+name: Niacin
+unit: mg
+value: 0.883
+label: piece (1/12 of 12 oz cake)
+value: 0.247
+label: cake (9\ dia x 4\)
+value: 3.002
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.198
+label: piece (1/12 of 12 oz cake)
+value: 0.055
+label: cake (9\ dia x 4\)
+value: 0.673
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.031
+label: piece (1/12 of 12 oz cake)
+value: 0.009
+label: cake (9\ dia x 4\)
+value: 0.105
+
+
+name: Folate, total
+unit: \u00B5g
+value: 35.0
+label: piece (1/12 of 12 oz cake)
+value: 10.0
+label: cake (9\ dia x 4\)
+value: 119.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 32.0
+label: piece (1/12 of 12 oz cake)
+value: 9.0
+label: cake (9\ dia x 4\)
+value: 109.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 3.0
+label: piece (1/12 of 12 oz cake)
+value: 1.0
+label: cake (9\ dia x 4\)
+value: 10.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 57.0
+label: piece (1/12 of 12 oz cake)
+value: 16.0
+label: cake (9\ dia x 4\)
+value: 194.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.06
+label: piece (1/12 of 12 oz cake)
+value: 0.02
+label: cake (9\ dia x 4\)
+value: 0.2
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 0.0
+label: piece (1/12 of 12 oz cake)
+value: 0.0
+label: cake (9\ dia x 4\)
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: piece (1/12 of 12 oz cake)
+value: 0.0
+label: cake (9\ dia x 4\)
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 0.0
+label: piece (1/12 of 12 oz cake)
+value: 0.0
+label: cake (9\ dia x 4\)
+value: 0.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.121
+label: piece (1/12 of 12 oz cake)
+value: 0.034
+label: cake (9\ dia x 4\)
+value: 0.411
+
+
+name: 14:0
+unit: g
+value: 0.001
+label: piece (1/12 of 12 oz cake)
+value: 0.0
+label: cake (9\ dia x 4\)
+value: 0.003
+
+
+name: 16:0
+unit: g
+value: 0.11
+label: piece (1/12 of 12 oz cake)
+value: 0.031
+label: cake (9\ dia x 4\)
+value: 0.374
+
+
+name: 18:0
+unit: g
+value: 0.005
+label: piece (1/12 of 12 oz cake)
+value: 0.001
+label: cake (9\ dia x 4\)
+value: 0.017
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.071
+label: piece (1/12 of 12 oz cake)
+value: 0.02
+label: cake (9\ dia x 4\)
+value: 0.241
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.002
+label: piece (1/12 of 12 oz cake)
+value: 0.001
+label: cake (9\ dia x 4\)
+value: 0.007
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.068
+label: piece (1/12 of 12 oz cake)
+value: 0.019
+label: cake (9\ dia x 4\)
+value: 0.231
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.367
+label: piece (1/12 of 12 oz cake)
+value: 0.103
+label: cake (9\ dia x 4\)
+value: 1.248
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.346
+label: piece (1/12 of 12 oz cake)
+value: 0.097
+label: cake (9\ dia x 4\)
+value: 1.176
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.021
+label: piece (1/12 of 12 oz cake)
+value: 0.006
+label: cake (9\ dia x 4\)
+value: 0.071
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: piece (1/12 of 12 oz cake)
+value: 0.0
+label: cake (9\ dia x 4\)
+value: 0.0
+
+
+name: Tryptophan
+unit: g
+value: 0.075
+label: piece (1/12 of 12 oz cake)
+value: 0.021
+label: cake (9\ dia x 4\)
+value: 0.255
+
+
+name: Threonine
+unit: g
+value: 0.248
+label: piece (1/12 of 12 oz cake)
+value: 0.069
+label: cake (9\ dia x 4\)
+value: 0.843
+
+
+name: Isoleucine
+unit: g
+value: 0.312
+label: piece (1/12 of 12 oz cake)
+value: 0.087
+label: cake (9\ dia x 4\)
+value: 1.061
+
+
+name: Leucine
+unit: g
+value: 0.481
+label: piece (1/12 of 12 oz cake)
+value: 0.135
+label: cake (9\ dia x 4\)
+value: 1.635
+
+
+name: Lysine
+unit: g
+value: 0.364
+label: piece (1/12 of 12 oz cake)
+value: 0.102
+label: cake (9\ dia x 4\)
+value: 1.238
+
+
+name: Methionine
+unit: g
+value: 0.183
+label: piece (1/12 of 12 oz cake)
+value: 0.051
+label: cake (9\ dia x 4\)
+value: 0.622
+
+
+name: Cystine
+unit: g
+value: 0.149
+label: piece (1/12 of 12 oz cake)
+value: 0.042
+label: cake (9\ dia x 4\)
+value: 0.507
+
+
+name: Phenylalanine
+unit: g
+value: 0.334
+label: piece (1/12 of 12 oz cake)
+value: 0.094
+label: cake (9\ dia x 4\)
+value: 1.136
+
+
+name: Tyrosine
+unit: g
+value: 0.218
+label: piece (1/12 of 12 oz cake)
+value: 0.061
+label: cake (9\ dia x 4\)
+value: 0.741
+
+
+name: Valine
+unit: g
+value: 0.354
+label: piece (1/12 of 12 oz cake)
+value: 0.099
+label: cake (9\ dia x 4\)
+value: 1.204
+
+
+name: Arginine
+unit: g
+value: 0.303
+label: piece (1/12 of 12 oz cake)
+value: 0.085
+label: cake (9\ dia x 4\)
+value: 1.03
+
+
+name: Histidine
+unit: g
+value: 0.131
+label: piece (1/12 of 12 oz cake)
+value: 0.037
+label: cake (9\ dia x 4\)
+value: 0.445
+
+
+name: Alanine
+unit: g
+value: 0.31
+label: piece (1/12 of 12 oz cake)
+value: 0.087
+label: cake (9\ dia x 4\)
+value: 1.054
+
+
+name: Aspartic acid
+unit: g
+value: 0.532
+label: piece (1/12 of 12 oz cake)
+value: 0.149
+label: cake (9\ dia x 4\)
+value: 1.809
+
+
+name: Glutamic acid
+unit: g
+value: 1.025
+label: piece (1/12 of 12 oz cake)
+value: 0.287
+label: cake (9\ dia x 4\)
+value: 3.485
+
+
+name: Glycine
+unit: g
+value: 0.206
+label: piece (1/12 of 12 oz cake)
+value: 0.058
+label: cake (9\ dia x 4\)
+value: 0.7
+
+
+name: Proline
+unit: g
+value: 0.317
+label: piece (1/12 of 12 oz cake)
+value: 0.089
+label: cake (9\ dia x 4\)
+value: 1.078
+
+
+name: Serine
+unit: g
+value: 0.389
+label: piece (1/12 of 12 oz cake)
+value: 0.109
+label: cake (9\ dia x 4\)
+value: 1.323
+
+
+

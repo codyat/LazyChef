@@ -1,0 +1,1896 @@
+ndbno: 18229
+
+
+name: Crackers, standard snack-type, regular
+
+
+name: Water
+unit: g
+value: 3.14
+label: crackers
+value: 0.5
+label: crackers, regular size, round (1 serving)
+value: 0.5
+label: cracker, round
+value: 0.1
+label: cracker, rectangular
+value: 0.13
+label: cup crushed
+value: 1.63
+
+
+name: Energy
+unit: kcal
+value: 510.0
+label: crackers
+value: 82.0
+label: crackers, regular size, round (1 serving)
+value: 82.0
+label: cracker, round
+value: 16.0
+label: cracker, rectangular
+value: 20.0
+label: cup crushed
+value: 265.0
+
+
+name: Energy
+unit: kJ
+value: 2132.0
+label: crackers
+value: 341.0
+label: crackers, regular size, round (1 serving)
+value: 341.0
+label: cracker, round
+value: 68.0
+label: cracker, rectangular
+value: 85.0
+label: cup crushed
+value: 1109.0
+
+
+name: Protein
+unit: g
+value: 6.64
+label: crackers
+value: 1.06
+label: crackers, regular size, round (1 serving)
+value: 1.06
+label: cracker, round
+value: 0.21
+label: cracker, rectangular
+value: 0.27
+label: cup crushed
+value: 3.45
+
+
+name: Total lipid (fat)
+unit: g
+value: 26.43
+label: crackers
+value: 4.23
+label: crackers, regular size, round (1 serving)
+value: 4.23
+label: cracker, round
+value: 0.85
+label: cracker, rectangular
+value: 1.06
+label: cup crushed
+value: 13.74
+
+
+name: Ash
+unit: g
+value: 2.49
+label: crackers
+value: 0.4
+label: crackers, regular size, round (1 serving)
+value: 0.4
+label: cracker, round
+value: 0.08
+label: cracker, rectangular
+value: 0.1
+label: cup crushed
+value: 1.29
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 61.3
+label: crackers
+value: 9.81
+label: crackers, regular size, round (1 serving)
+value: 9.81
+label: cracker, round
+value: 1.96
+label: cracker, rectangular
+value: 2.45
+label: cup crushed
+value: 31.88
+
+
+name: Fiber, total dietary
+unit: g
+value: 2.3
+label: crackers
+value: 0.4
+label: crackers, regular size, round (1 serving)
+value: 0.4
+label: cracker, round
+value: 0.1
+label: cracker, rectangular
+value: 0.1
+label: cup crushed
+value: 1.2
+
+
+name: Sugars, total
+unit: g
+value: 8.18
+label: crackers
+value: 1.31
+label: crackers, regular size, round (1 serving)
+value: 1.31
+label: cracker, round
+value: 0.26
+label: cracker, rectangular
+value: 0.33
+label: cup crushed
+value: 4.25
+
+
+name: Sucrose
+unit: g
+value: 6.95
+label: crackers
+value: 1.11
+label: crackers, regular size, round (1 serving)
+value: 1.11
+label: cracker, round
+value: 0.22
+label: cracker, rectangular
+value: 0.28
+label: cup crushed
+value: 3.61
+
+
+name: Glucose (dextrose)
+unit: g
+value: 0.47
+label: crackers
+value: 0.08
+label: crackers, regular size, round (1 serving)
+value: 0.08
+label: cracker, round
+value: 0.02
+label: cracker, rectangular
+value: 0.02
+label: cup crushed
+value: 0.24
+
+
+name: Fructose
+unit: g
+value: 0.29
+label: crackers
+value: 0.05
+label: crackers, regular size, round (1 serving)
+value: 0.05
+label: cracker, round
+value: 0.01
+label: cracker, rectangular
+value: 0.01
+label: cup crushed
+value: 0.15
+
+
+name: Lactose
+unit: g
+value: 0.0
+label: crackers
+value: 0.0
+label: crackers, regular size, round (1 serving)
+value: 0.0
+label: cracker, round
+value: 0.0
+label: cracker, rectangular
+value: 0.0
+label: cup crushed
+value: 0.0
+
+
+name: Maltose
+unit: g
+value: 0.48
+label: crackers
+value: 0.08
+label: crackers, regular size, round (1 serving)
+value: 0.08
+label: cracker, round
+value: 0.02
+label: cracker, rectangular
+value: 0.02
+label: cup crushed
+value: 0.25
+
+
+name: Galactose
+unit: g
+value: 0.0
+label: crackers
+value: 0.0
+label: crackers, regular size, round (1 serving)
+value: 0.0
+label: cracker, round
+value: 0.0
+label: cracker, rectangular
+value: 0.0
+label: cup crushed
+value: 0.0
+
+
+name: Starch
+unit: g
+value: 49.69
+label: crackers
+value: 7.95
+label: crackers, regular size, round (1 serving)
+value: 7.95
+label: cracker, round
+value: 1.59
+label: cracker, rectangular
+value: 1.99
+label: cup crushed
+value: 25.84
+
+
+name: Calcium, Ca
+unit: mg
+value: 120.0
+label: crackers
+value: 19.0
+label: crackers, regular size, round (1 serving)
+value: 19.0
+label: cracker, round
+value: 4.0
+label: cracker, rectangular
+value: 5.0
+label: cup crushed
+value: 62.0
+
+
+name: Iron, Fe
+unit: mg
+value: 4.03
+label: crackers
+value: 0.64
+label: crackers, regular size, round (1 serving)
+value: 0.64
+label: cracker, round
+value: 0.13
+label: cracker, rectangular
+value: 0.16
+label: cup crushed
+value: 2.1
+
+
+name: Magnesium, Mg
+unit: mg
+value: 18.0
+label: crackers
+value: 3.0
+label: crackers, regular size, round (1 serving)
+value: 3.0
+label: cracker, round
+value: 1.0
+label: cracker, rectangular
+value: 1.0
+label: cup crushed
+value: 9.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 248.0
+label: crackers
+value: 40.0
+label: crackers, regular size, round (1 serving)
+value: 40.0
+label: cracker, round
+value: 8.0
+label: cracker, rectangular
+value: 10.0
+label: cup crushed
+value: 129.0
+
+
+name: Potassium, K
+unit: mg
+value: 118.0
+label: crackers
+value: 19.0
+label: crackers, regular size, round (1 serving)
+value: 19.0
+label: cracker, round
+value: 4.0
+label: cracker, rectangular
+value: 5.0
+label: cup crushed
+value: 61.0
+
+
+name: Sodium, Na
+unit: mg
+value: 726.0
+label: crackers
+value: 116.0
+label: crackers, regular size, round (1 serving)
+value: 116.0
+label: cracker, round
+value: 23.0
+label: cracker, rectangular
+value: 29.0
+label: cup crushed
+value: 378.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.49
+label: crackers
+value: 0.08
+label: crackers, regular size, round (1 serving)
+value: 0.08
+label: cracker, round
+value: 0.02
+label: cracker, rectangular
+value: 0.02
+label: cup crushed
+value: 0.25
+
+
+name: Copper, Cu
+unit: mg
+value: 0.104
+label: crackers
+value: 0.017
+label: crackers, regular size, round (1 serving)
+value: 0.017
+label: cracker, round
+value: 0.003
+label: cracker, rectangular
+value: 0.004
+label: cup crushed
+value: 0.054
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.491
+label: crackers
+value: 0.079
+label: crackers, regular size, round (1 serving)
+value: 0.079
+label: cracker, round
+value: 0.016
+label: cracker, rectangular
+value: 0.02
+label: cup crushed
+value: 0.255
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 6.7
+label: crackers
+value: 1.1
+label: crackers, regular size, round (1 serving)
+value: 1.1
+label: cracker, round
+value: 0.2
+label: cracker, rectangular
+value: 0.3
+label: cup crushed
+value: 3.5
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: crackers
+value: 0.0
+label: crackers, regular size, round (1 serving)
+value: 0.0
+label: cracker, round
+value: 0.0
+label: cracker, rectangular
+value: 0.0
+label: cup crushed
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.416
+label: crackers
+value: 0.067
+label: crackers, regular size, round (1 serving)
+value: 0.067
+label: cracker, round
+value: 0.013
+label: cracker, rectangular
+value: 0.017
+label: cup crushed
+value: 0.216
+
+
+name: Riboflavin
+unit: mg
+value: 0.456
+label: crackers
+value: 0.073
+label: crackers, regular size, round (1 serving)
+value: 0.073
+label: cracker, round
+value: 0.015
+label: cracker, rectangular
+value: 0.018
+label: cup crushed
+value: 0.237
+
+
+name: Niacin
+unit: mg
+value: 4.352
+label: crackers
+value: 0.696
+label: crackers, regular size, round (1 serving)
+value: 0.696
+label: cracker, round
+value: 0.139
+label: cracker, rectangular
+value: 0.174
+label: cup crushed
+value: 2.263
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.417
+label: crackers
+value: 0.067
+label: crackers, regular size, round (1 serving)
+value: 0.067
+label: cracker, round
+value: 0.013
+label: cracker, rectangular
+value: 0.017
+label: cup crushed
+value: 0.217
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.063
+label: crackers
+value: 0.01
+label: crackers, regular size, round (1 serving)
+value: 0.01
+label: cracker, round
+value: 0.002
+label: cracker, rectangular
+value: 0.003
+label: cup crushed
+value: 0.033
+
+
+name: Folate, total
+unit: \u00B5g
+value: 92.0
+label: crackers
+value: 15.0
+label: crackers, regular size, round (1 serving)
+value: 15.0
+label: cracker, round
+value: 3.0
+label: cracker, rectangular
+value: 4.0
+label: cup crushed
+value: 48.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 84.0
+label: crackers
+value: 13.0
+label: crackers, regular size, round (1 serving)
+value: 13.0
+label: cracker, round
+value: 3.0
+label: cracker, rectangular
+value: 3.0
+label: cup crushed
+value: 44.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 8.0
+label: crackers
+value: 1.0
+label: crackers, regular size, round (1 serving)
+value: 1.0
+label: cracker, round
+value: 0.0
+label: cracker, rectangular
+value: 0.0
+label: cup crushed
+value: 4.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 150.0
+label: crackers
+value: 24.0
+label: crackers, regular size, round (1 serving)
+value: 24.0
+label: cracker, round
+value: 5.0
+label: cracker, rectangular
+value: 6.0
+label: cup crushed
+value: 78.0
+
+
+name: Choline, total
+unit: mg
+value: 9.6
+label: crackers
+value: 1.5
+label: crackers, regular size, round (1 serving)
+value: 1.5
+label: cracker, round
+value: 0.3
+label: cracker, rectangular
+value: 0.4
+label: cup crushed
+value: 5.0
+
+
+name: Betaine
+unit: mg
+value: 48.0
+label: crackers
+value: 7.7
+label: crackers, regular size, round (1 serving)
+value: 7.7
+label: cracker, round
+value: 1.5
+label: cracker, rectangular
+value: 1.9
+label: cup crushed
+value: 25.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: crackers
+value: 0.0
+label: crackers, regular size, round (1 serving)
+value: 0.0
+label: cracker, round
+value: 0.0
+label: cracker, rectangular
+value: 0.0
+label: cup crushed
+value: 0.0
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: crackers
+value: 0.0
+label: crackers, regular size, round (1 serving)
+value: 0.0
+label: cracker, round
+value: 0.0
+label: cracker, rectangular
+value: 0.0
+label: cup crushed
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 0.0
+label: crackers
+value: 0.0
+label: crackers, regular size, round (1 serving)
+value: 0.0
+label: cracker, round
+value: 0.0
+label: cracker, rectangular
+value: 0.0
+label: cup crushed
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: crackers
+value: 0.0
+label: crackers, regular size, round (1 serving)
+value: 0.0
+label: cracker, round
+value: 0.0
+label: cracker, rectangular
+value: 0.0
+label: cup crushed
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 0.0
+label: crackers
+value: 0.0
+label: crackers, regular size, round (1 serving)
+value: 0.0
+label: cracker, round
+value: 0.0
+label: cracker, rectangular
+value: 0.0
+label: cup crushed
+value: 0.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: crackers
+value: 0.0
+label: crackers, regular size, round (1 serving)
+value: 0.0
+label: cracker, round
+value: 0.0
+label: cracker, rectangular
+value: 0.0
+label: cup crushed
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: crackers
+value: 0.0
+label: crackers, regular size, round (1 serving)
+value: 0.0
+label: cracker, round
+value: 0.0
+label: cracker, rectangular
+value: 0.0
+label: cup crushed
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 0.0
+label: crackers
+value: 0.0
+label: crackers, regular size, round (1 serving)
+value: 0.0
+label: cracker, round
+value: 0.0
+label: cracker, rectangular
+value: 0.0
+label: cup crushed
+value: 0.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: crackers
+value: 0.0
+label: crackers, regular size, round (1 serving)
+value: 0.0
+label: cracker, round
+value: 0.0
+label: cracker, rectangular
+value: 0.0
+label: cup crushed
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 12.0
+label: crackers
+value: 2.0
+label: crackers, regular size, round (1 serving)
+value: 2.0
+label: cracker, round
+value: 0.0
+label: cracker, rectangular
+value: 0.0
+label: cup crushed
+value: 6.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 3.03
+label: crackers
+value: 0.48
+label: crackers, regular size, round (1 serving)
+value: 0.48
+label: cracker, round
+value: 0.1
+label: cracker, rectangular
+value: 0.12
+label: cup crushed
+value: 1.58
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: crackers
+value: 0.0
+label: crackers, regular size, round (1 serving)
+value: 0.0
+label: cracker, round
+value: 0.0
+label: cracker, rectangular
+value: 0.0
+label: cup crushed
+value: 0.0
+
+
+name: Tocopherol, beta
+unit: mg
+value: 0.43
+label: crackers
+value: 0.07
+label: crackers, regular size, round (1 serving)
+value: 0.07
+label: cracker, round
+value: 0.01
+label: cracker, rectangular
+value: 0.02
+label: cup crushed
+value: 0.22
+
+
+name: Tocopherol, gamma
+unit: mg
+value: 14.4
+label: crackers
+value: 2.3
+label: crackers, regular size, round (1 serving)
+value: 2.3
+label: cracker, round
+value: 0.46
+label: cracker, rectangular
+value: 0.58
+label: cup crushed
+value: 7.49
+
+
+name: Tocopherol, delta
+unit: mg
+value: 5.2
+label: crackers
+value: 0.83
+label: crackers, regular size, round (1 serving)
+value: 0.83
+label: cracker, round
+value: 0.17
+label: cracker, rectangular
+value: 0.21
+label: cup crushed
+value: 2.7
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: crackers
+value: 0.0
+label: crackers, regular size, round (1 serving)
+value: 0.0
+label: cracker, round
+value: 0.0
+label: cracker, rectangular
+value: 0.0
+label: cup crushed
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: crackers
+value: 0.0
+label: crackers, regular size, round (1 serving)
+value: 0.0
+label: cracker, round
+value: 0.0
+label: cracker, rectangular
+value: 0.0
+label: cup crushed
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 69.3
+label: crackers
+value: 11.1
+label: crackers, regular size, round (1 serving)
+value: 11.1
+label: cracker, round
+value: 2.2
+label: cracker, rectangular
+value: 2.8
+label: cup crushed
+value: 36.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 5.562
+label: crackers
+value: 0.89
+label: crackers, regular size, round (1 serving)
+value: 0.89
+label: cracker, round
+value: 0.178
+label: cracker, rectangular
+value: 0.222
+label: cup crushed
+value: 2.892
+
+
+name: 4:0
+unit: g
+value: 0.008
+label: crackers
+value: 0.001
+label: crackers, regular size, round (1 serving)
+value: 0.001
+label: cracker, round
+value: 0.0
+label: cracker, rectangular
+value: 0.0
+label: cup crushed
+value: 0.004
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: crackers
+value: 0.0
+label: crackers, regular size, round (1 serving)
+value: 0.0
+label: cracker, round
+value: 0.0
+label: cracker, rectangular
+value: 0.0
+label: cup crushed
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.004
+label: crackers
+value: 0.001
+label: crackers, regular size, round (1 serving)
+value: 0.001
+label: cracker, round
+value: 0.0
+label: cracker, rectangular
+value: 0.0
+label: cup crushed
+value: 0.002
+
+
+name: 10:0
+unit: g
+value: 0.009
+label: crackers
+value: 0.001
+label: crackers, regular size, round (1 serving)
+value: 0.001
+label: cracker, round
+value: 0.0
+label: cracker, rectangular
+value: 0.0
+label: cup crushed
+value: 0.005
+
+
+name: 12:0
+unit: g
+value: 0.005
+label: crackers
+value: 0.001
+label: crackers, regular size, round (1 serving)
+value: 0.001
+label: cracker, round
+value: 0.0
+label: cracker, rectangular
+value: 0.0
+label: cup crushed
+value: 0.003
+
+
+name: 14:0
+unit: g
+value: 0.047
+label: crackers
+value: 0.008
+label: crackers, regular size, round (1 serving)
+value: 0.008
+label: cracker, round
+value: 0.002
+label: cracker, rectangular
+value: 0.002
+label: cup crushed
+value: 0.024
+
+
+name: 15:0
+unit: g
+value: 0.006
+label: crackers
+value: 0.001
+label: crackers, regular size, round (1 serving)
+value: 0.001
+label: cracker, round
+value: 0.0
+label: cracker, rectangular
+value: 0.0
+label: cup crushed
+value: 0.003
+
+
+name: 16:0
+unit: g
+value: 3.17
+label: crackers
+value: 0.507
+label: crackers, regular size, round (1 serving)
+value: 0.507
+label: cracker, round
+value: 0.101
+label: cracker, rectangular
+value: 0.127
+label: cup crushed
+value: 1.648
+
+
+name: 17:0
+unit: g
+value: 0.029
+label: crackers
+value: 0.005
+label: crackers, regular size, round (1 serving)
+value: 0.005
+label: cracker, round
+value: 0.001
+label: cracker, rectangular
+value: 0.001
+label: cup crushed
+value: 0.015
+
+
+name: 18:0
+unit: g
+value: 2.099
+label: crackers
+value: 0.336
+label: crackers, regular size, round (1 serving)
+value: 0.336
+label: cracker, round
+value: 0.067
+label: cracker, rectangular
+value: 0.084
+label: cup crushed
+value: 1.091
+
+
+name: 20:0
+unit: g
+value: 0.081
+label: crackers
+value: 0.013
+label: crackers, regular size, round (1 serving)
+value: 0.013
+label: cracker, round
+value: 0.003
+label: cracker, rectangular
+value: 0.003
+label: cup crushed
+value: 0.042
+
+
+name: 22:0
+unit: g
+value: 0.076
+label: crackers
+value: 0.012
+label: crackers, regular size, round (1 serving)
+value: 0.012
+label: cracker, round
+value: 0.002
+label: cracker, rectangular
+value: 0.003
+label: cup crushed
+value: 0.04
+
+
+name: 24:0
+unit: g
+value: 0.029
+label: crackers
+value: 0.005
+label: crackers, regular size, round (1 serving)
+value: 0.005
+label: cracker, round
+value: 0.001
+label: cracker, rectangular
+value: 0.001
+label: cup crushed
+value: 0.015
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 6.553
+label: crackers
+value: 1.048
+label: crackers, regular size, round (1 serving)
+value: 1.048
+label: cracker, round
+value: 0.21
+label: cracker, rectangular
+value: 0.262
+label: cup crushed
+value: 3.408
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: crackers
+value: 0.0
+label: crackers, regular size, round (1 serving)
+value: 0.0
+label: cracker, round
+value: 0.0
+label: cracker, rectangular
+value: 0.0
+label: cup crushed
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.024
+label: crackers
+value: 0.004
+label: crackers, regular size, round (1 serving)
+value: 0.004
+label: cracker, round
+value: 0.001
+label: cracker, rectangular
+value: 0.001
+label: cup crushed
+value: 0.012
+
+
+name: 16:1 c
+unit: g
+value: 0.02
+label: crackers
+value: 0.003
+label: crackers, regular size, round (1 serving)
+value: 0.003
+label: cracker, round
+value: 0.001
+label: cracker, rectangular
+value: 0.001
+label: cup crushed
+value: 0.01
+
+
+name: 16:1 t
+unit: g
+value: 0.004
+label: crackers
+value: 0.001
+label: crackers, regular size, round (1 serving)
+value: 0.001
+label: cracker, round
+value: 0.0
+label: cracker, rectangular
+value: 0.0
+label: cup crushed
+value: 0.002
+
+
+name: 17:1
+unit: g
+value: 0.012
+label: crackers
+value: 0.002
+label: crackers, regular size, round (1 serving)
+value: 0.002
+label: cracker, round
+value: 0.0
+label: cracker, rectangular
+value: 0.0
+label: cup crushed
+value: 0.006
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 6.399
+label: crackers
+value: 1.024
+label: crackers, regular size, round (1 serving)
+value: 1.024
+label: cracker, round
+value: 0.205
+label: cracker, rectangular
+value: 0.256
+label: cup crushed
+value: 3.327
+
+
+name: 18:1 c
+unit: g
+value: 5.406
+label: crackers
+value: 0.865
+label: crackers, regular size, round (1 serving)
+value: 0.865
+label: cracker, round
+value: 0.173
+label: cracker, rectangular
+value: 0.216
+label: cup crushed
+value: 2.811
+
+
+name: 18:1 t
+unit: g
+value: 0.993
+label: crackers
+value: 0.159
+label: crackers, regular size, round (1 serving)
+value: 0.159
+label: cracker, round
+value: 0.032
+label: cracker, rectangular
+value: 0.04
+label: cup crushed
+value: 0.516
+
+
+name: 20:1
+unit: g
+value: 0.106
+label: crackers
+value: 0.017
+label: crackers, regular size, round (1 serving)
+value: 0.017
+label: cracker, round
+value: 0.003
+label: cracker, rectangular
+value: 0.004
+label: cup crushed
+value: 0.055
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.01
+label: crackers
+value: 0.002
+label: crackers, regular size, round (1 serving)
+value: 0.002
+label: cracker, round
+value: 0.0
+label: cracker, rectangular
+value: 0.0
+label: cup crushed
+value: 0.005
+
+
+name: 22:1 c
+unit: g
+value: 0.005
+label: crackers
+value: 0.001
+label: crackers, regular size, round (1 serving)
+value: 0.001
+label: cracker, round
+value: 0.0
+label: cracker, rectangular
+value: 0.0
+label: cup crushed
+value: 0.003
+
+
+name: 22:1 t
+unit: g
+value: 0.005
+label: crackers
+value: 0.001
+label: crackers, regular size, round (1 serving)
+value: 0.001
+label: cracker, round
+value: 0.0
+label: cracker, rectangular
+value: 0.0
+label: cup crushed
+value: 0.003
+
+
+name: 24:1 c
+unit: g
+value: 0.002
+label: crackers
+value: 0.0
+label: crackers, regular size, round (1 serving)
+value: 0.0
+label: cracker, round
+value: 0.0
+label: cracker, rectangular
+value: 0.0
+label: cup crushed
+value: 0.001
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 13.137
+label: crackers
+value: 2.102
+label: crackers, regular size, round (1 serving)
+value: 2.102
+label: cracker, round
+value: 0.42
+label: cracker, rectangular
+value: 0.525
+label: cup crushed
+value: 6.831
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 11.571
+label: crackers
+value: 1.851
+label: crackers, regular size, round (1 serving)
+value: 1.851
+label: cracker, round
+value: 0.37
+label: cracker, rectangular
+value: 0.463
+label: cup crushed
+value: 6.017
+
+
+name: 18:2 n-6 c,c
+unit: g
+value: 11.48
+label: crackers
+value: 1.837
+label: crackers, regular size, round (1 serving)
+value: 1.837
+label: cracker, round
+value: 0.367
+label: cracker, rectangular
+value: 0.459
+label: cup crushed
+value: 5.97
+
+
+name: 18:2 CLAs
+unit: g
+value: 0.017
+label: crackers
+value: 0.003
+label: crackers, regular size, round (1 serving)
+value: 0.003
+label: cracker, round
+value: 0.001
+label: cracker, rectangular
+value: 0.001
+label: cup crushed
+value: 0.009
+
+
+name: 18:2 t not further defined
+unit: g
+value: 0.074
+label: crackers
+value: 0.012
+label: crackers, regular size, round (1 serving)
+value: 0.012
+label: cracker, round
+value: 0.002
+label: cracker, rectangular
+value: 0.003
+label: cup crushed
+value: 0.038
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 1.546
+label: crackers
+value: 0.247
+label: crackers, regular size, round (1 serving)
+value: 0.247
+label: cracker, round
+value: 0.049
+label: cracker, rectangular
+value: 0.062
+label: cup crushed
+value: 0.804
+
+
+name: 18:3 n-3 c,c,c (ALA)
+unit: g
+value: 1.485
+label: crackers
+value: 0.238
+label: crackers, regular size, round (1 serving)
+value: 0.238
+label: cracker, round
+value: 0.048
+label: cracker, rectangular
+value: 0.059
+label: cup crushed
+value: 0.772
+
+
+name: 18:3 n-6 c,c,c
+unit: g
+value: 0.062
+label: crackers
+value: 0.01
+label: crackers, regular size, round (1 serving)
+value: 0.01
+label: cracker, round
+value: 0.002
+label: cracker, rectangular
+value: 0.002
+label: cup crushed
+value: 0.032
+
+
+name: 18:3i
+unit: g
+value: 0.0
+label: crackers
+value: 0.0
+label: crackers, regular size, round (1 serving)
+value: 0.0
+label: cracker, round
+value: 0.0
+label: cracker, rectangular
+value: 0.0
+label: cup crushed
+value: 0.0
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: crackers
+value: 0.0
+label: crackers, regular size, round (1 serving)
+value: 0.0
+label: cracker, round
+value: 0.0
+label: cracker, rectangular
+value: 0.0
+label: cup crushed
+value: 0.0
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.009
+label: crackers
+value: 0.001
+label: crackers, regular size, round (1 serving)
+value: 0.001
+label: cracker, round
+value: 0.0
+label: cracker, rectangular
+value: 0.0
+label: cup crushed
+value: 0.005
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.0
+label: crackers
+value: 0.0
+label: crackers, regular size, round (1 serving)
+value: 0.0
+label: cracker, round
+value: 0.0
+label: cracker, rectangular
+value: 0.0
+label: cup crushed
+value: 0.0
+
+
+name: 20:3 n-6
+unit: g
+value: 0.0
+label: crackers
+value: 0.0
+label: crackers, regular size, round (1 serving)
+value: 0.0
+label: cracker, round
+value: 0.0
+label: cracker, rectangular
+value: 0.0
+label: cup crushed
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.01
+label: crackers
+value: 0.002
+label: crackers, regular size, round (1 serving)
+value: 0.002
+label: cracker, round
+value: 0.0
+label: cracker, rectangular
+value: 0.0
+label: cup crushed
+value: 0.005
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: crackers
+value: 0.0
+label: crackers, regular size, round (1 serving)
+value: 0.0
+label: cracker, round
+value: 0.0
+label: cracker, rectangular
+value: 0.0
+label: cup crushed
+value: 0.0
+
+
+name: 22:4
+unit: g
+value: 0.0
+label: crackers
+value: 0.0
+label: crackers, regular size, round (1 serving)
+value: 0.0
+label: cracker, round
+value: 0.0
+label: cracker, rectangular
+value: 0.0
+label: cup crushed
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: crackers
+value: 0.0
+label: crackers, regular size, round (1 serving)
+value: 0.0
+label: cracker, round
+value: 0.0
+label: cracker, rectangular
+value: 0.0
+label: cup crushed
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: crackers
+value: 0.0
+label: crackers, regular size, round (1 serving)
+value: 0.0
+label: cracker, round
+value: 0.0
+label: cracker, rectangular
+value: 0.0
+label: cup crushed
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 1.076
+label: crackers
+value: 0.172
+label: crackers, regular size, round (1 serving)
+value: 0.172
+label: cracker, round
+value: 0.034
+label: cracker, rectangular
+value: 0.043
+label: cup crushed
+value: 0.56
+
+
+name: Fatty acids, total trans-monoenoic
+unit: g
+value: 1.002
+label: crackers
+value: 0.16
+label: crackers, regular size, round (1 serving)
+value: 0.16
+label: cracker, round
+value: 0.032
+label: cracker, rectangular
+value: 0.04
+label: cup crushed
+value: 0.521
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: crackers
+value: 0.0
+label: crackers, regular size, round (1 serving)
+value: 0.0
+label: cracker, round
+value: 0.0
+label: cracker, rectangular
+value: 0.0
+label: cup crushed
+value: 0.0
+
+
+name: Tryptophan
+unit: g
+value: 0.084
+label: crackers
+value: 0.013
+label: crackers, regular size, round (1 serving)
+value: 0.013
+label: cracker, round
+value: 0.003
+label: cracker, rectangular
+value: 0.003
+label: cup crushed
+value: 0.044
+
+
+name: Threonine
+unit: g
+value: 0.193
+label: crackers
+value: 0.031
+label: crackers, regular size, round (1 serving)
+value: 0.031
+label: cracker, round
+value: 0.006
+label: cracker, rectangular
+value: 0.008
+label: cup crushed
+value: 0.1
+
+
+name: Isoleucine
+unit: g
+value: 0.246
+label: crackers
+value: 0.039
+label: crackers, regular size, round (1 serving)
+value: 0.039
+label: cracker, round
+value: 0.008
+label: cracker, rectangular
+value: 0.01
+label: cup crushed
+value: 0.128
+
+
+name: Leucine
+unit: g
+value: 0.471
+label: crackers
+value: 0.075
+label: crackers, regular size, round (1 serving)
+value: 0.075
+label: cracker, round
+value: 0.015
+label: cracker, rectangular
+value: 0.019
+label: cup crushed
+value: 0.245
+
+
+name: Lysine
+unit: g
+value: 0.103
+label: crackers
+value: 0.016
+label: crackers, regular size, round (1 serving)
+value: 0.016
+label: cracker, round
+value: 0.003
+label: cracker, rectangular
+value: 0.004
+label: cup crushed
+value: 0.054
+
+
+name: Methionine
+unit: g
+value: 0.112
+label: crackers
+value: 0.018
+label: crackers, regular size, round (1 serving)
+value: 0.018
+label: cracker, round
+value: 0.004
+label: cracker, rectangular
+value: 0.004
+label: cup crushed
+value: 0.058
+
+
+name: Cystine
+unit: g
+value: 0.172
+label: crackers
+value: 0.028
+label: crackers, regular size, round (1 serving)
+value: 0.028
+label: cracker, round
+value: 0.006
+label: cracker, rectangular
+value: 0.007
+label: cup crushed
+value: 0.089
+
+
+name: Phenylalanine
+unit: g
+value: 0.331
+label: crackers
+value: 0.053
+label: crackers, regular size, round (1 serving)
+value: 0.053
+label: cracker, round
+value: 0.011
+label: cracker, rectangular
+value: 0.013
+label: cup crushed
+value: 0.172
+
+
+name: Tyrosine
+unit: g
+value: 0.157
+label: crackers
+value: 0.025
+label: crackers, regular size, round (1 serving)
+value: 0.025
+label: cracker, round
+value: 0.005
+label: cracker, rectangular
+value: 0.006
+label: cup crushed
+value: 0.082
+
+
+name: Valine
+unit: g
+value: 0.294
+label: crackers
+value: 0.047
+label: crackers, regular size, round (1 serving)
+value: 0.047
+label: cracker, round
+value: 0.009
+label: cracker, rectangular
+value: 0.012
+label: cup crushed
+value: 0.153
+
+
+name: Arginine
+unit: g
+value: 0.252
+label: crackers
+value: 0.04
+label: crackers, regular size, round (1 serving)
+value: 0.04
+label: cracker, round
+value: 0.008
+label: cracker, rectangular
+value: 0.01
+label: cup crushed
+value: 0.131
+
+
+name: Histidine
+unit: g
+value: 0.145
+label: crackers
+value: 0.023
+label: crackers, regular size, round (1 serving)
+value: 0.023
+label: cracker, round
+value: 0.005
+label: cracker, rectangular
+value: 0.006
+label: cup crushed
+value: 0.075
+
+
+name: Alanine
+unit: g
+value: 0.225
+label: crackers
+value: 0.036
+label: crackers, regular size, round (1 serving)
+value: 0.036
+label: cracker, round
+value: 0.007
+label: cracker, rectangular
+value: 0.009
+label: cup crushed
+value: 0.117
+
+
+name: Aspartic acid
+unit: g
+value: 0.306
+label: crackers
+value: 0.049
+label: crackers, regular size, round (1 serving)
+value: 0.049
+label: cracker, round
+value: 0.01
+label: cracker, rectangular
+value: 0.012
+label: cup crushed
+value: 0.159
+
+
+name: Glutamic acid
+unit: g
+value: 2.298
+label: crackers
+value: 0.368
+label: crackers, regular size, round (1 serving)
+value: 0.368
+label: cracker, round
+value: 0.074
+label: cracker, rectangular
+value: 0.092
+label: cup crushed
+value: 1.195
+
+
+name: Glycine
+unit: g
+value: 0.252
+label: crackers
+value: 0.04
+label: crackers, regular size, round (1 serving)
+value: 0.04
+label: cracker, round
+value: 0.008
+label: cracker, rectangular
+value: 0.01
+label: cup crushed
+value: 0.131
+
+
+name: Proline
+unit: g
+value: 0.748
+label: crackers
+value: 0.12
+label: crackers, regular size, round (1 serving)
+value: 0.12
+label: cracker, round
+value: 0.024
+label: cracker, rectangular
+value: 0.03
+label: cup crushed
+value: 0.389
+
+
+name: Serine
+unit: g
+value: 0.316
+label: crackers
+value: 0.051
+label: crackers, regular size, round (1 serving)
+value: 0.051
+label: cracker, round
+value: 0.01
+label: cracker, rectangular
+value: 0.013
+label: cup crushed
+value: 0.164
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: crackers
+value: 0.0
+label: crackers, regular size, round (1 serving)
+value: 0.0
+label: cracker, round
+value: 0.0
+label: cracker, rectangular
+value: 0.0
+label: cup crushed
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: crackers
+value: 0.0
+label: crackers, regular size, round (1 serving)
+value: 0.0
+label: cracker, round
+value: 0.0
+label: cracker, rectangular
+value: 0.0
+label: cup crushed
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: crackers
+value: 0.0
+label: crackers, regular size, round (1 serving)
+value: 0.0
+label: cracker, round
+value: 0.0
+label: cracker, rectangular
+value: 0.0
+label: cup crushed
+value: 0.0
+
+

@@ -1,0 +1,706 @@
+ndbno: 21090
+
+
+name: Fast foods, cheeseburger; single, regular patty, with condiments
+
+
+name: Water
+unit: g
+value: 45.78
+label: item
+value: 58.14
+
+
+name: Energy
+unit: kcal
+value: 270.0
+label: item
+value: 343.0
+
+
+name: Energy
+unit: kJ
+value: 1128.0
+label: item
+value: 1433.0
+
+
+name: Protein
+unit: g
+value: 13.49
+label: item
+value: 17.13
+
+
+name: Total lipid (fat)
+unit: g
+value: 12.9
+label: item
+value: 16.38
+
+
+name: Ash
+unit: g
+value: 2.38
+label: item
+value: 3.02
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 25.46
+label: item
+value: 32.33
+
+
+name: Fiber, total dietary
+unit: g
+value: 1.9
+label: item
+value: 2.4
+
+
+name: Sugars, total
+unit: g
+value: 5.24
+label: item
+value: 6.65
+
+
+name: Sucrose
+unit: g
+value: 0.61
+label: item
+value: 0.77
+
+
+name: Glucose (dextrose)
+unit: g
+value: 1.78
+label: item
+value: 2.26
+
+
+name: Fructose
+unit: g
+value: 1.98
+label: item
+value: 2.51
+
+
+name: Lactose
+unit: g
+value: 0.24
+label: item
+value: 0.3
+
+
+name: Maltose
+unit: g
+value: 0.48
+label: item
+value: 0.61
+
+
+name: Galactose
+unit: g
+value: 0.15
+label: item
+value: 0.19
+
+
+name: Starch
+unit: g
+value: 18.17
+label: item
+value: 23.08
+
+
+name: Calcium, Ca
+unit: mg
+value: 123.0
+label: item
+value: 156.0
+
+
+name: Iron, Fe
+unit: mg
+value: 2.25
+label: item
+value: 2.86
+
+
+name: Magnesium, Mg
+unit: mg
+value: 23.0
+label: item
+value: 29.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 142.0
+label: item
+value: 180.0
+
+
+name: Potassium, K
+unit: mg
+value: 184.0
+label: item
+value: 234.0
+
+
+name: Sodium, Na
+unit: mg
+value: 628.0
+label: item
+value: 798.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 2.21
+label: item
+value: 2.81
+
+
+name: Copper, Cu
+unit: mg
+value: 0.098
+label: item
+value: 0.124
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.254
+label: item
+value: 0.323
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 22.7
+label: item
+value: 28.8
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.4
+label: item
+value: 0.5
+
+
+name: Thiamin
+unit: mg
+value: 0.32
+label: item
+value: 0.406
+
+
+name: Riboflavin
+unit: mg
+value: 0.19
+label: item
+value: 0.241
+
+
+name: Niacin
+unit: mg
+value: 3.51
+label: item
+value: 4.458
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.417
+label: item
+value: 0.53
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.374
+label: item
+value: 0.475
+
+
+name: Folate, total
+unit: \u00B5g
+value: 26.0
+label: item
+value: 33.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 19.0
+label: item
+value: 24.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 7.0
+label: item
+value: 9.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 39.0
+label: item
+value: 50.0
+
+
+name: Choline, total
+unit: mg
+value: 33.4
+label: item
+value: 42.4
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 1.31
+label: item
+value: 1.66
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: item
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 55.0
+label: item
+value: 70.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 50.0
+label: item
+value: 64.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 55.0
+label: item
+value: 70.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 1.0
+label: item
+value: 1.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 2.0
+label: item
+value: 3.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 261.0
+label: item
+value: 331.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 1003.0
+label: item
+value: 1274.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 22.0
+label: item
+value: 28.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.09
+label: item
+value: 0.11
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: item
+value: 0.0
+
+
+name: Tocopherol, beta
+unit: mg
+value: 0.0
+label: item
+value: 0.0
+
+
+name: Tocopherol, gamma
+unit: mg
+value: 0.34
+label: item
+value: 0.43
+
+
+name: Tocopherol, delta
+unit: mg
+value: 0.1
+label: item
+value: 0.13
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.1
+label: item
+value: 0.1
+
+
+name: Vitamin D
+unit: IU
+value: 3.0
+label: item
+value: 4.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 5.5
+label: item
+value: 7.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 5.797
+label: item
+value: 7.362
+
+
+name: 4:0
+unit: g
+value: 0.092
+label: item
+value: 0.117
+
+
+name: 6:0
+unit: g
+value: 0.057
+label: item
+value: 0.072
+
+
+name: 8:0
+unit: g
+value: 0.043
+label: item
+value: 0.055
+
+
+name: 10:0
+unit: g
+value: 0.083
+label: item
+value: 0.105
+
+
+name: 12:0
+unit: g
+value: 0.104
+label: item
+value: 0.132
+
+
+name: 14:0
+unit: g
+value: 0.577
+label: item
+value: 0.733
+
+
+name: 15:0
+unit: g
+value: 0.071
+label: item
+value: 0.09
+
+
+name: 16:0
+unit: g
+value: 2.997
+label: item
+value: 3.806
+
+
+name: 17:0
+unit: g
+value: 0.121
+label: item
+value: 0.154
+
+
+name: 18:0
+unit: g
+value: 1.616
+label: item
+value: 2.052
+
+
+name: 20:0
+unit: g
+value: 0.023
+label: item
+value: 0.029
+
+
+name: 22:0
+unit: g
+value: 0.008
+label: item
+value: 0.01
+
+
+name: 24:0
+unit: g
+value: 0.006
+label: item
+value: 0.008
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 5.035
+label: item
+value: 6.394
+
+
+name: 14:1
+unit: g
+value: 0.083
+label: item
+value: 0.105
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: item
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.418
+label: item
+value: 0.531
+
+
+name: 16:1 c
+unit: g
+value: 0.377
+label: item
+value: 0.479
+
+
+name: 16:1 t
+unit: g
+value: 0.041
+label: item
+value: 0.052
+
+
+name: 17:1
+unit: g
+value: 0.04
+label: item
+value: 0.051
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 4.456
+label: item
+value: 5.659
+
+
+name: 18:1 c
+unit: g
+value: 3.95
+label: item
+value: 5.017
+
+
+name: 18:1 t
+unit: g
+value: 0.506
+label: item
+value: 0.643
+
+
+name: 20:1
+unit: g
+value: 0.032
+label: item
+value: 0.041
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.007
+label: item
+value: 0.009
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 1.363
+label: item
+value: 1.731
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 1.186
+label: item
+value: 1.506
+
+
+name: 18:2 n-6 c,c
+unit: g
+value: 1.111
+label: item
+value: 1.411
+
+
+name: 18:2 i
+unit: g
+value: 0.075
+label: item
+value: 0.095
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.123
+label: item
+value: 0.156
+
+
+name: 18:3 n-3 c,c,c (ALA)
+unit: g
+value: 0.123
+label: item
+value: 0.156
+
+
+name: 18:4
+unit: g
+value: 0.033
+label: item
+value: 0.042
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.002
+label: item
+value: 0.003
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.0
+label: item
+value: 0.0
+
+
+name: 20:3 n-6
+unit: g
+value: 0.0
+label: item
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.02
+label: item
+value: 0.025
+
+
+name: 20:4 n-6
+unit: g
+value: 0.02
+label: item
+value: 0.025
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: item
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: item
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: item
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 39.0
+label: item
+value: 50.0
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: item
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: item
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: item
+value: 0.0
+
+

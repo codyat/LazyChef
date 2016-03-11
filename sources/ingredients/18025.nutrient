@@ -1,0 +1,1561 @@
+ndbno: 18025
+
+
+name: Bread, cracked-wheat
+
+
+name: Water
+unit: g
+value: 35.8
+label: oz
+value: 10.15
+label: cubic inch
+value: 1.15
+label: slice, large or thick
+value: 10.74
+label: slice, regular
+value: 8.95
+label: slice regular, crust not eaten
+value: 4.37
+label: slice
+value: 8.95
+label: slice, thin
+value: 7.16
+label: slice thin, crust not eaten
+value: 3.37
+
+
+name: Energy
+unit: kcal
+value: 260.0
+label: oz
+value: 74.0
+label: cubic inch
+value: 8.0
+label: slice, large or thick
+value: 78.0
+label: slice, regular
+value: 65.0
+label: slice regular, crust not eaten
+value: 32.0
+label: slice
+value: 65.0
+label: slice, thin
+value: 52.0
+label: slice thin, crust not eaten
+value: 24.0
+
+
+name: Energy
+unit: kJ
+value: 1088.0
+label: oz
+value: 308.0
+label: cubic inch
+value: 35.0
+label: slice, large or thick
+value: 326.0
+label: slice, regular
+value: 272.0
+label: slice regular, crust not eaten
+value: 133.0
+label: slice
+value: 272.0
+label: slice, thin
+value: 218.0
+label: slice thin, crust not eaten
+value: 102.0
+
+
+name: Protein
+unit: g
+value: 8.7
+label: oz
+value: 2.47
+label: cubic inch
+value: 0.28
+label: slice, large or thick
+value: 2.61
+label: slice, regular
+value: 2.18
+label: slice regular, crust not eaten
+value: 1.06
+label: slice
+value: 2.18
+label: slice, thin
+value: 1.74
+label: slice thin, crust not eaten
+value: 0.82
+
+
+name: Total lipid (fat)
+unit: g
+value: 3.9
+label: oz
+value: 1.11
+label: cubic inch
+value: 0.12
+label: slice, large or thick
+value: 1.17
+label: slice, regular
+value: 0.98
+label: slice regular, crust not eaten
+value: 0.48
+label: slice
+value: 0.98
+label: slice, thin
+value: 0.78
+label: slice thin, crust not eaten
+value: 0.37
+
+
+name: Ash
+unit: g
+value: 2.1
+label: oz
+value: 0.6
+label: cubic inch
+value: 0.07
+label: slice, large or thick
+value: 0.63
+label: slice, regular
+value: 0.52
+label: slice regular, crust not eaten
+value: 0.26
+label: slice
+value: 0.52
+label: slice, thin
+value: 0.42
+label: slice thin, crust not eaten
+value: 0.2
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 49.5
+label: oz
+value: 14.03
+label: cubic inch
+value: 1.58
+label: slice, large or thick
+value: 14.85
+label: slice, regular
+value: 12.38
+label: slice regular, crust not eaten
+value: 6.04
+label: slice
+value: 12.38
+label: slice, thin
+value: 9.9
+label: slice thin, crust not eaten
+value: 4.65
+
+
+name: Fiber, total dietary
+unit: g
+value: 5.5
+label: oz
+value: 1.6
+label: cubic inch
+value: 0.2
+label: slice, large or thick
+value: 1.6
+label: slice, regular
+value: 1.4
+label: slice regular, crust not eaten
+value: 0.7
+label: slice
+value: 1.4
+label: slice, thin
+value: 1.1
+label: slice thin, crust not eaten
+value: 0.5
+
+
+name: Calcium, Ca
+unit: mg
+value: 43.0
+label: oz
+value: 12.0
+label: cubic inch
+value: 1.0
+label: slice, large or thick
+value: 13.0
+label: slice, regular
+value: 11.0
+label: slice regular, crust not eaten
+value: 5.0
+label: slice
+value: 11.0
+label: slice, thin
+value: 9.0
+label: slice thin, crust not eaten
+value: 4.0
+
+
+name: Iron, Fe
+unit: mg
+value: 2.81
+label: oz
+value: 0.8
+label: cubic inch
+value: 0.09
+label: slice, large or thick
+value: 0.84
+label: slice, regular
+value: 0.7
+label: slice regular, crust not eaten
+value: 0.34
+label: slice
+value: 0.7
+label: slice, thin
+value: 0.56
+label: slice thin, crust not eaten
+value: 0.26
+
+
+name: Magnesium, Mg
+unit: mg
+value: 52.0
+label: oz
+value: 15.0
+label: cubic inch
+value: 2.0
+label: slice, large or thick
+value: 16.0
+label: slice, regular
+value: 13.0
+label: slice regular, crust not eaten
+value: 6.0
+label: slice
+value: 13.0
+label: slice, thin
+value: 10.0
+label: slice thin, crust not eaten
+value: 5.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 153.0
+label: oz
+value: 43.0
+label: cubic inch
+value: 5.0
+label: slice, large or thick
+value: 46.0
+label: slice, regular
+value: 38.0
+label: slice regular, crust not eaten
+value: 19.0
+label: slice
+value: 38.0
+label: slice, thin
+value: 31.0
+label: slice thin, crust not eaten
+value: 14.0
+
+
+name: Potassium, K
+unit: mg
+value: 177.0
+label: oz
+value: 50.0
+label: cubic inch
+value: 6.0
+label: slice, large or thick
+value: 53.0
+label: slice, regular
+value: 44.0
+label: slice regular, crust not eaten
+value: 22.0
+label: slice
+value: 44.0
+label: slice, thin
+value: 35.0
+label: slice thin, crust not eaten
+value: 17.0
+
+
+name: Sodium, Na
+unit: mg
+value: 538.0
+label: oz
+value: 153.0
+label: cubic inch
+value: 17.0
+label: slice, large or thick
+value: 161.0
+label: slice, regular
+value: 134.0
+label: slice regular, crust not eaten
+value: 66.0
+label: slice
+value: 134.0
+label: slice, thin
+value: 108.0
+label: slice thin, crust not eaten
+value: 51.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 1.24
+label: oz
+value: 0.35
+label: cubic inch
+value: 0.04
+label: slice, large or thick
+value: 0.37
+label: slice, regular
+value: 0.31
+label: slice regular, crust not eaten
+value: 0.15
+label: slice
+value: 0.31
+label: slice, thin
+value: 0.25
+label: slice thin, crust not eaten
+value: 0.12
+
+
+name: Copper, Cu
+unit: mg
+value: 0.222
+label: oz
+value: 0.063
+label: cubic inch
+value: 0.007
+label: slice, large or thick
+value: 0.067
+label: slice, regular
+value: 0.056
+label: slice regular, crust not eaten
+value: 0.027
+label: slice
+value: 0.056
+label: slice, thin
+value: 0.044
+label: slice thin, crust not eaten
+value: 0.021
+
+
+name: Manganese, Mn
+unit: mg
+value: 1.371
+label: oz
+value: 0.389
+label: cubic inch
+value: 0.044
+label: slice, large or thick
+value: 0.411
+label: slice, regular
+value: 0.343
+label: slice regular, crust not eaten
+value: 0.167
+label: slice
+value: 0.343
+label: slice, thin
+value: 0.274
+label: slice thin, crust not eaten
+value: 0.129
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 25.3
+label: oz
+value: 7.2
+label: cubic inch
+value: 0.8
+label: slice, large or thick
+value: 7.6
+label: slice, regular
+value: 6.3
+label: slice regular, crust not eaten
+value: 3.1
+label: slice
+value: 6.3
+label: slice, thin
+value: 5.1
+label: slice thin, crust not eaten
+value: 2.4
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: cubic inch
+value: 0.0
+label: slice, large or thick
+value: 0.0
+label: slice, regular
+value: 0.0
+label: slice regular, crust not eaten
+value: 0.0
+label: slice
+value: 0.0
+label: slice, thin
+value: 0.0
+label: slice thin, crust not eaten
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.358
+label: oz
+value: 0.101
+label: cubic inch
+value: 0.011
+label: slice, large or thick
+value: 0.107
+label: slice, regular
+value: 0.09
+label: slice regular, crust not eaten
+value: 0.044
+label: slice
+value: 0.09
+label: slice, thin
+value: 0.072
+label: slice thin, crust not eaten
+value: 0.034
+
+
+name: Riboflavin
+unit: mg
+value: 0.24
+label: oz
+value: 0.068
+label: cubic inch
+value: 0.008
+label: slice, large or thick
+value: 0.072
+label: slice, regular
+value: 0.06
+label: slice regular, crust not eaten
+value: 0.029
+label: slice
+value: 0.06
+label: slice, thin
+value: 0.048
+label: slice thin, crust not eaten
+value: 0.023
+
+
+name: Niacin
+unit: mg
+value: 3.671
+label: oz
+value: 1.041
+label: cubic inch
+value: 0.117
+label: slice, large or thick
+value: 1.101
+label: slice, regular
+value: 0.918
+label: slice regular, crust not eaten
+value: 0.448
+label: slice
+value: 0.918
+label: slice, thin
+value: 0.734
+label: slice thin, crust not eaten
+value: 0.345
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.512
+label: oz
+value: 0.145
+label: cubic inch
+value: 0.016
+label: slice, large or thick
+value: 0.154
+label: slice, regular
+value: 0.128
+label: slice regular, crust not eaten
+value: 0.062
+label: slice
+value: 0.128
+label: slice, thin
+value: 0.102
+label: slice thin, crust not eaten
+value: 0.048
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.304
+label: oz
+value: 0.086
+label: cubic inch
+value: 0.01
+label: slice, large or thick
+value: 0.091
+label: slice, regular
+value: 0.076
+label: slice regular, crust not eaten
+value: 0.037
+label: slice
+value: 0.076
+label: slice, thin
+value: 0.061
+label: slice thin, crust not eaten
+value: 0.029
+
+
+name: Folate, total
+unit: \u00B5g
+value: 61.0
+label: oz
+value: 17.0
+label: cubic inch
+value: 2.0
+label: slice, large or thick
+value: 18.0
+label: slice, regular
+value: 15.0
+label: slice regular, crust not eaten
+value: 7.0
+label: slice
+value: 15.0
+label: slice, thin
+value: 12.0
+label: slice thin, crust not eaten
+value: 6.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 22.0
+label: oz
+value: 6.0
+label: cubic inch
+value: 1.0
+label: slice, large or thick
+value: 7.0
+label: slice, regular
+value: 6.0
+label: slice regular, crust not eaten
+value: 3.0
+label: slice
+value: 6.0
+label: slice, thin
+value: 4.0
+label: slice thin, crust not eaten
+value: 2.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 39.0
+label: oz
+value: 11.0
+label: cubic inch
+value: 1.0
+label: slice, large or thick
+value: 12.0
+label: slice, regular
+value: 10.0
+label: slice regular, crust not eaten
+value: 5.0
+label: slice
+value: 10.0
+label: slice, thin
+value: 8.0
+label: slice thin, crust not eaten
+value: 4.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 76.0
+label: oz
+value: 22.0
+label: cubic inch
+value: 2.0
+label: slice, large or thick
+value: 23.0
+label: slice, regular
+value: 19.0
+label: slice regular, crust not eaten
+value: 9.0
+label: slice
+value: 19.0
+label: slice, thin
+value: 15.0
+label: slice thin, crust not eaten
+value: 7.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.02
+label: oz
+value: 0.01
+label: cubic inch
+value: 0.0
+label: slice, large or thick
+value: 0.01
+label: slice, regular
+value: 0.0
+label: slice regular, crust not eaten
+value: 0.0
+label: slice
+value: 0.0
+label: slice, thin
+value: 0.0
+label: slice thin, crust not eaten
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: cubic inch
+value: 0.0
+label: slice, large or thick
+value: 0.0
+label: slice, regular
+value: 0.0
+label: slice regular, crust not eaten
+value: 0.0
+label: slice
+value: 0.0
+label: slice, thin
+value: 0.0
+label: slice thin, crust not eaten
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: cubic inch
+value: 0.0
+label: slice, large or thick
+value: 0.0
+label: slice, regular
+value: 0.0
+label: slice regular, crust not eaten
+value: 0.0
+label: slice
+value: 0.0
+label: slice, thin
+value: 0.0
+label: slice thin, crust not eaten
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 0.0
+label: oz
+value: 0.0
+label: cubic inch
+value: 0.0
+label: slice, large or thick
+value: 0.0
+label: slice, regular
+value: 0.0
+label: slice regular, crust not eaten
+value: 0.0
+label: slice
+value: 0.0
+label: slice, thin
+value: 0.0
+label: slice thin, crust not eaten
+value: 0.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.916
+label: oz
+value: 0.26
+label: cubic inch
+value: 0.029
+label: slice, large or thick
+value: 0.275
+label: slice, regular
+value: 0.229
+label: slice regular, crust not eaten
+value: 0.112
+label: slice
+value: 0.229
+label: slice, thin
+value: 0.183
+label: slice thin, crust not eaten
+value: 0.086
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: cubic inch
+value: 0.0
+label: slice, large or thick
+value: 0.0
+label: slice, regular
+value: 0.0
+label: slice regular, crust not eaten
+value: 0.0
+label: slice
+value: 0.0
+label: slice, thin
+value: 0.0
+label: slice thin, crust not eaten
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: cubic inch
+value: 0.0
+label: slice, large or thick
+value: 0.0
+label: slice, regular
+value: 0.0
+label: slice regular, crust not eaten
+value: 0.0
+label: slice
+value: 0.0
+label: slice, thin
+value: 0.0
+label: slice thin, crust not eaten
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: cubic inch
+value: 0.0
+label: slice, large or thick
+value: 0.0
+label: slice, regular
+value: 0.0
+label: slice regular, crust not eaten
+value: 0.0
+label: slice
+value: 0.0
+label: slice, thin
+value: 0.0
+label: slice thin, crust not eaten
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: cubic inch
+value: 0.0
+label: slice, large or thick
+value: 0.0
+label: slice, regular
+value: 0.0
+label: slice regular, crust not eaten
+value: 0.0
+label: slice
+value: 0.0
+label: slice, thin
+value: 0.0
+label: slice thin, crust not eaten
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.001
+label: oz
+value: 0.0
+label: cubic inch
+value: 0.0
+label: slice, large or thick
+value: 0.0
+label: slice, regular
+value: 0.0
+label: slice regular, crust not eaten
+value: 0.0
+label: slice
+value: 0.0
+label: slice, thin
+value: 0.0
+label: slice thin, crust not eaten
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.017
+label: oz
+value: 0.005
+label: cubic inch
+value: 0.001
+label: slice, large or thick
+value: 0.005
+label: slice, regular
+value: 0.004
+label: slice regular, crust not eaten
+value: 0.002
+label: slice
+value: 0.004
+label: slice, thin
+value: 0.003
+label: slice thin, crust not eaten
+value: 0.002
+
+
+name: 16:0
+unit: g
+value: 0.509
+label: oz
+value: 0.144
+label: cubic inch
+value: 0.016
+label: slice, large or thick
+value: 0.153
+label: slice, regular
+value: 0.127
+label: slice regular, crust not eaten
+value: 0.062
+label: slice
+value: 0.127
+label: slice, thin
+value: 0.102
+label: slice thin, crust not eaten
+value: 0.048
+
+
+name: 18:0
+unit: g
+value: 0.386
+label: oz
+value: 0.109
+label: cubic inch
+value: 0.012
+label: slice, large or thick
+value: 0.116
+label: slice, regular
+value: 0.096
+label: slice regular, crust not eaten
+value: 0.047
+label: slice
+value: 0.096
+label: slice, thin
+value: 0.077
+label: slice thin, crust not eaten
+value: 0.036
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 1.902
+label: oz
+value: 0.539
+label: cubic inch
+value: 0.061
+label: slice, large or thick
+value: 0.571
+label: slice, regular
+value: 0.476
+label: slice regular, crust not eaten
+value: 0.232
+label: slice
+value: 0.476
+label: slice, thin
+value: 0.38
+label: slice thin, crust not eaten
+value: 0.179
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.011
+label: oz
+value: 0.003
+label: cubic inch
+value: 0.0
+label: slice, large or thick
+value: 0.003
+label: slice, regular
+value: 0.003
+label: slice regular, crust not eaten
+value: 0.001
+label: slice
+value: 0.003
+label: slice, thin
+value: 0.002
+label: slice thin, crust not eaten
+value: 0.001
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 1.892
+label: oz
+value: 0.536
+label: cubic inch
+value: 0.061
+label: slice, large or thick
+value: 0.568
+label: slice, regular
+value: 0.473
+label: slice regular, crust not eaten
+value: 0.231
+label: slice
+value: 0.473
+label: slice, thin
+value: 0.378
+label: slice thin, crust not eaten
+value: 0.178
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: cubic inch
+value: 0.0
+label: slice, large or thick
+value: 0.0
+label: slice, regular
+value: 0.0
+label: slice regular, crust not eaten
+value: 0.0
+label: slice
+value: 0.0
+label: slice, thin
+value: 0.0
+label: slice thin, crust not eaten
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: cubic inch
+value: 0.0
+label: slice, large or thick
+value: 0.0
+label: slice, regular
+value: 0.0
+label: slice regular, crust not eaten
+value: 0.0
+label: slice
+value: 0.0
+label: slice, thin
+value: 0.0
+label: slice thin, crust not eaten
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.682
+label: oz
+value: 0.193
+label: cubic inch
+value: 0.022
+label: slice, large or thick
+value: 0.205
+label: slice, regular
+value: 0.17
+label: slice regular, crust not eaten
+value: 0.083
+label: slice
+value: 0.17
+label: slice, thin
+value: 0.136
+label: slice thin, crust not eaten
+value: 0.064
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.648
+label: oz
+value: 0.184
+label: cubic inch
+value: 0.021
+label: slice, large or thick
+value: 0.194
+label: slice, regular
+value: 0.162
+label: slice regular, crust not eaten
+value: 0.079
+label: slice
+value: 0.162
+label: slice, thin
+value: 0.13
+label: slice thin, crust not eaten
+value: 0.061
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.033
+label: oz
+value: 0.009
+label: cubic inch
+value: 0.001
+label: slice, large or thick
+value: 0.01
+label: slice, regular
+value: 0.008
+label: slice regular, crust not eaten
+value: 0.004
+label: slice
+value: 0.008
+label: slice, thin
+value: 0.007
+label: slice thin, crust not eaten
+value: 0.003
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: cubic inch
+value: 0.0
+label: slice, large or thick
+value: 0.0
+label: slice, regular
+value: 0.0
+label: slice regular, crust not eaten
+value: 0.0
+label: slice
+value: 0.0
+label: slice, thin
+value: 0.0
+label: slice thin, crust not eaten
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: cubic inch
+value: 0.0
+label: slice, large or thick
+value: 0.0
+label: slice, regular
+value: 0.0
+label: slice regular, crust not eaten
+value: 0.0
+label: slice
+value: 0.0
+label: slice, thin
+value: 0.0
+label: slice thin, crust not eaten
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: cubic inch
+value: 0.0
+label: slice, large or thick
+value: 0.0
+label: slice, regular
+value: 0.0
+label: slice regular, crust not eaten
+value: 0.0
+label: slice
+value: 0.0
+label: slice, thin
+value: 0.0
+label: slice thin, crust not eaten
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: cubic inch
+value: 0.0
+label: slice, large or thick
+value: 0.0
+label: slice, regular
+value: 0.0
+label: slice regular, crust not eaten
+value: 0.0
+label: slice
+value: 0.0
+label: slice, thin
+value: 0.0
+label: slice thin, crust not eaten
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: cubic inch
+value: 0.0
+label: slice, large or thick
+value: 0.0
+label: slice, regular
+value: 0.0
+label: slice regular, crust not eaten
+value: 0.0
+label: slice
+value: 0.0
+label: slice, thin
+value: 0.0
+label: slice thin, crust not eaten
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: cubic inch
+value: 0.0
+label: slice, large or thick
+value: 0.0
+label: slice, regular
+value: 0.0
+label: slice regular, crust not eaten
+value: 0.0
+label: slice
+value: 0.0
+label: slice, thin
+value: 0.0
+label: slice thin, crust not eaten
+value: 0.0
+
+
+name: Tryptophan
+unit: g
+value: 0.112
+label: oz
+value: 0.032
+label: cubic inch
+value: 0.004
+label: slice, large or thick
+value: 0.034
+label: slice, regular
+value: 0.028
+label: slice regular, crust not eaten
+value: 0.014
+label: slice
+value: 0.028
+label: slice, thin
+value: 0.022
+label: slice thin, crust not eaten
+value: 0.011
+
+
+name: Threonine
+unit: g
+value: 0.261
+label: oz
+value: 0.074
+label: cubic inch
+value: 0.008
+label: slice, large or thick
+value: 0.078
+label: slice, regular
+value: 0.065
+label: slice regular, crust not eaten
+value: 0.032
+label: slice
+value: 0.065
+label: slice, thin
+value: 0.052
+label: slice thin, crust not eaten
+value: 0.025
+
+
+name: Isoleucine
+unit: g
+value: 0.338
+label: oz
+value: 0.096
+label: cubic inch
+value: 0.011
+label: slice, large or thick
+value: 0.101
+label: slice, regular
+value: 0.084
+label: slice regular, crust not eaten
+value: 0.041
+label: slice
+value: 0.084
+label: slice, thin
+value: 0.068
+label: slice thin, crust not eaten
+value: 0.032
+
+
+name: Leucine
+unit: g
+value: 0.606
+label: oz
+value: 0.172
+label: cubic inch
+value: 0.019
+label: slice, large or thick
+value: 0.182
+label: slice, regular
+value: 0.152
+label: slice regular, crust not eaten
+value: 0.074
+label: slice
+value: 0.152
+label: slice, thin
+value: 0.121
+label: slice thin, crust not eaten
+value: 0.057
+
+
+name: Lysine
+unit: g
+value: 0.244
+label: oz
+value: 0.069
+label: cubic inch
+value: 0.008
+label: slice, large or thick
+value: 0.073
+label: slice, regular
+value: 0.061
+label: slice regular, crust not eaten
+value: 0.03
+label: slice
+value: 0.061
+label: slice, thin
+value: 0.049
+label: slice thin, crust not eaten
+value: 0.023
+
+
+name: Methionine
+unit: g
+value: 0.148
+label: oz
+value: 0.042
+label: cubic inch
+value: 0.005
+label: slice, large or thick
+value: 0.044
+label: slice, regular
+value: 0.037
+label: slice regular, crust not eaten
+value: 0.018
+label: slice
+value: 0.037
+label: slice, thin
+value: 0.03
+label: slice thin, crust not eaten
+value: 0.014
+
+
+name: Cystine
+unit: g
+value: 0.19
+label: oz
+value: 0.054
+label: cubic inch
+value: 0.006
+label: slice, large or thick
+value: 0.057
+label: slice, regular
+value: 0.048
+label: slice regular, crust not eaten
+value: 0.023
+label: slice
+value: 0.048
+label: slice, thin
+value: 0.038
+label: slice thin, crust not eaten
+value: 0.018
+
+
+name: Phenylalanine
+unit: g
+value: 0.419
+label: oz
+value: 0.119
+label: cubic inch
+value: 0.013
+label: slice, large or thick
+value: 0.126
+label: slice, regular
+value: 0.105
+label: slice regular, crust not eaten
+value: 0.051
+label: slice
+value: 0.105
+label: slice, thin
+value: 0.084
+label: slice thin, crust not eaten
+value: 0.039
+
+
+name: Tyrosine
+unit: g
+value: 0.253
+label: oz
+value: 0.072
+label: cubic inch
+value: 0.008
+label: slice, large or thick
+value: 0.076
+label: slice, regular
+value: 0.063
+label: slice regular, crust not eaten
+value: 0.031
+label: slice
+value: 0.063
+label: slice, thin
+value: 0.051
+label: slice thin, crust not eaten
+value: 0.024
+
+
+name: Valine
+unit: g
+value: 0.387
+label: oz
+value: 0.11
+label: cubic inch
+value: 0.012
+label: slice, large or thick
+value: 0.116
+label: slice, regular
+value: 0.097
+label: slice regular, crust not eaten
+value: 0.047
+label: slice
+value: 0.097
+label: slice, thin
+value: 0.077
+label: slice thin, crust not eaten
+value: 0.036
+
+
+name: Arginine
+unit: g
+value: 0.348
+label: oz
+value: 0.099
+label: cubic inch
+value: 0.011
+label: slice, large or thick
+value: 0.104
+label: slice, regular
+value: 0.087
+label: slice regular, crust not eaten
+value: 0.042
+label: slice
+value: 0.087
+label: slice, thin
+value: 0.07
+label: slice thin, crust not eaten
+value: 0.033
+
+
+name: Histidine
+unit: g
+value: 0.193
+label: oz
+value: 0.055
+label: cubic inch
+value: 0.006
+label: slice, large or thick
+value: 0.058
+label: slice, regular
+value: 0.048
+label: slice regular, crust not eaten
+value: 0.024
+label: slice
+value: 0.048
+label: slice, thin
+value: 0.039
+label: slice thin, crust not eaten
+value: 0.018
+
+
+name: Alanine
+unit: g
+value: 0.306
+label: oz
+value: 0.087
+label: cubic inch
+value: 0.01
+label: slice, large or thick
+value: 0.092
+label: slice, regular
+value: 0.076
+label: slice regular, crust not eaten
+value: 0.037
+label: slice
+value: 0.076
+label: slice, thin
+value: 0.061
+label: slice thin, crust not eaten
+value: 0.029
+
+
+name: Aspartic acid
+unit: g
+value: 0.433
+label: oz
+value: 0.123
+label: cubic inch
+value: 0.014
+label: slice, large or thick
+value: 0.13
+label: slice, regular
+value: 0.108
+label: slice regular, crust not eaten
+value: 0.053
+label: slice
+value: 0.108
+label: slice, thin
+value: 0.087
+label: slice thin, crust not eaten
+value: 0.041
+
+
+name: Glutamic acid
+unit: g
+value: 2.77
+label: oz
+value: 0.785
+label: cubic inch
+value: 0.089
+label: slice, large or thick
+value: 0.831
+label: slice, regular
+value: 0.692
+label: slice regular, crust not eaten
+value: 0.338
+label: slice
+value: 0.692
+label: slice, thin
+value: 0.554
+label: slice thin, crust not eaten
+value: 0.26
+
+
+name: Glycine
+unit: g
+value: 0.321
+label: oz
+value: 0.091
+label: cubic inch
+value: 0.01
+label: slice, large or thick
+value: 0.096
+label: slice, regular
+value: 0.08
+label: slice regular, crust not eaten
+value: 0.039
+label: slice
+value: 0.08
+label: slice, thin
+value: 0.064
+label: slice thin, crust not eaten
+value: 0.03
+
+
+name: Proline
+unit: g
+value: 0.922
+label: oz
+value: 0.261
+label: cubic inch
+value: 0.03
+label: slice, large or thick
+value: 0.277
+label: slice, regular
+value: 0.23
+label: slice regular, crust not eaten
+value: 0.112
+label: slice
+value: 0.23
+label: slice, thin
+value: 0.184
+label: slice thin, crust not eaten
+value: 0.087
+
+
+name: Serine
+unit: g
+value: 0.417
+label: oz
+value: 0.118
+label: cubic inch
+value: 0.013
+label: slice, large or thick
+value: 0.125
+label: slice, regular
+value: 0.104
+label: slice regular, crust not eaten
+value: 0.051
+label: slice
+value: 0.104
+label: slice, thin
+value: 0.083
+label: slice thin, crust not eaten
+value: 0.039
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: cubic inch
+value: 0.0
+label: slice, large or thick
+value: 0.0
+label: slice, regular
+value: 0.0
+label: slice regular, crust not eaten
+value: 0.0
+label: slice
+value: 0.0
+label: slice, thin
+value: 0.0
+label: slice thin, crust not eaten
+value: 0.0
+
+
+

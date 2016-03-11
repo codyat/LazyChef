@@ -1,0 +1,982 @@
+ndbno: 09174
+
+
+name: Loquats, raw
+
+
+name: Water
+unit: g
+value: 86.73
+label: cup, cubed
+value: 129.23
+label: large
+value: 17.35
+label: medium
+value: 13.88
+label: small
+value: 11.8
+
+
+name: Energy
+unit: kcal
+value: 47.0
+label: cup, cubed
+value: 70.0
+label: large
+value: 9.0
+label: medium
+value: 8.0
+label: small
+value: 6.0
+
+
+name: Energy
+unit: kJ
+value: 197.0
+label: cup, cubed
+value: 294.0
+label: large
+value: 39.0
+label: medium
+value: 32.0
+label: small
+value: 27.0
+
+
+name: Protein
+unit: g
+value: 0.43
+label: cup, cubed
+value: 0.64
+label: large
+value: 0.09
+label: medium
+value: 0.07
+label: small
+value: 0.06
+
+
+name: Total lipid (fat)
+unit: g
+value: 0.2
+label: cup, cubed
+value: 0.3
+label: large
+value: 0.04
+label: medium
+value: 0.03
+label: small
+value: 0.03
+
+
+name: Ash
+unit: g
+value: 0.5
+label: cup, cubed
+value: 0.74
+label: large
+value: 0.1
+label: medium
+value: 0.08
+label: small
+value: 0.07
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 12.14
+label: cup, cubed
+value: 18.09
+label: large
+value: 2.43
+label: medium
+value: 1.94
+label: small
+value: 1.65
+
+
+name: Fiber, total dietary
+unit: g
+value: 1.7
+label: cup, cubed
+value: 2.5
+label: large
+value: 0.3
+label: medium
+value: 0.3
+label: small
+value: 0.2
+
+
+name: Calcium, Ca
+unit: mg
+value: 16.0
+label: cup, cubed
+value: 24.0
+label: large
+value: 3.0
+label: medium
+value: 3.0
+label: small
+value: 2.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.28
+label: cup, cubed
+value: 0.42
+label: large
+value: 0.06
+label: medium
+value: 0.04
+label: small
+value: 0.04
+
+
+name: Magnesium, Mg
+unit: mg
+value: 13.0
+label: cup, cubed
+value: 19.0
+label: large
+value: 3.0
+label: medium
+value: 2.0
+label: small
+value: 2.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 27.0
+label: cup, cubed
+value: 40.0
+label: large
+value: 5.0
+label: medium
+value: 4.0
+label: small
+value: 4.0
+
+
+name: Potassium, K
+unit: mg
+value: 266.0
+label: cup, cubed
+value: 396.0
+label: large
+value: 53.0
+label: medium
+value: 43.0
+label: small
+value: 36.0
+
+
+name: Sodium, Na
+unit: mg
+value: 1.0
+label: cup, cubed
+value: 1.0
+label: large
+value: 0.0
+label: medium
+value: 0.0
+label: small
+value: 0.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.05
+label: cup, cubed
+value: 0.07
+label: large
+value: 0.01
+label: medium
+value: 0.01
+label: small
+value: 0.01
+
+
+name: Copper, Cu
+unit: mg
+value: 0.04
+label: cup, cubed
+value: 0.06
+label: large
+value: 0.008
+label: medium
+value: 0.006
+label: small
+value: 0.005
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.148
+label: cup, cubed
+value: 0.221
+label: large
+value: 0.03
+label: medium
+value: 0.024
+label: small
+value: 0.02
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 0.6
+label: cup, cubed
+value: 0.9
+label: large
+value: 0.1
+label: medium
+value: 0.1
+label: small
+value: 0.1
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 1.0
+label: cup, cubed
+value: 1.5
+label: large
+value: 0.2
+label: medium
+value: 0.2
+label: small
+value: 0.1
+
+
+name: Thiamin
+unit: mg
+value: 0.019
+label: cup, cubed
+value: 0.028
+label: large
+value: 0.004
+label: medium
+value: 0.003
+label: small
+value: 0.003
+
+
+name: Riboflavin
+unit: mg
+value: 0.024
+label: cup, cubed
+value: 0.036
+label: large
+value: 0.005
+label: medium
+value: 0.004
+label: small
+value: 0.003
+
+
+name: Niacin
+unit: mg
+value: 0.18
+label: cup, cubed
+value: 0.268
+label: large
+value: 0.036
+label: medium
+value: 0.029
+label: small
+value: 0.024
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.1
+label: cup, cubed
+value: 0.149
+label: large
+value: 0.02
+label: medium
+value: 0.016
+label: small
+value: 0.014
+
+
+name: Folate, total
+unit: \u00B5g
+value: 14.0
+label: cup, cubed
+value: 21.0
+label: large
+value: 3.0
+label: medium
+value: 2.0
+label: small
+value: 2.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: cup, cubed
+value: 0.0
+label: large
+value: 0.0
+label: medium
+value: 0.0
+label: small
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 14.0
+label: cup, cubed
+value: 21.0
+label: large
+value: 3.0
+label: medium
+value: 2.0
+label: small
+value: 2.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 14.0
+label: cup, cubed
+value: 21.0
+label: large
+value: 3.0
+label: medium
+value: 2.0
+label: small
+value: 2.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: cup, cubed
+value: 0.0
+label: large
+value: 0.0
+label: medium
+value: 0.0
+label: small
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 76.0
+label: cup, cubed
+value: 113.0
+label: large
+value: 15.0
+label: medium
+value: 12.0
+label: small
+value: 10.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: cup, cubed
+value: 0.0
+label: large
+value: 0.0
+label: medium
+value: 0.0
+label: small
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 1528.0
+label: cup, cubed
+value: 2277.0
+label: large
+value: 306.0
+label: medium
+value: 244.0
+label: small
+value: 208.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.04
+label: cup, cubed
+value: 0.06
+label: large
+value: 0.008
+label: medium
+value: 0.006
+label: small
+value: 0.005
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: cup, cubed
+value: 0.0
+label: large
+value: 0.0
+label: medium
+value: 0.0
+label: small
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: cup, cubed
+value: 0.0
+label: large
+value: 0.0
+label: medium
+value: 0.0
+label: small
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: cup, cubed
+value: 0.0
+label: large
+value: 0.0
+label: medium
+value: 0.0
+label: small
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: cup, cubed
+value: 0.0
+label: large
+value: 0.0
+label: medium
+value: 0.0
+label: small
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.001
+label: cup, cubed
+value: 0.001
+label: large
+value: 0.0
+label: medium
+value: 0.0
+label: small
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.001
+label: cup, cubed
+value: 0.001
+label: large
+value: 0.0
+label: medium
+value: 0.0
+label: small
+value: 0.0
+
+
+name: 16:0
+unit: g
+value: 0.032
+label: cup, cubed
+value: 0.048
+label: large
+value: 0.006
+label: medium
+value: 0.005
+label: small
+value: 0.004
+
+
+name: 18:0
+unit: g
+value: 0.004
+label: cup, cubed
+value: 0.006
+label: large
+value: 0.001
+label: medium
+value: 0.001
+label: small
+value: 0.001
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.008
+label: cup, cubed
+value: 0.012
+label: large
+value: 0.002
+label: medium
+value: 0.001
+label: small
+value: 0.001
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.0
+label: cup, cubed
+value: 0.0
+label: large
+value: 0.0
+label: medium
+value: 0.0
+label: small
+value: 0.0
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.008
+label: cup, cubed
+value: 0.012
+label: large
+value: 0.002
+label: medium
+value: 0.001
+label: small
+value: 0.001
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: cup, cubed
+value: 0.0
+label: large
+value: 0.0
+label: medium
+value: 0.0
+label: small
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: cup, cubed
+value: 0.0
+label: large
+value: 0.0
+label: medium
+value: 0.0
+label: small
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.091
+label: cup, cubed
+value: 0.136
+label: large
+value: 0.018
+label: medium
+value: 0.015
+label: small
+value: 0.012
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.077
+label: cup, cubed
+value: 0.115
+label: large
+value: 0.015
+label: medium
+value: 0.012
+label: small
+value: 0.01
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.013
+label: cup, cubed
+value: 0.019
+label: large
+value: 0.003
+label: medium
+value: 0.002
+label: small
+value: 0.002
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: cup, cubed
+value: 0.0
+label: large
+value: 0.0
+label: medium
+value: 0.0
+label: small
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: cup, cubed
+value: 0.0
+label: large
+value: 0.0
+label: medium
+value: 0.0
+label: small
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: cup, cubed
+value: 0.0
+label: large
+value: 0.0
+label: medium
+value: 0.0
+label: small
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: cup, cubed
+value: 0.0
+label: large
+value: 0.0
+label: medium
+value: 0.0
+label: small
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: cup, cubed
+value: 0.0
+label: large
+value: 0.0
+label: medium
+value: 0.0
+label: small
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.0
+label: cup, cubed
+value: 0.0
+label: large
+value: 0.0
+label: medium
+value: 0.0
+label: small
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: cup, cubed
+value: 0.0
+label: large
+value: 0.0
+label: medium
+value: 0.0
+label: small
+value: 0.0
+
+
+name: Phytosterols
+unit: mg
+value: 2.0
+label: cup, cubed
+value: 3.0
+label: large
+value: 0.0
+label: medium
+value: 0.0
+label: small
+value: 0.0
+
+
+name: Tryptophan
+unit: g
+value: 0.005
+label: cup, cubed
+value: 0.007
+label: large
+value: 0.001
+label: medium
+value: 0.001
+label: small
+value: 0.001
+
+
+name: Threonine
+unit: g
+value: 0.015
+label: cup, cubed
+value: 0.022
+label: large
+value: 0.003
+label: medium
+value: 0.002
+label: small
+value: 0.002
+
+
+name: Isoleucine
+unit: g
+value: 0.015
+label: cup, cubed
+value: 0.022
+label: large
+value: 0.003
+label: medium
+value: 0.002
+label: small
+value: 0.002
+
+
+name: Leucine
+unit: g
+value: 0.026
+label: cup, cubed
+value: 0.039
+label: large
+value: 0.005
+label: medium
+value: 0.004
+label: small
+value: 0.004
+
+
+name: Lysine
+unit: g
+value: 0.023
+label: cup, cubed
+value: 0.034
+label: large
+value: 0.005
+label: medium
+value: 0.004
+label: small
+value: 0.003
+
+
+name: Methionine
+unit: g
+value: 0.004
+label: cup, cubed
+value: 0.006
+label: large
+value: 0.001
+label: medium
+value: 0.001
+label: small
+value: 0.001
+
+
+name: Cystine
+unit: g
+value: 0.006
+label: cup, cubed
+value: 0.009
+label: large
+value: 0.001
+label: medium
+value: 0.001
+label: small
+value: 0.001
+
+
+name: Phenylalanine
+unit: g
+value: 0.014
+label: cup, cubed
+value: 0.021
+label: large
+value: 0.003
+label: medium
+value: 0.002
+label: small
+value: 0.002
+
+
+name: Tyrosine
+unit: g
+value: 0.013
+label: cup, cubed
+value: 0.019
+label: large
+value: 0.003
+label: medium
+value: 0.002
+label: small
+value: 0.002
+
+
+name: Valine
+unit: g
+value: 0.021
+label: cup, cubed
+value: 0.031
+label: large
+value: 0.004
+label: medium
+value: 0.003
+label: small
+value: 0.003
+
+
+name: Arginine
+unit: g
+value: 0.014
+label: cup, cubed
+value: 0.021
+label: large
+value: 0.003
+label: medium
+value: 0.002
+label: small
+value: 0.002
+
+
+name: Histidine
+unit: g
+value: 0.007
+label: cup, cubed
+value: 0.01
+label: large
+value: 0.001
+label: medium
+value: 0.001
+label: small
+value: 0.001
+
+
+name: Alanine
+unit: g
+value: 0.024
+label: cup, cubed
+value: 0.036
+label: large
+value: 0.005
+label: medium
+value: 0.004
+label: small
+value: 0.003
+
+
+name: Aspartic acid
+unit: g
+value: 0.058
+label: cup, cubed
+value: 0.086
+label: large
+value: 0.012
+label: medium
+value: 0.009
+label: small
+value: 0.008
+
+
+name: Glutamic acid
+unit: g
+value: 0.061
+label: cup, cubed
+value: 0.091
+label: large
+value: 0.012
+label: medium
+value: 0.01
+label: small
+value: 0.008
+
+
+name: Glycine
+unit: g
+value: 0.02
+label: cup, cubed
+value: 0.03
+label: large
+value: 0.004
+label: medium
+value: 0.003
+label: small
+value: 0.003
+
+
+name: Proline
+unit: g
+value: 0.027
+label: cup, cubed
+value: 0.04
+label: large
+value: 0.005
+label: medium
+value: 0.004
+label: small
+value: 0.004
+
+
+name: Serine
+unit: g
+value: 0.02
+label: cup, cubed
+value: 0.03
+label: large
+value: 0.004
+label: medium
+value: 0.003
+label: small
+value: 0.003
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: cup, cubed
+value: 0.0
+label: large
+value: 0.0
+label: medium
+value: 0.0
+label: small
+value: 0.0
+
+
+

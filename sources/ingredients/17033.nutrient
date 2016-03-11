@@ -1,0 +1,826 @@
+ndbno: 17033
+
+
+name: Lamb, domestic, rib, separable lean only, trimmed to 1/4\ fat, choice, cooked, broiled
+
+
+name: Water
+unit: g
+value: 58.83
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 86.48
+label: oz
+value: 50.01
+
+
+name: Energy
+unit: kcal
+value: 235.0
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 345.0
+label: oz
+value: 200.0
+
+
+name: Energy
+unit: kJ
+value: 983.0
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 1445.0
+label: oz
+value: 836.0
+
+
+name: Protein
+unit: g
+value: 27.74
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 40.78
+label: oz
+value: 23.58
+
+
+name: Total lipid (fat)
+unit: g
+value: 12.95
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 19.04
+label: oz
+value: 11.01
+
+
+name: Ash
+unit: g
+value: 1.4
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 2.06
+label: oz
+value: 1.19
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 0.0
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Sugars, total
+unit: g
+value: 0.0
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 16.0
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 24.0
+label: oz
+value: 14.0
+
+
+name: Iron, Fe
+unit: mg
+value: 2.21
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 3.25
+label: oz
+value: 1.88
+
+
+name: Magnesium, Mg
+unit: mg
+value: 29.0
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 43.0
+label: oz
+value: 25.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 213.0
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 313.0
+label: oz
+value: 181.0
+
+
+name: Potassium, K
+unit: mg
+value: 313.0
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 460.0
+label: oz
+value: 266.0
+
+
+name: Sodium, Na
+unit: mg
+value: 85.0
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 125.0
+label: oz
+value: 72.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 5.27
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 7.75
+label: oz
+value: 4.48
+
+
+name: Copper, Cu
+unit: mg
+value: 0.139
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 0.204
+label: oz
+value: 0.118
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.029
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 0.043
+label: oz
+value: 0.025
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 31.0
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 45.6
+label: oz
+value: 26.4
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.1
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 0.147
+label: oz
+value: 0.085
+
+
+name: Riboflavin
+unit: mg
+value: 0.25
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 0.368
+label: oz
+value: 0.212
+
+
+name: Niacin
+unit: mg
+value: 6.55
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 9.628
+label: oz
+value: 5.568
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.63
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 0.926
+label: oz
+value: 0.536
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.15
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 0.22
+label: oz
+value: 0.128
+
+
+name: Folate, total
+unit: \u00B5g
+value: 21.0
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 31.0
+label: oz
+value: 18.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 21.0
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 31.0
+label: oz
+value: 18.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 21.0
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 31.0
+label: oz
+value: 18.0
+
+
+name: Choline, total
+unit: mg
+value: 104.4
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 153.5
+label: oz
+value: 88.7
+
+
+name: Betaine
+unit: mg
+value: 13.7
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 20.1
+label: oz
+value: 11.6
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 2.64
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 3.88
+label: oz
+value: 2.24
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 0.0
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 0.0
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 0.0
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 0.0
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.18
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 0.26
+label: oz
+value: 0.15
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.1
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 0.1
+label: oz
+value: 0.1
+
+
+name: Vitamin D3 (cholecalciferol)
+unit: \u00B5g
+value: 0.1
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 0.1
+label: oz
+value: 0.1
+
+
+name: Vitamin D
+unit: IU
+value: 2.0
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 3.0
+label: oz
+value: 2.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 4.1
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 6.0
+label: oz
+value: 3.5
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 4.65
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 6.836
+label: oz
+value: 3.953
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.02
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 0.029
+label: oz
+value: 0.017
+
+
+name: 12:0
+unit: g
+value: 0.03
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 0.044
+label: oz
+value: 0.026
+
+
+name: 14:0
+unit: g
+value: 0.34
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 0.5
+label: oz
+value: 0.289
+
+
+name: 16:0
+unit: g
+value: 2.52
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 3.704
+label: oz
+value: 2.142
+
+
+name: 18:0
+unit: g
+value: 1.54
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 2.264
+label: oz
+value: 1.309
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 5.21
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 7.659
+label: oz
+value: 4.429
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.39
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 0.573
+label: oz
+value: 0.331
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 4.71
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 6.924
+label: oz
+value: 4.004
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 1.18
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 1.735
+label: oz
+value: 1.003
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.89
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 1.308
+label: oz
+value: 0.757
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.17
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 0.25
+label: oz
+value: 0.145
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.12
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 0.176
+label: oz
+value: 0.102
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 91.0
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 134.0
+label: oz
+value: 77.0
+
+
+name: Tryptophan
+unit: g
+value: 0.324
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 0.476
+label: oz
+value: 0.275
+
+
+name: Threonine
+unit: g
+value: 1.187
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 1.745
+label: oz
+value: 1.009
+
+
+name: Isoleucine
+unit: g
+value: 1.338
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 1.967
+label: oz
+value: 1.137
+
+
+name: Leucine
+unit: g
+value: 2.157
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 3.171
+label: oz
+value: 1.833
+
+
+name: Lysine
+unit: g
+value: 2.449
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 3.6
+label: oz
+value: 2.082
+
+
+name: Methionine
+unit: g
+value: 0.712
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 1.047
+label: oz
+value: 0.605
+
+
+name: Cystine
+unit: g
+value: 0.331
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 0.487
+label: oz
+value: 0.281
+
+
+name: Phenylalanine
+unit: g
+value: 1.129
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 1.66
+label: oz
+value: 0.96
+
+
+name: Tyrosine
+unit: g
+value: 0.932
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 1.37
+label: oz
+value: 0.792
+
+
+name: Valine
+unit: g
+value: 1.497
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 2.201
+label: oz
+value: 1.272
+
+
+name: Arginine
+unit: g
+value: 1.648
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 2.423
+label: oz
+value: 1.401
+
+
+name: Histidine
+unit: g
+value: 0.879
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 1.292
+label: oz
+value: 0.747
+
+
+name: Alanine
+unit: g
+value: 1.668
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 2.452
+label: oz
+value: 1.418
+
+
+name: Aspartic acid
+unit: g
+value: 2.441
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 3.588
+label: oz
+value: 2.075
+
+
+name: Glutamic acid
+unit: g
+value: 4.025
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 5.917
+label: oz
+value: 3.421
+
+
+name: Glycine
+unit: g
+value: 1.355
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 1.992
+label: oz
+value: 1.152
+
+
+name: Proline
+unit: g
+value: 1.163
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 1.71
+label: oz
+value: 0.989
+
+
+name: Serine
+unit: g
+value: 1.031
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 1.516
+label: oz
+value: 0.876
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)
+value: 0.0
+label: oz
+value: 0.0
+
+
+

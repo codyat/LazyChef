@@ -1,0 +1,658 @@
+ndbno: 01206
+
+
+name: Cream substitute, flavored, powdered
+
+
+name: Water
+unit: g
+value: 1.52
+label: tsp
+value: 0.18
+
+
+name: Energy
+unit: kcal
+value: 482.0
+label: tsp
+value: 58.0
+
+
+name: Energy
+unit: kJ
+value: 2018.0
+label: tsp
+value: 242.0
+
+
+name: Protein
+unit: g
+value: 0.68
+label: tsp
+value: 0.08
+
+
+name: Total lipid (fat)
+unit: g
+value: 21.47
+label: tsp
+value: 2.58
+
+
+name: Ash
+unit: g
+value: 0.79
+label: tsp
+value: 0.09
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 75.42
+label: tsp
+value: 9.05
+
+
+name: Fiber, total dietary
+unit: g
+value: 1.2
+label: tsp
+value: 0.1
+
+
+name: Sugars, total
+unit: g
+value: 58.01
+label: tsp
+value: 6.96
+
+
+name: Calcium, Ca
+unit: mg
+value: 5.0
+label: tsp
+value: 1.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.63
+label: tsp
+value: 0.08
+
+
+name: Magnesium, Mg
+unit: mg
+value: 17.0
+label: tsp
+value: 2.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 28.0
+label: tsp
+value: 3.0
+
+
+name: Potassium, K
+unit: mg
+value: 90.0
+label: tsp
+value: 11.0
+
+
+name: Sodium, Na
+unit: mg
+value: 123.0
+label: tsp
+value: 15.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.23
+label: tsp
+value: 0.03
+
+
+name: Copper, Cu
+unit: mg
+value: 0.135
+label: tsp
+value: 0.016
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.14
+label: tsp
+value: 0.017
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 1.3
+label: tsp
+value: 0.2
+
+
+name: Fluoride, F
+unit: \u00B5g
+value: 0.6
+label: tsp
+value: 0.1
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: tsp
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.004
+label: tsp
+value: 0.0
+
+
+name: Riboflavin
+unit: mg
+value: 0.027
+label: tsp
+value: 0.003
+
+
+name: Niacin
+unit: mg
+value: 0.084
+label: tsp
+value: 0.01
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.009
+label: tsp
+value: 0.001
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.004
+label: tsp
+value: 0.0
+
+
+name: Folate, total
+unit: \u00B5g
+value: 1.0
+label: tsp
+value: 0.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: tsp
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 1.0
+label: tsp
+value: 0.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 1.0
+label: tsp
+value: 0.0
+
+
+name: Choline, total
+unit: mg
+value: 0.5
+label: tsp
+value: 0.1
+
+
+name: Betaine
+unit: mg
+value: 0.0
+label: tsp
+value: 0.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: tsp
+value: 0.0
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: tsp
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 0.0
+label: tsp
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: tsp
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 0.0
+label: tsp
+value: 0.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: tsp
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: tsp
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 0.0
+label: tsp
+value: 0.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: tsp
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 1.0
+label: tsp
+value: 0.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.41
+label: tsp
+value: 0.05
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: tsp
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: tsp
+value: 0.0
+
+
+name: Vitamin D3 (cholecalciferol)
+unit: \u00B5g
+value: 0.0
+label: tsp
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: tsp
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 9.1
+label: tsp
+value: 1.1
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 19.446
+label: tsp
+value: 2.334
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: tsp
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: tsp
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.903
+label: tsp
+value: 0.108
+
+
+name: 10:0
+unit: g
+value: 0.903
+label: tsp
+value: 0.108
+
+
+name: 12:0
+unit: g
+value: 7.518
+label: tsp
+value: 0.902
+
+
+name: 14:0
+unit: g
+value: 3.025
+label: tsp
+value: 0.363
+
+
+name: 16:0
+unit: g
+value: 2.373
+label: tsp
+value: 0.285
+
+
+name: 18:0
+unit: g
+value: 4.742
+label: tsp
+value: 0.569
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.618
+label: tsp
+value: 0.074
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.0
+label: tsp
+value: 0.0
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.618
+label: tsp
+value: 0.074
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: tsp
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: tsp
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.229
+label: tsp
+value: 0.027
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.229
+label: tsp
+value: 0.027
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.0
+label: tsp
+value: 0.0
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: tsp
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: tsp
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: tsp
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: tsp
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: tsp
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: tsp
+value: 0.0
+
+
+name: Phytosterols
+unit: mg
+value: 18.0
+label: tsp
+value: 2.0
+
+
+name: Tryptophan
+unit: g
+value: 0.01
+label: tsp
+value: 0.001
+
+
+name: Threonine
+unit: g
+value: 0.027
+label: tsp
+value: 0.003
+
+
+name: Isoleucine
+unit: g
+value: 0.026
+label: tsp
+value: 0.003
+
+
+name: Leucine
+unit: g
+value: 0.045
+label: tsp
+value: 0.005
+
+
+name: Lysine
+unit: g
+value: 0.033
+label: tsp
+value: 0.004
+
+
+name: Methionine
+unit: g
+value: 0.008
+label: tsp
+value: 0.001
+
+
+name: Cystine
+unit: g
+value: 0.009
+label: tsp
+value: 0.001
+
+
+name: Phenylalanine
+unit: g
+value: 0.033
+label: tsp
+value: 0.004
+
+
+name: Tyrosine
+unit: g
+value: 0.025
+label: tsp
+value: 0.003
+
+
+name: Valine
+unit: g
+value: 0.04
+label: tsp
+value: 0.005
+
+
+name: Arginine
+unit: g
+value: 0.038
+label: tsp
+value: 0.005
+
+
+name: Histidine
+unit: g
+value: 0.012
+label: tsp
+value: 0.001
+
+
+name: Alanine
+unit: g
+value: 0.032
+label: tsp
+value: 0.004
+
+
+name: Aspartic acid
+unit: g
+value: 0.066
+label: tsp
+value: 0.008
+
+
+name: Glutamic acid
+unit: g
+value: 0.104
+label: tsp
+value: 0.012
+
+
+name: Glycine
+unit: g
+value: 0.03
+label: tsp
+value: 0.004
+
+
+name: Proline
+unit: g
+value: 0.031
+label: tsp
+value: 0.004
+
+
+name: Serine
+unit: g
+value: 0.029
+label: tsp
+value: 0.003
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: tsp
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 3.0
+label: tsp
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 92.0
+label: tsp
+value: 11.0
+
+
+

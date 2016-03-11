@@ -1,0 +1,1177 @@
+ndbno: 15048
+
+
+name: Fish, mackerel, jack, canned, drained solids
+
+
+name: Water
+unit: g
+value: 69.17
+label: oz, boneless
+value: 19.61
+label: cup
+value: 131.42
+label: cubic inch
+value: 11.07
+label: can (15 oz)
+value: 249.7
+
+
+name: Energy
+unit: kcal
+value: 156.0
+label: oz, boneless
+value: 44.0
+label: cup
+value: 296.0
+label: cubic inch
+value: 25.0
+label: can (15 oz)
+value: 563.0
+
+
+name: Energy
+unit: kJ
+value: 653.0
+label: oz, boneless
+value: 185.0
+label: cup
+value: 1241.0
+label: cubic inch
+value: 104.0
+label: can (15 oz)
+value: 2357.0
+
+
+name: Protein
+unit: g
+value: 23.19
+label: oz, boneless
+value: 6.57
+label: cup
+value: 44.06
+label: cubic inch
+value: 3.71
+label: can (15 oz)
+value: 83.72
+
+
+name: Total lipid (fat)
+unit: g
+value: 6.3
+label: oz, boneless
+value: 1.79
+label: cup
+value: 11.97
+label: cubic inch
+value: 1.01
+label: can (15 oz)
+value: 22.74
+
+
+name: Ash
+unit: g
+value: 1.73
+label: oz, boneless
+value: 0.49
+label: cup
+value: 3.29
+label: cubic inch
+value: 0.28
+label: can (15 oz)
+value: 6.25
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 0.0
+label: oz, boneless
+value: 0.0
+label: cup
+value: 0.0
+label: cubic inch
+value: 0.0
+label: can (15 oz)
+value: 0.0
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: oz, boneless
+value: 0.0
+label: cup
+value: 0.0
+label: cubic inch
+value: 0.0
+label: can (15 oz)
+value: 0.0
+
+
+name: Sugars, total
+unit: g
+value: 0.0
+label: oz, boneless
+value: 0.0
+label: cup
+value: 0.0
+label: cubic inch
+value: 0.0
+label: can (15 oz)
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 241.0
+label: oz, boneless
+value: 68.0
+label: cup
+value: 458.0
+label: cubic inch
+value: 39.0
+label: can (15 oz)
+value: 870.0
+
+
+name: Iron, Fe
+unit: mg
+value: 2.04
+label: oz, boneless
+value: 0.58
+label: cup
+value: 3.88
+label: cubic inch
+value: 0.33
+label: can (15 oz)
+value: 7.36
+
+
+name: Magnesium, Mg
+unit: mg
+value: 37.0
+label: oz, boneless
+value: 10.0
+label: cup
+value: 70.0
+label: cubic inch
+value: 6.0
+label: can (15 oz)
+value: 134.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 301.0
+label: oz, boneless
+value: 85.0
+label: cup
+value: 572.0
+label: cubic inch
+value: 48.0
+label: can (15 oz)
+value: 1087.0
+
+
+name: Potassium, K
+unit: mg
+value: 194.0
+label: oz, boneless
+value: 55.0
+label: cup
+value: 369.0
+label: cubic inch
+value: 31.0
+label: can (15 oz)
+value: 700.0
+
+
+name: Sodium, Na
+unit: mg
+value: 379.0
+label: oz, boneless
+value: 107.0
+label: cup
+value: 720.0
+label: cubic inch
+value: 61.0
+label: can (15 oz)
+value: 1368.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 1.02
+label: oz, boneless
+value: 0.29
+label: cup
+value: 1.94
+label: cubic inch
+value: 0.16
+label: can (15 oz)
+value: 3.68
+
+
+name: Copper, Cu
+unit: mg
+value: 0.147
+label: oz, boneless
+value: 0.042
+label: cup
+value: 0.279
+label: cubic inch
+value: 0.024
+label: can (15 oz)
+value: 0.531
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.04
+label: oz, boneless
+value: 0.011
+label: cup
+value: 0.076
+label: cubic inch
+value: 0.006
+label: can (15 oz)
+value: 0.144
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 37.7
+label: oz, boneless
+value: 10.7
+label: cup
+value: 71.6
+label: cubic inch
+value: 6.0
+label: can (15 oz)
+value: 136.1
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.9
+label: oz, boneless
+value: 0.3
+label: cup
+value: 1.7
+label: cubic inch
+value: 0.1
+label: can (15 oz)
+value: 3.2
+
+
+name: Thiamin
+unit: mg
+value: 0.04
+label: oz, boneless
+value: 0.011
+label: cup
+value: 0.076
+label: cubic inch
+value: 0.006
+label: can (15 oz)
+value: 0.144
+
+
+name: Riboflavin
+unit: mg
+value: 0.212
+label: oz, boneless
+value: 0.06
+label: cup
+value: 0.403
+label: cubic inch
+value: 0.034
+label: can (15 oz)
+value: 0.765
+
+
+name: Niacin
+unit: mg
+value: 6.18
+label: oz, boneless
+value: 1.752
+label: cup
+value: 11.742
+label: cubic inch
+value: 0.989
+label: can (15 oz)
+value: 22.31
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.305
+label: oz, boneless
+value: 0.086
+label: cup
+value: 0.579
+label: cubic inch
+value: 0.049
+label: can (15 oz)
+value: 1.101
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.21
+label: oz, boneless
+value: 0.06
+label: cup
+value: 0.399
+label: cubic inch
+value: 0.034
+label: can (15 oz)
+value: 0.758
+
+
+name: Folate, total
+unit: \u00B5g
+value: 5.0
+label: oz, boneless
+value: 1.0
+label: cup
+value: 10.0
+label: cubic inch
+value: 1.0
+label: can (15 oz)
+value: 18.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: oz, boneless
+value: 0.0
+label: cup
+value: 0.0
+label: cubic inch
+value: 0.0
+label: can (15 oz)
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 5.0
+label: oz, boneless
+value: 1.0
+label: cup
+value: 10.0
+label: cubic inch
+value: 1.0
+label: can (15 oz)
+value: 18.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 5.0
+label: oz, boneless
+value: 1.0
+label: cup
+value: 10.0
+label: cubic inch
+value: 1.0
+label: can (15 oz)
+value: 18.0
+
+
+name: Choline, total
+unit: mg
+value: 85.0
+label: oz, boneless
+value: 24.1
+label: cup
+value: 161.5
+label: cubic inch
+value: 13.6
+label: can (15 oz)
+value: 306.8
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 6.94
+label: oz, boneless
+value: 1.97
+label: cup
+value: 13.19
+label: cubic inch
+value: 1.11
+label: can (15 oz)
+value: 25.05
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: oz, boneless
+value: 0.0
+label: cup
+value: 0.0
+label: cubic inch
+value: 0.0
+label: can (15 oz)
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 130.0
+label: oz, boneless
+value: 37.0
+label: cup
+value: 247.0
+label: cubic inch
+value: 21.0
+label: can (15 oz)
+value: 469.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 130.0
+label: oz, boneless
+value: 37.0
+label: cup
+value: 247.0
+label: cubic inch
+value: 21.0
+label: can (15 oz)
+value: 469.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 0.0
+label: oz, boneless
+value: 0.0
+label: cup
+value: 0.0
+label: cubic inch
+value: 0.0
+label: can (15 oz)
+value: 0.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: oz, boneless
+value: 0.0
+label: cup
+value: 0.0
+label: cubic inch
+value: 0.0
+label: can (15 oz)
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: oz, boneless
+value: 0.0
+label: cup
+value: 0.0
+label: cubic inch
+value: 0.0
+label: can (15 oz)
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 433.0
+label: oz, boneless
+value: 123.0
+label: cup
+value: 823.0
+label: cubic inch
+value: 69.0
+label: can (15 oz)
+value: 1563.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: oz, boneless
+value: 0.0
+label: cup
+value: 0.0
+label: cubic inch
+value: 0.0
+label: can (15 oz)
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 0.0
+label: oz, boneless
+value: 0.0
+label: cup
+value: 0.0
+label: cubic inch
+value: 0.0
+label: can (15 oz)
+value: 0.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 1.03
+label: oz, boneless
+value: 0.29
+label: cup
+value: 1.96
+label: cubic inch
+value: 0.16
+label: can (15 oz)
+value: 3.72
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: oz, boneless
+value: 0.0
+label: cup
+value: 0.0
+label: cubic inch
+value: 0.0
+label: can (15 oz)
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 7.3
+label: oz, boneless
+value: 2.1
+label: cup
+value: 13.9
+label: cubic inch
+value: 1.2
+label: can (15 oz)
+value: 26.4
+
+
+name: Vitamin D3 (cholecalciferol)
+unit: \u00B5g
+value: 7.3
+label: oz, boneless
+value: 2.1
+label: cup
+value: 13.9
+label: cubic inch
+value: 1.2
+label: can (15 oz)
+value: 26.4
+
+
+name: Vitamin D
+unit: IU
+value: 292.0
+label: oz, boneless
+value: 83.0
+label: cup
+value: 555.0
+label: cubic inch
+value: 47.0
+label: can (15 oz)
+value: 1054.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 0.1
+label: oz, boneless
+value: 0.0
+label: cup
+value: 0.2
+label: cubic inch
+value: 0.0
+label: can (15 oz)
+value: 0.4
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 1.857
+label: oz, boneless
+value: 0.526
+label: cup
+value: 3.528
+label: cubic inch
+value: 0.297
+label: can (15 oz)
+value: 6.704
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: oz, boneless
+value: 0.0
+label: cup
+value: 0.0
+label: cubic inch
+value: 0.0
+label: can (15 oz)
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: oz, boneless
+value: 0.0
+label: cup
+value: 0.0
+label: cubic inch
+value: 0.0
+label: can (15 oz)
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: oz, boneless
+value: 0.0
+label: cup
+value: 0.0
+label: cubic inch
+value: 0.0
+label: can (15 oz)
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: oz, boneless
+value: 0.0
+label: cup
+value: 0.0
+label: cubic inch
+value: 0.0
+label: can (15 oz)
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.007
+label: oz, boneless
+value: 0.002
+label: cup
+value: 0.013
+label: cubic inch
+value: 0.001
+label: can (15 oz)
+value: 0.025
+
+
+name: 14:0
+unit: g
+value: 0.289
+label: oz, boneless
+value: 0.082
+label: cup
+value: 0.549
+label: cubic inch
+value: 0.046
+label: can (15 oz)
+value: 1.043
+
+
+name: 16:0
+unit: g
+value: 1.185
+label: oz, boneless
+value: 0.336
+label: cup
+value: 2.252
+label: cubic inch
+value: 0.19
+label: can (15 oz)
+value: 4.278
+
+
+name: 18:0
+unit: g
+value: 0.376
+label: oz, boneless
+value: 0.107
+label: cup
+value: 0.714
+label: cubic inch
+value: 0.06
+label: can (15 oz)
+value: 1.357
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 2.225
+label: oz, boneless
+value: 0.631
+label: cup
+value: 4.228
+label: cubic inch
+value: 0.356
+label: can (15 oz)
+value: 8.032
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.4
+label: oz, boneless
+value: 0.113
+label: cup
+value: 0.76
+label: cubic inch
+value: 0.064
+label: can (15 oz)
+value: 1.444
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 1.132
+label: oz, boneless
+value: 0.321
+label: cup
+value: 2.151
+label: cubic inch
+value: 0.181
+label: can (15 oz)
+value: 4.087
+
+
+name: 20:1
+unit: g
+value: 0.278
+label: oz, boneless
+value: 0.079
+label: cup
+value: 0.528
+label: cubic inch
+value: 0.044
+label: can (15 oz)
+value: 1.004
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.414
+label: oz, boneless
+value: 0.117
+label: cup
+value: 0.787
+label: cubic inch
+value: 0.066
+label: can (15 oz)
+value: 1.495
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 1.651
+label: oz, boneless
+value: 0.468
+label: cup
+value: 3.137
+label: cubic inch
+value: 0.264
+label: can (15 oz)
+value: 5.96
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.099
+label: oz, boneless
+value: 0.028
+label: cup
+value: 0.188
+label: cubic inch
+value: 0.016
+label: can (15 oz)
+value: 0.357
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.043
+label: oz, boneless
+value: 0.012
+label: cup
+value: 0.082
+label: cubic inch
+value: 0.007
+label: can (15 oz)
+value: 0.155
+
+
+name: 18:4
+unit: g
+value: 0.106
+label: oz, boneless
+value: 0.03
+label: cup
+value: 0.201
+label: cubic inch
+value: 0.017
+label: can (15 oz)
+value: 0.383
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.069
+label: oz, boneless
+value: 0.02
+label: cup
+value: 0.131
+label: cubic inch
+value: 0.011
+label: can (15 oz)
+value: 0.249
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.434
+label: oz, boneless
+value: 0.123
+label: cup
+value: 0.825
+label: cubic inch
+value: 0.069
+label: can (15 oz)
+value: 1.567
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.104
+label: oz, boneless
+value: 0.029
+label: cup
+value: 0.198
+label: cubic inch
+value: 0.017
+label: can (15 oz)
+value: 0.375
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.796
+label: oz, boneless
+value: 0.226
+label: cup
+value: 1.512
+label: cubic inch
+value: 0.127
+label: can (15 oz)
+value: 2.874
+
+
+name: Cholesterol
+unit: mg
+value: 79.0
+label: oz, boneless
+value: 22.0
+label: cup
+value: 150.0
+label: cubic inch
+value: 13.0
+label: can (15 oz)
+value: 285.0
+
+
+name: Tryptophan
+unit: g
+value: 0.26
+label: oz, boneless
+value: 0.074
+label: cup
+value: 0.494
+label: cubic inch
+value: 0.042
+label: can (15 oz)
+value: 0.939
+
+
+name: Threonine
+unit: g
+value: 1.017
+label: oz, boneless
+value: 0.288
+label: cup
+value: 1.932
+label: cubic inch
+value: 0.163
+label: can (15 oz)
+value: 3.671
+
+
+name: Isoleucine
+unit: g
+value: 1.069
+label: oz, boneless
+value: 0.303
+label: cup
+value: 2.031
+label: cubic inch
+value: 0.171
+label: can (15 oz)
+value: 3.859
+
+
+name: Leucine
+unit: g
+value: 1.885
+label: oz, boneless
+value: 0.534
+label: cup
+value: 3.581
+label: cubic inch
+value: 0.302
+label: can (15 oz)
+value: 6.805
+
+
+name: Lysine
+unit: g
+value: 2.13
+label: oz, boneless
+value: 0.604
+label: cup
+value: 4.047
+label: cubic inch
+value: 0.341
+label: can (15 oz)
+value: 7.689
+
+
+name: Methionine
+unit: g
+value: 0.686
+label: oz, boneless
+value: 0.194
+label: cup
+value: 1.303
+label: cubic inch
+value: 0.11
+label: can (15 oz)
+value: 2.476
+
+
+name: Cystine
+unit: g
+value: 0.249
+label: oz, boneless
+value: 0.071
+label: cup
+value: 0.473
+label: cubic inch
+value: 0.04
+label: can (15 oz)
+value: 0.899
+
+
+name: Phenylalanine
+unit: g
+value: 0.905
+label: oz, boneless
+value: 0.257
+label: cup
+value: 1.72
+label: cubic inch
+value: 0.145
+label: can (15 oz)
+value: 3.267
+
+
+name: Tyrosine
+unit: g
+value: 0.783
+label: oz, boneless
+value: 0.222
+label: cup
+value: 1.488
+label: cubic inch
+value: 0.125
+label: can (15 oz)
+value: 2.827
+
+
+name: Valine
+unit: g
+value: 1.195
+label: oz, boneless
+value: 0.339
+label: cup
+value: 2.27
+label: cubic inch
+value: 0.191
+label: can (15 oz)
+value: 4.314
+
+
+name: Arginine
+unit: g
+value: 1.388
+label: oz, boneless
+value: 0.393
+label: cup
+value: 2.637
+label: cubic inch
+value: 0.222
+label: can (15 oz)
+value: 5.011
+
+
+name: Histidine
+unit: g
+value: 0.683
+label: oz, boneless
+value: 0.194
+label: cup
+value: 1.298
+label: cubic inch
+value: 0.109
+label: can (15 oz)
+value: 2.466
+
+
+name: Alanine
+unit: g
+value: 1.403
+label: oz, boneless
+value: 0.398
+label: cup
+value: 2.666
+label: cubic inch
+value: 0.224
+label: can (15 oz)
+value: 5.065
+
+
+name: Aspartic acid
+unit: g
+value: 2.375
+label: oz, boneless
+value: 0.673
+label: cup
+value: 4.512
+label: cubic inch
+value: 0.38
+label: can (15 oz)
+value: 8.574
+
+
+name: Glutamic acid
+unit: g
+value: 3.462
+label: oz, boneless
+value: 0.981
+label: cup
+value: 6.578
+label: cubic inch
+value: 0.554
+label: can (15 oz)
+value: 12.498
+
+
+name: Glycine
+unit: g
+value: 1.113
+label: oz, boneless
+value: 0.316
+label: cup
+value: 2.115
+label: cubic inch
+value: 0.178
+label: can (15 oz)
+value: 4.018
+
+
+name: Proline
+unit: g
+value: 0.82
+label: oz, boneless
+value: 0.232
+label: cup
+value: 1.558
+label: cubic inch
+value: 0.131
+label: can (15 oz)
+value: 2.96
+
+
+name: Serine
+unit: g
+value: 0.946
+label: oz, boneless
+value: 0.268
+label: cup
+value: 1.797
+label: cubic inch
+value: 0.151
+label: can (15 oz)
+value: 3.415
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: oz, boneless
+value: 0.0
+label: cup
+value: 0.0
+label: cubic inch
+value: 0.0
+label: can (15 oz)
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: oz, boneless
+value: 0.0
+label: cup
+value: 0.0
+label: cubic inch
+value: 0.0
+label: can (15 oz)
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: oz, boneless
+value: 0.0
+label: cup
+value: 0.0
+label: cubic inch
+value: 0.0
+label: can (15 oz)
+value: 0.0
+
+
+

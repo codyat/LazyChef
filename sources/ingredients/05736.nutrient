@@ -1,0 +1,952 @@
+ndbno: 05736
+
+
+name: Turkey, retail parts, drumstick, meat and skin, raw
+
+
+name: Water
+unit: g
+value: 73.37
+label: oz
+value: 62.36
+label: drumstick
+value: 261.2
+
+
+name: Energy
+unit: kcal
+value: 141.0
+label: oz
+value: 120.0
+label: drumstick
+value: 502.0
+
+
+name: Energy
+unit: kJ
+value: 592.0
+label: oz
+value: 503.0
+label: drumstick
+value: 2108.0
+
+
+name: Protein
+unit: g
+value: 19.96
+label: oz
+value: 16.97
+label: drumstick
+value: 71.06
+
+
+name: Total lipid (fat)
+unit: g
+value: 6.84
+label: oz
+value: 5.81
+label: drumstick
+value: 24.35
+
+
+name: Ash
+unit: g
+value: 0.88
+label: oz
+value: 0.75
+label: drumstick
+value: 3.13
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: drumstick
+value: 0.0
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: drumstick
+value: 0.0
+
+
+name: Sugars, total
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: drumstick
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 9.0
+label: oz
+value: 8.0
+label: drumstick
+value: 32.0
+
+
+name: Iron, Fe
+unit: mg
+value: 1.14
+label: oz
+value: 0.97
+label: drumstick
+value: 4.06
+
+
+name: Magnesium, Mg
+unit: mg
+value: 21.0
+label: oz
+value: 18.0
+label: drumstick
+value: 75.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 151.0
+label: oz
+value: 128.0
+label: drumstick
+value: 538.0
+
+
+name: Potassium, K
+unit: mg
+value: 208.0
+label: oz
+value: 177.0
+label: drumstick
+value: 740.0
+
+
+name: Sodium, Na
+unit: mg
+value: 86.0
+label: oz
+value: 73.0
+label: drumstick
+value: 306.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 2.92
+label: oz
+value: 2.48
+label: drumstick
+value: 10.4
+
+
+name: Copper, Cu
+unit: mg
+value: 0.079
+label: oz
+value: 0.067
+label: drumstick
+value: 0.281
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.006
+label: oz
+value: 0.005
+label: drumstick
+value: 0.021
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 20.3
+label: oz
+value: 17.3
+label: drumstick
+value: 72.3
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: drumstick
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.049
+label: oz
+value: 0.042
+label: drumstick
+value: 0.174
+
+
+name: Riboflavin
+unit: mg
+value: 0.28
+label: oz
+value: 0.238
+label: drumstick
+value: 0.997
+
+
+name: Niacin
+unit: mg
+value: 4.8
+label: oz
+value: 4.08
+label: drumstick
+value: 17.088
+
+
+name: Pantothenic acid
+unit: mg
+value: 1.054
+label: oz
+value: 0.896
+label: drumstick
+value: 3.752
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.339
+label: oz
+value: 0.288
+label: drumstick
+value: 1.207
+
+
+name: Folate, total
+unit: \u00B5g
+value: 6.0
+label: oz
+value: 5.0
+label: drumstick
+value: 21.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: drumstick
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 6.0
+label: oz
+value: 5.0
+label: drumstick
+value: 21.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 6.0
+label: oz
+value: 5.0
+label: drumstick
+value: 21.0
+
+
+name: Choline, total
+unit: mg
+value: 72.5
+label: oz
+value: 61.6
+label: drumstick
+value: 258.1
+
+
+name: Betaine
+unit: mg
+value: 5.6
+label: oz
+value: 4.8
+label: drumstick
+value: 19.9
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 1.9
+label: oz
+value: 1.62
+label: drumstick
+value: 6.76
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: drumstick
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 26.0
+label: oz
+value: 22.0
+label: drumstick
+value: 93.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 26.0
+label: oz
+value: 22.0
+label: drumstick
+value: 93.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: drumstick
+value: 0.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: drumstick
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: drumstick
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 86.0
+label: oz
+value: 73.0
+label: drumstick
+value: 306.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: drumstick
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 5.0
+label: oz
+value: 4.0
+label: drumstick
+value: 18.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.18
+label: oz
+value: 0.15
+label: drumstick
+value: 0.64
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: drumstick
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.5
+label: oz
+value: 0.4
+label: drumstick
+value: 1.8
+
+
+name: Vitamin D3 (cholecalciferol)
+unit: \u00B5g
+value: 0.5
+label: oz
+value: 0.4
+label: drumstick
+value: 1.8
+
+
+name: Vitamin D
+unit: IU
+value: 18.0
+label: oz
+value: 15.0
+label: drumstick
+value: 64.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: drumstick
+value: 0.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 1.896
+label: oz
+value: 1.612
+label: drumstick
+value: 6.75
+
+
+name: 4:0
+unit: g
+value: 0.001
+label: oz
+value: 0.001
+label: drumstick
+value: 0.004
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: drumstick
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: drumstick
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.005
+label: oz
+value: 0.004
+label: drumstick
+value: 0.018
+
+
+name: 12:0
+unit: g
+value: 0.015
+label: oz
+value: 0.013
+label: drumstick
+value: 0.053
+
+
+name: 14:0
+unit: g
+value: 0.061
+label: oz
+value: 0.052
+label: drumstick
+value: 0.217
+
+
+name: 15:0
+unit: g
+value: 0.007
+label: oz
+value: 0.006
+label: drumstick
+value: 0.025
+
+
+name: 16:0
+unit: g
+value: 1.288
+label: oz
+value: 1.095
+label: drumstick
+value: 4.585
+
+
+name: 17:0
+unit: g
+value: 0.016
+label: oz
+value: 0.014
+label: drumstick
+value: 0.057
+
+
+name: 18:0
+unit: g
+value: 0.484
+label: oz
+value: 0.411
+label: drumstick
+value: 1.723
+
+
+name: 20:0
+unit: g
+value: 0.008
+label: oz
+value: 0.007
+label: drumstick
+value: 0.028
+
+
+name: 22:0
+unit: g
+value: 0.007
+label: oz
+value: 0.006
+label: drumstick
+value: 0.025
+
+
+name: 24:0
+unit: g
+value: 0.003
+label: oz
+value: 0.003
+label: drumstick
+value: 0.011
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 2.314
+label: oz
+value: 1.967
+label: drumstick
+value: 8.238
+
+
+name: 14:1
+unit: g
+value: 0.012
+label: oz
+value: 0.01
+label: drumstick
+value: 0.043
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: drumstick
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.249
+label: oz
+value: 0.212
+label: drumstick
+value: 0.886
+
+
+name: 17:1
+unit: g
+value: 0.009
+label: oz
+value: 0.008
+label: drumstick
+value: 0.032
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 2.006
+label: oz
+value: 1.705
+label: drumstick
+value: 7.141
+
+
+name: 20:1
+unit: g
+value: 0.03
+label: oz
+value: 0.026
+label: drumstick
+value: 0.107
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.005
+label: oz
+value: 0.004
+label: drumstick
+value: 0.018
+
+
+name: 24:1 c
+unit: g
+value: 0.003
+label: oz
+value: 0.003
+label: drumstick
+value: 0.011
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 1.958
+label: oz
+value: 1.664
+label: drumstick
+value: 6.97
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 1.677
+label: oz
+value: 1.425
+label: drumstick
+value: 5.97
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.109
+label: oz
+value: 0.093
+label: drumstick
+value: 0.388
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: drumstick
+value: 0.0
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.012
+label: oz
+value: 0.01
+label: drumstick
+value: 0.043
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.009
+label: oz
+value: 0.008
+label: drumstick
+value: 0.032
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.107
+label: oz
+value: 0.091
+label: drumstick
+value: 0.381
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.003
+label: oz
+value: 0.003
+label: drumstick
+value: 0.011
+
+
+name: 22:4
+unit: g
+value: 0.023
+label: oz
+value: 0.02
+label: drumstick
+value: 0.082
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.01
+label: oz
+value: 0.008
+label: drumstick
+value: 0.036
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.007
+label: oz
+value: 0.006
+label: drumstick
+value: 0.025
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.078
+label: oz
+value: 0.066
+label: drumstick
+value: 0.278
+
+
+name: Cholesterol
+unit: mg
+value: 82.0
+label: oz
+value: 70.0
+label: drumstick
+value: 292.0
+
+
+name: Tryptophan
+unit: g
+value: 0.204
+label: oz
+value: 0.173
+label: drumstick
+value: 0.726
+
+
+name: Threonine
+unit: g
+value: 0.709
+label: oz
+value: 0.603
+label: drumstick
+value: 2.524
+
+
+name: Isoleucine
+unit: g
+value: 0.559
+label: oz
+value: 0.475
+label: drumstick
+value: 1.99
+
+
+name: Leucine
+unit: g
+value: 1.349
+label: oz
+value: 1.147
+label: drumstick
+value: 4.802
+
+
+name: Lysine
+unit: g
+value: 1.608
+label: oz
+value: 1.367
+label: drumstick
+value: 5.724
+
+
+name: Methionine
+unit: g
+value: 0.506
+label: oz
+value: 0.43
+label: drumstick
+value: 1.801
+
+
+name: Cystine
+unit: g
+value: 0.184
+label: oz
+value: 0.156
+label: drumstick
+value: 0.655
+
+
+name: Phenylalanine
+unit: g
+value: 0.633
+label: oz
+value: 0.538
+label: drumstick
+value: 2.253
+
+
+name: Tyrosine
+unit: g
+value: 0.574
+label: oz
+value: 0.488
+label: drumstick
+value: 2.043
+
+
+name: Valine
+unit: g
+value: 0.629
+label: oz
+value: 0.535
+label: drumstick
+value: 2.239
+
+
+name: Arginine
+unit: g
+value: 1.138
+label: oz
+value: 0.967
+label: drumstick
+value: 4.051
+
+
+name: Histidine
+unit: g
+value: 0.523
+label: oz
+value: 0.445
+label: drumstick
+value: 1.862
+
+
+name: Alanine
+unit: g
+value: 1.096
+label: oz
+value: 0.932
+label: drumstick
+value: 3.902
+
+
+name: Aspartic acid
+unit: g
+value: 1.566
+label: oz
+value: 1.331
+label: drumstick
+value: 5.575
+
+
+name: Glutamic acid
+unit: g
+value: 2.654
+label: oz
+value: 2.256
+label: drumstick
+value: 9.448
+
+
+name: Glycine
+unit: g
+value: 0.979
+label: oz
+value: 0.832
+label: drumstick
+value: 3.485
+
+
+name: Proline
+unit: g
+value: 1.129
+label: oz
+value: 0.96
+label: drumstick
+value: 4.019
+
+
+name: Serine
+unit: g
+value: 0.777
+label: oz
+value: 0.66
+label: drumstick
+value: 2.766
+
+
+name: Hydroxyproline
+unit: g
+value: 0.22
+label: oz
+value: 0.187
+label: drumstick
+value: 0.783
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: drumstick
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: drumstick
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: drumstick
+value: 0.0
+
+
+

@@ -1,0 +1,772 @@
+ndbno: 11273
+
+
+name: Mustard greens, frozen, cooked, boiled, drained, without salt
+
+
+name: Water
+unit: g
+value: 93.8
+label: cup, chopped
+value: 140.7
+label: package (10 oz) yields
+value: 198.86
+
+
+name: Energy
+unit: kcal
+value: 19.0
+label: cup, chopped
+value: 28.0
+label: package (10 oz) yields
+value: 40.0
+
+
+name: Energy
+unit: kJ
+value: 78.0
+label: cup, chopped
+value: 117.0
+label: package (10 oz) yields
+value: 165.0
+
+
+name: Protein
+unit: g
+value: 2.27
+label: cup, chopped
+value: 3.4
+label: package (10 oz) yields
+value: 4.81
+
+
+name: Total lipid (fat)
+unit: g
+value: 0.25
+label: cup, chopped
+value: 0.38
+label: package (10 oz) yields
+value: 0.53
+
+
+name: Ash
+unit: g
+value: 0.57
+label: cup, chopped
+value: 0.85
+label: package (10 oz) yields
+value: 1.21
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 3.11
+label: cup, chopped
+value: 4.66
+label: package (10 oz) yields
+value: 6.59
+
+
+name: Fiber, total dietary
+unit: g
+value: 2.8
+label: cup, chopped
+value: 4.2
+label: package (10 oz) yields
+value: 5.9
+
+
+name: Sugars, total
+unit: g
+value: 0.32
+label: cup, chopped
+value: 0.48
+label: package (10 oz) yields
+value: 0.68
+
+
+name: Calcium, Ca
+unit: mg
+value: 101.0
+label: cup, chopped
+value: 152.0
+label: package (10 oz) yields
+value: 214.0
+
+
+name: Iron, Fe
+unit: mg
+value: 1.12
+label: cup, chopped
+value: 1.68
+label: package (10 oz) yields
+value: 2.37
+
+
+name: Magnesium, Mg
+unit: mg
+value: 13.0
+label: cup, chopped
+value: 20.0
+label: package (10 oz) yields
+value: 28.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 24.0
+label: cup, chopped
+value: 36.0
+label: package (10 oz) yields
+value: 51.0
+
+
+name: Potassium, K
+unit: mg
+value: 139.0
+label: cup, chopped
+value: 208.0
+label: package (10 oz) yields
+value: 295.0
+
+
+name: Sodium, Na
+unit: mg
+value: 25.0
+label: cup, chopped
+value: 38.0
+label: package (10 oz) yields
+value: 53.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.2
+label: cup, chopped
+value: 0.3
+label: package (10 oz) yields
+value: 0.42
+
+
+name: Copper, Cu
+unit: mg
+value: 0.058
+label: cup, chopped
+value: 0.087
+label: package (10 oz) yields
+value: 0.123
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.294
+label: cup, chopped
+value: 0.441
+label: package (10 oz) yields
+value: 0.623
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 0.6
+label: cup, chopped
+value: 0.9
+label: package (10 oz) yields
+value: 1.3
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 13.8
+label: cup, chopped
+value: 20.7
+label: package (10 oz) yields
+value: 29.3
+
+
+name: Thiamin
+unit: mg
+value: 0.04
+label: cup, chopped
+value: 0.06
+label: package (10 oz) yields
+value: 0.085
+
+
+name: Riboflavin
+unit: mg
+value: 0.053
+label: cup, chopped
+value: 0.08
+label: package (10 oz) yields
+value: 0.112
+
+
+name: Niacin
+unit: mg
+value: 0.258
+label: cup, chopped
+value: 0.387
+label: package (10 oz) yields
+value: 0.547
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.016
+label: cup, chopped
+value: 0.024
+label: package (10 oz) yields
+value: 0.034
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.108
+label: cup, chopped
+value: 0.162
+label: package (10 oz) yields
+value: 0.229
+
+
+name: Folate, total
+unit: \u00B5g
+value: 70.0
+label: cup, chopped
+value: 105.0
+label: package (10 oz) yields
+value: 148.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: package (10 oz) yields
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 70.0
+label: cup, chopped
+value: 105.0
+label: package (10 oz) yields
+value: 148.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 70.0
+label: cup, chopped
+value: 105.0
+label: package (10 oz) yields
+value: 148.0
+
+
+name: Choline, total
+unit: mg
+value: 0.3
+label: cup, chopped
+value: 0.4
+label: package (10 oz) yields
+value: 0.6
+
+
+name: Betaine
+unit: mg
+value: 0.2
+label: cup, chopped
+value: 0.3
+label: package (10 oz) yields
+value: 0.4
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: package (10 oz) yields
+value: 0.0
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: package (10 oz) yields
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 354.0
+label: cup, chopped
+value: 531.0
+label: package (10 oz) yields
+value: 750.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: package (10 oz) yields
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 4246.0
+label: cup, chopped
+value: 6369.0
+label: package (10 oz) yields
+value: 9002.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: package (10 oz) yields
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: package (10 oz) yields
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 7076.0
+label: cup, chopped
+value: 10614.0
+label: package (10 oz) yields
+value: 15001.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: package (10 oz) yields
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 6672.0
+label: cup, chopped
+value: 10008.0
+label: package (10 oz) yields
+value: 14145.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 1.35
+label: cup, chopped
+value: 2.02
+label: package (10 oz) yields
+value: 2.86
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: package (10 oz) yields
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: package (10 oz) yields
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: package (10 oz) yields
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 335.1
+label: cup, chopped
+value: 502.6
+label: package (10 oz) yields
+value: 710.4
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.013
+label: cup, chopped
+value: 0.02
+label: package (10 oz) yields
+value: 0.028
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: package (10 oz) yields
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: package (10 oz) yields
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: package (10 oz) yields
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: package (10 oz) yields
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: package (10 oz) yields
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: package (10 oz) yields
+value: 0.0
+
+
+name: 16:0
+unit: g
+value: 0.006
+label: cup, chopped
+value: 0.009
+label: package (10 oz) yields
+value: 0.013
+
+
+name: 18:0
+unit: g
+value: 0.002
+label: cup, chopped
+value: 0.003
+label: package (10 oz) yields
+value: 0.004
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.113
+label: cup, chopped
+value: 0.169
+label: package (10 oz) yields
+value: 0.24
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.001
+label: cup, chopped
+value: 0.002
+label: package (10 oz) yields
+value: 0.002
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.018
+label: cup, chopped
+value: 0.027
+label: package (10 oz) yields
+value: 0.038
+
+
+name: 20:1
+unit: g
+value: 0.023
+label: cup, chopped
+value: 0.034
+label: package (10 oz) yields
+value: 0.049
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.071
+label: cup, chopped
+value: 0.106
+label: package (10 oz) yields
+value: 0.151
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.047
+label: cup, chopped
+value: 0.07
+label: package (10 oz) yields
+value: 0.1
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.024
+label: cup, chopped
+value: 0.036
+label: package (10 oz) yields
+value: 0.051
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.022
+label: cup, chopped
+value: 0.033
+label: package (10 oz) yields
+value: 0.047
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: package (10 oz) yields
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: package (10 oz) yields
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: package (10 oz) yields
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: package (10 oz) yields
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: package (10 oz) yields
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: package (10 oz) yields
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: package (10 oz) yields
+value: 0.0
+
+
+name: Tryptophan
+unit: g
+value: 0.025
+label: cup, chopped
+value: 0.038
+label: package (10 oz) yields
+value: 0.053
+
+
+name: Threonine
+unit: g
+value: 0.06
+label: cup, chopped
+value: 0.09
+label: package (10 oz) yields
+value: 0.127
+
+
+name: Isoleucine
+unit: g
+value: 0.083
+label: cup, chopped
+value: 0.125
+label: package (10 oz) yields
+value: 0.176
+
+
+name: Leucine
+unit: g
+value: 0.07
+label: cup, chopped
+value: 0.105
+label: package (10 oz) yields
+value: 0.148
+
+
+name: Lysine
+unit: g
+value: 0.103
+label: cup, chopped
+value: 0.154
+label: package (10 oz) yields
+value: 0.218
+
+
+name: Methionine
+unit: g
+value: 0.021
+label: cup, chopped
+value: 0.032
+label: package (10 oz) yields
+value: 0.045
+
+
+name: Cystine
+unit: g
+value: 0.034
+label: cup, chopped
+value: 0.051
+label: package (10 oz) yields
+value: 0.072
+
+
+name: Phenylalanine
+unit: g
+value: 0.06
+label: cup, chopped
+value: 0.09
+label: package (10 oz) yields
+value: 0.127
+
+
+name: Tyrosine
+unit: g
+value: 0.12
+label: cup, chopped
+value: 0.18
+label: package (10 oz) yields
+value: 0.254
+
+
+name: Valine
+unit: g
+value: 0.088
+label: cup, chopped
+value: 0.132
+label: package (10 oz) yields
+value: 0.187
+
+
+name: Arginine
+unit: g
+value: 0.166
+label: cup, chopped
+value: 0.249
+label: package (10 oz) yields
+value: 0.352
+
+
+name: Histidine
+unit: g
+value: 0.041
+label: cup, chopped
+value: 0.062
+label: package (10 oz) yields
+value: 0.087
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: package (10 oz) yields
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: package (10 oz) yields
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: package (10 oz) yields
+value: 0.0
+
+
+

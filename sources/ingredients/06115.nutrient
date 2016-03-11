@@ -1,0 +1,392 @@
+ndbno: 06115
+
+
+name: Gravy, au jus, dry
+
+
+name: Water
+unit: g
+value: 2.74
+label: tsp
+value: 0.08
+
+
+name: Energy
+unit: kcal
+value: 313.0
+label: tsp
+value: 9.0
+
+
+name: Energy
+unit: kJ
+value: 1310.0
+label: tsp
+value: 39.0
+
+
+name: Protein
+unit: g
+value: 9.2
+label: tsp
+value: 0.28
+
+
+name: Total lipid (fat)
+unit: g
+value: 9.63
+label: tsp
+value: 0.29
+
+
+name: Ash
+unit: g
+value: 30.94
+label: tsp
+value: 0.93
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 47.49
+label: tsp
+value: 1.42
+
+
+name: Calcium, Ca
+unit: mg
+value: 140.0
+label: tsp
+value: 4.0
+
+
+name: Iron, Fe
+unit: mg
+value: 9.3
+label: tsp
+value: 0.28
+
+
+name: Magnesium, Mg
+unit: mg
+value: 56.0
+label: tsp
+value: 2.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 153.0
+label: tsp
+value: 5.0
+
+
+name: Potassium, K
+unit: mg
+value: 279.0
+label: tsp
+value: 8.0
+
+
+name: Sodium, Na
+unit: mg
+value: 11588.0
+label: tsp
+value: 348.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.7
+label: tsp
+value: 0.02
+
+
+name: Copper, Cu
+unit: mg
+value: 0.12
+label: tsp
+value: 0.004
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.268
+label: tsp
+value: 0.008
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 6.2
+label: tsp
+value: 0.2
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 1.0
+label: tsp
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.472
+label: tsp
+value: 0.014
+
+
+name: Riboflavin
+unit: mg
+value: 0.324
+label: tsp
+value: 0.01
+
+
+name: Niacin
+unit: mg
+value: 4.087
+label: tsp
+value: 0.123
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.157
+label: tsp
+value: 0.005
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.174
+label: tsp
+value: 0.005
+
+
+name: Folate, total
+unit: \u00B5g
+value: 81.0
+label: tsp
+value: 2.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: tsp
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 81.0
+label: tsp
+value: 2.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 81.0
+label: tsp
+value: 2.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.32
+label: tsp
+value: 0.01
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 0.0
+label: tsp
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: tsp
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 10.0
+label: tsp
+value: 0.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 2.026
+label: tsp
+value: 0.061
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: tsp
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: tsp
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: tsp
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: tsp
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.01
+label: tsp
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.128
+label: tsp
+value: 0.004
+
+
+name: 16:0
+unit: g
+value: 1.039
+label: tsp
+value: 0.031
+
+
+name: 18:0
+unit: g
+value: 0.768
+label: tsp
+value: 0.023
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 4.683
+label: tsp
+value: 0.14
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.11
+label: tsp
+value: 0.003
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 1.989
+label: tsp
+value: 0.06
+
+
+name: 20:1
+unit: g
+value: 0.009
+label: tsp
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: tsp
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.23
+label: tsp
+value: 0.007
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.205
+label: tsp
+value: 0.006
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.024
+label: tsp
+value: 0.001
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: tsp
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: tsp
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: tsp
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: tsp
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: tsp
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 4.0
+label: tsp
+value: 0.0
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: tsp
+value: 0.0
+
+
+

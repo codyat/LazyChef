@@ -1,0 +1,951 @@
+ndbno: 28346
+
+
+name: Waffles, gluten-free, frozen, ready-to-heat
+
+
+name: Water
+unit: g
+value: 43.37
+label: waffle
+value: 19.52
+label: box
+value: 104.96
+
+
+name: Energy
+unit: kcal
+value: 263.0
+label: waffle
+value: 118.0
+label: box
+value: 636.0
+
+
+name: Energy
+unit: kJ
+value: 1099.0
+label: waffle
+value: 495.0
+label: box
+value: 2660.0
+
+
+name: Protein
+unit: g
+value: 2.72
+label: waffle
+value: 1.22
+label: box
+value: 6.58
+
+
+name: Total lipid (fat)
+unit: g
+value: 8.84
+label: waffle
+value: 3.98
+label: box
+value: 21.39
+
+
+name: Ash
+unit: g
+value: 2.02
+label: waffle
+value: 0.91
+label: box
+value: 4.89
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 43.05
+label: waffle
+value: 19.37
+label: box
+value: 104.18
+
+
+name: Fiber, total dietary
+unit: g
+value: 1.4
+label: waffle
+value: 0.6
+label: box
+value: 3.4
+
+
+name: Sugars, total
+unit: g
+value: 1.73
+label: waffle
+value: 0.78
+label: box
+value: 4.19
+
+
+name: Sucrose
+unit: g
+value: 0.79
+label: waffle
+value: 0.36
+label: box
+value: 1.91
+
+
+name: Glucose (dextrose)
+unit: g
+value: 0.43
+label: waffle
+value: 0.19
+label: box
+value: 1.04
+
+
+name: Fructose
+unit: g
+value: 0.5
+label: waffle
+value: 0.22
+label: box
+value: 1.21
+
+
+name: Lactose
+unit: g
+value: 0.0
+label: waffle
+value: 0.0
+label: box
+value: 0.0
+
+
+name: Maltose
+unit: g
+value: 0.0
+label: waffle
+value: 0.0
+label: box
+value: 0.0
+
+
+name: Galactose
+unit: g
+value: 0.0
+label: waffle
+value: 0.0
+label: box
+value: 0.0
+
+
+name: Starch
+unit: g
+value: 39.9
+label: waffle
+value: 17.96
+label: box
+value: 96.56
+
+
+name: Calcium, Ca
+unit: mg
+value: 40.0
+label: waffle
+value: 18.0
+label: box
+value: 97.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.63
+label: waffle
+value: 0.28
+label: box
+value: 1.52
+
+
+name: Magnesium, Mg
+unit: mg
+value: 31.0
+label: waffle
+value: 14.0
+label: box
+value: 75.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 359.0
+label: waffle
+value: 162.0
+label: box
+value: 869.0
+
+
+name: Potassium, K
+unit: mg
+value: 124.0
+label: waffle
+value: 56.0
+label: box
+value: 300.0
+
+
+name: Sodium, Na
+unit: mg
+value: 505.0
+label: waffle
+value: 227.0
+label: box
+value: 1222.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.5
+label: waffle
+value: 0.22
+label: box
+value: 1.21
+
+
+name: Copper, Cu
+unit: mg
+value: 0.089
+label: waffle
+value: 0.04
+label: box
+value: 0.215
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.781
+label: waffle
+value: 0.351
+label: box
+value: 1.89
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 0.4
+label: waffle
+value: 0.2
+label: box
+value: 1.0
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: waffle
+value: 0.0
+label: box
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.08
+label: waffle
+value: 0.036
+label: box
+value: 0.194
+
+
+name: Riboflavin
+unit: mg
+value: 0.04
+label: waffle
+value: 0.018
+label: box
+value: 0.097
+
+
+name: Niacin
+unit: mg
+value: 1.803
+label: waffle
+value: 0.811
+label: box
+value: 4.363
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.48
+label: waffle
+value: 0.216
+label: box
+value: 1.162
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.067
+label: waffle
+value: 0.03
+label: box
+value: 0.162
+
+
+name: Folate, total
+unit: \u00B5g
+value: 8.0
+label: waffle
+value: 4.0
+label: box
+value: 19.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: waffle
+value: 0.0
+label: box
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 8.0
+label: waffle
+value: 4.0
+label: box
+value: 19.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 8.0
+label: waffle
+value: 4.0
+label: box
+value: 19.0
+
+
+name: Choline, total
+unit: mg
+value: 15.5
+label: waffle
+value: 7.0
+label: box
+value: 37.5
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 2.68
+label: waffle
+value: 1.21
+label: box
+value: 6.49
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 2.46
+label: waffle
+value: 1.11
+label: box
+value: 5.95
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 0.0
+label: waffle
+value: 0.0
+label: box
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: waffle
+value: 0.0
+label: box
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 1.0
+label: waffle
+value: 0.0
+label: box
+value: 2.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: waffle
+value: 0.0
+label: box
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 1.0
+label: waffle
+value: 0.0
+label: box
+value: 2.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 3.0
+label: waffle
+value: 1.0
+label: box
+value: 7.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: waffle
+value: 0.0
+label: box
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 44.0
+label: waffle
+value: 20.0
+label: box
+value: 106.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.96
+label: waffle
+value: 0.43
+label: box
+value: 2.32
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: waffle
+value: 0.0
+label: box
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: waffle
+value: 0.0
+label: box
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: waffle
+value: 0.0
+label: box
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 6.9
+label: waffle
+value: 3.1
+label: box
+value: 16.7
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.781
+label: waffle
+value: 0.351
+label: box
+value: 1.89
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: waffle
+value: 0.0
+label: box
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.004
+label: waffle
+value: 0.002
+label: box
+value: 0.01
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: waffle
+value: 0.0
+label: box
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.013
+label: waffle
+value: 0.006
+label: box
+value: 0.031
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: waffle
+value: 0.0
+label: box
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.013
+label: waffle
+value: 0.006
+label: box
+value: 0.031
+
+
+name: 15:0
+unit: g
+value: 0.004
+label: waffle
+value: 0.002
+label: box
+value: 0.01
+
+
+name: 16:0
+unit: g
+value: 0.503
+label: waffle
+value: 0.226
+label: box
+value: 1.217
+
+
+name: 17:0
+unit: g
+value: 0.005
+label: waffle
+value: 0.002
+label: box
+value: 0.012
+
+
+name: 18:0
+unit: g
+value: 0.17
+label: waffle
+value: 0.076
+label: box
+value: 0.411
+
+
+name: 20:0
+unit: g
+value: 0.041
+label: waffle
+value: 0.018
+label: box
+value: 0.099
+
+
+name: 22:0
+unit: g
+value: 0.013
+label: waffle
+value: 0.006
+label: box
+value: 0.031
+
+
+name: 24:0
+unit: g
+value: 0.015
+label: waffle
+value: 0.007
+label: box
+value: 0.036
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 4.456
+label: waffle
+value: 2.005
+label: box
+value: 10.784
+
+
+name: 14:1
+unit: g
+value: 0.0
+label: waffle
+value: 0.0
+label: box
+value: 0.0
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: waffle
+value: 0.0
+label: box
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.014
+label: waffle
+value: 0.006
+label: box
+value: 0.034
+
+
+name: 16:1 c
+unit: g
+value: 0.014
+label: waffle
+value: 0.006
+label: box
+value: 0.034
+
+
+name: 16:1 t
+unit: g
+value: 0.0
+label: waffle
+value: 0.0
+label: box
+value: 0.0
+
+
+name: 17:1
+unit: g
+value: 0.006
+label: waffle
+value: 0.003
+label: box
+value: 0.015
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 4.334
+label: waffle
+value: 1.95
+label: box
+value: 10.488
+
+
+name: 18:1 c
+unit: g
+value: 4.328
+label: waffle
+value: 1.948
+label: box
+value: 10.474
+
+
+name: 18:1 t
+unit: g
+value: 0.006
+label: waffle
+value: 0.003
+label: box
+value: 0.015
+
+
+name: 20:1
+unit: g
+value: 0.09
+label: waffle
+value: 0.04
+label: box
+value: 0.218
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.002
+label: waffle
+value: 0.001
+label: box
+value: 0.005
+
+
+name: 22:1 c
+unit: g
+value: 0.002
+label: waffle
+value: 0.001
+label: box
+value: 0.005
+
+
+name: 22:1 t
+unit: g
+value: 0.0
+label: waffle
+value: 0.0
+label: box
+value: 0.0
+
+
+name: 24:1 c
+unit: g
+value: 0.009
+label: waffle
+value: 0.004
+label: box
+value: 0.022
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 2.375
+label: waffle
+value: 1.069
+label: box
+value: 5.748
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 1.594
+label: waffle
+value: 0.717
+label: box
+value: 3.857
+
+
+name: 18:2 n-6 c,c
+unit: g
+value: 1.585
+label: waffle
+value: 0.713
+label: box
+value: 3.836
+
+
+name: 18:2 CLAs
+unit: g
+value: 0.005
+label: waffle
+value: 0.002
+label: box
+value: 0.012
+
+
+name: 18:2 t not further defined
+unit: g
+value: 0.004
+label: waffle
+value: 0.002
+label: box
+value: 0.01
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.77
+label: waffle
+value: 0.346
+label: box
+value: 1.863
+
+
+name: 18:3 n-3 c,c,c (ALA)
+unit: g
+value: 0.766
+label: waffle
+value: 0.345
+label: box
+value: 1.854
+
+
+name: 18:3 n-6 c,c,c
+unit: g
+value: 0.004
+label: waffle
+value: 0.002
+label: box
+value: 0.01
+
+
+name: 18:3i
+unit: g
+value: 0.0
+label: waffle
+value: 0.0
+label: box
+value: 0.0
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: waffle
+value: 0.0
+label: box
+value: 0.0
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.005
+label: waffle
+value: 0.002
+label: box
+value: 0.012
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.0
+label: waffle
+value: 0.0
+label: box
+value: 0.0
+
+
+name: 20:3 n-6
+unit: g
+value: 0.0
+label: waffle
+value: 0.0
+label: box
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.002
+label: waffle
+value: 0.001
+label: box
+value: 0.005
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.003
+label: waffle
+value: 0.001
+label: box
+value: 0.007
+
+
+name: 22:4
+unit: g
+value: 0.0
+label: waffle
+value: 0.0
+label: box
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: waffle
+value: 0.0
+label: box
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: waffle
+value: 0.0
+label: box
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.01
+label: waffle
+value: 0.005
+label: box
+value: 0.024
+
+
+name: Fatty acids, total trans-monoenoic
+unit: g
+value: 0.006
+label: waffle
+value: 0.003
+label: box
+value: 0.015
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: waffle
+value: 0.0
+label: box
+value: 0.0
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: waffle
+value: 0.0
+label: box
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: waffle
+value: 0.0
+label: box
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: waffle
+value: 0.0
+label: box
+value: 0.0
+
+

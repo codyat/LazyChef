@@ -1,0 +1,924 @@
+ndbno: 17346
+
+
+name: Game meat, deer, shoulder clod, separable lean only, cooked, braised
+
+
+name: Water
+unit: g
+value: 59.78
+label: serving ( 3 oz )
+value: 50.81
+label: roast (3 to 5 lb roast)
+value: 175.16
+
+
+name: Energy
+unit: kcal
+value: 191.0
+label: serving ( 3 oz )
+value: 162.0
+label: roast (3 to 5 lb roast)
+value: 560.0
+
+
+name: Energy
+unit: kJ
+value: 797.0
+label: serving ( 3 oz )
+value: 677.0
+label: roast (3 to 5 lb roast)
+value: 2335.0
+
+
+name: Protein
+unit: g
+value: 36.28
+label: serving ( 3 oz )
+value: 30.84
+label: roast (3 to 5 lb roast)
+value: 106.3
+
+
+name: Total lipid (fat)
+unit: g
+value: 3.95
+label: serving ( 3 oz )
+value: 3.36
+label: roast (3 to 5 lb roast)
+value: 11.57
+
+
+name: Ash
+unit: g
+value: 1.12
+label: serving ( 3 oz )
+value: 0.95
+label: roast (3 to 5 lb roast)
+value: 3.28
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: roast (3 to 5 lb roast)
+value: 0.0
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: roast (3 to 5 lb roast)
+value: 0.0
+
+
+name: Sugars, total
+unit: g
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: roast (3 to 5 lb roast)
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 6.0
+label: serving ( 3 oz )
+value: 5.0
+label: roast (3 to 5 lb roast)
+value: 18.0
+
+
+name: Iron, Fe
+unit: mg
+value: 5.01
+label: serving ( 3 oz )
+value: 4.26
+label: roast (3 to 5 lb roast)
+value: 14.68
+
+
+name: Magnesium, Mg
+unit: mg
+value: 28.0
+label: serving ( 3 oz )
+value: 24.0
+label: roast (3 to 5 lb roast)
+value: 82.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 261.0
+label: serving ( 3 oz )
+value: 222.0
+label: roast (3 to 5 lb roast)
+value: 765.0
+
+
+name: Potassium, K
+unit: mg
+value: 313.0
+label: serving ( 3 oz )
+value: 266.0
+label: roast (3 to 5 lb roast)
+value: 917.0
+
+
+name: Sodium, Na
+unit: mg
+value: 52.0
+label: serving ( 3 oz )
+value: 44.0
+label: roast (3 to 5 lb roast)
+value: 152.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 8.64
+label: serving ( 3 oz )
+value: 7.34
+label: roast (3 to 5 lb roast)
+value: 25.32
+
+
+name: Copper, Cu
+unit: mg
+value: 0.285
+label: serving ( 3 oz )
+value: 0.242
+label: roast (3 to 5 lb roast)
+value: 0.835
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.026
+label: serving ( 3 oz )
+value: 0.022
+label: roast (3 to 5 lb roast)
+value: 0.076
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 17.7
+label: serving ( 3 oz )
+value: 15.0
+label: roast (3 to 5 lb roast)
+value: 51.9
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: roast (3 to 5 lb roast)
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.153
+label: serving ( 3 oz )
+value: 0.13
+label: roast (3 to 5 lb roast)
+value: 0.448
+
+
+name: Riboflavin
+unit: mg
+value: 0.657
+label: serving ( 3 oz )
+value: 0.558
+label: roast (3 to 5 lb roast)
+value: 1.925
+
+
+name: Niacin
+unit: mg
+value: 7.43
+label: serving ( 3 oz )
+value: 6.315
+label: roast (3 to 5 lb roast)
+value: 21.77
+
+
+name: Pantothenic acid
+unit: mg
+value: 1.025
+label: serving ( 3 oz )
+value: 0.871
+label: roast (3 to 5 lb roast)
+value: 3.003
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.481
+label: serving ( 3 oz )
+value: 0.409
+label: roast (3 to 5 lb roast)
+value: 1.409
+
+
+name: Folate, total
+unit: \u00B5g
+value: 11.0
+label: serving ( 3 oz )
+value: 9.0
+label: roast (3 to 5 lb roast)
+value: 32.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: roast (3 to 5 lb roast)
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 11.0
+label: serving ( 3 oz )
+value: 9.0
+label: roast (3 to 5 lb roast)
+value: 32.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 11.0
+label: serving ( 3 oz )
+value: 9.0
+label: roast (3 to 5 lb roast)
+value: 32.0
+
+
+name: Choline, total
+unit: mg
+value: 134.1
+label: serving ( 3 oz )
+value: 114.0
+label: roast (3 to 5 lb roast)
+value: 392.9
+
+
+name: Betaine
+unit: mg
+value: 17.6
+label: serving ( 3 oz )
+value: 15.0
+label: roast (3 to 5 lb roast)
+value: 51.6
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 3.06
+label: serving ( 3 oz )
+value: 2.6
+label: roast (3 to 5 lb roast)
+value: 8.97
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: roast (3 to 5 lb roast)
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: roast (3 to 5 lb roast)
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: roast (3 to 5 lb roast)
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: roast (3 to 5 lb roast)
+value: 0.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: roast (3 to 5 lb roast)
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: roast (3 to 5 lb roast)
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: roast (3 to 5 lb roast)
+value: 0.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: roast (3 to 5 lb roast)
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: roast (3 to 5 lb roast)
+value: 0.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.75
+label: serving ( 3 oz )
+value: 0.64
+label: roast (3 to 5 lb roast)
+value: 2.2
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: roast (3 to 5 lb roast)
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: roast (3 to 5 lb roast)
+value: 0.0
+
+
+name: Vitamin D3 (cholecalciferol)
+unit: \u00B5g
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: roast (3 to 5 lb roast)
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: roast (3 to 5 lb roast)
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 1.5
+label: serving ( 3 oz )
+value: 1.3
+label: roast (3 to 5 lb roast)
+value: 4.4
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 2.239
+label: serving ( 3 oz )
+value: 1.903
+label: roast (3 to 5 lb roast)
+value: 6.56
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: roast (3 to 5 lb roast)
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: roast (3 to 5 lb roast)
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: roast (3 to 5 lb roast)
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: roast (3 to 5 lb roast)
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.004
+label: serving ( 3 oz )
+value: 0.003
+label: roast (3 to 5 lb roast)
+value: 0.012
+
+
+name: 14:0
+unit: g
+value: 0.143
+label: serving ( 3 oz )
+value: 0.122
+label: roast (3 to 5 lb roast)
+value: 0.419
+
+
+name: 15:0
+unit: g
+value: 0.058
+label: serving ( 3 oz )
+value: 0.049
+label: roast (3 to 5 lb roast)
+value: 0.17
+
+
+name: 16:0
+unit: g
+value: 0.883
+label: serving ( 3 oz )
+value: 0.751
+label: roast (3 to 5 lb roast)
+value: 2.587
+
+
+name: 17:0
+unit: g
+value: 0.064
+label: serving ( 3 oz )
+value: 0.054
+label: roast (3 to 5 lb roast)
+value: 0.188
+
+
+name: 18:0
+unit: g
+value: 1.073
+label: serving ( 3 oz )
+value: 0.912
+label: roast (3 to 5 lb roast)
+value: 3.144
+
+
+name: 20:0
+unit: g
+value: 0.013
+label: serving ( 3 oz )
+value: 0.011
+label: roast (3 to 5 lb roast)
+value: 0.038
+
+
+name: 22:0
+unit: g
+value: 0.002
+label: serving ( 3 oz )
+value: 0.002
+label: roast (3 to 5 lb roast)
+value: 0.006
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.895
+label: serving ( 3 oz )
+value: 0.761
+label: roast (3 to 5 lb roast)
+value: 2.622
+
+
+name: 14:1
+unit: g
+value: 0.011
+label: serving ( 3 oz )
+value: 0.009
+label: roast (3 to 5 lb roast)
+value: 0.032
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: roast (3 to 5 lb roast)
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.071
+label: serving ( 3 oz )
+value: 0.06
+label: roast (3 to 5 lb roast)
+value: 0.208
+
+
+name: 17:1
+unit: g
+value: 0.016
+label: serving ( 3 oz )
+value: 0.014
+label: roast (3 to 5 lb roast)
+value: 0.047
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.798
+label: serving ( 3 oz )
+value: 0.678
+label: roast (3 to 5 lb roast)
+value: 2.338
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: roast (3 to 5 lb roast)
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: roast (3 to 5 lb roast)
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.262
+label: serving ( 3 oz )
+value: 0.223
+label: roast (3 to 5 lb roast)
+value: 0.768
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.15
+label: serving ( 3 oz )
+value: 0.128
+label: roast (3 to 5 lb roast)
+value: 0.439
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.07
+label: serving ( 3 oz )
+value: 0.06
+label: roast (3 to 5 lb roast)
+value: 0.205
+
+
+name: 18:3 n-6 c,c,c
+unit: g
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: roast (3 to 5 lb roast)
+value: 0.0
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: roast (3 to 5 lb roast)
+value: 0.0
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: roast (3 to 5 lb roast)
+value: 0.0
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: roast (3 to 5 lb roast)
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.043
+label: serving ( 3 oz )
+value: 0.037
+label: roast (3 to 5 lb roast)
+value: 0.126
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: roast (3 to 5 lb roast)
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: roast (3 to 5 lb roast)
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: roast (3 to 5 lb roast)
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 113.0
+label: serving ( 3 oz )
+value: 96.0
+label: roast (3 to 5 lb roast)
+value: 331.0
+
+
+name: Tryptophan
+unit: g
+value: 0.318
+label: serving ( 3 oz )
+value: 0.27
+label: roast (3 to 5 lb roast)
+value: 0.932
+
+
+name: Threonine
+unit: g
+value: 1.356
+label: serving ( 3 oz )
+value: 1.153
+label: roast (3 to 5 lb roast)
+value: 3.973
+
+
+name: Isoleucine
+unit: g
+value: 1.541
+label: serving ( 3 oz )
+value: 1.31
+label: roast (3 to 5 lb roast)
+value: 4.515
+
+
+name: Leucine
+unit: g
+value: 2.729
+label: serving ( 3 oz )
+value: 2.32
+label: roast (3 to 5 lb roast)
+value: 7.996
+
+
+name: Lysine
+unit: g
+value: 2.914
+label: serving ( 3 oz )
+value: 2.477
+label: roast (3 to 5 lb roast)
+value: 8.538
+
+
+name: Methionine
+unit: g
+value: 0.837
+label: serving ( 3 oz )
+value: 0.711
+label: roast (3 to 5 lb roast)
+value: 2.452
+
+
+name: Cystine
+unit: g
+value: 0.335
+label: serving ( 3 oz )
+value: 0.285
+label: roast (3 to 5 lb roast)
+value: 0.982
+
+
+name: Phenylalanine
+unit: g
+value: 1.356
+label: serving ( 3 oz )
+value: 1.153
+label: roast (3 to 5 lb roast)
+value: 3.973
+
+
+name: Tyrosine
+unit: g
+value: 1.122
+label: serving ( 3 oz )
+value: 0.954
+label: roast (3 to 5 lb roast)
+value: 3.287
+
+
+name: Valine
+unit: g
+value: 1.741
+label: serving ( 3 oz )
+value: 1.48
+label: roast (3 to 5 lb roast)
+value: 5.101
+
+
+name: Arginine
+unit: g
+value: 2.143
+label: serving ( 3 oz )
+value: 1.822
+label: roast (3 to 5 lb roast)
+value: 6.279
+
+
+name: Histidine
+unit: g
+value: 1.072
+label: serving ( 3 oz )
+value: 0.911
+label: roast (3 to 5 lb roast)
+value: 3.141
+
+
+name: Alanine
+unit: g
+value: 2.093
+label: serving ( 3 oz )
+value: 1.779
+label: roast (3 to 5 lb roast)
+value: 6.132
+
+
+name: Aspartic acid
+unit: g
+value: 3.115
+label: serving ( 3 oz )
+value: 2.648
+label: roast (3 to 5 lb roast)
+value: 9.127
+
+
+name: Glutamic acid
+unit: g
+value: 5.09
+label: serving ( 3 oz )
+value: 4.326
+label: roast (3 to 5 lb roast)
+value: 14.914
+
+
+name: Glycine
+unit: g
+value: 1.959
+label: serving ( 3 oz )
+value: 1.665
+label: roast (3 to 5 lb roast)
+value: 5.74
+
+
+name: Proline
+unit: g
+value: 1.574
+label: serving ( 3 oz )
+value: 1.338
+label: roast (3 to 5 lb roast)
+value: 4.612
+
+
+name: Serine
+unit: g
+value: 1.239
+label: serving ( 3 oz )
+value: 1.053
+label: roast (3 to 5 lb roast)
+value: 3.63
+
+
+name: Hydroxyproline
+unit: g
+value: 0.519
+label: serving ( 3 oz )
+value: 0.441
+label: roast (3 to 5 lb roast)
+value: 1.521
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: roast (3 to 5 lb roast)
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: roast (3 to 5 lb roast)
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: roast (3 to 5 lb roast)
+value: 0.0
+
+

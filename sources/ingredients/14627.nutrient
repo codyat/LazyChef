@@ -1,0 +1,552 @@
+ndbno: 14627
+
+
+name: Beverages, Energy Drink, Monster, fortified with vitamins C, B2, B3, B6, B12
+
+
+name: Water
+unit: g
+value: 88.05
+label: serving
+value: 211.32
+
+
+name: Energy
+unit: kcal
+value: 47.0
+label: serving
+value: 113.0
+
+
+name: Energy
+unit: kJ
+value: 197.0
+label: serving
+value: 473.0
+
+
+name: Protein
+unit: g
+value: 0.47
+label: serving
+value: 1.13
+
+
+name: Total lipid (fat)
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: Ash
+unit: g
+value: 0.19
+label: serving
+value: 0.46
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 11.28
+label: serving
+value: 27.07
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: Sugars, total
+unit: g
+value: 10.93
+label: serving
+value: 26.23
+
+
+name: Sucrose
+unit: g
+value: 4.43
+label: serving
+value: 10.63
+
+
+name: Glucose (dextrose)
+unit: g
+value: 4.11
+label: serving
+value: 9.86
+
+
+name: Fructose
+unit: g
+value: 2.39
+label: serving
+value: 5.74
+
+
+name: Lactose
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: Maltose
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: Galactose
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.04
+label: serving
+value: 0.1
+
+
+name: Magnesium, Mg
+unit: mg
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: Potassium, K
+unit: mg
+value: 2.0
+label: serving
+value: 5.0
+
+
+name: Sodium, Na
+unit: mg
+value: 77.0
+label: serving
+value: 185.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.01
+label: serving
+value: 0.02
+
+
+name: Copper, Cu
+unit: mg
+value: 0.002
+label: serving
+value: 0.005
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.005
+label: serving
+value: 0.012
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.04
+label: serving
+value: 0.096
+
+
+name: Riboflavin
+unit: mg
+value: 0.81
+label: serving
+value: 1.944
+
+
+name: Niacin
+unit: mg
+value: 10.16
+label: serving
+value: 24.384
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: Vitamin B-6
+unit: mg
+value: 1.01
+label: serving
+value: 2.424
+
+
+name: Folate, total
+unit: \u00B5g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: Choline, total
+unit: mg
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 2.57
+label: serving
+value: 6.17
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 2.57
+label: serving
+value: 6.17
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: 16:0
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: 18:0
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 33.0
+label: serving
+value: 79.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: serving
+value: 0.0
+
+

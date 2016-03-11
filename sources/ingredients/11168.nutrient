@@ -1,0 +1,1596 @@
+ndbno: 11168
+
+
+name: Corn, sweet, yellow, cooked, boiled, drained, without salt
+
+
+name: Water
+unit: g
+value: 73.41
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 65.33
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 75.61
+label: ear large (7-3/4\ to 9\ long)
+value: 86.62
+label: cup cut
+value: 109.38
+label: baby ear
+value: 5.87
+
+
+name: Energy
+unit: kcal
+value: 96.0
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 85.0
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 99.0
+label: ear large (7-3/4\ to 9\ long)
+value: 113.0
+label: cup cut
+value: 143.0
+label: baby ear
+value: 8.0
+
+
+name: Energy
+unit: kJ
+value: 401.0
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 357.0
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 413.0
+label: ear large (7-3/4\ to 9\ long)
+value: 473.0
+label: cup cut
+value: 597.0
+label: baby ear
+value: 32.0
+
+
+name: Protein
+unit: g
+value: 3.41
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 3.03
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 3.51
+label: ear large (7-3/4\ to 9\ long)
+value: 4.02
+label: cup cut
+value: 5.08
+label: baby ear
+value: 0.27
+
+
+name: Total lipid (fat)
+unit: g
+value: 1.5
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 1.34
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 1.54
+label: ear large (7-3/4\ to 9\ long)
+value: 1.77
+label: cup cut
+value: 2.24
+label: baby ear
+value: 0.12
+
+
+name: Ash
+unit: g
+value: 0.71
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.63
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.73
+label: ear large (7-3/4\ to 9\ long)
+value: 0.84
+label: cup cut
+value: 1.06
+label: baby ear
+value: 0.06
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 20.98
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 18.67
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 21.61
+label: ear large (7-3/4\ to 9\ long)
+value: 24.76
+label: cup cut
+value: 31.26
+label: baby ear
+value: 1.68
+
+
+name: Fiber, total dietary
+unit: g
+value: 2.4
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 2.1
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 2.5
+label: ear large (7-3/4\ to 9\ long)
+value: 2.8
+label: cup cut
+value: 3.6
+label: baby ear
+value: 0.2
+
+
+name: Sugars, total
+unit: g
+value: 4.54
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 4.04
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 4.68
+label: ear large (7-3/4\ to 9\ long)
+value: 5.36
+label: cup cut
+value: 6.76
+label: baby ear
+value: 0.36
+
+
+name: Sucrose
+unit: g
+value: 2.74
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 2.44
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 2.82
+label: ear large (7-3/4\ to 9\ long)
+value: 3.23
+label: cup cut
+value: 4.08
+label: baby ear
+value: 0.22
+
+
+name: Glucose (dextrose)
+unit: g
+value: 0.84
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.75
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.87
+label: ear large (7-3/4\ to 9\ long)
+value: 0.99
+label: cup cut
+value: 1.25
+label: baby ear
+value: 0.07
+
+
+name: Fructose
+unit: g
+value: 0.79
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.7
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.81
+label: ear large (7-3/4\ to 9\ long)
+value: 0.93
+label: cup cut
+value: 1.18
+label: baby ear
+value: 0.06
+
+
+name: Lactose
+unit: g
+value: 0.0
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.0
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.0
+label: ear large (7-3/4\ to 9\ long)
+value: 0.0
+label: cup cut
+value: 0.0
+label: baby ear
+value: 0.0
+
+
+name: Maltose
+unit: g
+value: 0.17
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.15
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.18
+label: ear large (7-3/4\ to 9\ long)
+value: 0.2
+label: cup cut
+value: 0.25
+label: baby ear
+value: 0.01
+
+
+name: Galactose
+unit: g
+value: 0.0
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.0
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.0
+label: ear large (7-3/4\ to 9\ long)
+value: 0.0
+label: cup cut
+value: 0.0
+label: baby ear
+value: 0.0
+
+
+name: Starch
+unit: g
+value: 7.17
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 6.38
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 7.39
+label: ear large (7-3/4\ to 9\ long)
+value: 8.46
+label: cup cut
+value: 10.68
+label: baby ear
+value: 0.57
+
+
+name: Calcium, Ca
+unit: mg
+value: 3.0
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 3.0
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 3.0
+label: ear large (7-3/4\ to 9\ long)
+value: 4.0
+label: cup cut
+value: 4.0
+label: baby ear
+value: 0.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.45
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.4
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.46
+label: ear large (7-3/4\ to 9\ long)
+value: 0.53
+label: cup cut
+value: 0.67
+label: baby ear
+value: 0.04
+
+
+name: Magnesium, Mg
+unit: mg
+value: 26.0
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 23.0
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 27.0
+label: ear large (7-3/4\ to 9\ long)
+value: 31.0
+label: cup cut
+value: 39.0
+label: baby ear
+value: 2.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 77.0
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 69.0
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 79.0
+label: ear large (7-3/4\ to 9\ long)
+value: 91.0
+label: cup cut
+value: 115.0
+label: baby ear
+value: 6.0
+
+
+name: Potassium, K
+unit: mg
+value: 218.0
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 194.0
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 225.0
+label: ear large (7-3/4\ to 9\ long)
+value: 257.0
+label: cup cut
+value: 325.0
+label: baby ear
+value: 17.0
+
+
+name: Sodium, Na
+unit: mg
+value: 1.0
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 1.0
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 1.0
+label: ear large (7-3/4\ to 9\ long)
+value: 1.0
+label: cup cut
+value: 1.0
+label: baby ear
+value: 0.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.62
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.55
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.64
+label: ear large (7-3/4\ to 9\ long)
+value: 0.73
+label: cup cut
+value: 0.92
+label: baby ear
+value: 0.05
+
+
+name: Copper, Cu
+unit: mg
+value: 0.049
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.044
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.05
+label: ear large (7-3/4\ to 9\ long)
+value: 0.058
+label: cup cut
+value: 0.073
+label: baby ear
+value: 0.004
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.167
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.149
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.172
+label: ear large (7-3/4\ to 9\ long)
+value: 0.197
+label: cup cut
+value: 0.249
+label: baby ear
+value: 0.013
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 0.2
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.2
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.2
+label: ear large (7-3/4\ to 9\ long)
+value: 0.2
+label: cup cut
+value: 0.3
+label: baby ear
+value: 0.0
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 5.5
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 4.9
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 5.7
+label: ear large (7-3/4\ to 9\ long)
+value: 6.5
+label: cup cut
+value: 8.2
+label: baby ear
+value: 0.4
+
+
+name: Thiamin
+unit: mg
+value: 0.093
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.083
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.096
+label: ear large (7-3/4\ to 9\ long)
+value: 0.11
+label: cup cut
+value: 0.139
+label: baby ear
+value: 0.007
+
+
+name: Riboflavin
+unit: mg
+value: 0.057
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.051
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.059
+label: ear large (7-3/4\ to 9\ long)
+value: 0.067
+label: cup cut
+value: 0.085
+label: baby ear
+value: 0.005
+
+
+name: Niacin
+unit: mg
+value: 1.683
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 1.498
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 1.733
+label: ear large (7-3/4\ to 9\ long)
+value: 1.986
+label: cup cut
+value: 2.508
+label: baby ear
+value: 0.135
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.792
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.705
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.816
+label: ear large (7-3/4\ to 9\ long)
+value: 0.935
+label: cup cut
+value: 1.18
+label: baby ear
+value: 0.063
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.139
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.124
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.143
+label: ear large (7-3/4\ to 9\ long)
+value: 0.164
+label: cup cut
+value: 0.207
+label: baby ear
+value: 0.011
+
+
+name: Folate, total
+unit: \u00B5g
+value: 23.0
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 20.0
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 24.0
+label: ear large (7-3/4\ to 9\ long)
+value: 27.0
+label: cup cut
+value: 34.0
+label: baby ear
+value: 2.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.0
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.0
+label: ear large (7-3/4\ to 9\ long)
+value: 0.0
+label: cup cut
+value: 0.0
+label: baby ear
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 23.0
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 20.0
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 24.0
+label: ear large (7-3/4\ to 9\ long)
+value: 27.0
+label: cup cut
+value: 34.0
+label: baby ear
+value: 2.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 23.0
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 20.0
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 24.0
+label: ear large (7-3/4\ to 9\ long)
+value: 27.0
+label: cup cut
+value: 34.0
+label: baby ear
+value: 2.0
+
+
+name: Choline, total
+unit: mg
+value: 29.1
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 25.9
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 30.0
+label: ear large (7-3/4\ to 9\ long)
+value: 34.3
+label: cup cut
+value: 43.4
+label: baby ear
+value: 2.3
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.0
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.0
+label: ear large (7-3/4\ to 9\ long)
+value: 0.0
+label: cup cut
+value: 0.0
+label: baby ear
+value: 0.0
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.0
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.0
+label: ear large (7-3/4\ to 9\ long)
+value: 0.0
+label: cup cut
+value: 0.0
+label: baby ear
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 13.0
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 12.0
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 13.0
+label: ear large (7-3/4\ to 9\ long)
+value: 15.0
+label: cup cut
+value: 19.0
+label: baby ear
+value: 1.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.0
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.0
+label: ear large (7-3/4\ to 9\ long)
+value: 0.0
+label: cup cut
+value: 0.0
+label: baby ear
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 66.0
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 59.0
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 68.0
+label: ear large (7-3/4\ to 9\ long)
+value: 78.0
+label: cup cut
+value: 98.0
+label: baby ear
+value: 5.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 23.0
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 20.0
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 24.0
+label: ear large (7-3/4\ to 9\ long)
+value: 27.0
+label: cup cut
+value: 34.0
+label: baby ear
+value: 2.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 161.0
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 143.0
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 166.0
+label: ear large (7-3/4\ to 9\ long)
+value: 190.0
+label: cup cut
+value: 240.0
+label: baby ear
+value: 13.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 263.0
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 234.0
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 271.0
+label: ear large (7-3/4\ to 9\ long)
+value: 310.0
+label: cup cut
+value: 392.0
+label: baby ear
+value: 21.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.0
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.0
+label: ear large (7-3/4\ to 9\ long)
+value: 0.0
+label: cup cut
+value: 0.0
+label: baby ear
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 906.0
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 806.0
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 933.0
+label: ear large (7-3/4\ to 9\ long)
+value: 1069.0
+label: cup cut
+value: 1350.0
+label: baby ear
+value: 72.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.09
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.08
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.09
+label: ear large (7-3/4\ to 9\ long)
+value: 0.11
+label: cup cut
+value: 0.13
+label: baby ear
+value: 0.01
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.0
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.0
+label: ear large (7-3/4\ to 9\ long)
+value: 0.0
+label: cup cut
+value: 0.0
+label: baby ear
+value: 0.0
+
+
+name: Tocopherol, beta
+unit: mg
+value: 0.0
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.0
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.0
+label: ear large (7-3/4\ to 9\ long)
+value: 0.0
+label: cup cut
+value: 0.0
+label: baby ear
+value: 0.0
+
+
+name: Tocopherol, gamma
+unit: mg
+value: 0.19
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.17
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.2
+label: ear large (7-3/4\ to 9\ long)
+value: 0.22
+label: cup cut
+value: 0.28
+label: baby ear
+value: 0.02
+
+
+name: Tocopherol, delta
+unit: mg
+value: 0.0
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.0
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.0
+label: ear large (7-3/4\ to 9\ long)
+value: 0.0
+label: cup cut
+value: 0.0
+label: baby ear
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.0
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.0
+label: ear large (7-3/4\ to 9\ long)
+value: 0.0
+label: cup cut
+value: 0.0
+label: baby ear
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.0
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.0
+label: ear large (7-3/4\ to 9\ long)
+value: 0.0
+label: cup cut
+value: 0.0
+label: baby ear
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 0.4
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.4
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.4
+label: ear large (7-3/4\ to 9\ long)
+value: 0.5
+label: cup cut
+value: 0.6
+label: baby ear
+value: 0.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.197
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.175
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.203
+label: ear large (7-3/4\ to 9\ long)
+value: 0.232
+label: cup cut
+value: 0.294
+label: baby ear
+value: 0.016
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.0
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.0
+label: ear large (7-3/4\ to 9\ long)
+value: 0.0
+label: cup cut
+value: 0.0
+label: baby ear
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.0
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.0
+label: ear large (7-3/4\ to 9\ long)
+value: 0.0
+label: cup cut
+value: 0.0
+label: baby ear
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.0
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.0
+label: ear large (7-3/4\ to 9\ long)
+value: 0.0
+label: cup cut
+value: 0.0
+label: baby ear
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.0
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.0
+label: ear large (7-3/4\ to 9\ long)
+value: 0.0
+label: cup cut
+value: 0.0
+label: baby ear
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.0
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.0
+label: ear large (7-3/4\ to 9\ long)
+value: 0.0
+label: cup cut
+value: 0.0
+label: baby ear
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.0
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.0
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.0
+label: ear large (7-3/4\ to 9\ long)
+value: 0.0
+label: cup cut
+value: 0.0
+label: baby ear
+value: 0.0
+
+
+name: 16:0
+unit: g
+value: 0.185
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.165
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.191
+label: ear large (7-3/4\ to 9\ long)
+value: 0.218
+label: cup cut
+value: 0.276
+label: baby ear
+value: 0.015
+
+
+name: 18:0
+unit: g
+value: 0.012
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.011
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.012
+label: ear large (7-3/4\ to 9\ long)
+value: 0.014
+label: cup cut
+value: 0.018
+label: baby ear
+value: 0.001
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.374
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.333
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.385
+label: ear large (7-3/4\ to 9\ long)
+value: 0.441
+label: cup cut
+value: 0.557
+label: baby ear
+value: 0.03
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.0
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.0
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.0
+label: ear large (7-3/4\ to 9\ long)
+value: 0.0
+label: cup cut
+value: 0.0
+label: baby ear
+value: 0.0
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.374
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.333
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.385
+label: ear large (7-3/4\ to 9\ long)
+value: 0.441
+label: cup cut
+value: 0.557
+label: baby ear
+value: 0.03
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.0
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.0
+label: ear large (7-3/4\ to 9\ long)
+value: 0.0
+label: cup cut
+value: 0.0
+label: baby ear
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.0
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.0
+label: ear large (7-3/4\ to 9\ long)
+value: 0.0
+label: cup cut
+value: 0.0
+label: baby ear
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.603
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.537
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.621
+label: ear large (7-3/4\ to 9\ long)
+value: 0.712
+label: cup cut
+value: 0.898
+label: baby ear
+value: 0.048
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.586
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.522
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.604
+label: ear large (7-3/4\ to 9\ long)
+value: 0.691
+label: cup cut
+value: 0.873
+label: baby ear
+value: 0.047
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.018
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.016
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.019
+label: ear large (7-3/4\ to 9\ long)
+value: 0.021
+label: cup cut
+value: 0.027
+label: baby ear
+value: 0.001
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.0
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.0
+label: ear large (7-3/4\ to 9\ long)
+value: 0.0
+label: cup cut
+value: 0.0
+label: baby ear
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.0
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.0
+label: ear large (7-3/4\ to 9\ long)
+value: 0.0
+label: cup cut
+value: 0.0
+label: baby ear
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.0
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.0
+label: ear large (7-3/4\ to 9\ long)
+value: 0.0
+label: cup cut
+value: 0.0
+label: baby ear
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.0
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.0
+label: ear large (7-3/4\ to 9\ long)
+value: 0.0
+label: cup cut
+value: 0.0
+label: baby ear
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.0
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.0
+label: ear large (7-3/4\ to 9\ long)
+value: 0.0
+label: cup cut
+value: 0.0
+label: baby ear
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.0
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.0
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.0
+label: ear large (7-3/4\ to 9\ long)
+value: 0.0
+label: cup cut
+value: 0.0
+label: baby ear
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.0
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.0
+label: ear large (7-3/4\ to 9\ long)
+value: 0.0
+label: cup cut
+value: 0.0
+label: baby ear
+value: 0.0
+
+
+name: Tryptophan
+unit: g
+value: 0.023
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.02
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.024
+label: ear large (7-3/4\ to 9\ long)
+value: 0.027
+label: cup cut
+value: 0.034
+label: baby ear
+value: 0.002
+
+
+name: Threonine
+unit: g
+value: 0.133
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.118
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.137
+label: ear large (7-3/4\ to 9\ long)
+value: 0.157
+label: cup cut
+value: 0.198
+label: baby ear
+value: 0.011
+
+
+name: Isoleucine
+unit: g
+value: 0.133
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.118
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.137
+label: ear large (7-3/4\ to 9\ long)
+value: 0.157
+label: cup cut
+value: 0.198
+label: baby ear
+value: 0.011
+
+
+name: Leucine
+unit: g
+value: 0.358
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.319
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.369
+label: ear large (7-3/4\ to 9\ long)
+value: 0.422
+label: cup cut
+value: 0.533
+label: baby ear
+value: 0.029
+
+
+name: Lysine
+unit: g
+value: 0.141
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.125
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.145
+label: ear large (7-3/4\ to 9\ long)
+value: 0.166
+label: cup cut
+value: 0.21
+label: baby ear
+value: 0.011
+
+
+name: Methionine
+unit: g
+value: 0.069
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.061
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.071
+label: ear large (7-3/4\ to 9\ long)
+value: 0.081
+label: cup cut
+value: 0.103
+label: baby ear
+value: 0.006
+
+
+name: Cystine
+unit: g
+value: 0.027
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.024
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.028
+label: ear large (7-3/4\ to 9\ long)
+value: 0.032
+label: cup cut
+value: 0.04
+label: baby ear
+value: 0.002
+
+
+name: Phenylalanine
+unit: g
+value: 0.155
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.138
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.16
+label: ear large (7-3/4\ to 9\ long)
+value: 0.183
+label: cup cut
+value: 0.231
+label: baby ear
+value: 0.012
+
+
+name: Tyrosine
+unit: g
+value: 0.126
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.112
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.13
+label: ear large (7-3/4\ to 9\ long)
+value: 0.149
+label: cup cut
+value: 0.188
+label: baby ear
+value: 0.01
+
+
+name: Valine
+unit: g
+value: 0.191
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.17
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.197
+label: ear large (7-3/4\ to 9\ long)
+value: 0.225
+label: cup cut
+value: 0.285
+label: baby ear
+value: 0.015
+
+
+name: Arginine
+unit: g
+value: 0.135
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.12
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.139
+label: ear large (7-3/4\ to 9\ long)
+value: 0.159
+label: cup cut
+value: 0.201
+label: baby ear
+value: 0.011
+
+
+name: Histidine
+unit: g
+value: 0.091
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.081
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.094
+label: ear large (7-3/4\ to 9\ long)
+value: 0.107
+label: cup cut
+value: 0.136
+label: baby ear
+value: 0.007
+
+
+name: Alanine
+unit: g
+value: 0.304
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.271
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.313
+label: ear large (7-3/4\ to 9\ long)
+value: 0.359
+label: cup cut
+value: 0.453
+label: baby ear
+value: 0.024
+
+
+name: Aspartic acid
+unit: g
+value: 0.252
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.224
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.26
+label: ear large (7-3/4\ to 9\ long)
+value: 0.297
+label: cup cut
+value: 0.375
+label: baby ear
+value: 0.02
+
+
+name: Glutamic acid
+unit: g
+value: 0.655
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.583
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.675
+label: ear large (7-3/4\ to 9\ long)
+value: 0.773
+label: cup cut
+value: 0.976
+label: baby ear
+value: 0.052
+
+
+name: Glycine
+unit: g
+value: 0.131
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.117
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.135
+label: ear large (7-3/4\ to 9\ long)
+value: 0.155
+label: cup cut
+value: 0.195
+label: baby ear
+value: 0.01
+
+
+name: Proline
+unit: g
+value: 0.301
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.268
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.31
+label: ear large (7-3/4\ to 9\ long)
+value: 0.355
+label: cup cut
+value: 0.448
+label: baby ear
+value: 0.024
+
+
+name: Serine
+unit: g
+value: 0.158
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.141
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.163
+label: ear large (7-3/4\ to 9\ long)
+value: 0.186
+label: cup cut
+value: 0.235
+label: baby ear
+value: 0.013
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.0
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.0
+label: ear large (7-3/4\ to 9\ long)
+value: 0.0
+label: cup cut
+value: 0.0
+label: baby ear
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.0
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.0
+label: ear large (7-3/4\ to 9\ long)
+value: 0.0
+label: cup cut
+value: 0.0
+label: baby ear
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.0
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.0
+label: ear large (7-3/4\ to 9\ long)
+value: 0.0
+label: cup cut
+value: 0.0
+label: baby ear
+value: 0.0
+
+
+name: Daidzein
+unit: mg
+value: 0.0
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.0
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.0
+label: ear large (7-3/4\ to 9\ long)
+value: 0.0
+label: cup cut
+value: 0.0
+label: baby ear
+value: 0.0
+
+
+name: Genistein
+unit: mg
+value: 0.0
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.0
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.0
+label: ear large (7-3/4\ to 9\ long)
+value: 0.0
+label: cup cut
+value: 0.0
+label: baby ear
+value: 0.0
+
+
+name: Glycitein
+unit: mg
+value: 0.0
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.0
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.0
+label: ear large (7-3/4\ to 9\ long)
+value: 0.0
+label: cup cut
+value: 0.0
+label: baby ear
+value: 0.0
+
+
+name: Total isoflavones
+unit: mg
+value: 0.0
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.0
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.01
+label: ear large (7-3/4\ to 9\ long)
+value: 0.01
+label: cup cut
+value: 0.01
+label: baby ear
+value: 0.0
+
+
+name: Formononetin
+unit: mg
+value: 0.0
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.0
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.0
+label: ear large (7-3/4\ to 9\ long)
+value: 0.0
+label: cup cut
+value: 0.0
+label: baby ear
+value: 0.0
+
+
+name: Coumestrol
+unit: mg
+value: 0.0
+label: ear small (5-1/2\ to 6-1/2\ long)
+value: 0.0
+label: ear medium (6-3/4\ to 7-1/2\ long)
+value: 0.0
+label: ear large (7-3/4\ to 9\ long)
+value: 0.0
+label: cup cut
+value: 0.0
+label: baby ear
+value: 0.0
+
+

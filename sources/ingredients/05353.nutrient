@@ -1,0 +1,720 @@
+ndbno: 05353
+
+
+name: USDA Commodity, chicken fajita strips, frozen
+
+
+name: Water
+unit: g
+value: 70.6
+label: strip
+value: 6.64
+
+
+name: Energy
+unit: kcal
+value: 135.0
+label: strip
+value: 13.0
+
+
+name: Energy
+unit: kJ
+value: 564.0
+label: strip
+value: 53.0
+
+
+name: Protein
+unit: g
+value: 18.56
+label: strip
+value: 1.74
+
+
+name: Total lipid (fat)
+unit: g
+value: 5.73
+label: strip
+value: 0.54
+
+
+name: Ash
+unit: g
+value: 2.88
+label: strip
+value: 0.27
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 2.23
+label: strip
+value: 0.21
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: strip
+value: 0.0
+
+
+name: Sugars, total
+unit: g
+value: 0.0
+label: strip
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 13.0
+label: strip
+value: 1.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.99
+label: strip
+value: 0.09
+
+
+name: Magnesium, Mg
+unit: mg
+value: 22.0
+label: strip
+value: 2.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 277.0
+label: strip
+value: 26.0
+
+
+name: Potassium, K
+unit: mg
+value: 284.0
+label: strip
+value: 27.0
+
+
+name: Sodium, Na
+unit: mg
+value: 799.0
+label: strip
+value: 75.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 1.37
+label: strip
+value: 0.13
+
+
+name: Copper, Cu
+unit: mg
+value: 0.03
+label: strip
+value: 0.003
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.066
+label: strip
+value: 0.006
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 16.7
+label: strip
+value: 1.6
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: strip
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.1
+label: strip
+value: 0.009
+
+
+name: Riboflavin
+unit: mg
+value: 0.213
+label: strip
+value: 0.02
+
+
+name: Niacin
+unit: mg
+value: 4.779
+label: strip
+value: 0.449
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.726
+label: strip
+value: 0.068
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.387
+label: strip
+value: 0.036
+
+
+name: Folate, total
+unit: \u00B5g
+value: 4.0
+label: strip
+value: 0.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: strip
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 4.0
+label: strip
+value: 0.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 4.0
+label: strip
+value: 0.0
+
+
+name: Choline, total
+unit: mg
+value: 67.8
+label: strip
+value: 6.4
+
+
+name: Betaine
+unit: mg
+value: 3.4
+label: strip
+value: 0.3
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.54
+label: strip
+value: 0.05
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: strip
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 0.0
+label: strip
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 5.0
+label: strip
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 0.0
+label: strip
+value: 0.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: strip
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: strip
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 0.0
+label: strip
+value: 0.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: strip
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 0.0
+label: strip
+value: 0.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.22
+label: strip
+value: 0.02
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: strip
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 0.2
+label: strip
+value: 0.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 1.596
+label: strip
+value: 0.15
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: strip
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: strip
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: strip
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: strip
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: strip
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.033
+label: strip
+value: 0.003
+
+
+name: 15:0
+unit: g
+value: 0.0
+label: strip
+value: 0.0
+
+
+name: 16:0
+unit: g
+value: 1.233
+label: strip
+value: 0.116
+
+
+name: 17:0
+unit: g
+value: 0.0
+label: strip
+value: 0.0
+
+
+name: 18:0
+unit: g
+value: 0.33
+label: strip
+value: 0.031
+
+
+name: 20:0
+unit: g
+value: 0.0
+label: strip
+value: 0.0
+
+
+name: 22:0
+unit: g
+value: 0.0
+label: strip
+value: 0.0
+
+
+name: 24:0
+unit: g
+value: 0.0
+label: strip
+value: 0.0
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 2.333
+label: strip
+value: 0.219
+
+
+name: 14:1
+unit: g
+value: 0.0
+label: strip
+value: 0.0
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: strip
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.363
+label: strip
+value: 0.034
+
+
+name: 17:1
+unit: g
+value: 0.0
+label: strip
+value: 0.0
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 1.95
+label: strip
+value: 0.183
+
+
+name: 20:1
+unit: g
+value: 0.02
+label: strip
+value: 0.002
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: strip
+value: 0.0
+
+
+name: 24:1 c
+unit: g
+value: 0.0
+label: strip
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 1.089
+label: strip
+value: 0.102
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.907
+label: strip
+value: 0.085
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.05
+label: strip
+value: 0.005
+
+
+name: 18:4
+unit: g
+value: 0.003
+label: strip
+value: 0.0
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.01
+label: strip
+value: 0.001
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.013
+label: strip
+value: 0.001
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.08
+label: strip
+value: 0.008
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: strip
+value: 0.0
+
+
+name: 21:5
+unit: g
+value: 0.0
+label: strip
+value: 0.0
+
+
+name: 22:4
+unit: g
+value: 0.02
+label: strip
+value: 0.002
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.007
+label: strip
+value: 0.001
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: strip
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 88.0
+label: strip
+value: 8.0
+
+
+name: Tryptophan
+unit: g
+value: 0.2
+label: strip
+value: 0.019
+
+
+name: Threonine
+unit: g
+value: 0.452
+label: strip
+value: 0.042
+
+
+name: Isoleucine
+unit: g
+value: 0.813
+label: strip
+value: 0.076
+
+
+name: Leucine
+unit: g
+value: 1.56
+label: strip
+value: 0.147
+
+
+name: Lysine
+unit: g
+value: 1.857
+label: strip
+value: 0.175
+
+
+name: Methionine
+unit: g
+value: 0.552
+label: strip
+value: 0.052
+
+
+name: Cystine
+unit: g
+value: 0.199
+label: strip
+value: 0.019
+
+
+name: Phenylalanine
+unit: g
+value: 0.763
+label: strip
+value: 0.072
+
+
+name: Tyrosine
+unit: g
+value: 0.633
+label: strip
+value: 0.06
+
+
+name: Valine
+unit: g
+value: 0.847
+label: strip
+value: 0.08
+
+
+name: Arginine
+unit: g
+value: 1.186
+label: strip
+value: 0.111
+
+
+name: Histidine
+unit: g
+value: 0.68
+label: strip
+value: 0.064
+
+
+name: Alanine
+unit: g
+value: 0.919
+label: strip
+value: 0.086
+
+
+name: Aspartic acid
+unit: g
+value: 1.095
+label: strip
+value: 0.103
+
+
+name: Glutamic acid
+unit: g
+value: 2.098
+label: strip
+value: 0.197
+
+
+name: Glycine
+unit: g
+value: 0.786
+label: strip
+value: 0.074
+
+
+name: Proline
+unit: g
+value: 0.695
+label: strip
+value: 0.065
+
+
+name: Serine
+unit: g
+value: 0.615
+label: strip
+value: 0.058
+
+
+name: Hydroxyproline
+unit: g
+value: 0.093
+label: strip
+value: 0.009
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: strip
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: strip
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: strip
+value: 0.0
+
+

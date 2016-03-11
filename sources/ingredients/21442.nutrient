@@ -1,0 +1,915 @@
+ndbno: 21442
+
+
+name: POPEYES, Fried Chicken, Mild, Breast, meat only, skin and breading removed
+
+
+name: Water
+unit: g
+value: 64.77
+label: breast without skin
+value: 85.5
+label: breast bone and skin removed
+value: 64.12
+
+
+name: Energy
+unit: kcal
+value: 157.0
+label: breast without skin
+value: 207.0
+label: breast bone and skin removed
+value: 155.0
+
+
+name: Energy
+unit: kJ
+value: 655.0
+label: breast without skin
+value: 865.0
+label: breast bone and skin removed
+value: 648.0
+
+
+name: Protein
+unit: g
+value: 28.98
+label: breast without skin
+value: 38.25
+label: breast bone and skin removed
+value: 28.69
+
+
+name: Total lipid (fat)
+unit: g
+value: 4.52
+label: breast without skin
+value: 5.97
+label: breast bone and skin removed
+value: 4.47
+
+
+name: Ash
+unit: g
+value: 2.26
+label: breast without skin
+value: 2.98
+label: breast bone and skin removed
+value: 2.24
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 0.0
+label: breast without skin
+value: 0.0
+label: breast bone and skin removed
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 20.0
+label: breast without skin
+value: 26.0
+label: breast bone and skin removed
+value: 20.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.55
+label: breast without skin
+value: 0.73
+label: breast bone and skin removed
+value: 0.54
+
+
+name: Magnesium, Mg
+unit: mg
+value: 29.0
+label: breast without skin
+value: 38.0
+label: breast bone and skin removed
+value: 29.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 219.0
+label: breast without skin
+value: 289.0
+label: breast bone and skin removed
+value: 217.0
+
+
+name: Potassium, K
+unit: mg
+value: 327.0
+label: breast without skin
+value: 432.0
+label: breast bone and skin removed
+value: 324.0
+
+
+name: Sodium, Na
+unit: mg
+value: 526.0
+label: breast without skin
+value: 694.0
+label: breast bone and skin removed
+value: 521.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.97
+label: breast without skin
+value: 1.28
+label: breast bone and skin removed
+value: 0.96
+
+
+name: Copper, Cu
+unit: mg
+value: 0.052
+label: breast without skin
+value: 0.069
+label: breast bone and skin removed
+value: 0.051
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.03
+label: breast without skin
+value: 0.04
+label: breast bone and skin removed
+value: 0.03
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 35.2
+label: breast without skin
+value: 46.5
+label: breast bone and skin removed
+value: 34.8
+
+
+name: Thiamin
+unit: mg
+value: 0.107
+label: breast without skin
+value: 0.141
+label: breast bone and skin removed
+value: 0.106
+
+
+name: Riboflavin
+unit: mg
+value: 0.24
+label: breast without skin
+value: 0.317
+label: breast bone and skin removed
+value: 0.238
+
+
+name: Niacin
+unit: mg
+value: 9.393
+label: breast without skin
+value: 12.399
+label: breast bone and skin removed
+value: 9.299
+
+
+name: Pantothenic acid
+unit: mg
+value: 1.5
+label: breast without skin
+value: 1.98
+label: breast bone and skin removed
+value: 1.485
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.37
+label: breast without skin
+value: 0.488
+label: breast bone and skin removed
+value: 0.366
+
+
+name: Choline, total
+unit: mg
+value: 99.7
+label: breast without skin
+value: 131.6
+label: breast bone and skin removed
+value: 98.7
+
+
+name: Betaine
+unit: mg
+value: 8.0
+label: breast without skin
+value: 10.6
+label: breast bone and skin removed
+value: 7.9
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.33
+label: breast without skin
+value: 0.44
+label: breast bone and skin removed
+value: 0.33
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 4.0
+label: breast without skin
+value: 5.0
+label: breast bone and skin removed
+value: 4.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 4.0
+label: breast without skin
+value: 5.0
+label: breast bone and skin removed
+value: 4.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 12.0
+label: breast without skin
+value: 16.0
+label: breast bone and skin removed
+value: 12.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.21
+label: breast without skin
+value: 0.28
+label: breast bone and skin removed
+value: 0.21
+
+
+name: Tocopherol, beta
+unit: mg
+value: 0.0
+label: breast without skin
+value: 0.0
+label: breast bone and skin removed
+value: 0.0
+
+
+name: Tocopherol, gamma
+unit: mg
+value: 0.06
+label: breast without skin
+value: 0.08
+label: breast bone and skin removed
+value: 0.06
+
+
+name: Tocopherol, delta
+unit: mg
+value: 0.0
+label: breast without skin
+value: 0.0
+label: breast bone and skin removed
+value: 0.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 1.368
+label: breast without skin
+value: 1.806
+label: breast bone and skin removed
+value: 1.354
+
+
+name: 4:0
+unit: g
+value: 0.007
+label: breast without skin
+value: 0.009
+label: breast bone and skin removed
+value: 0.007
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: breast without skin
+value: 0.0
+label: breast bone and skin removed
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: breast without skin
+value: 0.0
+label: breast bone and skin removed
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.017
+label: breast without skin
+value: 0.022
+label: breast bone and skin removed
+value: 0.017
+
+
+name: 12:0
+unit: g
+value: 0.005
+label: breast without skin
+value: 0.007
+label: breast bone and skin removed
+value: 0.005
+
+
+name: 14:0
+unit: g
+value: 0.049
+label: breast without skin
+value: 0.065
+label: breast bone and skin removed
+value: 0.049
+
+
+name: 15:0
+unit: g
+value: 0.009
+label: breast without skin
+value: 0.012
+label: breast bone and skin removed
+value: 0.009
+
+
+name: 16:0
+unit: g
+value: 0.868
+label: breast without skin
+value: 1.146
+label: breast bone and skin removed
+value: 0.859
+
+
+name: 17:0
+unit: g
+value: 0.017
+label: breast without skin
+value: 0.022
+label: breast bone and skin removed
+value: 0.017
+
+
+name: 18:0
+unit: g
+value: 0.389
+label: breast without skin
+value: 0.513
+label: breast bone and skin removed
+value: 0.385
+
+
+name: 20:0
+unit: g
+value: 0.004
+label: breast without skin
+value: 0.005
+label: breast bone and skin removed
+value: 0.004
+
+
+name: 22:0
+unit: g
+value: 0.003
+label: breast without skin
+value: 0.004
+label: breast bone and skin removed
+value: 0.003
+
+
+name: 24:0
+unit: g
+value: 0.0
+label: breast without skin
+value: 0.0
+label: breast bone and skin removed
+value: 0.0
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 1.789
+label: breast without skin
+value: 2.361
+label: breast bone and skin removed
+value: 1.771
+
+
+name: 14:1
+unit: g
+value: 0.014
+label: breast without skin
+value: 0.018
+label: breast bone and skin removed
+value: 0.014
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: breast without skin
+value: 0.0
+label: breast bone and skin removed
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.178
+label: breast without skin
+value: 0.235
+label: breast bone and skin removed
+value: 0.176
+
+
+name: 16:1 c
+unit: g
+value: 0.173
+label: breast without skin
+value: 0.228
+label: breast bone and skin removed
+value: 0.171
+
+
+name: 16:1 t
+unit: g
+value: 0.005
+label: breast without skin
+value: 0.007
+label: breast bone and skin removed
+value: 0.005
+
+
+name: 17:1
+unit: g
+value: 0.009
+label: breast without skin
+value: 0.012
+label: breast bone and skin removed
+value: 0.009
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 1.561
+label: breast without skin
+value: 2.061
+label: breast bone and skin removed
+value: 1.545
+
+
+name: 18:1 c
+unit: g
+value: 1.491
+label: breast without skin
+value: 1.968
+label: breast bone and skin removed
+value: 1.476
+
+
+name: 18:1 t
+unit: g
+value: 0.07
+label: breast without skin
+value: 0.092
+label: breast bone and skin removed
+value: 0.069
+
+
+name: 20:1
+unit: g
+value: 0.024
+label: breast without skin
+value: 0.032
+label: breast bone and skin removed
+value: 0.024
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.002
+label: breast without skin
+value: 0.003
+label: breast bone and skin removed
+value: 0.002
+
+
+name: 22:1 c
+unit: g
+value: 0.002
+label: breast without skin
+value: 0.003
+label: breast bone and skin removed
+value: 0.002
+
+
+name: 22:1 t
+unit: g
+value: 0.0
+label: breast without skin
+value: 0.0
+label: breast bone and skin removed
+value: 0.0
+
+
+name: 24:1 c
+unit: g
+value: 0.0
+label: breast without skin
+value: 0.0
+label: breast bone and skin removed
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.596
+label: breast without skin
+value: 0.787
+label: breast bone and skin removed
+value: 0.59
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.474
+label: breast without skin
+value: 0.626
+label: breast bone and skin removed
+value: 0.469
+
+
+name: 18:2 n-6 c,c
+unit: g
+value: 0.46
+label: breast without skin
+value: 0.607
+label: breast bone and skin removed
+value: 0.455
+
+
+name: 18:2 CLAs
+unit: g
+value: 0.006
+label: breast without skin
+value: 0.008
+label: breast bone and skin removed
+value: 0.006
+
+
+name: 18:2 t not further defined
+unit: g
+value: 0.008
+label: breast without skin
+value: 0.011
+label: breast bone and skin removed
+value: 0.008
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.035
+label: breast without skin
+value: 0.046
+label: breast bone and skin removed
+value: 0.035
+
+
+name: 18:3 n-3 c,c,c (ALA)
+unit: g
+value: 0.033
+label: breast without skin
+value: 0.044
+label: breast bone and skin removed
+value: 0.033
+
+
+name: 18:3 n-6 c,c,c
+unit: g
+value: 0.001
+label: breast without skin
+value: 0.001
+label: breast bone and skin removed
+value: 0.001
+
+
+name: 18:3i
+unit: g
+value: 0.0
+label: breast without skin
+value: 0.0
+label: breast bone and skin removed
+value: 0.0
+
+
+name: 18:4
+unit: g
+value: 0.001
+label: breast without skin
+value: 0.001
+label: breast bone and skin removed
+value: 0.001
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.008
+label: breast without skin
+value: 0.011
+label: breast bone and skin removed
+value: 0.008
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.018
+label: breast without skin
+value: 0.024
+label: breast bone and skin removed
+value: 0.018
+
+
+name: 20:3 n-6
+unit: g
+value: 0.016
+label: breast without skin
+value: 0.021
+label: breast bone and skin removed
+value: 0.016
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.043
+label: breast without skin
+value: 0.057
+label: breast bone and skin removed
+value: 0.043
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: breast without skin
+value: 0.0
+label: breast bone and skin removed
+value: 0.0
+
+
+name: 22:4
+unit: g
+value: 0.01
+label: breast without skin
+value: 0.013
+label: breast bone and skin removed
+value: 0.01
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.004
+label: breast without skin
+value: 0.005
+label: breast bone and skin removed
+value: 0.004
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.003
+label: breast without skin
+value: 0.004
+label: breast bone and skin removed
+value: 0.003
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.083
+label: breast without skin
+value: 0.11
+label: breast bone and skin removed
+value: 0.082
+
+
+name: Fatty acids, total trans-monoenoic
+unit: g
+value: 0.075
+label: breast without skin
+value: 0.099
+label: breast bone and skin removed
+value: 0.074
+
+
+name: Cholesterol
+unit: mg
+value: 97.0
+label: breast without skin
+value: 128.0
+label: breast bone and skin removed
+value: 96.0
+
+
+name: Tryptophan
+unit: g
+value: 0.222
+label: breast without skin
+value: 0.293
+label: breast bone and skin removed
+value: 0.22
+
+
+name: Threonine
+unit: g
+value: 0.956
+label: breast without skin
+value: 1.262
+label: breast bone and skin removed
+value: 0.946
+
+
+name: Isoleucine
+unit: g
+value: 0.851
+label: breast without skin
+value: 1.123
+label: breast bone and skin removed
+value: 0.842
+
+
+name: Leucine
+unit: g
+value: 1.767
+label: breast without skin
+value: 2.332
+label: breast bone and skin removed
+value: 1.749
+
+
+name: Lysine
+unit: g
+value: 1.257
+label: breast without skin
+value: 1.659
+label: breast bone and skin removed
+value: 1.244
+
+
+name: Methionine
+unit: g
+value: 0.42
+label: breast without skin
+value: 0.554
+label: breast bone and skin removed
+value: 0.416
+
+
+name: Cystine
+unit: g
+value: 0.336
+label: breast without skin
+value: 0.444
+label: breast bone and skin removed
+value: 0.333
+
+
+name: Phenylalanine
+unit: g
+value: 1.108
+label: breast without skin
+value: 1.463
+label: breast bone and skin removed
+value: 1.097
+
+
+name: Tyrosine
+unit: g
+value: 0.887
+label: breast without skin
+value: 1.171
+label: breast bone and skin removed
+value: 0.878
+
+
+name: Valine
+unit: g
+value: 1.056
+label: breast without skin
+value: 1.394
+label: breast bone and skin removed
+value: 1.045
+
+
+name: Arginine
+unit: g
+value: 1.639
+label: breast without skin
+value: 2.163
+label: breast bone and skin removed
+value: 1.623
+
+
+name: Histidine
+unit: g
+value: 0.69
+label: breast without skin
+value: 0.911
+label: breast bone and skin removed
+value: 0.683
+
+
+name: Alanine
+unit: g
+value: 1.651
+label: breast without skin
+value: 2.179
+label: breast bone and skin removed
+value: 1.634
+
+
+name: Aspartic acid
+unit: g
+value: 1.969
+label: breast without skin
+value: 2.599
+label: breast bone and skin removed
+value: 1.949
+
+
+name: Glutamic acid
+unit: g
+value: 6.776
+label: breast without skin
+value: 8.944
+label: breast bone and skin removed
+value: 6.708
+
+
+name: Glycine
+unit: g
+value: 2.436
+label: breast without skin
+value: 3.216
+label: breast bone and skin removed
+value: 2.412
+
+
+name: Proline
+unit: g
+value: 2.326
+label: breast without skin
+value: 3.07
+label: breast bone and skin removed
+value: 2.303
+
+
+name: Serine
+unit: g
+value: 1.129
+label: breast without skin
+value: 1.49
+label: breast bone and skin removed
+value: 1.118
+
+
+name: Hydroxyproline
+unit: g
+value: 0.759
+label: breast without skin
+value: 1.002
+label: breast bone and skin removed
+value: 0.751
+
+

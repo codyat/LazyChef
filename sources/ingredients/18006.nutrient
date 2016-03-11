@@ -1,0 +1,1342 @@
+ndbno: 18006
+
+
+name: Bagels, cinnamon-raisin, toasted
+
+
+name: Water
+unit: g
+value: 26.9
+label: mini bagel (2-1/2\ dia)
+value: 6.46
+label: small bagel (3-1/2\ to 4\dia)
+value: 17.48
+label: medium bagel (4\ dia)
+value: 26.63
+label: large bagel (4-1/2\ dia)
+value: 33.09
+label: oz
+value: 7.63
+
+
+name: Energy
+unit: kcal
+value: 294.0
+label: mini bagel (2-1/2\ dia)
+value: 71.0
+label: small bagel (3-1/2\ to 4\dia)
+value: 191.0
+label: medium bagel (4\ dia)
+value: 291.0
+label: large bagel (4-1/2\ dia)
+value: 362.0
+label: oz
+value: 83.0
+
+
+name: Energy
+unit: kJ
+value: 1230.0
+label: mini bagel (2-1/2\ dia)
+value: 295.0
+label: small bagel (3-1/2\ to 4\dia)
+value: 800.0
+label: medium bagel (4\ dia)
+value: 1218.0
+label: large bagel (4-1/2\ dia)
+value: 1513.0
+label: oz
+value: 349.0
+
+
+name: Protein
+unit: g
+value: 10.6
+label: mini bagel (2-1/2\ dia)
+value: 2.54
+label: small bagel (3-1/2\ to 4\dia)
+value: 6.89
+label: medium bagel (4\ dia)
+value: 10.49
+label: large bagel (4-1/2\ dia)
+value: 13.04
+label: oz
+value: 3.01
+
+
+name: Total lipid (fat)
+unit: g
+value: 1.8
+label: mini bagel (2-1/2\ dia)
+value: 0.43
+label: small bagel (3-1/2\ to 4\dia)
+value: 1.17
+label: medium bagel (4\ dia)
+value: 1.78
+label: large bagel (4-1/2\ dia)
+value: 2.21
+label: oz
+value: 0.51
+
+
+name: Ash
+unit: g
+value: 1.4
+label: mini bagel (2-1/2\ dia)
+value: 0.34
+label: small bagel (3-1/2\ to 4\dia)
+value: 0.91
+label: medium bagel (4\ dia)
+value: 1.39
+label: large bagel (4-1/2\ dia)
+value: 1.72
+label: oz
+value: 0.4
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 59.3
+label: mini bagel (2-1/2\ dia)
+value: 14.23
+label: small bagel (3-1/2\ to 4\dia)
+value: 38.54
+label: medium bagel (4\ dia)
+value: 58.71
+label: large bagel (4-1/2\ dia)
+value: 72.94
+label: oz
+value: 16.81
+
+
+name: Fiber, total dietary
+unit: g
+value: 2.5
+label: mini bagel (2-1/2\ dia)
+value: 0.6
+label: small bagel (3-1/2\ to 4\dia)
+value: 1.6
+label: medium bagel (4\ dia)
+value: 2.5
+label: large bagel (4-1/2\ dia)
+value: 3.1
+label: oz
+value: 0.7
+
+
+name: Sugars, total
+unit: g
+value: 6.43
+label: mini bagel (2-1/2\ dia)
+value: 1.54
+label: small bagel (3-1/2\ to 4\dia)
+value: 4.18
+label: medium bagel (4\ dia)
+value: 6.37
+label: large bagel (4-1/2\ dia)
+value: 7.91
+label: oz
+value: 1.82
+
+
+name: Calcium, Ca
+unit: mg
+value: 20.0
+label: mini bagel (2-1/2\ dia)
+value: 5.0
+label: small bagel (3-1/2\ to 4\dia)
+value: 13.0
+label: medium bagel (4\ dia)
+value: 20.0
+label: large bagel (4-1/2\ dia)
+value: 25.0
+label: oz
+value: 6.0
+
+
+name: Iron, Fe
+unit: mg
+value: 4.09
+label: mini bagel (2-1/2\ dia)
+value: 0.98
+label: small bagel (3-1/2\ to 4\dia)
+value: 2.66
+label: medium bagel (4\ dia)
+value: 4.05
+label: large bagel (4-1/2\ dia)
+value: 5.03
+label: oz
+value: 1.16
+
+
+name: Magnesium, Mg
+unit: mg
+value: 23.0
+label: mini bagel (2-1/2\ dia)
+value: 6.0
+label: small bagel (3-1/2\ to 4\dia)
+value: 15.0
+label: medium bagel (4\ dia)
+value: 23.0
+label: large bagel (4-1/2\ dia)
+value: 28.0
+label: oz
+value: 7.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 83.0
+label: mini bagel (2-1/2\ dia)
+value: 20.0
+label: small bagel (3-1/2\ to 4\dia)
+value: 54.0
+label: medium bagel (4\ dia)
+value: 82.0
+label: large bagel (4-1/2\ dia)
+value: 102.0
+label: oz
+value: 24.0
+
+
+name: Potassium, K
+unit: mg
+value: 163.0
+label: mini bagel (2-1/2\ dia)
+value: 39.0
+label: small bagel (3-1/2\ to 4\dia)
+value: 106.0
+label: medium bagel (4\ dia)
+value: 161.0
+label: large bagel (4-1/2\ dia)
+value: 200.0
+label: oz
+value: 46.0
+
+
+name: Sodium, Na
+unit: mg
+value: 370.0
+label: mini bagel (2-1/2\ dia)
+value: 89.0
+label: small bagel (3-1/2\ to 4\dia)
+value: 240.0
+label: medium bagel (4\ dia)
+value: 366.0
+label: large bagel (4-1/2\ dia)
+value: 455.0
+label: oz
+value: 105.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.81
+label: mini bagel (2-1/2\ dia)
+value: 0.19
+label: small bagel (3-1/2\ to 4\dia)
+value: 0.53
+label: medium bagel (4\ dia)
+value: 0.8
+label: large bagel (4-1/2\ dia)
+value: 1.0
+label: oz
+value: 0.23
+
+
+name: Copper, Cu
+unit: mg
+value: 0.16
+label: mini bagel (2-1/2\ dia)
+value: 0.038
+label: small bagel (3-1/2\ to 4\dia)
+value: 0.104
+label: medium bagel (4\ dia)
+value: 0.158
+label: large bagel (4-1/2\ dia)
+value: 0.197
+label: oz
+value: 0.045
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.328
+label: mini bagel (2-1/2\ dia)
+value: 0.079
+label: small bagel (3-1/2\ to 4\dia)
+value: 0.213
+label: medium bagel (4\ dia)
+value: 0.325
+label: large bagel (4-1/2\ dia)
+value: 0.403
+label: oz
+value: 0.093
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 33.3
+label: mini bagel (2-1/2\ dia)
+value: 8.0
+label: small bagel (3-1/2\ to 4\dia)
+value: 21.6
+label: medium bagel (4\ dia)
+value: 33.0
+label: large bagel (4-1/2\ dia)
+value: 41.0
+label: oz
+value: 9.4
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.6
+label: mini bagel (2-1/2\ dia)
+value: 0.1
+label: small bagel (3-1/2\ to 4\dia)
+value: 0.4
+label: medium bagel (4\ dia)
+value: 0.6
+label: large bagel (4-1/2\ dia)
+value: 0.7
+label: oz
+value: 0.2
+
+
+name: Thiamin
+unit: mg
+value: 0.33
+label: mini bagel (2-1/2\ dia)
+value: 0.079
+label: small bagel (3-1/2\ to 4\dia)
+value: 0.214
+label: medium bagel (4\ dia)
+value: 0.327
+label: large bagel (4-1/2\ dia)
+value: 0.406
+label: oz
+value: 0.094
+
+
+name: Riboflavin
+unit: mg
+value: 0.268
+label: mini bagel (2-1/2\ dia)
+value: 0.064
+label: small bagel (3-1/2\ to 4\dia)
+value: 0.174
+label: medium bagel (4\ dia)
+value: 0.265
+label: large bagel (4-1/2\ dia)
+value: 0.33
+label: oz
+value: 0.076
+
+
+name: Niacin
+unit: mg
+value: 2.981
+label: mini bagel (2-1/2\ dia)
+value: 0.715
+label: small bagel (3-1/2\ to 4\dia)
+value: 1.938
+label: medium bagel (4\ dia)
+value: 2.951
+label: large bagel (4-1/2\ dia)
+value: 3.667
+label: oz
+value: 0.845
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.047
+label: mini bagel (2-1/2\ dia)
+value: 0.011
+label: small bagel (3-1/2\ to 4\dia)
+value: 0.031
+label: medium bagel (4\ dia)
+value: 0.047
+label: large bagel (4-1/2\ dia)
+value: 0.058
+label: oz
+value: 0.013
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.06
+label: mini bagel (2-1/2\ dia)
+value: 0.014
+label: small bagel (3-1/2\ to 4\dia)
+value: 0.039
+label: medium bagel (4\ dia)
+value: 0.059
+label: large bagel (4-1/2\ dia)
+value: 0.074
+label: oz
+value: 0.017
+
+
+name: Folate, total
+unit: \u00B5g
+value: 102.0
+label: mini bagel (2-1/2\ dia)
+value: 24.0
+label: small bagel (3-1/2\ to 4\dia)
+value: 66.0
+label: medium bagel (4\ dia)
+value: 101.0
+label: large bagel (4-1/2\ dia)
+value: 125.0
+label: oz
+value: 29.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 86.0
+label: mini bagel (2-1/2\ dia)
+value: 21.0
+label: small bagel (3-1/2\ to 4\dia)
+value: 56.0
+label: medium bagel (4\ dia)
+value: 85.0
+label: large bagel (4-1/2\ dia)
+value: 106.0
+label: oz
+value: 24.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 16.0
+label: mini bagel (2-1/2\ dia)
+value: 4.0
+label: small bagel (3-1/2\ to 4\dia)
+value: 10.0
+label: medium bagel (4\ dia)
+value: 16.0
+label: large bagel (4-1/2\ dia)
+value: 20.0
+label: oz
+value: 5.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 162.0
+label: mini bagel (2-1/2\ dia)
+value: 39.0
+label: small bagel (3-1/2\ to 4\dia)
+value: 105.0
+label: medium bagel (4\ dia)
+value: 160.0
+label: large bagel (4-1/2\ dia)
+value: 199.0
+label: oz
+value: 46.0
+
+
+name: Choline, total
+unit: mg
+value: 16.4
+label: mini bagel (2-1/2\ dia)
+value: 3.9
+label: small bagel (3-1/2\ to 4\dia)
+value: 10.7
+label: medium bagel (4\ dia)
+value: 16.2
+label: large bagel (4-1/2\ dia)
+value: 20.2
+label: oz
+value: 4.6
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: mini bagel (2-1/2\ dia)
+value: 0.0
+label: small bagel (3-1/2\ to 4\dia)
+value: 0.0
+label: medium bagel (4\ dia)
+value: 0.0
+label: large bagel (4-1/2\ dia)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: mini bagel (2-1/2\ dia)
+value: 0.0
+label: small bagel (3-1/2\ to 4\dia)
+value: 0.0
+label: medium bagel (4\ dia)
+value: 0.0
+label: large bagel (4-1/2\ dia)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 23.0
+label: mini bagel (2-1/2\ dia)
+value: 6.0
+label: small bagel (3-1/2\ to 4\dia)
+value: 15.0
+label: medium bagel (4\ dia)
+value: 23.0
+label: large bagel (4-1/2\ dia)
+value: 28.0
+label: oz
+value: 7.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 23.0
+label: mini bagel (2-1/2\ dia)
+value: 6.0
+label: small bagel (3-1/2\ to 4\dia)
+value: 15.0
+label: medium bagel (4\ dia)
+value: 23.0
+label: large bagel (4-1/2\ dia)
+value: 28.0
+label: oz
+value: 7.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 1.0
+label: mini bagel (2-1/2\ dia)
+value: 0.0
+label: small bagel (3-1/2\ to 4\dia)
+value: 1.0
+label: medium bagel (4\ dia)
+value: 1.0
+label: large bagel (4-1/2\ dia)
+value: 1.0
+label: oz
+value: 0.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: mini bagel (2-1/2\ dia)
+value: 0.0
+label: small bagel (3-1/2\ to 4\dia)
+value: 0.0
+label: medium bagel (4\ dia)
+value: 0.0
+label: large bagel (4-1/2\ dia)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 2.0
+label: mini bagel (2-1/2\ dia)
+value: 0.0
+label: small bagel (3-1/2\ to 4\dia)
+value: 1.0
+label: medium bagel (4\ dia)
+value: 2.0
+label: large bagel (4-1/2\ dia)
+value: 2.0
+label: oz
+value: 1.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 71.0
+label: mini bagel (2-1/2\ dia)
+value: 17.0
+label: small bagel (3-1/2\ to 4\dia)
+value: 46.0
+label: medium bagel (4\ dia)
+value: 70.0
+label: large bagel (4-1/2\ dia)
+value: 87.0
+label: oz
+value: 20.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: mini bagel (2-1/2\ dia)
+value: 0.0
+label: small bagel (3-1/2\ to 4\dia)
+value: 0.0
+label: medium bagel (4\ dia)
+value: 0.0
+label: large bagel (4-1/2\ dia)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 56.0
+label: mini bagel (2-1/2\ dia)
+value: 13.0
+label: small bagel (3-1/2\ to 4\dia)
+value: 36.0
+label: medium bagel (4\ dia)
+value: 55.0
+label: large bagel (4-1/2\ dia)
+value: 69.0
+label: oz
+value: 16.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.34
+label: mini bagel (2-1/2\ dia)
+value: 0.08
+label: small bagel (3-1/2\ to 4\dia)
+value: 0.22
+label: medium bagel (4\ dia)
+value: 0.34
+label: large bagel (4-1/2\ dia)
+value: 0.42
+label: oz
+value: 0.1
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: mini bagel (2-1/2\ dia)
+value: 0.0
+label: small bagel (3-1/2\ to 4\dia)
+value: 0.0
+label: medium bagel (4\ dia)
+value: 0.0
+label: large bagel (4-1/2\ dia)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: mini bagel (2-1/2\ dia)
+value: 0.0
+label: small bagel (3-1/2\ to 4\dia)
+value: 0.0
+label: medium bagel (4\ dia)
+value: 0.0
+label: large bagel (4-1/2\ dia)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: mini bagel (2-1/2\ dia)
+value: 0.0
+label: small bagel (3-1/2\ to 4\dia)
+value: 0.0
+label: medium bagel (4\ dia)
+value: 0.0
+label: large bagel (4-1/2\ dia)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 0.8
+label: mini bagel (2-1/2\ dia)
+value: 0.2
+label: small bagel (3-1/2\ to 4\dia)
+value: 0.5
+label: medium bagel (4\ dia)
+value: 0.8
+label: large bagel (4-1/2\ dia)
+value: 1.0
+label: oz
+value: 0.2
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.295
+label: mini bagel (2-1/2\ dia)
+value: 0.071
+label: small bagel (3-1/2\ to 4\dia)
+value: 0.192
+label: medium bagel (4\ dia)
+value: 0.292
+label: large bagel (4-1/2\ dia)
+value: 0.363
+label: oz
+value: 0.084
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: mini bagel (2-1/2\ dia)
+value: 0.0
+label: small bagel (3-1/2\ to 4\dia)
+value: 0.0
+label: medium bagel (4\ dia)
+value: 0.0
+label: large bagel (4-1/2\ dia)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: mini bagel (2-1/2\ dia)
+value: 0.0
+label: small bagel (3-1/2\ to 4\dia)
+value: 0.0
+label: medium bagel (4\ dia)
+value: 0.0
+label: large bagel (4-1/2\ dia)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: mini bagel (2-1/2\ dia)
+value: 0.0
+label: small bagel (3-1/2\ to 4\dia)
+value: 0.0
+label: medium bagel (4\ dia)
+value: 0.0
+label: large bagel (4-1/2\ dia)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: mini bagel (2-1/2\ dia)
+value: 0.0
+label: small bagel (3-1/2\ to 4\dia)
+value: 0.0
+label: medium bagel (4\ dia)
+value: 0.0
+label: large bagel (4-1/2\ dia)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.001
+label: mini bagel (2-1/2\ dia)
+value: 0.0
+label: small bagel (3-1/2\ to 4\dia)
+value: 0.001
+label: medium bagel (4\ dia)
+value: 0.001
+label: large bagel (4-1/2\ dia)
+value: 0.001
+label: oz
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.003
+label: mini bagel (2-1/2\ dia)
+value: 0.001
+label: small bagel (3-1/2\ to 4\dia)
+value: 0.002
+label: medium bagel (4\ dia)
+value: 0.003
+label: large bagel (4-1/2\ dia)
+value: 0.004
+label: oz
+value: 0.001
+
+
+name: 16:0
+unit: g
+value: 0.27
+label: mini bagel (2-1/2\ dia)
+value: 0.065
+label: small bagel (3-1/2\ to 4\dia)
+value: 0.176
+label: medium bagel (4\ dia)
+value: 0.267
+label: large bagel (4-1/2\ dia)
+value: 0.332
+label: oz
+value: 0.077
+
+
+name: 18:0
+unit: g
+value: 0.022
+label: mini bagel (2-1/2\ dia)
+value: 0.005
+label: small bagel (3-1/2\ to 4\dia)
+value: 0.014
+label: medium bagel (4\ dia)
+value: 0.022
+label: large bagel (4-1/2\ dia)
+value: 0.027
+label: oz
+value: 0.006
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.188
+label: mini bagel (2-1/2\ dia)
+value: 0.045
+label: small bagel (3-1/2\ to 4\dia)
+value: 0.122
+label: medium bagel (4\ dia)
+value: 0.186
+label: large bagel (4-1/2\ dia)
+value: 0.231
+label: oz
+value: 0.053
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.015
+label: mini bagel (2-1/2\ dia)
+value: 0.004
+label: small bagel (3-1/2\ to 4\dia)
+value: 0.01
+label: medium bagel (4\ dia)
+value: 0.015
+label: large bagel (4-1/2\ dia)
+value: 0.018
+label: oz
+value: 0.004
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.173
+label: mini bagel (2-1/2\ dia)
+value: 0.042
+label: small bagel (3-1/2\ to 4\dia)
+value: 0.112
+label: medium bagel (4\ dia)
+value: 0.171
+label: large bagel (4-1/2\ dia)
+value: 0.213
+label: oz
+value: 0.049
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: mini bagel (2-1/2\ dia)
+value: 0.0
+label: small bagel (3-1/2\ to 4\dia)
+value: 0.0
+label: medium bagel (4\ dia)
+value: 0.0
+label: large bagel (4-1/2\ dia)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: mini bagel (2-1/2\ dia)
+value: 0.0
+label: small bagel (3-1/2\ to 4\dia)
+value: 0.0
+label: medium bagel (4\ dia)
+value: 0.0
+label: large bagel (4-1/2\ dia)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.722
+label: mini bagel (2-1/2\ dia)
+value: 0.173
+label: small bagel (3-1/2\ to 4\dia)
+value: 0.469
+label: medium bagel (4\ dia)
+value: 0.715
+label: large bagel (4-1/2\ dia)
+value: 0.888
+label: oz
+value: 0.205
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.68
+label: mini bagel (2-1/2\ dia)
+value: 0.163
+label: small bagel (3-1/2\ to 4\dia)
+value: 0.442
+label: medium bagel (4\ dia)
+value: 0.673
+label: large bagel (4-1/2\ dia)
+value: 0.836
+label: oz
+value: 0.193
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.042
+label: mini bagel (2-1/2\ dia)
+value: 0.01
+label: small bagel (3-1/2\ to 4\dia)
+value: 0.027
+label: medium bagel (4\ dia)
+value: 0.042
+label: large bagel (4-1/2\ dia)
+value: 0.052
+label: oz
+value: 0.012
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: mini bagel (2-1/2\ dia)
+value: 0.0
+label: small bagel (3-1/2\ to 4\dia)
+value: 0.0
+label: medium bagel (4\ dia)
+value: 0.0
+label: large bagel (4-1/2\ dia)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: mini bagel (2-1/2\ dia)
+value: 0.0
+label: small bagel (3-1/2\ to 4\dia)
+value: 0.0
+label: medium bagel (4\ dia)
+value: 0.0
+label: large bagel (4-1/2\ dia)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: mini bagel (2-1/2\ dia)
+value: 0.0
+label: small bagel (3-1/2\ to 4\dia)
+value: 0.0
+label: medium bagel (4\ dia)
+value: 0.0
+label: large bagel (4-1/2\ dia)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: mini bagel (2-1/2\ dia)
+value: 0.0
+label: small bagel (3-1/2\ to 4\dia)
+value: 0.0
+label: medium bagel (4\ dia)
+value: 0.0
+label: large bagel (4-1/2\ dia)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: mini bagel (2-1/2\ dia)
+value: 0.0
+label: small bagel (3-1/2\ to 4\dia)
+value: 0.0
+label: medium bagel (4\ dia)
+value: 0.0
+label: large bagel (4-1/2\ dia)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: mini bagel (2-1/2\ dia)
+value: 0.0
+label: small bagel (3-1/2\ to 4\dia)
+value: 0.0
+label: medium bagel (4\ dia)
+value: 0.0
+label: large bagel (4-1/2\ dia)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Tryptophan
+unit: g
+value: 0.122
+label: mini bagel (2-1/2\ dia)
+value: 0.029
+label: small bagel (3-1/2\ to 4\dia)
+value: 0.079
+label: medium bagel (4\ dia)
+value: 0.121
+label: large bagel (4-1/2\ dia)
+value: 0.15
+label: oz
+value: 0.035
+
+
+name: Threonine
+unit: g
+value: 0.306
+label: mini bagel (2-1/2\ dia)
+value: 0.073
+label: small bagel (3-1/2\ to 4\dia)
+value: 0.199
+label: medium bagel (4\ dia)
+value: 0.303
+label: large bagel (4-1/2\ dia)
+value: 0.376
+label: oz
+value: 0.087
+
+
+name: Isoleucine
+unit: g
+value: 0.395
+label: mini bagel (2-1/2\ dia)
+value: 0.095
+label: small bagel (3-1/2\ to 4\dia)
+value: 0.257
+label: medium bagel (4\ dia)
+value: 0.391
+label: large bagel (4-1/2\ dia)
+value: 0.486
+label: oz
+value: 0.112
+
+
+name: Leucine
+unit: g
+value: 0.721
+label: mini bagel (2-1/2\ dia)
+value: 0.173
+label: small bagel (3-1/2\ to 4\dia)
+value: 0.469
+label: medium bagel (4\ dia)
+value: 0.714
+label: large bagel (4-1/2\ dia)
+value: 0.887
+label: oz
+value: 0.204
+
+
+name: Lysine
+unit: g
+value: 0.256
+label: mini bagel (2-1/2\ dia)
+value: 0.061
+label: small bagel (3-1/2\ to 4\dia)
+value: 0.166
+label: medium bagel (4\ dia)
+value: 0.253
+label: large bagel (4-1/2\ dia)
+value: 0.315
+label: oz
+value: 0.073
+
+
+name: Methionine
+unit: g
+value: 0.193
+label: mini bagel (2-1/2\ dia)
+value: 0.046
+label: small bagel (3-1/2\ to 4\dia)
+value: 0.125
+label: medium bagel (4\ dia)
+value: 0.191
+label: large bagel (4-1/2\ dia)
+value: 0.237
+label: oz
+value: 0.055
+
+
+name: Cystine
+unit: g
+value: 0.226
+label: mini bagel (2-1/2\ dia)
+value: 0.054
+label: small bagel (3-1/2\ to 4\dia)
+value: 0.147
+label: medium bagel (4\ dia)
+value: 0.224
+label: large bagel (4-1/2\ dia)
+value: 0.278
+label: oz
+value: 0.064
+
+
+name: Phenylalanine
+unit: g
+value: 0.51
+label: mini bagel (2-1/2\ dia)
+value: 0.122
+label: small bagel (3-1/2\ to 4\dia)
+value: 0.331
+label: medium bagel (4\ dia)
+value: 0.505
+label: large bagel (4-1/2\ dia)
+value: 0.627
+label: oz
+value: 0.145
+
+
+name: Tyrosine
+unit: g
+value: 0.293
+label: mini bagel (2-1/2\ dia)
+value: 0.07
+label: small bagel (3-1/2\ to 4\dia)
+value: 0.19
+label: medium bagel (4\ dia)
+value: 0.29
+label: large bagel (4-1/2\ dia)
+value: 0.36
+label: oz
+value: 0.083
+
+
+name: Valine
+unit: g
+value: 0.456
+label: mini bagel (2-1/2\ dia)
+value: 0.109
+label: small bagel (3-1/2\ to 4\dia)
+value: 0.296
+label: medium bagel (4\ dia)
+value: 0.451
+label: large bagel (4-1/2\ dia)
+value: 0.561
+label: oz
+value: 0.129
+
+
+name: Arginine
+unit: g
+value: 0.406
+label: mini bagel (2-1/2\ dia)
+value: 0.097
+label: small bagel (3-1/2\ to 4\dia)
+value: 0.264
+label: medium bagel (4\ dia)
+value: 0.402
+label: large bagel (4-1/2\ dia)
+value: 0.499
+label: oz
+value: 0.115
+
+
+name: Histidine
+unit: g
+value: 0.234
+label: mini bagel (2-1/2\ dia)
+value: 0.056
+label: small bagel (3-1/2\ to 4\dia)
+value: 0.152
+label: medium bagel (4\ dia)
+value: 0.232
+label: large bagel (4-1/2\ dia)
+value: 0.288
+label: oz
+value: 0.066
+
+
+name: Alanine
+unit: g
+value: 0.358
+label: mini bagel (2-1/2\ dia)
+value: 0.086
+label: small bagel (3-1/2\ to 4\dia)
+value: 0.233
+label: medium bagel (4\ dia)
+value: 0.354
+label: large bagel (4-1/2\ dia)
+value: 0.44
+label: oz
+value: 0.101
+
+
+name: Aspartic acid
+unit: g
+value: 0.516
+label: mini bagel (2-1/2\ dia)
+value: 0.124
+label: small bagel (3-1/2\ to 4\dia)
+value: 0.335
+label: medium bagel (4\ dia)
+value: 0.511
+label: large bagel (4-1/2\ dia)
+value: 0.635
+label: oz
+value: 0.146
+
+
+name: Glutamic acid
+unit: g
+value: 3.484
+label: mini bagel (2-1/2\ dia)
+value: 0.836
+label: small bagel (3-1/2\ to 4\dia)
+value: 2.265
+label: medium bagel (4\ dia)
+value: 3.449
+label: large bagel (4-1/2\ dia)
+value: 4.285
+label: oz
+value: 0.988
+
+
+name: Glycine
+unit: g
+value: 0.369
+label: mini bagel (2-1/2\ dia)
+value: 0.089
+label: small bagel (3-1/2\ to 4\dia)
+value: 0.24
+label: medium bagel (4\ dia)
+value: 0.365
+label: large bagel (4-1/2\ dia)
+value: 0.454
+label: oz
+value: 0.105
+
+
+name: Proline
+unit: g
+value: 1.161
+label: mini bagel (2-1/2\ dia)
+value: 0.279
+label: small bagel (3-1/2\ to 4\dia)
+value: 0.755
+label: medium bagel (4\ dia)
+value: 1.149
+label: large bagel (4-1/2\ dia)
+value: 1.428
+label: oz
+value: 0.329
+
+
+name: Serine
+unit: g
+value: 0.517
+label: mini bagel (2-1/2\ dia)
+value: 0.124
+label: small bagel (3-1/2\ to 4\dia)
+value: 0.336
+label: medium bagel (4\ dia)
+value: 0.512
+label: large bagel (4-1/2\ dia)
+value: 0.636
+label: oz
+value: 0.147
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: mini bagel (2-1/2\ dia)
+value: 0.0
+label: small bagel (3-1/2\ to 4\dia)
+value: 0.0
+label: medium bagel (4\ dia)
+value: 0.0
+label: large bagel (4-1/2\ dia)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: mini bagel (2-1/2\ dia)
+value: 0.0
+label: small bagel (3-1/2\ to 4\dia)
+value: 0.0
+label: medium bagel (4\ dia)
+value: 0.0
+label: large bagel (4-1/2\ dia)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: mini bagel (2-1/2\ dia)
+value: 0.0
+label: small bagel (3-1/2\ to 4\dia)
+value: 0.0
+label: medium bagel (4\ dia)
+value: 0.0
+label: large bagel (4-1/2\ dia)
+value: 0.0
+label: oz
+value: 0.0
+
+
+

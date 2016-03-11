@@ -1,0 +1,378 @@
+ndbno: 21112
+
+
+name: Fast foods, hamburger; single, large patty; plain
+
+
+name: Water
+unit: g
+value: 42.1
+label: sandwich
+value: 57.68
+
+
+name: Energy
+unit: kcal
+value: 311.0
+label: sandwich
+value: 426.0
+
+
+name: Energy
+unit: kJ
+value: 1301.0
+label: sandwich
+value: 1782.0
+
+
+name: Protein
+unit: g
+value: 16.51
+label: sandwich
+value: 22.62
+
+
+name: Total lipid (fat)
+unit: g
+value: 16.73
+label: sandwich
+value: 22.92
+
+
+name: Ash
+unit: g
+value: 1.5
+label: sandwich
+value: 2.06
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 23.16
+label: sandwich
+value: 31.73
+
+
+name: Calcium, Ca
+unit: mg
+value: 54.0
+label: sandwich
+value: 74.0
+
+
+name: Iron, Fe
+unit: mg
+value: 2.61
+label: sandwich
+value: 3.58
+
+
+name: Magnesium, Mg
+unit: mg
+value: 20.0
+label: sandwich
+value: 27.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 128.0
+label: sandwich
+value: 175.0
+
+
+name: Potassium, K
+unit: mg
+value: 195.0
+label: sandwich
+value: 267.0
+
+
+name: Sodium, Na
+unit: mg
+value: 346.0
+label: sandwich
+value: 474.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 3.0
+label: sandwich
+value: 4.11
+
+
+name: Copper, Cu
+unit: mg
+value: 0.095
+label: sandwich
+value: 0.13
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.178
+label: sandwich
+value: 0.244
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 19.8
+label: sandwich
+value: 27.1
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: sandwich
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.21
+label: sandwich
+value: 0.288
+
+
+name: Riboflavin
+unit: mg
+value: 0.21
+label: sandwich
+value: 0.288
+
+
+name: Niacin
+unit: mg
+value: 4.56
+label: sandwich
+value: 6.247
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.39
+label: sandwich
+value: 0.534
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.17
+label: sandwich
+value: 0.233
+
+
+name: Folate, total
+unit: \u00B5g
+value: 44.0
+label: sandwich
+value: 60.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 21.0
+label: sandwich
+value: 29.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 23.0
+label: sandwich
+value: 32.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 59.0
+label: sandwich
+value: 81.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 1.5
+label: sandwich
+value: 2.06
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 0.0
+label: sandwich
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: sandwich
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 0.0
+label: sandwich
+value: 0.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 6.12
+label: sandwich
+value: 8.384
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 7.21
+label: sandwich
+value: 9.878
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 1.56
+label: sandwich
+value: 2.137
+
+
+name: Cholesterol
+unit: mg
+value: 52.0
+label: sandwich
+value: 71.0
+
+
+name: Tryptophan
+unit: g
+value: 0.2
+label: sandwich
+value: 0.274
+
+
+name: Threonine
+unit: g
+value: 0.639
+label: sandwich
+value: 0.875
+
+
+name: Isoleucine
+unit: g
+value: 0.692
+label: sandwich
+value: 0.948
+
+
+name: Leucine
+unit: g
+value: 1.27
+label: sandwich
+value: 1.74
+
+
+name: Lysine
+unit: g
+value: 1.153
+label: sandwich
+value: 1.58
+
+
+name: Methionine
+unit: g
+value: 0.354
+label: sandwich
+value: 0.485
+
+
+name: Cystine
+unit: g
+value: 0.186
+label: sandwich
+value: 0.255
+
+
+name: Phenylalanine
+unit: g
+value: 0.663
+label: sandwich
+value: 0.908
+
+
+name: Tyrosine
+unit: g
+value: 0.482
+label: sandwich
+value: 0.66
+
+
+name: Valine
+unit: g
+value: 0.799
+label: sandwich
+value: 1.095
+
+
+name: Arginine
+unit: g
+value: 1.004
+label: sandwich
+value: 1.375
+
+
+name: Histidine
+unit: g
+value: 0.482
+label: sandwich
+value: 0.66
+
+
+name: Alanine
+unit: g
+value: 0.956
+label: sandwich
+value: 1.31
+
+
+name: Aspartic acid
+unit: g
+value: 1.347
+label: sandwich
+value: 1.845
+
+
+name: Glutamic acid
+unit: g
+value: 3.15
+label: sandwich
+value: 4.316
+
+
+name: Glycine
+unit: g
+value: 1.081
+label: sandwich
+value: 1.481
+
+
+name: Proline
+unit: g
+value: 1.041
+label: sandwich
+value: 1.426
+
+
+name: Serine
+unit: g
+value: 0.679
+label: sandwich
+value: 0.93
+
+
+

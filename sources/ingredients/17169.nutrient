@@ -1,0 +1,763 @@
+ndbno: 17169
+
+
+name: Game meat, goat, cooked, roasted
+
+
+name: Water
+unit: g
+value: 68.21
+label: oz
+value: 57.98
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 231.91
+
+
+name: Energy
+unit: kcal
+value: 143.0
+label: oz
+value: 122.0
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 486.0
+
+
+name: Energy
+unit: kJ
+value: 599.0
+label: oz
+value: 509.0
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 2037.0
+
+
+name: Protein
+unit: g
+value: 27.1
+label: oz
+value: 23.04
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 92.14
+
+
+name: Total lipid (fat)
+unit: g
+value: 3.03
+label: oz
+value: 2.58
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 10.3
+
+
+name: Ash
+unit: g
+value: 1.46
+label: oz
+value: 1.24
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 4.96
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 0.0
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 0.0
+
+
+name: Sugars, total
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 17.0
+label: oz
+value: 14.0
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 58.0
+
+
+name: Iron, Fe
+unit: mg
+value: 3.73
+label: oz
+value: 3.17
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 12.68
+
+
+name: Magnesium, Mg
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 0.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 201.0
+label: oz
+value: 171.0
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 683.0
+
+
+name: Potassium, K
+unit: mg
+value: 405.0
+label: oz
+value: 344.0
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 1377.0
+
+
+name: Sodium, Na
+unit: mg
+value: 86.0
+label: oz
+value: 73.0
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 292.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 5.27
+label: oz
+value: 4.48
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 17.92
+
+
+name: Copper, Cu
+unit: mg
+value: 0.303
+label: oz
+value: 0.258
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 1.03
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.042
+label: oz
+value: 0.036
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 0.143
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 11.8
+label: oz
+value: 10.0
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 40.1
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.09
+label: oz
+value: 0.076
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 0.306
+
+
+name: Riboflavin
+unit: mg
+value: 0.61
+label: oz
+value: 0.518
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 2.074
+
+
+name: Niacin
+unit: mg
+value: 3.95
+label: oz
+value: 3.358
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 13.43
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 0.0
+
+
+name: Folate, total
+unit: \u00B5g
+value: 5.0
+label: oz
+value: 4.0
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 17.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 5.0
+label: oz
+value: 4.0
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 17.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 5.0
+label: oz
+value: 4.0
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 17.0
+
+
+name: Choline, total
+unit: mg
+value: 106.4
+label: oz
+value: 90.4
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 361.8
+
+
+name: Betaine
+unit: mg
+value: 14.0
+label: oz
+value: 11.9
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 47.6
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 1.19
+label: oz
+value: 1.01
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 4.05
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 0.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 0.0
+label: oz
+value: 0.0
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 0.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 0.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.34
+label: oz
+value: 0.29
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 1.16
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 0.0
+
+
+name: Vitamin D3 (cholecalciferol)
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: oz
+value: 0.0
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 1.2
+label: oz
+value: 1.0
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 4.1
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.93
+label: oz
+value: 0.79
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 3.162
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.04
+label: oz
+value: 0.034
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 0.136
+
+
+name: 16:0
+unit: g
+value: 0.43
+label: oz
+value: 0.366
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 1.462
+
+
+name: 18:0
+unit: g
+value: 0.43
+label: oz
+value: 0.366
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 1.462
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 1.36
+label: oz
+value: 1.156
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 4.624
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.06
+label: oz
+value: 0.051
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 0.204
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 1.24
+label: oz
+value: 1.054
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 4.216
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.23
+label: oz
+value: 0.196
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 0.782
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.13
+label: oz
+value: 0.11
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 0.442
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.02
+label: oz
+value: 0.017
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 0.068
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.08
+label: oz
+value: 0.068
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 0.272
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 75.0
+label: oz
+value: 64.0
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 255.0
+
+
+name: Tryptophan
+unit: g
+value: 0.403
+label: oz
+value: 0.343
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 1.37
+
+
+name: Threonine
+unit: g
+value: 1.29
+label: oz
+value: 1.096
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 4.386
+
+
+name: Isoleucine
+unit: g
+value: 1.371
+label: oz
+value: 1.165
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 4.661
+
+
+name: Leucine
+unit: g
+value: 2.258
+label: oz
+value: 1.919
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 7.677
+
+
+name: Lysine
+unit: g
+value: 2.016
+label: oz
+value: 1.714
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 6.854
+
+
+name: Methionine
+unit: g
+value: 0.726
+label: oz
+value: 0.617
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 2.468
+
+
+name: Cystine
+unit: g
+value: 0.323
+label: oz
+value: 0.275
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 1.098
+
+
+name: Phenylalanine
+unit: g
+value: 0.941
+label: oz
+value: 0.8
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 3.199
+
+
+name: Tyrosine
+unit: g
+value: 0.833
+label: oz
+value: 0.708
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 2.832
+
+
+name: Valine
+unit: g
+value: 1.452
+label: oz
+value: 1.234
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 4.937
+
+
+name: Arginine
+unit: g
+value: 1.989
+label: oz
+value: 1.691
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 6.763
+
+
+name: Histidine
+unit: g
+value: 0.565
+label: oz
+value: 0.48
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 1.921
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: piece, cooked (yield from 1 lb raw meat, boneless)
+value: 0.0
+
+
+

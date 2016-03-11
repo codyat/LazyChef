@@ -1,0 +1,847 @@
+ndbno: 43384
+
+
+name: Beef, bologna, reduced sodium
+
+
+name: Water
+unit: g
+value: 54.8
+label: cup pieces
+value: 75.62
+label: slice, medium
+value: 15.34
+label: slice, thin
+value: 23.56
+    null
+
+
+name: Energy
+unit: kcal
+value: 310.0
+label: cup pieces
+value: 428.0
+label: slice, medium
+value: 87.0
+label: slice, thin
+value: 133.0
+    null
+
+
+name: Energy
+unit: kJ
+value: 1299.0
+label: cup pieces
+value: 1793.0
+label: slice, medium
+value: 364.0
+label: slice, thin
+value: 559.0
+    null
+
+
+name: Protein
+unit: g
+value: 11.7
+label: cup pieces
+value: 16.15
+label: slice, medium
+value: 3.28
+label: slice, thin
+value: 5.03
+    null
+
+
+name: Total lipid (fat)
+unit: g
+value: 28.4
+label: cup pieces
+value: 39.19
+label: slice, medium
+value: 7.95
+label: slice, thin
+value: 12.21
+    null
+
+
+name: Ash
+unit: g
+value: 3.1
+label: cup pieces
+value: 4.28
+label: slice, medium
+value: 0.87
+label: slice, thin
+value: 1.33
+    null
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 2.0
+label: cup pieces
+value: 2.76
+label: slice, medium
+value: 0.56
+label: slice, thin
+value: 0.86
+    null
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: cup pieces
+value: 0.0
+label: slice, medium
+value: 0.0
+label: slice, thin
+value: 0.0
+    null
+
+
+name: Sugars, total
+unit: g
+value: 0.0
+label: cup pieces
+value: 0.0
+label: slice, medium
+value: 0.0
+label: slice, thin
+value: 0.0
+    null
+
+
+name: Calcium, Ca
+unit: mg
+value: 12.0
+label: cup pieces
+value: 17.0
+label: slice, medium
+value: 3.0
+label: slice, thin
+value: 5.0
+    null
+
+
+name: Iron, Fe
+unit: mg
+value: 1.4
+label: cup pieces
+value: 1.93
+label: slice, medium
+value: 0.39
+label: slice, thin
+value: 0.6
+    null
+
+
+name: Magnesium, Mg
+unit: mg
+value: 10.0
+label: cup pieces
+value: 14.0
+label: slice, medium
+value: 3.0
+label: slice, thin
+value: 4.0
+    null
+
+
+name: Phosphorus, P
+unit: mg
+value: 82.0
+label: cup pieces
+value: 113.0
+label: slice, medium
+value: 23.0
+label: slice, thin
+value: 35.0
+    null
+
+
+name: Potassium, K
+unit: mg
+value: 155.0
+label: cup pieces
+value: 214.0
+label: slice, medium
+value: 43.0
+label: slice, thin
+value: 67.0
+    null
+
+
+name: Sodium, Na
+unit: mg
+value: 682.0
+label: cup pieces
+value: 941.0
+label: slice, medium
+value: 191.0
+label: slice, thin
+value: 293.0
+    null
+
+
+name: Zinc, Zn
+unit: mg
+value: 2.0
+label: cup pieces
+value: 2.76
+label: slice, medium
+value: 0.56
+label: slice, thin
+value: 0.86
+    null
+
+
+name: Copper, Cu
+unit: mg
+value: 0.03
+label: cup pieces
+value: 0.041
+label: slice, medium
+value: 0.008
+label: slice, thin
+value: 0.013
+    null
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 11.7
+label: cup pieces
+value: 16.1
+label: slice, medium
+value: 3.3
+label: slice, thin
+value: 5.0
+    null
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: cup pieces
+value: 0.0
+label: slice, medium
+value: 0.0
+label: slice, thin
+value: 0.0
+    null
+
+
+name: Thiamin
+unit: mg
+value: 0.06
+label: cup pieces
+value: 0.083
+label: slice, medium
+value: 0.017
+label: slice, thin
+value: 0.026
+    null
+
+
+name: Riboflavin
+unit: mg
+value: 0.13
+label: cup pieces
+value: 0.179
+label: slice, medium
+value: 0.036
+label: slice, thin
+value: 0.056
+    null
+
+
+name: Niacin
+unit: mg
+value: 2.63
+label: cup pieces
+value: 3.629
+label: slice, medium
+value: 0.736
+label: slice, thin
+value: 1.131
+    null
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.18
+label: cup pieces
+value: 0.248
+label: slice, medium
+value: 0.05
+label: slice, thin
+value: 0.077
+    null
+
+
+name: Folate, total
+unit: \u00B5g
+value: 5.0
+label: cup pieces
+value: 7.0
+label: slice, medium
+value: 1.0
+label: slice, thin
+value: 2.0
+    null
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: cup pieces
+value: 0.0
+label: slice, medium
+value: 0.0
+label: slice, thin
+value: 0.0
+    null
+
+
+name: Folate, food
+unit: \u00B5g
+value: 5.0
+label: cup pieces
+value: 7.0
+label: slice, medium
+value: 1.0
+label: slice, thin
+value: 2.0
+    null
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 5.0
+label: cup pieces
+value: 7.0
+label: slice, medium
+value: 1.0
+label: slice, thin
+value: 2.0
+    null
+
+
+name: Choline, total
+unit: mg
+value: 44.3
+label: cup pieces
+value: 61.1
+label: slice, medium
+value: 12.4
+label: slice, thin
+value: 19.0
+    null
+
+
+name: Betaine
+unit: mg
+value: 4.8
+label: cup pieces
+value: 6.6
+label: slice, medium
+value: 1.3
+label: slice, thin
+value: 2.1
+    null
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 1.41
+label: cup pieces
+value: 1.95
+label: slice, medium
+value: 0.39
+label: slice, thin
+value: 0.61
+    null
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: cup pieces
+value: 0.0
+label: slice, medium
+value: 0.0
+label: slice, thin
+value: 0.0
+    null
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 0.0
+label: cup pieces
+value: 0.0
+label: slice, medium
+value: 0.0
+label: slice, thin
+value: 0.0
+    null
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: cup pieces
+value: 0.0
+label: slice, medium
+value: 0.0
+label: slice, thin
+value: 0.0
+    null
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 0.0
+label: cup pieces
+value: 0.0
+label: slice, medium
+value: 0.0
+label: slice, thin
+value: 0.0
+    null
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: cup pieces
+value: 0.0
+label: slice, medium
+value: 0.0
+label: slice, thin
+value: 0.0
+    null
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: cup pieces
+value: 0.0
+label: slice, medium
+value: 0.0
+label: slice, thin
+value: 0.0
+    null
+
+
+name: Vitamin A, IU
+unit: IU
+value: 0.0
+label: cup pieces
+value: 0.0
+label: slice, medium
+value: 0.0
+label: slice, thin
+value: 0.0
+    null
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: cup pieces
+value: 0.0
+label: slice, medium
+value: 0.0
+label: slice, thin
+value: 0.0
+    null
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 0.0
+label: cup pieces
+value: 0.0
+label: slice, medium
+value: 0.0
+label: slice, thin
+value: 0.0
+    null
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.19
+label: cup pieces
+value: 0.26
+label: slice, medium
+value: 0.05
+label: slice, thin
+value: 0.08
+    null
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: cup pieces
+value: 0.0
+label: slice, medium
+value: 0.0
+label: slice, thin
+value: 0.0
+    null
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.7
+label: cup pieces
+value: 1.0
+label: slice, medium
+value: 0.2
+label: slice, thin
+value: 0.3
+    null
+
+
+name: Vitamin D
+unit: IU
+value: 28.0
+label: cup pieces
+value: 39.0
+label: slice, medium
+value: 8.0
+label: slice, thin
+value: 12.0
+    null
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 0.3
+label: cup pieces
+value: 0.4
+label: slice, medium
+value: 0.1
+label: slice, thin
+value: 0.1
+    null
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 11.676
+label: cup pieces
+value: 16.113
+label: slice, medium
+value: 3.269
+label: slice, thin
+value: 5.021
+    null
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: cup pieces
+value: 0.0
+label: slice, medium
+value: 0.0
+label: slice, thin
+value: 0.0
+    null
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: cup pieces
+value: 0.0
+label: slice, medium
+value: 0.0
+label: slice, thin
+value: 0.0
+    null
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: cup pieces
+value: 0.0
+label: slice, medium
+value: 0.0
+label: slice, thin
+value: 0.0
+    null
+
+
+name: 10:0
+unit: g
+value: 0.07
+label: cup pieces
+value: 0.097
+label: slice, medium
+value: 0.02
+label: slice, thin
+value: 0.03
+    null
+
+
+name: 12:0
+unit: g
+value: 0.04
+label: cup pieces
+value: 0.055
+label: slice, medium
+value: 0.011
+label: slice, thin
+value: 0.017
+    null
+
+
+name: 14:0
+unit: g
+value: 0.821
+label: cup pieces
+value: 1.133
+label: slice, medium
+value: 0.23
+label: slice, thin
+value: 0.353
+    null
+
+
+name: 16:0
+unit: g
+value: 6.559
+label: cup pieces
+value: 9.051
+label: slice, medium
+value: 1.837
+label: slice, thin
+value: 2.82
+    null
+
+
+name: 18:0
+unit: g
+value: 4.196
+label: cup pieces
+value: 5.79
+label: slice, medium
+value: 1.175
+label: slice, thin
+value: 1.804
+    null
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 13.299
+label: cup pieces
+value: 18.353
+label: slice, medium
+value: 3.724
+label: slice, thin
+value: 5.719
+    null
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 1.562
+label: cup pieces
+value: 2.156
+label: slice, medium
+value: 0.437
+label: slice, thin
+value: 0.672
+    null
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 11.736
+label: cup pieces
+value: 16.196
+label: slice, medium
+value: 3.286
+label: slice, thin
+value: 5.046
+    null
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: cup pieces
+value: 0.0
+label: slice, medium
+value: 0.0
+label: slice, thin
+value: 0.0
+    null
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: cup pieces
+value: 0.0
+label: slice, medium
+value: 0.0
+label: slice, thin
+value: 0.0
+    null
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 1.051
+label: cup pieces
+value: 1.45
+label: slice, medium
+value: 0.294
+label: slice, thin
+value: 0.452
+    null
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.811
+label: cup pieces
+value: 1.119
+label: slice, medium
+value: 0.227
+label: slice, thin
+value: 0.349
+    null
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.24
+label: cup pieces
+value: 0.331
+label: slice, medium
+value: 0.067
+label: slice, thin
+value: 0.103
+    null
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: cup pieces
+value: 0.0
+label: slice, medium
+value: 0.0
+label: slice, thin
+value: 0.0
+    null
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: cup pieces
+value: 0.0
+label: slice, medium
+value: 0.0
+label: slice, thin
+value: 0.0
+    null
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: cup pieces
+value: 0.0
+label: slice, medium
+value: 0.0
+label: slice, thin
+value: 0.0
+    null
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: cup pieces
+value: 0.0
+label: slice, medium
+value: 0.0
+label: slice, thin
+value: 0.0
+    null
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: cup pieces
+value: 0.0
+label: slice, medium
+value: 0.0
+label: slice, thin
+value: 0.0
+    null
+
+
+name: Cholesterol
+unit: mg
+value: 56.0
+label: cup pieces
+value: 77.0
+label: slice, medium
+value: 16.0
+label: slice, thin
+value: 24.0
+    null
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: cup pieces
+value: 0.0
+label: slice, medium
+value: 0.0
+label: slice, thin
+value: 0.0
+    null
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: cup pieces
+value: 0.0
+label: slice, medium
+value: 0.0
+label: slice, thin
+value: 0.0
+    null
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: cup pieces
+value: 0.0
+label: slice, medium
+value: 0.0
+label: slice, thin
+value: 0.0
+    null
+
+
+

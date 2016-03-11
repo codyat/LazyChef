@@ -1,0 +1,924 @@
+ndbno: 19802
+
+
+name: Snacks, corn-based, extruded, puffs or twists, cheese-flavor, unenriched
+
+
+name: Water
+unit: g
+value: 1.5
+label: oz
+value: 0.43
+label: bag (8 oz)
+value: 3.4
+
+
+name: Energy
+unit: kcal
+value: 558.0
+label: oz
+value: 158.0
+label: bag (8 oz)
+value: 1267.0
+
+
+name: Energy
+unit: kJ
+value: 2336.0
+label: oz
+value: 662.0
+label: bag (8 oz)
+value: 5303.0
+
+
+name: Protein
+unit: g
+value: 5.76
+label: oz
+value: 1.63
+label: bag (8 oz)
+value: 13.08
+
+
+name: Total lipid (fat)
+unit: g
+value: 35.76
+label: oz
+value: 10.14
+label: bag (8 oz)
+value: 81.18
+
+
+name: Ash
+unit: g
+value: 2.89
+label: oz
+value: 0.82
+label: bag (8 oz)
+value: 6.56
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 54.1
+label: oz
+value: 15.34
+label: bag (8 oz)
+value: 122.81
+
+
+name: Fiber, total dietary
+unit: g
+value: 2.2
+label: oz
+value: 0.6
+label: bag (8 oz)
+value: 5.0
+
+
+name: Sugars, total
+unit: g
+value: 2.76
+label: oz
+value: 0.78
+label: bag (8 oz)
+value: 6.27
+
+
+name: Glucose (dextrose)
+unit: g
+value: 0.15
+label: oz
+value: 0.04
+label: bag (8 oz)
+value: 0.34
+
+
+name: Lactose
+unit: g
+value: 2.12
+label: oz
+value: 0.6
+label: bag (8 oz)
+value: 4.81
+
+
+name: Galactose
+unit: g
+value: 0.07
+label: oz
+value: 0.02
+label: bag (8 oz)
+value: 0.16
+
+
+name: Calcium, Ca
+unit: mg
+value: 58.0
+label: oz
+value: 16.0
+label: bag (8 oz)
+value: 132.0
+
+
+name: Iron, Fe
+unit: mg
+value: 1.1
+label: oz
+value: 0.31
+label: bag (8 oz)
+value: 2.5
+
+
+name: Magnesium, Mg
+unit: mg
+value: 20.0
+label: oz
+value: 6.0
+label: bag (8 oz)
+value: 45.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 108.0
+label: oz
+value: 31.0
+label: bag (8 oz)
+value: 245.0
+
+
+name: Potassium, K
+unit: mg
+value: 197.0
+label: oz
+value: 56.0
+label: bag (8 oz)
+value: 447.0
+
+
+name: Sodium, Na
+unit: mg
+value: 896.0
+label: oz
+value: 254.0
+label: bag (8 oz)
+value: 2034.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.6
+label: oz
+value: 0.17
+label: bag (8 oz)
+value: 1.36
+
+
+name: Copper, Cu
+unit: mg
+value: 0.063
+label: oz
+value: 0.018
+label: bag (8 oz)
+value: 0.143
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.095
+label: oz
+value: 0.027
+label: bag (8 oz)
+value: 0.216
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 3.0
+label: oz
+value: 0.9
+label: bag (8 oz)
+value: 6.8
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: bag (8 oz)
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.155
+label: oz
+value: 0.044
+label: bag (8 oz)
+value: 0.352
+
+
+name: Riboflavin
+unit: mg
+value: 0.2
+label: oz
+value: 0.057
+label: bag (8 oz)
+value: 0.454
+
+
+name: Niacin
+unit: mg
+value: 5.743
+label: oz
+value: 1.628
+label: bag (8 oz)
+value: 13.037
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.374
+label: oz
+value: 0.106
+label: bag (8 oz)
+value: 0.849
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.064
+label: oz
+value: 0.018
+label: bag (8 oz)
+value: 0.145
+
+
+name: Folate, total
+unit: \u00B5g
+value: 120.0
+label: oz
+value: 34.0
+label: bag (8 oz)
+value: 272.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 86.0
+label: oz
+value: 24.0
+label: bag (8 oz)
+value: 195.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 34.0
+label: oz
+value: 10.0
+label: bag (8 oz)
+value: 77.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 180.0
+label: oz
+value: 51.0
+label: bag (8 oz)
+value: 409.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.48
+label: oz
+value: 0.14
+label: bag (8 oz)
+value: 1.09
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: bag (8 oz)
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: bag (8 oz)
+value: 0.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: bag (8 oz)
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: bag (8 oz)
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 0.0
+label: oz
+value: 0.0
+label: bag (8 oz)
+value: 0.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 5.12
+label: oz
+value: 1.45
+label: bag (8 oz)
+value: 11.62
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: bag (8 oz)
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: bag (8 oz)
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: oz
+value: 0.0
+label: bag (8 oz)
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 36.1
+label: oz
+value: 10.2
+label: bag (8 oz)
+value: 81.9
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 5.512
+label: oz
+value: 1.563
+label: bag (8 oz)
+value: 12.512
+
+
+name: 4:0
+unit: g
+value: 0.03
+label: oz
+value: 0.009
+label: bag (8 oz)
+value: 0.068
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: bag (8 oz)
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: bag (8 oz)
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.038
+label: oz
+value: 0.011
+label: bag (8 oz)
+value: 0.086
+
+
+name: 12:0
+unit: g
+value: 0.045
+label: oz
+value: 0.013
+label: bag (8 oz)
+value: 0.102
+
+
+name: 14:0
+unit: g
+value: 0.158
+label: oz
+value: 0.045
+label: bag (8 oz)
+value: 0.359
+
+
+name: 15:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: bag (8 oz)
+value: 0.0
+
+
+name: 16:0
+unit: g
+value: 4.134
+label: oz
+value: 1.172
+label: bag (8 oz)
+value: 9.384
+
+
+name: 17:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: bag (8 oz)
+value: 0.0
+
+
+name: 18:0
+unit: g
+value: 0.947
+label: oz
+value: 0.268
+label: bag (8 oz)
+value: 2.15
+
+
+name: 20:0
+unit: g
+value: 0.141
+label: oz
+value: 0.04
+label: bag (8 oz)
+value: 0.32
+
+
+name: 22:0
+unit: g
+value: 0.049
+label: oz
+value: 0.014
+label: bag (8 oz)
+value: 0.111
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 10.437
+label: oz
+value: 2.959
+label: bag (8 oz)
+value: 23.692
+
+
+name: 14:1
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: bag (8 oz)
+value: 0.0
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: bag (8 oz)
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.056
+label: oz
+value: 0.016
+label: bag (8 oz)
+value: 0.127
+
+
+name: 17:1
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: bag (8 oz)
+value: 0.0
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 9.693
+label: oz
+value: 2.748
+label: bag (8 oz)
+value: 22.003
+
+
+name: 18:1 t
+unit: g
+value: 0.608
+label: oz
+value: 0.172
+label: bag (8 oz)
+value: 1.38
+
+
+name: 20:1
+unit: g
+value: 0.08
+label: oz
+value: 0.023
+label: bag (8 oz)
+value: 0.182
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: bag (8 oz)
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 18.649
+label: oz
+value: 5.287
+label: bag (8 oz)
+value: 42.333
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 18.151
+label: oz
+value: 5.146
+label: bag (8 oz)
+value: 41.203
+
+
+name: 18:2 t,t
+unit: g
+value: 0.198
+label: oz
+value: 0.056
+label: bag (8 oz)
+value: 0.449
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.3
+label: oz
+value: 0.085
+label: bag (8 oz)
+value: 0.681
+
+
+name: 18:3 n-3 c,c,c (ALA)
+unit: g
+value: 0.3
+label: oz
+value: 0.085
+label: bag (8 oz)
+value: 0.681
+
+
+name: 18:3 n-6 c,c,c
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: bag (8 oz)
+value: 0.0
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: bag (8 oz)
+value: 0.0
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: bag (8 oz)
+value: 0.0
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: bag (8 oz)
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: bag (8 oz)
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: bag (8 oz)
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: bag (8 oz)
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: bag (8 oz)
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.806
+label: oz
+value: 0.229
+label: bag (8 oz)
+value: 1.83
+
+
+name: Fatty acids, total trans-monoenoic
+unit: g
+value: 0.608
+label: oz
+value: 0.172
+label: bag (8 oz)
+value: 1.38
+
+
+name: Cholesterol
+unit: mg
+value: 4.0
+label: oz
+value: 1.0
+label: bag (8 oz)
+value: 9.0
+
+
+name: Tryptophan
+unit: g
+value: 0.094
+label: oz
+value: 0.027
+label: bag (8 oz)
+value: 0.213
+
+
+name: Threonine
+unit: g
+value: 0.391
+label: oz
+value: 0.111
+label: bag (8 oz)
+value: 0.888
+
+
+name: Isoleucine
+unit: g
+value: 0.366
+label: oz
+value: 0.104
+label: bag (8 oz)
+value: 0.831
+
+
+name: Leucine
+unit: g
+value: 0.783
+label: oz
+value: 0.222
+label: bag (8 oz)
+value: 1.777
+
+
+name: Lysine
+unit: g
+value: 0.456
+label: oz
+value: 0.129
+label: bag (8 oz)
+value: 1.035
+
+
+name: Methionine
+unit: g
+value: 0.151
+label: oz
+value: 0.043
+label: bag (8 oz)
+value: 0.343
+
+
+name: Cystine
+unit: g
+value: 0.138
+label: oz
+value: 0.039
+label: bag (8 oz)
+value: 0.313
+
+
+name: Phenylalanine
+unit: g
+value: 0.299
+label: oz
+value: 0.085
+label: bag (8 oz)
+value: 0.679
+
+
+name: Tyrosine
+unit: g
+value: 0.258
+label: oz
+value: 0.073
+label: bag (8 oz)
+value: 0.586
+
+
+name: Valine
+unit: g
+value: 0.404
+label: oz
+value: 0.115
+label: bag (8 oz)
+value: 0.917
+
+
+name: Arginine
+unit: g
+value: 0.283
+label: oz
+value: 0.08
+label: bag (8 oz)
+value: 0.642
+
+
+name: Histidine
+unit: g
+value: 0.181
+label: oz
+value: 0.051
+label: bag (8 oz)
+value: 0.411
+
+
+name: Alanine
+unit: g
+value: 0.424
+label: oz
+value: 0.12
+label: bag (8 oz)
+value: 0.962
+
+
+name: Aspartic acid
+unit: g
+value: 0.645
+label: oz
+value: 0.183
+label: bag (8 oz)
+value: 1.464
+
+
+name: Glutamic acid
+unit: g
+value: 1.387
+label: oz
+value: 0.393
+label: bag (8 oz)
+value: 3.148
+
+
+name: Glycine
+unit: g
+value: 0.217
+label: oz
+value: 0.062
+label: bag (8 oz)
+value: 0.493
+
+
+name: Proline
+unit: g
+value: 0.558
+label: oz
+value: 0.158
+label: bag (8 oz)
+value: 1.267
+
+
+name: Serine
+unit: g
+value: 0.367
+label: oz
+value: 0.104
+label: bag (8 oz)
+value: 0.833
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: bag (8 oz)
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: bag (8 oz)
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: bag (8 oz)
+value: 0.0
+
+

@@ -1,0 +1,462 @@
+ndbno: 09014
+
+
+name: Apples, frozen, unsweetened, unheated
+
+
+name: Water
+unit: g
+value: 86.85
+label: cup slices
+value: 150.25
+
+
+name: Energy
+unit: kcal
+value: 48.0
+label: cup slices
+value: 83.0
+
+
+name: Energy
+unit: kJ
+value: 201.0
+label: cup slices
+value: 348.0
+
+
+name: Protein
+unit: g
+value: 0.28
+label: cup slices
+value: 0.48
+
+
+name: Total lipid (fat)
+unit: g
+value: 0.32
+label: cup slices
+value: 0.55
+
+
+name: Ash
+unit: g
+value: 0.24
+label: cup slices
+value: 0.42
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 12.31
+label: cup slices
+value: 21.3
+
+
+name: Fiber, total dietary
+unit: g
+value: 1.3
+label: cup slices
+value: 2.2
+
+
+name: Sugars, total
+unit: g
+value: 10.1
+label: cup slices
+value: 17.47
+
+
+name: Calcium, Ca
+unit: mg
+value: 4.0
+label: cup slices
+value: 7.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.18
+label: cup slices
+value: 0.31
+
+
+name: Magnesium, Mg
+unit: mg
+value: 3.0
+label: cup slices
+value: 5.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 8.0
+label: cup slices
+value: 14.0
+
+
+name: Potassium, K
+unit: mg
+value: 77.0
+label: cup slices
+value: 133.0
+
+
+name: Sodium, Na
+unit: mg
+value: 3.0
+label: cup slices
+value: 5.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.05
+label: cup slices
+value: 0.09
+
+
+name: Copper, Cu
+unit: mg
+value: 0.058
+label: cup slices
+value: 0.1
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.169
+label: cup slices
+value: 0.292
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 0.2
+label: cup slices
+value: 0.3
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.1
+label: cup slices
+value: 0.2
+
+
+name: Thiamin
+unit: mg
+value: 0.013
+label: cup slices
+value: 0.022
+
+
+name: Riboflavin
+unit: mg
+value: 0.011
+label: cup slices
+value: 0.019
+
+
+name: Niacin
+unit: mg
+value: 0.042
+label: cup slices
+value: 0.073
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.054
+label: cup slices
+value: 0.093
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.034
+label: cup slices
+value: 0.059
+
+
+name: Folate, total
+unit: \u00B5g
+value: 1.0
+label: cup slices
+value: 2.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: cup slices
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 1.0
+label: cup slices
+value: 2.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 1.0
+label: cup slices
+value: 2.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: cup slices
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: cup slices
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 34.0
+label: cup slices
+value: 59.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: cup slices
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: cup slices
+value: 0.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.053
+label: cup slices
+value: 0.092
+
+
+name: 12:0
+unit: g
+value: 0.001
+label: cup slices
+value: 0.002
+
+
+name: 14:0
+unit: g
+value: 0.001
+label: cup slices
+value: 0.002
+
+
+name: 16:0
+unit: g
+value: 0.044
+label: cup slices
+value: 0.076
+
+
+name: 18:0
+unit: g
+value: 0.007
+label: cup slices
+value: 0.012
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.013
+label: cup slices
+value: 0.022
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.001
+label: cup slices
+value: 0.002
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.012
+label: cup slices
+value: 0.021
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.095
+label: cup slices
+value: 0.164
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.078
+label: cup slices
+value: 0.135
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.017
+label: cup slices
+value: 0.029
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.0
+label: cup slices
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: cup slices
+value: 0.0
+
+
+name: Tryptophan
+unit: g
+value: 0.003
+label: cup slices
+value: 0.005
+
+
+name: Threonine
+unit: g
+value: 0.01
+label: cup slices
+value: 0.017
+
+
+name: Isoleucine
+unit: g
+value: 0.011
+label: cup slices
+value: 0.019
+
+
+name: Leucine
+unit: g
+value: 0.017
+label: cup slices
+value: 0.029
+
+
+name: Lysine
+unit: g
+value: 0.017
+label: cup slices
+value: 0.029
+
+
+name: Methionine
+unit: g
+value: 0.003
+label: cup slices
+value: 0.005
+
+
+name: Cystine
+unit: g
+value: 0.004
+label: cup slices
+value: 0.007
+
+
+name: Phenylalanine
+unit: g
+value: 0.008
+label: cup slices
+value: 0.014
+
+
+name: Tyrosine
+unit: g
+value: 0.005
+label: cup slices
+value: 0.009
+
+
+name: Valine
+unit: g
+value: 0.013
+label: cup slices
+value: 0.022
+
+
+name: Arginine
+unit: g
+value: 0.009
+label: cup slices
+value: 0.016
+
+
+name: Histidine
+unit: g
+value: 0.004
+label: cup slices
+value: 0.007
+
+
+name: Alanine
+unit: g
+value: 0.01
+label: cup slices
+value: 0.017
+
+
+name: Aspartic acid
+unit: g
+value: 0.048
+label: cup slices
+value: 0.083
+
+
+name: Glutamic acid
+unit: g
+value: 0.029
+label: cup slices
+value: 0.05
+
+
+name: Glycine
+unit: g
+value: 0.011
+label: cup slices
+value: 0.019
+
+
+name: Proline
+unit: g
+value: 0.009
+label: cup slices
+value: 0.016
+
+
+name: Serine
+unit: g
+value: 0.011
+label: cup slices
+value: 0.019
+
+
+

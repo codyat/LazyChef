@@ -1,0 +1,789 @@
+ndbno: 05630
+
+
+name: Emu, outside drum, raw
+
+
+name: Water
+unit: g
+value: 74.87
+label: oz
+value: 63.64
+label: outside drum
+value: 315.95
+
+
+name: Energy
+unit: kcal
+value: 103.0
+label: oz
+value: 88.0
+label: outside drum
+value: 435.0
+
+
+name: Energy
+unit: kJ
+value: 430.0
+label: oz
+value: 366.0
+label: outside drum
+value: 1815.0
+
+
+name: Protein
+unit: g
+value: 23.08
+label: oz
+value: 19.62
+label: outside drum
+value: 97.4
+
+
+name: Total lipid (fat)
+unit: g
+value: 0.48
+label: oz
+value: 0.41
+label: outside drum
+value: 2.03
+
+
+name: Ash
+unit: g
+value: 1.0
+label: oz
+value: 0.85
+label: outside drum
+value: 4.22
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: outside drum
+value: 0.0
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: outside drum
+value: 0.0
+
+
+name: Sugars, total
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: outside drum
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 3.0
+label: oz
+value: 3.0
+label: outside drum
+value: 13.0
+
+
+name: Iron, Fe
+unit: mg
+value: 4.5
+label: oz
+value: 3.82
+label: outside drum
+value: 18.99
+
+
+name: Magnesium, Mg
+unit: mg
+value: 29.0
+label: oz
+value: 25.0
+label: outside drum
+value: 122.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 225.0
+label: oz
+value: 191.0
+label: outside drum
+value: 950.0
+
+
+name: Potassium, K
+unit: mg
+value: 320.0
+label: oz
+value: 272.0
+label: outside drum
+value: 1350.0
+
+
+name: Sodium, Na
+unit: mg
+value: 100.0
+label: oz
+value: 85.0
+label: outside drum
+value: 422.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 4.5
+label: oz
+value: 3.82
+label: outside drum
+value: 18.99
+
+
+name: Copper, Cu
+unit: mg
+value: 0.199
+label: oz
+value: 0.169
+label: outside drum
+value: 0.84
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.025
+label: oz
+value: 0.021
+label: outside drum
+value: 0.106
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 36.3
+label: oz
+value: 30.9
+label: outside drum
+value: 153.2
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: outside drum
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.258
+label: oz
+value: 0.219
+label: outside drum
+value: 1.089
+
+
+name: Riboflavin
+unit: mg
+value: 0.442
+label: oz
+value: 0.376
+label: outside drum
+value: 1.865
+
+
+name: Niacin
+unit: mg
+value: 7.245
+label: oz
+value: 6.158
+label: outside drum
+value: 30.574
+
+
+name: Pantothenic acid
+unit: mg
+value: 2.5
+label: oz
+value: 2.125
+label: outside drum
+value: 10.55
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.676
+label: oz
+value: 0.575
+label: outside drum
+value: 2.853
+
+
+name: Folate, total
+unit: \u00B5g
+value: 7.0
+label: oz
+value: 6.0
+label: outside drum
+value: 30.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: outside drum
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 7.0
+label: oz
+value: 6.0
+label: outside drum
+value: 30.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 7.0
+label: oz
+value: 6.0
+label: outside drum
+value: 30.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 6.92
+label: oz
+value: 5.88
+label: outside drum
+value: 29.2
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: outside drum
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: outside drum
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: outside drum
+value: 0.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: outside drum
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: outside drum
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 0.0
+label: oz
+value: 0.0
+label: outside drum
+value: 0.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: outside drum
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: outside drum
+value: 0.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.17
+label: oz
+value: 0.14
+label: outside drum
+value: 0.72
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.122
+label: oz
+value: 0.104
+label: outside drum
+value: 0.515
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: outside drum
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: outside drum
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: outside drum
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.001
+label: oz
+value: 0.001
+label: outside drum
+value: 0.004
+
+
+name: 15:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: outside drum
+value: 0.0
+
+
+name: 16:0
+unit: g
+value: 0.078
+label: oz
+value: 0.066
+label: outside drum
+value: 0.329
+
+
+name: 17:0
+unit: g
+value: 0.001
+label: oz
+value: 0.001
+label: outside drum
+value: 0.004
+
+
+name: 18:0
+unit: g
+value: 0.041
+label: oz
+value: 0.035
+label: outside drum
+value: 0.173
+
+
+name: 20:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: outside drum
+value: 0.0
+
+
+name: 22:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: outside drum
+value: 0.0
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.202
+label: oz
+value: 0.172
+label: outside drum
+value: 0.852
+
+
+name: 14:1
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: outside drum
+value: 0.0
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: outside drum
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.016
+label: oz
+value: 0.014
+label: outside drum
+value: 0.068
+
+
+name: 17:1
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: outside drum
+value: 0.0
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.174
+label: oz
+value: 0.148
+label: outside drum
+value: 0.734
+
+
+name: 20:1
+unit: g
+value: 0.001
+label: oz
+value: 0.001
+label: outside drum
+value: 0.004
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.07
+label: oz
+value: 0.06
+label: outside drum
+value: 0.295
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.05
+label: oz
+value: 0.042
+label: outside drum
+value: 0.211
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.003
+label: oz
+value: 0.003
+label: outside drum
+value: 0.013
+
+
+name: 18:3 n-6 c,c,c
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: outside drum
+value: 0.0
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.001
+label: oz
+value: 0.001
+label: outside drum
+value: 0.004
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: outside drum
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.013
+label: oz
+value: 0.011
+label: outside drum
+value: 0.055
+
+
+name: Cholesterol
+unit: mg
+value: 78.0
+label: oz
+value: 66.0
+label: outside drum
+value: 329.0
+
+
+name: Tryptophan
+unit: g
+value: 0.153
+label: oz
+value: 0.13
+label: outside drum
+value: 0.646
+
+
+name: Threonine
+unit: g
+value: 0.662
+label: oz
+value: 0.563
+label: outside drum
+value: 2.794
+
+
+name: Isoleucine
+unit: g
+value: 0.75
+label: oz
+value: 0.638
+label: outside drum
+value: 3.165
+
+
+name: Leucine
+unit: g
+value: 1.274
+label: oz
+value: 1.083
+label: outside drum
+value: 5.376
+
+
+name: Lysine
+unit: g
+value: 1.358
+label: oz
+value: 1.154
+label: outside drum
+value: 5.731
+
+
+name: Methionine
+unit: g
+value: 0.438
+label: oz
+value: 0.372
+label: outside drum
+value: 1.848
+
+
+name: Cystine
+unit: g
+value: 0.167
+label: oz
+value: 0.142
+label: outside drum
+value: 0.705
+
+
+name: Phenylalanine
+unit: g
+value: 0.659
+label: oz
+value: 0.56
+label: outside drum
+value: 2.781
+
+
+name: Tyrosine
+unit: g
+value: 0.492
+label: oz
+value: 0.418
+label: outside drum
+value: 2.076
+
+
+name: Valine
+unit: g
+value: 0.769
+label: oz
+value: 0.654
+label: outside drum
+value: 3.245
+
+
+name: Arginine
+unit: g
+value: 1.039
+label: oz
+value: 0.883
+label: outside drum
+value: 4.385
+
+
+name: Histidine
+unit: g
+value: 0.505
+label: oz
+value: 0.429
+label: outside drum
+value: 2.131
+
+
+name: Alanine
+unit: g
+value: 0.897
+label: oz
+value: 0.762
+label: outside drum
+value: 3.785
+
+
+name: Aspartic acid
+unit: g
+value: 2.008
+label: oz
+value: 1.707
+label: outside drum
+value: 8.474
+
+
+name: Glutamic acid
+unit: g
+value: 2.253
+label: oz
+value: 1.915
+label: outside drum
+value: 9.508
+
+
+name: Glycine
+unit: g
+value: 0.727
+label: oz
+value: 0.618
+label: outside drum
+value: 3.068
+
+
+name: Proline
+unit: g
+value: 0.935
+label: oz
+value: 0.795
+label: outside drum
+value: 3.946
+
+
+name: Serine
+unit: g
+value: 0.549
+label: oz
+value: 0.467
+label: outside drum
+value: 2.317
+
+
+name: Hydroxyproline
+unit: g
+value: 0.151
+label: oz
+value: 0.128
+label: outside drum
+value: 0.637
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: outside drum
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: outside drum
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: outside drum
+value: 0.0
+
+

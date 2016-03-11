@@ -1,0 +1,951 @@
+ndbno: 11312
+
+
+name: Peas, green, frozen, unprepared
+
+
+name: Water
+unit: g
+value: 79.98
+label: cup
+value: 107.17
+label: package
+value: 227.14
+
+
+name: Energy
+unit: kcal
+value: 77.0
+label: cup
+value: 103.0
+label: package
+value: 219.0
+
+
+name: Energy
+unit: kJ
+value: 322.0
+label: cup
+value: 431.0
+label: package
+value: 914.0
+
+
+name: Protein
+unit: g
+value: 5.22
+label: cup
+value: 6.99
+label: package
+value: 14.82
+
+
+name: Total lipid (fat)
+unit: g
+value: 0.4
+label: cup
+value: 0.54
+label: package
+value: 1.14
+
+
+name: Ash
+unit: g
+value: 0.78
+label: cup
+value: 1.05
+label: package
+value: 2.22
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 13.62
+label: cup
+value: 18.25
+label: package
+value: 38.68
+
+
+name: Fiber, total dietary
+unit: g
+value: 4.5
+label: cup
+value: 6.0
+label: package
+value: 12.8
+
+
+name: Sugars, total
+unit: g
+value: 5.0
+label: cup
+value: 6.7
+label: package
+value: 14.2
+
+
+name: Sucrose
+unit: g
+value: 4.6
+label: cup
+value: 6.16
+label: package
+value: 13.06
+
+
+name: Glucose (dextrose)
+unit: g
+value: 0.08
+label: cup
+value: 0.11
+label: package
+value: 0.23
+
+
+name: Fructose
+unit: g
+value: 0.25
+label: cup
+value: 0.34
+label: package
+value: 0.71
+
+
+name: Lactose
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Maltose
+unit: g
+value: 0.08
+label: cup
+value: 0.11
+label: package
+value: 0.23
+
+
+name: Galactose
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Starch
+unit: g
+value: 4.17
+label: cup
+value: 5.59
+label: package
+value: 11.84
+
+
+name: Calcium, Ca
+unit: mg
+value: 22.0
+label: cup
+value: 29.0
+label: package
+value: 62.0
+
+
+name: Iron, Fe
+unit: mg
+value: 1.53
+label: cup
+value: 2.05
+label: package
+value: 4.35
+
+
+name: Magnesium, Mg
+unit: mg
+value: 26.0
+label: cup
+value: 35.0
+label: package
+value: 74.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 82.0
+label: cup
+value: 110.0
+label: package
+value: 233.0
+
+
+name: Potassium, K
+unit: mg
+value: 153.0
+label: cup
+value: 205.0
+label: package
+value: 435.0
+
+
+name: Sodium, Na
+unit: mg
+value: 108.0
+label: cup
+value: 145.0
+label: package
+value: 307.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.82
+label: cup
+value: 1.1
+label: package
+value: 2.33
+
+
+name: Copper, Cu
+unit: mg
+value: 0.124
+label: cup
+value: 0.166
+label: package
+value: 0.352
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.336
+label: cup
+value: 0.45
+label: package
+value: 0.954
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 1.9
+label: cup
+value: 2.5
+label: package
+value: 5.4
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 18.0
+label: cup
+value: 24.1
+label: package
+value: 51.1
+
+
+name: Thiamin
+unit: mg
+value: 0.259
+label: cup
+value: 0.347
+label: package
+value: 0.736
+
+
+name: Riboflavin
+unit: mg
+value: 0.1
+label: cup
+value: 0.134
+label: package
+value: 0.284
+
+
+name: Niacin
+unit: mg
+value: 1.723
+label: cup
+value: 2.309
+label: package
+value: 4.893
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.547
+label: cup
+value: 0.733
+label: package
+value: 1.553
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.083
+label: cup
+value: 0.111
+label: package
+value: 0.236
+
+
+name: Folate, total
+unit: \u00B5g
+value: 53.0
+label: cup
+value: 71.0
+label: package
+value: 151.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 53.0
+label: cup
+value: 71.0
+label: package
+value: 151.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 53.0
+label: cup
+value: 71.0
+label: package
+value: 151.0
+
+
+name: Choline, total
+unit: mg
+value: 27.0
+label: cup
+value: 36.2
+label: package
+value: 76.7
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 103.0
+label: cup
+value: 138.0
+label: package
+value: 293.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 1225.0
+label: cup
+value: 1642.0
+label: package
+value: 3479.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 20.0
+label: cup
+value: 27.0
+label: package
+value: 57.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 2058.0
+label: cup
+value: 2758.0
+label: package
+value: 5845.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 2352.0
+label: cup
+value: 3152.0
+label: package
+value: 6680.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.02
+label: cup
+value: 0.03
+label: package
+value: 0.06
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Tocopherol, beta
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Tocopherol, gamma
+unit: mg
+value: 0.75
+label: cup
+value: 1.0
+label: package
+value: 2.13
+
+
+name: Tocopherol, delta
+unit: mg
+value: 0.01
+label: cup
+value: 0.01
+label: package
+value: 0.03
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: cup
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 27.9
+label: cup
+value: 37.4
+label: package
+value: 79.2
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.066
+label: cup
+value: 0.088
+label: package
+value: 0.187
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: package
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: package
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: package
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: package
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: package
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: package
+value: 0.0
+
+
+name: 16:0
+unit: g
+value: 0.06
+label: cup
+value: 0.08
+label: package
+value: 0.17
+
+
+name: 18:0
+unit: g
+value: 0.007
+label: cup
+value: 0.009
+label: package
+value: 0.02
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.033
+label: cup
+value: 0.044
+label: package
+value: 0.094
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: package
+value: 0.0
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.033
+label: cup
+value: 0.044
+label: package
+value: 0.094
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: package
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.175
+label: cup
+value: 0.234
+label: package
+value: 0.497
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.142
+label: cup
+value: 0.19
+label: package
+value: 0.403
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.033
+label: cup
+value: 0.044
+label: package
+value: 0.094
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: package
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: package
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: package
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: package
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Tryptophan
+unit: g
+value: 0.036
+label: cup
+value: 0.048
+label: package
+value: 0.102
+
+
+name: Threonine
+unit: g
+value: 0.195
+label: cup
+value: 0.261
+label: package
+value: 0.554
+
+
+name: Isoleucine
+unit: g
+value: 0.187
+label: cup
+value: 0.251
+label: package
+value: 0.531
+
+
+name: Leucine
+unit: g
+value: 0.311
+label: cup
+value: 0.417
+label: package
+value: 0.883
+
+
+name: Lysine
+unit: g
+value: 0.305
+label: cup
+value: 0.409
+label: package
+value: 0.866
+
+
+name: Methionine
+unit: g
+value: 0.079
+label: cup
+value: 0.106
+label: package
+value: 0.224
+
+
+name: Cystine
+unit: g
+value: 0.031
+label: cup
+value: 0.042
+label: package
+value: 0.088
+
+
+name: Phenylalanine
+unit: g
+value: 0.192
+label: cup
+value: 0.257
+label: package
+value: 0.545
+
+
+name: Tyrosine
+unit: g
+value: 0.109
+label: cup
+value: 0.146
+label: package
+value: 0.31
+
+
+name: Valine
+unit: g
+value: 0.226
+label: cup
+value: 0.303
+label: package
+value: 0.642
+
+
+name: Arginine
+unit: g
+value: 0.412
+label: cup
+value: 0.552
+label: package
+value: 1.17
+
+
+name: Histidine
+unit: g
+value: 0.102
+label: cup
+value: 0.137
+label: package
+value: 0.29
+
+
+name: Alanine
+unit: g
+value: 0.231
+label: cup
+value: 0.31
+label: package
+value: 0.656
+
+
+name: Aspartic acid
+unit: g
+value: 0.476
+label: cup
+value: 0.638
+label: package
+value: 1.352
+
+
+name: Glutamic acid
+unit: g
+value: 0.712
+label: cup
+value: 0.954
+label: package
+value: 2.022
+
+
+name: Glycine
+unit: g
+value: 0.177
+label: cup
+value: 0.237
+label: package
+value: 0.503
+
+
+name: Proline
+unit: g
+value: 0.167
+label: cup
+value: 0.224
+label: package
+value: 0.474
+
+
+name: Serine
+unit: g
+value: 0.174
+label: cup
+value: 0.233
+label: package
+value: 0.494
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Kaempferol
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Quercetin
+unit: mg
+value: 0.2
+label: cup
+value: 0.2
+label: package
+value: 0.4
+
+
+name: Daidzein
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Genistein
+unit: mg
+value: 0.01
+label: cup
+value: 0.01
+label: package
+value: 0.03
+
+
+name: Total isoflavones
+unit: mg
+value: 0.01
+label: cup
+value: 0.01
+label: package
+value: 0.03
+
+

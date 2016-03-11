@@ -1,0 +1,728 @@
+ndbno: 03997
+
+
+name: Babyfood, Baby MUM MUM Rice Biscuits
+
+
+name: Water
+unit: g
+value: 2.42
+label: biscuit
+value: 0.19
+
+
+name: Energy
+unit: kcal
+value: 391.0
+label: biscuit
+value: 31.0
+
+
+name: Energy
+unit: kJ
+value: 1635.0
+label: biscuit
+value: 131.0
+
+
+name: Protein
+unit: g
+value: 12.5
+label: biscuit
+value: 1.0
+
+
+name: Total lipid (fat)
+unit: g
+value: 0.87
+label: biscuit
+value: 0.07
+
+
+name: Ash
+unit: g
+value: 0.99
+label: biscuit
+value: 0.08
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 83.21
+label: biscuit
+value: 6.66
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: biscuit
+value: 0.0
+
+
+name: Sugars, total
+unit: g
+value: 12.5
+label: biscuit
+value: 1.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 0.0
+label: biscuit
+value: 0.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.0
+label: biscuit
+value: 0.0
+
+
+name: Magnesium, Mg
+unit: mg
+value: 47.0
+label: biscuit
+value: 4.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 127.0
+label: biscuit
+value: 10.0
+
+
+name: Potassium, K
+unit: mg
+value: 504.0
+label: biscuit
+value: 40.0
+
+
+name: Sodium, Na
+unit: mg
+value: 313.0
+label: biscuit
+value: 25.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.65
+label: biscuit
+value: 0.05
+
+
+name: Copper, Cu
+unit: mg
+value: 0.156
+label: biscuit
+value: 0.012
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.732
+label: biscuit
+value: 0.059
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 8.0
+label: biscuit
+value: 0.6
+
+
+name: Fluoride, F
+unit: \u00B5g
+value: 0.0
+label: biscuit
+value: 0.0
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: biscuit
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.174
+label: biscuit
+value: 0.014
+
+
+name: Riboflavin
+unit: mg
+value: 0.037
+label: biscuit
+value: 0.003
+
+
+name: Niacin
+unit: mg
+value: 2.896
+label: biscuit
+value: 0.232
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.623
+label: biscuit
+value: 0.05
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.571
+label: biscuit
+value: 0.046
+
+
+name: Folate, total
+unit: \u00B5g
+value: 14.0
+label: biscuit
+value: 1.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: biscuit
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 14.0
+label: biscuit
+value: 1.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 14.0
+label: biscuit
+value: 1.0
+
+
+name: Choline, total
+unit: mg
+value: 21.3
+label: biscuit
+value: 1.7
+
+
+name: Betaine
+unit: mg
+value: 0.0
+label: biscuit
+value: 0.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: biscuit
+value: 0.0
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: biscuit
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 0.0
+label: biscuit
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: biscuit
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 0.0
+label: biscuit
+value: 0.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: biscuit
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: biscuit
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 1.0
+label: biscuit
+value: 0.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: biscuit
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 0.0
+label: biscuit
+value: 0.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.17
+label: biscuit
+value: 0.01
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: biscuit
+value: 0.0
+
+
+name: Tocopherol, beta
+unit: mg
+value: 0.0
+label: biscuit
+value: 0.0
+
+
+name: Tocopherol, gamma
+unit: mg
+value: 0.0
+label: biscuit
+value: 0.0
+
+
+name: Tocopherol, delta
+unit: mg
+value: 0.0
+label: biscuit
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: biscuit
+value: 0.0
+
+
+name: Vitamin D3 (cholecalciferol)
+unit: \u00B5g
+value: 0.0
+label: biscuit
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: biscuit
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 0.0
+label: biscuit
+value: 0.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.238
+label: biscuit
+value: 0.019
+
+
+name: 4:0
+unit: g
+value: 0.001
+label: biscuit
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.001
+label: biscuit
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.001
+label: biscuit
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.001
+label: biscuit
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.006
+label: biscuit
+value: 0.0
+
+
+name: 13:0
+unit: g
+value: 0.0
+label: biscuit
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.007
+label: biscuit
+value: 0.001
+
+
+name: 15:0
+unit: g
+value: 0.0
+label: biscuit
+value: 0.0
+
+
+name: 16:0
+unit: g
+value: 0.2
+label: biscuit
+value: 0.016
+
+
+name: 17:0
+unit: g
+value: 0.0
+label: biscuit
+value: 0.0
+
+
+name: 18:0
+unit: g
+value: 0.021
+label: biscuit
+value: 0.002
+
+
+name: 20:0
+unit: g
+value: 0.0
+label: biscuit
+value: 0.0
+
+
+name: 22:0
+unit: g
+value: 0.0
+label: biscuit
+value: 0.0
+
+
+name: 24:0
+unit: g
+value: 0.0
+label: biscuit
+value: 0.0
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.224
+label: biscuit
+value: 0.018
+
+
+name: 14:1
+unit: g
+value: 0.0
+label: biscuit
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.004
+label: biscuit
+value: 0.0
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.22
+label: biscuit
+value: 0.018
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: biscuit
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: biscuit
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.255
+label: biscuit
+value: 0.02
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.206
+label: biscuit
+value: 0.016
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.05
+label: biscuit
+value: 0.004
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: biscuit
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: biscuit
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: biscuit
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: biscuit
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: biscuit
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: biscuit
+value: 0.0
+
+
+name: Phytosterols
+unit: mg
+value: 0.0
+label: biscuit
+value: 0.0
+
+
+name: Tryptophan
+unit: g
+value: 0.089
+label: biscuit
+value: 0.007
+
+
+name: Threonine
+unit: g
+value: 0.234
+label: biscuit
+value: 0.019
+
+
+name: Isoleucine
+unit: g
+value: 0.259
+label: biscuit
+value: 0.021
+
+
+name: Leucine
+unit: g
+value: 0.438
+label: biscuit
+value: 0.035
+
+
+name: Lysine
+unit: g
+value: 0.295
+label: biscuit
+value: 0.024
+
+
+name: Methionine
+unit: g
+value: 0.121
+label: biscuit
+value: 0.01
+
+
+name: Cystine
+unit: g
+value: 0.085
+label: biscuit
+value: 0.007
+
+
+name: Phenylalanine
+unit: g
+value: 0.303
+label: biscuit
+value: 0.024
+
+
+name: Tyrosine
+unit: g
+value: 0.259
+label: biscuit
+value: 0.021
+
+
+name: Valine
+unit: g
+value: 0.337
+label: biscuit
+value: 0.027
+
+
+name: Arginine
+unit: g
+value: 0.426
+label: biscuit
+value: 0.034
+
+
+name: Histidine
+unit: g
+value: 0.151
+label: biscuit
+value: 0.012
+
+
+name: Alanine
+unit: g
+value: 0.315
+label: biscuit
+value: 0.025
+
+
+name: Aspartic acid
+unit: g
+value: 0.816
+label: biscuit
+value: 0.065
+
+
+name: Glutamic acid
+unit: g
+value: 0.974
+label: biscuit
+value: 0.078
+
+
+name: Glycine
+unit: g
+value: 0.25
+label: biscuit
+value: 0.02
+
+
+name: Proline
+unit: g
+value: 0.261
+label: biscuit
+value: 0.021
+
+
+name: Serine
+unit: g
+value: 0.261
+label: biscuit
+value: 0.021
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: biscuit
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: biscuit
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: biscuit
+value: 0.0
+
+
+

@@ -1,0 +1,392 @@
+ndbno: 06180
+
+
+name: Soup, shark fin, restaurant-prepared
+
+
+name: Water
+unit: g
+value: 90.13
+label: cup
+value: 194.68
+
+
+name: Energy
+unit: kcal
+value: 46.0
+label: cup
+value: 99.0
+
+
+name: Energy
+unit: kJ
+value: 192.0
+label: cup
+value: 415.0
+
+
+name: Protein
+unit: g
+value: 3.2
+label: cup
+value: 6.91
+
+
+name: Total lipid (fat)
+unit: g
+value: 2.0
+label: cup
+value: 4.32
+
+
+name: Ash
+unit: g
+value: 0.87
+label: cup
+value: 1.88
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 3.8
+label: cup
+value: 8.21
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 10.0
+label: cup
+value: 22.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.94
+label: cup
+value: 2.03
+
+
+name: Magnesium, Mg
+unit: mg
+value: 7.0
+label: cup
+value: 15.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 21.0
+label: cup
+value: 45.0
+
+
+name: Potassium, K
+unit: mg
+value: 53.0
+label: cup
+value: 114.0
+
+
+name: Sodium, Na
+unit: mg
+value: 501.0
+label: cup
+value: 1082.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.82
+label: cup
+value: 1.77
+
+
+name: Copper, Cu
+unit: mg
+value: 0.108
+label: cup
+value: 0.233
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.024
+label: cup
+value: 0.052
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.1
+label: cup
+value: 0.2
+
+
+name: Thiamin
+unit: mg
+value: 0.027
+label: cup
+value: 0.058
+
+
+name: Riboflavin
+unit: mg
+value: 0.039
+label: cup
+value: 0.084
+
+
+name: Niacin
+unit: mg
+value: 0.493
+label: cup
+value: 1.065
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.13
+label: cup
+value: 0.281
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.026
+label: cup
+value: 0.056
+
+
+name: Folate, total
+unit: \u00B5g
+value: 9.0
+label: cup
+value: 19.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 9.0
+label: cup
+value: 19.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 9.0
+label: cup
+value: 19.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.19
+label: cup
+value: 0.41
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.501
+label: cup
+value: 1.082
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.037
+label: cup
+value: 0.08
+
+
+name: 16:0
+unit: g
+value: 0.341
+label: cup
+value: 0.737
+
+
+name: 18:0
+unit: g
+value: 0.086
+label: cup
+value: 0.186
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.583
+label: cup
+value: 1.259
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.18
+label: cup
+value: 0.389
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.365
+label: cup
+value: 0.788
+
+
+name: 20:1
+unit: g
+value: 0.015
+label: cup
+value: 0.032
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.341
+label: cup
+value: 0.737
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.022
+label: cup
+value: 0.048
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.015
+label: cup
+value: 0.032
+
+
+name: 18:4
+unit: g
+value: 0.007
+label: cup
+value: 0.015
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.027
+label: cup
+value: 0.058
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.086
+label: cup
+value: 0.186
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.042
+label: cup
+value: 0.091
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.121
+label: cup
+value: 0.261
+
+
+name: Cholesterol
+unit: mg
+value: 2.0
+label: cup
+value: 4.0
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+
+
+

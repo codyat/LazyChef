@@ -1,0 +1,808 @@
+ndbno: 18386
+
+
+name: Muffins, blueberry, toaster-type, toasted
+
+
+name: Water
+unit: g
+value: 26.4
+label: oz
+value: 7.48
+label: muffin, toaster
+value: 8.18
+
+
+name: Energy
+unit: kcal
+value: 333.0
+label: oz
+value: 94.0
+label: muffin, toaster
+value: 103.0
+
+
+name: Energy
+unit: kJ
+value: 1393.0
+label: oz
+value: 395.0
+label: muffin, toaster
+value: 432.0
+
+
+name: Protein
+unit: g
+value: 4.9
+label: oz
+value: 1.39
+label: muffin, toaster
+value: 1.52
+
+
+name: Total lipid (fat)
+unit: g
+value: 10.1
+label: oz
+value: 2.86
+label: muffin, toaster
+value: 3.13
+
+
+name: Ash
+unit: g
+value: 1.9
+label: oz
+value: 0.54
+label: muffin, toaster
+value: 0.59
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 56.7
+label: oz
+value: 16.07
+label: muffin, toaster
+value: 17.58
+
+
+name: Fiber, total dietary
+unit: g
+value: 1.9
+label: oz
+value: 0.5
+label: muffin, toaster
+value: 0.6
+
+
+name: Sugars, total
+unit: g
+value: 12.95
+label: oz
+value: 3.67
+label: muffin, toaster
+value: 4.01
+
+
+name: Calcium, Ca
+unit: mg
+value: 14.0
+label: oz
+value: 4.0
+label: muffin, toaster
+value: 4.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.54
+label: oz
+value: 0.15
+label: muffin, toaster
+value: 0.17
+
+
+name: Magnesium, Mg
+unit: mg
+value: 15.0
+label: oz
+value: 4.0
+label: muffin, toaster
+value: 5.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 192.0
+label: oz
+value: 54.0
+label: muffin, toaster
+value: 60.0
+
+
+name: Potassium, K
+unit: mg
+value: 88.0
+label: oz
+value: 25.0
+label: muffin, toaster
+value: 27.0
+
+
+name: Sodium, Na
+unit: mg
+value: 444.0
+label: oz
+value: 126.0
+label: muffin, toaster
+value: 138.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.48
+label: oz
+value: 0.14
+label: muffin, toaster
+value: 0.15
+
+
+name: Copper, Cu
+unit: mg
+value: 0.1
+label: oz
+value: 0.028
+label: muffin, toaster
+value: 0.031
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.47
+label: oz
+value: 0.133
+label: muffin, toaster
+value: 0.146
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 18.7
+label: oz
+value: 5.3
+label: muffin, toaster
+value: 5.8
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: muffin, toaster
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.204
+label: oz
+value: 0.058
+label: muffin, toaster
+value: 0.063
+
+
+name: Riboflavin
+unit: mg
+value: 0.278
+label: oz
+value: 0.079
+label: muffin, toaster
+value: 0.086
+
+
+name: Niacin
+unit: mg
+value: 1.934
+label: oz
+value: 0.548
+label: muffin, toaster
+value: 0.6
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.205
+label: oz
+value: 0.058
+label: muffin, toaster
+value: 0.064
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.028
+label: oz
+value: 0.008
+label: muffin, toaster
+value: 0.009
+
+
+name: Folate, total
+unit: \u00B5g
+value: 59.0
+label: oz
+value: 17.0
+label: muffin, toaster
+value: 18.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 50.0
+label: oz
+value: 14.0
+label: muffin, toaster
+value: 16.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 9.0
+label: oz
+value: 3.0
+label: muffin, toaster
+value: 3.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 94.0
+label: oz
+value: 27.0
+label: muffin, toaster
+value: 29.0
+
+
+name: Choline, total
+unit: mg
+value: 55.6
+label: oz
+value: 15.8
+label: muffin, toaster
+value: 17.2
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.01
+label: oz
+value: 0.0
+label: muffin, toaster
+value: 0.0
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: muffin, toaster
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 101.0
+label: oz
+value: 29.0
+label: muffin, toaster
+value: 31.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 101.0
+label: oz
+value: 29.0
+label: muffin, toaster
+value: 31.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 3.0
+label: oz
+value: 1.0
+label: muffin, toaster
+value: 1.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: muffin, toaster
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: muffin, toaster
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 324.0
+label: oz
+value: 92.0
+label: muffin, toaster
+value: 100.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: muffin, toaster
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 20.0
+label: oz
+value: 6.0
+label: muffin, toaster
+value: 6.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.98
+label: oz
+value: 0.28
+label: muffin, toaster
+value: 0.3
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: muffin, toaster
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: muffin, toaster
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: oz
+value: 0.0
+label: muffin, toaster
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 20.8
+label: oz
+value: 5.9
+label: muffin, toaster
+value: 6.4
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 1.551
+label: oz
+value: 0.44
+label: muffin, toaster
+value: 0.481
+
+
+name: 4:0
+unit: g
+value: 0.001
+label: oz
+value: 0.0
+label: muffin, toaster
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.001
+label: oz
+value: 0.0
+label: muffin, toaster
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.001
+label: oz
+value: 0.0
+label: muffin, toaster
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.001
+label: oz
+value: 0.0
+label: muffin, toaster
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.001
+label: oz
+value: 0.0
+label: muffin, toaster
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.015
+label: oz
+value: 0.004
+label: muffin, toaster
+value: 0.005
+
+
+name: 16:0
+unit: g
+value: 1.135
+label: oz
+value: 0.322
+label: muffin, toaster
+value: 0.352
+
+
+name: 18:0
+unit: g
+value: 0.397
+label: oz
+value: 0.113
+label: muffin, toaster
+value: 0.123
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 2.371
+label: oz
+value: 0.672
+label: muffin, toaster
+value: 0.735
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.037
+label: oz
+value: 0.01
+label: muffin, toaster
+value: 0.011
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 2.314
+label: oz
+value: 0.656
+label: muffin, toaster
+value: 0.717
+
+
+name: 20:1
+unit: g
+value: 0.019
+label: oz
+value: 0.005
+label: muffin, toaster
+value: 0.006
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: muffin, toaster
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 5.477
+label: oz
+value: 1.553
+label: muffin, toaster
+value: 1.698
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 4.839
+label: oz
+value: 1.372
+label: muffin, toaster
+value: 1.5
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.627
+label: oz
+value: 0.178
+label: muffin, toaster
+value: 0.194
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: muffin, toaster
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.009
+label: oz
+value: 0.003
+label: muffin, toaster
+value: 0.003
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: muffin, toaster
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: muffin, toaster
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.002
+label: oz
+value: 0.001
+label: muffin, toaster
+value: 0.001
+
+
+name: Cholesterol
+unit: mg
+value: 5.0
+label: oz
+value: 1.0
+label: muffin, toaster
+value: 2.0
+
+
+name: Tryptophan
+unit: g
+value: 0.066
+label: oz
+value: 0.019
+label: muffin, toaster
+value: 0.02
+
+
+name: Threonine
+unit: g
+value: 0.192
+label: oz
+value: 0.054
+label: muffin, toaster
+value: 0.06
+
+
+name: Isoleucine
+unit: g
+value: 0.218
+label: oz
+value: 0.062
+label: muffin, toaster
+value: 0.068
+
+
+name: Leucine
+unit: g
+value: 0.375
+label: oz
+value: 0.106
+label: muffin, toaster
+value: 0.116
+
+
+name: Lysine
+unit: g
+value: 0.276
+label: oz
+value: 0.078
+label: muffin, toaster
+value: 0.086
+
+
+name: Methionine
+unit: g
+value: 0.071
+label: oz
+value: 0.02
+label: muffin, toaster
+value: 0.022
+
+
+name: Cystine
+unit: g
+value: 0.08
+label: oz
+value: 0.023
+label: muffin, toaster
+value: 0.025
+
+
+name: Phenylalanine
+unit: g
+value: 0.242
+label: oz
+value: 0.069
+label: muffin, toaster
+value: 0.075
+
+
+name: Tyrosine
+unit: g
+value: 0.172
+label: oz
+value: 0.049
+label: muffin, toaster
+value: 0.053
+
+
+name: Valine
+unit: g
+value: 0.231
+label: oz
+value: 0.065
+label: muffin, toaster
+value: 0.072
+
+
+name: Arginine
+unit: g
+value: 0.324
+label: oz
+value: 0.092
+label: muffin, toaster
+value: 0.1
+
+
+name: Histidine
+unit: g
+value: 0.122
+label: oz
+value: 0.035
+label: muffin, toaster
+value: 0.038
+
+
+name: Alanine
+unit: g
+value: 0.208
+label: oz
+value: 0.059
+label: muffin, toaster
+value: 0.064
+
+
+name: Aspartic acid
+unit: g
+value: 0.51
+label: oz
+value: 0.145
+label: muffin, toaster
+value: 0.158
+
+
+name: Glutamic acid
+unit: g
+value: 1.029
+label: oz
+value: 0.292
+label: muffin, toaster
+value: 0.319
+
+
+name: Glycine
+unit: g
+value: 0.204
+label: oz
+value: 0.058
+label: muffin, toaster
+value: 0.063
+
+
+name: Proline
+unit: g
+value: 0.326
+label: oz
+value: 0.092
+label: muffin, toaster
+value: 0.101
+
+
+name: Serine
+unit: g
+value: 0.267
+label: oz
+value: 0.076
+label: muffin, toaster
+value: 0.083
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: muffin, toaster
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: muffin, toaster
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: muffin, toaster
+value: 0.0
+
+
+

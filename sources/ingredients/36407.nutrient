@@ -1,0 +1,843 @@
+ndbno: 36407
+
+
+name: Restaurant, Latino, Arroz con grandules (rice and pigeonpeas)
+
+
+name: Water
+unit: g
+value: 58.87
+label: serving
+value: 384.42
+label: cup
+value: 67.7
+
+
+name: Energy
+unit: kcal
+value: 182.0
+label: serving
+value: 1188.0
+label: cup
+value: 209.0
+
+
+name: Energy
+unit: kJ
+value: 761.0
+label: serving
+value: 4969.0
+label: cup
+value: 875.0
+
+
+name: Protein
+unit: g
+value: 3.5
+label: serving
+value: 22.86
+label: cup
+value: 4.02
+
+
+name: Total lipid (fat)
+unit: g
+value: 4.98
+label: serving
+value: 32.52
+label: cup
+value: 5.73
+
+
+name: Ash
+unit: g
+value: 1.9
+label: serving
+value: 12.41
+label: cup
+value: 2.18
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 30.75
+label: serving
+value: 200.8
+label: cup
+value: 35.36
+
+
+name: Fiber, total dietary
+unit: g
+value: 1.4
+label: serving
+value: 9.1
+label: cup
+value: 1.6
+
+
+name: Starch
+unit: g
+value: 28.4
+label: serving
+value: 185.45
+label: cup
+value: 32.66
+
+
+name: Calcium, Ca
+unit: mg
+value: 8.0
+label: serving
+value: 52.0
+label: cup
+value: 9.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.29
+label: serving
+value: 1.89
+label: cup
+value: 0.33
+
+
+name: Magnesium, Mg
+unit: mg
+value: 14.0
+label: serving
+value: 91.0
+label: cup
+value: 16.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 54.0
+label: serving
+value: 353.0
+label: cup
+value: 62.0
+
+
+name: Potassium, K
+unit: mg
+value: 84.0
+label: serving
+value: 549.0
+label: cup
+value: 97.0
+
+
+name: Sodium, Na
+unit: mg
+value: 583.0
+label: serving
+value: 3807.0
+label: cup
+value: 670.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.74
+label: serving
+value: 4.83
+label: cup
+value: 0.85
+
+
+name: Copper, Cu
+unit: mg
+value: 0.126
+label: serving
+value: 0.823
+label: cup
+value: 0.145
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.587
+label: serving
+value: 3.833
+label: cup
+value: 0.675
+
+
+name: Thiamin
+unit: mg
+value: 0.03
+label: serving
+value: 0.196
+label: cup
+value: 0.034
+
+
+name: Riboflavin
+unit: mg
+value: 0.015
+label: serving
+value: 0.098
+label: cup
+value: 0.017
+
+
+name: Niacin
+unit: mg
+value: 0.53
+label: serving
+value: 3.461
+label: cup
+value: 0.61
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.24
+label: serving
+value: 1.567
+label: cup
+value: 0.276
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.04
+label: serving
+value: 0.261
+label: cup
+value: 0.046
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.68
+label: serving
+value: 4.44
+label: cup
+value: 0.78
+
+
+name: Tocopherol, beta
+unit: mg
+value: 0.06
+label: serving
+value: 0.39
+label: cup
+value: 0.07
+
+
+name: Tocopherol, gamma
+unit: mg
+value: 3.03
+label: serving
+value: 19.79
+label: cup
+value: 3.48
+
+
+name: Tocopherol, delta
+unit: mg
+value: 1.01
+label: serving
+value: 6.6
+label: cup
+value: 1.16
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 12.6
+label: serving
+value: 82.3
+label: cup
+value: 14.5
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.763
+label: serving
+value: 4.982
+label: cup
+value: 0.877
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.029
+label: serving
+value: 0.189
+label: cup
+value: 0.033
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.012
+label: serving
+value: 0.078
+label: cup
+value: 0.014
+
+
+name: 15:0
+unit: g
+value: 0.001
+label: serving
+value: 0.007
+label: cup
+value: 0.001
+
+
+name: 16:0
+unit: g
+value: 0.511
+label: serving
+value: 3.337
+label: cup
+value: 0.588
+
+
+name: 17:0
+unit: g
+value: 0.004
+label: serving
+value: 0.026
+label: cup
+value: 0.005
+
+
+name: 18:0
+unit: g
+value: 0.172
+label: serving
+value: 1.123
+label: cup
+value: 0.198
+
+
+name: 20:0
+unit: g
+value: 0.015
+label: serving
+value: 0.098
+label: cup
+value: 0.017
+
+
+name: 22:0
+unit: g
+value: 0.013
+label: serving
+value: 0.085
+label: cup
+value: 0.015
+
+
+name: 24:0
+unit: g
+value: 0.006
+label: serving
+value: 0.039
+label: cup
+value: 0.007
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 1.005
+label: serving
+value: 6.563
+label: cup
+value: 1.156
+
+
+name: 14:1
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.005
+label: serving
+value: 0.033
+label: cup
+value: 0.006
+
+
+name: 16:1 c
+unit: g
+value: 0.005
+label: serving
+value: 0.033
+label: cup
+value: 0.006
+
+
+name: 16:1 t
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 17:1
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.98
+label: serving
+value: 6.399
+label: cup
+value: 1.127
+
+
+name: 18:1 c
+unit: g
+value: 0.978
+label: serving
+value: 6.386
+label: cup
+value: 1.125
+
+
+name: 18:1 t
+unit: g
+value: 0.002
+label: serving
+value: 0.013
+label: cup
+value: 0.002
+
+
+name: 20:1
+unit: g
+value: 0.02
+label: serving
+value: 0.131
+label: cup
+value: 0.023
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 22:1 c
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 22:1 t
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 24:1 c
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 2.32
+label: serving
+value: 15.15
+label: cup
+value: 2.668
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 2.07
+label: serving
+value: 13.517
+label: cup
+value: 2.38
+
+
+name: 18:2 n-6 c,c
+unit: g
+value: 2.057
+label: serving
+value: 13.432
+label: cup
+value: 2.366
+
+
+name: 18:2 CLAs
+unit: g
+value: 0.002
+label: serving
+value: 0.013
+label: cup
+value: 0.002
+
+
+name: 18:2 t not further defined
+unit: g
+value: 0.011
+label: serving
+value: 0.072
+label: cup
+value: 0.013
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.249
+label: serving
+value: 1.626
+label: cup
+value: 0.286
+
+
+name: 18:3 n-3 c,c,c (ALA)
+unit: g
+value: 0.249
+label: serving
+value: 1.626
+label: cup
+value: 0.286
+
+
+name: 18:3 n-6 c,c,c
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.001
+label: serving
+value: 0.007
+label: cup
+value: 0.001
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 20:3 n-6
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 22:4
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.013
+label: serving
+value: 0.085
+label: cup
+value: 0.015
+
+
+name: Fatty acids, total trans-monoenoic
+unit: g
+value: 0.002
+label: serving
+value: 0.013
+label: cup
+value: 0.002
+
+
+name: Tryptophan
+unit: g
+value: 0.05
+label: serving
+value: 0.326
+label: cup
+value: 0.058
+
+
+name: Threonine
+unit: g
+value: 0.11
+label: serving
+value: 0.718
+label: cup
+value: 0.126
+
+
+name: Isoleucine
+unit: g
+value: 0.13
+label: serving
+value: 0.849
+label: cup
+value: 0.15
+
+
+name: Leucine
+unit: g
+value: 0.26
+label: serving
+value: 1.698
+label: cup
+value: 0.299
+
+
+name: Lysine
+unit: g
+value: 0.12
+label: serving
+value: 0.784
+label: cup
+value: 0.138
+
+
+name: Methionine
+unit: g
+value: 0.07
+label: serving
+value: 0.457
+label: cup
+value: 0.08
+
+
+name: Cystine
+unit: g
+value: 0.06
+label: serving
+value: 0.392
+label: cup
+value: 0.069
+
+
+name: Phenylalanine
+unit: g
+value: 0.17
+label: serving
+value: 1.11
+label: cup
+value: 0.196
+
+
+name: Tyrosine
+unit: g
+value: 0.1
+label: serving
+value: 0.653
+label: cup
+value: 0.115
+
+
+name: Valine
+unit: g
+value: 0.18
+label: serving
+value: 1.175
+label: cup
+value: 0.207
+
+
+name: Arginine
+unit: g
+value: 0.25
+label: serving
+value: 1.632
+label: cup
+value: 0.288
+
+
+name: Histidine
+unit: g
+value: 0.09
+label: serving
+value: 0.588
+label: cup
+value: 0.104
+
+
+name: Alanine
+unit: g
+value: 0.17
+label: serving
+value: 1.11
+label: cup
+value: 0.196
+
+
+name: Aspartic acid
+unit: g
+value: 0.31
+label: serving
+value: 2.024
+label: cup
+value: 0.356
+
+
+name: Glutamic acid
+unit: g
+value: 0.84
+label: serving
+value: 5.485
+label: cup
+value: 0.966
+
+
+name: Glycine
+unit: g
+value: 0.14
+label: serving
+value: 0.914
+label: cup
+value: 0.161
+
+
+name: Proline
+unit: g
+value: 0.11
+label: serving
+value: 0.718
+label: cup
+value: 0.126
+
+
+name: Serine
+unit: g
+value: 0.16
+label: serving
+value: 1.045
+label: cup
+value: 0.184
+
+

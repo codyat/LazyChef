@@ -1,0 +1,439 @@
+ndbno: 06048
+
+
+name: Soup, oyster stew, canned, condensed
+
+
+name: Water
+unit: g
+value: 89.88
+label: cup (4 fl oz)
+value: 110.55
+label: can (10.5 oz)
+value: 267.84
+
+
+name: Energy
+unit: kcal
+value: 48.0
+label: cup (4 fl oz)
+value: 59.0
+label: can (10.5 oz)
+value: 143.0
+
+
+name: Energy
+unit: kJ
+value: 201.0
+label: cup (4 fl oz)
+value: 247.0
+label: can (10.5 oz)
+value: 599.0
+
+
+name: Protein
+unit: g
+value: 1.72
+label: cup (4 fl oz)
+value: 2.12
+label: can (10.5 oz)
+value: 5.13
+
+
+name: Total lipid (fat)
+unit: g
+value: 3.13
+label: cup (4 fl oz)
+value: 3.85
+label: can (10.5 oz)
+value: 9.33
+
+
+name: Ash
+unit: g
+value: 1.95
+label: cup (4 fl oz)
+value: 2.4
+label: can (10.5 oz)
+value: 5.81
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 3.32
+label: cup (4 fl oz)
+value: 4.08
+label: can (10.5 oz)
+value: 9.89
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: cup (4 fl oz)
+value: 0.0
+label: can (10.5 oz)
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 18.0
+label: cup (4 fl oz)
+value: 22.0
+label: can (10.5 oz)
+value: 54.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.8
+label: cup (4 fl oz)
+value: 0.98
+label: can (10.5 oz)
+value: 2.38
+
+
+name: Magnesium, Mg
+unit: mg
+value: 4.0
+label: cup (4 fl oz)
+value: 5.0
+label: can (10.5 oz)
+value: 12.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 39.0
+label: cup (4 fl oz)
+value: 48.0
+label: can (10.5 oz)
+value: 116.0
+
+
+name: Potassium, K
+unit: mg
+value: 40.0
+label: cup (4 fl oz)
+value: 49.0
+label: can (10.5 oz)
+value: 119.0
+
+
+name: Sodium, Na
+unit: mg
+value: 722.0
+label: cup (4 fl oz)
+value: 888.0
+label: can (10.5 oz)
+value: 2152.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 8.4
+label: cup (4 fl oz)
+value: 10.33
+label: can (10.5 oz)
+value: 25.03
+
+
+name: Copper, Cu
+unit: mg
+value: 1.3
+label: cup (4 fl oz)
+value: 1.599
+label: can (10.5 oz)
+value: 3.874
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.3
+label: cup (4 fl oz)
+value: 0.369
+label: can (10.5 oz)
+value: 0.894
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 6.8
+label: cup (4 fl oz)
+value: 8.4
+label: can (10.5 oz)
+value: 20.3
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 2.6
+label: cup (4 fl oz)
+value: 3.2
+label: can (10.5 oz)
+value: 7.7
+
+
+name: Thiamin
+unit: mg
+value: 0.017
+label: cup (4 fl oz)
+value: 0.021
+label: can (10.5 oz)
+value: 0.051
+
+
+name: Riboflavin
+unit: mg
+value: 0.029
+label: cup (4 fl oz)
+value: 0.036
+label: can (10.5 oz)
+value: 0.086
+
+
+name: Niacin
+unit: mg
+value: 0.19
+label: cup (4 fl oz)
+value: 0.234
+label: can (10.5 oz)
+value: 0.566
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.1
+label: cup (4 fl oz)
+value: 0.123
+label: can (10.5 oz)
+value: 0.298
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.01
+label: cup (4 fl oz)
+value: 0.012
+label: can (10.5 oz)
+value: 0.03
+
+
+name: Folate, total
+unit: \u00B5g
+value: 2.0
+label: cup (4 fl oz)
+value: 2.0
+label: can (10.5 oz)
+value: 6.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: cup (4 fl oz)
+value: 0.0
+label: can (10.5 oz)
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 2.0
+label: cup (4 fl oz)
+value: 2.0
+label: can (10.5 oz)
+value: 6.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 2.0
+label: cup (4 fl oz)
+value: 2.0
+label: can (10.5 oz)
+value: 6.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 1.79
+label: cup (4 fl oz)
+value: 2.2
+label: can (10.5 oz)
+value: 5.33
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 3.0
+label: cup (4 fl oz)
+value: 4.0
+label: can (10.5 oz)
+value: 9.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: cup (4 fl oz)
+value: 0.0
+label: can (10.5 oz)
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 58.0
+label: cup (4 fl oz)
+value: 71.0
+label: can (10.5 oz)
+value: 173.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 2.04
+label: cup (4 fl oz)
+value: 2.509
+label: can (10.5 oz)
+value: 6.079
+
+
+name: 4:0
+unit: g
+value: 0.12
+label: cup (4 fl oz)
+value: 0.148
+label: can (10.5 oz)
+value: 0.358
+
+
+name: 6:0
+unit: g
+value: 0.07
+label: cup (4 fl oz)
+value: 0.086
+label: can (10.5 oz)
+value: 0.209
+
+
+name: 8:0
+unit: g
+value: 0.05
+label: cup (4 fl oz)
+value: 0.062
+label: can (10.5 oz)
+value: 0.149
+
+
+name: 10:0
+unit: g
+value: 0.11
+label: cup (4 fl oz)
+value: 0.135
+label: can (10.5 oz)
+value: 0.328
+
+
+name: 12:0
+unit: g
+value: 0.09
+label: cup (4 fl oz)
+value: 0.111
+label: can (10.5 oz)
+value: 0.268
+
+
+name: 14:0
+unit: g
+value: 0.34
+label: cup (4 fl oz)
+value: 0.418
+label: can (10.5 oz)
+value: 1.013
+
+
+name: 16:0
+unit: g
+value: 0.77
+label: cup (4 fl oz)
+value: 0.947
+label: can (10.5 oz)
+value: 2.295
+
+
+name: 18:0
+unit: g
+value: 0.37
+label: cup (4 fl oz)
+value: 0.455
+label: can (10.5 oz)
+value: 1.103
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.74
+label: cup (4 fl oz)
+value: 0.91
+label: can (10.5 oz)
+value: 2.205
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.04
+label: cup (4 fl oz)
+value: 0.049
+label: can (10.5 oz)
+value: 0.119
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.66
+label: cup (4 fl oz)
+value: 0.812
+label: can (10.5 oz)
+value: 1.967
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.13
+label: cup (4 fl oz)
+value: 0.16
+label: can (10.5 oz)
+value: 0.387
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.1
+label: cup (4 fl oz)
+value: 0.123
+label: can (10.5 oz)
+value: 0.298
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.02
+label: cup (4 fl oz)
+value: 0.025
+label: can (10.5 oz)
+value: 0.06
+
+
+name: Cholesterol
+unit: mg
+value: 11.0
+label: cup (4 fl oz)
+value: 14.0
+label: can (10.5 oz)
+value: 33.0
+
+
+

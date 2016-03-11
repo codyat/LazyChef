@@ -1,0 +1,628 @@
+ndbno: 42137
+
+
+name: Salad dressing, peppercorn dressing, commercial, regular
+
+
+name: Water
+unit: g
+value: 31.9
+label: tbsp
+value: 4.27
+label: fl oz
+value: 8.29
+
+
+name: Energy
+unit: kcal
+value: 564.0
+label: tbsp
+value: 76.0
+label: fl oz
+value: 147.0
+
+
+name: Energy
+unit: kJ
+value: 2360.0
+label: tbsp
+value: 316.0
+label: fl oz
+value: 614.0
+
+
+name: Protein
+unit: g
+value: 1.2
+label: tbsp
+value: 0.16
+label: fl oz
+value: 0.31
+
+
+name: Total lipid (fat)
+unit: g
+value: 61.4
+label: tbsp
+value: 8.23
+label: fl oz
+value: 15.96
+
+
+name: Ash
+unit: g
+value: 2.0
+label: tbsp
+value: 0.27
+label: fl oz
+value: 0.52
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 3.5
+label: tbsp
+value: 0.47
+label: fl oz
+value: 0.91
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+label: fl oz
+value: 0.0
+
+
+name: Sugars, total
+unit: g
+value: 2.45
+label: tbsp
+value: 0.33
+label: fl oz
+value: 0.64
+
+
+name: Calcium, Ca
+unit: mg
+value: 22.0
+label: tbsp
+value: 3.0
+label: fl oz
+value: 6.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.35
+label: tbsp
+value: 0.05
+label: fl oz
+value: 0.09
+
+
+name: Magnesium, Mg
+unit: mg
+value: 2.0
+label: tbsp
+value: 0.0
+label: fl oz
+value: 1.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 26.0
+label: tbsp
+value: 3.0
+label: fl oz
+value: 7.0
+
+
+name: Potassium, K
+unit: mg
+value: 176.0
+label: tbsp
+value: 24.0
+label: fl oz
+value: 46.0
+
+
+name: Sodium, Na
+unit: mg
+value: 1103.0
+label: tbsp
+value: 148.0
+label: fl oz
+value: 287.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.18
+label: tbsp
+value: 0.02
+label: fl oz
+value: 0.05
+
+
+name: Copper, Cu
+unit: mg
+value: 0.01
+label: tbsp
+value: 0.001
+label: fl oz
+value: 0.003
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 1.6
+label: tbsp
+value: 0.2
+label: fl oz
+value: 0.4
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.6
+label: tbsp
+value: 0.1
+label: fl oz
+value: 0.2
+
+
+name: Thiamin
+unit: mg
+value: 0.0
+label: tbsp
+value: 0.0
+label: fl oz
+value: 0.0
+
+
+name: Riboflavin
+unit: mg
+value: 0.0
+label: tbsp
+value: 0.0
+label: fl oz
+value: 0.0
+
+
+name: Niacin
+unit: mg
+value: 0.0
+label: tbsp
+value: 0.0
+label: fl oz
+value: 0.0
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.07
+label: tbsp
+value: 0.009
+label: fl oz
+value: 0.018
+
+
+name: Folate, total
+unit: \u00B5g
+value: 4.0
+label: tbsp
+value: 1.0
+label: fl oz
+value: 1.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: tbsp
+value: 0.0
+label: fl oz
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 4.0
+label: tbsp
+value: 1.0
+label: fl oz
+value: 1.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 4.0
+label: tbsp
+value: 1.0
+label: fl oz
+value: 1.0
+
+
+name: Choline, total
+unit: mg
+value: 20.6
+label: tbsp
+value: 2.8
+label: fl oz
+value: 5.4
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.12
+label: tbsp
+value: 0.02
+label: fl oz
+value: 0.03
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: tbsp
+value: 0.0
+label: fl oz
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 10.0
+label: tbsp
+value: 1.0
+label: fl oz
+value: 3.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 10.0
+label: tbsp
+value: 1.0
+label: fl oz
+value: 3.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 2.0
+label: tbsp
+value: 0.0
+label: fl oz
+value: 1.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 1.0
+label: tbsp
+value: 0.0
+label: fl oz
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 1.0
+label: tbsp
+value: 0.0
+label: fl oz
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 38.0
+label: tbsp
+value: 5.0
+label: fl oz
+value: 10.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: tbsp
+value: 0.0
+label: fl oz
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 29.0
+label: tbsp
+value: 4.0
+label: fl oz
+value: 8.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 4.23
+label: tbsp
+value: 0.57
+label: fl oz
+value: 1.1
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: tbsp
+value: 0.0
+label: fl oz
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.1
+label: tbsp
+value: 0.0
+label: fl oz
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 4.0
+label: tbsp
+value: 1.0
+label: fl oz
+value: 1.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 125.2
+label: tbsp
+value: 16.8
+label: fl oz
+value: 32.6
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 10.527
+label: tbsp
+value: 1.411
+label: fl oz
+value: 2.737
+
+
+name: 4:0
+unit: g
+value: 0.128
+label: tbsp
+value: 0.017
+label: fl oz
+value: 0.033
+
+
+name: 6:0
+unit: g
+value: 0.048
+label: tbsp
+value: 0.006
+label: fl oz
+value: 0.012
+
+
+name: 8:0
+unit: g
+value: 0.026
+label: tbsp
+value: 0.003
+label: fl oz
+value: 0.007
+
+
+name: 10:0
+unit: g
+value: 0.064
+label: tbsp
+value: 0.009
+label: fl oz
+value: 0.017
+
+
+name: 12:0
+unit: g
+value: 0.087
+label: tbsp
+value: 0.012
+label: fl oz
+value: 0.023
+
+
+name: 14:0
+unit: g
+value: 0.352
+label: tbsp
+value: 0.047
+label: fl oz
+value: 0.092
+
+
+name: 16:0
+unit: g
+value: 7.062
+label: tbsp
+value: 0.946
+label: fl oz
+value: 1.836
+
+
+name: 18:0
+unit: g
+value: 2.57
+label: tbsp
+value: 0.344
+label: fl oz
+value: 0.668
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 14.84
+label: tbsp
+value: 1.989
+label: fl oz
+value: 3.858
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.229
+label: tbsp
+value: 0.031
+label: fl oz
+value: 0.06
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 14.386
+label: tbsp
+value: 1.928
+label: fl oz
+value: 3.74
+
+
+name: 20:1
+unit: g
+value: 0.12
+label: tbsp
+value: 0.016
+label: fl oz
+value: 0.031
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.001
+label: tbsp
+value: 0.0
+label: fl oz
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 32.972
+label: tbsp
+value: 4.418
+label: fl oz
+value: 8.573
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 29.006
+label: tbsp
+value: 3.887
+label: fl oz
+value: 7.542
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 3.861
+label: tbsp
+value: 0.517
+label: fl oz
+value: 1.004
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+label: fl oz
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.037
+label: tbsp
+value: 0.005
+label: fl oz
+value: 0.01
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.001
+label: tbsp
+value: 0.0
+label: fl oz
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+label: fl oz
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.01
+label: tbsp
+value: 0.001
+label: fl oz
+value: 0.003
+
+
+name: Cholesterol
+unit: mg
+value: 49.0
+label: tbsp
+value: 7.0
+label: fl oz
+value: 13.0
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+label: fl oz
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: tbsp
+value: 0.0
+label: fl oz
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: tbsp
+value: 0.0
+label: fl oz
+value: 0.0
+
+
+

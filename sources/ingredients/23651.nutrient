@@ -1,0 +1,825 @@
+ndbno: 23651
+
+
+name: Beef, round, tip round, roast, separable lean only, trimmed to 0\ fat, all grades, raw
+
+
+name: Water
+unit: g
+value: 74.48
+label: oz
+value: 63.31
+label: roast
+value: 960.05
+
+
+name: Energy
+unit: kcal
+value: 126.0
+label: oz
+value: 107.0
+label: roast
+value: 1624.0
+
+
+name: Energy
+unit: kJ
+value: 526.0
+label: oz
+value: 447.0
+label: roast
+value: 6780.0
+
+
+name: Protein
+unit: g
+value: 21.07
+label: oz
+value: 17.91
+label: roast
+value: 271.59
+
+
+name: Total lipid (fat)
+unit: g
+value: 3.95
+label: oz
+value: 3.36
+label: roast
+value: 50.92
+
+
+name: Ash
+unit: g
+value: 1.03
+label: oz
+value: 0.88
+label: roast
+value: 13.28
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: roast
+value: 0.0
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: roast
+value: 0.0
+
+
+name: Sugars, total
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: roast
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 18.0
+label: oz
+value: 15.0
+label: roast
+value: 232.0
+
+
+name: Iron, Fe
+unit: mg
+value: 1.77
+label: oz
+value: 1.5
+label: roast
+value: 22.82
+
+
+name: Magnesium, Mg
+unit: mg
+value: 22.0
+label: oz
+value: 19.0
+label: roast
+value: 284.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 198.0
+label: oz
+value: 168.0
+label: roast
+value: 2552.0
+
+
+name: Potassium, K
+unit: mg
+value: 323.0
+label: oz
+value: 275.0
+label: roast
+value: 4163.0
+
+
+name: Sodium, Na
+unit: mg
+value: 54.0
+label: oz
+value: 46.0
+label: roast
+value: 696.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 3.89
+label: oz
+value: 3.31
+label: roast
+value: 50.14
+
+
+name: Copper, Cu
+unit: mg
+value: 0.091
+label: oz
+value: 0.077
+label: roast
+value: 1.173
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.013
+label: oz
+value: 0.011
+label: roast
+value: 0.168
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 26.0
+label: oz
+value: 22.1
+label: roast
+value: 335.1
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: roast
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.084
+label: oz
+value: 0.071
+label: roast
+value: 1.083
+
+
+name: Riboflavin
+unit: mg
+value: 0.135
+label: oz
+value: 0.115
+label: roast
+value: 1.74
+
+
+name: Niacin
+unit: mg
+value: 6.217
+label: oz
+value: 5.284
+label: roast
+value: 80.137
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.623
+label: oz
+value: 0.53
+label: roast
+value: 8.03
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.612
+label: oz
+value: 0.52
+label: roast
+value: 7.889
+
+
+name: Folate, total
+unit: \u00B5g
+value: 12.0
+label: oz
+value: 10.0
+label: roast
+value: 155.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: roast
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 12.0
+label: oz
+value: 10.0
+label: roast
+value: 155.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 12.0
+label: oz
+value: 10.0
+label: roast
+value: 155.0
+
+
+name: Choline, total
+unit: mg
+value: 88.0
+label: oz
+value: 74.8
+label: roast
+value: 1134.3
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 1.47
+label: oz
+value: 1.25
+label: roast
+value: 18.95
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: roast
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: roast
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: roast
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: roast
+value: 0.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: roast
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: roast
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 0.0
+label: oz
+value: 0.0
+label: roast
+value: 0.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: roast
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: roast
+value: 0.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.27
+label: oz
+value: 0.23
+label: roast
+value: 3.48
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: roast
+value: 0.0
+
+
+name: Tocopherol, beta
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: roast
+value: 0.0
+
+
+name: Tocopherol, gamma
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: roast
+value: 0.0
+
+
+name: Tocopherol, delta
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: roast
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 1.1
+label: oz
+value: 0.9
+label: roast
+value: 14.2
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 1.376
+label: oz
+value: 1.17
+label: roast
+value: 17.737
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: roast
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: roast
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: roast
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: roast
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: roast
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.095
+label: oz
+value: 0.081
+label: roast
+value: 1.225
+
+
+name: 16:0
+unit: g
+value: 0.836
+label: oz
+value: 0.711
+label: roast
+value: 10.776
+
+
+name: 18:0
+unit: g
+value: 0.445
+label: oz
+value: 0.378
+label: roast
+value: 5.736
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 1.641
+label: oz
+value: 1.395
+label: roast
+value: 21.152
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.138
+label: oz
+value: 0.117
+label: roast
+value: 1.779
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 1.503
+label: oz
+value: 1.278
+label: roast
+value: 19.374
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: roast
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: roast
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.201
+label: oz
+value: 0.171
+label: roast
+value: 2.591
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.159
+label: oz
+value: 0.135
+label: roast
+value: 2.05
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.011
+label: oz
+value: 0.009
+label: roast
+value: 0.142
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: roast
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.032
+label: oz
+value: 0.027
+label: roast
+value: 0.412
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: roast
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: roast
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: roast
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 57.0
+label: oz
+value: 48.0
+label: roast
+value: 735.0
+
+
+name: Tryptophan
+unit: g
+value: 0.138
+label: oz
+value: 0.117
+label: roast
+value: 1.779
+
+
+name: Threonine
+unit: g
+value: 0.842
+label: oz
+value: 0.716
+label: roast
+value: 10.853
+
+
+name: Isoleucine
+unit: g
+value: 0.959
+label: oz
+value: 0.815
+label: roast
+value: 12.362
+
+
+name: Leucine
+unit: g
+value: 1.676
+label: oz
+value: 1.425
+label: roast
+value: 21.604
+
+
+name: Lysine
+unit: g
+value: 1.781
+label: oz
+value: 1.514
+label: roast
+value: 22.957
+
+
+name: Methionine
+unit: g
+value: 0.549
+label: oz
+value: 0.467
+label: roast
+value: 7.077
+
+
+name: Cystine
+unit: g
+value: 0.272
+label: oz
+value: 0.231
+label: roast
+value: 3.506
+
+
+name: Phenylalanine
+unit: g
+value: 0.832
+label: oz
+value: 0.707
+label: roast
+value: 10.724
+
+
+name: Tyrosine
+unit: g
+value: 0.671
+label: oz
+value: 0.57
+label: roast
+value: 8.649
+
+
+name: Valine
+unit: g
+value: 1.045
+label: oz
+value: 0.888
+label: roast
+value: 13.47
+
+
+name: Arginine
+unit: g
+value: 1.362
+label: oz
+value: 1.158
+label: roast
+value: 17.556
+
+
+name: Histidine
+unit: g
+value: 0.672
+label: oz
+value: 0.571
+label: roast
+value: 8.662
+
+
+name: Alanine
+unit: g
+value: 1.281
+label: oz
+value: 1.089
+label: roast
+value: 16.512
+
+
+name: Aspartic acid
+unit: g
+value: 1.919
+label: oz
+value: 1.631
+label: roast
+value: 24.736
+
+
+name: Glutamic acid
+unit: g
+value: 3.163
+label: oz
+value: 2.689
+label: roast
+value: 40.771
+
+
+name: Glycine
+unit: g
+value: 1.283
+label: oz
+value: 1.091
+label: roast
+value: 16.538
+
+
+name: Proline
+unit: g
+value: 1.004
+label: oz
+value: 0.853
+label: roast
+value: 12.942
+
+
+name: Serine
+unit: g
+value: 0.83
+label: oz
+value: 0.706
+label: roast
+value: 10.699
+
+
+name: Hydroxyproline
+unit: g
+value: 0.221
+label: oz
+value: 0.188
+label: roast
+value: 2.849
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: roast
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: roast
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: roast
+value: 0.0
+
+

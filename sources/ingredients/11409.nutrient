@@ -1,0 +1,565 @@
+ndbno: 11409
+
+
+name: Potatoes, frozen, french fried, par fried, extruded, prepared, heated in oven, without salt
+
+
+name: Water
+unit: g
+value: 35.4
+label: strips
+value: 17.7
+label: package (9 oz), yields
+value: 70.09
+
+
+name: Energy
+unit: kcal
+value: 333.0
+label: strips
+value: 166.0
+label: package (9 oz), yields
+value: 659.0
+
+
+name: Energy
+unit: kJ
+value: 1393.0
+label: strips
+value: 696.0
+label: package (9 oz), yields
+value: 2758.0
+
+
+name: Protein
+unit: g
+value: 3.55
+label: strips
+value: 1.78
+label: package (9 oz), yields
+value: 7.03
+
+
+name: Total lipid (fat)
+unit: g
+value: 18.71
+label: strips
+value: 9.36
+label: package (9 oz), yields
+value: 37.05
+
+
+name: Ash
+unit: g
+value: 2.66
+label: strips
+value: 1.33
+label: package (9 oz), yields
+value: 5.27
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 39.68
+label: strips
+value: 19.84
+label: package (9 oz), yields
+value: 78.57
+
+
+name: Fiber, total dietary
+unit: g
+value: 3.2
+label: strips
+value: 1.6
+label: package (9 oz), yields
+value: 6.3
+
+
+name: Calcium, Ca
+unit: mg
+value: 12.0
+label: strips
+value: 6.0
+label: package (9 oz), yields
+value: 24.0
+
+
+name: Iron, Fe
+unit: mg
+value: 1.66
+label: strips
+value: 0.83
+label: package (9 oz), yields
+value: 3.29
+
+
+name: Magnesium, Mg
+unit: mg
+value: 23.0
+label: strips
+value: 12.0
+label: package (9 oz), yields
+value: 46.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 96.0
+label: strips
+value: 48.0
+label: package (9 oz), yields
+value: 190.0
+
+
+name: Potassium, K
+unit: mg
+value: 539.0
+label: strips
+value: 270.0
+label: package (9 oz), yields
+value: 1067.0
+
+
+name: Sodium, Na
+unit: mg
+value: 613.0
+label: strips
+value: 306.0
+label: package (9 oz), yields
+value: 1214.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.41
+label: strips
+value: 0.2
+label: package (9 oz), yields
+value: 0.81
+
+
+name: Copper, Cu
+unit: mg
+value: 0.04
+label: strips
+value: 0.02
+label: package (9 oz), yields
+value: 0.079
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.285
+label: strips
+value: 0.142
+label: package (9 oz), yields
+value: 0.564
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 0.6
+label: strips
+value: 0.3
+label: package (9 oz), yields
+value: 1.2
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 6.2
+label: strips
+value: 3.1
+label: package (9 oz), yields
+value: 12.3
+
+
+name: Thiamin
+unit: mg
+value: 0.08
+label: strips
+value: 0.04
+label: package (9 oz), yields
+value: 0.158
+
+
+name: Riboflavin
+unit: mg
+value: 0.037
+label: strips
+value: 0.018
+label: package (9 oz), yields
+value: 0.073
+
+
+name: Niacin
+unit: mg
+value: 2.665
+label: strips
+value: 1.332
+label: package (9 oz), yields
+value: 5.277
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.608
+label: strips
+value: 0.304
+label: package (9 oz), yields
+value: 1.204
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.213
+label: strips
+value: 0.106
+label: package (9 oz), yields
+value: 0.422
+
+
+name: Folate, total
+unit: \u00B5g
+value: 22.0
+label: strips
+value: 11.0
+label: package (9 oz), yields
+value: 44.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: strips
+value: 0.0
+label: package (9 oz), yields
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 22.0
+label: strips
+value: 11.0
+label: package (9 oz), yields
+value: 44.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 22.0
+label: strips
+value: 11.0
+label: package (9 oz), yields
+value: 44.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: strips
+value: 0.0
+label: package (9 oz), yields
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 0.0
+label: strips
+value: 0.0
+label: package (9 oz), yields
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: strips
+value: 0.0
+label: package (9 oz), yields
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 0.0
+label: strips
+value: 0.0
+label: package (9 oz), yields
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: strips
+value: 0.0
+label: package (9 oz), yields
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: strips
+value: 0.0
+label: package (9 oz), yields
+value: 0.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 5.96
+label: strips
+value: 2.98
+label: package (9 oz), yields
+value: 11.801
+
+
+name: 14:0
+unit: g
+value: 0.076
+label: strips
+value: 0.038
+label: package (9 oz), yields
+value: 0.15
+
+
+name: 16:0
+unit: g
+value: 3.822
+label: strips
+value: 1.911
+label: package (9 oz), yields
+value: 7.568
+
+
+name: 18:0
+unit: g
+value: 1.274
+label: strips
+value: 0.637
+label: package (9 oz), yields
+value: 2.523
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 11.338
+label: strips
+value: 5.669
+label: package (9 oz), yields
+value: 22.449
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.038
+label: strips
+value: 0.019
+label: package (9 oz), yields
+value: 0.075
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 11.317
+label: strips
+value: 5.658
+label: package (9 oz), yields
+value: 22.408
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 1.405
+label: strips
+value: 0.702
+label: package (9 oz), yields
+value: 2.782
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 1.405
+label: strips
+value: 0.702
+label: package (9 oz), yields
+value: 2.782
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: strips
+value: 0.0
+label: package (9 oz), yields
+value: 0.0
+
+
+name: Tryptophan
+unit: g
+value: 0.048
+label: strips
+value: 0.024
+label: package (9 oz), yields
+value: 0.095
+
+
+name: Threonine
+unit: g
+value: 0.161
+label: strips
+value: 0.08
+label: package (9 oz), yields
+value: 0.319
+
+
+name: Isoleucine
+unit: g
+value: 0.153
+label: strips
+value: 0.076
+label: package (9 oz), yields
+value: 0.303
+
+
+name: Leucine
+unit: g
+value: 0.214
+label: strips
+value: 0.107
+label: package (9 oz), yields
+value: 0.424
+
+
+name: Lysine
+unit: g
+value: 0.188
+label: strips
+value: 0.094
+label: package (9 oz), yields
+value: 0.372
+
+
+name: Methionine
+unit: g
+value: 0.04
+label: strips
+value: 0.02
+label: package (9 oz), yields
+value: 0.079
+
+
+name: Cystine
+unit: g
+value: 0.023
+label: strips
+value: 0.012
+label: package (9 oz), yields
+value: 0.046
+
+
+name: Phenylalanine
+unit: g
+value: 0.152
+label: strips
+value: 0.076
+label: package (9 oz), yields
+value: 0.301
+
+
+name: Tyrosine
+unit: g
+value: 0.089
+label: strips
+value: 0.045
+label: package (9 oz), yields
+value: 0.176
+
+
+name: Valine
+unit: g
+value: 0.18
+label: strips
+value: 0.09
+label: package (9 oz), yields
+value: 0.356
+
+
+name: Arginine
+unit: g
+value: 0.168
+label: strips
+value: 0.084
+label: package (9 oz), yields
+value: 0.333
+
+
+name: Histidine
+unit: g
+value: 0.06
+label: strips
+value: 0.03
+label: package (9 oz), yields
+value: 0.119
+
+
+name: Alanine
+unit: g
+value: 0.122
+label: strips
+value: 0.061
+label: package (9 oz), yields
+value: 0.242
+
+
+name: Aspartic acid
+unit: g
+value: 0.821
+label: strips
+value: 0.41
+label: package (9 oz), yields
+value: 1.626
+
+
+name: Glutamic acid
+unit: g
+value: 0.554
+label: strips
+value: 0.277
+label: package (9 oz), yields
+value: 1.097
+
+
+name: Glycine
+unit: g
+value: 0.128
+label: strips
+value: 0.064
+label: package (9 oz), yields
+value: 0.253
+
+
+name: Proline
+unit: g
+value: 0.114
+label: strips
+value: 0.057
+label: package (9 oz), yields
+value: 0.226
+
+
+name: Serine
+unit: g
+value: 0.128
+label: strips
+value: 0.064
+label: package (9 oz), yields
+value: 0.253
+
+
+

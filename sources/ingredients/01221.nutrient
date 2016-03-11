@@ -1,0 +1,504 @@
+ndbno: 01221
+
+
+name: Yogurt, vanilla or lemon flavor, nonfat milk, sweetened with low-calorie sweetener, fortified with vitamin D
+
+
+name: Water
+unit: g
+value: 87.43
+label: container (6 oz)
+value: 148.63
+
+
+name: Energy
+unit: kcal
+value: 43.0
+label: container (6 oz)
+value: 73.0
+
+
+name: Energy
+unit: kJ
+value: 180.0
+label: container (6 oz)
+value: 306.0
+
+
+name: Protein
+unit: g
+value: 3.86
+label: container (6 oz)
+value: 6.56
+
+
+name: Total lipid (fat)
+unit: g
+value: 0.18
+label: container (6 oz)
+value: 0.31
+
+
+name: Ash
+unit: g
+value: 1.0
+label: container (6 oz)
+value: 1.7
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 7.5
+label: container (6 oz)
+value: 12.75
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: container (6 oz)
+value: 0.0
+
+
+name: Sugars, total
+unit: g
+value: 7.5
+label: container (6 oz)
+value: 12.75
+
+
+name: Calcium, Ca
+unit: mg
+value: 143.0
+label: container (6 oz)
+value: 243.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.12
+label: container (6 oz)
+value: 0.2
+
+
+name: Magnesium, Mg
+unit: mg
+value: 13.0
+label: container (6 oz)
+value: 22.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 109.0
+label: container (6 oz)
+value: 185.0
+
+
+name: Potassium, K
+unit: mg
+value: 177.0
+label: container (6 oz)
+value: 301.0
+
+
+name: Sodium, Na
+unit: mg
+value: 59.0
+label: container (6 oz)
+value: 100.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.67
+label: container (6 oz)
+value: 1.14
+
+
+name: Copper, Cu
+unit: mg
+value: 0.079
+label: container (6 oz)
+value: 0.134
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 3.1
+label: container (6 oz)
+value: 5.3
+
+
+name: Fluoride, F
+unit: \u00B5g
+value: 12.0
+label: container (6 oz)
+value: 20.4
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 1.1
+label: container (6 oz)
+value: 1.9
+
+
+name: Thiamin
+unit: mg
+value: 0.034
+label: container (6 oz)
+value: 0.058
+
+
+name: Riboflavin
+unit: mg
+value: 0.162
+label: container (6 oz)
+value: 0.275
+
+
+name: Niacin
+unit: mg
+value: 0.086
+label: container (6 oz)
+value: 0.146
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.037
+label: container (6 oz)
+value: 0.063
+
+
+name: Folate, total
+unit: \u00B5g
+value: 8.0
+label: container (6 oz)
+value: 14.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: container (6 oz)
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 8.0
+label: container (6 oz)
+value: 14.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 8.0
+label: container (6 oz)
+value: 14.0
+
+
+name: Choline, total
+unit: mg
+value: 15.2
+label: container (6 oz)
+value: 25.8
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.43
+label: container (6 oz)
+value: 0.73
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: container (6 oz)
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 2.0
+label: container (6 oz)
+value: 3.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 2.0
+label: container (6 oz)
+value: 3.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 0.0
+label: container (6 oz)
+value: 0.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: container (6 oz)
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: container (6 oz)
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 6.0
+label: container (6 oz)
+value: 10.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: container (6 oz)
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 0.0
+label: container (6 oz)
+value: 0.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.0
+label: container (6 oz)
+value: 0.0
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: container (6 oz)
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 1.2
+label: container (6 oz)
+value: 2.0
+
+
+name: Vitamin D3 (cholecalciferol)
+unit: \u00B5g
+value: 1.2
+label: container (6 oz)
+value: 2.0
+
+
+name: Vitamin D
+unit: IU
+value: 47.0
+label: container (6 oz)
+value: 80.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 0.0
+label: container (6 oz)
+value: 0.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.116
+label: container (6 oz)
+value: 0.197
+
+
+name: 4:0
+unit: g
+value: 0.005
+label: container (6 oz)
+value: 0.008
+
+
+name: 6:0
+unit: g
+value: 0.005
+label: container (6 oz)
+value: 0.008
+
+
+name: 8:0
+unit: g
+value: 0.002
+label: container (6 oz)
+value: 0.003
+
+
+name: 10:0
+unit: g
+value: 0.005
+label: container (6 oz)
+value: 0.008
+
+
+name: 12:0
+unit: g
+value: 0.006
+label: container (6 oz)
+value: 0.01
+
+
+name: 14:0
+unit: g
+value: 0.019
+label: container (6 oz)
+value: 0.032
+
+
+name: 16:0
+unit: g
+value: 0.049
+label: container (6 oz)
+value: 0.083
+
+
+name: 18:0
+unit: g
+value: 0.018
+label: container (6 oz)
+value: 0.031
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.049
+label: container (6 oz)
+value: 0.083
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.004
+label: container (6 oz)
+value: 0.007
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.041
+label: container (6 oz)
+value: 0.07
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: container (6 oz)
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: container (6 oz)
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.005
+label: container (6 oz)
+value: 0.008
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.004
+label: container (6 oz)
+value: 0.007
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.001
+label: container (6 oz)
+value: 0.002
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: container (6 oz)
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: container (6 oz)
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: container (6 oz)
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: container (6 oz)
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: container (6 oz)
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 2.0
+label: container (6 oz)
+value: 3.0
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: container (6 oz)
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: container (6 oz)
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: container (6 oz)
+value: 0.0
+
+
+

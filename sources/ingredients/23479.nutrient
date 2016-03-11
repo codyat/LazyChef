@@ -1,0 +1,906 @@
+ndbno: 23479
+
+
+name: Beef, ground, 97% lean meat /3% fat, patty, cooked, pan-broiled
+
+
+name: Water
+unit: g
+value: 68.68
+label: oz
+value: 58.38
+label: portion (yield from 1/2 lb raw meat )
+value: 95.47
+
+
+name: Energy
+unit: kcal
+value: 144.0
+label: oz
+value: 122.0
+label: portion (yield from 1/2 lb raw meat )
+value: 200.0
+
+
+name: Energy
+unit: kJ
+value: 603.0
+label: oz
+value: 513.0
+label: portion (yield from 1/2 lb raw meat )
+value: 838.0
+
+
+name: Protein
+unit: g
+value: 26.03
+label: oz
+value: 22.13
+label: portion (yield from 1/2 lb raw meat )
+value: 36.18
+
+
+name: Total lipid (fat)
+unit: g
+value: 3.65
+label: oz
+value: 3.1
+label: portion (yield from 1/2 lb raw meat )
+value: 5.07
+
+
+name: Ash
+unit: g
+value: 1.09
+label: oz
+value: 0.93
+label: portion (yield from 1/2 lb raw meat )
+value: 1.52
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: portion (yield from 1/2 lb raw meat )
+value: 0.0
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: portion (yield from 1/2 lb raw meat )
+value: 0.0
+
+
+name: Sugars, total
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: portion (yield from 1/2 lb raw meat )
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 7.0
+label: oz
+value: 6.0
+label: portion (yield from 1/2 lb raw meat )
+value: 10.0
+
+
+name: Iron, Fe
+unit: mg
+value: 2.89
+label: oz
+value: 2.46
+label: portion (yield from 1/2 lb raw meat )
+value: 4.02
+
+
+name: Magnesium, Mg
+unit: mg
+value: 24.0
+label: oz
+value: 20.0
+label: portion (yield from 1/2 lb raw meat )
+value: 33.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 224.0
+label: oz
+value: 190.0
+label: portion (yield from 1/2 lb raw meat )
+value: 311.0
+
+
+name: Potassium, K
+unit: mg
+value: 382.0
+label: oz
+value: 325.0
+label: portion (yield from 1/2 lb raw meat )
+value: 531.0
+
+
+name: Sodium, Na
+unit: mg
+value: 69.0
+label: oz
+value: 59.0
+label: portion (yield from 1/2 lb raw meat )
+value: 96.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 6.5
+label: oz
+value: 5.52
+label: portion (yield from 1/2 lb raw meat )
+value: 9.04
+
+
+name: Copper, Cu
+unit: mg
+value: 0.093
+label: oz
+value: 0.079
+label: portion (yield from 1/2 lb raw meat )
+value: 0.129
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.012
+label: oz
+value: 0.01
+label: portion (yield from 1/2 lb raw meat )
+value: 0.017
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 21.2
+label: oz
+value: 18.0
+label: portion (yield from 1/2 lb raw meat )
+value: 29.5
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: portion (yield from 1/2 lb raw meat )
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.043
+label: oz
+value: 0.037
+label: portion (yield from 1/2 lb raw meat )
+value: 0.06
+
+
+name: Riboflavin
+unit: mg
+value: 0.177
+label: oz
+value: 0.15
+label: portion (yield from 1/2 lb raw meat )
+value: 0.246
+
+
+name: Niacin
+unit: mg
+value: 6.374
+label: oz
+value: 5.418
+label: portion (yield from 1/2 lb raw meat )
+value: 8.86
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.65
+label: oz
+value: 0.552
+label: portion (yield from 1/2 lb raw meat )
+value: 0.904
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.396
+label: oz
+value: 0.337
+label: portion (yield from 1/2 lb raw meat )
+value: 0.55
+
+
+name: Folate, total
+unit: \u00B5g
+value: 7.0
+label: oz
+value: 6.0
+label: portion (yield from 1/2 lb raw meat )
+value: 10.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: portion (yield from 1/2 lb raw meat )
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 7.0
+label: oz
+value: 6.0
+label: portion (yield from 1/2 lb raw meat )
+value: 10.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 7.0
+label: oz
+value: 6.0
+label: portion (yield from 1/2 lb raw meat )
+value: 10.0
+
+
+name: Choline, total
+unit: mg
+value: 84.9
+label: oz
+value: 72.2
+label: portion (yield from 1/2 lb raw meat )
+value: 118.0
+
+
+name: Betaine
+unit: mg
+value: 7.1
+label: oz
+value: 6.0
+label: portion (yield from 1/2 lb raw meat )
+value: 9.9
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 2.79
+label: oz
+value: 2.37
+label: portion (yield from 1/2 lb raw meat )
+value: 3.88
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: portion (yield from 1/2 lb raw meat )
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 3.0
+label: oz
+value: 3.0
+label: portion (yield from 1/2 lb raw meat )
+value: 4.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 3.0
+label: oz
+value: 3.0
+label: portion (yield from 1/2 lb raw meat )
+value: 4.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: portion (yield from 1/2 lb raw meat )
+value: 0.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: portion (yield from 1/2 lb raw meat )
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: portion (yield from 1/2 lb raw meat )
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 10.0
+label: oz
+value: 8.0
+label: portion (yield from 1/2 lb raw meat )
+value: 14.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: portion (yield from 1/2 lb raw meat )
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: portion (yield from 1/2 lb raw meat )
+value: 0.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.13
+label: oz
+value: 0.11
+label: portion (yield from 1/2 lb raw meat )
+value: 0.18
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: portion (yield from 1/2 lb raw meat )
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: portion (yield from 1/2 lb raw meat )
+value: 0.0
+
+
+name: Vitamin D3 (cholecalciferol)
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: portion (yield from 1/2 lb raw meat )
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 2.0
+label: oz
+value: 2.0
+label: portion (yield from 1/2 lb raw meat )
+value: 3.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 1.4
+label: oz
+value: 1.2
+label: portion (yield from 1/2 lb raw meat )
+value: 1.9
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 1.797
+label: oz
+value: 1.527
+label: portion (yield from 1/2 lb raw meat )
+value: 2.498
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: portion (yield from 1/2 lb raw meat )
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: portion (yield from 1/2 lb raw meat )
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: portion (yield from 1/2 lb raw meat )
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: portion (yield from 1/2 lb raw meat )
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.006
+label: oz
+value: 0.005
+label: portion (yield from 1/2 lb raw meat )
+value: 0.008
+
+
+name: 14:0
+unit: g
+value: 0.115
+label: oz
+value: 0.098
+label: portion (yield from 1/2 lb raw meat )
+value: 0.16
+
+
+name: 15:0
+unit: g
+value: 0.021
+label: oz
+value: 0.018
+label: portion (yield from 1/2 lb raw meat )
+value: 0.029
+
+
+name: 16:0
+unit: g
+value: 0.96
+label: oz
+value: 0.816
+label: portion (yield from 1/2 lb raw meat )
+value: 1.334
+
+
+name: 17:0
+unit: g
+value: 0.048
+label: oz
+value: 0.041
+label: portion (yield from 1/2 lb raw meat )
+value: 0.067
+
+
+name: 18:0
+unit: g
+value: 0.638
+label: oz
+value: 0.542
+label: portion (yield from 1/2 lb raw meat )
+value: 0.887
+
+
+name: 20:0
+unit: g
+value: 0.008
+label: oz
+value: 0.007
+label: portion (yield from 1/2 lb raw meat )
+value: 0.011
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 1.377
+label: oz
+value: 1.17
+label: portion (yield from 1/2 lb raw meat )
+value: 1.914
+
+
+name: 14:1
+unit: g
+value: 0.028
+label: oz
+value: 0.024
+label: portion (yield from 1/2 lb raw meat )
+value: 0.039
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.146
+label: oz
+value: 0.124
+label: portion (yield from 1/2 lb raw meat )
+value: 0.203
+
+
+name: 17:1
+unit: g
+value: 0.031
+label: oz
+value: 0.026
+label: portion (yield from 1/2 lb raw meat )
+value: 0.043
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.092
+label: oz
+value: 0.078
+label: portion (yield from 1/2 lb raw meat )
+value: 0.128
+
+
+name: 18:1 t
+unit: g
+value: 0.092
+label: oz
+value: 0.078
+label: portion (yield from 1/2 lb raw meat )
+value: 0.128
+
+
+name: 20:1
+unit: g
+value: 0.014
+label: oz
+value: 0.012
+label: portion (yield from 1/2 lb raw meat )
+value: 0.019
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: portion (yield from 1/2 lb raw meat )
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.229
+label: oz
+value: 0.195
+label: portion (yield from 1/2 lb raw meat )
+value: 0.318
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.142
+label: oz
+value: 0.121
+label: portion (yield from 1/2 lb raw meat )
+value: 0.197
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.009
+label: oz
+value: 0.008
+label: portion (yield from 1/2 lb raw meat )
+value: 0.013
+
+
+name: 18:3 n-6 c,c,c
+unit: g
+value: 0.009
+label: oz
+value: 0.008
+label: portion (yield from 1/2 lb raw meat )
+value: 0.013
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: portion (yield from 1/2 lb raw meat )
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.043
+label: oz
+value: 0.037
+label: portion (yield from 1/2 lb raw meat )
+value: 0.06
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: portion (yield from 1/2 lb raw meat )
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: portion (yield from 1/2 lb raw meat )
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: portion (yield from 1/2 lb raw meat )
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.092
+label: oz
+value: 0.078
+label: portion (yield from 1/2 lb raw meat )
+value: 0.128
+
+
+name: Fatty acids, total trans-monoenoic
+unit: g
+value: 0.092
+label: oz
+value: 0.078
+label: portion (yield from 1/2 lb raw meat )
+value: 0.128
+
+
+name: Cholesterol
+unit: mg
+value: 84.0
+label: oz
+value: 71.0
+label: portion (yield from 1/2 lb raw meat )
+value: 117.0
+
+
+name: Tryptophan
+unit: g
+value: 0.132
+label: oz
+value: 0.112
+label: portion (yield from 1/2 lb raw meat )
+value: 0.183
+
+
+name: Threonine
+unit: g
+value: 1.009
+label: oz
+value: 0.858
+label: portion (yield from 1/2 lb raw meat )
+value: 1.403
+
+
+name: Isoleucine
+unit: g
+value: 1.153
+label: oz
+value: 0.98
+label: portion (yield from 1/2 lb raw meat )
+value: 1.603
+
+
+name: Leucine
+unit: g
+value: 2.033
+label: oz
+value: 1.728
+label: portion (yield from 1/2 lb raw meat )
+value: 2.826
+
+
+name: Lysine
+unit: g
+value: 2.16
+label: oz
+value: 1.836
+label: portion (yield from 1/2 lb raw meat )
+value: 3.002
+
+
+name: Methionine
+unit: g
+value: 0.671
+label: oz
+value: 0.57
+label: portion (yield from 1/2 lb raw meat )
+value: 0.933
+
+
+name: Cystine
+unit: g
+value: 0.268
+label: oz
+value: 0.228
+label: portion (yield from 1/2 lb raw meat )
+value: 0.373
+
+
+name: Phenylalanine
+unit: g
+value: 1.017
+label: oz
+value: 0.864
+label: portion (yield from 1/2 lb raw meat )
+value: 1.414
+
+
+name: Tyrosine
+unit: g
+value: 0.802
+label: oz
+value: 0.682
+label: portion (yield from 1/2 lb raw meat )
+value: 1.115
+
+
+name: Valine
+unit: g
+value: 1.281
+label: oz
+value: 1.089
+label: portion (yield from 1/2 lb raw meat )
+value: 1.781
+
+
+name: Arginine
+unit: g
+value: 1.697
+label: oz
+value: 1.442
+label: portion (yield from 1/2 lb raw meat )
+value: 2.359
+
+
+name: Histidine
+unit: g
+value: 0.847
+label: oz
+value: 0.72
+label: portion (yield from 1/2 lb raw meat )
+value: 1.177
+
+
+name: Alanine
+unit: g
+value: 1.633
+label: oz
+value: 1.388
+label: portion (yield from 1/2 lb raw meat )
+value: 2.27
+
+
+name: Aspartic acid
+unit: g
+value: 2.348
+label: oz
+value: 1.996
+label: portion (yield from 1/2 lb raw meat )
+value: 3.264
+
+
+name: Glutamic acid
+unit: g
+value: 3.909
+label: oz
+value: 3.323
+label: portion (yield from 1/2 lb raw meat )
+value: 5.434
+
+
+name: Glycine
+unit: g
+value: 1.77
+label: oz
+value: 1.504
+label: portion (yield from 1/2 lb raw meat )
+value: 2.46
+
+
+name: Proline
+unit: g
+value: 1.329
+label: oz
+value: 1.13
+label: portion (yield from 1/2 lb raw meat )
+value: 1.847
+
+
+name: Serine
+unit: g
+value: 1.044
+label: oz
+value: 0.887
+label: portion (yield from 1/2 lb raw meat )
+value: 1.451
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: portion (yield from 1/2 lb raw meat )
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: portion (yield from 1/2 lb raw meat )
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: portion (yield from 1/2 lb raw meat )
+value: 0.0
+
+

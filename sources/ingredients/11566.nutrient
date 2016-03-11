@@ -1,0 +1,574 @@
+ndbno: 11566
+
+
+name: Turnips, frozen, unprepared
+
+
+name: Water
+unit: g
+value: 95.67
+label: package, mashed (10 oz)
+value: 89.93
+label: package, mashed (10 oz)
+value: 271.7
+
+
+name: Energy
+unit: kcal
+value: 16.0
+label: package, mashed (10 oz)
+value: 15.0
+label: package, mashed (10 oz)
+value: 45.0
+
+
+name: Energy
+unit: kJ
+value: 67.0
+label: package, mashed (10 oz)
+value: 63.0
+label: package, mashed (10 oz)
+value: 190.0
+
+
+name: Protein
+unit: g
+value: 1.04
+label: package, mashed (10 oz)
+value: 0.98
+label: package, mashed (10 oz)
+value: 2.95
+
+
+name: Total lipid (fat)
+unit: g
+value: 0.16
+label: package, mashed (10 oz)
+value: 0.15
+label: package, mashed (10 oz)
+value: 0.45
+
+
+name: Ash
+unit: g
+value: 0.19
+label: package, mashed (10 oz)
+value: 0.18
+label: package, mashed (10 oz)
+value: 0.54
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 2.94
+label: package, mashed (10 oz)
+value: 2.76
+label: package, mashed (10 oz)
+value: 8.35
+
+
+name: Fiber, total dietary
+unit: g
+value: 1.8
+label: package, mashed (10 oz)
+value: 1.7
+label: package, mashed (10 oz)
+value: 5.1
+
+
+name: Calcium, Ca
+unit: mg
+value: 23.0
+label: package, mashed (10 oz)
+value: 22.0
+label: package, mashed (10 oz)
+value: 65.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.7
+label: package, mashed (10 oz)
+value: 0.66
+label: package, mashed (10 oz)
+value: 1.99
+
+
+name: Magnesium, Mg
+unit: mg
+value: 10.0
+label: package, mashed (10 oz)
+value: 9.0
+label: package, mashed (10 oz)
+value: 28.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 20.0
+label: package, mashed (10 oz)
+value: 19.0
+label: package, mashed (10 oz)
+value: 57.0
+
+
+name: Potassium, K
+unit: mg
+value: 137.0
+label: package, mashed (10 oz)
+value: 129.0
+label: package, mashed (10 oz)
+value: 389.0
+
+
+name: Sodium, Na
+unit: mg
+value: 25.0
+label: package, mashed (10 oz)
+value: 24.0
+label: package, mashed (10 oz)
+value: 71.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.14
+label: package, mashed (10 oz)
+value: 0.13
+label: package, mashed (10 oz)
+value: 0.4
+
+
+name: Copper, Cu
+unit: mg
+value: 0.045
+label: package, mashed (10 oz)
+value: 0.042
+label: package, mashed (10 oz)
+value: 0.128
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.071
+label: package, mashed (10 oz)
+value: 0.067
+label: package, mashed (10 oz)
+value: 0.202
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 0.4
+label: package, mashed (10 oz)
+value: 0.4
+label: package, mashed (10 oz)
+value: 1.1
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 4.4
+label: package, mashed (10 oz)
+value: 4.1
+label: package, mashed (10 oz)
+value: 12.5
+
+
+name: Thiamin
+unit: mg
+value: 0.03
+label: package, mashed (10 oz)
+value: 0.028
+label: package, mashed (10 oz)
+value: 0.085
+
+
+name: Riboflavin
+unit: mg
+value: 0.02
+label: package, mashed (10 oz)
+value: 0.019
+label: package, mashed (10 oz)
+value: 0.057
+
+
+name: Niacin
+unit: mg
+value: 0.4
+label: package, mashed (10 oz)
+value: 0.376
+label: package, mashed (10 oz)
+value: 1.136
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.106
+label: package, mashed (10 oz)
+value: 0.1
+label: package, mashed (10 oz)
+value: 0.301
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.048
+label: package, mashed (10 oz)
+value: 0.045
+label: package, mashed (10 oz)
+value: 0.136
+
+
+name: Folate, total
+unit: \u00B5g
+value: 8.0
+label: package, mashed (10 oz)
+value: 8.0
+label: package, mashed (10 oz)
+value: 23.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: package, mashed (10 oz)
+value: 0.0
+label: package, mashed (10 oz)
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 8.0
+label: package, mashed (10 oz)
+value: 8.0
+label: package, mashed (10 oz)
+value: 23.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 8.0
+label: package, mashed (10 oz)
+value: 8.0
+label: package, mashed (10 oz)
+value: 23.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: package, mashed (10 oz)
+value: 0.0
+label: package, mashed (10 oz)
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 1.0
+label: package, mashed (10 oz)
+value: 1.0
+label: package, mashed (10 oz)
+value: 3.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: package, mashed (10 oz)
+value: 0.0
+label: package, mashed (10 oz)
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 26.0
+label: package, mashed (10 oz)
+value: 24.0
+label: package, mashed (10 oz)
+value: 74.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: package, mashed (10 oz)
+value: 0.0
+label: package, mashed (10 oz)
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: package, mashed (10 oz)
+value: 0.0
+label: package, mashed (10 oz)
+value: 0.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.017
+label: package, mashed (10 oz)
+value: 0.016
+label: package, mashed (10 oz)
+value: 0.048
+
+
+name: 16:0
+unit: g
+value: 0.015
+label: package, mashed (10 oz)
+value: 0.014
+label: package, mashed (10 oz)
+value: 0.043
+
+
+name: 18:0
+unit: g
+value: 0.001
+label: package, mashed (10 oz)
+value: 0.001
+label: package, mashed (10 oz)
+value: 0.003
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.01
+label: package, mashed (10 oz)
+value: 0.009
+label: package, mashed (10 oz)
+value: 0.028
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.001
+label: package, mashed (10 oz)
+value: 0.001
+label: package, mashed (10 oz)
+value: 0.003
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.009
+label: package, mashed (10 oz)
+value: 0.008
+label: package, mashed (10 oz)
+value: 0.026
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.085
+label: package, mashed (10 oz)
+value: 0.08
+label: package, mashed (10 oz)
+value: 0.241
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.019
+label: package, mashed (10 oz)
+value: 0.018
+label: package, mashed (10 oz)
+value: 0.054
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.064
+label: package, mashed (10 oz)
+value: 0.06
+label: package, mashed (10 oz)
+value: 0.182
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.0
+label: package, mashed (10 oz)
+value: 0.0
+label: package, mashed (10 oz)
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: package, mashed (10 oz)
+value: 0.0
+label: package, mashed (10 oz)
+value: 0.0
+
+
+name: Tryptophan
+unit: g
+value: 0.01
+label: package, mashed (10 oz)
+value: 0.009
+label: package, mashed (10 oz)
+value: 0.028
+
+
+name: Threonine
+unit: g
+value: 0.029
+label: package, mashed (10 oz)
+value: 0.027
+label: package, mashed (10 oz)
+value: 0.082
+
+
+name: Isoleucine
+unit: g
+value: 0.042
+label: package, mashed (10 oz)
+value: 0.039
+label: package, mashed (10 oz)
+value: 0.119
+
+
+name: Leucine
+unit: g
+value: 0.038
+label: package, mashed (10 oz)
+value: 0.036
+label: package, mashed (10 oz)
+value: 0.108
+
+
+name: Lysine
+unit: g
+value: 0.041
+label: package, mashed (10 oz)
+value: 0.039
+label: package, mashed (10 oz)
+value: 0.116
+
+
+name: Methionine
+unit: g
+value: 0.013
+label: package, mashed (10 oz)
+value: 0.012
+label: package, mashed (10 oz)
+value: 0.037
+
+
+name: Cystine
+unit: g
+value: 0.006
+label: package, mashed (10 oz)
+value: 0.006
+label: package, mashed (10 oz)
+value: 0.017
+
+
+name: Phenylalanine
+unit: g
+value: 0.02
+label: package, mashed (10 oz)
+value: 0.019
+label: package, mashed (10 oz)
+value: 0.057
+
+
+name: Tyrosine
+unit: g
+value: 0.015
+label: package, mashed (10 oz)
+value: 0.014
+label: package, mashed (10 oz)
+value: 0.043
+
+
+name: Valine
+unit: g
+value: 0.034
+label: package, mashed (10 oz)
+value: 0.032
+label: package, mashed (10 oz)
+value: 0.097
+
+
+name: Arginine
+unit: g
+value: 0.028
+label: package, mashed (10 oz)
+value: 0.026
+label: package, mashed (10 oz)
+value: 0.08
+
+
+name: Histidine
+unit: g
+value: 0.016
+label: package, mashed (10 oz)
+value: 0.015
+label: package, mashed (10 oz)
+value: 0.045
+
+
+name: Alanine
+unit: g
+value: 0.04
+label: package, mashed (10 oz)
+value: 0.038
+label: package, mashed (10 oz)
+value: 0.114
+
+
+name: Aspartic acid
+unit: g
+value: 0.073
+label: package, mashed (10 oz)
+value: 0.069
+label: package, mashed (10 oz)
+value: 0.207
+
+
+name: Glutamic acid
+unit: g
+value: 0.149
+label: package, mashed (10 oz)
+value: 0.14
+label: package, mashed (10 oz)
+value: 0.423
+
+
+name: Glycine
+unit: g
+value: 0.029
+label: package, mashed (10 oz)
+value: 0.027
+label: package, mashed (10 oz)
+value: 0.082
+
+
+name: Proline
+unit: g
+value: 0.03
+label: package, mashed (10 oz)
+value: 0.028
+label: package, mashed (10 oz)
+value: 0.085
+
+
+name: Serine
+unit: g
+value: 0.033
+label: package, mashed (10 oz)
+value: 0.031
+label: package, mashed (10 oz)
+value: 0.094
+
+
+

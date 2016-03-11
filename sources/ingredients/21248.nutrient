@@ -1,0 +1,919 @@
+ndbno: 21248
+
+
+name: WENDY'S, Frosty Dairy Dessert
+
+
+name: Water
+unit: g
+value: 69.25
+label: junior 6 oz. cup
+value: 78.25
+label: small 12 oz. cup
+value: 157.2
+label: medium 16 oz. cup
+value: 206.36
+
+
+name: Energy
+unit: kcal
+value: 132.0
+label: junior 6 oz. cup
+value: 149.0
+label: small 12 oz. cup
+value: 300.0
+label: medium 16 oz. cup
+value: 393.0
+
+
+name: Energy
+unit: kJ
+value: 552.0
+label: junior 6 oz. cup
+value: 624.0
+label: small 12 oz. cup
+value: 1253.0
+label: medium 16 oz. cup
+value: 1645.0
+
+
+name: Protein
+unit: g
+value: 3.49
+label: junior 6 oz. cup
+value: 3.94
+label: small 12 oz. cup
+value: 7.92
+label: medium 16 oz. cup
+value: 10.4
+
+
+name: Total lipid (fat)
+unit: g
+value: 2.6
+label: junior 6 oz. cup
+value: 2.94
+label: small 12 oz. cup
+value: 5.9
+label: medium 16 oz. cup
+value: 7.75
+
+
+name: Ash
+unit: g
+value: 1.04
+label: junior 6 oz. cup
+value: 1.18
+label: small 12 oz. cup
+value: 2.36
+label: medium 16 oz. cup
+value: 3.1
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 23.62
+label: junior 6 oz. cup
+value: 26.69
+label: small 12 oz. cup
+value: 53.62
+label: medium 16 oz. cup
+value: 70.39
+
+
+name: Fiber, total dietary
+unit: g
+value: 3.3
+label: junior 6 oz. cup
+value: 3.7
+label: small 12 oz. cup
+value: 7.5
+label: medium 16 oz. cup
+value: 9.8
+
+
+name: Sucrose
+unit: g
+value: 8.63
+label: junior 6 oz. cup
+value: 9.75
+label: small 12 oz. cup
+value: 19.59
+label: medium 16 oz. cup
+value: 25.72
+
+
+name: Glucose (dextrose)
+unit: g
+value: 0.55
+label: junior 6 oz. cup
+value: 0.62
+label: small 12 oz. cup
+value: 1.25
+label: medium 16 oz. cup
+value: 1.64
+
+
+name: Fructose
+unit: g
+value: 0.15
+label: junior 6 oz. cup
+value: 0.17
+label: small 12 oz. cup
+value: 0.34
+label: medium 16 oz. cup
+value: 0.45
+
+
+name: Lactose
+unit: g
+value: 5.44
+label: junior 6 oz. cup
+value: 6.15
+label: small 12 oz. cup
+value: 12.35
+label: medium 16 oz. cup
+value: 16.21
+
+
+name: Maltose
+unit: g
+value: 0.91
+label: junior 6 oz. cup
+value: 1.03
+label: small 12 oz. cup
+value: 2.07
+label: medium 16 oz. cup
+value: 2.71
+
+
+name: Starch
+unit: g
+value: 1.3
+label: junior 6 oz. cup
+value: 1.47
+label: small 12 oz. cup
+value: 2.95
+label: medium 16 oz. cup
+value: 3.87
+
+
+name: Calcium, Ca
+unit: mg
+value: 128.0
+label: junior 6 oz. cup
+value: 145.0
+label: small 12 oz. cup
+value: 291.0
+label: medium 16 oz. cup
+value: 381.0
+
+
+name: Iron, Fe
+unit: mg
+value: 1.04
+label: junior 6 oz. cup
+value: 1.18
+label: small 12 oz. cup
+value: 2.36
+label: medium 16 oz. cup
+value: 3.1
+
+
+name: Magnesium, Mg
+unit: mg
+value: 20.0
+label: junior 6 oz. cup
+value: 23.0
+label: small 12 oz. cup
+value: 45.0
+label: medium 16 oz. cup
+value: 60.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 112.0
+label: junior 6 oz. cup
+value: 127.0
+label: small 12 oz. cup
+value: 254.0
+label: medium 16 oz. cup
+value: 334.0
+
+
+name: Potassium, K
+unit: mg
+value: 185.0
+label: junior 6 oz. cup
+value: 209.0
+label: small 12 oz. cup
+value: 420.0
+label: medium 16 oz. cup
+value: 551.0
+
+
+name: Sodium, Na
+unit: mg
+value: 98.0
+label: junior 6 oz. cup
+value: 111.0
+label: small 12 oz. cup
+value: 222.0
+label: medium 16 oz. cup
+value: 292.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.44
+label: junior 6 oz. cup
+value: 0.5
+label: small 12 oz. cup
+value: 1.0
+label: medium 16 oz. cup
+value: 1.31
+
+
+name: Copper, Cu
+unit: mg
+value: 0.075
+label: junior 6 oz. cup
+value: 0.085
+label: small 12 oz. cup
+value: 0.17
+label: medium 16 oz. cup
+value: 0.223
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.063
+label: junior 6 oz. cup
+value: 0.071
+label: small 12 oz. cup
+value: 0.143
+label: medium 16 oz. cup
+value: 0.188
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 3.3
+label: junior 6 oz. cup
+value: 3.7
+label: small 12 oz. cup
+value: 7.5
+label: medium 16 oz. cup
+value: 9.8
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: junior 6 oz. cup
+value: 0.0
+label: small 12 oz. cup
+value: 0.0
+label: medium 16 oz. cup
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.06
+label: junior 6 oz. cup
+value: 0.068
+label: small 12 oz. cup
+value: 0.136
+label: medium 16 oz. cup
+value: 0.179
+
+
+name: Riboflavin
+unit: mg
+value: 0.72
+label: junior 6 oz. cup
+value: 0.814
+label: small 12 oz. cup
+value: 1.634
+label: medium 16 oz. cup
+value: 2.146
+
+
+name: Niacin
+unit: mg
+value: 0.348
+label: junior 6 oz. cup
+value: 0.393
+label: small 12 oz. cup
+value: 0.79
+label: medium 16 oz. cup
+value: 1.037
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.601
+label: junior 6 oz. cup
+value: 0.679
+label: small 12 oz. cup
+value: 1.364
+label: medium 16 oz. cup
+value: 1.791
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.0
+label: junior 6 oz. cup
+value: 0.0
+label: small 12 oz. cup
+value: 0.0
+label: medium 16 oz. cup
+value: 0.0
+
+
+name: Choline, total
+unit: mg
+value: 27.7
+label: junior 6 oz. cup
+value: 31.3
+label: small 12 oz. cup
+value: 62.9
+label: medium 16 oz. cup
+value: 82.5
+
+
+name: Betaine
+unit: mg
+value: 1.1
+label: junior 6 oz. cup
+value: 1.2
+label: small 12 oz. cup
+value: 2.5
+label: medium 16 oz. cup
+value: 3.3
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.59
+label: junior 6 oz. cup
+value: 0.67
+label: small 12 oz. cup
+value: 1.34
+label: medium 16 oz. cup
+value: 1.76
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 0.4
+label: junior 6 oz. cup
+value: 0.5
+label: small 12 oz. cup
+value: 0.9
+label: medium 16 oz. cup
+value: 1.2
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 1.635
+label: junior 6 oz. cup
+value: 1.848
+label: small 12 oz. cup
+value: 3.711
+label: medium 16 oz. cup
+value: 4.872
+
+
+name: 8:0
+unit: g
+value: 0.033
+label: junior 6 oz. cup
+value: 0.037
+label: small 12 oz. cup
+value: 0.075
+label: medium 16 oz. cup
+value: 0.098
+
+
+name: 10:0
+unit: g
+value: 0.067
+label: junior 6 oz. cup
+value: 0.076
+label: small 12 oz. cup
+value: 0.152
+label: medium 16 oz. cup
+value: 0.2
+
+
+name: 12:0
+unit: g
+value: 0.075
+label: junior 6 oz. cup
+value: 0.085
+label: small 12 oz. cup
+value: 0.17
+label: medium 16 oz. cup
+value: 0.223
+
+
+name: 14:0
+unit: g
+value: 0.259
+label: junior 6 oz. cup
+value: 0.293
+label: small 12 oz. cup
+value: 0.588
+label: medium 16 oz. cup
+value: 0.772
+
+
+name: 15:0
+unit: g
+value: 0.025
+label: junior 6 oz. cup
+value: 0.028
+label: small 12 oz. cup
+value: 0.057
+label: medium 16 oz. cup
+value: 0.074
+
+
+name: 16:0
+unit: g
+value: 0.776
+label: junior 6 oz. cup
+value: 0.877
+label: small 12 oz. cup
+value: 1.762
+label: medium 16 oz. cup
+value: 2.312
+
+
+name: 17:0
+unit: g
+value: 0.017
+label: junior 6 oz. cup
+value: 0.019
+label: small 12 oz. cup
+value: 0.039
+label: medium 16 oz. cup
+value: 0.051
+
+
+name: 18:0
+unit: g
+value: 0.384
+label: junior 6 oz. cup
+value: 0.434
+label: small 12 oz. cup
+value: 0.872
+label: medium 16 oz. cup
+value: 1.144
+
+
+name: 20:0
+unit: g
+value: 0.0
+label: junior 6 oz. cup
+value: 0.0
+label: small 12 oz. cup
+value: 0.0
+label: medium 16 oz. cup
+value: 0.0
+
+
+name: 22:0
+unit: g
+value: 0.0
+label: junior 6 oz. cup
+value: 0.0
+label: small 12 oz. cup
+value: 0.0
+label: medium 16 oz. cup
+value: 0.0
+
+
+name: 24:0
+unit: g
+value: 0.0
+label: junior 6 oz. cup
+value: 0.0
+label: small 12 oz. cup
+value: 0.0
+label: medium 16 oz. cup
+value: 0.0
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.692
+label: junior 6 oz. cup
+value: 0.782
+label: small 12 oz. cup
+value: 1.571
+label: medium 16 oz. cup
+value: 2.062
+
+
+name: 14:1
+unit: g
+value: 0.017
+label: junior 6 oz. cup
+value: 0.019
+label: small 12 oz. cup
+value: 0.039
+label: medium 16 oz. cup
+value: 0.051
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: junior 6 oz. cup
+value: 0.0
+label: small 12 oz. cup
+value: 0.0
+label: medium 16 oz. cup
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.042
+label: junior 6 oz. cup
+value: 0.047
+label: small 12 oz. cup
+value: 0.095
+label: medium 16 oz. cup
+value: 0.125
+
+
+name: 17:1
+unit: g
+value: 0.0
+label: junior 6 oz. cup
+value: 0.0
+label: small 12 oz. cup
+value: 0.0
+label: medium 16 oz. cup
+value: 0.0
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.634
+label: junior 6 oz. cup
+value: 0.716
+label: small 12 oz. cup
+value: 1.439
+label: medium 16 oz. cup
+value: 1.889
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: junior 6 oz. cup
+value: 0.0
+label: small 12 oz. cup
+value: 0.0
+label: medium 16 oz. cup
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: junior 6 oz. cup
+value: 0.0
+label: small 12 oz. cup
+value: 0.0
+label: medium 16 oz. cup
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.117
+label: junior 6 oz. cup
+value: 0.132
+label: small 12 oz. cup
+value: 0.266
+label: medium 16 oz. cup
+value: 0.349
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.1
+label: junior 6 oz. cup
+value: 0.113
+label: small 12 oz. cup
+value: 0.227
+label: medium 16 oz. cup
+value: 0.298
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.017
+label: junior 6 oz. cup
+value: 0.019
+label: small 12 oz. cup
+value: 0.039
+label: medium 16 oz. cup
+value: 0.051
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: junior 6 oz. cup
+value: 0.0
+label: small 12 oz. cup
+value: 0.0
+label: medium 16 oz. cup
+value: 0.0
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.0
+label: junior 6 oz. cup
+value: 0.0
+label: small 12 oz. cup
+value: 0.0
+label: medium 16 oz. cup
+value: 0.0
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.0
+label: junior 6 oz. cup
+value: 0.0
+label: small 12 oz. cup
+value: 0.0
+label: medium 16 oz. cup
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: junior 6 oz. cup
+value: 0.0
+label: small 12 oz. cup
+value: 0.0
+label: medium 16 oz. cup
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: junior 6 oz. cup
+value: 0.0
+label: small 12 oz. cup
+value: 0.0
+label: medium 16 oz. cup
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: junior 6 oz. cup
+value: 0.0
+label: small 12 oz. cup
+value: 0.0
+label: medium 16 oz. cup
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: junior 6 oz. cup
+value: 0.0
+label: small 12 oz. cup
+value: 0.0
+label: medium 16 oz. cup
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 16.0
+label: junior 6 oz. cup
+value: 18.0
+label: small 12 oz. cup
+value: 36.0
+label: medium 16 oz. cup
+value: 48.0
+
+
+name: Tryptophan
+unit: g
+value: 0.04
+label: junior 6 oz. cup
+value: 0.045
+label: small 12 oz. cup
+value: 0.091
+label: medium 16 oz. cup
+value: 0.119
+
+
+name: Threonine
+unit: g
+value: 0.15
+label: junior 6 oz. cup
+value: 0.169
+label: small 12 oz. cup
+value: 0.34
+label: medium 16 oz. cup
+value: 0.447
+
+
+name: Isoleucine
+unit: g
+value: 0.15
+label: junior 6 oz. cup
+value: 0.169
+label: small 12 oz. cup
+value: 0.34
+label: medium 16 oz. cup
+value: 0.447
+
+
+name: Leucine
+unit: g
+value: 0.29
+label: junior 6 oz. cup
+value: 0.328
+label: small 12 oz. cup
+value: 0.658
+label: medium 16 oz. cup
+value: 0.864
+
+
+name: Lysine
+unit: g
+value: 0.25
+label: junior 6 oz. cup
+value: 0.282
+label: small 12 oz. cup
+value: 0.568
+label: medium 16 oz. cup
+value: 0.745
+
+
+name: Methionine
+unit: g
+value: 0.07
+label: junior 6 oz. cup
+value: 0.079
+label: small 12 oz. cup
+value: 0.159
+label: medium 16 oz. cup
+value: 0.209
+
+
+name: Cystine
+unit: g
+value: 0.04
+label: junior 6 oz. cup
+value: 0.045
+label: small 12 oz. cup
+value: 0.091
+label: medium 16 oz. cup
+value: 0.119
+
+
+name: Phenylalanine
+unit: g
+value: 0.14
+label: junior 6 oz. cup
+value: 0.158
+label: small 12 oz. cup
+value: 0.318
+label: medium 16 oz. cup
+value: 0.417
+
+
+name: Tyrosine
+unit: g
+value: 0.12
+label: junior 6 oz. cup
+value: 0.136
+label: small 12 oz. cup
+value: 0.272
+label: medium 16 oz. cup
+value: 0.358
+
+
+name: Valine
+unit: g
+value: 0.18
+label: junior 6 oz. cup
+value: 0.203
+label: small 12 oz. cup
+value: 0.409
+label: medium 16 oz. cup
+value: 0.536
+
+
+name: Arginine
+unit: g
+value: 0.11
+label: junior 6 oz. cup
+value: 0.124
+label: small 12 oz. cup
+value: 0.25
+label: medium 16 oz. cup
+value: 0.328
+
+
+name: Histidine
+unit: g
+value: 0.08
+label: junior 6 oz. cup
+value: 0.09
+label: small 12 oz. cup
+value: 0.182
+label: medium 16 oz. cup
+value: 0.238
+
+
+name: Alanine
+unit: g
+value: 0.11
+label: junior 6 oz. cup
+value: 0.124
+label: small 12 oz. cup
+value: 0.25
+label: medium 16 oz. cup
+value: 0.328
+
+
+name: Aspartic acid
+unit: g
+value: 0.28
+label: junior 6 oz. cup
+value: 0.316
+label: small 12 oz. cup
+value: 0.636
+label: medium 16 oz. cup
+value: 0.834
+
+
+name: Glutamic acid
+unit: g
+value: 0.64
+label: junior 6 oz. cup
+value: 0.723
+label: small 12 oz. cup
+value: 1.453
+label: medium 16 oz. cup
+value: 1.907
+
+
+name: Glycine
+unit: g
+value: 0.07
+label: junior 6 oz. cup
+value: 0.079
+label: small 12 oz. cup
+value: 0.159
+label: medium 16 oz. cup
+value: 0.209
+
+
+name: Proline
+unit: g
+value: 0.27
+label: junior 6 oz. cup
+value: 0.305
+label: small 12 oz. cup
+value: 0.613
+label: medium 16 oz. cup
+value: 0.805
+
+
+name: Serine
+unit: g
+value: 0.17
+label: junior 6 oz. cup
+value: 0.192
+label: small 12 oz. cup
+value: 0.386
+label: medium 16 oz. cup
+value: 0.507
+
+

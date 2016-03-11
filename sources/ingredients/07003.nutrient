@@ -1,0 +1,699 @@
+ndbno: 07003
+
+
+name: Beerwurst, beer salami, pork
+
+
+name: Water
+unit: g
+value: 61.46
+label: slice (4\ dia x 1/8\ thick)
+value: 14.14
+label: slice (2-3/4\ dia x 1/16\)
+value: 3.69
+
+
+name: Energy
+unit: kcal
+value: 238.0
+label: slice (4\ dia x 1/8\ thick)
+value: 55.0
+label: slice (2-3/4\ dia x 1/16\)
+value: 14.0
+
+
+name: Energy
+unit: kJ
+value: 996.0
+label: slice (4\ dia x 1/8\ thick)
+value: 229.0
+label: slice (2-3/4\ dia x 1/16\)
+value: 60.0
+
+
+name: Protein
+unit: g
+value: 14.24
+label: slice (4\ dia x 1/8\ thick)
+value: 3.28
+label: slice (2-3/4\ dia x 1/16\)
+value: 0.85
+
+
+name: Total lipid (fat)
+unit: g
+value: 18.8
+label: slice (4\ dia x 1/8\ thick)
+value: 4.32
+label: slice (2-3/4\ dia x 1/16\)
+value: 1.13
+
+
+name: Ash
+unit: g
+value: 3.44
+label: slice (4\ dia x 1/8\ thick)
+value: 0.79
+label: slice (2-3/4\ dia x 1/16\)
+value: 0.21
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 2.06
+label: slice (4\ dia x 1/8\ thick)
+value: 0.47
+label: slice (2-3/4\ dia x 1/16\)
+value: 0.12
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: slice (4\ dia x 1/8\ thick)
+value: 0.0
+label: slice (2-3/4\ dia x 1/16\)
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 8.0
+label: slice (4\ dia x 1/8\ thick)
+value: 2.0
+label: slice (2-3/4\ dia x 1/16\)
+value: 0.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.76
+label: slice (4\ dia x 1/8\ thick)
+value: 0.17
+label: slice (2-3/4\ dia x 1/16\)
+value: 0.05
+
+
+name: Magnesium, Mg
+unit: mg
+value: 13.0
+label: slice (4\ dia x 1/8\ thick)
+value: 3.0
+label: slice (2-3/4\ dia x 1/16\)
+value: 1.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 103.0
+label: slice (4\ dia x 1/8\ thick)
+value: 24.0
+label: slice (2-3/4\ dia x 1/16\)
+value: 6.0
+
+
+name: Potassium, K
+unit: mg
+value: 253.0
+label: slice (4\ dia x 1/8\ thick)
+value: 58.0
+label: slice (2-3/4\ dia x 1/16\)
+value: 15.0
+
+
+name: Sodium, Na
+unit: mg
+value: 1240.0
+label: slice (4\ dia x 1/8\ thick)
+value: 285.0
+label: slice (2-3/4\ dia x 1/16\)
+value: 74.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 1.72
+label: slice (4\ dia x 1/8\ thick)
+value: 0.4
+label: slice (2-3/4\ dia x 1/16\)
+value: 0.1
+
+
+name: Copper, Cu
+unit: mg
+value: 0.05
+label: slice (4\ dia x 1/8\ thick)
+value: 0.012
+label: slice (2-3/4\ dia x 1/16\)
+value: 0.003
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.032
+label: slice (4\ dia x 1/8\ thick)
+value: 0.007
+label: slice (2-3/4\ dia x 1/16\)
+value: 0.002
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 20.9
+label: slice (4\ dia x 1/8\ thick)
+value: 4.8
+label: slice (2-3/4\ dia x 1/16\)
+value: 1.3
+
+
+name: Fluoride, F
+unit: \u00B5g
+value: 41.2
+label: slice (4\ dia x 1/8\ thick)
+value: 9.5
+label: slice (2-3/4\ dia x 1/16\)
+value: 2.5
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: slice (4\ dia x 1/8\ thick)
+value: 0.0
+label: slice (2-3/4\ dia x 1/16\)
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.554
+label: slice (4\ dia x 1/8\ thick)
+value: 0.127
+label: slice (2-3/4\ dia x 1/16\)
+value: 0.033
+
+
+name: Riboflavin
+unit: mg
+value: 0.192
+label: slice (4\ dia x 1/8\ thick)
+value: 0.044
+label: slice (2-3/4\ dia x 1/16\)
+value: 0.012
+
+
+name: Niacin
+unit: mg
+value: 3.254
+label: slice (4\ dia x 1/8\ thick)
+value: 0.748
+label: slice (2-3/4\ dia x 1/16\)
+value: 0.195
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.49
+label: slice (4\ dia x 1/8\ thick)
+value: 0.113
+label: slice (2-3/4\ dia x 1/16\)
+value: 0.029
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.35
+label: slice (4\ dia x 1/8\ thick)
+value: 0.08
+label: slice (2-3/4\ dia x 1/16\)
+value: 0.021
+
+
+name: Folate, total
+unit: \u00B5g
+value: 3.0
+label: slice (4\ dia x 1/8\ thick)
+value: 1.0
+label: slice (2-3/4\ dia x 1/16\)
+value: 0.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: slice (4\ dia x 1/8\ thick)
+value: 0.0
+label: slice (2-3/4\ dia x 1/16\)
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 3.0
+label: slice (4\ dia x 1/8\ thick)
+value: 1.0
+label: slice (2-3/4\ dia x 1/16\)
+value: 0.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 3.0
+label: slice (4\ dia x 1/8\ thick)
+value: 1.0
+label: slice (2-3/4\ dia x 1/16\)
+value: 0.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.87
+label: slice (4\ dia x 1/8\ thick)
+value: 0.2
+label: slice (2-3/4\ dia x 1/16\)
+value: 0.05
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 0.0
+label: slice (4\ dia x 1/8\ thick)
+value: 0.0
+label: slice (2-3/4\ dia x 1/16\)
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: slice (4\ dia x 1/8\ thick)
+value: 0.0
+label: slice (2-3/4\ dia x 1/16\)
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 0.0
+label: slice (4\ dia x 1/8\ thick)
+value: 0.0
+label: slice (2-3/4\ dia x 1/16\)
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.9
+label: slice (4\ dia x 1/8\ thick)
+value: 0.2
+label: slice (2-3/4\ dia x 1/16\)
+value: 0.1
+
+
+name: Vitamin D
+unit: IU
+value: 36.0
+label: slice (4\ dia x 1/8\ thick)
+value: 8.0
+label: slice (2-3/4\ dia x 1/16\)
+value: 2.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 6.28
+label: slice (4\ dia x 1/8\ thick)
+value: 1.444
+label: slice (2-3/4\ dia x 1/16\)
+value: 0.377
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: slice (4\ dia x 1/8\ thick)
+value: 0.0
+label: slice (2-3/4\ dia x 1/16\)
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: slice (4\ dia x 1/8\ thick)
+value: 0.0
+label: slice (2-3/4\ dia x 1/16\)
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: slice (4\ dia x 1/8\ thick)
+value: 0.0
+label: slice (2-3/4\ dia x 1/16\)
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.09
+label: slice (4\ dia x 1/8\ thick)
+value: 0.021
+label: slice (2-3/4\ dia x 1/16\)
+value: 0.005
+
+
+name: 12:0
+unit: g
+value: 0.09
+label: slice (4\ dia x 1/8\ thick)
+value: 0.021
+label: slice (2-3/4\ dia x 1/16\)
+value: 0.005
+
+
+name: 14:0
+unit: g
+value: 0.27
+label: slice (4\ dia x 1/8\ thick)
+value: 0.062
+label: slice (2-3/4\ dia x 1/16\)
+value: 0.016
+
+
+name: 16:0
+unit: g
+value: 3.89
+label: slice (4\ dia x 1/8\ thick)
+value: 0.895
+label: slice (2-3/4\ dia x 1/16\)
+value: 0.233
+
+
+name: 18:0
+unit: g
+value: 1.94
+label: slice (4\ dia x 1/8\ thick)
+value: 0.446
+label: slice (2-3/4\ dia x 1/16\)
+value: 0.116
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 8.98
+label: slice (4\ dia x 1/8\ thick)
+value: 2.065
+label: slice (2-3/4\ dia x 1/16\)
+value: 0.539
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.77
+label: slice (4\ dia x 1/8\ thick)
+value: 0.177
+label: slice (2-3/4\ dia x 1/16\)
+value: 0.046
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 8.21
+label: slice (4\ dia x 1/8\ thick)
+value: 1.888
+label: slice (2-3/4\ dia x 1/16\)
+value: 0.493
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: slice (4\ dia x 1/8\ thick)
+value: 0.0
+label: slice (2-3/4\ dia x 1/16\)
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: slice (4\ dia x 1/8\ thick)
+value: 0.0
+label: slice (2-3/4\ dia x 1/16\)
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 2.36
+label: slice (4\ dia x 1/8\ thick)
+value: 0.543
+label: slice (2-3/4\ dia x 1/16\)
+value: 0.142
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 1.94
+label: slice (4\ dia x 1/8\ thick)
+value: 0.446
+label: slice (2-3/4\ dia x 1/16\)
+value: 0.116
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.42
+label: slice (4\ dia x 1/8\ thick)
+value: 0.097
+label: slice (2-3/4\ dia x 1/16\)
+value: 0.025
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: slice (4\ dia x 1/8\ thick)
+value: 0.0
+label: slice (2-3/4\ dia x 1/16\)
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: slice (4\ dia x 1/8\ thick)
+value: 0.0
+label: slice (2-3/4\ dia x 1/16\)
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: slice (4\ dia x 1/8\ thick)
+value: 0.0
+label: slice (2-3/4\ dia x 1/16\)
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: slice (4\ dia x 1/8\ thick)
+value: 0.0
+label: slice (2-3/4\ dia x 1/16\)
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: slice (4\ dia x 1/8\ thick)
+value: 0.0
+label: slice (2-3/4\ dia x 1/16\)
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 59.0
+label: slice (4\ dia x 1/8\ thick)
+value: 14.0
+label: slice (2-3/4\ dia x 1/16\)
+value: 4.0
+
+
+name: Phytosterols
+unit: mg
+value: 0.0
+label: slice (4\ dia x 1/8\ thick)
+value: 0.0
+label: slice (2-3/4\ dia x 1/16\)
+value: 0.0
+
+
+name: Tryptophan
+unit: g
+value: 0.112
+label: slice (4\ dia x 1/8\ thick)
+value: 0.026
+label: slice (2-3/4\ dia x 1/16\)
+value: 0.007
+
+
+name: Threonine
+unit: g
+value: 0.565
+label: slice (4\ dia x 1/8\ thick)
+value: 0.13
+label: slice (2-3/4\ dia x 1/16\)
+value: 0.034
+
+
+name: Isoleucine
+unit: g
+value: 0.485
+label: slice (4\ dia x 1/8\ thick)
+value: 0.112
+label: slice (2-3/4\ dia x 1/16\)
+value: 0.029
+
+
+name: Leucine
+unit: g
+value: 0.943
+label: slice (4\ dia x 1/8\ thick)
+value: 0.217
+label: slice (2-3/4\ dia x 1/16\)
+value: 0.057
+
+
+name: Lysine
+unit: g
+value: 1.032
+label: slice (4\ dia x 1/8\ thick)
+value: 0.237
+label: slice (2-3/4\ dia x 1/16\)
+value: 0.062
+
+
+name: Methionine
+unit: g
+value: 0.355
+label: slice (4\ dia x 1/8\ thick)
+value: 0.082
+label: slice (2-3/4\ dia x 1/16\)
+value: 0.021
+
+
+name: Cystine
+unit: g
+value: 0.107
+label: slice (4\ dia x 1/8\ thick)
+value: 0.025
+label: slice (2-3/4\ dia x 1/16\)
+value: 0.006
+
+
+name: Phenylalanine
+unit: g
+value: 0.451
+label: slice (4\ dia x 1/8\ thick)
+value: 0.104
+label: slice (2-3/4\ dia x 1/16\)
+value: 0.027
+
+
+name: Tyrosine
+unit: g
+value: 0.403
+label: slice (4\ dia x 1/8\ thick)
+value: 0.093
+label: slice (2-3/4\ dia x 1/16\)
+value: 0.024
+
+
+name: Valine
+unit: g
+value: 0.51
+label: slice (4\ dia x 1/8\ thick)
+value: 0.117
+label: slice (2-3/4\ dia x 1/16\)
+value: 0.031
+
+
+name: Arginine
+unit: g
+value: 0.809
+label: slice (4\ dia x 1/8\ thick)
+value: 0.186
+label: slice (2-3/4\ dia x 1/16\)
+value: 0.049
+
+
+name: Histidine
+unit: g
+value: 0.419
+label: slice (4\ dia x 1/8\ thick)
+value: 0.096
+label: slice (2-3/4\ dia x 1/16\)
+value: 0.025
+
+
+name: Alanine
+unit: g
+value: 0.77
+label: slice (4\ dia x 1/8\ thick)
+value: 0.177
+label: slice (2-3/4\ dia x 1/16\)
+value: 0.046
+
+
+name: Aspartic acid
+unit: g
+value: 1.198
+label: slice (4\ dia x 1/8\ thick)
+value: 0.276
+label: slice (2-3/4\ dia x 1/16\)
+value: 0.072
+
+
+name: Glutamic acid
+unit: g
+value: 2.141
+label: slice (4\ dia x 1/8\ thick)
+value: 0.492
+label: slice (2-3/4\ dia x 1/16\)
+value: 0.128
+
+
+name: Glycine
+unit: g
+value: 0.781
+label: slice (4\ dia x 1/8\ thick)
+value: 0.18
+label: slice (2-3/4\ dia x 1/16\)
+value: 0.047
+
+
+name: Proline
+unit: g
+value: 0.64
+label: slice (4\ dia x 1/8\ thick)
+value: 0.147
+label: slice (2-3/4\ dia x 1/16\)
+value: 0.038
+
+
+name: Serine
+unit: g
+value: 0.569
+label: slice (4\ dia x 1/8\ thick)
+value: 0.131
+label: slice (2-3/4\ dia x 1/16\)
+value: 0.034
+
+

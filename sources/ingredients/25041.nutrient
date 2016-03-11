@@ -1,0 +1,745 @@
+ndbno: 25041
+
+
+name: Snacks, granola bar, KASHI TLC Bar, crunchy, mixed flavors
+
+
+name: Water
+unit: g
+value: 2.74
+label: bar
+value: 1.1
+label: bar
+value: 0.55
+
+
+name: Energy
+unit: kcal
+value: 446.0
+label: bar
+value: 178.0
+label: bar
+value: 89.0
+
+
+name: Energy
+unit: kJ
+value: 1867.0
+label: bar
+value: 747.0
+label: bar
+value: 373.0
+
+
+name: Protein
+unit: g
+value: 15.0
+label: bar
+value: 6.0
+label: bar
+value: 3.0
+
+
+name: Total lipid (fat)
+unit: g
+value: 15.0
+label: bar
+value: 6.0
+label: bar
+value: 3.0
+
+
+name: Ash
+unit: g
+value: 4.48
+label: bar
+value: 1.79
+label: bar
+value: 0.9
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 62.78
+label: bar
+value: 25.11
+label: bar
+value: 12.56
+
+
+name: Fiber, total dietary
+unit: g
+value: 10.0
+label: bar
+value: 4.0
+label: bar
+value: 2.0
+
+
+name: Sugars, total
+unit: g
+value: 20.0
+label: bar
+value: 8.0
+label: bar
+value: 4.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 0.0
+label: bar
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: Iron, Fe
+unit: mg
+value: 2.7
+label: bar
+value: 1.08
+label: bar
+value: 0.54
+
+
+name: Magnesium, Mg
+unit: mg
+value: 97.0
+label: bar
+value: 39.0
+label: bar
+value: 19.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 333.0
+label: bar
+value: 133.0
+label: bar
+value: 67.0
+
+
+name: Potassium, K
+unit: mg
+value: 545.0
+label: bar
+value: 218.0
+label: bar
+value: 109.0
+
+
+name: Sodium, Na
+unit: mg
+value: 400.0
+label: bar
+value: 160.0
+label: bar
+value: 80.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 2.86
+label: bar
+value: 1.14
+label: bar
+value: 0.57
+
+
+name: Copper, Cu
+unit: mg
+value: 0.678
+label: bar
+value: 0.271
+label: bar
+value: 0.136
+
+
+name: Manganese, Mn
+unit: mg
+value: 3.137
+label: bar
+value: 1.255
+label: bar
+value: 0.627
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 18.9
+label: bar
+value: 7.6
+label: bar
+value: 3.8
+
+
+name: Fluoride, F
+unit: \u00B5g
+value: 0.1
+label: bar
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: bar
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.486
+label: bar
+value: 0.194
+label: bar
+value: 0.097
+
+
+name: Riboflavin
+unit: mg
+value: 0.163
+label: bar
+value: 0.065
+label: bar
+value: 0.033
+
+
+name: Niacin
+unit: mg
+value: 2.403
+label: bar
+value: 0.961
+label: bar
+value: 0.481
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.979
+label: bar
+value: 0.392
+label: bar
+value: 0.196
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.536
+label: bar
+value: 0.214
+label: bar
+value: 0.107
+
+
+name: Folate, total
+unit: \u00B5g
+value: 81.0
+label: bar
+value: 32.0
+label: bar
+value: 16.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: bar
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 81.0
+label: bar
+value: 32.0
+label: bar
+value: 16.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 81.0
+label: bar
+value: 32.0
+label: bar
+value: 16.0
+
+
+name: Choline, total
+unit: mg
+value: 25.5
+label: bar
+value: 10.2
+label: bar
+value: 5.1
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: bar
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: bar
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 1.0
+label: bar
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: bar
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 8.0
+label: bar
+value: 3.0
+label: bar
+value: 2.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 4.0
+label: bar
+value: 2.0
+label: bar
+value: 1.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: bar
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 17.0
+label: bar
+value: 7.0
+label: bar
+value: 3.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: bar
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 73.0
+label: bar
+value: 29.0
+label: bar
+value: 15.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 2.3
+label: bar
+value: 0.92
+label: bar
+value: 0.46
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: bar
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: bar
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: bar
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 9.8
+label: bar
+value: 3.9
+label: bar
+value: 2.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 1.436
+label: bar
+value: 0.574
+label: bar
+value: 0.287
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: bar
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: bar
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: bar
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: bar
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: bar
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.01
+label: bar
+value: 0.004
+label: bar
+value: 0.002
+
+
+name: 15:0
+unit: g
+value: 0.0
+label: bar
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: 16:0
+unit: g
+value: 1.021
+label: bar
+value: 0.408
+label: bar
+value: 0.204
+
+
+name: 17:0
+unit: g
+value: 0.0
+label: bar
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: 18:0
+unit: g
+value: 0.294
+label: bar
+value: 0.118
+label: bar
+value: 0.059
+
+
+name: 20:0
+unit: g
+value: 0.074
+label: bar
+value: 0.03
+label: bar
+value: 0.015
+
+
+name: 22:0
+unit: g
+value: 0.037
+label: bar
+value: 0.015
+label: bar
+value: 0.007
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 7.932
+label: bar
+value: 3.173
+label: bar
+value: 1.586
+
+
+name: 14:1
+unit: g
+value: 0.0
+label: bar
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: bar
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.037
+label: bar
+value: 0.015
+label: bar
+value: 0.007
+
+
+name: 17:1
+unit: g
+value: 0.0
+label: bar
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 7.745
+label: bar
+value: 3.098
+label: bar
+value: 1.549
+
+
+name: 20:1
+unit: g
+value: 0.15
+label: bar
+value: 0.06
+label: bar
+value: 0.03
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: bar
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 5.006
+label: bar
+value: 2.002
+label: bar
+value: 1.001
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 3.764
+label: bar
+value: 1.506
+label: bar
+value: 0.753
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 1.241
+label: bar
+value: 0.496
+label: bar
+value: 0.248
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: bar
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.0
+label: bar
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.0
+label: bar
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: bar
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: bar
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: bar
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: bar
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.0
+label: bar
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: bar
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: bar
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: bar
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: bar
+value: 0.0
+label: bar
+value: 0.0
+
+
+

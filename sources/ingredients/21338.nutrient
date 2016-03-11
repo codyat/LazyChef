@@ -1,0 +1,547 @@
+ndbno: 21338
+
+
+name: McDONALD'S, McFLURRY with M&M'S CANDIES
+
+
+name: Water
+unit: g
+value: 61.74
+label: regular (12 fl oz)
+value: 214.86
+label: large (16 fl oz)
+value: 311.17
+
+
+name: Energy
+unit: kcal
+value: 177.0
+label: regular (12 fl oz)
+value: 616.0
+label: large (16 fl oz)
+value: 892.0
+
+
+name: Energy
+unit: kJ
+value: 741.0
+label: regular (12 fl oz)
+value: 2579.0
+label: large (16 fl oz)
+value: 3735.0
+
+
+name: Protein
+unit: g
+value: 4.02
+label: regular (12 fl oz)
+value: 13.99
+label: large (16 fl oz)
+value: 20.26
+
+
+name: Total lipid (fat)
+unit: g
+value: 6.46
+label: regular (12 fl oz)
+value: 22.48
+label: large (16 fl oz)
+value: 32.56
+
+
+name: Ash
+unit: g
+value: 0.96
+label: regular (12 fl oz)
+value: 3.34
+label: large (16 fl oz)
+value: 4.84
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 26.82
+label: regular (12 fl oz)
+value: 93.33
+label: large (16 fl oz)
+value: 135.17
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.2
+label: regular (12 fl oz)
+value: 0.7
+label: large (16 fl oz)
+value: 1.0
+
+
+name: Sugars, total
+unit: g
+value: 24.37
+label: regular (12 fl oz)
+value: 84.81
+label: large (16 fl oz)
+value: 122.82
+
+
+name: Sucrose
+unit: g
+value: 16.9
+label: regular (12 fl oz)
+value: 58.81
+label: large (16 fl oz)
+value: 85.18
+
+
+name: Glucose (dextrose)
+unit: g
+value: 0.75
+label: regular (12 fl oz)
+value: 2.61
+label: large (16 fl oz)
+value: 3.78
+
+
+name: Fructose
+unit: g
+value: 0.21
+label: regular (12 fl oz)
+value: 0.73
+label: large (16 fl oz)
+value: 1.06
+
+
+name: Lactose
+unit: g
+value: 6.23
+label: regular (12 fl oz)
+value: 21.68
+label: large (16 fl oz)
+value: 31.4
+
+
+name: Maltose
+unit: g
+value: 0.28
+label: regular (12 fl oz)
+value: 0.97
+label: large (16 fl oz)
+value: 1.41
+
+
+name: Galactose
+unit: g
+value: 0.0
+label: regular (12 fl oz)
+value: 0.0
+label: large (16 fl oz)
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 135.0
+label: regular (12 fl oz)
+value: 470.0
+label: large (16 fl oz)
+value: 680.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.27
+label: regular (12 fl oz)
+value: 0.94
+label: large (16 fl oz)
+value: 1.36
+
+
+name: Magnesium, Mg
+unit: mg
+value: 17.0
+label: regular (12 fl oz)
+value: 59.0
+label: large (16 fl oz)
+value: 86.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 116.0
+label: regular (12 fl oz)
+value: 404.0
+label: large (16 fl oz)
+value: 585.0
+
+
+name: Potassium, K
+unit: mg
+value: 208.0
+label: regular (12 fl oz)
+value: 724.0
+label: large (16 fl oz)
+value: 1048.0
+
+
+name: Sodium, Na
+unit: mg
+value: 54.0
+label: regular (12 fl oz)
+value: 188.0
+label: large (16 fl oz)
+value: 272.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.54
+label: regular (12 fl oz)
+value: 1.88
+label: large (16 fl oz)
+value: 2.72
+
+
+name: Copper, Cu
+unit: mg
+value: 0.044
+label: regular (12 fl oz)
+value: 0.153
+label: large (16 fl oz)
+value: 0.222
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.046
+label: regular (12 fl oz)
+value: 0.16
+label: large (16 fl oz)
+value: 0.232
+
+
+name: Thiamin
+unit: mg
+value: 0.051
+label: regular (12 fl oz)
+value: 0.177
+label: large (16 fl oz)
+value: 0.257
+
+
+name: Riboflavin
+unit: mg
+value: 0.243
+label: regular (12 fl oz)
+value: 0.846
+label: large (16 fl oz)
+value: 1.225
+
+
+name: Niacin
+unit: mg
+value: 0.139
+label: regular (12 fl oz)
+value: 0.484
+label: large (16 fl oz)
+value: 0.701
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.73
+label: regular (12 fl oz)
+value: 2.54
+label: large (16 fl oz)
+value: 3.679
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.053
+label: regular (12 fl oz)
+value: 0.184
+label: large (16 fl oz)
+value: 0.267
+
+
+name: Folate, total
+unit: \u00B5g
+value: 3.0
+label: regular (12 fl oz)
+value: 10.0
+label: large (16 fl oz)
+value: 15.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 3.0
+label: regular (12 fl oz)
+value: 10.0
+label: large (16 fl oz)
+value: 15.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.6
+label: regular (12 fl oz)
+value: 2.09
+label: large (16 fl oz)
+value: 3.02
+
+
+name: Vitamin A, IU
+unit: IU
+value: 312.0
+label: regular (12 fl oz)
+value: 1086.0
+label: large (16 fl oz)
+value: 1572.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.08
+label: regular (12 fl oz)
+value: 0.28
+label: large (16 fl oz)
+value: 0.4
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 3.402
+label: regular (12 fl oz)
+value: 11.839
+label: large (16 fl oz)
+value: 17.146
+
+
+name: 8:0
+unit: g
+value: 0.04
+label: regular (12 fl oz)
+value: 0.139
+label: large (16 fl oz)
+value: 0.202
+
+
+name: 10:0
+unit: g
+value: 0.094
+label: regular (12 fl oz)
+value: 0.327
+label: large (16 fl oz)
+value: 0.474
+
+
+name: 12:0
+unit: g
+value: 0.109
+label: regular (12 fl oz)
+value: 0.379
+label: large (16 fl oz)
+value: 0.549
+
+
+name: 14:0
+unit: g
+value: 0.392
+label: regular (12 fl oz)
+value: 1.364
+label: large (16 fl oz)
+value: 1.976
+
+
+name: 15:0
+unit: g
+value: 0.041
+label: regular (12 fl oz)
+value: 0.143
+label: large (16 fl oz)
+value: 0.207
+
+
+name: 16:0
+unit: g
+value: 1.577
+label: regular (12 fl oz)
+value: 5.488
+label: large (16 fl oz)
+value: 7.948
+
+
+name: 17:0
+unit: g
+value: 0.028
+label: regular (12 fl oz)
+value: 0.097
+label: large (16 fl oz)
+value: 0.141
+
+
+name: 18:0
+unit: g
+value: 1.095
+label: regular (12 fl oz)
+value: 3.811
+label: large (16 fl oz)
+value: 5.519
+
+
+name: 20:0
+unit: g
+value: 0.022
+label: regular (12 fl oz)
+value: 0.077
+label: large (16 fl oz)
+value: 0.111
+
+
+name: 22:0
+unit: g
+value: 0.003
+label: regular (12 fl oz)
+value: 0.01
+label: large (16 fl oz)
+value: 0.015
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 1.67
+label: regular (12 fl oz)
+value: 5.812
+label: large (16 fl oz)
+value: 8.417
+
+
+name: 14:1
+unit: g
+value: 0.028
+label: regular (12 fl oz)
+value: 0.097
+label: large (16 fl oz)
+value: 0.141
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: regular (12 fl oz)
+value: 0.0
+label: large (16 fl oz)
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.049
+label: regular (12 fl oz)
+value: 0.171
+label: large (16 fl oz)
+value: 0.247
+
+
+name: 17:1
+unit: g
+value: 0.008
+label: regular (12 fl oz)
+value: 0.028
+label: large (16 fl oz)
+value: 0.04
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 1.586
+label: regular (12 fl oz)
+value: 5.519
+label: large (16 fl oz)
+value: 7.993
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: regular (12 fl oz)
+value: 0.0
+label: large (16 fl oz)
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.282
+label: regular (12 fl oz)
+value: 0.981
+label: large (16 fl oz)
+value: 1.421
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.254
+label: regular (12 fl oz)
+value: 0.884
+label: large (16 fl oz)
+value: 1.28
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.023
+label: regular (12 fl oz)
+value: 0.08
+label: large (16 fl oz)
+value: 0.116
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.0
+label: regular (12 fl oz)
+value: 0.0
+label: large (16 fl oz)
+value: 0.0
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.0
+label: regular (12 fl oz)
+value: 0.0
+label: large (16 fl oz)
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.005
+label: regular (12 fl oz)
+value: 0.017
+label: large (16 fl oz)
+value: 0.025
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.281
+label: regular (12 fl oz)
+value: 0.978
+label: large (16 fl oz)
+value: 1.416
+
+
+name: Cholesterol
+unit: mg
+value: 16.0
+label: regular (12 fl oz)
+value: 56.0
+label: large (16 fl oz)
+value: 81.0
+
+
+

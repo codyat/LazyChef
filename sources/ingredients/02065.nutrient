@@ -1,0 +1,581 @@
+ndbno: 02065
+
+
+name: Spearmint, fresh
+
+
+name: Water
+unit: g
+value: 85.55
+label: leaves
+value: 0.26
+label: tbsp
+value: 9.75
+
+
+name: Energy
+unit: kcal
+value: 44.0
+label: leaves
+value: 0.0
+label: tbsp
+value: 5.0
+
+
+name: Energy
+unit: kJ
+value: 184.0
+label: leaves
+value: 1.0
+label: tbsp
+value: 21.0
+
+
+name: Protein
+unit: g
+value: 3.29
+label: leaves
+value: 0.01
+label: tbsp
+value: 0.38
+
+
+name: Total lipid (fat)
+unit: g
+value: 0.73
+label: leaves
+value: 0.0
+label: tbsp
+value: 0.08
+
+
+name: Ash
+unit: g
+value: 2.03
+label: leaves
+value: 0.01
+label: tbsp
+value: 0.23
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 8.41
+label: leaves
+value: 0.03
+label: tbsp
+value: 0.96
+
+
+name: Fiber, total dietary
+unit: g
+value: 6.8
+label: leaves
+value: 0.0
+label: tbsp
+value: 0.8
+
+
+name: Calcium, Ca
+unit: mg
+value: 199.0
+label: leaves
+value: 1.0
+label: tbsp
+value: 23.0
+
+
+name: Iron, Fe
+unit: mg
+value: 11.87
+label: leaves
+value: 0.04
+label: tbsp
+value: 1.35
+
+
+name: Magnesium, Mg
+unit: mg
+value: 63.0
+label: leaves
+value: 0.0
+label: tbsp
+value: 7.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 60.0
+label: leaves
+value: 0.0
+label: tbsp
+value: 7.0
+
+
+name: Potassium, K
+unit: mg
+value: 458.0
+label: leaves
+value: 1.0
+label: tbsp
+value: 52.0
+
+
+name: Sodium, Na
+unit: mg
+value: 30.0
+label: leaves
+value: 0.0
+label: tbsp
+value: 3.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 1.09
+label: leaves
+value: 0.0
+label: tbsp
+value: 0.12
+
+
+name: Copper, Cu
+unit: mg
+value: 0.24
+label: leaves
+value: 0.001
+label: tbsp
+value: 0.027
+
+
+name: Manganese, Mn
+unit: mg
+value: 1.118
+label: leaves
+value: 0.003
+label: tbsp
+value: 0.127
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 13.3
+label: leaves
+value: 0.0
+label: tbsp
+value: 1.5
+
+
+name: Thiamin
+unit: mg
+value: 0.078
+label: leaves
+value: 0.0
+label: tbsp
+value: 0.009
+
+
+name: Riboflavin
+unit: mg
+value: 0.175
+label: leaves
+value: 0.001
+label: tbsp
+value: 0.02
+
+
+name: Niacin
+unit: mg
+value: 0.948
+label: leaves
+value: 0.003
+label: tbsp
+value: 0.108
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.25
+label: leaves
+value: 0.001
+label: tbsp
+value: 0.028
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.158
+label: leaves
+value: 0.0
+label: tbsp
+value: 0.018
+
+
+name: Folate, total
+unit: \u00B5g
+value: 105.0
+label: leaves
+value: 0.0
+label: tbsp
+value: 12.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: leaves
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 105.0
+label: leaves
+value: 0.0
+label: tbsp
+value: 12.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 105.0
+label: leaves
+value: 0.0
+label: tbsp
+value: 12.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: leaves
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 203.0
+label: leaves
+value: 1.0
+label: tbsp
+value: 23.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: leaves
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 4054.0
+label: leaves
+value: 12.0
+label: tbsp
+value: 462.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: leaves
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: leaves
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.191
+label: leaves
+value: 0.001
+label: tbsp
+value: 0.022
+
+
+name: 14:0
+unit: g
+value: 0.004
+label: leaves
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: 16:0
+unit: g
+value: 0.137
+label: leaves
+value: 0.0
+label: tbsp
+value: 0.016
+
+
+name: 18:0
+unit: g
+value: 0.02
+label: leaves
+value: 0.0
+label: tbsp
+value: 0.002
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.025
+label: leaves
+value: 0.0
+label: tbsp
+value: 0.003
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.002
+label: leaves
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.022
+label: leaves
+value: 0.0
+label: tbsp
+value: 0.003
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.394
+label: leaves
+value: 0.001
+label: tbsp
+value: 0.045
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.054
+label: leaves
+value: 0.0
+label: tbsp
+value: 0.006
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.338
+label: leaves
+value: 0.001
+label: tbsp
+value: 0.039
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.0
+label: leaves
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: leaves
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: Phytosterols
+unit: mg
+value: 10.0
+label: leaves
+value: 0.0
+label: tbsp
+value: 1.0
+
+
+name: Tryptophan
+unit: g
+value: 0.05
+label: leaves
+value: 0.0
+label: tbsp
+value: 0.006
+
+
+name: Threonine
+unit: g
+value: 0.135
+label: leaves
+value: 0.0
+label: tbsp
+value: 0.015
+
+
+name: Isoleucine
+unit: g
+value: 0.135
+label: leaves
+value: 0.0
+label: tbsp
+value: 0.015
+
+
+name: Leucine
+unit: g
+value: 0.247
+label: leaves
+value: 0.001
+label: tbsp
+value: 0.028
+
+
+name: Lysine
+unit: g
+value: 0.141
+label: leaves
+value: 0.0
+label: tbsp
+value: 0.016
+
+
+name: Methionine
+unit: g
+value: 0.046
+label: leaves
+value: 0.0
+label: tbsp
+value: 0.005
+
+
+name: Cystine
+unit: g
+value: 0.036
+label: leaves
+value: 0.0
+label: tbsp
+value: 0.004
+
+
+name: Phenylalanine
+unit: g
+value: 0.168
+label: leaves
+value: 0.001
+label: tbsp
+value: 0.019
+
+
+name: Tyrosine
+unit: g
+value: 0.099
+label: leaves
+value: 0.0
+label: tbsp
+value: 0.011
+
+
+name: Valine
+unit: g
+value: 0.164
+label: leaves
+value: 0.0
+label: tbsp
+value: 0.019
+
+
+name: Arginine
+unit: g
+value: 0.151
+label: leaves
+value: 0.0
+label: tbsp
+value: 0.017
+
+
+name: Histidine
+unit: g
+value: 0.066
+label: leaves
+value: 0.0
+label: tbsp
+value: 0.008
+
+
+name: Alanine
+unit: g
+value: 0.171
+label: leaves
+value: 0.001
+label: tbsp
+value: 0.019
+
+
+name: Aspartic acid
+unit: g
+value: 0.388
+label: leaves
+value: 0.001
+label: tbsp
+value: 0.044
+
+
+name: Glutamic acid
+unit: g
+value: 0.358
+label: leaves
+value: 0.001
+label: tbsp
+value: 0.041
+
+
+name: Glycine
+unit: g
+value: 0.158
+label: leaves
+value: 0.0
+label: tbsp
+value: 0.018
+
+
+name: Proline
+unit: g
+value: 0.135
+label: leaves
+value: 0.0
+label: tbsp
+value: 0.015
+
+
+name: Serine
+unit: g
+value: 0.128
+label: leaves
+value: 0.0
+label: tbsp
+value: 0.015
+

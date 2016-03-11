@@ -1,0 +1,713 @@
+ndbno: 05324
+
+
+name: Chicken patty, frozen, cooked
+
+
+name: Water
+unit: g
+value: 50.82
+label: patty
+value: 30.49
+
+
+name: Energy
+unit: kcal
+value: 287.0
+label: patty
+value: 172.0
+
+
+name: Energy
+unit: kJ
+value: 1201.0
+label: patty
+value: 721.0
+
+
+name: Protein
+unit: g
+value: 14.85
+label: patty
+value: 8.91
+
+
+name: Total lipid (fat)
+unit: g
+value: 19.58
+label: patty
+value: 11.75
+
+
+name: Ash
+unit: g
+value: 1.92
+label: patty
+value: 1.15
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 12.84
+label: patty
+value: 7.7
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.3
+label: patty
+value: 0.2
+
+
+name: Sugars, total
+unit: g
+value: 0.0
+label: patty
+value: 0.0
+
+
+name: Starch
+unit: g
+value: 10.35
+label: patty
+value: 6.21
+
+
+name: Calcium, Ca
+unit: mg
+value: 19.0
+label: patty
+value: 11.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.95
+label: patty
+value: 0.57
+
+
+name: Magnesium, Mg
+unit: mg
+value: 24.0
+label: patty
+value: 14.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 208.0
+label: patty
+value: 125.0
+
+
+name: Potassium, K
+unit: mg
+value: 261.0
+label: patty
+value: 157.0
+
+
+name: Sodium, Na
+unit: mg
+value: 532.0
+label: patty
+value: 319.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 1.05
+label: patty
+value: 0.63
+
+
+name: Copper, Cu
+unit: mg
+value: 0.09
+label: patty
+value: 0.054
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.26
+label: patty
+value: 0.156
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 23.3
+label: patty
+value: 14.0
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: patty
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.083
+label: patty
+value: 0.05
+
+
+name: Riboflavin
+unit: mg
+value: 0.072
+label: patty
+value: 0.043
+
+
+name: Niacin
+unit: mg
+value: 4.764
+label: patty
+value: 2.858
+
+
+name: Pantothenic acid
+unit: mg
+value: 1.09
+label: patty
+value: 0.654
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.183
+label: patty
+value: 0.11
+
+
+name: Folate, total
+unit: \u00B5g
+value: 7.0
+label: patty
+value: 4.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: patty
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 7.0
+label: patty
+value: 4.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 7.0
+label: patty
+value: 4.0
+
+
+name: Choline, total
+unit: mg
+value: 33.8
+label: patty
+value: 20.3
+
+
+name: Betaine
+unit: mg
+value: 25.0
+label: patty
+value: 15.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.29
+label: patty
+value: 0.17
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: patty
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 0.0
+label: patty
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: patty
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 0.0
+label: patty
+value: 0.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: patty
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: patty
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 0.0
+label: patty
+value: 0.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: patty
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 0.0
+label: patty
+value: 0.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 1.28
+label: patty
+value: 0.77
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: patty
+value: 0.0
+
+
+name: Tocopherol, beta
+unit: mg
+value: 0.05
+label: patty
+value: 0.03
+
+
+name: Tocopherol, gamma
+unit: mg
+value: 2.21
+label: patty
+value: 1.33
+
+
+name: Tocopherol, delta
+unit: mg
+value: 0.66
+label: patty
+value: 0.4
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.3
+label: patty
+value: 0.2
+
+
+name: Vitamin D
+unit: IU
+value: 11.0
+label: patty
+value: 7.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 4.2
+label: patty
+value: 2.5
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 3.662
+label: patty
+value: 2.197
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: patty
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: patty
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: patty
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: patty
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: patty
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.0
+label: patty
+value: 0.0
+
+
+name: 15:0
+unit: g
+value: 0.0
+label: patty
+value: 0.0
+
+
+name: 16:0
+unit: g
+value: 3.001
+label: patty
+value: 1.801
+
+
+name: 17:0
+unit: g
+value: 0.0
+label: patty
+value: 0.0
+
+
+name: 18:0
+unit: g
+value: 0.661
+label: patty
+value: 0.397
+
+
+name: 20:0
+unit: g
+value: 0.0
+label: patty
+value: 0.0
+
+
+name: 22:0
+unit: g
+value: 0.0
+label: patty
+value: 0.0
+
+
+name: 24:0
+unit: g
+value: 0.0
+label: patty
+value: 0.0
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 8.337
+label: patty
+value: 5.002
+
+
+name: 14:1
+unit: g
+value: 0.0
+label: patty
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.686
+label: patty
+value: 0.412
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 7.651
+label: patty
+value: 4.591
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: patty
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: patty
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 4.805
+label: patty
+value: 2.883
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 4.68
+label: patty
+value: 2.808
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.125
+label: patty
+value: 0.075
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: patty
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: patty
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: patty
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: patty
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: patty
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 43.0
+label: patty
+value: 26.0
+
+
+name: Tryptophan
+unit: g
+value: 0.183
+label: patty
+value: 0.11
+
+
+name: Threonine
+unit: g
+value: 0.556
+label: patty
+value: 0.334
+
+
+name: Isoleucine
+unit: g
+value: 0.606
+label: patty
+value: 0.364
+
+
+name: Leucine
+unit: g
+value: 1.006
+label: patty
+value: 0.604
+
+
+name: Lysine
+unit: g
+value: 0.972
+label: patty
+value: 0.583
+
+
+name: Methionine
+unit: g
+value: 0.302
+label: patty
+value: 0.181
+
+
+name: Cystine
+unit: g
+value: 0.167
+label: patty
+value: 0.1
+
+
+name: Phenylalanine
+unit: g
+value: 0.516
+label: patty
+value: 0.31
+
+
+name: Tyrosine
+unit: g
+value: 0.321
+label: patty
+value: 0.193
+
+
+name: Valine
+unit: g
+value: 0.649
+label: patty
+value: 0.389
+
+
+name: Arginine
+unit: g
+value: 0.842
+label: patty
+value: 0.505
+
+
+name: Histidine
+unit: g
+value: 0.421
+label: patty
+value: 0.253
+
+
+name: Alanine
+unit: g
+value: 0.728
+label: patty
+value: 0.437
+
+
+name: Aspartic acid
+unit: g
+value: 1.187
+label: patty
+value: 0.712
+
+
+name: Glutamic acid
+unit: g
+value: 2.223
+label: patty
+value: 1.334
+
+
+name: Glycine
+unit: g
+value: 0.647
+label: patty
+value: 0.388
+
+
+name: Proline
+unit: g
+value: 0.683
+label: patty
+value: 0.41
+
+
+name: Serine
+unit: g
+value: 0.535
+label: patty
+value: 0.321
+
+
+name: Hydroxyproline
+unit: g
+value: 0.1
+label: patty
+value: 0.06
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: patty
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: patty
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: patty
+value: 0.0
+
+

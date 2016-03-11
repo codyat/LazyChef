@@ -1,0 +1,817 @@
+ndbno: 09022
+
+
+name: Apricots, canned, water pack, with skin, solids and liquids
+
+
+name: Water
+unit: g
+value: 92.36
+label: cup, halves
+value: 224.43
+label: apricot half with liquid
+value: 33.25
+
+
+name: Energy
+unit: kcal
+value: 27.0
+label: cup, halves
+value: 66.0
+label: apricot half with liquid
+value: 10.0
+
+
+name: Energy
+unit: kJ
+value: 113.0
+label: cup, halves
+value: 275.0
+label: apricot half with liquid
+value: 41.0
+
+
+name: Protein
+unit: g
+value: 0.71
+label: cup, halves
+value: 1.73
+label: apricot half with liquid
+value: 0.26
+
+
+name: Total lipid (fat)
+unit: g
+value: 0.16
+label: cup, halves
+value: 0.39
+label: apricot half with liquid
+value: 0.06
+
+
+name: Ash
+unit: g
+value: 0.38
+label: cup, halves
+value: 0.92
+label: apricot half with liquid
+value: 0.14
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 6.39
+label: cup, halves
+value: 15.53
+label: apricot half with liquid
+value: 2.3
+
+
+name: Fiber, total dietary
+unit: g
+value: 1.6
+label: cup, halves
+value: 3.9
+label: apricot half with liquid
+value: 0.6
+
+
+name: Sugars, total
+unit: g
+value: 4.79
+label: cup, halves
+value: 11.64
+label: apricot half with liquid
+value: 1.72
+
+
+name: Calcium, Ca
+unit: mg
+value: 8.0
+label: cup, halves
+value: 19.0
+label: apricot half with liquid
+value: 3.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.32
+label: cup, halves
+value: 0.78
+label: apricot half with liquid
+value: 0.12
+
+
+name: Magnesium, Mg
+unit: mg
+value: 7.0
+label: cup, halves
+value: 17.0
+label: apricot half with liquid
+value: 3.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 13.0
+label: cup, halves
+value: 32.0
+label: apricot half with liquid
+value: 5.0
+
+
+name: Potassium, K
+unit: mg
+value: 192.0
+label: cup, halves
+value: 467.0
+label: apricot half with liquid
+value: 69.0
+
+
+name: Sodium, Na
+unit: mg
+value: 3.0
+label: cup, halves
+value: 7.0
+label: apricot half with liquid
+value: 1.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.11
+label: cup, halves
+value: 0.27
+label: apricot half with liquid
+value: 0.04
+
+
+name: Copper, Cu
+unit: mg
+value: 0.082
+label: cup, halves
+value: 0.199
+label: apricot half with liquid
+value: 0.03
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.053
+label: cup, halves
+value: 0.129
+label: apricot half with liquid
+value: 0.019
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 0.1
+label: cup, halves
+value: 0.2
+label: apricot half with liquid
+value: 0.0
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 3.4
+label: cup, halves
+value: 8.3
+label: apricot half with liquid
+value: 1.2
+
+
+name: Thiamin
+unit: mg
+value: 0.021
+label: cup, halves
+value: 0.051
+label: apricot half with liquid
+value: 0.008
+
+
+name: Riboflavin
+unit: mg
+value: 0.023
+label: cup, halves
+value: 0.056
+label: apricot half with liquid
+value: 0.008
+
+
+name: Niacin
+unit: mg
+value: 0.395
+label: cup, halves
+value: 0.96
+label: apricot half with liquid
+value: 0.142
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.092
+label: cup, halves
+value: 0.224
+label: apricot half with liquid
+value: 0.033
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.054
+label: cup, halves
+value: 0.131
+label: apricot half with liquid
+value: 0.019
+
+
+name: Folate, total
+unit: \u00B5g
+value: 2.0
+label: cup, halves
+value: 5.0
+label: apricot half with liquid
+value: 1.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: cup, halves
+value: 0.0
+label: apricot half with liquid
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 2.0
+label: cup, halves
+value: 5.0
+label: apricot half with liquid
+value: 1.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 2.0
+label: cup, halves
+value: 5.0
+label: apricot half with liquid
+value: 1.0
+
+
+name: Choline, total
+unit: mg
+value: 1.8
+label: cup, halves
+value: 4.4
+label: apricot half with liquid
+value: 0.6
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: cup, halves
+value: 0.0
+label: apricot half with liquid
+value: 0.0
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: cup, halves
+value: 0.0
+label: apricot half with liquid
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 98.0
+label: cup, halves
+value: 238.0
+label: apricot half with liquid
+value: 35.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: cup, halves
+value: 0.0
+label: apricot half with liquid
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 1170.0
+label: cup, halves
+value: 2843.0
+label: apricot half with liquid
+value: 421.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: cup, halves
+value: 0.0
+label: apricot half with liquid
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 11.0
+label: cup, halves
+value: 27.0
+label: apricot half with liquid
+value: 4.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 1959.0
+label: cup, halves
+value: 4760.0
+label: apricot half with liquid
+value: 705.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: cup, halves
+value: 0.0
+label: apricot half with liquid
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 26.0
+label: cup, halves
+value: 63.0
+label: apricot half with liquid
+value: 9.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.6
+label: cup, halves
+value: 1.46
+label: apricot half with liquid
+value: 0.22
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: cup, halves
+value: 0.0
+label: apricot half with liquid
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: cup, halves
+value: 0.0
+label: apricot half with liquid
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: cup, halves
+value: 0.0
+label: apricot half with liquid
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 2.2
+label: cup, halves
+value: 5.3
+label: apricot half with liquid
+value: 0.8
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.011
+label: cup, halves
+value: 0.027
+label: apricot half with liquid
+value: 0.004
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: cup, halves
+value: 0.0
+label: apricot half with liquid
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: cup, halves
+value: 0.0
+label: apricot half with liquid
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: cup, halves
+value: 0.0
+label: apricot half with liquid
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: cup, halves
+value: 0.0
+label: apricot half with liquid
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: cup, halves
+value: 0.0
+label: apricot half with liquid
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.0
+label: cup, halves
+value: 0.0
+label: apricot half with liquid
+value: 0.0
+
+
+name: 16:0
+unit: g
+value: 0.01
+label: cup, halves
+value: 0.024
+label: apricot half with liquid
+value: 0.004
+
+
+name: 18:0
+unit: g
+value: 0.001
+label: cup, halves
+value: 0.002
+label: apricot half with liquid
+value: 0.0
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.069
+label: cup, halves
+value: 0.168
+label: apricot half with liquid
+value: 0.025
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.0
+label: cup, halves
+value: 0.0
+label: apricot half with liquid
+value: 0.0
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.069
+label: cup, halves
+value: 0.168
+label: apricot half with liquid
+value: 0.025
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: cup, halves
+value: 0.0
+label: apricot half with liquid
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: cup, halves
+value: 0.0
+label: apricot half with liquid
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.031
+label: cup, halves
+value: 0.075
+label: apricot half with liquid
+value: 0.011
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.031
+label: cup, halves
+value: 0.075
+label: apricot half with liquid
+value: 0.011
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.0
+label: cup, halves
+value: 0.0
+label: apricot half with liquid
+value: 0.0
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: cup, halves
+value: 0.0
+label: apricot half with liquid
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: cup, halves
+value: 0.0
+label: apricot half with liquid
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: cup, halves
+value: 0.0
+label: apricot half with liquid
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: cup, halves
+value: 0.0
+label: apricot half with liquid
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: cup, halves
+value: 0.0
+label: apricot half with liquid
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.0
+label: cup, halves
+value: 0.0
+label: apricot half with liquid
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: cup, halves
+value: 0.0
+label: apricot half with liquid
+value: 0.0
+
+
+name: Tryptophan
+unit: g
+value: 0.013
+label: cup, halves
+value: 0.032
+label: apricot half with liquid
+value: 0.005
+
+
+name: Threonine
+unit: g
+value: 0.026
+label: cup, halves
+value: 0.063
+label: apricot half with liquid
+value: 0.009
+
+
+name: Isoleucine
+unit: g
+value: 0.022
+label: cup, halves
+value: 0.053
+label: apricot half with liquid
+value: 0.008
+
+
+name: Leucine
+unit: g
+value: 0.042
+label: cup, halves
+value: 0.102
+label: apricot half with liquid
+value: 0.015
+
+
+name: Lysine
+unit: g
+value: 0.049
+label: cup, halves
+value: 0.119
+label: apricot half with liquid
+value: 0.018
+
+
+name: Methionine
+unit: g
+value: 0.004
+label: cup, halves
+value: 0.01
+label: apricot half with liquid
+value: 0.001
+
+
+name: Cystine
+unit: g
+value: 0.002
+label: cup, halves
+value: 0.005
+label: apricot half with liquid
+value: 0.001
+
+
+name: Phenylalanine
+unit: g
+value: 0.03
+label: cup, halves
+value: 0.073
+label: apricot half with liquid
+value: 0.011
+
+
+name: Tyrosine
+unit: g
+value: 0.017
+label: cup, halves
+value: 0.041
+label: apricot half with liquid
+value: 0.006
+
+
+name: Valine
+unit: g
+value: 0.026
+label: cup, halves
+value: 0.063
+label: apricot half with liquid
+value: 0.009
+
+
+name: Arginine
+unit: g
+value: 0.028
+label: cup, halves
+value: 0.068
+label: apricot half with liquid
+value: 0.01
+
+
+name: Histidine
+unit: g
+value: 0.012
+label: cup, halves
+value: 0.029
+label: apricot half with liquid
+value: 0.004
+
+
+name: Alanine
+unit: g
+value: 0.035
+label: cup, halves
+value: 0.085
+label: apricot half with liquid
+value: 0.013
+
+
+name: Aspartic acid
+unit: g
+value: 0.163
+label: cup, halves
+value: 0.396
+label: apricot half with liquid
+value: 0.059
+
+
+name: Glutamic acid
+unit: g
+value: 0.072
+label: cup, halves
+value: 0.175
+label: apricot half with liquid
+value: 0.026
+
+
+name: Glycine
+unit: g
+value: 0.022
+label: cup, halves
+value: 0.053
+label: apricot half with liquid
+value: 0.008
+
+
+name: Proline
+unit: g
+value: 0.043
+label: cup, halves
+value: 0.104
+label: apricot half with liquid
+value: 0.015
+
+
+name: Serine
+unit: g
+value: 0.041
+label: cup, halves
+value: 0.1
+label: apricot half with liquid
+value: 0.015
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: cup, halves
+value: 0.0
+label: apricot half with liquid
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: cup, halves
+value: 0.0
+label: apricot half with liquid
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: cup, halves
+value: 0.0
+label: apricot half with liquid
+value: 0.0
+
+
+

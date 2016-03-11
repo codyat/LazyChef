@@ -1,0 +1,997 @@
+ndbno: 11658
+
+
+name: Spinach souffle
+
+
+name: Water
+unit: g
+value: 70.73
+label: cup
+value: 96.19
+label: recipe yield
+value: 575.03
+
+
+name: Energy
+unit: kcal
+value: 172.0
+label: cup
+value: 234.0
+label: recipe yield
+value: 1398.0
+
+
+name: Energy
+unit: kJ
+value: 719.0
+label: cup
+value: 978.0
+label: recipe yield
+value: 5845.0
+
+
+name: Protein
+unit: g
+value: 7.89
+label: cup
+value: 10.73
+label: recipe yield
+value: 64.15
+
+
+name: Total lipid (fat)
+unit: g
+value: 12.95
+label: cup
+value: 17.61
+label: recipe yield
+value: 105.28
+
+
+name: Ash
+unit: g
+value: 2.52
+label: cup
+value: 3.43
+label: recipe yield
+value: 20.49
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 5.9
+label: cup
+value: 8.02
+label: recipe yield
+value: 47.97
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.7
+label: cup
+value: 1.0
+label: recipe yield
+value: 5.7
+
+
+name: Sugars, total
+unit: g
+value: 1.85
+label: cup
+value: 2.52
+label: recipe yield
+value: 15.04
+
+
+name: Sucrose
+unit: g
+value: 0.06
+label: cup
+value: 0.08
+label: recipe yield
+value: 0.49
+
+
+name: Glucose (dextrose)
+unit: g
+value: 0.08
+label: cup
+value: 0.11
+label: recipe yield
+value: 0.65
+
+
+name: Fructose
+unit: g
+value: 0.05
+label: cup
+value: 0.07
+label: recipe yield
+value: 0.41
+
+
+name: Lactose
+unit: g
+value: 1.51
+label: cup
+value: 2.05
+label: recipe yield
+value: 12.28
+
+
+name: Maltose
+unit: g
+value: 0.03
+label: cup
+value: 0.04
+label: recipe yield
+value: 0.24
+
+
+name: Galactose
+unit: g
+value: 0.04
+label: cup
+value: 0.05
+label: recipe yield
+value: 0.33
+
+
+name: Calcium, Ca
+unit: mg
+value: 165.0
+label: cup
+value: 224.0
+label: recipe yield
+value: 1341.0
+
+
+name: Iron, Fe
+unit: mg
+value: 1.19
+label: cup
+value: 1.62
+label: recipe yield
+value: 9.67
+
+
+name: Magnesium, Mg
+unit: mg
+value: 30.0
+label: cup
+value: 41.0
+label: recipe yield
+value: 244.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 139.0
+label: cup
+value: 189.0
+label: recipe yield
+value: 1130.0
+
+
+name: Potassium, K
+unit: mg
+value: 231.0
+label: cup
+value: 314.0
+label: recipe yield
+value: 1878.0
+
+
+name: Sodium, Na
+unit: mg
+value: 566.0
+label: cup
+value: 770.0
+label: recipe yield
+value: 4602.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.85
+label: cup
+value: 1.16
+label: recipe yield
+value: 6.91
+
+
+name: Copper, Cu
+unit: mg
+value: 0.059
+label: cup
+value: 0.08
+label: recipe yield
+value: 0.48
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.269
+label: cup
+value: 0.366
+label: recipe yield
+value: 2.187
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 11.1
+label: cup
+value: 15.1
+label: recipe yield
+value: 90.2
+
+
+name: Fluoride, F
+unit: \u00B5g
+value: 4.7
+label: cup
+value: 6.4
+label: recipe yield
+value: 38.2
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 7.3
+label: cup
+value: 9.9
+label: recipe yield
+value: 59.3
+
+
+name: Thiamin
+unit: mg
+value: 0.082
+label: cup
+value: 0.112
+label: recipe yield
+value: 0.667
+
+
+name: Riboflavin
+unit: mg
+value: 0.263
+label: cup
+value: 0.358
+label: recipe yield
+value: 2.138
+
+
+name: Niacin
+unit: mg
+value: 0.479
+label: cup
+value: 0.651
+label: recipe yield
+value: 3.894
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.438
+label: cup
+value: 0.596
+label: recipe yield
+value: 3.561
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.098
+label: cup
+value: 0.133
+label: recipe yield
+value: 0.797
+
+
+name: Folate, total
+unit: \u00B5g
+value: 73.0
+label: cup
+value: 99.0
+label: recipe yield
+value: 593.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 6.0
+label: cup
+value: 8.0
+label: recipe yield
+value: 49.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 67.0
+label: cup
+value: 91.0
+label: recipe yield
+value: 545.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 77.0
+label: cup
+value: 105.0
+label: recipe yield
+value: 626.0
+
+
+name: Choline, total
+unit: mg
+value: 61.0
+label: cup
+value: 83.0
+label: recipe yield
+value: 495.9
+
+
+name: Betaine
+unit: mg
+value: 29.9
+label: cup
+value: 40.7
+label: recipe yield
+value: 243.1
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.4
+label: cup
+value: 0.54
+label: recipe yield
+value: 3.25
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: recipe yield
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 244.0
+label: cup
+value: 332.0
+label: recipe yield
+value: 1984.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 120.0
+label: cup
+value: 163.0
+label: recipe yield
+value: 976.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 1493.0
+label: cup
+value: 2030.0
+label: recipe yield
+value: 12138.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 3.0
+label: cup
+value: 4.0
+label: recipe yield
+value: 24.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 2.0
+label: cup
+value: 3.0
+label: recipe yield
+value: 16.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 2891.0
+label: cup
+value: 3932.0
+label: recipe yield
+value: 23504.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: recipe yield
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 3249.0
+label: cup
+value: 4419.0
+label: recipe yield
+value: 26414.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.93
+label: cup
+value: 1.26
+label: recipe yield
+value: 7.56
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: recipe yield
+value: 0.0
+
+
+name: Tocopherol, beta
+unit: mg
+value: 0.01
+label: cup
+value: 0.01
+label: recipe yield
+value: 0.08
+
+
+name: Tocopherol, gamma
+unit: mg
+value: 0.16
+label: cup
+value: 0.22
+label: recipe yield
+value: 1.3
+
+
+name: Tocopherol, delta
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: recipe yield
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.8
+label: cup
+value: 1.1
+label: recipe yield
+value: 6.5
+
+
+name: Vitamin D3 (cholecalciferol)
+unit: \u00B5g
+value: 0.8
+label: cup
+value: 1.1
+label: recipe yield
+value: 6.5
+
+
+name: Vitamin D
+unit: IU
+value: 31.0
+label: cup
+value: 42.0
+label: recipe yield
+value: 252.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 126.5
+label: cup
+value: 172.0
+label: recipe yield
+value: 1028.4
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 6.091
+label: cup
+value: 8.284
+label: recipe yield
+value: 49.52
+
+
+name: 4:0
+unit: g
+value: 0.314
+label: cup
+value: 0.427
+label: recipe yield
+value: 2.553
+
+
+name: 6:0
+unit: g
+value: 0.189
+label: cup
+value: 0.257
+label: recipe yield
+value: 1.537
+
+
+name: 8:0
+unit: g
+value: 0.116
+label: cup
+value: 0.158
+label: recipe yield
+value: 0.943
+
+
+name: 10:0
+unit: g
+value: 0.227
+label: cup
+value: 0.309
+label: recipe yield
+value: 1.846
+
+
+name: 12:0
+unit: g
+value: 0.224
+label: cup
+value: 0.305
+label: recipe yield
+value: 1.821
+
+
+name: 13:0
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: recipe yield
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.858
+label: cup
+value: 1.167
+label: recipe yield
+value: 6.976
+
+
+name: 15:0
+unit: g
+value: 0.001
+label: cup
+value: 0.001
+label: recipe yield
+value: 0.008
+
+
+name: 16:0
+unit: g
+value: 2.89
+label: cup
+value: 3.93
+label: recipe yield
+value: 23.496
+
+
+name: 17:0
+unit: g
+value: 0.035
+label: cup
+value: 0.048
+label: recipe yield
+value: 0.285
+
+
+name: 18:0
+unit: g
+value: 1.225
+label: cup
+value: 1.666
+label: recipe yield
+value: 9.959
+
+
+name: 20:0
+unit: g
+value: 0.01
+label: cup
+value: 0.014
+label: recipe yield
+value: 0.081
+
+
+name: 22:0
+unit: g
+value: 0.002
+label: cup
+value: 0.003
+label: recipe yield
+value: 0.016
+
+
+name: 24:0
+unit: g
+value: 0.001
+label: cup
+value: 0.001
+label: recipe yield
+value: 0.008
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 3.021
+label: cup
+value: 4.109
+label: recipe yield
+value: 24.561
+
+
+name: 14:1
+unit: g
+value: 0.001
+label: cup
+value: 0.001
+label: recipe yield
+value: 0.008
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.215
+label: cup
+value: 0.292
+label: recipe yield
+value: 1.748
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 2.793
+label: cup
+value: 3.798
+label: recipe yield
+value: 22.707
+
+
+name: 20:1
+unit: g
+value: 0.011
+label: cup
+value: 0.015
+label: recipe yield
+value: 0.089
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.001
+label: cup
+value: 0.001
+label: recipe yield
+value: 0.008
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.61
+label: cup
+value: 0.83
+label: recipe yield
+value: 4.959
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.467
+label: cup
+value: 0.635
+label: recipe yield
+value: 3.797
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.111
+label: cup
+value: 0.151
+label: recipe yield
+value: 0.902
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: recipe yield
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.025
+label: cup
+value: 0.034
+label: recipe yield
+value: 0.203
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.001
+label: cup
+value: 0.001
+label: recipe yield
+value: 0.008
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: recipe yield
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.007
+label: cup
+value: 0.01
+label: recipe yield
+value: 0.057
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.188
+label: cup
+value: 0.256
+label: recipe yield
+value: 1.528
+
+
+name: Fatty acids, total trans-monoenoic
+unit: g
+value: 0.171
+label: cup
+value: 0.233
+label: recipe yield
+value: 1.39
+
+
+name: Cholesterol
+unit: mg
+value: 118.0
+label: cup
+value: 160.0
+label: recipe yield
+value: 959.0
+
+
+name: Tryptophan
+unit: g
+value: 0.108
+label: cup
+value: 0.147
+label: recipe yield
+value: 0.878
+
+
+name: Threonine
+unit: g
+value: 0.308
+label: cup
+value: 0.419
+label: recipe yield
+value: 2.504
+
+
+name: Isoleucine
+unit: g
+value: 0.45
+label: cup
+value: 0.612
+label: recipe yield
+value: 3.658
+
+
+name: Leucine
+unit: g
+value: 0.708
+label: cup
+value: 0.963
+label: recipe yield
+value: 5.756
+
+
+name: Lysine
+unit: g
+value: 0.558
+label: cup
+value: 0.759
+label: recipe yield
+value: 4.537
+
+
+name: Methionine
+unit: g
+value: 0.207
+label: cup
+value: 0.282
+label: recipe yield
+value: 1.683
+
+
+name: Cystine
+unit: g
+value: 0.095
+label: cup
+value: 0.129
+label: recipe yield
+value: 0.772
+
+
+name: Phenylalanine
+unit: g
+value: 0.406
+label: cup
+value: 0.552
+label: recipe yield
+value: 3.301
+
+
+name: Tyrosine
+unit: g
+value: 0.35
+label: cup
+value: 0.476
+label: recipe yield
+value: 2.845
+
+
+name: Valine
+unit: g
+value: 0.505
+label: cup
+value: 0.687
+label: recipe yield
+value: 4.106
+
+
+name: Arginine
+unit: g
+value: 0.366
+label: cup
+value: 0.498
+label: recipe yield
+value: 2.976
+
+
+name: Histidine
+unit: g
+value: 0.229
+label: cup
+value: 0.311
+label: recipe yield
+value: 1.862
+
+
+name: Alanine
+unit: g
+value: 0.323
+label: cup
+value: 0.439
+label: recipe yield
+value: 2.626
+
+
+name: Aspartic acid
+unit: g
+value: 0.627
+label: cup
+value: 0.853
+label: recipe yield
+value: 5.098
+
+
+name: Glutamic acid
+unit: g
+value: 1.556
+label: cup
+value: 2.116
+label: recipe yield
+value: 12.65
+
+
+name: Glycine
+unit: g
+value: 0.216
+label: cup
+value: 0.294
+label: recipe yield
+value: 1.756
+
+
+name: Proline
+unit: g
+value: 0.646
+label: cup
+value: 0.879
+label: recipe yield
+value: 5.252
+
+
+name: Serine
+unit: g
+value: 0.467
+label: cup
+value: 0.635
+label: recipe yield
+value: 3.797
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: recipe yield
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: recipe yield
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: recipe yield
+value: 0.0
+
+
+

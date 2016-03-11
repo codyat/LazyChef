@@ -1,0 +1,741 @@
+ndbno: 08410
+
+
+name: Cereals, QUAKER, Instant Oatmeal, Cinnamon-Spice, dry
+
+
+name: Water
+unit: g
+value: 7.37
+label: packet (1 NLEA serving)
+value: 3.17
+
+
+name: Energy
+unit: kcal
+value: 369.0
+label: packet (1 NLEA serving)
+value: 159.0
+
+
+name: Energy
+unit: kJ
+value: 1542.0
+label: packet (1 NLEA serving)
+value: 663.0
+
+
+name: Protein
+unit: g
+value: 10.39
+label: packet (1 NLEA serving)
+value: 4.47
+
+
+name: Total lipid (fat)
+unit: g
+value: 5.1
+label: packet (1 NLEA serving)
+value: 2.19
+
+
+name: Ash
+unit: g
+value: 2.63
+label: packet (1 NLEA serving)
+value: 1.13
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 74.52
+label: packet (1 NLEA serving)
+value: 32.04
+
+
+name: Fiber, total dietary
+unit: g
+value: 8.2
+label: packet (1 NLEA serving)
+value: 3.5
+
+
+name: Sugars, total
+unit: g
+value: 21.14
+label: packet (1 NLEA serving)
+value: 9.09
+
+
+name: Sucrose
+unit: g
+value: 20.39
+label: packet (1 NLEA serving)
+value: 8.77
+
+
+name: Glucose (dextrose)
+unit: g
+value: 0.25
+label: packet (1 NLEA serving)
+value: 0.11
+
+
+name: Fructose
+unit: g
+value: 0.2
+label: packet (1 NLEA serving)
+value: 0.09
+
+
+name: Lactose
+unit: g
+value: 0.1
+label: packet (1 NLEA serving)
+value: 0.04
+
+
+name: Maltose
+unit: g
+value: 0.1
+label: packet (1 NLEA serving)
+value: 0.04
+
+
+name: Galactose
+unit: g
+value: 0.1
+label: packet (1 NLEA serving)
+value: 0.04
+
+
+name: Starch
+unit: g
+value: 45.27
+label: packet (1 NLEA serving)
+value: 19.47
+
+
+name: Calcium, Ca
+unit: mg
+value: 229.0
+label: packet (1 NLEA serving)
+value: 98.0
+
+
+name: Iron, Fe
+unit: mg
+value: 8.31
+label: packet (1 NLEA serving)
+value: 3.57
+
+
+name: Magnesium, Mg
+unit: mg
+value: 99.0
+label: packet (1 NLEA serving)
+value: 43.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 353.0
+label: packet (1 NLEA serving)
+value: 152.0
+
+
+name: Potassium, K
+unit: mg
+value: 303.0
+label: packet (1 NLEA serving)
+value: 130.0
+
+
+name: Sodium, Na
+unit: mg
+value: 416.0
+label: packet (1 NLEA serving)
+value: 179.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 2.6
+label: packet (1 NLEA serving)
+value: 1.12
+
+
+name: Copper, Cu
+unit: mg
+value: 0.345
+label: packet (1 NLEA serving)
+value: 0.148
+
+
+name: Manganese, Mn
+unit: mg
+value: 2.79
+label: packet (1 NLEA serving)
+value: 1.2
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 2.9
+label: packet (1 NLEA serving)
+value: 1.2
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.1
+label: packet (1 NLEA serving)
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.717
+label: packet (1 NLEA serving)
+value: 0.308
+
+
+name: Riboflavin
+unit: mg
+value: 0.813
+label: packet (1 NLEA serving)
+value: 0.35
+
+
+name: Niacin
+unit: mg
+value: 9.2
+label: packet (1 NLEA serving)
+value: 3.956
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.94
+label: packet (1 NLEA serving)
+value: 0.404
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.862
+label: packet (1 NLEA serving)
+value: 0.371
+
+
+name: Folate, total
+unit: \u00B5g
+value: 191.0
+label: packet (1 NLEA serving)
+value: 82.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 175.0
+label: packet (1 NLEA serving)
+value: 75.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 17.0
+label: packet (1 NLEA serving)
+value: 7.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 314.0
+label: packet (1 NLEA serving)
+value: 135.0
+
+
+name: Choline, total
+unit: mg
+value: 29.0
+label: packet (1 NLEA serving)
+value: 12.5
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: packet (1 NLEA serving)
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 440.0
+label: packet (1 NLEA serving)
+value: 189.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 440.0
+label: packet (1 NLEA serving)
+value: 189.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 1.0
+label: packet (1 NLEA serving)
+value: 0.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: packet (1 NLEA serving)
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 1.0
+label: packet (1 NLEA serving)
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 1467.0
+label: packet (1 NLEA serving)
+value: 631.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: packet (1 NLEA serving)
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 123.0
+label: packet (1 NLEA serving)
+value: 53.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.5
+label: packet (1 NLEA serving)
+value: 0.22
+
+
+name: Tocopherol, beta
+unit: mg
+value: 0.18
+label: packet (1 NLEA serving)
+value: 0.08
+
+
+name: Tocopherol, gamma
+unit: mg
+value: 0.0
+label: packet (1 NLEA serving)
+value: 0.0
+
+
+name: Tocopherol, delta
+unit: mg
+value: 0.0
+label: packet (1 NLEA serving)
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: packet (1 NLEA serving)
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: packet (1 NLEA serving)
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 1.9
+label: packet (1 NLEA serving)
+value: 0.8
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.808
+label: packet (1 NLEA serving)
+value: 0.347
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: packet (1 NLEA serving)
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: packet (1 NLEA serving)
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: packet (1 NLEA serving)
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: packet (1 NLEA serving)
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: packet (1 NLEA serving)
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.01
+label: packet (1 NLEA serving)
+value: 0.004
+
+
+name: 15:0
+unit: g
+value: 0.002
+label: packet (1 NLEA serving)
+value: 0.001
+
+
+name: 16:0
+unit: g
+value: 0.72
+label: packet (1 NLEA serving)
+value: 0.31
+
+
+name: 17:0
+unit: g
+value: 0.002
+label: packet (1 NLEA serving)
+value: 0.001
+
+
+name: 18:0
+unit: g
+value: 0.06
+label: packet (1 NLEA serving)
+value: 0.026
+
+
+name: 20:0
+unit: g
+value: 0.006
+label: packet (1 NLEA serving)
+value: 0.003
+
+
+name: 22:0
+unit: g
+value: 0.004
+label: packet (1 NLEA serving)
+value: 0.002
+
+
+name: 24:0
+unit: g
+value: 0.004
+label: packet (1 NLEA serving)
+value: 0.002
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 1.575
+label: packet (1 NLEA serving)
+value: 0.677
+
+
+name: 14:1
+unit: g
+value: 0.0
+label: packet (1 NLEA serving)
+value: 0.0
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: packet (1 NLEA serving)
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.01
+label: packet (1 NLEA serving)
+value: 0.004
+
+
+name: 16:1 c
+unit: g
+value: 0.01
+label: packet (1 NLEA serving)
+value: 0.004
+
+
+name: 16:1 t
+unit: g
+value: 0.0
+label: packet (1 NLEA serving)
+value: 0.0
+
+
+name: 17:1
+unit: g
+value: 0.001
+label: packet (1 NLEA serving)
+value: 0.0
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 1.53
+label: packet (1 NLEA serving)
+value: 0.658
+
+
+name: 18:1 c
+unit: g
+value: 1.53
+label: packet (1 NLEA serving)
+value: 0.658
+
+
+name: 18:1 t
+unit: g
+value: 0.0
+label: packet (1 NLEA serving)
+value: 0.0
+
+
+name: 20:1
+unit: g
+value: 0.03
+label: packet (1 NLEA serving)
+value: 0.013
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.004
+label: packet (1 NLEA serving)
+value: 0.002
+
+
+name: 22:1 c
+unit: g
+value: 0.004
+label: packet (1 NLEA serving)
+value: 0.002
+
+
+name: 22:1 t
+unit: g
+value: 0.0
+label: packet (1 NLEA serving)
+value: 0.0
+
+
+name: 24:1 c
+unit: g
+value: 0.0
+label: packet (1 NLEA serving)
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 1.767
+label: packet (1 NLEA serving)
+value: 0.76
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 1.702
+label: packet (1 NLEA serving)
+value: 0.732
+
+
+name: 18:2 n-6 c,c
+unit: g
+value: 1.7
+label: packet (1 NLEA serving)
+value: 0.731
+
+
+name: 18:2 CLAs
+unit: g
+value: 0.0
+label: packet (1 NLEA serving)
+value: 0.0
+
+
+name: 18:2 t not further defined
+unit: g
+value: 0.002
+label: packet (1 NLEA serving)
+value: 0.001
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.062
+label: packet (1 NLEA serving)
+value: 0.027
+
+
+name: 18:3 n-3 c,c,c (ALA)
+unit: g
+value: 0.06
+label: packet (1 NLEA serving)
+value: 0.026
+
+
+name: 18:3 n-6 c,c,c
+unit: g
+value: 0.002
+label: packet (1 NLEA serving)
+value: 0.001
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: packet (1 NLEA serving)
+value: 0.0
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.003
+label: packet (1 NLEA serving)
+value: 0.001
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.0
+label: packet (1 NLEA serving)
+value: 0.0
+
+
+name: 20:3 n-6
+unit: g
+value: 0.0
+label: packet (1 NLEA serving)
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: packet (1 NLEA serving)
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: packet (1 NLEA serving)
+value: 0.0
+
+
+name: 22:4
+unit: g
+value: 0.0
+label: packet (1 NLEA serving)
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: packet (1 NLEA serving)
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: packet (1 NLEA serving)
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.002
+label: packet (1 NLEA serving)
+value: 0.001
+
+
+name: Fatty acids, total trans-monoenoic
+unit: g
+value: 0.0
+label: packet (1 NLEA serving)
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: packet (1 NLEA serving)
+value: 0.0
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: packet (1 NLEA serving)
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: packet (1 NLEA serving)
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: packet (1 NLEA serving)
+value: 0.0
+
+

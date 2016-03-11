@@ -1,0 +1,852 @@
+ndbno: 05177
+
+
+name: Turkey, liver, all classes, raw
+
+
+name: Water
+unit: g
+value: 75.54
+label: raw liver
+value: 58.92
+
+
+name: Energy
+unit: kcal
+value: 128.0
+label: raw liver
+value: 100.0
+
+
+name: Energy
+unit: kJ
+value: 534.0
+label: raw liver
+value: 417.0
+
+
+name: Protein
+unit: g
+value: 18.26
+label: raw liver
+value: 14.24
+
+
+name: Total lipid (fat)
+unit: g
+value: 5.5
+label: raw liver
+value: 4.29
+
+
+name: Ash
+unit: g
+value: 1.32
+label: raw liver
+value: 1.03
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 0.0
+label: raw liver
+value: 0.0
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: raw liver
+value: 0.0
+
+
+name: Sugars, total
+unit: g
+value: 0.0
+label: raw liver
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 20.0
+label: raw liver
+value: 16.0
+
+
+name: Iron, Fe
+unit: mg
+value: 8.94
+label: raw liver
+value: 6.97
+
+
+name: Magnesium, Mg
+unit: mg
+value: 24.0
+label: raw liver
+value: 19.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 279.0
+label: raw liver
+value: 218.0
+
+
+name: Potassium, K
+unit: mg
+value: 214.0
+label: raw liver
+value: 167.0
+
+
+name: Sodium, Na
+unit: mg
+value: 131.0
+label: raw liver
+value: 102.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 3.37
+label: raw liver
+value: 2.63
+
+
+name: Copper, Cu
+unit: mg
+value: 0.863
+label: raw liver
+value: 0.673
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.296
+label: raw liver
+value: 0.231
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 68.7
+label: raw liver
+value: 53.6
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 24.5
+label: raw liver
+value: 19.1
+
+
+name: Thiamin
+unit: mg
+value: 0.206
+label: raw liver
+value: 0.161
+
+
+name: Riboflavin
+unit: mg
+value: 2.247
+label: raw liver
+value: 1.753
+
+
+name: Niacin
+unit: mg
+value: 11.233
+label: raw liver
+value: 8.762
+
+
+name: Pantothenic acid
+unit: mg
+value: 6.28
+label: raw liver
+value: 4.898
+
+
+name: Vitamin B-6
+unit: mg
+value: 1.04
+label: raw liver
+value: 0.811
+
+
+name: Folate, total
+unit: \u00B5g
+value: 677.0
+label: raw liver
+value: 528.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: raw liver
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 677.0
+label: raw liver
+value: 528.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 677.0
+label: raw liver
+value: 528.0
+
+
+name: Choline, total
+unit: mg
+value: 221.8
+label: raw liver
+value: 173.0
+
+
+name: Betaine
+unit: mg
+value: 3.0
+label: raw liver
+value: 2.3
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 19.73
+label: raw liver
+value: 15.39
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: raw liver
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 8058.0
+label: raw liver
+value: 6285.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 8056.0
+label: raw liver
+value: 6284.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 29.0
+label: raw liver
+value: 23.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: raw liver
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: raw liver
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 26901.0
+label: raw liver
+value: 20983.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: raw liver
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 0.0
+label: raw liver
+value: 0.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.24
+label: raw liver
+value: 0.19
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: raw liver
+value: 0.0
+
+
+name: Tocopherol, beta
+unit: mg
+value: 0.0
+label: raw liver
+value: 0.0
+
+
+name: Tocopherol, gamma
+unit: mg
+value: 0.1
+label: raw liver
+value: 0.08
+
+
+name: Tocopherol, delta
+unit: mg
+value: 0.0
+label: raw liver
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 1.3
+label: raw liver
+value: 1.0
+
+
+name: Vitamin D3 (cholecalciferol)
+unit: \u00B5g
+value: 1.3
+label: raw liver
+value: 1.0
+
+
+name: Vitamin D
+unit: IU
+value: 50.0
+label: raw liver
+value: 39.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 0.0
+label: raw liver
+value: 0.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 1.664
+label: raw liver
+value: 1.298
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: raw liver
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: raw liver
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: raw liver
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.003
+label: raw liver
+value: 0.002
+
+
+name: 12:0
+unit: g
+value: 0.008
+label: raw liver
+value: 0.006
+
+
+name: 14:0
+unit: g
+value: 0.017
+label: raw liver
+value: 0.013
+
+
+name: 15:0
+unit: g
+value: 0.004
+label: raw liver
+value: 0.003
+
+
+name: 16:0
+unit: g
+value: 0.777
+label: raw liver
+value: 0.606
+
+
+name: 17:0
+unit: g
+value: 0.014
+label: raw liver
+value: 0.011
+
+
+name: 18:0
+unit: g
+value: 0.799
+label: raw liver
+value: 0.623
+
+
+name: 20:0
+unit: g
+value: 0.008
+label: raw liver
+value: 0.006
+
+
+name: 22:0
+unit: g
+value: 0.023
+label: raw liver
+value: 0.018
+
+
+name: 24:0
+unit: g
+value: 0.01
+label: raw liver
+value: 0.008
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.817
+label: raw liver
+value: 0.637
+
+
+name: 14:1
+unit: g
+value: 0.002
+label: raw liver
+value: 0.002
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: raw liver
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.04
+label: raw liver
+value: 0.031
+
+
+name: 16:1 c
+unit: g
+value: 0.039
+label: raw liver
+value: 0.03
+
+
+name: 16:1 t
+unit: g
+value: 0.002
+label: raw liver
+value: 0.002
+
+
+name: 17:1
+unit: g
+value: 0.003
+label: raw liver
+value: 0.002
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.736
+label: raw liver
+value: 0.574
+
+
+name: 18:1 c
+unit: g
+value: 0.705
+label: raw liver
+value: 0.55
+
+
+name: 18:1 t
+unit: g
+value: 0.031
+label: raw liver
+value: 0.024
+
+
+name: 20:1
+unit: g
+value: 0.022
+label: raw liver
+value: 0.017
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.001
+label: raw liver
+value: 0.001
+
+
+name: 22:1 c
+unit: g
+value: 0.001
+label: raw liver
+value: 0.001
+
+
+name: 22:1 t
+unit: g
+value: 0.0
+label: raw liver
+value: 0.0
+
+
+name: 24:1 c
+unit: g
+value: 0.013
+label: raw liver
+value: 0.01
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 1.684
+label: raw liver
+value: 1.314
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 1.129
+label: raw liver
+value: 0.881
+
+
+name: 18:2 n-6 c,c
+unit: g
+value: 1.115
+label: raw liver
+value: 0.87
+
+
+name: 18:2 CLAs
+unit: g
+value: 0.001
+label: raw liver
+value: 0.001
+
+
+name: 18:2 t not further defined
+unit: g
+value: 0.012
+label: raw liver
+value: 0.009
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.039
+label: raw liver
+value: 0.03
+
+
+name: 18:3 n-3 c,c,c (ALA)
+unit: g
+value: 0.038
+label: raw liver
+value: 0.03
+
+
+name: 18:3 n-6 c,c,c
+unit: g
+value: 0.002
+label: raw liver
+value: 0.002
+
+
+name: 18:4
+unit: g
+value: 0.001
+label: raw liver
+value: 0.001
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.015
+label: raw liver
+value: 0.012
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.021
+label: raw liver
+value: 0.016
+
+
+name: 20:3 n-6
+unit: g
+value: 0.021
+label: raw liver
+value: 0.016
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.378
+label: raw liver
+value: 0.295
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.009
+label: raw liver
+value: 0.007
+
+
+name: 22:4
+unit: g
+value: 0.026
+label: raw liver
+value: 0.02
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.021
+label: raw liver
+value: 0.016
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.045
+label: raw liver
+value: 0.035
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.044
+label: raw liver
+value: 0.034
+
+
+name: Fatty acids, total trans-monoenoic
+unit: g
+value: 0.032
+label: raw liver
+value: 0.025
+
+
+name: Cholesterol
+unit: mg
+value: 415.0
+label: raw liver
+value: 324.0
+
+
+name: Tryptophan
+unit: g
+value: 0.199
+label: raw liver
+value: 0.155
+
+
+name: Threonine
+unit: g
+value: 0.66
+label: raw liver
+value: 0.515
+
+
+name: Isoleucine
+unit: g
+value: 0.519
+label: raw liver
+value: 0.405
+
+
+name: Leucine
+unit: g
+value: 1.31
+label: raw liver
+value: 1.022
+
+
+name: Lysine
+unit: g
+value: 1.378
+label: raw liver
+value: 1.075
+
+
+name: Methionine
+unit: g
+value: 0.461
+label: raw liver
+value: 0.36
+
+
+name: Cystine
+unit: g
+value: 0.212
+label: raw liver
+value: 0.165
+
+
+name: Phenylalanine
+unit: g
+value: 0.672
+label: raw liver
+value: 0.524
+
+
+name: Tyrosine
+unit: g
+value: 0.578
+label: raw liver
+value: 0.451
+
+
+name: Valine
+unit: g
+value: 0.643
+label: raw liver
+value: 0.502
+
+
+name: Arginine
+unit: g
+value: 1.067
+label: raw liver
+value: 0.832
+
+
+name: Histidine
+unit: g
+value: 0.398
+label: raw liver
+value: 0.31
+
+
+name: Alanine
+unit: g
+value: 1.005
+label: raw liver
+value: 0.784
+
+
+name: Aspartic acid
+unit: g
+value: 1.421
+label: raw liver
+value: 1.108
+
+
+name: Glutamic acid
+unit: g
+value: 2.382
+label: raw liver
+value: 1.858
+
+
+name: Glycine
+unit: g
+value: 0.986
+label: raw liver
+value: 0.769
+
+
+name: Proline
+unit: g
+value: 1.107
+label: raw liver
+value: 0.863
+
+
+name: Serine
+unit: g
+value: 0.783
+label: raw liver
+value: 0.611
+
+
+name: Hydroxyproline
+unit: g
+value: 0.06
+label: raw liver
+value: 0.047
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: raw liver
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: raw liver
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: raw liver
+value: 0.0
+

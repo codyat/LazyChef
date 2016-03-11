@@ -1,0 +1,825 @@
+ndbno: 05087
+
+
+name: Chicken, broilers or fryers, neck, meat and skin, cooked simmered
+
+
+name: Water
+unit: g
+value: 61.73
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 6.79
+label: neck, bone removed
+value: 23.46
+
+
+name: Energy
+unit: kcal
+value: 247.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 27.0
+label: neck, bone removed
+value: 94.0
+
+
+name: Energy
+unit: kJ
+value: 1033.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 114.0
+label: neck, bone removed
+value: 393.0
+
+
+name: Protein
+unit: g
+value: 19.61
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 2.16
+label: neck, bone removed
+value: 7.45
+
+
+name: Total lipid (fat)
+unit: g
+value: 18.1
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 1.99
+label: neck, bone removed
+value: 6.88
+
+
+name: Ash
+unit: g
+value: 0.61
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.07
+label: neck, bone removed
+value: 0.23
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.0
+label: neck, bone removed
+value: 0.0
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.0
+label: neck, bone removed
+value: 0.0
+
+
+name: Sugars, total
+unit: g
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.0
+label: neck, bone removed
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 27.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 3.0
+label: neck, bone removed
+value: 10.0
+
+
+name: Iron, Fe
+unit: mg
+value: 2.3
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.25
+label: neck, bone removed
+value: 0.87
+
+
+name: Magnesium, Mg
+unit: mg
+value: 13.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 1.0
+label: neck, bone removed
+value: 5.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 122.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 13.0
+label: neck, bone removed
+value: 46.0
+
+
+name: Potassium, K
+unit: mg
+value: 108.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 12.0
+label: neck, bone removed
+value: 41.0
+
+
+name: Sodium, Na
+unit: mg
+value: 52.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 6.0
+label: neck, bone removed
+value: 20.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 2.72
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.3
+label: neck, bone removed
+value: 1.03
+
+
+name: Copper, Cu
+unit: mg
+value: 0.097
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.011
+label: neck, bone removed
+value: 0.037
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.046
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.005
+label: neck, bone removed
+value: 0.017
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 17.3
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 1.9
+label: neck, bone removed
+value: 6.6
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.0
+label: neck, bone removed
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.04
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.004
+label: neck, bone removed
+value: 0.015
+
+
+name: Riboflavin
+unit: mg
+value: 0.248
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.027
+label: neck, bone removed
+value: 0.094
+
+
+name: Niacin
+unit: mg
+value: 3.319
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.365
+label: neck, bone removed
+value: 1.261
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.525
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.058
+label: neck, bone removed
+value: 0.199
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.1
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.011
+label: neck, bone removed
+value: 0.038
+
+
+name: Folate, total
+unit: \u00B5g
+value: 3.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.0
+label: neck, bone removed
+value: 1.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.0
+label: neck, bone removed
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 3.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.0
+label: neck, bone removed
+value: 1.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 3.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.0
+label: neck, bone removed
+value: 1.0
+
+
+name: Choline, total
+unit: mg
+value: 49.3
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 5.4
+label: neck, bone removed
+value: 18.7
+
+
+name: Betaine
+unit: mg
+value: 4.2
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.5
+label: neck, bone removed
+value: 1.6
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.14
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.02
+label: neck, bone removed
+value: 0.05
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.0
+label: neck, bone removed
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 48.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 5.0
+label: neck, bone removed
+value: 18.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 48.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 5.0
+label: neck, bone removed
+value: 18.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.0
+label: neck, bone removed
+value: 0.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.0
+label: neck, bone removed
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.0
+label: neck, bone removed
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 161.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 18.0
+label: neck, bone removed
+value: 61.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.0
+label: neck, bone removed
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.0
+label: neck, bone removed
+value: 0.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.27
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.03
+label: neck, bone removed
+value: 0.1
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.0
+label: neck, bone removed
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.1
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.0
+label: neck, bone removed
+value: 0.0
+
+
+name: Vitamin D3 (cholecalciferol)
+unit: \u00B5g
+value: 0.1
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.0
+label: neck, bone removed
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 6.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 1.0
+label: neck, bone removed
+value: 2.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 3.9
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.4
+label: neck, bone removed
+value: 1.5
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 5.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.55
+label: neck, bone removed
+value: 1.9
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.0
+label: neck, bone removed
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.0
+label: neck, bone removed
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.0
+label: neck, bone removed
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.0
+label: neck, bone removed
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.03
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.003
+label: neck, bone removed
+value: 0.011
+
+
+name: 14:0
+unit: g
+value: 0.14
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.015
+label: neck, bone removed
+value: 0.053
+
+
+name: 16:0
+unit: g
+value: 3.75
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.412
+label: neck, bone removed
+value: 1.425
+
+
+name: 18:0
+unit: g
+value: 0.96
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.106
+label: neck, bone removed
+value: 0.365
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 7.22
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.794
+label: neck, bone removed
+value: 2.744
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 1.02
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.112
+label: neck, bone removed
+value: 0.388
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 5.92
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.651
+label: neck, bone removed
+value: 2.25
+
+
+name: 20:1
+unit: g
+value: 0.2
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.022
+label: neck, bone removed
+value: 0.076
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.0
+label: neck, bone removed
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 3.94
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.433
+label: neck, bone removed
+value: 1.497
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 3.48
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.383
+label: neck, bone removed
+value: 1.322
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.15
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.016
+label: neck, bone removed
+value: 0.057
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.0
+label: neck, bone removed
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.12
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.013
+label: neck, bone removed
+value: 0.046
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.02
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.002
+label: neck, bone removed
+value: 0.008
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.02
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.002
+label: neck, bone removed
+value: 0.008
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.04
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.004
+label: neck, bone removed
+value: 0.015
+
+
+name: Cholesterol
+unit: mg
+value: 70.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 8.0
+label: neck, bone removed
+value: 27.0
+
+
+name: Tryptophan
+unit: g
+value: 0.2
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.022
+label: neck, bone removed
+value: 0.076
+
+
+name: Threonine
+unit: g
+value: 0.776
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.085
+label: neck, bone removed
+value: 0.295
+
+
+name: Isoleucine
+unit: g
+value: 0.872
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.096
+label: neck, bone removed
+value: 0.331
+
+
+name: Leucine
+unit: g
+value: 1.342
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.148
+label: neck, bone removed
+value: 0.51
+
+
+name: Lysine
+unit: g
+value: 1.466
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.161
+label: neck, bone removed
+value: 0.557
+
+
+name: Methionine
+unit: g
+value: 0.482
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.053
+label: neck, bone removed
+value: 0.183
+
+
+name: Cystine
+unit: g
+value: 0.281
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.031
+label: neck, bone removed
+value: 0.107
+
+
+name: Phenylalanine
+unit: g
+value: 0.731
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.08
+label: neck, bone removed
+value: 0.278
+
+
+name: Tyrosine
+unit: g
+value: 0.574
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.063
+label: neck, bone removed
+value: 0.218
+
+
+name: Valine
+unit: g
+value: 0.913
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.1
+label: neck, bone removed
+value: 0.347
+
+
+name: Arginine
+unit: g
+value: 1.316
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.145
+label: neck, bone removed
+value: 0.5
+
+
+name: Histidine
+unit: g
+value: 0.515
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.057
+label: neck, bone removed
+value: 0.196
+
+
+name: Alanine
+unit: g
+value: 1.28
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.141
+label: neck, bone removed
+value: 0.486
+
+
+name: Aspartic acid
+unit: g
+value: 1.75
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.192
+label: neck, bone removed
+value: 0.665
+
+
+name: Glutamic acid
+unit: g
+value: 2.735
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.301
+label: neck, bone removed
+value: 1.039
+
+
+name: Glycine
+unit: g
+value: 1.837
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.202
+label: neck, bone removed
+value: 0.698
+
+
+name: Proline
+unit: g
+value: 1.219
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.134
+label: neck, bone removed
+value: 0.463
+
+
+name: Serine
+unit: g
+value: 0.724
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.08
+label: neck, bone removed
+value: 0.275
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.0
+label: neck, bone removed
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.0
+label: neck, bone removed
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.0
+label: neck, bone removed
+value: 0.0
+
+

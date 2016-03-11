@@ -1,0 +1,706 @@
+ndbno: 09520
+
+
+name: Kiwifruit, ZESPRI SunGold, raw
+
+
+name: Water
+unit: g
+value: 82.44
+label: fruit
+value: 66.78
+
+
+name: Energy
+unit: kcal
+value: 63.0
+label: fruit
+value: 51.0
+
+
+name: Energy
+unit: kJ
+value: 262.0
+label: fruit
+value: 212.0
+
+
+name: Protein
+unit: g
+value: 1.02
+label: fruit
+value: 0.83
+
+
+name: Total lipid (fat)
+unit: g
+value: 0.28
+label: fruit
+value: 0.23
+
+
+name: Ash
+unit: g
+value: 0.47
+label: fruit
+value: 0.38
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 15.79
+label: fruit
+value: 12.79
+
+
+name: Fiber, total dietary
+unit: g
+value: 1.4
+label: fruit
+value: 1.1
+
+
+name: Sugars, total
+unit: g
+value: 12.3
+label: fruit
+value: 9.96
+
+
+name: Sucrose
+unit: g
+value: 1.22
+label: fruit
+value: 0.99
+
+
+name: Glucose (dextrose)
+unit: g
+value: 5.28
+label: fruit
+value: 4.28
+
+
+name: Fructose
+unit: g
+value: 5.8
+label: fruit
+value: 4.7
+
+
+name: Lactose
+unit: g
+value: 0.0
+label: fruit
+value: 0.0
+
+
+name: Maltose
+unit: g
+value: 0.0
+label: fruit
+value: 0.0
+
+
+name: Galactose
+unit: g
+value: 0.0
+label: fruit
+value: 0.0
+
+
+name: Starch
+unit: g
+value: 0.12
+label: fruit
+value: 0.1
+
+
+name: Calcium, Ca
+unit: mg
+value: 17.0
+label: fruit
+value: 14.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.21
+label: fruit
+value: 0.17
+
+
+name: Magnesium, Mg
+unit: mg
+value: 12.0
+label: fruit
+value: 10.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 25.0
+label: fruit
+value: 20.0
+
+
+name: Potassium, K
+unit: mg
+value: 315.0
+label: fruit
+value: 255.0
+
+
+name: Sodium, Na
+unit: mg
+value: 3.0
+label: fruit
+value: 2.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.08
+label: fruit
+value: 0.06
+
+
+name: Copper, Cu
+unit: mg
+value: 0.151
+label: fruit
+value: 0.122
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.048
+label: fruit
+value: 0.039
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 0.4
+label: fruit
+value: 0.3
+
+
+name: Fluoride, F
+unit: \u00B5g
+value: 0.0
+label: fruit
+value: 0.0
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 161.3
+label: fruit
+value: 130.7
+
+
+name: Thiamin
+unit: mg
+value: 0.0
+label: fruit
+value: 0.0
+
+
+name: Riboflavin
+unit: mg
+value: 0.074
+label: fruit
+value: 0.06
+
+
+name: Niacin
+unit: mg
+value: 0.231
+label: fruit
+value: 0.187
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.12
+label: fruit
+value: 0.097
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.079
+label: fruit
+value: 0.064
+
+
+name: Folate, total
+unit: \u00B5g
+value: 31.0
+label: fruit
+value: 25.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: fruit
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 31.0
+label: fruit
+value: 25.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 31.0
+label: fruit
+value: 25.0
+
+
+name: Choline, total
+unit: mg
+value: 1.9
+label: fruit
+value: 1.5
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.08
+label: fruit
+value: 0.06
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 1.0
+label: fruit
+value: 1.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: fruit
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 14.0
+label: fruit
+value: 11.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: fruit
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 23.0
+label: fruit
+value: 19.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: fruit
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 24.0
+label: fruit
+value: 19.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 1.4
+label: fruit
+value: 1.13
+
+
+name: Tocopherol, beta
+unit: mg
+value: 0.04
+label: fruit
+value: 0.03
+
+
+name: Tocopherol, gamma
+unit: mg
+value: 0.07
+label: fruit
+value: 0.06
+
+
+name: Tocopherol, delta
+unit: mg
+value: 0.0
+label: fruit
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: fruit
+value: 0.0
+
+
+name: Vitamin D3 (cholecalciferol)
+unit: \u00B5g
+value: 0.0
+label: fruit
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: fruit
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 6.1
+label: fruit
+value: 4.9
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.065
+label: fruit
+value: 0.053
+
+
+name: 4:0
+unit: g
+value: 0.001
+label: fruit
+value: 0.001
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: fruit
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.001
+label: fruit
+value: 0.001
+
+
+name: 10:0
+unit: g
+value: 0.001
+label: fruit
+value: 0.001
+
+
+name: 12:0
+unit: g
+value: 0.003
+label: fruit
+value: 0.002
+
+
+name: 14:0
+unit: g
+value: 0.003
+label: fruit
+value: 0.002
+
+
+name: 15:0
+unit: g
+value: 0.0
+label: fruit
+value: 0.0
+
+
+name: 16:0
+unit: g
+value: 0.048
+label: fruit
+value: 0.039
+
+
+name: 17:0
+unit: g
+value: 0.0
+label: fruit
+value: 0.0
+
+
+name: 18:0
+unit: g
+value: 0.006
+label: fruit
+value: 0.005
+
+
+name: 20:0
+unit: g
+value: 0.001
+label: fruit
+value: 0.001
+
+
+name: 22:0
+unit: g
+value: 0.0
+label: fruit
+value: 0.0
+
+
+name: 24:0
+unit: g
+value: 0.0
+label: fruit
+value: 0.0
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.023
+label: fruit
+value: 0.019
+
+
+name: 14:1
+unit: g
+value: 0.005
+label: fruit
+value: 0.004
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: fruit
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.004
+label: fruit
+value: 0.003
+
+
+name: 16:1 c
+unit: g
+value: 0.004
+label: fruit
+value: 0.003
+
+
+name: 17:1
+unit: g
+value: 0.0
+label: fruit
+value: 0.0
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.014
+label: fruit
+value: 0.011
+
+
+name: 18:1 c
+unit: g
+value: 0.014
+label: fruit
+value: 0.011
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: fruit
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: fruit
+value: 0.0
+
+
+name: 24:1 c
+unit: g
+value: 0.0
+label: fruit
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.111
+label: fruit
+value: 0.09
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.06
+label: fruit
+value: 0.049
+
+
+name: 18:2 n-6 c,c
+unit: g
+value: 0.058
+label: fruit
+value: 0.047
+
+
+name: 18:2 CLAs
+unit: g
+value: 0.001
+label: fruit
+value: 0.001
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.043
+label: fruit
+value: 0.035
+
+
+name: 18:3 n-3 c,c,c (ALA)
+unit: g
+value: 0.043
+label: fruit
+value: 0.035
+
+
+name: 18:3 n-6 c,c,c
+unit: g
+value: 0.0
+label: fruit
+value: 0.0
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: fruit
+value: 0.0
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.008
+label: fruit
+value: 0.006
+
+
+name: 20:3 n-6
+unit: g
+value: 0.001
+label: fruit
+value: 0.001
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: fruit
+value: 0.0
+
+
+name: 20:4 n-6
+unit: g
+value: 0.0
+label: fruit
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: fruit
+value: 0.0
+
+
+name: 21:5
+unit: g
+value: 0.0
+label: fruit
+value: 0.0
+
+
+name: 22:4
+unit: g
+value: 0.0
+label: fruit
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: fruit
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: fruit
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: fruit
+value: 0.0
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: fruit
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: fruit
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: fruit
+value: 0.0
+
+

@@ -1,0 +1,636 @@
+ndbno: 11482
+
+
+name: Squash, winter, acorn, raw
+
+
+name: Water
+unit: g
+value: 87.78
+label: cup, cubes
+value: 122.89
+label: squash (4 inch dia)
+value: 378.33
+
+
+name: Energy
+unit: kcal
+value: 40.0
+label: cup, cubes
+value: 56.0
+label: squash (4 inch dia)
+value: 172.0
+
+
+name: Energy
+unit: kJ
+value: 167.0
+label: cup, cubes
+value: 234.0
+label: squash (4 inch dia)
+value: 720.0
+
+
+name: Protein
+unit: g
+value: 0.8
+label: cup, cubes
+value: 1.12
+label: squash (4 inch dia)
+value: 3.45
+
+
+name: Total lipid (fat)
+unit: g
+value: 0.1
+label: cup, cubes
+value: 0.14
+label: squash (4 inch dia)
+value: 0.43
+
+
+name: Ash
+unit: g
+value: 0.9
+label: cup, cubes
+value: 1.26
+label: squash (4 inch dia)
+value: 3.88
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 10.42
+label: cup, cubes
+value: 14.59
+label: squash (4 inch dia)
+value: 44.91
+
+
+name: Fiber, total dietary
+unit: g
+value: 1.5
+label: cup, cubes
+value: 2.1
+label: squash (4 inch dia)
+value: 6.5
+
+
+name: Calcium, Ca
+unit: mg
+value: 33.0
+label: cup, cubes
+value: 46.0
+label: squash (4 inch dia)
+value: 142.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.7
+label: cup, cubes
+value: 0.98
+label: squash (4 inch dia)
+value: 3.02
+
+
+name: Magnesium, Mg
+unit: mg
+value: 32.0
+label: cup, cubes
+value: 45.0
+label: squash (4 inch dia)
+value: 138.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 36.0
+label: cup, cubes
+value: 50.0
+label: squash (4 inch dia)
+value: 155.0
+
+
+name: Potassium, K
+unit: mg
+value: 347.0
+label: cup, cubes
+value: 486.0
+label: squash (4 inch dia)
+value: 1496.0
+
+
+name: Sodium, Na
+unit: mg
+value: 3.0
+label: cup, cubes
+value: 4.0
+label: squash (4 inch dia)
+value: 13.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.13
+label: cup, cubes
+value: 0.18
+label: squash (4 inch dia)
+value: 0.56
+
+
+name: Copper, Cu
+unit: mg
+value: 0.065
+label: cup, cubes
+value: 0.091
+label: squash (4 inch dia)
+value: 0.28
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.167
+label: cup, cubes
+value: 0.234
+label: squash (4 inch dia)
+value: 0.72
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 0.5
+label: cup, cubes
+value: 0.7
+label: squash (4 inch dia)
+value: 2.2
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 11.0
+label: cup, cubes
+value: 15.4
+label: squash (4 inch dia)
+value: 47.4
+
+
+name: Thiamin
+unit: mg
+value: 0.14
+label: cup, cubes
+value: 0.196
+label: squash (4 inch dia)
+value: 0.603
+
+
+name: Riboflavin
+unit: mg
+value: 0.01
+label: cup, cubes
+value: 0.014
+label: squash (4 inch dia)
+value: 0.043
+
+
+name: Niacin
+unit: mg
+value: 0.7
+label: cup, cubes
+value: 0.98
+label: squash (4 inch dia)
+value: 3.017
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.4
+label: cup, cubes
+value: 0.56
+label: squash (4 inch dia)
+value: 1.724
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.154
+label: cup, cubes
+value: 0.216
+label: squash (4 inch dia)
+value: 0.664
+
+
+name: Folate, total
+unit: \u00B5g
+value: 17.0
+label: cup, cubes
+value: 24.0
+label: squash (4 inch dia)
+value: 73.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: cup, cubes
+value: 0.0
+label: squash (4 inch dia)
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 17.0
+label: cup, cubes
+value: 24.0
+label: squash (4 inch dia)
+value: 73.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 17.0
+label: cup, cubes
+value: 24.0
+label: squash (4 inch dia)
+value: 73.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: cup, cubes
+value: 0.0
+label: squash (4 inch dia)
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 18.0
+label: cup, cubes
+value: 25.0
+label: squash (4 inch dia)
+value: 78.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: cup, cubes
+value: 0.0
+label: squash (4 inch dia)
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 220.0
+label: cup, cubes
+value: 308.0
+label: squash (4 inch dia)
+value: 948.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: cup, cubes
+value: 0.0
+label: squash (4 inch dia)
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: cup, cubes
+value: 0.0
+label: squash (4 inch dia)
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 367.0
+label: cup, cubes
+value: 514.0
+label: squash (4 inch dia)
+value: 1582.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: cup, cubes
+value: 0.0
+label: squash (4 inch dia)
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 38.0
+label: cup, cubes
+value: 53.0
+label: squash (4 inch dia)
+value: 164.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: cup, cubes
+value: 0.0
+label: squash (4 inch dia)
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: cup, cubes
+value: 0.0
+label: squash (4 inch dia)
+value: 0.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.021
+label: cup, cubes
+value: 0.029
+label: squash (4 inch dia)
+value: 0.091
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: cup, cubes
+value: 0.0
+label: squash (4 inch dia)
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.0
+label: cup, cubes
+value: 0.0
+label: squash (4 inch dia)
+value: 0.0
+
+
+name: 16:0
+unit: g
+value: 0.018
+label: cup, cubes
+value: 0.025
+label: squash (4 inch dia)
+value: 0.078
+
+
+name: 18:0
+unit: g
+value: 0.002
+label: cup, cubes
+value: 0.003
+label: squash (4 inch dia)
+value: 0.009
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.007
+label: cup, cubes
+value: 0.01
+label: squash (4 inch dia)
+value: 0.03
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.0
+label: cup, cubes
+value: 0.0
+label: squash (4 inch dia)
+value: 0.0
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.007
+label: cup, cubes
+value: 0.01
+label: squash (4 inch dia)
+value: 0.03
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.042
+label: cup, cubes
+value: 0.059
+label: squash (4 inch dia)
+value: 0.181
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.016
+label: cup, cubes
+value: 0.022
+label: squash (4 inch dia)
+value: 0.069
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.026
+label: cup, cubes
+value: 0.036
+label: squash (4 inch dia)
+value: 0.112
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.0
+label: cup, cubes
+value: 0.0
+label: squash (4 inch dia)
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: cup, cubes
+value: 0.0
+label: squash (4 inch dia)
+value: 0.0
+
+
+name: Tryptophan
+unit: g
+value: 0.011
+label: cup, cubes
+value: 0.015
+label: squash (4 inch dia)
+value: 0.047
+
+
+name: Threonine
+unit: g
+value: 0.024
+label: cup, cubes
+value: 0.034
+label: squash (4 inch dia)
+value: 0.103
+
+
+name: Isoleucine
+unit: g
+value: 0.031
+label: cup, cubes
+value: 0.043
+label: squash (4 inch dia)
+value: 0.134
+
+
+name: Leucine
+unit: g
+value: 0.045
+label: cup, cubes
+value: 0.063
+label: squash (4 inch dia)
+value: 0.194
+
+
+name: Lysine
+unit: g
+value: 0.029
+label: cup, cubes
+value: 0.041
+label: squash (4 inch dia)
+value: 0.125
+
+
+name: Methionine
+unit: g
+value: 0.01
+label: cup, cubes
+value: 0.014
+label: squash (4 inch dia)
+value: 0.043
+
+
+name: Cystine
+unit: g
+value: 0.007
+label: cup, cubes
+value: 0.01
+label: squash (4 inch dia)
+value: 0.03
+
+
+name: Phenylalanine
+unit: g
+value: 0.031
+label: cup, cubes
+value: 0.043
+label: squash (4 inch dia)
+value: 0.134
+
+
+name: Tyrosine
+unit: g
+value: 0.027
+label: cup, cubes
+value: 0.038
+label: squash (4 inch dia)
+value: 0.116
+
+
+name: Valine
+unit: g
+value: 0.034
+label: cup, cubes
+value: 0.048
+label: squash (4 inch dia)
+value: 0.147
+
+
+name: Arginine
+unit: g
+value: 0.044
+label: cup, cubes
+value: 0.062
+label: squash (4 inch dia)
+value: 0.19
+
+
+name: Histidine
+unit: g
+value: 0.015
+label: cup, cubes
+value: 0.021
+label: squash (4 inch dia)
+value: 0.065
+
+
+name: Alanine
+unit: g
+value: 0.033
+label: cup, cubes
+value: 0.046
+label: squash (4 inch dia)
+value: 0.142
+
+
+name: Aspartic acid
+unit: g
+value: 0.086
+label: cup, cubes
+value: 0.12
+label: squash (4 inch dia)
+value: 0.371
+
+
+name: Glutamic acid
+unit: g
+value: 0.14
+label: cup, cubes
+value: 0.196
+label: squash (4 inch dia)
+value: 0.603
+
+
+name: Glycine
+unit: g
+value: 0.029
+label: cup, cubes
+value: 0.041
+label: squash (4 inch dia)
+value: 0.125
+
+
+name: Proline
+unit: g
+value: 0.028
+label: cup, cubes
+value: 0.039
+label: squash (4 inch dia)
+value: 0.121
+
+
+name: Serine
+unit: g
+value: 0.031
+label: cup, cubes
+value: 0.043
+label: squash (4 inch dia)
+value: 0.134
+
+

@@ -1,0 +1,650 @@
+ndbno: 05334
+
+
+name: Chicken, broiler, rotisserie, BBQ, thigh, meat only
+
+
+name: Water
+unit: g
+value: 64.35
+label: thigh
+value: 61.13
+
+
+name: Energy
+unit: kcal
+value: 193.0
+label: thigh
+value: 183.0
+
+
+name: Energy
+unit: kJ
+value: 808.0
+label: thigh
+value: 768.0
+
+
+name: Protein
+unit: g
+value: 24.09
+label: thigh
+value: 22.89
+
+
+name: Total lipid (fat)
+unit: g
+value: 10.74
+label: thigh
+value: 10.2
+
+
+name: Ash
+unit: g
+value: 1.4
+label: thigh
+value: 1.33
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 0.0
+label: thigh
+value: 0.0
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: thigh
+value: 0.0
+
+
+name: Sugars, total
+unit: g
+value: 0.0
+label: thigh
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 13.0
+label: thigh
+value: 12.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.97
+label: thigh
+value: 0.92
+
+
+name: Magnesium, Mg
+unit: mg
+value: 21.0
+label: thigh
+value: 20.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 216.0
+label: thigh
+value: 205.0
+
+
+name: Potassium, K
+unit: mg
+value: 262.0
+label: thigh
+value: 249.0
+
+
+name: Sodium, Na
+unit: mg
+value: 335.0
+label: thigh
+value: 318.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 2.0
+label: thigh
+value: 1.9
+
+
+name: Copper, Cu
+unit: mg
+value: 0.084
+label: thigh
+value: 0.08
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 23.1
+label: thigh
+value: 21.9
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: thigh
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.055
+label: thigh
+value: 0.052
+
+
+name: Riboflavin
+unit: mg
+value: 0.234
+label: thigh
+value: 0.222
+
+
+name: Niacin
+unit: mg
+value: 5.441
+label: thigh
+value: 5.169
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.176
+label: thigh
+value: 0.167
+
+
+name: Folate, total
+unit: \u00B5g
+value: 8.0
+label: thigh
+value: 8.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: thigh
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 8.0
+label: thigh
+value: 8.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 8.0
+label: thigh
+value: 8.0
+
+
+name: Choline, total
+unit: mg
+value: 68.0
+label: thigh
+value: 64.6
+
+
+name: Betaine
+unit: mg
+value: 10.7
+label: thigh
+value: 10.2
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.45
+label: thigh
+value: 0.43
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: thigh
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 13.0
+label: thigh
+value: 12.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 13.0
+label: thigh
+value: 12.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 0.0
+label: thigh
+value: 0.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: thigh
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: thigh
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 44.0
+label: thigh
+value: 42.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: thigh
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 0.0
+label: thigh
+value: 0.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.48
+label: thigh
+value: 0.46
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: thigh
+value: 0.0
+
+
+name: Tocopherol, beta
+unit: mg
+value: 0.01
+label: thigh
+value: 0.01
+
+
+name: Tocopherol, gamma
+unit: mg
+value: 0.14
+label: thigh
+value: 0.13
+
+
+name: Tocopherol, delta
+unit: mg
+value: 0.01
+label: thigh
+value: 0.01
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: thigh
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: thigh
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 0.0
+label: thigh
+value: 0.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 2.777
+label: thigh
+value: 2.638
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: thigh
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: thigh
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: thigh
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: thigh
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.001
+label: thigh
+value: 0.001
+
+
+name: 14:0
+unit: g
+value: 0.056
+label: thigh
+value: 0.053
+
+
+name: 16:0
+unit: g
+value: 2.219
+label: thigh
+value: 2.108
+
+
+name: 18:0
+unit: g
+value: 0.483
+label: thigh
+value: 0.459
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 4.727
+label: thigh
+value: 4.491
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.783
+label: thigh
+value: 0.744
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 3.902
+label: thigh
+value: 3.707
+
+
+name: 20:1
+unit: g
+value: 0.029
+label: thigh
+value: 0.028
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: thigh
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 1.621
+label: thigh
+value: 1.54
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 1.49
+label: thigh
+value: 1.416
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.089
+label: thigh
+value: 0.085
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: thigh
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.031
+label: thigh
+value: 0.029
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: thigh
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: thigh
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: thigh
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 128.0
+label: thigh
+value: 122.0
+
+
+name: Tryptophan
+unit: g
+value: 0.195
+label: thigh
+value: 0.185
+
+
+name: Threonine
+unit: g
+value: 0.74
+label: thigh
+value: 0.703
+
+
+name: Isoleucine
+unit: g
+value: 0.964
+label: thigh
+value: 0.916
+
+
+name: Leucine
+unit: g
+value: 1.736
+label: thigh
+value: 1.649
+
+
+name: Lysine
+unit: g
+value: 1.974
+label: thigh
+value: 1.875
+
+
+name: Methionine
+unit: g
+value: 0.611
+label: thigh
+value: 0.58
+
+
+name: Cystine
+unit: g
+value: 0.213
+label: thigh
+value: 0.202
+
+
+name: Phenylalanine
+unit: g
+value: 0.787
+label: thigh
+value: 0.748
+
+
+name: Tyrosine
+unit: g
+value: 0.658
+label: thigh
+value: 0.625
+
+
+name: Valine
+unit: g
+value: 1.05
+label: thigh
+value: 0.998
+
+
+name: Arginine
+unit: g
+value: 1.41
+label: thigh
+value: 1.34
+
+
+name: Histidine
+unit: g
+value: 0.629
+label: thigh
+value: 0.598
+
+
+name: Alanine
+unit: g
+value: 1.151
+label: thigh
+value: 1.093
+
+
+name: Aspartic acid
+unit: g
+value: 1.983
+label: thigh
+value: 1.884
+
+
+name: Glutamic acid
+unit: g
+value: 3.224
+label: thigh
+value: 3.063
+
+
+name: Glycine
+unit: g
+value: 0.973
+label: thigh
+value: 0.924
+
+
+name: Proline
+unit: g
+value: 1.101
+label: thigh
+value: 1.046
+
+
+name: Serine
+unit: g
+value: 0.962
+label: thigh
+value: 0.914
+
+
+name: Hydroxyproline
+unit: g
+value: 0.117
+label: thigh
+value: 0.111
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: thigh
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: thigh
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: thigh
+value: 0.0
+
+

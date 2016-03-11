@@ -1,0 +1,574 @@
+ndbno: 11003
+
+
+name: Amaranth leaves, raw
+
+
+name: Water
+unit: g
+value: 91.69
+label: cup
+value: 25.67
+label: leaf
+value: 12.84
+
+
+name: Energy
+unit: kcal
+value: 23.0
+label: cup
+value: 6.0
+label: leaf
+value: 3.0
+
+
+name: Energy
+unit: kJ
+value: 97.0
+label: cup
+value: 27.0
+label: leaf
+value: 14.0
+
+
+name: Protein
+unit: g
+value: 2.46
+label: cup
+value: 0.69
+label: leaf
+value: 0.34
+
+
+name: Total lipid (fat)
+unit: g
+value: 0.33
+label: cup
+value: 0.09
+label: leaf
+value: 0.05
+
+
+name: Ash
+unit: g
+value: 1.5
+label: cup
+value: 0.42
+label: leaf
+value: 0.21
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 4.02
+label: cup
+value: 1.13
+label: leaf
+value: 0.56
+
+
+name: Calcium, Ca
+unit: mg
+value: 215.0
+label: cup
+value: 60.0
+label: leaf
+value: 30.0
+
+
+name: Iron, Fe
+unit: mg
+value: 2.32
+label: cup
+value: 0.65
+label: leaf
+value: 0.32
+
+
+name: Magnesium, Mg
+unit: mg
+value: 55.0
+label: cup
+value: 15.0
+label: leaf
+value: 8.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 50.0
+label: cup
+value: 14.0
+label: leaf
+value: 7.0
+
+
+name: Potassium, K
+unit: mg
+value: 611.0
+label: cup
+value: 171.0
+label: leaf
+value: 86.0
+
+
+name: Sodium, Na
+unit: mg
+value: 20.0
+label: cup
+value: 6.0
+label: leaf
+value: 3.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.9
+label: cup
+value: 0.25
+label: leaf
+value: 0.13
+
+
+name: Copper, Cu
+unit: mg
+value: 0.162
+label: cup
+value: 0.045
+label: leaf
+value: 0.023
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.885
+label: cup
+value: 0.248
+label: leaf
+value: 0.124
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 0.9
+label: cup
+value: 0.3
+label: leaf
+value: 0.1
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 43.3
+label: cup
+value: 12.1
+label: leaf
+value: 6.1
+
+
+name: Thiamin
+unit: mg
+value: 0.027
+label: cup
+value: 0.008
+label: leaf
+value: 0.004
+
+
+name: Riboflavin
+unit: mg
+value: 0.158
+label: cup
+value: 0.044
+label: leaf
+value: 0.022
+
+
+name: Niacin
+unit: mg
+value: 0.658
+label: cup
+value: 0.184
+label: leaf
+value: 0.092
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.064
+label: cup
+value: 0.018
+label: leaf
+value: 0.009
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.192
+label: cup
+value: 0.054
+label: leaf
+value: 0.027
+
+
+name: Folate, total
+unit: \u00B5g
+value: 85.0
+label: cup
+value: 24.0
+label: leaf
+value: 12.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: leaf
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 85.0
+label: cup
+value: 24.0
+label: leaf
+value: 12.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 85.0
+label: cup
+value: 24.0
+label: leaf
+value: 12.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: leaf
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 146.0
+label: cup
+value: 41.0
+label: leaf
+value: 20.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: leaf
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 2917.0
+label: cup
+value: 817.0
+label: leaf
+value: 408.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: leaf
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: cup
+value: 0.0
+label: leaf
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 1140.0
+label: cup
+value: 319.2
+label: leaf
+value: 159.6
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.091
+label: cup
+value: 0.025
+label: leaf
+value: 0.013
+
+
+name: 14:0
+unit: g
+value: 0.001
+label: cup
+value: 0.0
+label: leaf
+value: 0.0
+
+
+name: 16:0
+unit: g
+value: 0.073
+label: cup
+value: 0.02
+label: leaf
+value: 0.01
+
+
+name: 18:0
+unit: g
+value: 0.012
+label: cup
+value: 0.003
+label: leaf
+value: 0.002
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.076
+label: cup
+value: 0.021
+label: leaf
+value: 0.011
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.076
+label: cup
+value: 0.021
+label: leaf
+value: 0.011
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.147
+label: cup
+value: 0.041
+label: leaf
+value: 0.021
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.145
+label: cup
+value: 0.041
+label: leaf
+value: 0.02
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.002
+label: cup
+value: 0.001
+label: leaf
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: leaf
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: leaf
+value: 0.0
+
+
+name: Tryptophan
+unit: g
+value: 0.031
+label: cup
+value: 0.009
+label: leaf
+value: 0.004
+
+
+name: Threonine
+unit: g
+value: 0.099
+label: cup
+value: 0.028
+label: leaf
+value: 0.014
+
+
+name: Isoleucine
+unit: g
+value: 0.119
+label: cup
+value: 0.033
+label: leaf
+value: 0.017
+
+
+name: Leucine
+unit: g
+value: 0.195
+label: cup
+value: 0.055
+label: leaf
+value: 0.027
+
+
+name: Lysine
+unit: g
+value: 0.127
+label: cup
+value: 0.036
+label: leaf
+value: 0.018
+
+
+name: Methionine
+unit: g
+value: 0.036
+label: cup
+value: 0.01
+label: leaf
+value: 0.005
+
+
+name: Cystine
+unit: g
+value: 0.029
+label: cup
+value: 0.008
+label: leaf
+value: 0.004
+
+
+name: Phenylalanine
+unit: g
+value: 0.133
+label: cup
+value: 0.037
+label: leaf
+value: 0.019
+
+
+name: Tyrosine
+unit: g
+value: 0.08
+label: cup
+value: 0.022
+label: leaf
+value: 0.011
+
+
+name: Valine
+unit: g
+value: 0.137
+label: cup
+value: 0.038
+label: leaf
+value: 0.019
+
+
+name: Arginine
+unit: g
+value: 0.121
+label: cup
+value: 0.034
+label: leaf
+value: 0.017
+
+
+name: Histidine
+unit: g
+value: 0.052
+label: cup
+value: 0.015
+label: leaf
+value: 0.007
+
+
+name: Alanine
+unit: g
+value: 0.139
+label: cup
+value: 0.039
+label: leaf
+value: 0.019
+
+
+name: Aspartic acid
+unit: g
+value: 0.229
+label: cup
+value: 0.064
+label: leaf
+value: 0.032
+
+
+name: Glutamic acid
+unit: g
+value: 0.292
+label: cup
+value: 0.082
+label: leaf
+value: 0.041
+
+
+name: Glycine
+unit: g
+value: 0.132
+label: cup
+value: 0.037
+label: leaf
+value: 0.018
+
+
+name: Proline
+unit: g
+value: 0.121
+label: cup
+value: 0.034
+label: leaf
+value: 0.017
+
+
+name: Serine
+unit: g
+value: 0.111
+label: cup
+value: 0.031
+label: leaf
+value: 0.016
+
+
+

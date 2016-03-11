@@ -1,0 +1,887 @@
+ndbno: 11933
+
+
+name: Beans, snap, yellow, canned, no salt added, drained solids
+
+
+name: Water
+unit: g
+value: 93.3
+label: cup
+value: 142.75
+label: beans
+value: 57.85
+label: can (303 x 406)
+value: 244.45
+
+
+name: Energy
+unit: kcal
+value: 20.0
+label: cup
+value: 31.0
+label: beans
+value: 12.0
+label: can (303 x 406)
+value: 52.0
+
+
+name: Energy
+unit: kJ
+value: 84.0
+label: cup
+value: 129.0
+label: beans
+value: 52.0
+label: can (303 x 406)
+value: 220.0
+
+
+name: Protein
+unit: g
+value: 1.15
+label: cup
+value: 1.76
+label: beans
+value: 0.71
+label: can (303 x 406)
+value: 3.01
+
+
+name: Total lipid (fat)
+unit: g
+value: 0.1
+label: cup
+value: 0.15
+label: beans
+value: 0.06
+label: can (303 x 406)
+value: 0.26
+
+
+name: Ash
+unit: g
+value: 0.95
+label: cup
+value: 1.45
+label: beans
+value: 0.59
+label: can (303 x 406)
+value: 2.49
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 4.5
+label: cup
+value: 6.88
+label: beans
+value: 2.79
+label: can (303 x 406)
+value: 11.79
+
+
+name: Fiber, total dietary
+unit: g
+value: 1.3
+label: cup
+value: 2.0
+label: beans
+value: 0.8
+label: can (303 x 406)
+value: 3.4
+
+
+name: Sugars, total
+unit: g
+value: 0.78
+label: cup
+value: 1.19
+label: beans
+value: 0.48
+label: can (303 x 406)
+value: 2.04
+
+
+name: Calcium, Ca
+unit: mg
+value: 26.0
+label: cup
+value: 40.0
+label: beans
+value: 16.0
+label: can (303 x 406)
+value: 68.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.9
+label: cup
+value: 1.38
+label: beans
+value: 0.56
+label: can (303 x 406)
+value: 2.36
+
+
+name: Magnesium, Mg
+unit: mg
+value: 13.0
+label: cup
+value: 20.0
+label: beans
+value: 8.0
+label: can (303 x 406)
+value: 34.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 19.0
+label: cup
+value: 29.0
+label: beans
+value: 12.0
+label: can (303 x 406)
+value: 50.0
+
+
+name: Potassium, K
+unit: mg
+value: 109.0
+label: cup
+value: 167.0
+label: beans
+value: 68.0
+label: can (303 x 406)
+value: 286.0
+
+
+name: Sodium, Na
+unit: mg
+value: 2.0
+label: cup
+value: 3.0
+label: beans
+value: 1.0
+label: can (303 x 406)
+value: 5.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.29
+label: cup
+value: 0.44
+label: beans
+value: 0.18
+label: can (303 x 406)
+value: 0.76
+
+
+name: Copper, Cu
+unit: mg
+value: 0.038
+label: cup
+value: 0.058
+label: beans
+value: 0.024
+label: can (303 x 406)
+value: 0.1
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.2
+label: cup
+value: 0.306
+label: beans
+value: 0.124
+label: can (303 x 406)
+value: 0.524
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 0.4
+label: cup
+value: 0.6
+label: beans
+value: 0.2
+label: can (303 x 406)
+value: 1.0
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 4.8
+label: cup
+value: 7.3
+label: beans
+value: 3.0
+label: can (303 x 406)
+value: 12.6
+
+
+name: Thiamin
+unit: mg
+value: 0.015
+label: cup
+value: 0.023
+label: beans
+value: 0.009
+label: can (303 x 406)
+value: 0.039
+
+
+name: Riboflavin
+unit: mg
+value: 0.056
+label: cup
+value: 0.086
+label: beans
+value: 0.035
+label: can (303 x 406)
+value: 0.147
+
+
+name: Niacin
+unit: mg
+value: 0.201
+label: cup
+value: 0.308
+label: beans
+value: 0.125
+label: can (303 x 406)
+value: 0.527
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.129
+label: cup
+value: 0.197
+label: beans
+value: 0.08
+label: can (303 x 406)
+value: 0.338
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.037
+label: cup
+value: 0.057
+label: beans
+value: 0.023
+label: can (303 x 406)
+value: 0.097
+
+
+name: Folate, total
+unit: \u00B5g
+value: 32.0
+label: cup
+value: 49.0
+label: beans
+value: 20.0
+label: can (303 x 406)
+value: 84.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: beans
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 32.0
+label: cup
+value: 49.0
+label: beans
+value: 20.0
+label: can (303 x 406)
+value: 84.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 32.0
+label: cup
+value: 49.0
+label: beans
+value: 20.0
+label: can (303 x 406)
+value: 84.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: beans
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: beans
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 18.0
+label: cup
+value: 28.0
+label: beans
+value: 11.0
+label: can (303 x 406)
+value: 47.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: beans
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 122.0
+label: cup
+value: 187.0
+label: beans
+value: 76.0
+label: can (303 x 406)
+value: 320.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 156.0
+label: cup
+value: 239.0
+label: beans
+value: 97.0
+label: can (303 x 406)
+value: 409.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 24.0
+label: cup
+value: 37.0
+label: beans
+value: 15.0
+label: can (303 x 406)
+value: 63.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 353.0
+label: cup
+value: 540.0
+label: beans
+value: 219.0
+label: can (303 x 406)
+value: 925.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: beans
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 452.0
+label: cup
+value: 692.0
+label: beans
+value: 280.0
+label: can (303 x 406)
+value: 1184.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.03
+label: cup
+value: 0.05
+label: beans
+value: 0.02
+label: can (303 x 406)
+value: 0.08
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: beans
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: beans
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: cup
+value: 0.0
+label: beans
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 38.9
+label: cup
+value: 59.5
+label: beans
+value: 24.1
+label: can (303 x 406)
+value: 101.9
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.022
+label: cup
+value: 0.034
+label: beans
+value: 0.014
+label: can (303 x 406)
+value: 0.058
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: beans
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: beans
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: beans
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: beans
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: beans
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: beans
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: 16:0
+unit: g
+value: 0.019
+label: cup
+value: 0.029
+label: beans
+value: 0.012
+label: can (303 x 406)
+value: 0.05
+
+
+name: 18:0
+unit: g
+value: 0.003
+label: cup
+value: 0.005
+label: beans
+value: 0.002
+label: can (303 x 406)
+value: 0.008
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.004
+label: cup
+value: 0.006
+label: beans
+value: 0.002
+label: can (303 x 406)
+value: 0.01
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: beans
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.004
+label: cup
+value: 0.006
+label: beans
+value: 0.002
+label: can (303 x 406)
+value: 0.01
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.051
+label: cup
+value: 0.078
+label: beans
+value: 0.032
+label: can (303 x 406)
+value: 0.134
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.019
+label: cup
+value: 0.029
+label: beans
+value: 0.012
+label: can (303 x 406)
+value: 0.05
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.031
+label: cup
+value: 0.047
+label: beans
+value: 0.019
+label: can (303 x 406)
+value: 0.081
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: beans
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: beans
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: Tryptophan
+unit: g
+value: 0.012
+label: cup
+value: 0.018
+label: beans
+value: 0.007
+label: can (303 x 406)
+value: 0.031
+
+
+name: Threonine
+unit: g
+value: 0.05
+label: cup
+value: 0.076
+label: beans
+value: 0.031
+label: can (303 x 406)
+value: 0.131
+
+
+name: Isoleucine
+unit: g
+value: 0.042
+label: cup
+value: 0.064
+label: beans
+value: 0.026
+label: can (303 x 406)
+value: 0.11
+
+
+name: Leucine
+unit: g
+value: 0.071
+label: cup
+value: 0.109
+label: beans
+value: 0.044
+label: can (303 x 406)
+value: 0.186
+
+
+name: Lysine
+unit: g
+value: 0.055
+label: cup
+value: 0.084
+label: beans
+value: 0.034
+label: can (303 x 406)
+value: 0.144
+
+
+name: Methionine
+unit: g
+value: 0.014
+label: cup
+value: 0.021
+label: beans
+value: 0.009
+label: can (303 x 406)
+value: 0.037
+
+
+name: Cystine
+unit: g
+value: 0.011
+label: cup
+value: 0.017
+label: beans
+value: 0.007
+label: can (303 x 406)
+value: 0.029
+
+
+name: Phenylalanine
+unit: g
+value: 0.042
+label: cup
+value: 0.064
+label: beans
+value: 0.026
+label: can (303 x 406)
+value: 0.11
+
+
+name: Tyrosine
+unit: g
+value: 0.027
+label: cup
+value: 0.041
+label: beans
+value: 0.017
+label: can (303 x 406)
+value: 0.071
+
+
+name: Valine
+unit: g
+value: 0.057
+label: cup
+value: 0.087
+label: beans
+value: 0.035
+label: can (303 x 406)
+value: 0.149
+
+
+name: Arginine
+unit: g
+value: 0.046
+label: cup
+value: 0.07
+label: beans
+value: 0.029
+label: can (303 x 406)
+value: 0.121
+
+
+name: Histidine
+unit: g
+value: 0.022
+label: cup
+value: 0.034
+label: beans
+value: 0.014
+label: can (303 x 406)
+value: 0.058
+
+
+name: Alanine
+unit: g
+value: 0.053
+label: cup
+value: 0.081
+label: beans
+value: 0.033
+label: can (303 x 406)
+value: 0.139
+
+
+name: Aspartic acid
+unit: g
+value: 0.161
+label: cup
+value: 0.246
+label: beans
+value: 0.1
+label: can (303 x 406)
+value: 0.422
+
+
+name: Glutamic acid
+unit: g
+value: 0.118
+label: cup
+value: 0.181
+label: beans
+value: 0.073
+label: can (303 x 406)
+value: 0.309
+
+
+name: Glycine
+unit: g
+value: 0.041
+label: cup
+value: 0.063
+label: beans
+value: 0.025
+label: can (303 x 406)
+value: 0.107
+
+
+name: Proline
+unit: g
+value: 0.043
+label: cup
+value: 0.066
+label: beans
+value: 0.027
+label: can (303 x 406)
+value: 0.113
+
+
+name: Serine
+unit: g
+value: 0.063
+label: cup
+value: 0.096
+label: beans
+value: 0.039
+label: can (303 x 406)
+value: 0.165
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: beans
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+

@@ -1,0 +1,414 @@
+ndbno: 18930
+
+
+name: USDA Commodity, Bakery, Flour Mix
+
+
+name: Water
+unit: g
+value: 10.62
+    
+
+
+name: Energy
+unit: kcal
+value: 400.0
+    
+
+
+name: Energy
+unit: kJ
+value: 1674.0
+    
+
+
+name: Protein
+unit: g
+value: 8.47
+    
+
+
+name: Total lipid (fat)
+unit: g
+value: 12.9
+    
+
+
+name: Ash
+unit: g
+value: 5.48
+    
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 62.53
+    
+
+
+name: Fiber, total dietary
+unit: g
+value: 7.1
+    
+
+
+name: Sucrose
+unit: g
+value: 0.86
+    
+
+
+name: Glucose (dextrose)
+unit: g
+value: 0.0
+    
+
+
+name: Fructose
+unit: g
+value: 0.0
+    
+
+
+name: Lactose
+unit: g
+value: 0.0
+    
+
+
+name: Maltose
+unit: g
+value: 0.0
+    
+
+
+name: Starch
+unit: g
+value: 58.0
+    
+
+
+name: Calcium, Ca
+unit: mg
+value: 187.0
+    
+
+
+name: Iron, Fe
+unit: mg
+value: 4.11
+    
+
+
+name: Magnesium, Mg
+unit: mg
+value: 20.0
+    
+
+
+name: Phosphorus, P
+unit: mg
+value: 630.0
+    
+
+
+name: Potassium, K
+unit: mg
+value: 124.0
+    
+
+
+name: Sodium, Na
+unit: mg
+value: 1410.0
+    
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.55
+    
+
+
+name: Copper, Cu
+unit: mg
+value: 0.103
+    
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.738
+    
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 6.6
+    
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+    
+
+
+name: Thiamin
+unit: mg
+value: 0.597
+    
+
+
+name: Riboflavin
+unit: mg
+value: 0.857
+    
+
+
+name: Niacin
+unit: mg
+value: 5.904
+    
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.383
+    
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.08
+    
+
+
+name: Folate, total
+unit: \u00B5g
+value: 183.0
+    
+
+
+name: Folic acid
+unit: \u00B5g
+value: 154.0
+    
+
+
+name: Folate, food
+unit: \u00B5g
+value: 29.0
+    
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 291.0
+    
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 0.0
+    
+
+
+name: Vitamin A, IU
+unit: IU
+value: 0.0
+    
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 7.9
+    
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 3.09
+    
+
+
+name: 8:0
+unit: g
+value: 0.0
+    
+
+
+name: 10:0
+unit: g
+value: 0.0
+    
+
+
+name: 12:0
+unit: g
+value: 0.0
+    
+
+
+name: 14:0
+unit: g
+value: 0.02
+    
+
+
+name: 15:0
+unit: g
+value: 0.0
+    
+
+
+name: 16:0
+unit: g
+value: 1.48
+    
+
+
+name: 17:0
+unit: g
+value: 0.01
+    
+
+
+name: 18:0
+unit: g
+value: 1.49
+    
+
+
+name: 20:0
+unit: g
+value: 0.04
+    
+
+
+name: 22:0
+unit: g
+value: 0.04
+    
+
+
+name: 24:0
+unit: g
+value: 0.01
+    
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 6.79
+    
+
+
+name: 14:1
+unit: g
+value: 0.0
+    
+
+
+name: 15:1
+unit: g
+value: 0.0
+    
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.01
+    
+
+
+name: 17:1
+unit: g
+value: 0.0
+    
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 6.75
+    
+
+
+name: 20:1
+unit: g
+value: 0.03
+    
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+    
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 1.96
+    
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 1.91
+    
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.05
+    
+
+
+name: 18:4
+unit: g
+value: 0.0
+    
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.0
+    
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.0
+    
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+    
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+    
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+    
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+    
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+    
+
+

@@ -1,0 +1,969 @@
+ndbno: 23568
+
+
+name: Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled
+
+
+name: Water
+unit: g
+value: 57.98
+label: oz
+value: 49.28
+label: patty (yield from 1/4 lb raw meat)
+value: 44.64
+
+
+name: Energy
+unit: kcal
+value: 250.0
+label: oz
+value: 212.0
+label: patty (yield from 1/4 lb raw meat)
+value: 192.0
+
+
+name: Energy
+unit: kJ
+value: 1045.0
+label: oz
+value: 888.0
+label: patty (yield from 1/4 lb raw meat)
+value: 805.0
+
+
+name: Protein
+unit: g
+value: 25.93
+label: oz
+value: 22.04
+label: patty (yield from 1/4 lb raw meat)
+value: 19.97
+
+
+name: Total lipid (fat)
+unit: g
+value: 15.41
+label: oz
+value: 13.1
+label: patty (yield from 1/4 lb raw meat)
+value: 11.87
+
+
+name: Ash
+unit: g
+value: 1.02
+label: oz
+value: 0.87
+label: patty (yield from 1/4 lb raw meat)
+value: 0.79
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: patty (yield from 1/4 lb raw meat)
+value: 0.0
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: patty (yield from 1/4 lb raw meat)
+value: 0.0
+
+
+name: Sugars, total
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: patty (yield from 1/4 lb raw meat)
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 18.0
+label: oz
+value: 15.0
+label: patty (yield from 1/4 lb raw meat)
+value: 14.0
+
+
+name: Iron, Fe
+unit: mg
+value: 2.6
+label: oz
+value: 2.21
+label: patty (yield from 1/4 lb raw meat)
+value: 2.0
+
+
+name: Magnesium, Mg
+unit: mg
+value: 21.0
+label: oz
+value: 18.0
+label: patty (yield from 1/4 lb raw meat)
+value: 16.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 198.0
+label: oz
+value: 168.0
+label: patty (yield from 1/4 lb raw meat)
+value: 152.0
+
+
+name: Potassium, K
+unit: mg
+value: 318.0
+label: oz
+value: 270.0
+label: patty (yield from 1/4 lb raw meat)
+value: 245.0
+
+
+name: Sodium, Na
+unit: mg
+value: 72.0
+label: oz
+value: 61.0
+label: patty (yield from 1/4 lb raw meat)
+value: 55.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 6.31
+label: oz
+value: 5.36
+label: patty (yield from 1/4 lb raw meat)
+value: 4.86
+
+
+name: Copper, Cu
+unit: mg
+value: 0.085
+label: oz
+value: 0.072
+label: patty (yield from 1/4 lb raw meat)
+value: 0.065
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.012
+label: oz
+value: 0.01
+label: patty (yield from 1/4 lb raw meat)
+value: 0.009
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 21.5
+label: oz
+value: 18.3
+label: patty (yield from 1/4 lb raw meat)
+value: 16.6
+
+
+name: Fluoride, F
+unit: \u00B5g
+value: 22.4
+label: oz
+value: 19.0
+label: patty (yield from 1/4 lb raw meat)
+value: 17.2
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: patty (yield from 1/4 lb raw meat)
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.046
+label: oz
+value: 0.039
+label: patty (yield from 1/4 lb raw meat)
+value: 0.035
+
+
+name: Riboflavin
+unit: mg
+value: 0.176
+label: oz
+value: 0.15
+label: patty (yield from 1/4 lb raw meat)
+value: 0.136
+
+
+name: Niacin
+unit: mg
+value: 5.378
+label: oz
+value: 4.571
+label: patty (yield from 1/4 lb raw meat)
+value: 4.141
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.658
+label: oz
+value: 0.559
+label: patty (yield from 1/4 lb raw meat)
+value: 0.507
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.382
+label: oz
+value: 0.325
+label: patty (yield from 1/4 lb raw meat)
+value: 0.294
+
+
+name: Folate, total
+unit: \u00B5g
+value: 9.0
+label: oz
+value: 8.0
+label: patty (yield from 1/4 lb raw meat)
+value: 7.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: patty (yield from 1/4 lb raw meat)
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 9.0
+label: oz
+value: 8.0
+label: patty (yield from 1/4 lb raw meat)
+value: 7.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 9.0
+label: oz
+value: 8.0
+label: patty (yield from 1/4 lb raw meat)
+value: 7.0
+
+
+name: Choline, total
+unit: mg
+value: 82.4
+label: oz
+value: 70.0
+label: patty (yield from 1/4 lb raw meat)
+value: 63.4
+
+
+name: Betaine
+unit: mg
+value: 8.5
+label: oz
+value: 7.2
+label: patty (yield from 1/4 lb raw meat)
+value: 6.5
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 2.64
+label: oz
+value: 2.24
+label: patty (yield from 1/4 lb raw meat)
+value: 2.03
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: patty (yield from 1/4 lb raw meat)
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 3.0
+label: oz
+value: 3.0
+label: patty (yield from 1/4 lb raw meat)
+value: 2.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 3.0
+label: oz
+value: 3.0
+label: patty (yield from 1/4 lb raw meat)
+value: 2.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: patty (yield from 1/4 lb raw meat)
+value: 0.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: patty (yield from 1/4 lb raw meat)
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: patty (yield from 1/4 lb raw meat)
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 9.0
+label: oz
+value: 8.0
+label: patty (yield from 1/4 lb raw meat)
+value: 7.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: patty (yield from 1/4 lb raw meat)
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: patty (yield from 1/4 lb raw meat)
+value: 0.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.12
+label: oz
+value: 0.1
+label: patty (yield from 1/4 lb raw meat)
+value: 0.09
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: patty (yield from 1/4 lb raw meat)
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: patty (yield from 1/4 lb raw meat)
+value: 0.0
+
+
+name: Vitamin D3 (cholecalciferol)
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: patty (yield from 1/4 lb raw meat)
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 2.0
+label: oz
+value: 2.0
+label: patty (yield from 1/4 lb raw meat)
+value: 2.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 1.2
+label: oz
+value: 1.0
+label: patty (yield from 1/4 lb raw meat)
+value: 0.9
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 5.895
+label: oz
+value: 5.011
+label: patty (yield from 1/4 lb raw meat)
+value: 4.539
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: patty (yield from 1/4 lb raw meat)
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: patty (yield from 1/4 lb raw meat)
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: patty (yield from 1/4 lb raw meat)
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: patty (yield from 1/4 lb raw meat)
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.011
+label: oz
+value: 0.009
+label: patty (yield from 1/4 lb raw meat)
+value: 0.008
+
+
+name: 14:0
+unit: g
+value: 0.428
+label: oz
+value: 0.364
+label: patty (yield from 1/4 lb raw meat)
+value: 0.33
+
+
+name: 15:0
+unit: g
+value: 0.071
+label: oz
+value: 0.06
+label: patty (yield from 1/4 lb raw meat)
+value: 0.055
+
+
+name: 16:0
+unit: g
+value: 3.278
+label: oz
+value: 2.786
+label: patty (yield from 1/4 lb raw meat)
+value: 2.524
+
+
+name: 17:0
+unit: g
+value: 0.164
+label: oz
+value: 0.139
+label: patty (yield from 1/4 lb raw meat)
+value: 0.126
+
+
+name: 18:0
+unit: g
+value: 1.93
+label: oz
+value: 1.64
+label: patty (yield from 1/4 lb raw meat)
+value: 1.486
+
+
+name: 20:0
+unit: g
+value: 0.013
+label: oz
+value: 0.011
+label: patty (yield from 1/4 lb raw meat)
+value: 0.01
+
+
+name: 22:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: patty (yield from 1/4 lb raw meat)
+value: 0.0
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 6.668
+label: oz
+value: 5.668
+label: patty (yield from 1/4 lb raw meat)
+value: 5.134
+
+
+name: 14:1
+unit: g
+value: 0.115
+label: oz
+value: 0.098
+label: patty (yield from 1/4 lb raw meat)
+value: 0.089
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: patty (yield from 1/4 lb raw meat)
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.544
+label: oz
+value: 0.462
+label: patty (yield from 1/4 lb raw meat)
+value: 0.419
+
+
+name: 17:1
+unit: g
+value: 0.136
+label: oz
+value: 0.116
+label: patty (yield from 1/4 lb raw meat)
+value: 0.105
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.572
+label: oz
+value: 0.486
+label: patty (yield from 1/4 lb raw meat)
+value: 0.44
+
+
+name: 18:1 t
+unit: g
+value: 0.572
+label: oz
+value: 0.486
+label: patty (yield from 1/4 lb raw meat)
+value: 0.44
+
+
+name: 20:1
+unit: g
+value: 0.045
+label: oz
+value: 0.038
+label: patty (yield from 1/4 lb raw meat)
+value: 0.035
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: patty (yield from 1/4 lb raw meat)
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.484
+label: oz
+value: 0.411
+label: patty (yield from 1/4 lb raw meat)
+value: 0.373
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.361
+label: oz
+value: 0.307
+label: patty (yield from 1/4 lb raw meat)
+value: 0.278
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.056
+label: oz
+value: 0.048
+label: patty (yield from 1/4 lb raw meat)
+value: 0.043
+
+
+name: 18:3 n-3 c,c,c (ALA)
+unit: g
+value: 0.044
+label: oz
+value: 0.037
+label: patty (yield from 1/4 lb raw meat)
+value: 0.034
+
+
+name: 18:3 n-6 c,c,c
+unit: g
+value: 0.012
+label: oz
+value: 0.01
+label: patty (yield from 1/4 lb raw meat)
+value: 0.009
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: patty (yield from 1/4 lb raw meat)
+value: 0.0
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: patty (yield from 1/4 lb raw meat)
+value: 0.0
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: patty (yield from 1/4 lb raw meat)
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.047
+label: oz
+value: 0.04
+label: patty (yield from 1/4 lb raw meat)
+value: 0.036
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.003
+label: oz
+value: 0.003
+label: patty (yield from 1/4 lb raw meat)
+value: 0.002
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.016
+label: oz
+value: 0.014
+label: patty (yield from 1/4 lb raw meat)
+value: 0.012
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.001
+label: oz
+value: 0.001
+label: patty (yield from 1/4 lb raw meat)
+value: 0.001
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.572
+label: oz
+value: 0.486
+label: patty (yield from 1/4 lb raw meat)
+value: 0.44
+
+
+name: Fatty acids, total trans-monoenoic
+unit: g
+value: 0.572
+label: oz
+value: 0.486
+label: patty (yield from 1/4 lb raw meat)
+value: 0.44
+
+
+name: Cholesterol
+unit: mg
+value: 88.0
+label: oz
+value: 75.0
+label: patty (yield from 1/4 lb raw meat)
+value: 68.0
+
+
+name: Tryptophan
+unit: g
+value: 0.094
+label: oz
+value: 0.08
+label: patty (yield from 1/4 lb raw meat)
+value: 0.072
+
+
+name: Threonine
+unit: g
+value: 0.72
+label: oz
+value: 0.612
+label: patty (yield from 1/4 lb raw meat)
+value: 0.554
+
+
+name: Isoleucine
+unit: g
+value: 0.822
+label: oz
+value: 0.699
+label: patty (yield from 1/4 lb raw meat)
+value: 0.633
+
+
+name: Leucine
+unit: g
+value: 1.45
+label: oz
+value: 1.232
+label: patty (yield from 1/4 lb raw meat)
+value: 1.116
+
+
+name: Lysine
+unit: g
+value: 1.54
+label: oz
+value: 1.309
+label: patty (yield from 1/4 lb raw meat)
+value: 1.186
+
+
+name: Methionine
+unit: g
+value: 0.478
+label: oz
+value: 0.406
+label: patty (yield from 1/4 lb raw meat)
+value: 0.368
+
+
+name: Cystine
+unit: g
+value: 0.191
+label: oz
+value: 0.162
+label: patty (yield from 1/4 lb raw meat)
+value: 0.147
+
+
+name: Phenylalanine
+unit: g
+value: 0.725
+label: oz
+value: 0.616
+label: patty (yield from 1/4 lb raw meat)
+value: 0.558
+
+
+name: Tyrosine
+unit: g
+value: 0.572
+label: oz
+value: 0.486
+label: patty (yield from 1/4 lb raw meat)
+value: 0.44
+
+
+name: Valine
+unit: g
+value: 0.914
+label: oz
+value: 0.777
+label: patty (yield from 1/4 lb raw meat)
+value: 0.704
+
+
+name: Arginine
+unit: g
+value: 1.21
+label: oz
+value: 1.028
+label: patty (yield from 1/4 lb raw meat)
+value: 0.932
+
+
+name: Histidine
+unit: g
+value: 0.604
+label: oz
+value: 0.513
+label: patty (yield from 1/4 lb raw meat)
+value: 0.465
+
+
+name: Alanine
+unit: g
+value: 1.165
+label: oz
+value: 0.99
+label: patty (yield from 1/4 lb raw meat)
+value: 0.897
+
+
+name: Aspartic acid
+unit: g
+value: 1.674
+label: oz
+value: 1.423
+label: patty (yield from 1/4 lb raw meat)
+value: 1.289
+
+
+name: Glutamic acid
+unit: g
+value: 2.788
+label: oz
+value: 2.37
+label: patty (yield from 1/4 lb raw meat)
+value: 2.147
+
+
+name: Glycine
+unit: g
+value: 1.262
+label: oz
+value: 1.073
+label: patty (yield from 1/4 lb raw meat)
+value: 0.972
+
+
+name: Proline
+unit: g
+value: 0.948
+label: oz
+value: 0.806
+label: patty (yield from 1/4 lb raw meat)
+value: 0.73
+
+
+name: Serine
+unit: g
+value: 0.744
+label: oz
+value: 0.632
+label: patty (yield from 1/4 lb raw meat)
+value: 0.573
+
+
+name: Hydroxyproline
+unit: g
+value: 0.376
+label: oz
+value: 0.32
+label: patty (yield from 1/4 lb raw meat)
+value: 0.29
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: patty (yield from 1/4 lb raw meat)
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: patty (yield from 1/4 lb raw meat)
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: patty (yield from 1/4 lb raw meat)
+value: 0.0
+
+

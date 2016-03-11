@@ -1,0 +1,1449 @@
+ndbno: 09200
+
+
+name: Oranges, raw, all commercial varieties
+
+
+name: Water
+unit: g
+value: 86.75
+label: cup, sections
+value: 156.15
+label: large (3-1/16\ dia)
+value: 159.62
+label: small (2-3/8\ dia)
+value: 83.28
+label: fruit (2-5/8\ dia)
+value: 113.64
+
+
+name: Energy
+unit: kcal
+value: 47.0
+label: cup, sections
+value: 85.0
+label: large (3-1/16\ dia)
+value: 86.0
+label: small (2-3/8\ dia)
+value: 45.0
+label: fruit (2-5/8\ dia)
+value: 62.0
+
+
+name: Energy
+unit: kJ
+value: 197.0
+label: cup, sections
+value: 355.0
+label: large (3-1/16\ dia)
+value: 362.0
+label: small (2-3/8\ dia)
+value: 189.0
+label: fruit (2-5/8\ dia)
+value: 258.0
+
+
+name: Protein
+unit: g
+value: 0.94
+label: cup, sections
+value: 1.69
+label: large (3-1/16\ dia)
+value: 1.73
+label: small (2-3/8\ dia)
+value: 0.9
+label: fruit (2-5/8\ dia)
+value: 1.23
+
+
+name: Total lipid (fat)
+unit: g
+value: 0.12
+label: cup, sections
+value: 0.22
+label: large (3-1/16\ dia)
+value: 0.22
+label: small (2-3/8\ dia)
+value: 0.12
+label: fruit (2-5/8\ dia)
+value: 0.16
+
+
+name: Ash
+unit: g
+value: 0.44
+label: cup, sections
+value: 0.79
+label: large (3-1/16\ dia)
+value: 0.81
+label: small (2-3/8\ dia)
+value: 0.42
+label: fruit (2-5/8\ dia)
+value: 0.58
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 11.75
+label: cup, sections
+value: 21.15
+label: large (3-1/16\ dia)
+value: 21.62
+label: small (2-3/8\ dia)
+value: 11.28
+label: fruit (2-5/8\ dia)
+value: 15.39
+
+
+name: Fiber, total dietary
+unit: g
+value: 2.4
+label: cup, sections
+value: 4.3
+label: large (3-1/16\ dia)
+value: 4.4
+label: small (2-3/8\ dia)
+value: 2.3
+label: fruit (2-5/8\ dia)
+value: 3.1
+
+
+name: Sugars, total
+unit: g
+value: 9.35
+label: cup, sections
+value: 16.83
+label: large (3-1/16\ dia)
+value: 17.2
+label: small (2-3/8\ dia)
+value: 8.98
+label: fruit (2-5/8\ dia)
+value: 12.25
+
+
+name: Calcium, Ca
+unit: mg
+value: 40.0
+label: cup, sections
+value: 72.0
+label: large (3-1/16\ dia)
+value: 74.0
+label: small (2-3/8\ dia)
+value: 38.0
+label: fruit (2-5/8\ dia)
+value: 52.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.1
+label: cup, sections
+value: 0.18
+label: large (3-1/16\ dia)
+value: 0.18
+label: small (2-3/8\ dia)
+value: 0.1
+label: fruit (2-5/8\ dia)
+value: 0.13
+
+
+name: Magnesium, Mg
+unit: mg
+value: 10.0
+label: cup, sections
+value: 18.0
+label: large (3-1/16\ dia)
+value: 18.0
+label: small (2-3/8\ dia)
+value: 10.0
+label: fruit (2-5/8\ dia)
+value: 13.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 14.0
+label: cup, sections
+value: 25.0
+label: large (3-1/16\ dia)
+value: 26.0
+label: small (2-3/8\ dia)
+value: 13.0
+label: fruit (2-5/8\ dia)
+value: 18.0
+
+
+name: Potassium, K
+unit: mg
+value: 181.0
+label: cup, sections
+value: 326.0
+label: large (3-1/16\ dia)
+value: 333.0
+label: small (2-3/8\ dia)
+value: 174.0
+label: fruit (2-5/8\ dia)
+value: 237.0
+
+
+name: Sodium, Na
+unit: mg
+value: 0.0
+label: cup, sections
+value: 0.0
+label: large (3-1/16\ dia)
+value: 0.0
+label: small (2-3/8\ dia)
+value: 0.0
+label: fruit (2-5/8\ dia)
+value: 0.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.07
+label: cup, sections
+value: 0.13
+label: large (3-1/16\ dia)
+value: 0.13
+label: small (2-3/8\ dia)
+value: 0.07
+label: fruit (2-5/8\ dia)
+value: 0.09
+
+
+name: Copper, Cu
+unit: mg
+value: 0.045
+label: cup, sections
+value: 0.081
+label: large (3-1/16\ dia)
+value: 0.083
+label: small (2-3/8\ dia)
+value: 0.043
+label: fruit (2-5/8\ dia)
+value: 0.059
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.025
+label: cup, sections
+value: 0.045
+label: large (3-1/16\ dia)
+value: 0.046
+label: small (2-3/8\ dia)
+value: 0.024
+label: fruit (2-5/8\ dia)
+value: 0.033
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 0.5
+label: cup, sections
+value: 0.9
+label: large (3-1/16\ dia)
+value: 0.9
+label: small (2-3/8\ dia)
+value: 0.5
+label: fruit (2-5/8\ dia)
+value: 0.7
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 53.2
+label: cup, sections
+value: 95.8
+label: large (3-1/16\ dia)
+value: 97.9
+label: small (2-3/8\ dia)
+value: 51.1
+label: fruit (2-5/8\ dia)
+value: 69.7
+
+
+name: Thiamin
+unit: mg
+value: 0.087
+label: cup, sections
+value: 0.157
+label: large (3-1/16\ dia)
+value: 0.16
+label: small (2-3/8\ dia)
+value: 0.084
+label: fruit (2-5/8\ dia)
+value: 0.114
+
+
+name: Riboflavin
+unit: mg
+value: 0.04
+label: cup, sections
+value: 0.072
+label: large (3-1/16\ dia)
+value: 0.074
+label: small (2-3/8\ dia)
+value: 0.038
+label: fruit (2-5/8\ dia)
+value: 0.052
+
+
+name: Niacin
+unit: mg
+value: 0.282
+label: cup, sections
+value: 0.508
+label: large (3-1/16\ dia)
+value: 0.519
+label: small (2-3/8\ dia)
+value: 0.271
+label: fruit (2-5/8\ dia)
+value: 0.369
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.25
+label: cup, sections
+value: 0.45
+label: large (3-1/16\ dia)
+value: 0.46
+label: small (2-3/8\ dia)
+value: 0.24
+label: fruit (2-5/8\ dia)
+value: 0.328
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.06
+label: cup, sections
+value: 0.108
+label: large (3-1/16\ dia)
+value: 0.11
+label: small (2-3/8\ dia)
+value: 0.058
+label: fruit (2-5/8\ dia)
+value: 0.079
+
+
+name: Folate, total
+unit: \u00B5g
+value: 30.0
+label: cup, sections
+value: 54.0
+label: large (3-1/16\ dia)
+value: 55.0
+label: small (2-3/8\ dia)
+value: 29.0
+label: fruit (2-5/8\ dia)
+value: 39.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: cup, sections
+value: 0.0
+label: large (3-1/16\ dia)
+value: 0.0
+label: small (2-3/8\ dia)
+value: 0.0
+label: fruit (2-5/8\ dia)
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 30.0
+label: cup, sections
+value: 54.0
+label: large (3-1/16\ dia)
+value: 55.0
+label: small (2-3/8\ dia)
+value: 29.0
+label: fruit (2-5/8\ dia)
+value: 39.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 30.0
+label: cup, sections
+value: 54.0
+label: large (3-1/16\ dia)
+value: 55.0
+label: small (2-3/8\ dia)
+value: 29.0
+label: fruit (2-5/8\ dia)
+value: 39.0
+
+
+name: Choline, total
+unit: mg
+value: 8.4
+label: cup, sections
+value: 15.1
+label: large (3-1/16\ dia)
+value: 15.5
+label: small (2-3/8\ dia)
+value: 8.1
+label: fruit (2-5/8\ dia)
+value: 11.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: cup, sections
+value: 0.0
+label: large (3-1/16\ dia)
+value: 0.0
+label: small (2-3/8\ dia)
+value: 0.0
+label: fruit (2-5/8\ dia)
+value: 0.0
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: cup, sections
+value: 0.0
+label: large (3-1/16\ dia)
+value: 0.0
+label: small (2-3/8\ dia)
+value: 0.0
+label: fruit (2-5/8\ dia)
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 11.0
+label: cup, sections
+value: 20.0
+label: large (3-1/16\ dia)
+value: 20.0
+label: small (2-3/8\ dia)
+value: 11.0
+label: fruit (2-5/8\ dia)
+value: 14.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: cup, sections
+value: 0.0
+label: large (3-1/16\ dia)
+value: 0.0
+label: small (2-3/8\ dia)
+value: 0.0
+label: fruit (2-5/8\ dia)
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 71.0
+label: cup, sections
+value: 128.0
+label: large (3-1/16\ dia)
+value: 131.0
+label: small (2-3/8\ dia)
+value: 68.0
+label: fruit (2-5/8\ dia)
+value: 93.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 11.0
+label: cup, sections
+value: 20.0
+label: large (3-1/16\ dia)
+value: 20.0
+label: small (2-3/8\ dia)
+value: 11.0
+label: fruit (2-5/8\ dia)
+value: 14.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 116.0
+label: cup, sections
+value: 209.0
+label: large (3-1/16\ dia)
+value: 213.0
+label: small (2-3/8\ dia)
+value: 111.0
+label: fruit (2-5/8\ dia)
+value: 152.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 225.0
+label: cup, sections
+value: 405.0
+label: large (3-1/16\ dia)
+value: 414.0
+label: small (2-3/8\ dia)
+value: 216.0
+label: fruit (2-5/8\ dia)
+value: 295.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: cup, sections
+value: 0.0
+label: large (3-1/16\ dia)
+value: 0.0
+label: small (2-3/8\ dia)
+value: 0.0
+label: fruit (2-5/8\ dia)
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 129.0
+label: cup, sections
+value: 232.0
+label: large (3-1/16\ dia)
+value: 237.0
+label: small (2-3/8\ dia)
+value: 124.0
+label: fruit (2-5/8\ dia)
+value: 169.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.18
+label: cup, sections
+value: 0.32
+label: large (3-1/16\ dia)
+value: 0.33
+label: small (2-3/8\ dia)
+value: 0.17
+label: fruit (2-5/8\ dia)
+value: 0.24
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: cup, sections
+value: 0.0
+label: large (3-1/16\ dia)
+value: 0.0
+label: small (2-3/8\ dia)
+value: 0.0
+label: fruit (2-5/8\ dia)
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: cup, sections
+value: 0.0
+label: large (3-1/16\ dia)
+value: 0.0
+label: small (2-3/8\ dia)
+value: 0.0
+label: fruit (2-5/8\ dia)
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: cup, sections
+value: 0.0
+label: large (3-1/16\ dia)
+value: 0.0
+label: small (2-3/8\ dia)
+value: 0.0
+label: fruit (2-5/8\ dia)
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 0.0
+label: cup, sections
+value: 0.0
+label: large (3-1/16\ dia)
+value: 0.0
+label: small (2-3/8\ dia)
+value: 0.0
+label: fruit (2-5/8\ dia)
+value: 0.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.015
+label: cup, sections
+value: 0.027
+label: large (3-1/16\ dia)
+value: 0.028
+label: small (2-3/8\ dia)
+value: 0.014
+label: fruit (2-5/8\ dia)
+value: 0.02
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: cup, sections
+value: 0.0
+label: large (3-1/16\ dia)
+value: 0.0
+label: small (2-3/8\ dia)
+value: 0.0
+label: fruit (2-5/8\ dia)
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: cup, sections
+value: 0.0
+label: large (3-1/16\ dia)
+value: 0.0
+label: small (2-3/8\ dia)
+value: 0.0
+label: fruit (2-5/8\ dia)
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: cup, sections
+value: 0.0
+label: large (3-1/16\ dia)
+value: 0.0
+label: small (2-3/8\ dia)
+value: 0.0
+label: fruit (2-5/8\ dia)
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: cup, sections
+value: 0.0
+label: large (3-1/16\ dia)
+value: 0.0
+label: small (2-3/8\ dia)
+value: 0.0
+label: fruit (2-5/8\ dia)
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: cup, sections
+value: 0.0
+label: large (3-1/16\ dia)
+value: 0.0
+label: small (2-3/8\ dia)
+value: 0.0
+label: fruit (2-5/8\ dia)
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.0
+label: cup, sections
+value: 0.0
+label: large (3-1/16\ dia)
+value: 0.0
+label: small (2-3/8\ dia)
+value: 0.0
+label: fruit (2-5/8\ dia)
+value: 0.0
+
+
+name: 16:0
+unit: g
+value: 0.013
+label: cup, sections
+value: 0.023
+label: large (3-1/16\ dia)
+value: 0.024
+label: small (2-3/8\ dia)
+value: 0.012
+label: fruit (2-5/8\ dia)
+value: 0.017
+
+
+name: 18:0
+unit: g
+value: 0.0
+label: cup, sections
+value: 0.0
+label: large (3-1/16\ dia)
+value: 0.0
+label: small (2-3/8\ dia)
+value: 0.0
+label: fruit (2-5/8\ dia)
+value: 0.0
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.023
+label: cup, sections
+value: 0.041
+label: large (3-1/16\ dia)
+value: 0.042
+label: small (2-3/8\ dia)
+value: 0.022
+label: fruit (2-5/8\ dia)
+value: 0.03
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.003
+label: cup, sections
+value: 0.005
+label: large (3-1/16\ dia)
+value: 0.006
+label: small (2-3/8\ dia)
+value: 0.003
+label: fruit (2-5/8\ dia)
+value: 0.004
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.02
+label: cup, sections
+value: 0.036
+label: large (3-1/16\ dia)
+value: 0.037
+label: small (2-3/8\ dia)
+value: 0.019
+label: fruit (2-5/8\ dia)
+value: 0.026
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: cup, sections
+value: 0.0
+label: large (3-1/16\ dia)
+value: 0.0
+label: small (2-3/8\ dia)
+value: 0.0
+label: fruit (2-5/8\ dia)
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: cup, sections
+value: 0.0
+label: large (3-1/16\ dia)
+value: 0.0
+label: small (2-3/8\ dia)
+value: 0.0
+label: fruit (2-5/8\ dia)
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.025
+label: cup, sections
+value: 0.045
+label: large (3-1/16\ dia)
+value: 0.046
+label: small (2-3/8\ dia)
+value: 0.024
+label: fruit (2-5/8\ dia)
+value: 0.033
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.018
+label: cup, sections
+value: 0.032
+label: large (3-1/16\ dia)
+value: 0.033
+label: small (2-3/8\ dia)
+value: 0.017
+label: fruit (2-5/8\ dia)
+value: 0.024
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.007
+label: cup, sections
+value: 0.013
+label: large (3-1/16\ dia)
+value: 0.013
+label: small (2-3/8\ dia)
+value: 0.007
+label: fruit (2-5/8\ dia)
+value: 0.009
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: cup, sections
+value: 0.0
+label: large (3-1/16\ dia)
+value: 0.0
+label: small (2-3/8\ dia)
+value: 0.0
+label: fruit (2-5/8\ dia)
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: cup, sections
+value: 0.0
+label: large (3-1/16\ dia)
+value: 0.0
+label: small (2-3/8\ dia)
+value: 0.0
+label: fruit (2-5/8\ dia)
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: cup, sections
+value: 0.0
+label: large (3-1/16\ dia)
+value: 0.0
+label: small (2-3/8\ dia)
+value: 0.0
+label: fruit (2-5/8\ dia)
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: cup, sections
+value: 0.0
+label: large (3-1/16\ dia)
+value: 0.0
+label: small (2-3/8\ dia)
+value: 0.0
+label: fruit (2-5/8\ dia)
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: cup, sections
+value: 0.0
+label: large (3-1/16\ dia)
+value: 0.0
+label: small (2-3/8\ dia)
+value: 0.0
+label: fruit (2-5/8\ dia)
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.0
+label: cup, sections
+value: 0.0
+label: large (3-1/16\ dia)
+value: 0.0
+label: small (2-3/8\ dia)
+value: 0.0
+label: fruit (2-5/8\ dia)
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: cup, sections
+value: 0.0
+label: large (3-1/16\ dia)
+value: 0.0
+label: small (2-3/8\ dia)
+value: 0.0
+label: fruit (2-5/8\ dia)
+value: 0.0
+
+
+name: Tryptophan
+unit: g
+value: 0.009
+label: cup, sections
+value: 0.016
+label: large (3-1/16\ dia)
+value: 0.017
+label: small (2-3/8\ dia)
+value: 0.009
+label: fruit (2-5/8\ dia)
+value: 0.012
+
+
+name: Threonine
+unit: g
+value: 0.015
+label: cup, sections
+value: 0.027
+label: large (3-1/16\ dia)
+value: 0.028
+label: small (2-3/8\ dia)
+value: 0.014
+label: fruit (2-5/8\ dia)
+value: 0.02
+
+
+name: Isoleucine
+unit: g
+value: 0.025
+label: cup, sections
+value: 0.045
+label: large (3-1/16\ dia)
+value: 0.046
+label: small (2-3/8\ dia)
+value: 0.024
+label: fruit (2-5/8\ dia)
+value: 0.033
+
+
+name: Leucine
+unit: g
+value: 0.023
+label: cup, sections
+value: 0.041
+label: large (3-1/16\ dia)
+value: 0.042
+label: small (2-3/8\ dia)
+value: 0.022
+label: fruit (2-5/8\ dia)
+value: 0.03
+
+
+name: Lysine
+unit: g
+value: 0.047
+label: cup, sections
+value: 0.085
+label: large (3-1/16\ dia)
+value: 0.086
+label: small (2-3/8\ dia)
+value: 0.045
+label: fruit (2-5/8\ dia)
+value: 0.062
+
+
+name: Methionine
+unit: g
+value: 0.02
+label: cup, sections
+value: 0.036
+label: large (3-1/16\ dia)
+value: 0.037
+label: small (2-3/8\ dia)
+value: 0.019
+label: fruit (2-5/8\ dia)
+value: 0.026
+
+
+name: Cystine
+unit: g
+value: 0.01
+label: cup, sections
+value: 0.018
+label: large (3-1/16\ dia)
+value: 0.018
+label: small (2-3/8\ dia)
+value: 0.01
+label: fruit (2-5/8\ dia)
+value: 0.013
+
+
+name: Phenylalanine
+unit: g
+value: 0.031
+label: cup, sections
+value: 0.056
+label: large (3-1/16\ dia)
+value: 0.057
+label: small (2-3/8\ dia)
+value: 0.03
+label: fruit (2-5/8\ dia)
+value: 0.041
+
+
+name: Tyrosine
+unit: g
+value: 0.016
+label: cup, sections
+value: 0.029
+label: large (3-1/16\ dia)
+value: 0.029
+label: small (2-3/8\ dia)
+value: 0.015
+label: fruit (2-5/8\ dia)
+value: 0.021
+
+
+name: Valine
+unit: g
+value: 0.04
+label: cup, sections
+value: 0.072
+label: large (3-1/16\ dia)
+value: 0.074
+label: small (2-3/8\ dia)
+value: 0.038
+label: fruit (2-5/8\ dia)
+value: 0.052
+
+
+name: Arginine
+unit: g
+value: 0.065
+label: cup, sections
+value: 0.117
+label: large (3-1/16\ dia)
+value: 0.12
+label: small (2-3/8\ dia)
+value: 0.062
+label: fruit (2-5/8\ dia)
+value: 0.085
+
+
+name: Histidine
+unit: g
+value: 0.018
+label: cup, sections
+value: 0.032
+label: large (3-1/16\ dia)
+value: 0.033
+label: small (2-3/8\ dia)
+value: 0.017
+label: fruit (2-5/8\ dia)
+value: 0.024
+
+
+name: Alanine
+unit: g
+value: 0.05
+label: cup, sections
+value: 0.09
+label: large (3-1/16\ dia)
+value: 0.092
+label: small (2-3/8\ dia)
+value: 0.048
+label: fruit (2-5/8\ dia)
+value: 0.066
+
+
+name: Aspartic acid
+unit: g
+value: 0.114
+label: cup, sections
+value: 0.205
+label: large (3-1/16\ dia)
+value: 0.21
+label: small (2-3/8\ dia)
+value: 0.109
+label: fruit (2-5/8\ dia)
+value: 0.149
+
+
+name: Glutamic acid
+unit: g
+value: 0.094
+label: cup, sections
+value: 0.169
+label: large (3-1/16\ dia)
+value: 0.173
+label: small (2-3/8\ dia)
+value: 0.09
+label: fruit (2-5/8\ dia)
+value: 0.123
+
+
+name: Glycine
+unit: g
+value: 0.094
+label: cup, sections
+value: 0.169
+label: large (3-1/16\ dia)
+value: 0.173
+label: small (2-3/8\ dia)
+value: 0.09
+label: fruit (2-5/8\ dia)
+value: 0.123
+
+
+name: Proline
+unit: g
+value: 0.046
+label: cup, sections
+value: 0.083
+label: large (3-1/16\ dia)
+value: 0.085
+label: small (2-3/8\ dia)
+value: 0.044
+label: fruit (2-5/8\ dia)
+value: 0.06
+
+
+name: Serine
+unit: g
+value: 0.032
+label: cup, sections
+value: 0.058
+label: large (3-1/16\ dia)
+value: 0.059
+label: small (2-3/8\ dia)
+value: 0.031
+label: fruit (2-5/8\ dia)
+value: 0.042
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: cup, sections
+value: 0.0
+label: large (3-1/16\ dia)
+value: 0.0
+label: small (2-3/8\ dia)
+value: 0.0
+label: fruit (2-5/8\ dia)
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: cup, sections
+value: 0.0
+label: large (3-1/16\ dia)
+value: 0.0
+label: small (2-3/8\ dia)
+value: 0.0
+label: fruit (2-5/8\ dia)
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: cup, sections
+value: 0.0
+label: large (3-1/16\ dia)
+value: 0.0
+label: small (2-3/8\ dia)
+value: 0.0
+label: fruit (2-5/8\ dia)
+value: 0.0
+
+
+name: (+)-Catechin
+unit: mg
+value: 0.0
+label: cup, sections
+value: 0.0
+label: large (3-1/16\ dia)
+value: 0.0
+label: small (2-3/8\ dia)
+value: 0.0
+label: fruit (2-5/8\ dia)
+value: 0.0
+
+
+name: (-)-Epigallocatechin
+unit: mg
+value: 0.0
+label: cup, sections
+value: 0.0
+label: large (3-1/16\ dia)
+value: 0.0
+label: small (2-3/8\ dia)
+value: 0.0
+label: fruit (2-5/8\ dia)
+value: 0.0
+
+
+name: (-)-Epicatechin
+unit: mg
+value: 0.0
+label: cup, sections
+value: 0.0
+label: large (3-1/16\ dia)
+value: 0.0
+label: small (2-3/8\ dia)
+value: 0.0
+label: fruit (2-5/8\ dia)
+value: 0.0
+
+
+name: (-)-Epicatechin 3-gallate
+unit: mg
+value: 0.0
+label: cup, sections
+value: 0.0
+label: large (3-1/16\ dia)
+value: 0.0
+label: small (2-3/8\ dia)
+value: 0.0
+label: fruit (2-5/8\ dia)
+value: 0.0
+
+
+name: (-)-Epigallocatechin 3-gallate
+unit: mg
+value: 0.0
+label: cup, sections
+value: 0.0
+label: large (3-1/16\ dia)
+value: 0.0
+label: small (2-3/8\ dia)
+value: 0.0
+label: fruit (2-5/8\ dia)
+value: 0.0
+
+
+name: (+)-Gallocatechin
+unit: mg
+value: 0.0
+label: cup, sections
+value: 0.0
+label: large (3-1/16\ dia)
+value: 0.0
+label: small (2-3/8\ dia)
+value: 0.0
+label: fruit (2-5/8\ dia)
+value: 0.0
+
+
+name: Hesperetin
+unit: mg
+value: 27.2
+label: cup, sections
+value: 49.0
+label: large (3-1/16\ dia)
+value: 50.1
+label: small (2-3/8\ dia)
+value: 26.2
+label: fruit (2-5/8\ dia)
+value: 35.7
+
+
+name: Naringenin
+unit: mg
+value: 15.3
+label: cup, sections
+value: 27.6
+label: large (3-1/16\ dia)
+value: 28.2
+label: small (2-3/8\ dia)
+value: 14.7
+label: fruit (2-5/8\ dia)
+value: 20.1
+
+
+name: Apigenin
+unit: mg
+value: 0.0
+label: cup, sections
+value: 0.0
+label: large (3-1/16\ dia)
+value: 0.0
+label: small (2-3/8\ dia)
+value: 0.0
+label: fruit (2-5/8\ dia)
+value: 0.0
+
+
+name: Luteolin
+unit: mg
+value: 0.2
+label: cup, sections
+value: 0.3
+label: large (3-1/16\ dia)
+value: 0.3
+label: small (2-3/8\ dia)
+value: 0.2
+label: fruit (2-5/8\ dia)
+value: 0.2
+
+
+name: Kaempferol
+unit: mg
+value: 0.1
+label: cup, sections
+value: 0.2
+label: large (3-1/16\ dia)
+value: 0.2
+label: small (2-3/8\ dia)
+value: 0.1
+label: fruit (2-5/8\ dia)
+value: 0.2
+
+
+name: Myricetin
+unit: mg
+value: 0.2
+label: cup, sections
+value: 0.3
+label: large (3-1/16\ dia)
+value: 0.3
+label: small (2-3/8\ dia)
+value: 0.1
+label: fruit (2-5/8\ dia)
+value: 0.2
+
+
+name: Quercetin
+unit: mg
+value: 0.4
+label: cup, sections
+value: 0.8
+label: large (3-1/16\ dia)
+value: 0.8
+label: small (2-3/8\ dia)
+value: 0.4
+label: fruit (2-5/8\ dia)
+value: 0.6
+
+
+name: Daidzein
+unit: mg
+value: 0.0
+label: cup, sections
+value: 0.0
+label: large (3-1/16\ dia)
+value: 0.0
+label: small (2-3/8\ dia)
+value: 0.0
+label: fruit (2-5/8\ dia)
+value: 0.0
+
+
+name: Genistein
+unit: mg
+value: 0.0
+label: cup, sections
+value: 0.0
+label: large (3-1/16\ dia)
+value: 0.0
+label: small (2-3/8\ dia)
+value: 0.0
+label: fruit (2-5/8\ dia)
+value: 0.0
+
+
+name: Total isoflavones
+unit: mg
+value: 0.0
+label: cup, sections
+value: 0.0
+label: large (3-1/16\ dia)
+value: 0.0
+label: small (2-3/8\ dia)
+value: 0.0
+label: fruit (2-5/8\ dia)
+value: 0.0
+
+
+name: Proanthocyanidin dimers
+unit: mg
+value: 0.0
+label: cup, sections
+value: 0.0
+label: large (3-1/16\ dia)
+value: 0.0
+label: small (2-3/8\ dia)
+value: 0.0
+label: fruit (2-5/8\ dia)
+value: 0.0
+
+
+name: Proanthocyanidin trimers
+unit: mg
+value: 0.0
+label: cup, sections
+value: 0.0
+label: large (3-1/16\ dia)
+value: 0.0
+label: small (2-3/8\ dia)
+value: 0.0
+label: fruit (2-5/8\ dia)
+value: 0.0
+
+
+name: Proanthocyanidin 4-6mers
+unit: mg
+value: 0.0
+label: cup, sections
+value: 0.0
+label: large (3-1/16\ dia)
+value: 0.0
+label: small (2-3/8\ dia)
+value: 0.0
+label: fruit (2-5/8\ dia)
+value: 0.0
+
+
+name: Proanthocyanidin 7-10mers
+unit: mg
+value: 0.0
+label: cup, sections
+value: 0.0
+label: large (3-1/16\ dia)
+value: 0.0
+label: small (2-3/8\ dia)
+value: 0.0
+label: fruit (2-5/8\ dia)
+value: 0.0
+
+
+name: Proanthocyanidin polymers (>10mers)
+unit: mg
+value: 0.0
+label: cup, sections
+value: 0.0
+label: large (3-1/16\ dia)
+value: 0.0
+label: small (2-3/8\ dia)
+value: 0.0
+label: fruit (2-5/8\ dia)
+value: 0.0
+
+

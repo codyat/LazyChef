@@ -1,0 +1,817 @@
+ndbno: 14034
+
+
+name: Alcoholic beverage, creme de menthe, 72 proof
+
+
+name: Water
+unit: g
+value: 28.3
+label: fl oz
+value: 9.51
+label: jigger 1.5 fl oz
+value: 14.15
+
+
+name: Energy
+unit: kcal
+value: 371.0
+label: fl oz
+value: 125.0
+label: jigger 1.5 fl oz
+value: 186.0
+
+
+name: Energy
+unit: kJ
+value: 1552.0
+label: fl oz
+value: 521.0
+label: jigger 1.5 fl oz
+value: 776.0
+
+
+name: Protein
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger 1.5 fl oz
+value: 0.0
+
+
+name: Total lipid (fat)
+unit: g
+value: 0.3
+label: fl oz
+value: 0.1
+label: jigger 1.5 fl oz
+value: 0.15
+
+
+name: Ash
+unit: g
+value: 0.01
+label: fl oz
+value: 0.0
+label: jigger 1.5 fl oz
+value: 0.0
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 41.6
+label: fl oz
+value: 13.98
+label: jigger 1.5 fl oz
+value: 20.8
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger 1.5 fl oz
+value: 0.0
+
+
+name: Sugars, total
+unit: g
+value: 41.6
+label: fl oz
+value: 13.98
+label: jigger 1.5 fl oz
+value: 20.8
+
+
+name: Calcium, Ca
+unit: mg
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger 1.5 fl oz
+value: 0.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.07
+label: fl oz
+value: 0.02
+label: jigger 1.5 fl oz
+value: 0.04
+
+
+name: Magnesium, Mg
+unit: mg
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger 1.5 fl oz
+value: 0.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger 1.5 fl oz
+value: 0.0
+
+
+name: Potassium, K
+unit: mg
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger 1.5 fl oz
+value: 0.0
+
+
+name: Sodium, Na
+unit: mg
+value: 5.0
+label: fl oz
+value: 2.0
+label: jigger 1.5 fl oz
+value: 2.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.04
+label: fl oz
+value: 0.01
+label: jigger 1.5 fl oz
+value: 0.02
+
+
+name: Copper, Cu
+unit: mg
+value: 0.08
+label: fl oz
+value: 0.027
+label: jigger 1.5 fl oz
+value: 0.04
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.04
+label: fl oz
+value: 0.013
+label: jigger 1.5 fl oz
+value: 0.02
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 0.4
+label: fl oz
+value: 0.1
+label: jigger 1.5 fl oz
+value: 0.2
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger 1.5 fl oz
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger 1.5 fl oz
+value: 0.0
+
+
+name: Riboflavin
+unit: mg
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger 1.5 fl oz
+value: 0.0
+
+
+name: Niacin
+unit: mg
+value: 0.003
+label: fl oz
+value: 0.001
+label: jigger 1.5 fl oz
+value: 0.002
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger 1.5 fl oz
+value: 0.0
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger 1.5 fl oz
+value: 0.0
+
+
+name: Folate, total
+unit: \u00B5g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger 1.5 fl oz
+value: 0.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger 1.5 fl oz
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger 1.5 fl oz
+value: 0.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger 1.5 fl oz
+value: 0.0
+
+
+name: Choline, total
+unit: mg
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger 1.5 fl oz
+value: 0.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger 1.5 fl oz
+value: 0.0
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger 1.5 fl oz
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger 1.5 fl oz
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger 1.5 fl oz
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger 1.5 fl oz
+value: 0.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger 1.5 fl oz
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger 1.5 fl oz
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger 1.5 fl oz
+value: 0.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger 1.5 fl oz
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger 1.5 fl oz
+value: 0.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger 1.5 fl oz
+value: 0.0
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger 1.5 fl oz
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger 1.5 fl oz
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger 1.5 fl oz
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger 1.5 fl oz
+value: 0.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.014
+label: fl oz
+value: 0.005
+label: jigger 1.5 fl oz
+value: 0.007
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger 1.5 fl oz
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger 1.5 fl oz
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger 1.5 fl oz
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger 1.5 fl oz
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger 1.5 fl oz
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger 1.5 fl oz
+value: 0.0
+
+
+name: 16:0
+unit: g
+value: 0.01
+label: fl oz
+value: 0.003
+label: jigger 1.5 fl oz
+value: 0.005
+
+
+name: 18:0
+unit: g
+value: 0.003
+label: fl oz
+value: 0.001
+label: jigger 1.5 fl oz
+value: 0.002
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.015
+label: fl oz
+value: 0.005
+label: jigger 1.5 fl oz
+value: 0.008
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger 1.5 fl oz
+value: 0.0
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.015
+label: fl oz
+value: 0.005
+label: jigger 1.5 fl oz
+value: 0.008
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger 1.5 fl oz
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger 1.5 fl oz
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.167
+label: fl oz
+value: 0.056
+label: jigger 1.5 fl oz
+value: 0.083
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.058
+label: fl oz
+value: 0.019
+label: jigger 1.5 fl oz
+value: 0.029
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.109
+label: fl oz
+value: 0.037
+label: jigger 1.5 fl oz
+value: 0.054
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger 1.5 fl oz
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger 1.5 fl oz
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger 1.5 fl oz
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger 1.5 fl oz
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger 1.5 fl oz
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger 1.5 fl oz
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger 1.5 fl oz
+value: 0.0
+
+
+name: Tryptophan
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger 1.5 fl oz
+value: 0.0
+
+
+name: Threonine
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger 1.5 fl oz
+value: 0.0
+
+
+name: Isoleucine
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger 1.5 fl oz
+value: 0.0
+
+
+name: Leucine
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger 1.5 fl oz
+value: 0.0
+
+
+name: Lysine
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger 1.5 fl oz
+value: 0.0
+
+
+name: Methionine
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger 1.5 fl oz
+value: 0.0
+
+
+name: Cystine
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger 1.5 fl oz
+value: 0.0
+
+
+name: Phenylalanine
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger 1.5 fl oz
+value: 0.0
+
+
+name: Tyrosine
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger 1.5 fl oz
+value: 0.0
+
+
+name: Valine
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger 1.5 fl oz
+value: 0.0
+
+
+name: Arginine
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger 1.5 fl oz
+value: 0.0
+
+
+name: Histidine
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger 1.5 fl oz
+value: 0.0
+
+
+name: Alanine
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger 1.5 fl oz
+value: 0.0
+
+
+name: Aspartic acid
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger 1.5 fl oz
+value: 0.0
+
+
+name: Glutamic acid
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger 1.5 fl oz
+value: 0.0
+
+
+name: Glycine
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger 1.5 fl oz
+value: 0.0
+
+
+name: Proline
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger 1.5 fl oz
+value: 0.0
+
+
+name: Serine
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger 1.5 fl oz
+value: 0.0
+
+
+name: Alcohol, ethyl
+unit: g
+value: 29.8
+label: fl oz
+value: 10.0
+label: jigger 1.5 fl oz
+value: 14.9
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger 1.5 fl oz
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger 1.5 fl oz
+value: 0.0
+
+
+

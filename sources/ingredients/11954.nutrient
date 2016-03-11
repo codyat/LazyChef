@@ -1,0 +1,655 @@
+ndbno: 11954
+
+
+name: Tomatillos, raw
+
+
+name: Water
+unit: g
+value: 91.63
+label: medium
+value: 31.15
+label: cup, chopped or diced
+value: 60.48
+
+
+name: Energy
+unit: kcal
+value: 32.0
+label: medium
+value: 11.0
+label: cup, chopped or diced
+value: 21.0
+
+
+name: Energy
+unit: kJ
+value: 133.0
+label: medium
+value: 45.0
+label: cup, chopped or diced
+value: 88.0
+
+
+name: Protein
+unit: g
+value: 0.96
+label: medium
+value: 0.33
+label: cup, chopped or diced
+value: 0.63
+
+
+name: Total lipid (fat)
+unit: g
+value: 1.02
+label: medium
+value: 0.35
+label: cup, chopped or diced
+value: 0.67
+
+
+name: Ash
+unit: g
+value: 0.55
+label: medium
+value: 0.19
+label: cup, chopped or diced
+value: 0.36
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 5.84
+label: medium
+value: 1.99
+label: cup, chopped or diced
+value: 3.85
+
+
+name: Fiber, total dietary
+unit: g
+value: 1.9
+label: medium
+value: 0.6
+label: cup, chopped or diced
+value: 1.3
+
+
+name: Sugars, total
+unit: g
+value: 3.93
+label: medium
+value: 1.34
+label: cup, chopped or diced
+value: 2.59
+
+
+name: Calcium, Ca
+unit: mg
+value: 7.0
+label: medium
+value: 2.0
+label: cup, chopped or diced
+value: 5.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.62
+label: medium
+value: 0.21
+label: cup, chopped or diced
+value: 0.41
+
+
+name: Magnesium, Mg
+unit: mg
+value: 20.0
+label: medium
+value: 7.0
+label: cup, chopped or diced
+value: 13.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 39.0
+label: medium
+value: 13.0
+label: cup, chopped or diced
+value: 26.0
+
+
+name: Potassium, K
+unit: mg
+value: 268.0
+label: medium
+value: 91.0
+label: cup, chopped or diced
+value: 177.0
+
+
+name: Sodium, Na
+unit: mg
+value: 1.0
+label: medium
+value: 0.0
+label: cup, chopped or diced
+value: 1.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.22
+label: medium
+value: 0.07
+label: cup, chopped or diced
+value: 0.15
+
+
+name: Copper, Cu
+unit: mg
+value: 0.079
+label: medium
+value: 0.027
+label: cup, chopped or diced
+value: 0.052
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.153
+label: medium
+value: 0.052
+label: cup, chopped or diced
+value: 0.101
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 0.5
+label: medium
+value: 0.2
+label: cup, chopped or diced
+value: 0.3
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 11.7
+label: medium
+value: 4.0
+label: cup, chopped or diced
+value: 7.7
+
+
+name: Thiamin
+unit: mg
+value: 0.044
+label: medium
+value: 0.015
+label: cup, chopped or diced
+value: 0.029
+
+
+name: Riboflavin
+unit: mg
+value: 0.035
+label: medium
+value: 0.012
+label: cup, chopped or diced
+value: 0.023
+
+
+name: Niacin
+unit: mg
+value: 1.85
+label: medium
+value: 0.629
+label: cup, chopped or diced
+value: 1.221
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.15
+label: medium
+value: 0.051
+label: cup, chopped or diced
+value: 0.099
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.056
+label: medium
+value: 0.019
+label: cup, chopped or diced
+value: 0.037
+
+
+name: Folate, total
+unit: \u00B5g
+value: 7.0
+label: medium
+value: 2.0
+label: cup, chopped or diced
+value: 5.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: medium
+value: 0.0
+label: cup, chopped or diced
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 7.0
+label: medium
+value: 2.0
+label: cup, chopped or diced
+value: 5.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 7.0
+label: medium
+value: 2.0
+label: cup, chopped or diced
+value: 5.0
+
+
+name: Choline, total
+unit: mg
+value: 7.6
+label: medium
+value: 2.6
+label: cup, chopped or diced
+value: 5.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: medium
+value: 0.0
+label: cup, chopped or diced
+value: 0.0
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: medium
+value: 0.0
+label: cup, chopped or diced
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 6.0
+label: medium
+value: 2.0
+label: cup, chopped or diced
+value: 4.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: medium
+value: 0.0
+label: cup, chopped or diced
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 63.0
+label: medium
+value: 21.0
+label: cup, chopped or diced
+value: 42.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 10.0
+label: medium
+value: 3.0
+label: cup, chopped or diced
+value: 7.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: medium
+value: 0.0
+label: cup, chopped or diced
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 114.0
+label: medium
+value: 39.0
+label: cup, chopped or diced
+value: 75.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: medium
+value: 0.0
+label: cup, chopped or diced
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 467.0
+label: medium
+value: 159.0
+label: cup, chopped or diced
+value: 308.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.38
+label: medium
+value: 0.13
+label: cup, chopped or diced
+value: 0.25
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: medium
+value: 0.0
+label: cup, chopped or diced
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: medium
+value: 0.0
+label: cup, chopped or diced
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: medium
+value: 0.0
+label: cup, chopped or diced
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 10.1
+label: medium
+value: 3.4
+label: cup, chopped or diced
+value: 6.7
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.139
+label: medium
+value: 0.047
+label: cup, chopped or diced
+value: 0.092
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: medium
+value: 0.0
+label: cup, chopped or diced
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: medium
+value: 0.0
+label: cup, chopped or diced
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: medium
+value: 0.0
+label: cup, chopped or diced
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: medium
+value: 0.0
+label: cup, chopped or diced
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: medium
+value: 0.0
+label: cup, chopped or diced
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.0
+label: medium
+value: 0.0
+label: cup, chopped or diced
+value: 0.0
+
+
+name: 16:0
+unit: g
+value: 0.102
+label: medium
+value: 0.035
+label: cup, chopped or diced
+value: 0.067
+
+
+name: 18:0
+unit: g
+value: 0.04
+label: medium
+value: 0.014
+label: cup, chopped or diced
+value: 0.026
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.155
+label: medium
+value: 0.053
+label: cup, chopped or diced
+value: 0.102
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.006
+label: medium
+value: 0.002
+label: cup, chopped or diced
+value: 0.004
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.152
+label: medium
+value: 0.052
+label: cup, chopped or diced
+value: 0.1
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: medium
+value: 0.0
+label: cup, chopped or diced
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: medium
+value: 0.0
+label: cup, chopped or diced
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.417
+label: medium
+value: 0.142
+label: cup, chopped or diced
+value: 0.275
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.402
+label: medium
+value: 0.137
+label: cup, chopped or diced
+value: 0.265
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.016
+label: medium
+value: 0.005
+label: cup, chopped or diced
+value: 0.011
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: medium
+value: 0.0
+label: cup, chopped or diced
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: medium
+value: 0.0
+label: cup, chopped or diced
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: medium
+value: 0.0
+label: cup, chopped or diced
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: medium
+value: 0.0
+label: cup, chopped or diced
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: medium
+value: 0.0
+label: cup, chopped or diced
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.0
+label: medium
+value: 0.0
+label: cup, chopped or diced
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: medium
+value: 0.0
+label: cup, chopped or diced
+value: 0.0
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: medium
+value: 0.0
+label: cup, chopped or diced
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: medium
+value: 0.0
+label: cup, chopped or diced
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: medium
+value: 0.0
+label: cup, chopped or diced
+value: 0.0
+
+
+

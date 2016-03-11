@@ -1,0 +1,864 @@
+ndbno: 14154
+
+
+name: Beverages, Energy drink, RED BULL
+
+
+name: Water
+unit: g
+value: 89.22
+label: can 8.4 fl oz
+value: 230.19
+label: serving 12 fl oz
+value: 329.22
+label: serving 16 fl oz
+value: 438.96
+
+
+name: Energy
+unit: kcal
+value: 43.0
+label: can 8.4 fl oz
+value: 111.0
+label: serving 12 fl oz
+value: 159.0
+label: serving 16 fl oz
+value: 212.0
+
+
+name: Energy
+unit: kJ
+value: 179.0
+label: can 8.4 fl oz
+value: 462.0
+label: serving 12 fl oz
+value: 661.0
+label: serving 16 fl oz
+value: 881.0
+
+
+name: Protein
+unit: g
+value: 0.46
+label: can 8.4 fl oz
+value: 1.19
+label: serving 12 fl oz
+value: 1.7
+label: serving 16 fl oz
+value: 2.26
+
+
+name: Total lipid (fat)
+unit: g
+value: 0.0
+label: can 8.4 fl oz
+value: 0.0
+label: serving 12 fl oz
+value: 0.0
+label: serving 16 fl oz
+value: 0.0
+
+
+name: Ash
+unit: g
+value: 0.1
+label: can 8.4 fl oz
+value: 0.26
+label: serving 12 fl oz
+value: 0.37
+label: serving 16 fl oz
+value: 0.49
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 10.23
+label: can 8.4 fl oz
+value: 26.39
+label: serving 12 fl oz
+value: 37.75
+label: serving 16 fl oz
+value: 50.33
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: can 8.4 fl oz
+value: 0.0
+label: serving 12 fl oz
+value: 0.0
+label: serving 16 fl oz
+value: 0.0
+
+
+name: Sugars, total
+unit: g
+value: 10.22
+label: can 8.4 fl oz
+value: 26.37
+label: serving 12 fl oz
+value: 37.71
+label: serving 16 fl oz
+value: 50.28
+
+
+name: Sucrose
+unit: g
+value: 5.19
+label: can 8.4 fl oz
+value: 13.39
+label: serving 12 fl oz
+value: 19.15
+label: serving 16 fl oz
+value: 25.53
+
+
+name: Glucose (dextrose)
+unit: g
+value: 3.4
+label: can 8.4 fl oz
+value: 8.77
+label: serving 12 fl oz
+value: 12.55
+label: serving 16 fl oz
+value: 16.73
+
+
+name: Fructose
+unit: g
+value: 1.63
+label: can 8.4 fl oz
+value: 4.21
+label: serving 12 fl oz
+value: 6.01
+label: serving 16 fl oz
+value: 8.02
+
+
+name: Lactose
+unit: g
+value: 0.0
+label: can 8.4 fl oz
+value: 0.0
+label: serving 12 fl oz
+value: 0.0
+label: serving 16 fl oz
+value: 0.0
+
+
+name: Maltose
+unit: g
+value: 0.0
+label: can 8.4 fl oz
+value: 0.0
+label: serving 12 fl oz
+value: 0.0
+label: serving 16 fl oz
+value: 0.0
+
+
+name: Galactose
+unit: g
+value: 0.0
+label: can 8.4 fl oz
+value: 0.0
+label: serving 12 fl oz
+value: 0.0
+label: serving 16 fl oz
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 6.0
+label: can 8.4 fl oz
+value: 15.0
+label: serving 12 fl oz
+value: 22.0
+label: serving 16 fl oz
+value: 30.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.06
+label: can 8.4 fl oz
+value: 0.15
+label: serving 12 fl oz
+value: 0.22
+label: serving 16 fl oz
+value: 0.3
+
+
+name: Magnesium, Mg
+unit: mg
+value: 19.0
+label: can 8.4 fl oz
+value: 49.0
+label: serving 12 fl oz
+value: 70.0
+label: serving 16 fl oz
+value: 93.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 0.0
+label: can 8.4 fl oz
+value: 0.0
+label: serving 12 fl oz
+value: 0.0
+label: serving 16 fl oz
+value: 0.0
+
+
+name: Potassium, K
+unit: mg
+value: 3.0
+label: can 8.4 fl oz
+value: 8.0
+label: serving 12 fl oz
+value: 11.0
+label: serving 16 fl oz
+value: 15.0
+
+
+name: Sodium, Na
+unit: mg
+value: 39.0
+label: can 8.4 fl oz
+value: 101.0
+label: serving 12 fl oz
+value: 144.0
+label: serving 16 fl oz
+value: 192.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.01
+label: can 8.4 fl oz
+value: 0.03
+label: serving 12 fl oz
+value: 0.04
+label: serving 16 fl oz
+value: 0.05
+
+
+name: Copper, Cu
+unit: mg
+value: 0.002
+label: can 8.4 fl oz
+value: 0.005
+label: serving 12 fl oz
+value: 0.007
+label: serving 16 fl oz
+value: 0.01
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.005
+label: can 8.4 fl oz
+value: 0.013
+label: serving 12 fl oz
+value: 0.018
+label: serving 16 fl oz
+value: 0.025
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 0.2
+label: can 8.4 fl oz
+value: 0.5
+label: serving 12 fl oz
+value: 0.7
+label: serving 16 fl oz
+value: 1.0
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: can 8.4 fl oz
+value: 0.0
+label: serving 12 fl oz
+value: 0.0
+label: serving 16 fl oz
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.04
+label: can 8.4 fl oz
+value: 0.103
+label: serving 12 fl oz
+value: 0.148
+label: serving 16 fl oz
+value: 0.197
+
+
+name: Riboflavin
+unit: mg
+value: 0.103
+label: can 8.4 fl oz
+value: 0.266
+label: serving 12 fl oz
+value: 0.38
+label: serving 16 fl oz
+value: 0.507
+
+
+name: Niacin
+unit: mg
+value: 9.827
+label: can 8.4 fl oz
+value: 25.354
+label: serving 12 fl oz
+value: 36.262
+label: serving 16 fl oz
+value: 48.349
+
+
+name: Pantothenic acid
+unit: mg
+value: 1.54
+label: can 8.4 fl oz
+value: 3.973
+label: serving 12 fl oz
+value: 5.683
+label: serving 16 fl oz
+value: 7.577
+
+
+name: Vitamin B-6
+unit: mg
+value: 2.167
+label: can 8.4 fl oz
+value: 5.591
+label: serving 12 fl oz
+value: 7.996
+label: serving 16 fl oz
+value: 10.662
+
+
+name: Folate, total
+unit: \u00B5g
+value: 0.0
+label: can 8.4 fl oz
+value: 0.0
+label: serving 12 fl oz
+value: 0.0
+label: serving 16 fl oz
+value: 0.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: can 8.4 fl oz
+value: 0.0
+label: serving 12 fl oz
+value: 0.0
+label: serving 16 fl oz
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 0.0
+label: can 8.4 fl oz
+value: 0.0
+label: serving 12 fl oz
+value: 0.0
+label: serving 16 fl oz
+value: 0.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 0.0
+label: can 8.4 fl oz
+value: 0.0
+label: serving 12 fl oz
+value: 0.0
+label: serving 16 fl oz
+value: 0.0
+
+
+name: Choline, total
+unit: mg
+value: 0.3
+label: can 8.4 fl oz
+value: 0.8
+label: serving 12 fl oz
+value: 1.1
+label: serving 16 fl oz
+value: 1.5
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 1.97
+label: can 8.4 fl oz
+value: 5.08
+label: serving 12 fl oz
+value: 7.27
+label: serving 16 fl oz
+value: 9.69
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 1.96
+label: can 8.4 fl oz
+value: 5.06
+label: serving 12 fl oz
+value: 7.23
+label: serving 16 fl oz
+value: 9.64
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 0.0
+label: can 8.4 fl oz
+value: 0.0
+label: serving 12 fl oz
+value: 0.0
+label: serving 16 fl oz
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: can 8.4 fl oz
+value: 0.0
+label: serving 12 fl oz
+value: 0.0
+label: serving 16 fl oz
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 0.0
+label: can 8.4 fl oz
+value: 0.0
+label: serving 12 fl oz
+value: 0.0
+label: serving 16 fl oz
+value: 0.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: can 8.4 fl oz
+value: 0.0
+label: serving 12 fl oz
+value: 0.0
+label: serving 16 fl oz
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: can 8.4 fl oz
+value: 0.0
+label: serving 12 fl oz
+value: 0.0
+label: serving 16 fl oz
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 0.0
+label: can 8.4 fl oz
+value: 0.0
+label: serving 12 fl oz
+value: 0.0
+label: serving 16 fl oz
+value: 0.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: can 8.4 fl oz
+value: 0.0
+label: serving 12 fl oz
+value: 0.0
+label: serving 16 fl oz
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 0.0
+label: can 8.4 fl oz
+value: 0.0
+label: serving 12 fl oz
+value: 0.0
+label: serving 16 fl oz
+value: 0.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.0
+label: can 8.4 fl oz
+value: 0.0
+label: serving 12 fl oz
+value: 0.0
+label: serving 16 fl oz
+value: 0.0
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: can 8.4 fl oz
+value: 0.0
+label: serving 12 fl oz
+value: 0.0
+label: serving 16 fl oz
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: can 8.4 fl oz
+value: 0.0
+label: serving 12 fl oz
+value: 0.0
+label: serving 16 fl oz
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: can 8.4 fl oz
+value: 0.0
+label: serving 12 fl oz
+value: 0.0
+label: serving 16 fl oz
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 0.0
+label: can 8.4 fl oz
+value: 0.0
+label: serving 12 fl oz
+value: 0.0
+label: serving 16 fl oz
+value: 0.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.0
+label: can 8.4 fl oz
+value: 0.0
+label: serving 12 fl oz
+value: 0.0
+label: serving 16 fl oz
+value: 0.0
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: can 8.4 fl oz
+value: 0.0
+label: serving 12 fl oz
+value: 0.0
+label: serving 16 fl oz
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: can 8.4 fl oz
+value: 0.0
+label: serving 12 fl oz
+value: 0.0
+label: serving 16 fl oz
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: can 8.4 fl oz
+value: 0.0
+label: serving 12 fl oz
+value: 0.0
+label: serving 16 fl oz
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: can 8.4 fl oz
+value: 0.0
+label: serving 12 fl oz
+value: 0.0
+label: serving 16 fl oz
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: can 8.4 fl oz
+value: 0.0
+label: serving 12 fl oz
+value: 0.0
+label: serving 16 fl oz
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.0
+label: can 8.4 fl oz
+value: 0.0
+label: serving 12 fl oz
+value: 0.0
+label: serving 16 fl oz
+value: 0.0
+
+
+name: 16:0
+unit: g
+value: 0.0
+label: can 8.4 fl oz
+value: 0.0
+label: serving 12 fl oz
+value: 0.0
+label: serving 16 fl oz
+value: 0.0
+
+
+name: 18:0
+unit: g
+value: 0.0
+label: can 8.4 fl oz
+value: 0.0
+label: serving 12 fl oz
+value: 0.0
+label: serving 16 fl oz
+value: 0.0
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.0
+label: can 8.4 fl oz
+value: 0.0
+label: serving 12 fl oz
+value: 0.0
+label: serving 16 fl oz
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.0
+label: can 8.4 fl oz
+value: 0.0
+label: serving 12 fl oz
+value: 0.0
+label: serving 16 fl oz
+value: 0.0
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.0
+label: can 8.4 fl oz
+value: 0.0
+label: serving 12 fl oz
+value: 0.0
+label: serving 16 fl oz
+value: 0.0
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: can 8.4 fl oz
+value: 0.0
+label: serving 12 fl oz
+value: 0.0
+label: serving 16 fl oz
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: can 8.4 fl oz
+value: 0.0
+label: serving 12 fl oz
+value: 0.0
+label: serving 16 fl oz
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.0
+label: can 8.4 fl oz
+value: 0.0
+label: serving 12 fl oz
+value: 0.0
+label: serving 16 fl oz
+value: 0.0
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.0
+label: can 8.4 fl oz
+value: 0.0
+label: serving 12 fl oz
+value: 0.0
+label: serving 16 fl oz
+value: 0.0
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.0
+label: can 8.4 fl oz
+value: 0.0
+label: serving 12 fl oz
+value: 0.0
+label: serving 16 fl oz
+value: 0.0
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: can 8.4 fl oz
+value: 0.0
+label: serving 12 fl oz
+value: 0.0
+label: serving 16 fl oz
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: can 8.4 fl oz
+value: 0.0
+label: serving 12 fl oz
+value: 0.0
+label: serving 16 fl oz
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: can 8.4 fl oz
+value: 0.0
+label: serving 12 fl oz
+value: 0.0
+label: serving 16 fl oz
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: can 8.4 fl oz
+value: 0.0
+label: serving 12 fl oz
+value: 0.0
+label: serving 16 fl oz
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: can 8.4 fl oz
+value: 0.0
+label: serving 12 fl oz
+value: 0.0
+label: serving 16 fl oz
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.0
+label: can 8.4 fl oz
+value: 0.0
+label: serving 12 fl oz
+value: 0.0
+label: serving 16 fl oz
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: can 8.4 fl oz
+value: 0.0
+label: serving 12 fl oz
+value: 0.0
+label: serving 16 fl oz
+value: 0.0
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: can 8.4 fl oz
+value: 0.0
+label: serving 12 fl oz
+value: 0.0
+label: serving 16 fl oz
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 29.0
+label: can 8.4 fl oz
+value: 75.0
+label: serving 12 fl oz
+value: 107.0
+label: serving 16 fl oz
+value: 143.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: can 8.4 fl oz
+value: 0.0
+label: serving 12 fl oz
+value: 0.0
+label: serving 16 fl oz
+value: 0.0
+
+

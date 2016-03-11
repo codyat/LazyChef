@@ -1,0 +1,413 @@
+ndbno: 21110
+
+
+name: Fast foods, hamburger; double, regular, patty; plain
+
+
+name: Water
+unit: g
+value: 42.67
+label: item
+value: 51.2
+
+
+name: Energy
+unit: kcal
+value: 295.0
+label: item
+value: 354.0
+
+
+name: Energy
+unit: kJ
+value: 1234.0
+label: item
+value: 1481.0
+
+
+name: Protein
+unit: g
+value: 17.08
+label: item
+value: 20.5
+
+
+name: Total lipid (fat)
+unit: g
+value: 14.36
+label: item
+value: 17.23
+
+
+name: Ash
+unit: g
+value: 1.8
+label: item
+value: 2.16
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 24.1
+label: item
+value: 28.92
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.9
+label: item
+value: 1.1
+
+
+name: Sugars, total
+unit: g
+value: 4.15
+label: item
+value: 4.98
+
+
+name: Sucrose
+unit: g
+value: 0.22
+label: item
+value: 0.26
+
+
+name: Glucose (dextrose)
+unit: g
+value: 1.16
+label: item
+value: 1.39
+
+
+name: Fructose
+unit: g
+value: 2.03
+label: item
+value: 2.44
+
+
+name: Lactose
+unit: g
+value: 0.13
+label: item
+value: 0.16
+
+
+name: Maltose
+unit: g
+value: 0.6
+label: item
+value: 0.72
+
+
+name: Galactose
+unit: g
+value: 0.0
+label: item
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 102.0
+label: item
+value: 122.0
+
+
+name: Iron, Fe
+unit: mg
+value: 2.88
+label: item
+value: 3.46
+
+
+name: Magnesium, Mg
+unit: mg
+value: 20.0
+label: item
+value: 24.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 136.0
+label: item
+value: 163.0
+
+
+name: Potassium, K
+unit: mg
+value: 226.0
+label: item
+value: 271.0
+
+
+name: Sodium, Na
+unit: mg
+value: 414.0
+label: item
+value: 497.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 2.87
+label: item
+value: 3.44
+
+
+name: Copper, Cu
+unit: mg
+value: 0.091
+label: item
+value: 0.109
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.217
+label: item
+value: 0.26
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: item
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.217
+label: item
+value: 0.26
+
+
+name: Riboflavin
+unit: mg
+value: 0.25
+label: item
+value: 0.3
+
+
+name: Niacin
+unit: mg
+value: 5.365
+label: item
+value: 6.438
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.31
+label: item
+value: 0.372
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.203
+label: item
+value: 0.244
+
+
+name: Folate, total
+unit: \u00B5g
+value: 56.0
+label: item
+value: 67.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 1.44
+label: item
+value: 1.73
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 0.0
+label: item
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: item
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 0.0
+label: item
+value: 0.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 5.096
+label: item
+value: 6.115
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 5.495
+label: item
+value: 6.594
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.38
+label: item
+value: 0.456
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.814
+label: item
+value: 0.977
+
+
+name: Cholesterol
+unit: mg
+value: 47.0
+label: item
+value: 56.0
+
+
+name: Tryptophan
+unit: g
+value: 0.206
+label: item
+value: 0.247
+
+
+name: Threonine
+unit: g
+value: 0.666
+label: item
+value: 0.799
+
+
+name: Isoleucine
+unit: g
+value: 0.716
+label: item
+value: 0.859
+
+
+name: Leucine
+unit: g
+value: 1.319
+label: item
+value: 1.583
+
+
+name: Lysine
+unit: g
+value: 1.226
+label: item
+value: 1.471
+
+
+name: Methionine
+unit: g
+value: 0.37
+label: item
+value: 0.444
+
+
+name: Cystine
+unit: g
+value: 0.186
+label: item
+value: 0.223
+
+
+name: Phenylalanine
+unit: g
+value: 0.677
+label: item
+value: 0.812
+
+
+name: Tyrosine
+unit: g
+value: 0.502
+label: item
+value: 0.602
+
+
+name: Valine
+unit: g
+value: 0.823
+label: item
+value: 0.988
+
+
+name: Arginine
+unit: g
+value: 1.053
+label: item
+value: 1.264
+
+
+name: Histidine
+unit: g
+value: 0.505
+label: item
+value: 0.606
+
+
+name: Alanine
+unit: g
+value: 1.006
+label: item
+value: 1.207
+
+
+name: Aspartic acid
+unit: g
+value: 1.415
+label: item
+value: 1.698
+
+
+name: Glutamic acid
+unit: g
+value: 3.156
+label: item
+value: 3.787
+
+
+name: Glycine
+unit: g
+value: 1.141
+label: item
+value: 1.369
+
+
+name: Proline
+unit: g
+value: 1.039
+label: item
+value: 1.247
+
+
+name: Serine
+unit: g
+value: 0.694
+label: item
+value: 0.833
+
+
+

@@ -1,0 +1,699 @@
+ndbno: 06468
+
+
+name: Soup, vegetarian vegetable, canned, prepared with equal volume water
+
+
+name: Water
+unit: g
+value: 92.41
+label: cup
+value: 222.71
+label: can (10.5 oz), prepared
+value: 541.52
+
+
+name: Energy
+unit: kcal
+value: 28.0
+label: cup
+value: 67.0
+label: can (10.5 oz), prepared
+value: 164.0
+
+
+name: Energy
+unit: kJ
+value: 119.0
+label: cup
+value: 287.0
+label: can (10.5 oz), prepared
+value: 697.0
+
+
+name: Protein
+unit: g
+value: 0.86
+label: cup
+value: 2.07
+label: can (10.5 oz), prepared
+value: 5.04
+
+
+name: Total lipid (fat)
+unit: g
+value: 0.79
+label: cup
+value: 1.9
+label: can (10.5 oz), prepared
+value: 4.63
+
+
+name: Ash
+unit: g
+value: 1.06
+label: cup
+value: 2.55
+label: can (10.5 oz), prepared
+value: 6.21
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 4.89
+label: cup
+value: 11.78
+label: can (10.5 oz), prepared
+value: 28.66
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.3
+label: cup
+value: 0.7
+label: can (10.5 oz), prepared
+value: 1.8
+
+
+name: Sugars, total
+unit: g
+value: 1.57
+label: cup
+value: 3.78
+label: can (10.5 oz), prepared
+value: 9.2
+
+
+name: Calcium, Ca
+unit: mg
+value: 10.0
+label: cup
+value: 24.0
+label: can (10.5 oz), prepared
+value: 59.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.44
+label: cup
+value: 1.06
+label: can (10.5 oz), prepared
+value: 2.58
+
+
+name: Magnesium, Mg
+unit: mg
+value: 3.0
+label: cup
+value: 7.0
+label: can (10.5 oz), prepared
+value: 18.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 14.0
+label: cup
+value: 34.0
+label: can (10.5 oz), prepared
+value: 82.0
+
+
+name: Potassium, K
+unit: mg
+value: 86.0
+label: cup
+value: 207.0
+label: can (10.5 oz), prepared
+value: 504.0
+
+
+name: Sodium, Na
+unit: mg
+value: 338.0
+label: cup
+value: 815.0
+label: can (10.5 oz), prepared
+value: 1981.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.19
+label: cup
+value: 0.46
+label: can (10.5 oz), prepared
+value: 1.11
+
+
+name: Copper, Cu
+unit: mg
+value: 0.055
+label: cup
+value: 0.133
+label: can (10.5 oz), prepared
+value: 0.322
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.188
+label: cup
+value: 0.453
+label: can (10.5 oz), prepared
+value: 1.102
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 1.8
+label: cup
+value: 4.3
+label: can (10.5 oz), prepared
+value: 10.5
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.6
+label: cup
+value: 1.4
+label: can (10.5 oz), prepared
+value: 3.5
+
+
+name: Thiamin
+unit: mg
+value: 0.022
+label: cup
+value: 0.053
+label: can (10.5 oz), prepared
+value: 0.129
+
+
+name: Riboflavin
+unit: mg
+value: 0.019
+label: cup
+value: 0.046
+label: can (10.5 oz), prepared
+value: 0.111
+
+
+name: Niacin
+unit: mg
+value: 0.374
+label: cup
+value: 0.901
+label: can (10.5 oz), prepared
+value: 2.192
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.14
+label: cup
+value: 0.337
+label: can (10.5 oz), prepared
+value: 0.82
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.023
+label: cup
+value: 0.055
+label: can (10.5 oz), prepared
+value: 0.135
+
+
+name: Folate, total
+unit: \u00B5g
+value: 4.0
+label: cup
+value: 10.0
+label: can (10.5 oz), prepared
+value: 23.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: can (10.5 oz), prepared
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 4.0
+label: cup
+value: 10.0
+label: can (10.5 oz), prepared
+value: 23.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 4.0
+label: cup
+value: 10.0
+label: can (10.5 oz), prepared
+value: 23.0
+
+
+name: Choline, total
+unit: mg
+value: 3.9
+label: cup
+value: 9.4
+label: can (10.5 oz), prepared
+value: 22.9
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: can (10.5 oz), prepared
+value: 0.0
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: can (10.5 oz), prepared
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 71.0
+label: cup
+value: 171.0
+label: can (10.5 oz), prepared
+value: 416.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: can (10.5 oz), prepared
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 750.0
+label: cup
+value: 1808.0
+label: can (10.5 oz), prepared
+value: 4395.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 205.0
+label: cup
+value: 494.0
+label: can (10.5 oz), prepared
+value: 1201.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: can (10.5 oz), prepared
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 1421.0
+label: cup
+value: 3425.0
+label: can (10.5 oz), prepared
+value: 8327.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 965.0
+label: cup
+value: 2326.0
+label: can (10.5 oz), prepared
+value: 5655.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 80.0
+label: cup
+value: 193.0
+label: can (10.5 oz), prepared
+value: 469.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.58
+label: cup
+value: 1.4
+label: can (10.5 oz), prepared
+value: 3.4
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: can (10.5 oz), prepared
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: can (10.5 oz), prepared
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: cup
+value: 0.0
+label: can (10.5 oz), prepared
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 2.1
+label: cup
+value: 5.1
+label: can (10.5 oz), prepared
+value: 12.3
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.12
+label: cup
+value: 0.289
+label: can (10.5 oz), prepared
+value: 0.703
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can (10.5 oz), prepared
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can (10.5 oz), prepared
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can (10.5 oz), prepared
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can (10.5 oz), prepared
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can (10.5 oz), prepared
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can (10.5 oz), prepared
+value: 0.0
+
+
+name: 16:0
+unit: g
+value: 0.08
+label: cup
+value: 0.193
+label: can (10.5 oz), prepared
+value: 0.469
+
+
+name: 18:0
+unit: g
+value: 0.04
+label: cup
+value: 0.096
+label: can (10.5 oz), prepared
+value: 0.234
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.34
+label: cup
+value: 0.819
+label: can (10.5 oz), prepared
+value: 1.992
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.005
+label: cup
+value: 0.012
+label: can (10.5 oz), prepared
+value: 0.029
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.335
+label: cup
+value: 0.807
+label: can (10.5 oz), prepared
+value: 1.963
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can (10.5 oz), prepared
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can (10.5 oz), prepared
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.295
+label: cup
+value: 0.711
+label: can (10.5 oz), prepared
+value: 1.729
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.275
+label: cup
+value: 0.663
+label: can (10.5 oz), prepared
+value: 1.612
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.02
+label: cup
+value: 0.048
+label: can (10.5 oz), prepared
+value: 0.117
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can (10.5 oz), prepared
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can (10.5 oz), prepared
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can (10.5 oz), prepared
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can (10.5 oz), prepared
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can (10.5 oz), prepared
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: can (10.5 oz), prepared
+value: 0.0
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can (10.5 oz), prepared
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: can (10.5 oz), prepared
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: can (10.5 oz), prepared
+value: 0.0
+
+
+name: Daidzein
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: can (10.5 oz), prepared
+value: 0.0
+
+
+name: Genistein
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: can (10.5 oz), prepared
+value: 0.0
+
+
+name: Glycitein
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: can (10.5 oz), prepared
+value: 0.0
+
+
+name: Total isoflavones
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: can (10.5 oz), prepared
+value: 0.0
+
+
+name: Formononetin
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: can (10.5 oz), prepared
+value: 0.0
+
+
+name: Coumestrol
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: can (10.5 oz), prepared
+value: 0.0
+
+

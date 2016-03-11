@@ -1,0 +1,835 @@
+ndbno: 11667
+
+
+name: Seaweed, spirulina, dried
+
+
+name: Water
+unit: g
+value: 4.68
+label: cup
+value: 5.24
+label: tablespoon
+value: 0.33
+
+
+name: Energy
+unit: kcal
+value: 290.0
+label: cup
+value: 325.0
+label: tablespoon
+value: 20.0
+
+
+name: Energy
+unit: kJ
+value: 1213.0
+label: cup
+value: 1359.0
+label: tablespoon
+value: 85.0
+
+
+name: Protein
+unit: g
+value: 57.47
+label: cup
+value: 64.37
+label: tablespoon
+value: 4.02
+
+
+name: Total lipid (fat)
+unit: g
+value: 7.72
+label: cup
+value: 8.65
+label: tablespoon
+value: 0.54
+
+
+name: Ash
+unit: g
+value: 6.23
+label: cup
+value: 6.98
+label: tablespoon
+value: 0.44
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 23.9
+label: cup
+value: 26.77
+label: tablespoon
+value: 1.67
+
+
+name: Fiber, total dietary
+unit: g
+value: 3.6
+label: cup
+value: 4.0
+label: tablespoon
+value: 0.3
+
+
+name: Sugars, total
+unit: g
+value: 3.1
+label: cup
+value: 3.47
+label: tablespoon
+value: 0.22
+
+
+name: Calcium, Ca
+unit: mg
+value: 120.0
+label: cup
+value: 134.0
+label: tablespoon
+value: 8.0
+
+
+name: Iron, Fe
+unit: mg
+value: 28.5
+label: cup
+value: 31.92
+label: tablespoon
+value: 2.0
+
+
+name: Magnesium, Mg
+unit: mg
+value: 195.0
+label: cup
+value: 218.0
+label: tablespoon
+value: 14.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 118.0
+label: cup
+value: 132.0
+label: tablespoon
+value: 8.0
+
+
+name: Potassium, K
+unit: mg
+value: 1363.0
+label: cup
+value: 1527.0
+label: tablespoon
+value: 95.0
+
+
+name: Sodium, Na
+unit: mg
+value: 1048.0
+label: cup
+value: 1174.0
+label: tablespoon
+value: 73.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 2.0
+label: cup
+value: 2.24
+label: tablespoon
+value: 0.14
+
+
+name: Copper, Cu
+unit: mg
+value: 6.1
+label: cup
+value: 6.832
+label: tablespoon
+value: 0.427
+
+
+name: Manganese, Mn
+unit: mg
+value: 1.9
+label: cup
+value: 2.128
+label: tablespoon
+value: 0.133
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 7.2
+label: cup
+value: 8.1
+label: tablespoon
+value: 0.5
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 10.1
+label: cup
+value: 11.3
+label: tablespoon
+value: 0.7
+
+
+name: Thiamin
+unit: mg
+value: 2.38
+label: cup
+value: 2.666
+label: tablespoon
+value: 0.167
+
+
+name: Riboflavin
+unit: mg
+value: 3.67
+label: cup
+value: 4.11
+label: tablespoon
+value: 0.257
+
+
+name: Niacin
+unit: mg
+value: 12.82
+label: cup
+value: 14.358
+label: tablespoon
+value: 0.897
+
+
+name: Pantothenic acid
+unit: mg
+value: 3.48
+label: cup
+value: 3.898
+label: tablespoon
+value: 0.244
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.364
+label: cup
+value: 0.408
+label: tablespoon
+value: 0.025
+
+
+name: Folate, total
+unit: \u00B5g
+value: 94.0
+label: cup
+value: 105.0
+label: tablespoon
+value: 7.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: tablespoon
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 94.0
+label: cup
+value: 105.0
+label: tablespoon
+value: 7.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 94.0
+label: cup
+value: 105.0
+label: tablespoon
+value: 7.0
+
+
+name: Choline, total
+unit: mg
+value: 66.0
+label: cup
+value: 73.9
+label: tablespoon
+value: 4.6
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: tablespoon
+value: 0.0
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: tablespoon
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 29.0
+label: cup
+value: 32.0
+label: tablespoon
+value: 2.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: tablespoon
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 342.0
+label: cup
+value: 383.0
+label: tablespoon
+value: 24.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: tablespoon
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: tablespoon
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 570.0
+label: cup
+value: 638.0
+label: tablespoon
+value: 40.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: tablespoon
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: tablespoon
+value: 0.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 5.0
+label: cup
+value: 5.6
+label: tablespoon
+value: 0.35
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: tablespoon
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: tablespoon
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: cup
+value: 0.0
+label: tablespoon
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 25.5
+label: cup
+value: 28.6
+label: tablespoon
+value: 1.8
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 2.65
+label: cup
+value: 2.968
+label: tablespoon
+value: 0.186
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: tablespoon
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: tablespoon
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: tablespoon
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: tablespoon
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: tablespoon
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.075
+label: cup
+value: 0.084
+label: tablespoon
+value: 0.005
+
+
+name: 16:0
+unit: g
+value: 2.496
+label: cup
+value: 2.796
+label: tablespoon
+value: 0.175
+
+
+name: 18:0
+unit: g
+value: 0.077
+label: cup
+value: 0.086
+label: tablespoon
+value: 0.005
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.675
+label: cup
+value: 0.756
+label: tablespoon
+value: 0.047
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.328
+label: cup
+value: 0.367
+label: tablespoon
+value: 0.023
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.347
+label: cup
+value: 0.389
+label: tablespoon
+value: 0.024
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: tablespoon
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: tablespoon
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 2.08
+label: cup
+value: 2.33
+label: tablespoon
+value: 0.146
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 1.254
+label: cup
+value: 1.404
+label: tablespoon
+value: 0.088
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.823
+label: cup
+value: 0.922
+label: tablespoon
+value: 0.058
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: tablespoon
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: tablespoon
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: tablespoon
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: tablespoon
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: tablespoon
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: tablespoon
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: tablespoon
+value: 0.0
+
+
+name: Tryptophan
+unit: g
+value: 0.929
+label: cup
+value: 1.04
+label: tablespoon
+value: 0.065
+
+
+name: Threonine
+unit: g
+value: 2.97
+label: cup
+value: 3.326
+label: tablespoon
+value: 0.208
+
+
+name: Isoleucine
+unit: g
+value: 3.209
+label: cup
+value: 3.594
+label: tablespoon
+value: 0.225
+
+
+name: Leucine
+unit: g
+value: 4.947
+label: cup
+value: 5.541
+label: tablespoon
+value: 0.346
+
+
+name: Lysine
+unit: g
+value: 3.025
+label: cup
+value: 3.388
+label: tablespoon
+value: 0.212
+
+
+name: Methionine
+unit: g
+value: 1.149
+label: cup
+value: 1.287
+label: tablespoon
+value: 0.08
+
+
+name: Cystine
+unit: g
+value: 0.662
+label: cup
+value: 0.741
+label: tablespoon
+value: 0.046
+
+
+name: Phenylalanine
+unit: g
+value: 2.777
+label: cup
+value: 3.11
+label: tablespoon
+value: 0.194
+
+
+name: Tyrosine
+unit: g
+value: 2.584
+label: cup
+value: 2.894
+label: tablespoon
+value: 0.181
+
+
+name: Valine
+unit: g
+value: 3.512
+label: cup
+value: 3.933
+label: tablespoon
+value: 0.246
+
+
+name: Arginine
+unit: g
+value: 4.147
+label: cup
+value: 4.645
+label: tablespoon
+value: 0.29
+
+
+name: Histidine
+unit: g
+value: 1.085
+label: cup
+value: 1.215
+label: tablespoon
+value: 0.076
+
+
+name: Alanine
+unit: g
+value: 4.515
+label: cup
+value: 5.057
+label: tablespoon
+value: 0.316
+
+
+name: Aspartic acid
+unit: g
+value: 5.793
+label: cup
+value: 6.488
+label: tablespoon
+value: 0.406
+
+
+name: Glutamic acid
+unit: g
+value: 8.386
+label: cup
+value: 9.392
+label: tablespoon
+value: 0.587
+
+
+name: Glycine
+unit: g
+value: 3.099
+label: cup
+value: 3.471
+label: tablespoon
+value: 0.217
+
+
+name: Proline
+unit: g
+value: 2.382
+label: cup
+value: 2.668
+label: tablespoon
+value: 0.167
+
+
+name: Serine
+unit: g
+value: 2.998
+label: cup
+value: 3.358
+label: tablespoon
+value: 0.21
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: tablespoon
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: tablespoon
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: tablespoon
+value: 0.0
+
+
+name: Formononetin
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: tablespoon
+value: 0.0
+
+
+name: Coumestrol
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: tablespoon
+value: 0.0
+
+
+

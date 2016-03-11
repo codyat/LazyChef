@@ -1,0 +1,420 @@
+ndbno: 19117
+
+
+name: Candies, halavah, plain
+
+
+name: Water
+unit: g
+value: 3.67
+label: oz
+value: 1.04
+
+
+name: Energy
+unit: kcal
+value: 469.0
+label: oz
+value: 133.0
+
+
+name: Energy
+unit: kJ
+value: 1962.0
+label: oz
+value: 556.0
+
+
+name: Protein
+unit: g
+value: 12.49
+label: oz
+value: 3.54
+
+
+name: Total lipid (fat)
+unit: g
+value: 21.52
+label: oz
+value: 6.1
+
+
+name: Ash
+unit: g
+value: 1.83
+label: oz
+value: 0.52
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 60.49
+label: oz
+value: 17.15
+
+
+name: Fiber, total dietary
+unit: g
+value: 4.5
+label: oz
+value: 1.3
+
+
+name: Calcium, Ca
+unit: mg
+value: 33.0
+label: oz
+value: 9.0
+
+
+name: Iron, Fe
+unit: mg
+value: 4.53
+label: oz
+value: 1.28
+
+
+name: Magnesium, Mg
+unit: mg
+value: 218.0
+label: oz
+value: 62.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 607.0
+label: oz
+value: 172.0
+
+
+name: Potassium, K
+unit: mg
+value: 187.0
+label: oz
+value: 53.0
+
+
+name: Sodium, Na
+unit: mg
+value: 195.0
+label: oz
+value: 55.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 4.32
+label: oz
+value: 1.22
+
+
+name: Copper, Cu
+unit: mg
+value: 1.202
+label: oz
+value: 0.341
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.873
+label: oz
+value: 0.247
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 11.5
+label: oz
+value: 3.3
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.1
+label: oz
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.424
+label: oz
+value: 0.12
+
+
+name: Riboflavin
+unit: mg
+value: 0.088
+label: oz
+value: 0.025
+
+
+name: Niacin
+unit: mg
+value: 2.856
+label: oz
+value: 0.81
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.174
+label: oz
+value: 0.049
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.348
+label: oz
+value: 0.099
+
+
+name: Folate, total
+unit: \u00B5g
+value: 65.0
+label: oz
+value: 18.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 65.0
+label: oz
+value: 18.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 65.0
+label: oz
+value: 18.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.04
+label: oz
+value: 0.01
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 2.0
+label: oz
+value: 1.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 4.127
+label: oz
+value: 1.17
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 16:0
+unit: g
+value: 2.113
+label: oz
+value: 0.599
+
+
+name: 18:0
+unit: g
+value: 1.847
+label: oz
+value: 0.524
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 8.194
+label: oz
+value: 2.323
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.025
+label: oz
+value: 0.007
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 8.133
+label: oz
+value: 2.306
+
+
+name: 20:1
+unit: g
+value: 0.036
+label: oz
+value: 0.01
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 8.481
+label: oz
+value: 2.404
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 8.421
+label: oz
+value: 2.387
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.06
+label: oz
+value: 0.017
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+

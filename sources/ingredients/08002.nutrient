@@ -1,0 +1,654 @@
+ndbno: 08002
+
+
+name: Cereals ready-to-eat, POST, ALPHA-BITS
+
+
+name: Water
+unit: g
+value: 1.2
+label: cup (1 NLEA serving for adults)
+value: 0.36
+label: cup (1 serving for children under 4 years)
+value: 0.24
+
+
+name: Energy
+unit: kcal
+value: 389.0
+label: cup (1 NLEA serving for adults)
+value: 117.0
+label: cup (1 serving for children under 4 years)
+value: 78.0
+
+
+name: Energy
+unit: kJ
+value: 1628.0
+label: cup (1 NLEA serving for adults)
+value: 488.0
+label: cup (1 serving for children under 4 years)
+value: 326.0
+
+
+name: Protein
+unit: g
+value: 10.0
+label: cup (1 NLEA serving for adults)
+value: 3.0
+label: cup (1 serving for children under 4 years)
+value: 2.0
+
+
+name: Total lipid (fat)
+unit: g
+value: 4.6
+label: cup (1 NLEA serving for adults)
+value: 1.38
+label: cup (1 serving for children under 4 years)
+value: 0.92
+
+
+name: Ash
+unit: g
+value: 3.9
+label: cup (1 NLEA serving for adults)
+value: 1.17
+label: cup (1 serving for children under 4 years)
+value: 0.78
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 80.3
+label: cup (1 NLEA serving for adults)
+value: 24.09
+label: cup (1 serving for children under 4 years)
+value: 16.06
+
+
+name: Fiber, total dietary
+unit: g
+value: 7.1
+label: cup (1 NLEA serving for adults)
+value: 2.1
+label: cup (1 serving for children under 4 years)
+value: 1.4
+
+
+name: Sugars, total
+unit: g
+value: 21.0
+label: cup (1 NLEA serving for adults)
+value: 6.3
+label: cup (1 serving for children under 4 years)
+value: 4.2
+
+
+name: Calcium, Ca
+unit: mg
+value: 35.0
+label: cup (1 NLEA serving for adults)
+value: 10.0
+label: cup (1 serving for children under 4 years)
+value: 7.0
+
+
+name: Iron, Fe
+unit: mg
+value: 30.0
+label: cup (1 NLEA serving for adults)
+value: 9.0
+label: cup (1 serving for children under 4 years)
+value: 6.0
+
+
+name: Magnesium, Mg
+unit: mg
+value: 99.0
+label: cup (1 NLEA serving for adults)
+value: 30.0
+label: cup (1 serving for children under 4 years)
+value: 20.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 309.0
+label: cup (1 NLEA serving for adults)
+value: 93.0
+label: cup (1 serving for children under 4 years)
+value: 62.0
+
+
+name: Potassium, K
+unit: mg
+value: 267.0
+label: cup (1 NLEA serving for adults)
+value: 80.0
+label: cup (1 serving for children under 4 years)
+value: 53.0
+
+
+name: Sodium, Na
+unit: mg
+value: 592.0
+label: cup (1 NLEA serving for adults)
+value: 178.0
+label: cup (1 serving for children under 4 years)
+value: 118.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 5.0
+label: cup (1 NLEA serving for adults)
+value: 1.5
+label: cup (1 serving for children under 4 years)
+value: 1.0
+
+
+name: Copper, Cu
+unit: mg
+value: 0.3
+label: cup (1 NLEA serving for adults)
+value: 0.09
+label: cup (1 serving for children under 4 years)
+value: 0.06
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 20.9
+label: cup (1 NLEA serving for adults)
+value: 6.3
+label: cup (1 serving for children under 4 years)
+value: 4.2
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 20.0
+label: cup (1 NLEA serving for adults)
+value: 6.0
+label: cup (1 serving for children under 4 years)
+value: 4.0
+
+
+name: Thiamin
+unit: mg
+value: 1.3
+label: cup (1 NLEA serving for adults)
+value: 0.39
+label: cup (1 serving for children under 4 years)
+value: 0.26
+
+
+name: Riboflavin
+unit: mg
+value: 1.4
+label: cup (1 NLEA serving for adults)
+value: 0.42
+label: cup (1 serving for children under 4 years)
+value: 0.28
+
+
+name: Niacin
+unit: mg
+value: 16.7
+label: cup (1 NLEA serving for adults)
+value: 5.01
+label: cup (1 serving for children under 4 years)
+value: 3.34
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.756
+label: cup (1 NLEA serving for adults)
+value: 0.227
+label: cup (1 serving for children under 4 years)
+value: 0.151
+
+
+name: Vitamin B-6
+unit: mg
+value: 1.7
+label: cup (1 NLEA serving for adults)
+value: 0.51
+label: cup (1 serving for children under 4 years)
+value: 0.34
+
+
+name: Folate, total
+unit: \u00B5g
+value: 667.0
+label: cup (1 NLEA serving for adults)
+value: 200.0
+label: cup (1 serving for children under 4 years)
+value: 133.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 648.0
+label: cup (1 NLEA serving for adults)
+value: 194.0
+label: cup (1 serving for children under 4 years)
+value: 130.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 19.0
+label: cup (1 NLEA serving for adults)
+value: 6.0
+label: cup (1 serving for children under 4 years)
+value: 4.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 1120.0
+label: cup (1 NLEA serving for adults)
+value: 336.0
+label: cup (1 serving for children under 4 years)
+value: 224.0
+
+
+name: Choline, total
+unit: mg
+value: 25.6
+label: cup (1 NLEA serving for adults)
+value: 7.7
+label: cup (1 serving for children under 4 years)
+value: 5.1
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 5.0
+label: cup (1 NLEA serving for adults)
+value: 1.5
+label: cup (1 serving for children under 4 years)
+value: 1.0
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 5.0
+label: cup (1 NLEA serving for adults)
+value: 1.5
+label: cup (1 serving for children under 4 years)
+value: 1.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 741.0
+label: cup (1 NLEA serving for adults)
+value: 222.0
+label: cup (1 serving for children under 4 years)
+value: 148.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 739.0
+label: cup (1 NLEA serving for adults)
+value: 222.0
+label: cup (1 serving for children under 4 years)
+value: 148.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 16.0
+label: cup (1 NLEA serving for adults)
+value: 5.0
+label: cup (1 serving for children under 4 years)
+value: 3.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 11.0
+label: cup (1 NLEA serving for adults)
+value: 3.0
+label: cup (1 serving for children under 4 years)
+value: 2.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: cup (1 NLEA serving for adults)
+value: 0.0
+label: cup (1 serving for children under 4 years)
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 2500.0
+label: cup (1 NLEA serving for adults)
+value: 750.0
+label: cup (1 serving for children under 4 years)
+value: 500.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: cup (1 NLEA serving for adults)
+value: 0.0
+label: cup (1 serving for children under 4 years)
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 334.0
+label: cup (1 NLEA serving for adults)
+value: 100.0
+label: cup (1 serving for children under 4 years)
+value: 67.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.31
+label: cup (1 NLEA serving for adults)
+value: 0.09
+label: cup (1 serving for children under 4 years)
+value: 0.06
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: cup (1 NLEA serving for adults)
+value: 0.0
+label: cup (1 serving for children under 4 years)
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 6.7
+label: cup (1 NLEA serving for adults)
+value: 2.0
+label: cup (1 serving for children under 4 years)
+value: 1.3
+
+
+name: Vitamin D3 (cholecalciferol)
+unit: \u00B5g
+value: 6.7
+label: cup (1 NLEA serving for adults)
+value: 2.0
+label: cup (1 serving for children under 4 years)
+value: 1.3
+
+
+name: Vitamin D
+unit: IU
+value: 267.0
+label: cup (1 NLEA serving for adults)
+value: 80.0
+label: cup (1 serving for children under 4 years)
+value: 53.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 1.4
+label: cup (1 NLEA serving for adults)
+value: 0.4
+label: cup (1 serving for children under 4 years)
+value: 0.3
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 1.1
+label: cup (1 NLEA serving for adults)
+value: 0.33
+label: cup (1 serving for children under 4 years)
+value: 0.22
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: cup (1 NLEA serving for adults)
+value: 0.0
+label: cup (1 serving for children under 4 years)
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: cup (1 NLEA serving for adults)
+value: 0.0
+label: cup (1 serving for children under 4 years)
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: cup (1 NLEA serving for adults)
+value: 0.0
+label: cup (1 serving for children under 4 years)
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: cup (1 NLEA serving for adults)
+value: 0.0
+label: cup (1 serving for children under 4 years)
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.019
+label: cup (1 NLEA serving for adults)
+value: 0.006
+label: cup (1 serving for children under 4 years)
+value: 0.004
+
+
+name: 14:0
+unit: g
+value: 0.01
+label: cup (1 NLEA serving for adults)
+value: 0.003
+label: cup (1 serving for children under 4 years)
+value: 0.002
+
+
+name: 16:0
+unit: g
+value: 0.93
+label: cup (1 NLEA serving for adults)
+value: 0.279
+label: cup (1 serving for children under 4 years)
+value: 0.186
+
+
+name: 18:0
+unit: g
+value: 0.064
+label: cup (1 NLEA serving for adults)
+value: 0.019
+label: cup (1 serving for children under 4 years)
+value: 0.013
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 1.5
+label: cup (1 NLEA serving for adults)
+value: 0.45
+label: cup (1 serving for children under 4 years)
+value: 0.3
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.008
+label: cup (1 NLEA serving for adults)
+value: 0.002
+label: cup (1 serving for children under 4 years)
+value: 0.002
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 1.493
+label: cup (1 NLEA serving for adults)
+value: 0.448
+label: cup (1 serving for children under 4 years)
+value: 0.299
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: cup (1 NLEA serving for adults)
+value: 0.0
+label: cup (1 serving for children under 4 years)
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: cup (1 NLEA serving for adults)
+value: 0.0
+label: cup (1 serving for children under 4 years)
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 1.8
+label: cup (1 NLEA serving for adults)
+value: 0.54
+label: cup (1 serving for children under 4 years)
+value: 0.36
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 1.723
+label: cup (1 NLEA serving for adults)
+value: 0.517
+label: cup (1 serving for children under 4 years)
+value: 0.345
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.077
+label: cup (1 NLEA serving for adults)
+value: 0.023
+label: cup (1 serving for children under 4 years)
+value: 0.015
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: cup (1 NLEA serving for adults)
+value: 0.0
+label: cup (1 serving for children under 4 years)
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: cup (1 NLEA serving for adults)
+value: 0.0
+label: cup (1 serving for children under 4 years)
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: cup (1 NLEA serving for adults)
+value: 0.0
+label: cup (1 serving for children under 4 years)
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: cup (1 NLEA serving for adults)
+value: 0.0
+label: cup (1 serving for children under 4 years)
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: cup (1 NLEA serving for adults)
+value: 0.0
+label: cup (1 serving for children under 4 years)
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.0
+label: cup (1 NLEA serving for adults)
+value: 0.0
+label: cup (1 serving for children under 4 years)
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: cup (1 NLEA serving for adults)
+value: 0.0
+label: cup (1 serving for children under 4 years)
+value: 0.0
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: cup (1 NLEA serving for adults)
+value: 0.0
+label: cup (1 serving for children under 4 years)
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: cup (1 NLEA serving for adults)
+value: 0.0
+label: cup (1 serving for children under 4 years)
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: cup (1 NLEA serving for adults)
+value: 0.0
+label: cup (1 serving for children under 4 years)
+value: 0.0
+
+

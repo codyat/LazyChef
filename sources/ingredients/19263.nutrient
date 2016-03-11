@@ -1,0 +1,646 @@
+ndbno: 19263
+
+
+name: Frozen novelties, fruit and juice bars
+
+
+name: Water
+unit: g
+value: 78.3
+label: bar (2.5 fl oz)
+value: 60.29
+label: bar (3 fl oz)
+value: 72.04
+
+
+name: Energy
+unit: kcal
+value: 87.0
+label: bar (2.5 fl oz)
+value: 67.0
+label: bar (3 fl oz)
+value: 80.0
+
+
+name: Energy
+unit: kJ
+value: 362.0
+label: bar (2.5 fl oz)
+value: 279.0
+label: bar (3 fl oz)
+value: 333.0
+
+
+name: Protein
+unit: g
+value: 1.2
+label: bar (2.5 fl oz)
+value: 0.92
+label: bar (3 fl oz)
+value: 1.1
+
+
+name: Total lipid (fat)
+unit: g
+value: 0.1
+label: bar (2.5 fl oz)
+value: 0.08
+label: bar (3 fl oz)
+value: 0.09
+
+
+name: Ash
+unit: g
+value: 0.2
+label: bar (2.5 fl oz)
+value: 0.15
+label: bar (3 fl oz)
+value: 0.18
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 20.2
+label: bar (2.5 fl oz)
+value: 15.55
+label: bar (3 fl oz)
+value: 18.58
+
+
+name: Fiber, total dietary
+unit: g
+value: 1.0
+label: bar (2.5 fl oz)
+value: 0.8
+label: bar (3 fl oz)
+value: 0.9
+
+
+name: Sugars, total
+unit: g
+value: 17.48
+label: bar (2.5 fl oz)
+value: 13.46
+label: bar (3 fl oz)
+value: 16.08
+
+
+name: Calcium, Ca
+unit: mg
+value: 5.0
+label: bar (2.5 fl oz)
+value: 4.0
+label: bar (3 fl oz)
+value: 5.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.19
+label: bar (2.5 fl oz)
+value: 0.15
+label: bar (3 fl oz)
+value: 0.17
+
+
+name: Magnesium, Mg
+unit: mg
+value: 4.0
+label: bar (2.5 fl oz)
+value: 3.0
+label: bar (3 fl oz)
+value: 4.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 6.0
+label: bar (2.5 fl oz)
+value: 5.0
+label: bar (3 fl oz)
+value: 6.0
+
+
+name: Potassium, K
+unit: mg
+value: 53.0
+label: bar (2.5 fl oz)
+value: 41.0
+label: bar (3 fl oz)
+value: 49.0
+
+
+name: Sodium, Na
+unit: mg
+value: 4.0
+label: bar (2.5 fl oz)
+value: 3.0
+label: bar (3 fl oz)
+value: 4.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.05
+label: bar (2.5 fl oz)
+value: 0.04
+label: bar (3 fl oz)
+value: 0.05
+
+
+name: Copper, Cu
+unit: mg
+value: 0.0
+label: bar (2.5 fl oz)
+value: 0.0
+label: bar (3 fl oz)
+value: 0.0
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.165
+label: bar (2.5 fl oz)
+value: 0.127
+label: bar (3 fl oz)
+value: 0.152
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 0.2
+label: bar (2.5 fl oz)
+value: 0.2
+label: bar (3 fl oz)
+value: 0.2
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 9.5
+label: bar (2.5 fl oz)
+value: 7.3
+label: bar (3 fl oz)
+value: 8.7
+
+
+name: Thiamin
+unit: mg
+value: 0.011
+label: bar (2.5 fl oz)
+value: 0.008
+label: bar (3 fl oz)
+value: 0.01
+
+
+name: Riboflavin
+unit: mg
+value: 0.018
+label: bar (2.5 fl oz)
+value: 0.014
+label: bar (3 fl oz)
+value: 0.017
+
+
+name: Niacin
+unit: mg
+value: 0.159
+label: bar (2.5 fl oz)
+value: 0.122
+label: bar (3 fl oz)
+value: 0.146
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.04
+label: bar (2.5 fl oz)
+value: 0.031
+label: bar (3 fl oz)
+value: 0.037
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.025
+label: bar (2.5 fl oz)
+value: 0.019
+label: bar (3 fl oz)
+value: 0.023
+
+
+name: Folate, total
+unit: \u00B5g
+value: 7.0
+label: bar (2.5 fl oz)
+value: 5.0
+label: bar (3 fl oz)
+value: 6.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: bar (2.5 fl oz)
+value: 0.0
+label: bar (3 fl oz)
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 7.0
+label: bar (2.5 fl oz)
+value: 5.0
+label: bar (3 fl oz)
+value: 6.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 7.0
+label: bar (2.5 fl oz)
+value: 5.0
+label: bar (3 fl oz)
+value: 6.0
+
+
+name: Choline, total
+unit: mg
+value: 4.0
+label: bar (2.5 fl oz)
+value: 3.1
+label: bar (3 fl oz)
+value: 3.7
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: bar (2.5 fl oz)
+value: 0.0
+label: bar (3 fl oz)
+value: 0.0
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: bar (2.5 fl oz)
+value: 0.0
+label: bar (3 fl oz)
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 1.0
+label: bar (2.5 fl oz)
+value: 1.0
+label: bar (3 fl oz)
+value: 1.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: bar (2.5 fl oz)
+value: 0.0
+label: bar (3 fl oz)
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 11.0
+label: bar (2.5 fl oz)
+value: 8.0
+label: bar (3 fl oz)
+value: 10.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: bar (2.5 fl oz)
+value: 0.0
+label: bar (3 fl oz)
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: bar (2.5 fl oz)
+value: 0.0
+label: bar (3 fl oz)
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 18.0
+label: bar (2.5 fl oz)
+value: 14.0
+label: bar (3 fl oz)
+value: 17.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: bar (2.5 fl oz)
+value: 0.0
+label: bar (3 fl oz)
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 34.0
+label: bar (2.5 fl oz)
+value: 26.0
+label: bar (3 fl oz)
+value: 31.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.0
+label: bar (2.5 fl oz)
+value: 0.0
+label: bar (3 fl oz)
+value: 0.0
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: bar (2.5 fl oz)
+value: 0.0
+label: bar (3 fl oz)
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: bar (2.5 fl oz)
+value: 0.0
+label: bar (3 fl oz)
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: bar (2.5 fl oz)
+value: 0.0
+label: bar (3 fl oz)
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 0.9
+label: bar (2.5 fl oz)
+value: 0.7
+label: bar (3 fl oz)
+value: 0.8
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.0
+label: bar (2.5 fl oz)
+value: 0.0
+label: bar (3 fl oz)
+value: 0.0
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: bar (2.5 fl oz)
+value: 0.0
+label: bar (3 fl oz)
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: bar (2.5 fl oz)
+value: 0.0
+label: bar (3 fl oz)
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: bar (2.5 fl oz)
+value: 0.0
+label: bar (3 fl oz)
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: bar (2.5 fl oz)
+value: 0.0
+label: bar (3 fl oz)
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: bar (2.5 fl oz)
+value: 0.0
+label: bar (3 fl oz)
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.0
+label: bar (2.5 fl oz)
+value: 0.0
+label: bar (3 fl oz)
+value: 0.0
+
+
+name: 16:0
+unit: g
+value: 0.0
+label: bar (2.5 fl oz)
+value: 0.0
+label: bar (3 fl oz)
+value: 0.0
+
+
+name: 18:0
+unit: g
+value: 0.0
+label: bar (2.5 fl oz)
+value: 0.0
+label: bar (3 fl oz)
+value: 0.0
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.0
+label: bar (2.5 fl oz)
+value: 0.0
+label: bar (3 fl oz)
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.0
+label: bar (2.5 fl oz)
+value: 0.0
+label: bar (3 fl oz)
+value: 0.0
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.0
+label: bar (2.5 fl oz)
+value: 0.0
+label: bar (3 fl oz)
+value: 0.0
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: bar (2.5 fl oz)
+value: 0.0
+label: bar (3 fl oz)
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: bar (2.5 fl oz)
+value: 0.0
+label: bar (3 fl oz)
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.03
+label: bar (2.5 fl oz)
+value: 0.023
+label: bar (3 fl oz)
+value: 0.028
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.022
+label: bar (2.5 fl oz)
+value: 0.017
+label: bar (3 fl oz)
+value: 0.02
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.008
+label: bar (2.5 fl oz)
+value: 0.006
+label: bar (3 fl oz)
+value: 0.007
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: bar (2.5 fl oz)
+value: 0.0
+label: bar (3 fl oz)
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: bar (2.5 fl oz)
+value: 0.0
+label: bar (3 fl oz)
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: bar (2.5 fl oz)
+value: 0.0
+label: bar (3 fl oz)
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: bar (2.5 fl oz)
+value: 0.0
+label: bar (3 fl oz)
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: bar (2.5 fl oz)
+value: 0.0
+label: bar (3 fl oz)
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: bar (2.5 fl oz)
+value: 0.0
+label: bar (3 fl oz)
+value: 0.0
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: bar (2.5 fl oz)
+value: 0.0
+label: bar (3 fl oz)
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: bar (2.5 fl oz)
+value: 0.0
+label: bar (3 fl oz)
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: bar (2.5 fl oz)
+value: 0.0
+label: bar (3 fl oz)
+value: 0.0
+
+
+

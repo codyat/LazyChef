@@ -1,0 +1,657 @@
+ndbno: 21266
+
+
+name: TACO BELL, BURRITO SUPREME with chicken
+
+
+name: Water
+unit: g
+value: 61.0
+label: item
+value: 151.28
+
+
+name: Energy
+unit: kcal
+value: 179.0
+label: item
+value: 444.0
+
+
+name: Energy
+unit: kJ
+value: 750.0
+label: item
+value: 1860.0
+
+
+name: Protein
+unit: g
+value: 9.84
+label: item
+value: 24.4
+
+
+name: Total lipid (fat)
+unit: g
+value: 6.42
+label: item
+value: 15.92
+
+
+name: Ash
+unit: g
+value: 2.22
+label: item
+value: 5.51
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 20.51
+label: item
+value: 50.86
+
+
+name: Fiber, total dietary
+unit: g
+value: 2.4
+label: item
+value: 6.0
+
+
+name: Sucrose
+unit: g
+value: 0.15
+label: item
+value: 0.37
+
+
+name: Glucose (dextrose)
+unit: g
+value: 0.73
+label: item
+value: 1.81
+
+
+name: Fructose
+unit: g
+value: 0.55
+label: item
+value: 1.36
+
+
+name: Lactose
+unit: g
+value: 0.15
+label: item
+value: 0.37
+
+
+name: Maltose
+unit: g
+value: 0.15
+label: item
+value: 0.37
+
+
+name: Starch
+unit: g
+value: 15.1
+label: item
+value: 37.45
+
+
+name: Calcium, Ca
+unit: mg
+value: 94.0
+label: item
+value: 233.0
+
+
+name: Iron, Fe
+unit: mg
+value: 1.56
+label: item
+value: 3.87
+
+
+name: Magnesium, Mg
+unit: mg
+value: 28.0
+label: item
+value: 69.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 163.0
+label: item
+value: 404.0
+
+
+name: Potassium, K
+unit: mg
+value: 264.0
+label: item
+value: 655.0
+
+
+name: Sodium, Na
+unit: mg
+value: 564.0
+label: item
+value: 1399.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.65
+label: item
+value: 1.61
+
+
+name: Copper, Cu
+unit: mg
+value: 0.1
+label: item
+value: 0.248
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.27
+label: item
+value: 0.67
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 9.6
+label: item
+value: 23.8
+
+
+name: Thiamin
+unit: mg
+value: 0.174
+label: item
+value: 0.432
+
+
+name: Riboflavin
+unit: mg
+value: 0.171
+label: item
+value: 0.424
+
+
+name: Niacin
+unit: mg
+value: 3.9
+label: item
+value: 9.672
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.566
+label: item
+value: 1.404
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.126
+label: item
+value: 0.312
+
+
+name: Folate, total
+unit: \u00B5g
+value: 48.0
+label: item
+value: 119.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 23.0
+label: item
+value: 57.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 25.0
+label: item
+value: 62.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 64.0
+label: item
+value: 159.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.33
+label: item
+value: 0.82
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 4.0
+label: item
+value: 10.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 49.0
+label: item
+value: 122.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: item
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: item
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 82.0
+label: item
+value: 203.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.42
+label: item
+value: 1.04
+
+
+name: Tocopherol, beta
+unit: mg
+value: 0.02
+label: item
+value: 0.05
+
+
+name: Tocopherol, gamma
+unit: mg
+value: 1.22
+label: item
+value: 3.03
+
+
+name: Tocopherol, delta
+unit: mg
+value: 0.42
+label: item
+value: 1.04
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 5.3
+label: item
+value: 13.1
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 2.352
+label: item
+value: 5.833
+
+
+name: 8:0
+unit: g
+value: 0.027
+label: item
+value: 0.067
+
+
+name: 10:0
+unit: g
+value: 0.057
+label: item
+value: 0.141
+
+
+name: 12:0
+unit: g
+value: 0.065
+label: item
+value: 0.161
+
+
+name: 14:0
+unit: g
+value: 0.23
+label: item
+value: 0.57
+
+
+name: 15:0
+unit: g
+value: 0.02
+label: item
+value: 0.05
+
+
+name: 16:0
+unit: g
+value: 1.205
+label: item
+value: 2.988
+
+
+name: 17:0
+unit: g
+value: 0.02
+label: item
+value: 0.05
+
+
+name: 18:0
+unit: g
+value: 0.707
+label: item
+value: 1.753
+
+
+name: 20:0
+unit: g
+value: 0.017
+label: item
+value: 0.042
+
+
+name: 22:0
+unit: g
+value: 0.002
+label: item
+value: 0.005
+
+
+name: 24:0
+unit: g
+value: 0.0
+label: item
+value: 0.0
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 2.56
+label: item
+value: 6.349
+
+
+name: 14:1
+unit: g
+value: 0.02
+label: item
+value: 0.05
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: item
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.08
+label: item
+value: 0.198
+
+
+name: 17:1
+unit: g
+value: 0.0
+label: item
+value: 0.0
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 2.445
+label: item
+value: 6.064
+
+
+name: 20:1
+unit: g
+value: 0.015
+label: item
+value: 0.037
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: item
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.795
+label: item
+value: 1.972
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.685
+label: item
+value: 1.699
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.095
+label: item
+value: 0.236
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: item
+value: 0.0
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.0
+label: item
+value: 0.0
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.0
+label: item
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.015
+label: item
+value: 0.037
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: item
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: item
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: item
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 21.0
+label: item
+value: 52.0
+
+
+name: Tryptophan
+unit: g
+value: 0.11
+label: item
+value: 0.273
+
+
+name: Threonine
+unit: g
+value: 0.373
+label: item
+value: 0.925
+
+
+name: Isoleucine
+unit: g
+value: 0.383
+label: item
+value: 0.95
+
+
+name: Leucine
+unit: g
+value: 0.696
+label: item
+value: 1.726
+
+
+name: Lysine
+unit: g
+value: 0.627
+label: item
+value: 1.555
+
+
+name: Methionine
+unit: g
+value: 0.178
+label: item
+value: 0.441
+
+
+name: Cystine
+unit: g
+value: 0.11
+label: item
+value: 0.273
+
+
+name: Phenylalanine
+unit: g
+value: 0.42
+label: item
+value: 1.042
+
+
+name: Tyrosine
+unit: g
+value: 0.283
+label: item
+value: 0.702
+
+
+name: Valine
+unit: g
+value: 0.439
+label: item
+value: 1.089
+
+
+name: Arginine
+unit: g
+value: 0.473
+label: item
+value: 1.173
+
+
+name: Histidine
+unit: g
+value: 0.283
+label: item
+value: 0.702
+
+
+name: Alanine
+unit: g
+value: 0.4
+label: item
+value: 0.992
+
+
+name: Aspartic acid
+unit: g
+value: 0.838
+label: item
+value: 2.078
+
+
+name: Glutamic acid
+unit: g
+value: 1.845
+label: item
+value: 4.576
+
+
+name: Glycine
+unit: g
+value: 0.343
+label: item
+value: 0.851
+
+
+name: Proline
+unit: g
+value: 0.561
+label: item
+value: 1.391
+
+
+name: Serine
+unit: g
+value: 0.444
+label: item
+value: 1.101
+
+

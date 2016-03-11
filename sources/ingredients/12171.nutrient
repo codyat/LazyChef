@@ -1,0 +1,574 @@
+ndbno: 12171
+
+
+name: Seeds, sesame butter, tahini, from unroasted kernels (non-chemically removed seed coat)
+
+
+name: Water
+unit: g
+value: 3.0
+label: tbsp
+value: 0.42
+label: oz
+value: 0.85
+
+
+name: Energy
+unit: kcal
+value: 607.0
+label: tbsp
+value: 85.0
+label: oz
+value: 172.0
+
+
+name: Energy
+unit: kJ
+value: 2540.0
+label: tbsp
+value: 356.0
+label: oz
+value: 720.0
+
+
+name: Protein
+unit: g
+value: 17.95
+label: tbsp
+value: 2.51
+label: oz
+value: 5.09
+
+
+name: Total lipid (fat)
+unit: g
+value: 56.44
+label: tbsp
+value: 7.9
+label: oz
+value: 16.0
+
+
+name: Ash
+unit: g
+value: 4.73
+label: tbsp
+value: 0.66
+label: oz
+value: 1.34
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 17.89
+label: tbsp
+value: 2.5
+label: oz
+value: 5.07
+
+
+name: Fiber, total dietary
+unit: g
+value: 9.3
+label: tbsp
+value: 1.3
+label: oz
+value: 2.6
+
+
+name: Calcium, Ca
+unit: mg
+value: 141.0
+label: tbsp
+value: 20.0
+label: oz
+value: 40.0
+
+
+name: Iron, Fe
+unit: mg
+value: 6.35
+label: tbsp
+value: 0.89
+label: oz
+value: 1.8
+
+
+name: Magnesium, Mg
+unit: mg
+value: 353.0
+label: tbsp
+value: 49.0
+label: oz
+value: 100.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 790.0
+label: tbsp
+value: 111.0
+label: oz
+value: 224.0
+
+
+name: Potassium, K
+unit: mg
+value: 459.0
+label: tbsp
+value: 64.0
+label: oz
+value: 130.0
+
+
+name: Sodium, Na
+unit: mg
+value: 1.0
+label: tbsp
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 10.45
+label: tbsp
+value: 1.46
+label: oz
+value: 2.96
+
+
+name: Copper, Cu
+unit: mg
+value: 1.488
+label: tbsp
+value: 0.208
+label: oz
+value: 0.422
+
+
+name: Manganese, Mn
+unit: mg
+value: 1.457
+label: tbsp
+value: 0.204
+label: oz
+value: 0.413
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: tbsp
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 1.587
+label: tbsp
+value: 0.222
+label: oz
+value: 0.45
+
+
+name: Riboflavin
+unit: mg
+value: 0.12
+label: tbsp
+value: 0.017
+label: oz
+value: 0.034
+
+
+name: Niacin
+unit: mg
+value: 5.644
+label: tbsp
+value: 0.79
+label: oz
+value: 1.6
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.694
+label: tbsp
+value: 0.097
+label: oz
+value: 0.197
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.149
+label: tbsp
+value: 0.021
+label: oz
+value: 0.042
+
+
+name: Folate, total
+unit: \u00B5g
+value: 98.0
+label: tbsp
+value: 14.0
+label: oz
+value: 28.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: tbsp
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 98.0
+label: tbsp
+value: 14.0
+label: oz
+value: 28.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 98.0
+label: tbsp
+value: 14.0
+label: oz
+value: 28.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: tbsp
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 3.0
+label: tbsp
+value: 0.0
+label: oz
+value: 1.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: tbsp
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 67.0
+label: tbsp
+value: 9.0
+label: oz
+value: 19.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: tbsp
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: tbsp
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 7.904
+label: tbsp
+value: 1.107
+label: oz
+value: 2.241
+
+
+name: 14:0
+unit: g
+value: 0.141
+label: tbsp
+value: 0.02
+label: oz
+value: 0.04
+
+
+name: 16:0
+unit: g
+value: 5.046
+label: tbsp
+value: 0.706
+label: oz
+value: 1.431
+
+
+name: 18:0
+unit: g
+value: 2.374
+label: tbsp
+value: 0.332
+label: oz
+value: 0.673
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 21.313
+label: tbsp
+value: 2.984
+label: oz
+value: 6.042
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.169
+label: tbsp
+value: 0.024
+label: oz
+value: 0.048
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 21.043
+label: tbsp
+value: 2.946
+label: oz
+value: 5.966
+
+
+name: 20:1
+unit: g
+value: 0.079
+label: tbsp
+value: 0.011
+label: oz
+value: 0.022
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 24.737
+label: tbsp
+value: 3.463
+label: oz
+value: 7.013
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 24.285
+label: tbsp
+value: 3.4
+label: oz
+value: 6.885
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.427
+label: tbsp
+value: 0.06
+label: oz
+value: 0.121
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: tbsp
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Tryptophan
+unit: g
+value: 0.393
+label: tbsp
+value: 0.055
+label: oz
+value: 0.111
+
+
+name: Threonine
+unit: g
+value: 0.745
+label: tbsp
+value: 0.104
+label: oz
+value: 0.211
+
+
+name: Isoleucine
+unit: g
+value: 0.772
+label: tbsp
+value: 0.108
+label: oz
+value: 0.219
+
+
+name: Leucine
+unit: g
+value: 1.375
+label: tbsp
+value: 0.192
+label: oz
+value: 0.39
+
+
+name: Lysine
+unit: g
+value: 0.576
+label: tbsp
+value: 0.081
+label: oz
+value: 0.163
+
+
+name: Methionine
+unit: g
+value: 0.593
+label: tbsp
+value: 0.083
+label: oz
+value: 0.168
+
+
+name: Cystine
+unit: g
+value: 0.362
+label: tbsp
+value: 0.051
+label: oz
+value: 0.103
+
+
+name: Phenylalanine
+unit: g
+value: 0.951
+label: tbsp
+value: 0.133
+label: oz
+value: 0.27
+
+
+name: Tyrosine
+unit: g
+value: 0.752
+label: tbsp
+value: 0.105
+label: oz
+value: 0.213
+
+
+name: Valine
+unit: g
+value: 1.002
+label: tbsp
+value: 0.14
+label: oz
+value: 0.284
+
+
+name: Arginine
+unit: g
+value: 2.661
+label: tbsp
+value: 0.373
+label: oz
+value: 0.754
+
+
+name: Histidine
+unit: g
+value: 0.528
+label: tbsp
+value: 0.074
+label: oz
+value: 0.15
+
+
+name: Alanine
+unit: g
+value: 0.938
+label: tbsp
+value: 0.131
+label: oz
+value: 0.266
+
+
+name: Aspartic acid
+unit: g
+value: 1.666
+label: tbsp
+value: 0.233
+label: oz
+value: 0.472
+
+
+name: Glutamic acid
+unit: g
+value: 4.002
+label: tbsp
+value: 0.56
+label: oz
+value: 1.135
+
+
+name: Glycine
+unit: g
+value: 1.229
+label: tbsp
+value: 0.172
+label: oz
+value: 0.348
+
+
+name: Proline
+unit: g
+value: 0.819
+label: tbsp
+value: 0.115
+label: oz
+value: 0.232
+
+
+name: Serine
+unit: g
+value: 0.979
+label: tbsp
+value: 0.137
+label: oz
+value: 0.278
+
+
+

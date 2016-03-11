@@ -1,0 +1,627 @@
+ndbno: 05132
+
+
+name: Chicken, stewing, dark meat, meat only, cooked, stewed
+
+
+name: Water
+unit: g
+value: 55.09
+label: cup, chopped or diced
+value: 77.13
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 40.22
+
+
+name: Energy
+unit: kcal
+value: 258.0
+label: cup, chopped or diced
+value: 361.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 188.0
+
+
+name: Energy
+unit: kJ
+value: 1079.0
+label: cup, chopped or diced
+value: 1511.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 788.0
+
+
+name: Protein
+unit: g
+value: 28.14
+label: cup, chopped or diced
+value: 39.4
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 20.54
+
+
+name: Total lipid (fat)
+unit: g
+value: 15.28
+label: cup, chopped or diced
+value: 21.39
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 11.15
+
+
+name: Ash
+unit: g
+value: 1.49
+label: cup, chopped or diced
+value: 2.09
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 1.09
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 0.0
+label: cup, chopped or diced
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.0
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: cup, chopped or diced
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 12.0
+label: cup, chopped or diced
+value: 17.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 9.0
+
+
+name: Iron, Fe
+unit: mg
+value: 1.64
+label: cup, chopped or diced
+value: 2.3
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 1.2
+
+
+name: Magnesium, Mg
+unit: mg
+value: 22.0
+label: cup, chopped or diced
+value: 31.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 16.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 187.0
+label: cup, chopped or diced
+value: 262.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 137.0
+
+
+name: Potassium, K
+unit: mg
+value: 204.0
+label: cup, chopped or diced
+value: 286.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 149.0
+
+
+name: Sodium, Na
+unit: mg
+value: 95.0
+label: cup, chopped or diced
+value: 133.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 69.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 3.12
+label: cup, chopped or diced
+value: 4.37
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 2.28
+
+
+name: Copper, Cu
+unit: mg
+value: 0.144
+label: cup, chopped or diced
+value: 0.202
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.105
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.023
+label: cup, chopped or diced
+value: 0.032
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.017
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 21.8
+label: cup, chopped or diced
+value: 30.5
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 15.9
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: cup, chopped or diced
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.128
+label: cup, chopped or diced
+value: 0.179
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.093
+
+
+name: Riboflavin
+unit: mg
+value: 0.347
+label: cup, chopped or diced
+value: 0.486
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.253
+
+
+name: Niacin
+unit: mg
+value: 4.556
+label: cup, chopped or diced
+value: 6.378
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 3.326
+
+
+name: Pantothenic acid
+unit: mg
+value: 1.01
+label: cup, chopped or diced
+value: 1.414
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.737
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.24
+label: cup, chopped or diced
+value: 0.336
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.175
+
+
+name: Folate, total
+unit: \u00B5g
+value: 8.0
+label: cup, chopped or diced
+value: 11.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 6.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: cup, chopped or diced
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 8.0
+label: cup, chopped or diced
+value: 11.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 6.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 8.0
+label: cup, chopped or diced
+value: 11.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 6.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.25
+label: cup, chopped or diced
+value: 0.35
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.18
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 44.0
+label: cup, chopped or diced
+value: 62.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 32.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 44.0
+label: cup, chopped or diced
+value: 62.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 32.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 145.0
+label: cup, chopped or diced
+value: 203.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 106.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 4.07
+label: cup, chopped or diced
+value: 5.698
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 2.971
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: cup, chopped or diced
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.06
+label: cup, chopped or diced
+value: 0.084
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.044
+
+
+name: 14:0
+unit: g
+value: 0.1
+label: cup, chopped or diced
+value: 0.14
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.073
+
+
+name: 16:0
+unit: g
+value: 2.78
+label: cup, chopped or diced
+value: 3.892
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 2.029
+
+
+name: 18:0
+unit: g
+value: 1.0
+label: cup, chopped or diced
+value: 1.4
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.73
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 5.24
+label: cup, chopped or diced
+value: 7.336
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 3.825
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.73
+label: cup, chopped or diced
+value: 1.022
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.533
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 4.37
+label: cup, chopped or diced
+value: 6.118
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 3.19
+
+
+name: 20:1
+unit: g
+value: 0.06
+label: cup, chopped or diced
+value: 0.084
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.044
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: cup, chopped or diced
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 3.65
+label: cup, chopped or diced
+value: 5.11
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 2.664
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 2.93
+label: cup, chopped or diced
+value: 4.102
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 2.139
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.13
+label: cup, chopped or diced
+value: 0.182
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.095
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.28
+label: cup, chopped or diced
+value: 0.392
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.204
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.03
+label: cup, chopped or diced
+value: 0.042
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.022
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.06
+label: cup, chopped or diced
+value: 0.084
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.044
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.11
+label: cup, chopped or diced
+value: 0.154
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.08
+
+
+name: Cholesterol
+unit: mg
+value: 95.0
+label: cup, chopped or diced
+value: 133.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 69.0
+
+
+name: Tryptophan
+unit: g
+value: 0.329
+label: cup, chopped or diced
+value: 0.461
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.24
+
+
+name: Threonine
+unit: g
+value: 1.189
+label: cup, chopped or diced
+value: 1.665
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.868
+
+
+name: Isoleucine
+unit: g
+value: 1.486
+label: cup, chopped or diced
+value: 2.08
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 1.085
+
+
+name: Leucine
+unit: g
+value: 2.112
+label: cup, chopped or diced
+value: 2.957
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 1.542
+
+
+name: Lysine
+unit: g
+value: 2.391
+label: cup, chopped or diced
+value: 3.347
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 1.745
+
+
+name: Methionine
+unit: g
+value: 0.779
+label: cup, chopped or diced
+value: 1.091
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.569
+
+
+name: Cystine
+unit: g
+value: 0.36
+label: cup, chopped or diced
+value: 0.504
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.263
+
+
+name: Phenylalanine
+unit: g
+value: 1.117
+label: cup, chopped or diced
+value: 1.564
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.815
+
+
+name: Tyrosine
+unit: g
+value: 0.95
+label: cup, chopped or diced
+value: 1.33
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.693
+
+
+name: Valine
+unit: g
+value: 1.396
+label: cup, chopped or diced
+value: 1.954
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 1.019
+
+
+name: Arginine
+unit: g
+value: 1.698
+label: cup, chopped or diced
+value: 2.377
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 1.24
+
+
+name: Histidine
+unit: g
+value: 0.874
+label: cup, chopped or diced
+value: 1.224
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.638
+
+
+name: Alanine
+unit: g
+value: 1.536
+label: cup, chopped or diced
+value: 2.15
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 1.121
+
+
+name: Aspartic acid
+unit: g
+value: 2.508
+label: cup, chopped or diced
+value: 3.511
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 1.831
+
+
+name: Glutamic acid
+unit: g
+value: 4.215
+label: cup, chopped or diced
+value: 5.901
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 3.077
+
+
+name: Glycine
+unit: g
+value: 1.382
+label: cup, chopped or diced
+value: 1.935
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 1.009
+
+
+name: Proline
+unit: g
+value: 1.157
+label: cup, chopped or diced
+value: 1.62
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.845
+
+
+name: Serine
+unit: g
+value: 0.968
+label: cup, chopped or diced
+value: 1.355
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.707
+
+

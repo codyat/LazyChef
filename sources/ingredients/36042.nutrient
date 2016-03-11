@@ -1,0 +1,825 @@
+ndbno: 36042
+
+
+name: OLIVE GARDEN, lasagna classico
+
+
+name: Water
+unit: g
+value: 65.29
+label: serving
+value: 275.52
+
+
+name: Energy
+unit: kcal
+value: 184.0
+label: serving
+value: 776.0
+
+
+name: Energy
+unit: kJ
+value: 770.0
+label: serving
+value: 3249.0
+
+
+name: Protein
+unit: g
+value: 11.28
+label: serving
+value: 47.6
+
+
+name: Total lipid (fat)
+unit: g
+value: 10.84
+label: serving
+value: 45.74
+
+
+name: Ash
+unit: g
+value: 2.25
+label: serving
+value: 9.5
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 10.33
+label: serving
+value: 43.59
+
+
+name: Fiber, total dietary
+unit: g
+value: 1.6
+label: serving
+value: 6.8
+
+
+name: Sugars, total
+unit: g
+value: 3.53
+label: serving
+value: 14.9
+
+
+name: Sucrose
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: Glucose (dextrose)
+unit: g
+value: 1.02
+label: serving
+value: 4.3
+
+
+name: Fructose
+unit: g
+value: 1.11
+label: serving
+value: 4.68
+
+
+name: Lactose
+unit: g
+value: 1.22
+label: serving
+value: 5.15
+
+
+name: Maltose
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: Galactose
+unit: g
+value: 0.18
+label: serving
+value: 0.76
+
+
+name: Starch
+unit: g
+value: 4.83
+label: serving
+value: 20.38
+
+
+name: Calcium, Ca
+unit: mg
+value: 211.0
+label: serving
+value: 890.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.75
+label: serving
+value: 3.16
+
+
+name: Magnesium, Mg
+unit: mg
+value: 22.0
+label: serving
+value: 93.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 183.0
+label: serving
+value: 772.0
+
+
+name: Potassium, K
+unit: mg
+value: 258.0
+label: serving
+value: 1089.0
+
+
+name: Sodium, Na
+unit: mg
+value: 450.0
+label: serving
+value: 1899.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 1.31
+label: serving
+value: 5.53
+
+
+name: Copper, Cu
+unit: mg
+value: 0.061
+label: serving
+value: 0.257
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.113
+label: serving
+value: 0.477
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 15.2
+label: serving
+value: 64.1
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.7
+label: serving
+value: 3.0
+
+
+name: Thiamin
+unit: mg
+value: 0.16
+label: serving
+value: 0.675
+
+
+name: Riboflavin
+unit: mg
+value: 0.273
+label: serving
+value: 1.152
+
+
+name: Niacin
+unit: mg
+value: 1.93
+label: serving
+value: 8.145
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.515
+label: serving
+value: 2.173
+
+
+name: Folate, total
+unit: \u00B5g
+value: 35.0
+label: serving
+value: 148.0
+
+
+name: Choline, total
+unit: mg
+value: 33.5
+label: serving
+value: 141.4
+
+
+name: Betaine
+unit: mg
+value: 594.4
+label: serving
+value: 2508.4
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.55
+label: serving
+value: 2.32
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 60.0
+label: serving
+value: 253.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 48.0
+label: serving
+value: 203.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 153.0
+label: serving
+value: 646.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 414.0
+label: serving
+value: 1747.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 2177.0
+label: serving
+value: 9187.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 105.0
+label: serving
+value: 443.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.86
+label: serving
+value: 3.63
+
+
+name: Tocopherol, beta
+unit: mg
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: Tocopherol, gamma
+unit: mg
+value: 0.2
+label: serving
+value: 0.84
+
+
+name: Tocopherol, delta
+unit: mg
+value: 0.01
+label: serving
+value: 0.04
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 6.8
+label: serving
+value: 28.7
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 5.347
+label: serving
+value: 22.564
+
+
+name: 4:0
+unit: g
+value: 0.138
+label: serving
+value: 0.582
+
+
+name: 6:0
+unit: g
+value: 0.112
+label: serving
+value: 0.473
+
+
+name: 8:0
+unit: g
+value: 0.075
+label: serving
+value: 0.316
+
+
+name: 10:0
+unit: g
+value: 0.194
+label: serving
+value: 0.819
+
+
+name: 12:0
+unit: g
+value: 0.214
+label: serving
+value: 0.903
+
+
+name: 14:0
+unit: g
+value: 0.747
+label: serving
+value: 3.152
+
+
+name: 15:0
+unit: g
+value: 0.081
+label: serving
+value: 0.342
+
+
+name: 16:0
+unit: g
+value: 2.586
+label: serving
+value: 10.913
+
+
+name: 17:0
+unit: g
+value: 0.067
+label: serving
+value: 0.283
+
+
+name: 18:0
+unit: g
+value: 1.104
+label: serving
+value: 4.659
+
+
+name: 20:0
+unit: g
+value: 0.016
+label: serving
+value: 0.068
+
+
+name: 22:0
+unit: g
+value: 0.008
+label: serving
+value: 0.034
+
+
+name: 24:0
+unit: g
+value: 0.005
+label: serving
+value: 0.021
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 3.203
+label: serving
+value: 13.517
+
+
+name: 14:1
+unit: g
+value: 0.079
+label: serving
+value: 0.333
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.194
+label: serving
+value: 0.819
+
+
+name: 16:1 c
+unit: g
+value: 0.164
+label: serving
+value: 0.692
+
+
+name: 16:1 t
+unit: g
+value: 0.03
+label: serving
+value: 0.127
+
+
+name: 17:1
+unit: g
+value: 0.029
+label: serving
+value: 0.122
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 2.871
+label: serving
+value: 12.116
+
+
+name: 18:1 c
+unit: g
+value: 2.636
+label: serving
+value: 11.124
+
+
+name: 18:1 t
+unit: g
+value: 0.235
+label: serving
+value: 0.992
+
+
+name: 20:1
+unit: g
+value: 0.03
+label: serving
+value: 0.127
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: 22:1 c
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: 22:1 t
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: 24:1 c
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.789
+label: serving
+value: 3.33
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.664
+label: serving
+value: 2.802
+
+
+name: 18:2 n-6 c,c
+unit: g
+value: 0.552
+label: serving
+value: 2.329
+
+
+name: 18:2 CLAs
+unit: g
+value: 0.043
+label: serving
+value: 0.181
+
+
+name: 18:2 t not further defined
+unit: g
+value: 0.069
+label: serving
+value: 0.291
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.06
+label: serving
+value: 0.253
+
+
+name: 18:3 n-3 c,c,c (ALA)
+unit: g
+value: 0.058
+label: serving
+value: 0.245
+
+
+name: 18:3 n-6 c,c,c
+unit: g
+value: 0.002
+label: serving
+value: 0.008
+
+
+name: 18:3i
+unit: g
+value: 0.001
+label: serving
+value: 0.004
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.01
+label: serving
+value: 0.042
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.012
+label: serving
+value: 0.051
+
+
+name: 20:3 n-6
+unit: g
+value: 0.011
+label: serving
+value: 0.046
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.025
+label: serving
+value: 0.106
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.003
+label: serving
+value: 0.013
+
+
+name: 22:4
+unit: g
+value: 0.005
+label: serving
+value: 0.021
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.007
+label: serving
+value: 0.03
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.001
+label: serving
+value: 0.004
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.335
+label: serving
+value: 1.414
+
+
+name: Fatty acids, total trans-monoenoic
+unit: g
+value: 0.265
+label: serving
+value: 1.118
+
+
+name: Cholesterol
+unit: mg
+value: 40.0
+label: serving
+value: 169.0
+
+
+name: Tryptophan
+unit: g
+value: 0.125
+label: serving
+value: 0.528
+
+
+name: Threonine
+unit: g
+value: 0.393
+label: serving
+value: 1.658
+
+
+name: Isoleucine
+unit: g
+value: 0.429
+label: serving
+value: 1.81
+
+
+name: Leucine
+unit: g
+value: 0.902
+label: serving
+value: 3.806
+
+
+name: Lysine
+unit: g
+value: 0.84
+label: serving
+value: 3.545
+
+
+name: Methionine
+unit: g
+value: 0.25
+label: serving
+value: 1.055
+
+
+name: Cystine
+unit: g
+value: 0.116
+label: serving
+value: 0.49
+
+
+name: Phenylalanine
+unit: g
+value: 0.5
+label: serving
+value: 2.11
+
+
+name: Tyrosine
+unit: g
+value: 0.348
+label: serving
+value: 1.469
+
+
+name: Valine
+unit: g
+value: 0.483
+label: serving
+value: 2.038
+
+
+name: Arginine
+unit: g
+value: 0.456
+label: serving
+value: 1.924
+
+
+name: Histidine
+unit: g
+value: 0.277
+label: serving
+value: 1.169
+
+
+name: Alanine
+unit: g
+value: 0.429
+label: serving
+value: 1.81
+
+
+name: Aspartic acid
+unit: g
+value: 0.804
+label: serving
+value: 3.393
+
+
+name: Glutamic acid
+unit: g
+value: 2.019
+label: serving
+value: 8.52
+
+
+name: Glycine
+unit: g
+value: 0.366
+label: serving
+value: 1.545
+
+
+name: Proline
+unit: g
+value: 1.081
+label: serving
+value: 4.562
+
+
+name: Serine
+unit: g
+value: 0.509
+label: serving
+value: 2.148
+
+
+name: Hydroxyproline
+unit: g
+value: 0.09
+label: serving
+value: 0.38
+
+

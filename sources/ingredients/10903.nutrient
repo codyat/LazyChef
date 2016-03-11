@@ -1,0 +1,979 @@
+ndbno: 10903
+
+
+name: Pork, cured, ham with natural juices, shank, bone-in, separable lean and fat, unheated
+
+
+name: Water
+unit: g
+value: 65.04
+label: oz shank
+value: 18.44
+label: lb shank
+value: 295.02
+
+
+name: Energy
+unit: kcal
+value: 191.0
+label: oz shank
+value: 54.0
+label: lb shank
+value: 866.0
+
+
+name: Energy
+unit: kJ
+value: 797.0
+label: oz shank
+value: 226.0
+label: lb shank
+value: 3615.0
+
+
+name: Protein
+unit: g
+value: 22.35
+label: oz shank
+value: 6.34
+label: lb shank
+value: 101.38
+
+
+name: Total lipid (fat)
+unit: g
+value: 11.11
+label: oz shank
+value: 3.15
+label: lb shank
+value: 50.39
+
+
+name: Ash
+unit: g
+value: 2.53
+label: oz shank
+value: 0.72
+label: lb shank
+value: 11.48
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 0.32
+label: oz shank
+value: 0.09
+label: lb shank
+value: 1.45
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: oz shank
+value: 0.0
+label: lb shank
+value: 0.0
+
+
+name: Sugars, total
+unit: g
+value: 0.32
+label: oz shank
+value: 0.09
+label: lb shank
+value: 1.45
+
+
+name: Sucrose
+unit: g
+value: 0.04
+label: oz shank
+value: 0.01
+label: lb shank
+value: 0.18
+
+
+name: Glucose (dextrose)
+unit: g
+value: 0.16
+label: oz shank
+value: 0.05
+label: lb shank
+value: 0.73
+
+
+name: Fructose
+unit: g
+value: 0.12
+label: oz shank
+value: 0.03
+label: lb shank
+value: 0.54
+
+
+name: Lactose
+unit: g
+value: 0.0
+label: oz shank
+value: 0.0
+label: lb shank
+value: 0.0
+
+
+name: Maltose
+unit: g
+value: 0.0
+label: oz shank
+value: 0.0
+label: lb shank
+value: 0.0
+
+
+name: Galactose
+unit: g
+value: 0.0
+label: oz shank
+value: 0.0
+label: lb shank
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 6.0
+label: oz shank
+value: 2.0
+label: lb shank
+value: 27.0
+
+
+name: Iron, Fe
+unit: mg
+value: 1.01
+label: oz shank
+value: 0.29
+label: lb shank
+value: 4.58
+
+
+name: Magnesium, Mg
+unit: mg
+value: 19.0
+label: oz shank
+value: 5.0
+label: lb shank
+value: 86.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 233.0
+label: oz shank
+value: 66.0
+label: lb shank
+value: 1057.0
+
+
+name: Potassium, K
+unit: mg
+value: 279.0
+label: oz shank
+value: 79.0
+label: lb shank
+value: 1266.0
+
+
+name: Sodium, Na
+unit: mg
+value: 779.0
+label: oz shank
+value: 221.0
+label: lb shank
+value: 3534.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 2.53
+label: oz shank
+value: 0.72
+label: lb shank
+value: 11.48
+
+
+name: Copper, Cu
+unit: mg
+value: 0.114
+label: oz shank
+value: 0.032
+label: lb shank
+value: 0.517
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.022
+label: oz shank
+value: 0.006
+label: lb shank
+value: 0.1
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 46.6
+label: oz shank
+value: 13.2
+label: lb shank
+value: 211.4
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: oz shank
+value: 0.0
+label: lb shank
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.235
+label: oz shank
+value: 0.067
+label: lb shank
+value: 1.066
+
+
+name: Riboflavin
+unit: mg
+value: 0.211
+label: oz shank
+value: 0.06
+label: lb shank
+value: 0.957
+
+
+name: Niacin
+unit: mg
+value: 4.856
+label: oz shank
+value: 1.377
+label: lb shank
+value: 22.027
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.489
+label: oz shank
+value: 0.139
+label: lb shank
+value: 2.218
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.361
+label: oz shank
+value: 0.102
+label: lb shank
+value: 1.637
+
+
+name: Folate, total
+unit: \u00B5g
+value: 3.0
+label: oz shank
+value: 1.0
+label: lb shank
+value: 14.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: oz shank
+value: 0.0
+label: lb shank
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 3.0
+label: oz shank
+value: 1.0
+label: lb shank
+value: 14.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 3.0
+label: oz shank
+value: 1.0
+label: lb shank
+value: 14.0
+
+
+name: Choline, total
+unit: mg
+value: 86.9
+label: oz shank
+value: 24.6
+label: lb shank
+value: 394.2
+
+
+name: Betaine
+unit: mg
+value: 2.6
+label: oz shank
+value: 0.7
+label: lb shank
+value: 11.8
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.36
+label: oz shank
+value: 0.1
+label: lb shank
+value: 1.63
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: oz shank
+value: 0.0
+label: lb shank
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 10.0
+label: oz shank
+value: 3.0
+label: lb shank
+value: 45.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 10.0
+label: oz shank
+value: 3.0
+label: lb shank
+value: 45.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 0.0
+label: oz shank
+value: 0.0
+label: lb shank
+value: 0.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: oz shank
+value: 0.0
+label: lb shank
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: oz shank
+value: 0.0
+label: lb shank
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 35.0
+label: oz shank
+value: 10.0
+label: lb shank
+value: 159.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: oz shank
+value: 0.0
+label: lb shank
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 0.0
+label: oz shank
+value: 0.0
+label: lb shank
+value: 0.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.34
+label: oz shank
+value: 0.1
+label: lb shank
+value: 1.54
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: oz shank
+value: 0.0
+label: lb shank
+value: 0.0
+
+
+name: Tocopherol, beta
+unit: mg
+value: 0.0
+label: oz shank
+value: 0.0
+label: lb shank
+value: 0.0
+
+
+name: Tocopherol, gamma
+unit: mg
+value: 0.06
+label: oz shank
+value: 0.02
+label: lb shank
+value: 0.27
+
+
+name: Tocopherol, delta
+unit: mg
+value: 0.0
+label: oz shank
+value: 0.0
+label: lb shank
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 0.0
+label: oz shank
+value: 0.0
+label: lb shank
+value: 0.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 3.614
+label: oz shank
+value: 1.025
+label: lb shank
+value: 16.393
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: oz shank
+value: 0.0
+label: lb shank
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: oz shank
+value: 0.0
+label: lb shank
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: oz shank
+value: 0.0
+label: lb shank
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: oz shank
+value: 0.0
+label: lb shank
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: oz shank
+value: 0.0
+label: lb shank
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.129
+label: oz shank
+value: 0.037
+label: lb shank
+value: 0.585
+
+
+name: 15:0
+unit: g
+value: 0.0
+label: oz shank
+value: 0.0
+label: lb shank
+value: 0.0
+
+
+name: 16:0
+unit: g
+value: 2.309
+label: oz shank
+value: 0.655
+label: lb shank
+value: 10.474
+
+
+name: 17:0
+unit: g
+value: 0.029
+label: oz shank
+value: 0.008
+label: lb shank
+value: 0.132
+
+
+name: 18:0
+unit: g
+value: 1.115
+label: oz shank
+value: 0.316
+label: lb shank
+value: 5.058
+
+
+name: 20:0
+unit: g
+value: 0.017
+label: oz shank
+value: 0.005
+label: lb shank
+value: 0.077
+
+
+name: 22:0
+unit: g
+value: 0.015
+label: oz shank
+value: 0.004
+label: lb shank
+value: 0.068
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 5.088
+label: oz shank
+value: 1.442
+label: lb shank
+value: 23.079
+
+
+name: 14:1
+unit: g
+value: 0.0
+label: oz shank
+value: 0.0
+label: lb shank
+value: 0.0
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: oz shank
+value: 0.0
+label: lb shank
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.254
+label: oz shank
+value: 0.072
+label: lb shank
+value: 1.152
+
+
+name: 17:1
+unit: g
+value: 0.0
+label: oz shank
+value: 0.0
+label: lb shank
+value: 0.0
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 4.756
+label: oz shank
+value: 1.348
+label: lb shank
+value: 21.573
+
+
+name: 20:1
+unit: g
+value: 0.078
+label: oz shank
+value: 0.022
+label: lb shank
+value: 0.354
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: oz shank
+value: 0.0
+label: lb shank
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 1.419
+label: oz shank
+value: 0.402
+label: lb shank
+value: 6.437
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 1.256
+label: oz shank
+value: 0.356
+label: lb shank
+value: 5.697
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.054
+label: oz shank
+value: 0.015
+label: lb shank
+value: 0.245
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: oz shank
+value: 0.0
+label: lb shank
+value: 0.0
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.053
+label: oz shank
+value: 0.015
+label: lb shank
+value: 0.24
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.0
+label: oz shank
+value: 0.0
+label: lb shank
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.056
+label: oz shank
+value: 0.016
+label: lb shank
+value: 0.254
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: oz shank
+value: 0.0
+label: lb shank
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: oz shank
+value: 0.0
+label: lb shank
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: oz shank
+value: 0.0
+label: lb shank
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.085
+label: oz shank
+value: 0.024
+label: lb shank
+value: 0.386
+
+
+name: Cholesterol
+unit: mg
+value: 62.0
+label: oz shank
+value: 18.0
+label: lb shank
+value: 281.0
+
+
+name: Tryptophan
+unit: g
+value: 0.207
+label: oz shank
+value: 0.059
+label: lb shank
+value: 0.939
+
+
+name: Threonine
+unit: g
+value: 0.993
+label: oz shank
+value: 0.282
+label: lb shank
+value: 4.504
+
+
+name: Isoleucine
+unit: g
+value: 1.003
+label: oz shank
+value: 0.284
+label: lb shank
+value: 4.55
+
+
+name: Leucine
+unit: g
+value: 1.781
+label: oz shank
+value: 0.505
+label: lb shank
+value: 8.079
+
+
+name: Lysine
+unit: g
+value: 1.873
+label: oz shank
+value: 0.531
+label: lb shank
+value: 8.496
+
+
+name: Methionine
+unit: g
+value: 0.53
+label: oz shank
+value: 0.15
+label: lb shank
+value: 2.404
+
+
+name: Cystine
+unit: g
+value: 0.251
+label: oz shank
+value: 0.071
+label: lb shank
+value: 1.139
+
+
+name: Phenylalanine
+unit: g
+value: 0.89
+label: oz shank
+value: 0.252
+label: lb shank
+value: 4.037
+
+
+name: Tyrosine
+unit: g
+value: 0.719
+label: oz shank
+value: 0.204
+label: lb shank
+value: 3.261
+
+
+name: Valine
+unit: g
+value: 1.127
+label: oz shank
+value: 0.32
+label: lb shank
+value: 5.112
+
+
+name: Arginine
+unit: g
+value: 1.426
+label: oz shank
+value: 0.404
+label: lb shank
+value: 6.468
+
+
+name: Histidine
+unit: g
+value: 0.974
+label: oz shank
+value: 0.276
+label: lb shank
+value: 4.418
+
+
+name: Alanine
+unit: g
+value: 1.32
+label: oz shank
+value: 0.374
+label: lb shank
+value: 5.988
+
+
+name: Aspartic acid
+unit: g
+value: 1.947
+label: oz shank
+value: 0.552
+label: lb shank
+value: 8.832
+
+
+name: Glutamic acid
+unit: g
+value: 3.187
+label: oz shank
+value: 0.904
+label: lb shank
+value: 14.456
+
+
+name: Glycine
+unit: g
+value: 1.196
+label: oz shank
+value: 0.339
+label: lb shank
+value: 5.425
+
+
+name: Proline
+unit: g
+value: 0.967
+label: oz shank
+value: 0.274
+label: lb shank
+value: 4.386
+
+
+name: Serine
+unit: g
+value: 0.873
+label: oz shank
+value: 0.247
+label: lb shank
+value: 3.96
+
+
+name: Hydroxyproline
+unit: g
+value: 0.162
+label: oz shank
+value: 0.046
+label: lb shank
+value: 0.735
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: oz shank
+value: 0.0
+label: lb shank
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: oz shank
+value: 0.0
+label: lb shank
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: oz shank
+value: 0.0
+label: lb shank
+value: 0.0
+
+
+

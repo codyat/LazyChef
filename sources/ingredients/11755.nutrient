@@ -1,0 +1,574 @@
+ndbno: 11755
+
+
+name: Cabbage, chinese (pe-tsai), cooked, boiled, drained, with salt
+
+
+name: Water
+unit: g
+value: 95.24
+label: cup, shredded
+value: 113.34
+label: leaf
+value: 13.33
+
+
+name: Energy
+unit: kcal
+value: 14.0
+label: cup, shredded
+value: 17.0
+label: leaf
+value: 2.0
+
+
+name: Energy
+unit: kJ
+value: 59.0
+label: cup, shredded
+value: 70.0
+label: leaf
+value: 8.0
+
+
+name: Protein
+unit: g
+value: 1.5
+label: cup, shredded
+value: 1.78
+label: leaf
+value: 0.21
+
+
+name: Total lipid (fat)
+unit: g
+value: 0.17
+label: cup, shredded
+value: 0.2
+label: leaf
+value: 0.02
+
+
+name: Ash
+unit: g
+value: 0.68
+label: cup, shredded
+value: 0.81
+label: leaf
+value: 0.1
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 2.41
+label: cup, shredded
+value: 2.87
+label: leaf
+value: 0.34
+
+
+name: Fiber, total dietary
+unit: g
+value: 1.7
+label: cup, shredded
+value: 2.0
+label: leaf
+value: 0.2
+
+
+name: Calcium, Ca
+unit: mg
+value: 32.0
+label: cup, shredded
+value: 38.0
+label: leaf
+value: 4.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.3
+label: cup, shredded
+value: 0.36
+label: leaf
+value: 0.04
+
+
+name: Magnesium, Mg
+unit: mg
+value: 10.0
+label: cup, shredded
+value: 12.0
+label: leaf
+value: 1.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 39.0
+label: cup, shredded
+value: 46.0
+label: leaf
+value: 5.0
+
+
+name: Potassium, K
+unit: mg
+value: 225.0
+label: cup, shredded
+value: 268.0
+label: leaf
+value: 32.0
+
+
+name: Sodium, Na
+unit: mg
+value: 245.0
+label: cup, shredded
+value: 292.0
+label: leaf
+value: 34.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.18
+label: cup, shredded
+value: 0.21
+label: leaf
+value: 0.03
+
+
+name: Copper, Cu
+unit: mg
+value: 0.029
+label: cup, shredded
+value: 0.035
+label: leaf
+value: 0.004
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.153
+label: cup, shredded
+value: 0.182
+label: leaf
+value: 0.021
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 0.4
+label: cup, shredded
+value: 0.5
+label: leaf
+value: 0.1
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 15.8
+label: cup, shredded
+value: 18.8
+label: leaf
+value: 2.2
+
+
+name: Thiamin
+unit: mg
+value: 0.044
+label: cup, shredded
+value: 0.052
+label: leaf
+value: 0.006
+
+
+name: Riboflavin
+unit: mg
+value: 0.044
+label: cup, shredded
+value: 0.052
+label: leaf
+value: 0.006
+
+
+name: Niacin
+unit: mg
+value: 0.5
+label: cup, shredded
+value: 0.595
+label: leaf
+value: 0.07
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.08
+label: cup, shredded
+value: 0.095
+label: leaf
+value: 0.011
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.177
+label: cup, shredded
+value: 0.211
+label: leaf
+value: 0.025
+
+
+name: Folate, total
+unit: \u00B5g
+value: 53.0
+label: cup, shredded
+value: 63.0
+label: leaf
+value: 7.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: cup, shredded
+value: 0.0
+label: leaf
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 53.0
+label: cup, shredded
+value: 63.0
+label: leaf
+value: 7.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 53.0
+label: cup, shredded
+value: 63.0
+label: leaf
+value: 7.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: cup, shredded
+value: 0.0
+label: leaf
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 48.0
+label: cup, shredded
+value: 57.0
+label: leaf
+value: 7.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: cup, shredded
+value: 0.0
+label: leaf
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 967.0
+label: cup, shredded
+value: 1151.0
+label: leaf
+value: 135.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: cup, shredded
+value: 0.0
+label: leaf
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: cup, shredded
+value: 0.0
+label: leaf
+value: 0.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.036
+label: cup, shredded
+value: 0.043
+label: leaf
+value: 0.005
+
+
+name: 16:0
+unit: g
+value: 0.032
+label: cup, shredded
+value: 0.038
+label: leaf
+value: 0.004
+
+
+name: 18:0
+unit: g
+value: 0.004
+label: cup, shredded
+value: 0.005
+label: leaf
+value: 0.001
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.02
+label: cup, shredded
+value: 0.024
+label: leaf
+value: 0.003
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.002
+label: cup, shredded
+value: 0.002
+label: leaf
+value: 0.0
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.018
+label: cup, shredded
+value: 0.021
+label: leaf
+value: 0.003
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.061
+label: cup, shredded
+value: 0.073
+label: leaf
+value: 0.009
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.013
+label: cup, shredded
+value: 0.015
+label: leaf
+value: 0.002
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.048
+label: cup, shredded
+value: 0.057
+label: leaf
+value: 0.007
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.0
+label: cup, shredded
+value: 0.0
+label: leaf
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: cup, shredded
+value: 0.0
+label: leaf
+value: 0.0
+
+
+name: Tryptophan
+unit: g
+value: 0.015
+label: cup, shredded
+value: 0.018
+label: leaf
+value: 0.002
+
+
+name: Threonine
+unit: g
+value: 0.049
+label: cup, shredded
+value: 0.058
+label: leaf
+value: 0.007
+
+
+name: Isoleucine
+unit: g
+value: 0.085
+label: cup, shredded
+value: 0.101
+label: leaf
+value: 0.012
+
+
+name: Leucine
+unit: g
+value: 0.088
+label: cup, shredded
+value: 0.105
+label: leaf
+value: 0.012
+
+
+name: Lysine
+unit: g
+value: 0.089
+label: cup, shredded
+value: 0.106
+label: leaf
+value: 0.012
+
+
+name: Methionine
+unit: g
+value: 0.009
+label: cup, shredded
+value: 0.011
+label: leaf
+value: 0.001
+
+
+name: Cystine
+unit: g
+value: 0.017
+label: cup, shredded
+value: 0.02
+label: leaf
+value: 0.002
+
+
+name: Phenylalanine
+unit: g
+value: 0.044
+label: cup, shredded
+value: 0.052
+label: leaf
+value: 0.006
+
+
+name: Tyrosine
+unit: g
+value: 0.029
+label: cup, shredded
+value: 0.035
+label: leaf
+value: 0.004
+
+
+name: Valine
+unit: g
+value: 0.066
+label: cup, shredded
+value: 0.079
+label: leaf
+value: 0.009
+
+
+name: Arginine
+unit: g
+value: 0.084
+label: cup, shredded
+value: 0.1
+label: leaf
+value: 0.012
+
+
+name: Histidine
+unit: g
+value: 0.026
+label: cup, shredded
+value: 0.031
+label: leaf
+value: 0.004
+
+
+name: Alanine
+unit: g
+value: 0.086
+label: cup, shredded
+value: 0.102
+label: leaf
+value: 0.012
+
+
+name: Aspartic acid
+unit: g
+value: 0.108
+label: cup, shredded
+value: 0.129
+label: leaf
+value: 0.015
+
+
+name: Glutamic acid
+unit: g
+value: 0.36
+label: cup, shredded
+value: 0.428
+label: leaf
+value: 0.05
+
+
+name: Glycine
+unit: g
+value: 0.043
+label: cup, shredded
+value: 0.051
+label: leaf
+value: 0.006
+
+
+name: Proline
+unit: g
+value: 0.031
+label: cup, shredded
+value: 0.037
+label: leaf
+value: 0.004
+
+
+name: Serine
+unit: g
+value: 0.048
+label: cup, shredded
+value: 0.057
+label: leaf
+value: 0.007
+
+
+

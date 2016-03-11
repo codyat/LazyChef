@@ -1,0 +1,699 @@
+ndbno: 11957
+
+
+name: Fennel, bulb, raw
+
+
+name: Water
+unit: g
+value: 90.21
+label: cup, sliced
+value: 78.48
+label: bulb
+value: 211.09
+
+
+name: Energy
+unit: kcal
+value: 31.0
+label: cup, sliced
+value: 27.0
+label: bulb
+value: 73.0
+
+
+name: Energy
+unit: kJ
+value: 129.0
+label: cup, sliced
+value: 112.0
+label: bulb
+value: 302.0
+
+
+name: Protein
+unit: g
+value: 1.24
+label: cup, sliced
+value: 1.08
+label: bulb
+value: 2.9
+
+
+name: Total lipid (fat)
+unit: g
+value: 0.2
+label: cup, sliced
+value: 0.17
+label: bulb
+value: 0.47
+
+
+name: Ash
+unit: g
+value: 1.05
+label: cup, sliced
+value: 0.91
+label: bulb
+value: 2.46
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 7.3
+label: cup, sliced
+value: 6.35
+label: bulb
+value: 17.08
+
+
+name: Fiber, total dietary
+unit: g
+value: 3.1
+label: cup, sliced
+value: 2.7
+label: bulb
+value: 7.3
+
+
+name: Sugars, total
+unit: g
+value: 3.93
+label: cup, sliced
+value: 3.42
+label: bulb
+value: 9.2
+
+
+name: Calcium, Ca
+unit: mg
+value: 49.0
+label: cup, sliced
+value: 43.0
+label: bulb
+value: 115.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.73
+label: cup, sliced
+value: 0.64
+label: bulb
+value: 1.71
+
+
+name: Magnesium, Mg
+unit: mg
+value: 17.0
+label: cup, sliced
+value: 15.0
+label: bulb
+value: 40.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 50.0
+label: cup, sliced
+value: 44.0
+label: bulb
+value: 117.0
+
+
+name: Potassium, K
+unit: mg
+value: 414.0
+label: cup, sliced
+value: 360.0
+label: bulb
+value: 969.0
+
+
+name: Sodium, Na
+unit: mg
+value: 52.0
+label: cup, sliced
+value: 45.0
+label: bulb
+value: 122.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.2
+label: cup, sliced
+value: 0.17
+label: bulb
+value: 0.47
+
+
+name: Copper, Cu
+unit: mg
+value: 0.066
+label: cup, sliced
+value: 0.057
+label: bulb
+value: 0.154
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.191
+label: cup, sliced
+value: 0.166
+label: bulb
+value: 0.447
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 0.7
+label: cup, sliced
+value: 0.6
+label: bulb
+value: 1.6
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 12.0
+label: cup, sliced
+value: 10.4
+label: bulb
+value: 28.1
+
+
+name: Thiamin
+unit: mg
+value: 0.01
+label: cup, sliced
+value: 0.009
+label: bulb
+value: 0.023
+
+
+name: Riboflavin
+unit: mg
+value: 0.032
+label: cup, sliced
+value: 0.028
+label: bulb
+value: 0.075
+
+
+name: Niacin
+unit: mg
+value: 0.64
+label: cup, sliced
+value: 0.557
+label: bulb
+value: 1.498
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.232
+label: cup, sliced
+value: 0.202
+label: bulb
+value: 0.543
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.047
+label: cup, sliced
+value: 0.041
+label: bulb
+value: 0.11
+
+
+name: Folate, total
+unit: \u00B5g
+value: 27.0
+label: cup, sliced
+value: 23.0
+label: bulb
+value: 63.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: bulb
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 27.0
+label: cup, sliced
+value: 23.0
+label: bulb
+value: 63.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 27.0
+label: cup, sliced
+value: 23.0
+label: bulb
+value: 63.0
+
+
+name: Choline, total
+unit: mg
+value: 13.2
+label: cup, sliced
+value: 11.5
+label: bulb
+value: 30.9
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: bulb
+value: 0.0
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: bulb
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 48.0
+label: cup, sliced
+value: 42.0
+label: bulb
+value: 112.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: bulb
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 578.0
+label: cup, sliced
+value: 503.0
+label: bulb
+value: 1353.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: bulb
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: bulb
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 963.0
+label: cup, sliced
+value: 838.0
+label: bulb
+value: 2253.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: bulb
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 607.0
+label: cup, sliced
+value: 528.0
+label: bulb
+value: 1420.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.58
+label: cup, sliced
+value: 0.5
+label: bulb
+value: 1.36
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: bulb
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: bulb
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: bulb
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 62.8
+label: cup, sliced
+value: 54.6
+label: bulb
+value: 147.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.09
+label: cup, sliced
+value: 0.078
+label: bulb
+value: 0.211
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: bulb
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: bulb
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: bulb
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: bulb
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: bulb
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.002
+label: cup, sliced
+value: 0.002
+label: bulb
+value: 0.005
+
+
+name: 16:0
+unit: g
+value: 0.079
+label: cup, sliced
+value: 0.069
+label: bulb
+value: 0.185
+
+
+name: 18:0
+unit: g
+value: 0.009
+label: cup, sliced
+value: 0.008
+label: bulb
+value: 0.021
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.068
+label: cup, sliced
+value: 0.059
+label: bulb
+value: 0.159
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.002
+label: cup, sliced
+value: 0.002
+label: bulb
+value: 0.005
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.065
+label: cup, sliced
+value: 0.057
+label: bulb
+value: 0.152
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: bulb
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: bulb
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.169
+label: cup, sliced
+value: 0.147
+label: bulb
+value: 0.395
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.169
+label: cup, sliced
+value: 0.147
+label: bulb
+value: 0.395
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: bulb
+value: 0.0
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: bulb
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: bulb
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: bulb
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: bulb
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: bulb
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: bulb
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: bulb
+value: 0.0
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: bulb
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: bulb
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: bulb
+value: 0.0
+
+
+name: Eriodictyol
+unit: mg
+value: 1.1
+label: cup, sliced
+value: 0.9
+label: bulb
+value: 2.5
+
+
+name: Quercetin
+unit: mg
+value: 0.2
+label: cup, sliced
+value: 0.2
+label: bulb
+value: 0.5
+
+
+name: Daidzein
+unit: mg
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: bulb
+value: 0.0
+
+
+name: Genistein
+unit: mg
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: bulb
+value: 0.0
+
+
+name: Total isoflavones
+unit: mg
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: bulb
+value: 0.0
+
+

@@ -1,0 +1,824 @@
+ndbno: 35234
+
+
+name: Piki bread, made from blue cornmeal (Hopi)
+
+
+name: Water
+unit: g
+value: 8.98
+label: piece
+value: 2.51
+label: piece
+value: 1.71
+
+
+name: Energy
+unit: kcal
+value: 390.0
+label: piece
+value: 109.0
+label: piece
+value: 74.0
+
+
+name: Energy
+unit: kJ
+value: 1630.0
+label: piece
+value: 456.0
+label: piece
+value: 310.0
+
+
+name: Protein
+unit: g
+value: 9.06
+label: piece
+value: 2.54
+label: piece
+value: 1.72
+
+
+name: Total lipid (fat)
+unit: g
+value: 7.16
+label: piece
+value: 2.0
+label: piece
+value: 1.36
+
+
+name: Ash
+unit: g
+value: 2.58
+label: piece
+value: 0.72
+label: piece
+value: 0.49
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 72.22
+label: piece
+value: 20.22
+label: piece
+value: 13.72
+
+
+name: Fiber, total dietary
+unit: g
+value: 9.2
+label: piece
+value: 2.6
+label: piece
+value: 1.7
+
+
+name: Sugars, total
+unit: g
+value: 1.6
+label: piece
+value: 0.45
+label: piece
+value: 0.3
+
+
+name: Sucrose
+unit: g
+value: 1.6
+label: piece
+value: 0.45
+label: piece
+value: 0.3
+
+
+name: Glucose (dextrose)
+unit: g
+value: 0.0
+label: piece
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: Fructose
+unit: g
+value: 0.0
+label: piece
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: Lactose
+unit: g
+value: 0.0
+label: piece
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: Maltose
+unit: g
+value: 0.0
+label: piece
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: Galactose
+unit: g
+value: 0.0
+label: piece
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: Starch
+unit: g
+value: 61.3
+label: piece
+value: 17.16
+label: piece
+value: 11.65
+
+
+name: Calcium, Ca
+unit: mg
+value: 184.0
+label: piece
+value: 52.0
+label: piece
+value: 35.0
+
+
+name: Iron, Fe
+unit: mg
+value: 6.11
+label: piece
+value: 1.71
+label: piece
+value: 1.16
+
+
+name: Magnesium, Mg
+unit: mg
+value: 181.0
+label: piece
+value: 51.0
+label: piece
+value: 34.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 374.0
+label: piece
+value: 105.0
+label: piece
+value: 71.0
+
+
+name: Potassium, K
+unit: mg
+value: 604.0
+label: piece
+value: 169.0
+label: piece
+value: 115.0
+
+
+name: Sodium, Na
+unit: mg
+value: 60.0
+label: piece
+value: 17.0
+label: piece
+value: 11.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 3.75
+label: piece
+value: 1.05
+label: piece
+value: 0.71
+
+
+name: Copper, Cu
+unit: mg
+value: 0.286
+label: piece
+value: 0.08
+label: piece
+value: 0.054
+
+
+name: Manganese, Mn
+unit: mg
+value: 1.82
+label: piece
+value: 0.51
+label: piece
+value: 0.346
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 14.6
+label: piece
+value: 4.1
+label: piece
+value: 2.8
+
+
+name: Thiamin
+unit: mg
+value: 0.16
+label: piece
+value: 0.045
+label: piece
+value: 0.03
+
+
+name: Riboflavin
+unit: mg
+value: 0.05
+label: piece
+value: 0.014
+label: piece
+value: 0.01
+
+
+name: Niacin
+unit: mg
+value: 2.92
+label: piece
+value: 0.818
+label: piece
+value: 0.555
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.72
+label: piece
+value: 0.202
+label: piece
+value: 0.137
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.542
+label: piece
+value: 0.152
+label: piece
+value: 0.103
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 0.0
+label: piece
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 1.0
+label: piece
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: piece
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 1.0
+label: piece
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 3.0
+label: piece
+value: 1.0
+label: piece
+value: 1.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: piece
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 9.0
+label: piece
+value: 3.0
+label: piece
+value: 2.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.76
+label: piece
+value: 0.21
+label: piece
+value: 0.14
+
+
+name: Tocopherol, beta
+unit: mg
+value: 0.03
+label: piece
+value: 0.01
+label: piece
+value: 0.01
+
+
+name: Tocopherol, gamma
+unit: mg
+value: 4.83
+label: piece
+value: 1.35
+label: piece
+value: 0.92
+
+
+name: Tocopherol, delta
+unit: mg
+value: 0.15
+label: piece
+value: 0.04
+label: piece
+value: 0.03
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 0.2
+label: piece
+value: 0.1
+label: piece
+value: 0.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.819
+label: piece
+value: 0.229
+label: piece
+value: 0.156
+
+
+name: 4:0
+unit: g
+value: 0.006
+label: piece
+value: 0.002
+label: piece
+value: 0.001
+
+
+name: 6:0
+unit: g
+value: 0.002
+label: piece
+value: 0.001
+label: piece
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: piece
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.012
+label: piece
+value: 0.003
+label: piece
+value: 0.002
+
+
+name: 12:0
+unit: g
+value: 0.001
+label: piece
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.003
+label: piece
+value: 0.001
+label: piece
+value: 0.001
+
+
+name: 15:0
+unit: g
+value: 0.002
+label: piece
+value: 0.001
+label: piece
+value: 0.0
+
+
+name: 16:0
+unit: g
+value: 0.561
+label: piece
+value: 0.157
+label: piece
+value: 0.107
+
+
+name: 17:0
+unit: g
+value: 0.005
+label: piece
+value: 0.001
+label: piece
+value: 0.001
+
+
+name: 18:0
+unit: g
+value: 0.181
+label: piece
+value: 0.051
+label: piece
+value: 0.034
+
+
+name: 20:0
+unit: g
+value: 0.03
+label: piece
+value: 0.008
+label: piece
+value: 0.006
+
+
+name: 22:0
+unit: g
+value: 0.007
+label: piece
+value: 0.002
+label: piece
+value: 0.001
+
+
+name: 24:0
+unit: g
+value: 0.009
+label: piece
+value: 0.003
+label: piece
+value: 0.002
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 1.783
+label: piece
+value: 0.499
+label: piece
+value: 0.339
+
+
+name: 14:1
+unit: g
+value: 0.001
+label: piece
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: piece
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.007
+label: piece
+value: 0.002
+label: piece
+value: 0.001
+
+
+name: 16:1 c
+unit: g
+value: 0.007
+label: piece
+value: 0.002
+label: piece
+value: 0.001
+
+
+name: 16:1 t
+unit: g
+value: 0.0
+label: piece
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: 17:1
+unit: g
+value: 0.003
+label: piece
+value: 0.001
+label: piece
+value: 0.001
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 1.747
+label: piece
+value: 0.489
+label: piece
+value: 0.332
+
+
+name: 18:1 c
+unit: g
+value: 1.744
+label: piece
+value: 0.488
+label: piece
+value: 0.331
+
+
+name: 18:1 t
+unit: g
+value: 0.003
+label: piece
+value: 0.001
+label: piece
+value: 0.001
+
+
+name: 20:1
+unit: g
+value: 0.021
+label: piece
+value: 0.006
+label: piece
+value: 0.004
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.003
+label: piece
+value: 0.001
+label: piece
+value: 0.001
+
+
+name: 22:1 c
+unit: g
+value: 0.003
+label: piece
+value: 0.001
+label: piece
+value: 0.001
+
+
+name: 22:1 t
+unit: g
+value: 0.0
+label: piece
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: 24:1 c
+unit: g
+value: 0.001
+label: piece
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 1.623
+label: piece
+value: 0.454
+label: piece
+value: 0.308
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 1.568
+label: piece
+value: 0.439
+label: piece
+value: 0.298
+
+
+name: 18:2 n-6 c,c
+unit: g
+value: 1.565
+label: piece
+value: 0.438
+label: piece
+value: 0.297
+
+
+name: 18:2 CLAs
+unit: g
+value: 0.0
+label: piece
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: 18:2 t not further defined
+unit: g
+value: 0.003
+label: piece
+value: 0.001
+label: piece
+value: 0.001
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.045
+label: piece
+value: 0.013
+label: piece
+value: 0.009
+
+
+name: 18:3 n-3 c,c,c (ALA)
+unit: g
+value: 0.045
+label: piece
+value: 0.013
+label: piece
+value: 0.009
+
+
+name: 18:3 n-6 c,c,c
+unit: g
+value: 0.0
+label: piece
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: piece
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.001
+label: piece
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.002
+label: piece
+value: 0.001
+label: piece
+value: 0.0
+
+
+name: 20:3 n-6
+unit: g
+value: 0.0
+label: piece
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.003
+label: piece
+value: 0.001
+label: piece
+value: 0.001
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: piece
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: 22:4
+unit: g
+value: 0.002
+label: piece
+value: 0.001
+label: piece
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: piece
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.002
+label: piece
+value: 0.001
+label: piece
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.006
+label: piece
+value: 0.002
+label: piece
+value: 0.001
+
+
+name: Fatty acids, total trans-monoenoic
+unit: g
+value: 0.003
+label: piece
+value: 0.001
+label: piece
+value: 0.001
+

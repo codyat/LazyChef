@@ -1,0 +1,1254 @@
+ndbno: 18060
+
+
+name: Bread, rye
+
+
+name: Water
+unit: g
+value: 37.3
+label: oz
+value: 10.57
+label: slice, regular
+value: 11.94
+label: slice, snack-size
+value: 2.61
+label: slice, thin
+value: 9.32
+
+
+name: Energy
+unit: kcal
+value: 259.0
+label: oz
+value: 73.0
+label: slice, regular
+value: 83.0
+label: slice, snack-size
+value: 18.0
+label: slice, thin
+value: 65.0
+
+
+name: Energy
+unit: kJ
+value: 1084.0
+label: oz
+value: 307.0
+label: slice, regular
+value: 347.0
+label: slice, snack-size
+value: 76.0
+label: slice, thin
+value: 271.0
+
+
+name: Protein
+unit: g
+value: 8.5
+label: oz
+value: 2.41
+label: slice, regular
+value: 2.72
+label: slice, snack-size
+value: 0.6
+label: slice, thin
+value: 2.12
+
+
+name: Total lipid (fat)
+unit: g
+value: 3.3
+label: oz
+value: 0.94
+label: slice, regular
+value: 1.06
+label: slice, snack-size
+value: 0.23
+label: slice, thin
+value: 0.82
+
+
+name: Ash
+unit: g
+value: 2.5
+label: oz
+value: 0.71
+label: slice, regular
+value: 0.8
+label: slice, snack-size
+value: 0.18
+label: slice, thin
+value: 0.62
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 48.3
+label: oz
+value: 13.69
+label: slice, regular
+value: 15.46
+label: slice, snack-size
+value: 3.38
+label: slice, thin
+value: 12.08
+
+
+name: Fiber, total dietary
+unit: g
+value: 5.8
+label: oz
+value: 1.6
+label: slice, regular
+value: 1.9
+label: slice, snack-size
+value: 0.4
+label: slice, thin
+value: 1.4
+
+
+name: Sugars, total
+unit: g
+value: 3.85
+label: oz
+value: 1.09
+label: slice, regular
+value: 1.23
+label: slice, snack-size
+value: 0.27
+label: slice, thin
+value: 0.96
+
+
+name: Calcium, Ca
+unit: mg
+value: 73.0
+label: oz
+value: 21.0
+label: slice, regular
+value: 23.0
+label: slice, snack-size
+value: 5.0
+label: slice, thin
+value: 18.0
+
+
+name: Iron, Fe
+unit: mg
+value: 2.83
+label: oz
+value: 0.8
+label: slice, regular
+value: 0.91
+label: slice, snack-size
+value: 0.2
+label: slice, thin
+value: 0.71
+
+
+name: Magnesium, Mg
+unit: mg
+value: 40.0
+label: oz
+value: 11.0
+label: slice, regular
+value: 13.0
+label: slice, snack-size
+value: 3.0
+label: slice, thin
+value: 10.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 125.0
+label: oz
+value: 35.0
+label: slice, regular
+value: 40.0
+label: slice, snack-size
+value: 9.0
+label: slice, thin
+value: 31.0
+
+
+name: Potassium, K
+unit: mg
+value: 166.0
+label: oz
+value: 47.0
+label: slice, regular
+value: 53.0
+label: slice, snack-size
+value: 12.0
+label: slice, thin
+value: 42.0
+
+
+name: Sodium, Na
+unit: mg
+value: 603.0
+label: oz
+value: 171.0
+label: slice, regular
+value: 193.0
+label: slice, snack-size
+value: 42.0
+label: slice, thin
+value: 151.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 1.14
+label: oz
+value: 0.32
+label: slice, regular
+value: 0.36
+label: slice, snack-size
+value: 0.08
+label: slice, thin
+value: 0.28
+
+
+name: Copper, Cu
+unit: mg
+value: 0.186
+label: oz
+value: 0.053
+label: slice, regular
+value: 0.06
+label: slice, snack-size
+value: 0.013
+label: slice, thin
+value: 0.047
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.824
+label: oz
+value: 0.234
+label: slice, regular
+value: 0.264
+label: slice, snack-size
+value: 0.058
+label: slice, thin
+value: 0.206
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 30.9
+label: oz
+value: 8.8
+label: slice, regular
+value: 9.9
+label: slice, snack-size
+value: 2.2
+label: slice, thin
+value: 7.7
+
+
+name: Fluoride, F
+unit: \u00B5g
+value: 51.0
+label: oz
+value: 14.5
+label: slice, regular
+value: 16.3
+label: slice, snack-size
+value: 3.6
+label: slice, thin
+value: 12.8
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.4
+label: oz
+value: 0.1
+label: slice, regular
+value: 0.1
+label: slice, snack-size
+value: 0.0
+label: slice, thin
+value: 0.1
+
+
+name: Thiamin
+unit: mg
+value: 0.434
+label: oz
+value: 0.123
+label: slice, regular
+value: 0.139
+label: slice, snack-size
+value: 0.03
+label: slice, thin
+value: 0.108
+
+
+name: Riboflavin
+unit: mg
+value: 0.335
+label: oz
+value: 0.095
+label: slice, regular
+value: 0.107
+label: slice, snack-size
+value: 0.023
+label: slice, thin
+value: 0.084
+
+
+name: Niacin
+unit: mg
+value: 3.805
+label: oz
+value: 1.079
+label: slice, regular
+value: 1.218
+label: slice, snack-size
+value: 0.266
+label: slice, thin
+value: 0.951
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.44
+label: oz
+value: 0.125
+label: slice, regular
+value: 0.141
+label: slice, snack-size
+value: 0.031
+label: slice, thin
+value: 0.11
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.075
+label: oz
+value: 0.021
+label: slice, regular
+value: 0.024
+label: slice, snack-size
+value: 0.005
+label: slice, thin
+value: 0.019
+
+
+name: Folate, total
+unit: \u00B5g
+value: 110.0
+label: oz
+value: 31.0
+label: slice, regular
+value: 35.0
+label: slice, snack-size
+value: 8.0
+label: slice, thin
+value: 28.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 59.0
+label: oz
+value: 17.0
+label: slice, regular
+value: 19.0
+label: slice, snack-size
+value: 4.0
+label: slice, thin
+value: 15.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 51.0
+label: oz
+value: 14.0
+label: slice, regular
+value: 16.0
+label: slice, snack-size
+value: 4.0
+label: slice, thin
+value: 13.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 151.0
+label: oz
+value: 43.0
+label: slice, regular
+value: 48.0
+label: slice, snack-size
+value: 11.0
+label: slice, thin
+value: 38.0
+
+
+name: Choline, total
+unit: mg
+value: 14.6
+label: oz
+value: 4.1
+label: slice, regular
+value: 4.7
+label: slice, snack-size
+value: 1.0
+label: slice, thin
+value: 3.6
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: slice, regular
+value: 0.0
+label: slice, snack-size
+value: 0.0
+label: slice, thin
+value: 0.0
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: slice, regular
+value: 0.0
+label: slice, snack-size
+value: 0.0
+label: slice, thin
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: slice, regular
+value: 0.0
+label: slice, snack-size
+value: 0.0
+label: slice, thin
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: slice, regular
+value: 0.0
+label: slice, snack-size
+value: 0.0
+label: slice, thin
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 4.0
+label: oz
+value: 1.0
+label: slice, regular
+value: 1.0
+label: slice, snack-size
+value: 0.0
+label: slice, thin
+value: 1.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: slice, regular
+value: 0.0
+label: slice, snack-size
+value: 0.0
+label: slice, thin
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 1.0
+label: oz
+value: 0.0
+label: slice, regular
+value: 0.0
+label: slice, snack-size
+value: 0.0
+label: slice, thin
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 7.0
+label: oz
+value: 2.0
+label: slice, regular
+value: 2.0
+label: slice, snack-size
+value: 0.0
+label: slice, thin
+value: 2.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: slice, regular
+value: 0.0
+label: slice, snack-size
+value: 0.0
+label: slice, thin
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 54.0
+label: oz
+value: 15.0
+label: slice, regular
+value: 17.0
+label: slice, snack-size
+value: 4.0
+label: slice, thin
+value: 14.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.33
+label: oz
+value: 0.09
+label: slice, regular
+value: 0.11
+label: slice, snack-size
+value: 0.02
+label: slice, thin
+value: 0.08
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: slice, regular
+value: 0.0
+label: slice, snack-size
+value: 0.0
+label: slice, thin
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: slice, regular
+value: 0.0
+label: slice, snack-size
+value: 0.0
+label: slice, thin
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: oz
+value: 0.0
+label: slice, regular
+value: 0.0
+label: slice, snack-size
+value: 0.0
+label: slice, thin
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 1.2
+label: oz
+value: 0.3
+label: slice, regular
+value: 0.4
+label: slice, snack-size
+value: 0.1
+label: slice, thin
+value: 0.3
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.626
+label: oz
+value: 0.177
+label: slice, regular
+value: 0.2
+label: slice, snack-size
+value: 0.044
+label: slice, thin
+value: 0.156
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: slice, regular
+value: 0.0
+label: slice, snack-size
+value: 0.0
+label: slice, thin
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: slice, regular
+value: 0.0
+label: slice, snack-size
+value: 0.0
+label: slice, thin
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: slice, regular
+value: 0.0
+label: slice, snack-size
+value: 0.0
+label: slice, thin
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: slice, regular
+value: 0.0
+label: slice, snack-size
+value: 0.0
+label: slice, thin
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: slice, regular
+value: 0.0
+label: slice, snack-size
+value: 0.0
+label: slice, thin
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.011
+label: oz
+value: 0.003
+label: slice, regular
+value: 0.004
+label: slice, snack-size
+value: 0.001
+label: slice, thin
+value: 0.003
+
+
+name: 16:0
+unit: g
+value: 0.385
+label: oz
+value: 0.109
+label: slice, regular
+value: 0.123
+label: slice, snack-size
+value: 0.027
+label: slice, thin
+value: 0.096
+
+
+name: 18:0
+unit: g
+value: 0.23
+label: oz
+value: 0.065
+label: slice, regular
+value: 0.074
+label: slice, snack-size
+value: 0.016
+label: slice, thin
+value: 0.058
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 1.311
+label: oz
+value: 0.372
+label: slice, regular
+value: 0.42
+label: slice, snack-size
+value: 0.092
+label: slice, thin
+value: 0.328
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.012
+label: oz
+value: 0.003
+label: slice, regular
+value: 0.004
+label: slice, snack-size
+value: 0.001
+label: slice, thin
+value: 0.003
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 1.296
+label: oz
+value: 0.367
+label: slice, regular
+value: 0.415
+label: slice, snack-size
+value: 0.091
+label: slice, thin
+value: 0.324
+
+
+name: 20:1
+unit: g
+value: 0.003
+label: oz
+value: 0.001
+label: slice, regular
+value: 0.001
+label: slice, snack-size
+value: 0.0
+label: slice, thin
+value: 0.001
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: slice, regular
+value: 0.0
+label: slice, snack-size
+value: 0.0
+label: slice, thin
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.799
+label: oz
+value: 0.227
+label: slice, regular
+value: 0.256
+label: slice, snack-size
+value: 0.056
+label: slice, thin
+value: 0.2
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.739
+label: oz
+value: 0.21
+label: slice, regular
+value: 0.236
+label: slice, snack-size
+value: 0.052
+label: slice, thin
+value: 0.185
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.06
+label: oz
+value: 0.017
+label: slice, regular
+value: 0.019
+label: slice, snack-size
+value: 0.004
+label: slice, thin
+value: 0.015
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: slice, regular
+value: 0.0
+label: slice, snack-size
+value: 0.0
+label: slice, thin
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: slice, regular
+value: 0.0
+label: slice, snack-size
+value: 0.0
+label: slice, thin
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: slice, regular
+value: 0.0
+label: slice, snack-size
+value: 0.0
+label: slice, thin
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: slice, regular
+value: 0.0
+label: slice, snack-size
+value: 0.0
+label: slice, thin
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: slice, regular
+value: 0.0
+label: slice, snack-size
+value: 0.0
+label: slice, thin
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: slice, regular
+value: 0.0
+label: slice, snack-size
+value: 0.0
+label: slice, thin
+value: 0.0
+
+
+name: Tryptophan
+unit: g
+value: 0.096
+label: oz
+value: 0.027
+label: slice, regular
+value: 0.031
+label: slice, snack-size
+value: 0.007
+label: slice, thin
+value: 0.024
+
+
+name: Threonine
+unit: g
+value: 0.255
+label: oz
+value: 0.072
+label: slice, regular
+value: 0.082
+label: slice, snack-size
+value: 0.018
+label: slice, thin
+value: 0.064
+
+
+name: Isoleucine
+unit: g
+value: 0.319
+label: oz
+value: 0.09
+label: slice, regular
+value: 0.102
+label: slice, snack-size
+value: 0.022
+label: slice, thin
+value: 0.08
+
+
+name: Leucine
+unit: g
+value: 0.579
+label: oz
+value: 0.164
+label: slice, regular
+value: 0.185
+label: slice, snack-size
+value: 0.041
+label: slice, thin
+value: 0.145
+
+
+name: Lysine
+unit: g
+value: 0.233
+label: oz
+value: 0.066
+label: slice, regular
+value: 0.075
+label: slice, snack-size
+value: 0.016
+label: slice, thin
+value: 0.058
+
+
+name: Methionine
+unit: g
+value: 0.139
+label: oz
+value: 0.039
+label: slice, regular
+value: 0.044
+label: slice, snack-size
+value: 0.01
+label: slice, thin
+value: 0.035
+
+
+name: Cystine
+unit: g
+value: 0.173
+label: oz
+value: 0.049
+label: slice, regular
+value: 0.055
+label: slice, snack-size
+value: 0.012
+label: slice, thin
+value: 0.043
+
+
+name: Phenylalanine
+unit: g
+value: 0.411
+label: oz
+value: 0.117
+label: slice, regular
+value: 0.132
+label: slice, snack-size
+value: 0.029
+label: slice, thin
+value: 0.103
+
+
+name: Tyrosine
+unit: g
+value: 0.213
+label: oz
+value: 0.06
+label: slice, regular
+value: 0.068
+label: slice, snack-size
+value: 0.015
+label: slice, thin
+value: 0.053
+
+
+name: Valine
+unit: g
+value: 0.379
+label: oz
+value: 0.107
+label: slice, regular
+value: 0.121
+label: slice, snack-size
+value: 0.027
+label: slice, thin
+value: 0.095
+
+
+name: Arginine
+unit: g
+value: 0.325
+label: oz
+value: 0.092
+label: slice, regular
+value: 0.104
+label: slice, snack-size
+value: 0.023
+label: slice, thin
+value: 0.081
+
+
+name: Histidine
+unit: g
+value: 0.182
+label: oz
+value: 0.052
+label: slice, regular
+value: 0.058
+label: slice, snack-size
+value: 0.013
+label: slice, thin
+value: 0.046
+
+
+name: Alanine
+unit: g
+value: 0.299
+label: oz
+value: 0.085
+label: slice, regular
+value: 0.096
+label: slice, snack-size
+value: 0.021
+label: slice, thin
+value: 0.075
+
+
+name: Aspartic acid
+unit: g
+value: 0.442
+label: oz
+value: 0.125
+label: slice, regular
+value: 0.141
+label: slice, snack-size
+value: 0.031
+label: slice, thin
+value: 0.11
+
+
+name: Glutamic acid
+unit: g
+value: 2.603
+label: oz
+value: 0.738
+label: slice, regular
+value: 0.833
+label: slice, snack-size
+value: 0.182
+label: slice, thin
+value: 0.651
+
+
+name: Glycine
+unit: g
+value: 0.302
+label: oz
+value: 0.086
+label: slice, regular
+value: 0.097
+label: slice, snack-size
+value: 0.021
+label: slice, thin
+value: 0.076
+
+
+name: Proline
+unit: g
+value: 0.909
+label: oz
+value: 0.258
+label: slice, regular
+value: 0.291
+label: slice, snack-size
+value: 0.064
+label: slice, thin
+value: 0.227
+
+
+name: Serine
+unit: g
+value: 0.417
+label: oz
+value: 0.118
+label: slice, regular
+value: 0.133
+label: slice, snack-size
+value: 0.029
+label: slice, thin
+value: 0.104
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: slice, regular
+value: 0.0
+label: slice, snack-size
+value: 0.0
+label: slice, thin
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: slice, regular
+value: 0.0
+label: slice, snack-size
+value: 0.0
+label: slice, thin
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: slice, regular
+value: 0.0
+label: slice, snack-size
+value: 0.0
+label: slice, thin
+value: 0.0
+
+
+name: Daidzein
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: slice, regular
+value: 0.0
+label: slice, snack-size
+value: 0.0
+label: slice, thin
+value: 0.0
+
+
+name: Genistein
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: slice, regular
+value: 0.0
+label: slice, snack-size
+value: 0.0
+label: slice, thin
+value: 0.0
+
+
+name: Glycitein
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: slice, regular
+value: 0.0
+label: slice, snack-size
+value: 0.0
+label: slice, thin
+value: 0.0
+
+
+name: Total isoflavones
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: slice, regular
+value: 0.0
+label: slice, snack-size
+value: 0.0
+label: slice, thin
+value: 0.0
+
+
+name: Formononetin
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: slice, regular
+value: 0.0
+label: slice, snack-size
+value: 0.0
+label: slice, thin
+value: 0.0
+
+
+name: Coumestrol
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: slice, regular
+value: 0.0
+label: slice, snack-size
+value: 0.0
+label: slice, thin
+value: 0.0
+
+

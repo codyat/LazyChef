@@ -1,0 +1,753 @@
+ndbno: 09159
+
+
+name: Limes, raw
+
+
+name: Water
+unit: g
+value: 88.26
+label: fruit (2\ dia)
+value: 59.13
+label: NLEA serving
+value: 59.13
+
+
+name: Energy
+unit: kcal
+value: 30.0
+label: fruit (2\ dia)
+value: 20.0
+label: NLEA serving
+value: 20.0
+
+
+name: Energy
+unit: kJ
+value: 126.0
+label: fruit (2\ dia)
+value: 84.0
+label: NLEA serving
+value: 84.0
+
+
+name: Protein
+unit: g
+value: 0.7
+label: fruit (2\ dia)
+value: 0.47
+label: NLEA serving
+value: 0.47
+
+
+name: Total lipid (fat)
+unit: g
+value: 0.2
+label: fruit (2\ dia)
+value: 0.13
+label: NLEA serving
+value: 0.13
+
+
+name: Ash
+unit: g
+value: 0.3
+label: fruit (2\ dia)
+value: 0.2
+label: NLEA serving
+value: 0.2
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 10.54
+label: fruit (2\ dia)
+value: 7.06
+label: NLEA serving
+value: 7.06
+
+
+name: Fiber, total dietary
+unit: g
+value: 2.8
+label: fruit (2\ dia)
+value: 1.9
+label: NLEA serving
+value: 1.9
+
+
+name: Sugars, total
+unit: g
+value: 1.69
+label: fruit (2\ dia)
+value: 1.13
+label: NLEA serving
+value: 1.13
+
+
+name: Calcium, Ca
+unit: mg
+value: 33.0
+label: fruit (2\ dia)
+value: 22.0
+label: NLEA serving
+value: 22.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.6
+label: fruit (2\ dia)
+value: 0.4
+label: NLEA serving
+value: 0.4
+
+
+name: Magnesium, Mg
+unit: mg
+value: 6.0
+label: fruit (2\ dia)
+value: 4.0
+label: NLEA serving
+value: 4.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 18.0
+label: fruit (2\ dia)
+value: 12.0
+label: NLEA serving
+value: 12.0
+
+
+name: Potassium, K
+unit: mg
+value: 102.0
+label: fruit (2\ dia)
+value: 68.0
+label: NLEA serving
+value: 68.0
+
+
+name: Sodium, Na
+unit: mg
+value: 2.0
+label: fruit (2\ dia)
+value: 1.0
+label: NLEA serving
+value: 1.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.11
+label: fruit (2\ dia)
+value: 0.07
+label: NLEA serving
+value: 0.07
+
+
+name: Copper, Cu
+unit: mg
+value: 0.065
+label: fruit (2\ dia)
+value: 0.044
+label: NLEA serving
+value: 0.044
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.008
+label: fruit (2\ dia)
+value: 0.005
+label: NLEA serving
+value: 0.005
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 0.4
+label: fruit (2\ dia)
+value: 0.3
+label: NLEA serving
+value: 0.3
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 29.1
+label: fruit (2\ dia)
+value: 19.5
+label: NLEA serving
+value: 19.5
+
+
+name: Thiamin
+unit: mg
+value: 0.03
+label: fruit (2\ dia)
+value: 0.02
+label: NLEA serving
+value: 0.02
+
+
+name: Riboflavin
+unit: mg
+value: 0.02
+label: fruit (2\ dia)
+value: 0.013
+label: NLEA serving
+value: 0.013
+
+
+name: Niacin
+unit: mg
+value: 0.2
+label: fruit (2\ dia)
+value: 0.134
+label: NLEA serving
+value: 0.134
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.217
+label: fruit (2\ dia)
+value: 0.145
+label: NLEA serving
+value: 0.145
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.043
+label: fruit (2\ dia)
+value: 0.029
+label: NLEA serving
+value: 0.029
+
+
+name: Folate, total
+unit: \u00B5g
+value: 8.0
+label: fruit (2\ dia)
+value: 5.0
+label: NLEA serving
+value: 5.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: fruit (2\ dia)
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 8.0
+label: fruit (2\ dia)
+value: 5.0
+label: NLEA serving
+value: 5.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 8.0
+label: fruit (2\ dia)
+value: 5.0
+label: NLEA serving
+value: 5.0
+
+
+name: Choline, total
+unit: mg
+value: 5.1
+label: fruit (2\ dia)
+value: 3.4
+label: NLEA serving
+value: 3.4
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: fruit (2\ dia)
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: fruit (2\ dia)
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 2.0
+label: fruit (2\ dia)
+value: 1.0
+label: NLEA serving
+value: 1.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: fruit (2\ dia)
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 30.0
+label: fruit (2\ dia)
+value: 20.0
+label: NLEA serving
+value: 20.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: fruit (2\ dia)
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: fruit (2\ dia)
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 50.0
+label: fruit (2\ dia)
+value: 34.0
+label: NLEA serving
+value: 34.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: fruit (2\ dia)
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 0.0
+label: fruit (2\ dia)
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.22
+label: fruit (2\ dia)
+value: 0.15
+label: NLEA serving
+value: 0.15
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: fruit (2\ dia)
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: fruit (2\ dia)
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: fruit (2\ dia)
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 0.6
+label: fruit (2\ dia)
+value: 0.4
+label: NLEA serving
+value: 0.4
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.022
+label: fruit (2\ dia)
+value: 0.015
+label: NLEA serving
+value: 0.015
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: fruit (2\ dia)
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: fruit (2\ dia)
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: fruit (2\ dia)
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: fruit (2\ dia)
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: fruit (2\ dia)
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.001
+label: fruit (2\ dia)
+value: 0.001
+label: NLEA serving
+value: 0.001
+
+
+name: 16:0
+unit: g
+value: 0.02
+label: fruit (2\ dia)
+value: 0.013
+label: NLEA serving
+value: 0.013
+
+
+name: 18:0
+unit: g
+value: 0.001
+label: fruit (2\ dia)
+value: 0.001
+label: NLEA serving
+value: 0.001
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.019
+label: fruit (2\ dia)
+value: 0.013
+label: NLEA serving
+value: 0.013
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.003
+label: fruit (2\ dia)
+value: 0.002
+label: NLEA serving
+value: 0.002
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.016
+label: fruit (2\ dia)
+value: 0.011
+label: NLEA serving
+value: 0.011
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: fruit (2\ dia)
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: fruit (2\ dia)
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.055
+label: fruit (2\ dia)
+value: 0.037
+label: NLEA serving
+value: 0.037
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.036
+label: fruit (2\ dia)
+value: 0.024
+label: NLEA serving
+value: 0.024
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.019
+label: fruit (2\ dia)
+value: 0.013
+label: NLEA serving
+value: 0.013
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: fruit (2\ dia)
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: fruit (2\ dia)
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: fruit (2\ dia)
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: fruit (2\ dia)
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: fruit (2\ dia)
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.0
+label: fruit (2\ dia)
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: fruit (2\ dia)
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: Tryptophan
+unit: g
+value: 0.003
+label: fruit (2\ dia)
+value: 0.002
+label: NLEA serving
+value: 0.002
+
+
+name: Lysine
+unit: g
+value: 0.014
+label: fruit (2\ dia)
+value: 0.009
+label: NLEA serving
+value: 0.009
+
+
+name: Methionine
+unit: g
+value: 0.002
+label: fruit (2\ dia)
+value: 0.001
+label: NLEA serving
+value: 0.001
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: fruit (2\ dia)
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: fruit (2\ dia)
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: fruit (2\ dia)
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: Hesperetin
+unit: mg
+value: 43.0
+label: fruit (2\ dia)
+value: 28.8
+label: NLEA serving
+value: 28.8
+
+
+name: Naringenin
+unit: mg
+value: 3.4
+label: fruit (2\ dia)
+value: 2.3
+label: NLEA serving
+value: 2.3
+
+
+name: Quercetin
+unit: mg
+value: 0.4
+label: fruit (2\ dia)
+value: 0.3
+label: NLEA serving
+value: 0.3
+
+
+name: Proanthocyanidin dimers
+unit: mg
+value: 0.0
+label: fruit (2\ dia)
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: Proanthocyanidin trimers
+unit: mg
+value: 0.0
+label: fruit (2\ dia)
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: Proanthocyanidin 4-6mers
+unit: mg
+value: 0.0
+label: fruit (2\ dia)
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: Proanthocyanidin 7-10mers
+unit: mg
+value: 0.0
+label: fruit (2\ dia)
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: Proanthocyanidin polymers (>10mers)
+unit: mg
+value: 0.0
+label: fruit (2\ dia)
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+

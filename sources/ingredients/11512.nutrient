@@ -1,0 +1,816 @@
+ndbno: 11512
+
+
+name: Sweet potato, canned, vacuum pack
+
+
+name: Water
+unit: g
+value: 76.03
+label: cup, mashed
+value: 193.88
+label: cup pieces
+value: 152.06
+
+
+name: Energy
+unit: kcal
+value: 91.0
+label: cup, mashed
+value: 232.0
+label: cup pieces
+value: 182.0
+
+
+name: Energy
+unit: kJ
+value: 382.0
+label: cup, mashed
+value: 974.0
+label: cup pieces
+value: 764.0
+
+
+name: Protein
+unit: g
+value: 1.65
+label: cup, mashed
+value: 4.21
+label: cup pieces
+value: 3.3
+
+
+name: Total lipid (fat)
+unit: g
+value: 0.2
+label: cup, mashed
+value: 0.51
+label: cup pieces
+value: 0.4
+
+
+name: Ash
+unit: g
+value: 1.0
+label: cup, mashed
+value: 2.55
+label: cup pieces
+value: 2.0
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 21.12
+label: cup, mashed
+value: 53.86
+label: cup pieces
+value: 42.24
+
+
+name: Fiber, total dietary
+unit: g
+value: 1.8
+label: cup, mashed
+value: 4.6
+label: cup pieces
+value: 3.6
+
+
+name: Sugars, total
+unit: g
+value: 5.0
+label: cup, mashed
+value: 12.75
+label: cup pieces
+value: 10.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 22.0
+label: cup, mashed
+value: 56.0
+label: cup pieces
+value: 44.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.89
+label: cup, mashed
+value: 2.27
+label: cup pieces
+value: 1.78
+
+
+name: Magnesium, Mg
+unit: mg
+value: 22.0
+label: cup, mashed
+value: 56.0
+label: cup pieces
+value: 44.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 49.0
+label: cup, mashed
+value: 125.0
+label: cup pieces
+value: 98.0
+
+
+name: Potassium, K
+unit: mg
+value: 312.0
+label: cup, mashed
+value: 796.0
+label: cup pieces
+value: 624.0
+
+
+name: Sodium, Na
+unit: mg
+value: 53.0
+label: cup, mashed
+value: 135.0
+label: cup pieces
+value: 106.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.18
+label: cup, mashed
+value: 0.46
+label: cup pieces
+value: 0.36
+
+
+name: Copper, Cu
+unit: mg
+value: 0.139
+label: cup, mashed
+value: 0.354
+label: cup pieces
+value: 0.278
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.455
+label: cup, mashed
+value: 1.16
+label: cup pieces
+value: 0.91
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 0.7
+label: cup, mashed
+value: 1.8
+label: cup pieces
+value: 1.4
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 26.4
+label: cup, mashed
+value: 67.3
+label: cup pieces
+value: 52.8
+
+
+name: Thiamin
+unit: mg
+value: 0.037
+label: cup, mashed
+value: 0.094
+label: cup pieces
+value: 0.074
+
+
+name: Riboflavin
+unit: mg
+value: 0.057
+label: cup, mashed
+value: 0.145
+label: cup pieces
+value: 0.114
+
+
+name: Niacin
+unit: mg
+value: 0.741
+label: cup, mashed
+value: 1.89
+label: cup pieces
+value: 1.482
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.523
+label: cup, mashed
+value: 1.334
+label: cup pieces
+value: 1.046
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.19
+label: cup, mashed
+value: 0.485
+label: cup pieces
+value: 0.38
+
+
+name: Folate, total
+unit: \u00B5g
+value: 17.0
+label: cup, mashed
+value: 43.0
+label: cup pieces
+value: 34.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: cup, mashed
+value: 0.0
+label: cup pieces
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 17.0
+label: cup, mashed
+value: 43.0
+label: cup pieces
+value: 34.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 17.0
+label: cup, mashed
+value: 43.0
+label: cup pieces
+value: 34.0
+
+
+name: Choline, total
+unit: mg
+value: 13.0
+label: cup, mashed
+value: 33.2
+label: cup pieces
+value: 26.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: cup, mashed
+value: 0.0
+label: cup pieces
+value: 0.0
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: cup, mashed
+value: 0.0
+label: cup pieces
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 399.0
+label: cup, mashed
+value: 1017.0
+label: cup pieces
+value: 798.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: cup, mashed
+value: 0.0
+label: cup pieces
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 4790.0
+label: cup, mashed
+value: 12214.0
+label: cup pieces
+value: 9580.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: cup, mashed
+value: 0.0
+label: cup pieces
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: cup, mashed
+value: 0.0
+label: cup pieces
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 7983.0
+label: cup, mashed
+value: 20357.0
+label: cup pieces
+value: 15966.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: cup, mashed
+value: 0.0
+label: cup pieces
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 0.0
+label: cup, mashed
+value: 0.0
+label: cup pieces
+value: 0.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 1.0
+label: cup, mashed
+value: 2.55
+label: cup pieces
+value: 2.0
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: cup, mashed
+value: 0.0
+label: cup pieces
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: cup, mashed
+value: 0.0
+label: cup pieces
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: cup, mashed
+value: 0.0
+label: cup pieces
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 2.2
+label: cup, mashed
+value: 5.6
+label: cup pieces
+value: 4.4
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.041
+label: cup, mashed
+value: 0.105
+label: cup pieces
+value: 0.082
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: cup, mashed
+value: 0.0
+label: cup pieces
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: cup, mashed
+value: 0.0
+label: cup pieces
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: cup, mashed
+value: 0.0
+label: cup pieces
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: cup, mashed
+value: 0.0
+label: cup pieces
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: cup, mashed
+value: 0.0
+label: cup pieces
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.0
+label: cup, mashed
+value: 0.0
+label: cup pieces
+value: 0.0
+
+
+name: 16:0
+unit: g
+value: 0.037
+label: cup, mashed
+value: 0.094
+label: cup pieces
+value: 0.074
+
+
+name: 18:0
+unit: g
+value: 0.004
+label: cup, mashed
+value: 0.01
+label: cup pieces
+value: 0.008
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.008
+label: cup, mashed
+value: 0.02
+label: cup pieces
+value: 0.016
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.0
+label: cup, mashed
+value: 0.0
+label: cup pieces
+value: 0.0
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.008
+label: cup, mashed
+value: 0.02
+label: cup pieces
+value: 0.016
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: cup, mashed
+value: 0.0
+label: cup pieces
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: cup, mashed
+value: 0.0
+label: cup pieces
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.084
+label: cup, mashed
+value: 0.214
+label: cup pieces
+value: 0.168
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.071
+label: cup, mashed
+value: 0.181
+label: cup pieces
+value: 0.142
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.013
+label: cup, mashed
+value: 0.033
+label: cup pieces
+value: 0.026
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: cup, mashed
+value: 0.0
+label: cup pieces
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: cup, mashed
+value: 0.0
+label: cup pieces
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: cup, mashed
+value: 0.0
+label: cup pieces
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: cup, mashed
+value: 0.0
+label: cup pieces
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: cup, mashed
+value: 0.0
+label: cup pieces
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.0
+label: cup, mashed
+value: 0.0
+label: cup pieces
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: cup, mashed
+value: 0.0
+label: cup pieces
+value: 0.0
+
+
+name: Tryptophan
+unit: g
+value: 0.033
+label: cup, mashed
+value: 0.084
+label: cup pieces
+value: 0.066
+
+
+name: Threonine
+unit: g
+value: 0.088
+label: cup, mashed
+value: 0.224
+label: cup pieces
+value: 0.176
+
+
+name: Isoleucine
+unit: g
+value: 0.057
+label: cup, mashed
+value: 0.145
+label: cup pieces
+value: 0.114
+
+
+name: Leucine
+unit: g
+value: 0.097
+label: cup, mashed
+value: 0.247
+label: cup pieces
+value: 0.194
+
+
+name: Lysine
+unit: g
+value: 0.069
+label: cup, mashed
+value: 0.176
+label: cup pieces
+value: 0.138
+
+
+name: Methionine
+unit: g
+value: 0.03
+label: cup, mashed
+value: 0.076
+label: cup pieces
+value: 0.06
+
+
+name: Cystine
+unit: g
+value: 0.023
+label: cup, mashed
+value: 0.059
+label: cup pieces
+value: 0.046
+
+
+name: Phenylalanine
+unit: g
+value: 0.094
+label: cup, mashed
+value: 0.24
+label: cup pieces
+value: 0.188
+
+
+name: Tyrosine
+unit: g
+value: 0.036
+label: cup, mashed
+value: 0.092
+label: cup pieces
+value: 0.072
+
+
+name: Valine
+unit: g
+value: 0.09
+label: cup, mashed
+value: 0.229
+label: cup pieces
+value: 0.18
+
+
+name: Arginine
+unit: g
+value: 0.058
+label: cup, mashed
+value: 0.148
+label: cup pieces
+value: 0.116
+
+
+name: Histidine
+unit: g
+value: 0.032
+label: cup, mashed
+value: 0.082
+label: cup pieces
+value: 0.064
+
+
+name: Alanine
+unit: g
+value: 0.081
+label: cup, mashed
+value: 0.207
+label: cup pieces
+value: 0.162
+
+
+name: Aspartic acid
+unit: g
+value: 0.401
+label: cup, mashed
+value: 1.023
+label: cup pieces
+value: 0.802
+
+
+name: Glutamic acid
+unit: g
+value: 0.162
+label: cup, mashed
+value: 0.413
+label: cup pieces
+value: 0.324
+
+
+name: Glycine
+unit: g
+value: 0.066
+label: cup, mashed
+value: 0.168
+label: cup pieces
+value: 0.132
+
+
+name: Proline
+unit: g
+value: 0.055
+label: cup, mashed
+value: 0.14
+label: cup pieces
+value: 0.11
+
+
+name: Serine
+unit: g
+value: 0.093
+label: cup, mashed
+value: 0.237
+label: cup pieces
+value: 0.186
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: cup, mashed
+value: 0.0
+label: cup pieces
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: cup, mashed
+value: 0.0
+label: cup pieces
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: cup, mashed
+value: 0.0
+label: cup pieces
+value: 0.0
+
+

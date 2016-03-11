@@ -1,0 +1,1177 @@
+ndbno: 15077
+
+
+name: Fish, salmon, chinook, smoked
+
+
+name: Water
+unit: g
+value: 72.0
+label: oz, boneless
+value: 20.41
+label: oz
+value: 61.2
+label: cubic inch, boneless
+value: 12.24
+label: cup, cooked
+value: 97.92
+
+
+name: Energy
+unit: kcal
+value: 117.0
+label: oz, boneless
+value: 33.0
+label: oz
+value: 99.0
+label: cubic inch, boneless
+value: 20.0
+label: cup, cooked
+value: 159.0
+
+
+name: Energy
+unit: kJ
+value: 490.0
+label: oz, boneless
+value: 139.0
+label: oz
+value: 416.0
+label: cubic inch, boneless
+value: 83.0
+label: cup, cooked
+value: 666.0
+
+
+name: Protein
+unit: g
+value: 18.28
+label: oz, boneless
+value: 5.18
+label: oz
+value: 15.54
+label: cubic inch, boneless
+value: 3.11
+label: cup, cooked
+value: 24.86
+
+
+name: Total lipid (fat)
+unit: g
+value: 4.32
+label: oz, boneless
+value: 1.22
+label: oz
+value: 3.67
+label: cubic inch, boneless
+value: 0.73
+label: cup, cooked
+value: 5.88
+
+
+name: Ash
+unit: g
+value: 2.62
+label: oz, boneless
+value: 0.74
+label: oz
+value: 2.23
+label: cubic inch, boneless
+value: 0.45
+label: cup, cooked
+value: 3.56
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 0.0
+label: oz, boneless
+value: 0.0
+label: oz
+value: 0.0
+label: cubic inch, boneless
+value: 0.0
+label: cup, cooked
+value: 0.0
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: oz, boneless
+value: 0.0
+label: oz
+value: 0.0
+label: cubic inch, boneless
+value: 0.0
+label: cup, cooked
+value: 0.0
+
+
+name: Sugars, total
+unit: g
+value: 0.0
+label: oz, boneless
+value: 0.0
+label: oz
+value: 0.0
+label: cubic inch, boneless
+value: 0.0
+label: cup, cooked
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 11.0
+label: oz, boneless
+value: 3.0
+label: oz
+value: 9.0
+label: cubic inch, boneless
+value: 2.0
+label: cup, cooked
+value: 15.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.85
+label: oz, boneless
+value: 0.24
+label: oz
+value: 0.72
+label: cubic inch, boneless
+value: 0.14
+label: cup, cooked
+value: 1.16
+
+
+name: Magnesium, Mg
+unit: mg
+value: 18.0
+label: oz, boneless
+value: 5.0
+label: oz
+value: 15.0
+label: cubic inch, boneless
+value: 3.0
+label: cup, cooked
+value: 24.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 164.0
+label: oz, boneless
+value: 46.0
+label: oz
+value: 139.0
+label: cubic inch, boneless
+value: 28.0
+label: cup, cooked
+value: 223.0
+
+
+name: Potassium, K
+unit: mg
+value: 175.0
+label: oz, boneless
+value: 50.0
+label: oz
+value: 149.0
+label: cubic inch, boneless
+value: 30.0
+label: cup, cooked
+value: 238.0
+
+
+name: Sodium, Na
+unit: mg
+value: 672.0
+label: oz, boneless
+value: 191.0
+label: oz
+value: 571.0
+label: cubic inch, boneless
+value: 114.0
+label: cup, cooked
+value: 914.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.31
+label: oz, boneless
+value: 0.09
+label: oz
+value: 0.26
+label: cubic inch, boneless
+value: 0.05
+label: cup, cooked
+value: 0.42
+
+
+name: Copper, Cu
+unit: mg
+value: 0.23
+label: oz, boneless
+value: 0.065
+label: oz
+value: 0.196
+label: cubic inch, boneless
+value: 0.039
+label: cup, cooked
+value: 0.313
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.017
+label: oz, boneless
+value: 0.005
+label: oz
+value: 0.014
+label: cubic inch, boneless
+value: 0.003
+label: cup, cooked
+value: 0.023
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 32.4
+label: oz, boneless
+value: 9.2
+label: oz
+value: 27.5
+label: cubic inch, boneless
+value: 5.5
+label: cup, cooked
+value: 44.1
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: oz, boneless
+value: 0.0
+label: oz
+value: 0.0
+label: cubic inch, boneless
+value: 0.0
+label: cup, cooked
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.023
+label: oz, boneless
+value: 0.007
+label: oz
+value: 0.02
+label: cubic inch, boneless
+value: 0.004
+label: cup, cooked
+value: 0.031
+
+
+name: Riboflavin
+unit: mg
+value: 0.101
+label: oz, boneless
+value: 0.029
+label: oz
+value: 0.086
+label: cubic inch, boneless
+value: 0.017
+label: cup, cooked
+value: 0.137
+
+
+name: Niacin
+unit: mg
+value: 4.72
+label: oz, boneless
+value: 1.338
+label: oz
+value: 4.012
+label: cubic inch, boneless
+value: 0.802
+label: cup, cooked
+value: 6.419
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.87
+label: oz, boneless
+value: 0.247
+label: oz
+value: 0.74
+label: cubic inch, boneless
+value: 0.148
+label: cup, cooked
+value: 1.183
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.278
+label: oz, boneless
+value: 0.079
+label: oz
+value: 0.236
+label: cubic inch, boneless
+value: 0.047
+label: cup, cooked
+value: 0.378
+
+
+name: Folate, total
+unit: \u00B5g
+value: 2.0
+label: oz, boneless
+value: 1.0
+label: oz
+value: 2.0
+label: cubic inch, boneless
+value: 0.0
+label: cup, cooked
+value: 3.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: oz, boneless
+value: 0.0
+label: oz
+value: 0.0
+label: cubic inch, boneless
+value: 0.0
+label: cup, cooked
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 2.0
+label: oz, boneless
+value: 1.0
+label: oz
+value: 2.0
+label: cubic inch, boneless
+value: 0.0
+label: cup, cooked
+value: 3.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 2.0
+label: oz, boneless
+value: 1.0
+label: oz
+value: 2.0
+label: cubic inch, boneless
+value: 0.0
+label: cup, cooked
+value: 3.0
+
+
+name: Choline, total
+unit: mg
+value: 89.0
+label: oz, boneless
+value: 25.2
+label: oz
+value: 75.6
+label: cubic inch, boneless
+value: 15.1
+label: cup, cooked
+value: 121.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 3.26
+label: oz, boneless
+value: 0.92
+label: oz
+value: 2.77
+label: cubic inch, boneless
+value: 0.55
+label: cup, cooked
+value: 4.43
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: oz, boneless
+value: 0.0
+label: oz
+value: 0.0
+label: cubic inch, boneless
+value: 0.0
+label: cup, cooked
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 26.0
+label: oz, boneless
+value: 7.0
+label: oz
+value: 22.0
+label: cubic inch, boneless
+value: 4.0
+label: cup, cooked
+value: 35.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 26.0
+label: oz, boneless
+value: 7.0
+label: oz
+value: 22.0
+label: cubic inch, boneless
+value: 4.0
+label: cup, cooked
+value: 35.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 0.0
+label: oz, boneless
+value: 0.0
+label: oz
+value: 0.0
+label: cubic inch, boneless
+value: 0.0
+label: cup, cooked
+value: 0.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: oz, boneless
+value: 0.0
+label: oz
+value: 0.0
+label: cubic inch, boneless
+value: 0.0
+label: cup, cooked
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: oz, boneless
+value: 0.0
+label: oz
+value: 0.0
+label: cubic inch, boneless
+value: 0.0
+label: cup, cooked
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 87.0
+label: oz, boneless
+value: 25.0
+label: oz
+value: 74.0
+label: cubic inch, boneless
+value: 15.0
+label: cup, cooked
+value: 118.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: oz, boneless
+value: 0.0
+label: oz
+value: 0.0
+label: cubic inch, boneless
+value: 0.0
+label: cup, cooked
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 0.0
+label: oz, boneless
+value: 0.0
+label: oz
+value: 0.0
+label: cubic inch, boneless
+value: 0.0
+label: cup, cooked
+value: 0.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 1.35
+label: oz, boneless
+value: 0.38
+label: oz
+value: 1.15
+label: cubic inch, boneless
+value: 0.23
+label: cup, cooked
+value: 1.84
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: oz, boneless
+value: 0.0
+label: oz
+value: 0.0
+label: cubic inch, boneless
+value: 0.0
+label: cup, cooked
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 17.1
+label: oz, boneless
+value: 4.8
+label: oz
+value: 14.5
+label: cubic inch, boneless
+value: 2.9
+label: cup, cooked
+value: 23.3
+
+
+name: Vitamin D3 (cholecalciferol)
+unit: \u00B5g
+value: 17.1
+label: oz, boneless
+value: 4.8
+label: oz
+value: 14.5
+label: cubic inch, boneless
+value: 2.9
+label: cup, cooked
+value: 23.3
+
+
+name: Vitamin D
+unit: IU
+value: 685.0
+label: oz, boneless
+value: 194.0
+label: oz
+value: 582.0
+label: cubic inch, boneless
+value: 116.0
+label: cup, cooked
+value: 932.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 0.1
+label: oz, boneless
+value: 0.0
+label: oz
+value: 0.1
+label: cubic inch, boneless
+value: 0.0
+label: cup, cooked
+value: 0.1
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.929
+label: oz, boneless
+value: 0.263
+label: oz
+value: 0.79
+label: cubic inch, boneless
+value: 0.158
+label: cup, cooked
+value: 1.263
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: oz, boneless
+value: 0.0
+label: oz
+value: 0.0
+label: cubic inch, boneless
+value: 0.0
+label: cup, cooked
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: oz, boneless
+value: 0.0
+label: oz
+value: 0.0
+label: cubic inch, boneless
+value: 0.0
+label: cup, cooked
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: oz, boneless
+value: 0.0
+label: oz
+value: 0.0
+label: cubic inch, boneless
+value: 0.0
+label: cup, cooked
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: oz, boneless
+value: 0.0
+label: oz
+value: 0.0
+label: cubic inch, boneless
+value: 0.0
+label: cup, cooked
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: oz, boneless
+value: 0.0
+label: oz
+value: 0.0
+label: cubic inch, boneless
+value: 0.0
+label: cup, cooked
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.183
+label: oz, boneless
+value: 0.052
+label: oz
+value: 0.156
+label: cubic inch, boneless
+value: 0.031
+label: cup, cooked
+value: 0.249
+
+
+name: 16:0
+unit: g
+value: 0.56
+label: oz, boneless
+value: 0.159
+label: oz
+value: 0.476
+label: cubic inch, boneless
+value: 0.095
+label: cup, cooked
+value: 0.762
+
+
+name: 18:0
+unit: g
+value: 0.186
+label: oz, boneless
+value: 0.053
+label: oz
+value: 0.158
+label: cubic inch, boneless
+value: 0.032
+label: cup, cooked
+value: 0.253
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 2.023
+label: oz, boneless
+value: 0.574
+label: oz
+value: 1.72
+label: cubic inch, boneless
+value: 0.344
+label: cup, cooked
+value: 2.751
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.305
+label: oz, boneless
+value: 0.086
+label: oz
+value: 0.259
+label: cubic inch, boneless
+value: 0.052
+label: cup, cooked
+value: 0.415
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.949
+label: oz, boneless
+value: 0.269
+label: oz
+value: 0.807
+label: cubic inch, boneless
+value: 0.161
+label: cup, cooked
+value: 1.291
+
+
+name: 20:1
+unit: g
+value: 0.468
+label: oz, boneless
+value: 0.133
+label: oz
+value: 0.398
+label: cubic inch, boneless
+value: 0.08
+label: cup, cooked
+value: 0.636
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.301
+label: oz, boneless
+value: 0.085
+label: oz
+value: 0.256
+label: cubic inch, boneless
+value: 0.051
+label: cup, cooked
+value: 0.409
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.995
+label: oz, boneless
+value: 0.282
+label: oz
+value: 0.846
+label: cubic inch, boneless
+value: 0.169
+label: cup, cooked
+value: 1.353
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.472
+label: oz, boneless
+value: 0.134
+label: oz
+value: 0.401
+label: cubic inch, boneless
+value: 0.08
+label: cup, cooked
+value: 0.642
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.0
+label: oz, boneless
+value: 0.0
+label: oz
+value: 0.0
+label: cubic inch, boneless
+value: 0.0
+label: cup, cooked
+value: 0.0
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: oz, boneless
+value: 0.0
+label: oz
+value: 0.0
+label: cubic inch, boneless
+value: 0.0
+label: cup, cooked
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: oz, boneless
+value: 0.0
+label: oz
+value: 0.0
+label: cubic inch, boneless
+value: 0.0
+label: cup, cooked
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.183
+label: oz, boneless
+value: 0.052
+label: oz
+value: 0.156
+label: cubic inch, boneless
+value: 0.031
+label: cup, cooked
+value: 0.249
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.073
+label: oz, boneless
+value: 0.021
+label: oz
+value: 0.062
+label: cubic inch, boneless
+value: 0.012
+label: cup, cooked
+value: 0.099
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.267
+label: oz, boneless
+value: 0.076
+label: oz
+value: 0.227
+label: cubic inch, boneless
+value: 0.045
+label: cup, cooked
+value: 0.363
+
+
+name: Cholesterol
+unit: mg
+value: 23.0
+label: oz, boneless
+value: 7.0
+label: oz
+value: 20.0
+label: cubic inch, boneless
+value: 4.0
+label: cup, cooked
+value: 31.0
+
+
+name: Tryptophan
+unit: g
+value: 0.205
+label: oz, boneless
+value: 0.058
+label: oz
+value: 0.174
+label: cubic inch, boneless
+value: 0.035
+label: cup, cooked
+value: 0.279
+
+
+name: Threonine
+unit: g
+value: 0.801
+label: oz, boneless
+value: 0.227
+label: oz
+value: 0.681
+label: cubic inch, boneless
+value: 0.136
+label: cup, cooked
+value: 1.089
+
+
+name: Isoleucine
+unit: g
+value: 0.842
+label: oz, boneless
+value: 0.239
+label: oz
+value: 0.716
+label: cubic inch, boneless
+value: 0.143
+label: cup, cooked
+value: 1.145
+
+
+name: Leucine
+unit: g
+value: 1.486
+label: oz, boneless
+value: 0.421
+label: oz
+value: 1.263
+label: cubic inch, boneless
+value: 0.253
+label: cup, cooked
+value: 2.021
+
+
+name: Lysine
+unit: g
+value: 1.679
+label: oz, boneless
+value: 0.476
+label: oz
+value: 1.427
+label: cubic inch, boneless
+value: 0.285
+label: cup, cooked
+value: 2.283
+
+
+name: Methionine
+unit: g
+value: 0.541
+label: oz, boneless
+value: 0.153
+label: oz
+value: 0.46
+label: cubic inch, boneless
+value: 0.092
+label: cup, cooked
+value: 0.736
+
+
+name: Cystine
+unit: g
+value: 0.196
+label: oz, boneless
+value: 0.056
+label: oz
+value: 0.167
+label: cubic inch, boneless
+value: 0.033
+label: cup, cooked
+value: 0.267
+
+
+name: Phenylalanine
+unit: g
+value: 0.714
+label: oz, boneless
+value: 0.202
+label: oz
+value: 0.607
+label: cubic inch, boneless
+value: 0.121
+label: cup, cooked
+value: 0.971
+
+
+name: Tyrosine
+unit: g
+value: 0.617
+label: oz, boneless
+value: 0.175
+label: oz
+value: 0.524
+label: cubic inch, boneless
+value: 0.105
+label: cup, cooked
+value: 0.839
+
+
+name: Valine
+unit: g
+value: 0.942
+label: oz, boneless
+value: 0.267
+label: oz
+value: 0.801
+label: cubic inch, boneless
+value: 0.16
+label: cup, cooked
+value: 1.281
+
+
+name: Arginine
+unit: g
+value: 1.094
+label: oz, boneless
+value: 0.31
+label: oz
+value: 0.93
+label: cubic inch, boneless
+value: 0.186
+label: cup, cooked
+value: 1.488
+
+
+name: Histidine
+unit: g
+value: 0.538
+label: oz, boneless
+value: 0.153
+label: oz
+value: 0.457
+label: cubic inch, boneless
+value: 0.091
+label: cup, cooked
+value: 0.732
+
+
+name: Alanine
+unit: g
+value: 1.106
+label: oz, boneless
+value: 0.314
+label: oz
+value: 0.94
+label: cubic inch, boneless
+value: 0.188
+label: cup, cooked
+value: 1.504
+
+
+name: Aspartic acid
+unit: g
+value: 1.872
+label: oz, boneless
+value: 0.531
+label: oz
+value: 1.591
+label: cubic inch, boneless
+value: 0.318
+label: cup, cooked
+value: 2.546
+
+
+name: Glutamic acid
+unit: g
+value: 2.729
+label: oz, boneless
+value: 0.774
+label: oz
+value: 2.32
+label: cubic inch, boneless
+value: 0.464
+label: cup, cooked
+value: 3.711
+
+
+name: Glycine
+unit: g
+value: 0.878
+label: oz, boneless
+value: 0.249
+label: oz
+value: 0.746
+label: cubic inch, boneless
+value: 0.149
+label: cup, cooked
+value: 1.194
+
+
+name: Proline
+unit: g
+value: 0.646
+label: oz, boneless
+value: 0.183
+label: oz
+value: 0.549
+label: cubic inch, boneless
+value: 0.11
+label: cup, cooked
+value: 0.879
+
+
+name: Serine
+unit: g
+value: 0.746
+label: oz, boneless
+value: 0.211
+label: oz
+value: 0.634
+label: cubic inch, boneless
+value: 0.127
+label: cup, cooked
+value: 1.015
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: oz, boneless
+value: 0.0
+label: oz
+value: 0.0
+label: cubic inch, boneless
+value: 0.0
+label: cup, cooked
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: oz, boneless
+value: 0.0
+label: oz
+value: 0.0
+label: cubic inch, boneless
+value: 0.0
+label: cup, cooked
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: oz, boneless
+value: 0.0
+label: oz
+value: 0.0
+label: cubic inch, boneless
+value: 0.0
+label: cup, cooked
+value: 0.0
+
+
+

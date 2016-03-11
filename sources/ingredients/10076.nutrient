@@ -1,0 +1,592 @@
+ndbno: 10076
+
+
+name: Pork, fresh, shoulder, arm picnic, separable lean and fat, cooked, roasted
+
+
+name: Water
+unit: g
+value: 52.04
+label: cup, diced
+value: 70.25
+label: oz
+value: 44.23
+
+
+name: Energy
+unit: kcal
+value: 317.0
+label: cup, diced
+value: 428.0
+label: oz
+value: 269.0
+
+
+name: Energy
+unit: kJ
+value: 1326.0
+label: cup, diced
+value: 1790.0
+label: oz
+value: 1127.0
+
+
+name: Protein
+unit: g
+value: 23.47
+label: cup, diced
+value: 31.68
+label: oz
+value: 19.95
+
+
+name: Total lipid (fat)
+unit: g
+value: 24.01
+label: cup, diced
+value: 32.41
+label: oz
+value: 20.41
+
+
+name: Ash
+unit: g
+value: 0.99
+label: cup, diced
+value: 1.34
+label: oz
+value: 0.84
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 0.0
+label: cup, diced
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: cup, diced
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 19.0
+label: cup, diced
+value: 26.0
+label: oz
+value: 16.0
+
+
+name: Iron, Fe
+unit: mg
+value: 1.18
+label: cup, diced
+value: 1.59
+label: oz
+value: 1.0
+
+
+name: Magnesium, Mg
+unit: mg
+value: 17.0
+label: cup, diced
+value: 23.0
+label: oz
+value: 14.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 228.0
+label: cup, diced
+value: 308.0
+label: oz
+value: 194.0
+
+
+name: Potassium, K
+unit: mg
+value: 325.0
+label: cup, diced
+value: 439.0
+label: oz
+value: 276.0
+
+
+name: Sodium, Na
+unit: mg
+value: 70.0
+label: cup, diced
+value: 94.0
+label: oz
+value: 60.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 3.45
+label: cup, diced
+value: 4.66
+label: oz
+value: 2.93
+
+
+name: Copper, Cu
+unit: mg
+value: 0.111
+label: cup, diced
+value: 0.15
+label: oz
+value: 0.094
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.033
+label: cup, diced
+value: 0.045
+label: oz
+value: 0.028
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 33.6
+label: cup, diced
+value: 45.4
+label: oz
+value: 28.6
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.2
+label: cup, diced
+value: 0.3
+label: oz
+value: 0.2
+
+
+name: Thiamin
+unit: mg
+value: 0.522
+label: cup, diced
+value: 0.705
+label: oz
+value: 0.444
+
+
+name: Riboflavin
+unit: mg
+value: 0.302
+label: cup, diced
+value: 0.408
+label: oz
+value: 0.257
+
+
+name: Niacin
+unit: mg
+value: 3.918
+label: cup, diced
+value: 5.289
+label: oz
+value: 3.33
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.532
+label: cup, diced
+value: 0.718
+label: oz
+value: 0.452
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.348
+label: cup, diced
+value: 0.47
+label: oz
+value: 0.296
+
+
+name: Folate, total
+unit: \u00B5g
+value: 4.0
+label: cup, diced
+value: 5.0
+label: oz
+value: 3.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: cup, diced
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 4.0
+label: cup, diced
+value: 5.0
+label: oz
+value: 3.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 4.0
+label: cup, diced
+value: 5.0
+label: oz
+value: 3.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.71
+label: cup, diced
+value: 0.96
+label: oz
+value: 0.6
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 2.0
+label: cup, diced
+value: 3.0
+label: oz
+value: 2.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 2.0
+label: cup, diced
+value: 3.0
+label: oz
+value: 2.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 8.0
+label: cup, diced
+value: 11.0
+label: oz
+value: 7.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 8.78
+label: cup, diced
+value: 11.853
+label: oz
+value: 7.463
+
+
+name: 10:0
+unit: g
+value: 0.02
+label: cup, diced
+value: 0.027
+label: oz
+value: 0.017
+
+
+name: 12:0
+unit: g
+value: 0.01
+label: cup, diced
+value: 0.014
+label: oz
+value: 0.008
+
+
+name: 14:0
+unit: g
+value: 0.3
+label: cup, diced
+value: 0.405
+label: oz
+value: 0.255
+
+
+name: 16:0
+unit: g
+value: 5.42
+label: cup, diced
+value: 7.317
+label: oz
+value: 4.607
+
+
+name: 18:0
+unit: g
+value: 2.87
+label: cup, diced
+value: 3.874
+label: oz
+value: 2.44
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 10.72
+label: cup, diced
+value: 14.472
+label: oz
+value: 9.112
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.64
+label: cup, diced
+value: 0.864
+label: oz
+value: 0.544
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 9.78
+label: cup, diced
+value: 13.203
+label: oz
+value: 8.313
+
+
+name: 20:1
+unit: g
+value: 0.2
+label: cup, diced
+value: 0.27
+label: oz
+value: 0.17
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 2.35
+label: cup, diced
+value: 3.172
+label: oz
+value: 1.998
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 2.09
+label: cup, diced
+value: 2.822
+label: oz
+value: 1.776
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.07
+label: cup, diced
+value: 0.095
+label: oz
+value: 0.06
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.09
+label: cup, diced
+value: 0.122
+label: oz
+value: 0.076
+
+
+name: Cholesterol
+unit: mg
+value: 94.0
+label: cup, diced
+value: 127.0
+label: oz
+value: 80.0
+
+
+name: Tryptophan
+unit: g
+value: 0.273
+label: cup, diced
+value: 0.369
+label: oz
+value: 0.232
+
+
+name: Threonine
+unit: g
+value: 1.032
+label: cup, diced
+value: 1.393
+label: oz
+value: 0.877
+
+
+name: Isoleucine
+unit: g
+value: 1.042
+label: cup, diced
+value: 1.407
+label: oz
+value: 0.886
+
+
+name: Leucine
+unit: g
+value: 1.838
+label: cup, diced
+value: 2.481
+label: oz
+value: 1.562
+
+
+name: Lysine
+unit: g
+value: 2.077
+label: cup, diced
+value: 2.804
+label: oz
+value: 1.765
+
+
+name: Methionine
+unit: g
+value: 0.587
+label: cup, diced
+value: 0.792
+label: oz
+value: 0.499
+
+
+name: Cystine
+unit: g
+value: 0.286
+label: cup, diced
+value: 0.386
+label: oz
+value: 0.243
+
+
+name: Phenylalanine
+unit: g
+value: 0.924
+label: cup, diced
+value: 1.247
+label: oz
+value: 0.785
+
+
+name: Tyrosine
+unit: g
+value: 0.77
+label: cup, diced
+value: 1.04
+label: oz
+value: 0.655
+
+
+name: Valine
+unit: g
+value: 1.246
+label: cup, diced
+value: 1.682
+label: oz
+value: 1.059
+
+
+name: Arginine
+unit: g
+value: 1.531
+label: cup, diced
+value: 2.067
+label: oz
+value: 1.301
+
+
+name: Histidine
+unit: g
+value: 0.864
+label: cup, diced
+value: 1.166
+label: oz
+value: 0.734
+
+
+name: Alanine
+unit: g
+value: 1.4
+label: cup, diced
+value: 1.89
+label: oz
+value: 1.19
+
+
+name: Aspartic acid
+unit: g
+value: 2.112
+label: cup, diced
+value: 2.851
+label: oz
+value: 1.795
+
+
+name: Glutamic acid
+unit: g
+value: 3.492
+label: cup, diced
+value: 4.714
+label: oz
+value: 2.968
+
+
+name: Glycine
+unit: g
+value: 1.439
+label: cup, diced
+value: 1.943
+label: oz
+value: 1.223
+
+
+name: Proline
+unit: g
+value: 1.12
+label: cup, diced
+value: 1.512
+label: oz
+value: 0.952
+
+
+name: Serine
+unit: g
+value: 0.969
+label: cup, diced
+value: 1.308
+label: oz
+value: 0.824
+
+
+

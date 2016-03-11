@@ -1,0 +1,756 @@
+ndbno: 05362
+
+
+name: Chicken, broiler, rotisserie, BBQ, wing meat and skin
+
+
+name: Water
+unit: g
+value: 57.23
+label: wing
+value: 29.19
+
+
+name: Energy
+unit: kcal
+value: 257.0
+label: wing
+value: 131.0
+
+
+name: Energy
+unit: kJ
+value: 1073.0
+label: wing
+value: 547.0
+
+
+name: Protein
+unit: g
+value: 23.42
+label: wing
+value: 11.94
+
+
+name: Total lipid (fat)
+unit: g
+value: 18.04
+label: wing
+value: 9.2
+
+
+name: Ash
+unit: g
+value: 1.18
+label: wing
+value: 0.6
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 0.6
+label: wing
+value: 0.31
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: wing
+value: 0.0
+
+
+name: Sugars, total
+unit: g
+value: 0.6
+label: wing
+value: 0.31
+
+
+name: Sucrose
+unit: g
+value: 0.22
+label: wing
+value: 0.11
+
+
+name: Glucose (dextrose)
+unit: g
+value: 0.21
+label: wing
+value: 0.11
+
+
+name: Fructose
+unit: g
+value: 0.16
+label: wing
+value: 0.08
+
+
+name: Lactose
+unit: g
+value: 0.0
+label: wing
+value: 0.0
+
+
+name: Maltose
+unit: g
+value: 0.0
+label: wing
+value: 0.0
+
+
+name: Galactose
+unit: g
+value: 0.0
+label: wing
+value: 0.0
+
+
+name: Starch
+unit: g
+value: 0.0
+label: wing
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 33.0
+label: wing
+value: 17.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.93
+label: wing
+value: 0.47
+
+
+name: Magnesium, Mg
+unit: mg
+value: 23.0
+label: wing
+value: 12.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 251.0
+label: wing
+value: 128.0
+
+
+name: Potassium, K
+unit: mg
+value: 285.0
+label: wing
+value: 145.0
+
+
+name: Sodium, Na
+unit: mg
+value: 579.0
+label: wing
+value: 295.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 1.57
+label: wing
+value: 0.8
+
+
+name: Copper, Cu
+unit: mg
+value: 0.057
+label: wing
+value: 0.029
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.01
+label: wing
+value: 0.005
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 38.2
+label: wing
+value: 19.5
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: wing
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.078
+label: wing
+value: 0.04
+
+
+name: Riboflavin
+unit: mg
+value: 0.161
+label: wing
+value: 0.082
+
+
+name: Niacin
+unit: mg
+value: 7.454
+label: wing
+value: 3.802
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.321
+label: wing
+value: 0.164
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.212
+label: wing
+value: 0.108
+
+
+name: Folate, total
+unit: \u00B5g
+value: 8.0
+label: wing
+value: 4.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: wing
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 8.0
+label: wing
+value: 4.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 8.0
+label: wing
+value: 4.0
+
+
+name: Choline, total
+unit: mg
+value: 58.2
+label: wing
+value: 29.7
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.45
+label: wing
+value: 0.23
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: wing
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 26.0
+label: wing
+value: 13.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 26.0
+label: wing
+value: 13.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 0.0
+label: wing
+value: 0.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: wing
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: wing
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 87.0
+label: wing
+value: 44.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: wing
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 0.0
+label: wing
+value: 0.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.12
+label: wing
+value: 0.06
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: wing
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: wing
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: wing
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 0.0
+label: wing
+value: 0.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 4.627
+label: wing
+value: 2.36
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: wing
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: wing
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: wing
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: wing
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: wing
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.094
+label: wing
+value: 0.048
+
+
+name: 15:0
+unit: g
+value: 0.0
+label: wing
+value: 0.0
+
+
+name: 16:0
+unit: g
+value: 3.7
+label: wing
+value: 1.887
+
+
+name: 17:0
+unit: g
+value: 0.01
+label: wing
+value: 0.005
+
+
+name: 18:0
+unit: g
+value: 0.823
+label: wing
+value: 0.42
+
+
+name: 20:0
+unit: g
+value: 0.0
+label: wing
+value: 0.0
+
+
+name: 22:0
+unit: g
+value: 0.0
+label: wing
+value: 0.0
+
+
+name: 24:0
+unit: g
+value: 0.0
+label: wing
+value: 0.0
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 7.332
+label: wing
+value: 3.739
+
+
+name: 14:1
+unit: g
+value: 0.027
+label: wing
+value: 0.014
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: wing
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 1.164
+label: wing
+value: 0.594
+
+
+name: 17:1
+unit: g
+value: 0.0
+label: wing
+value: 0.0
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 6.098
+label: wing
+value: 3.11
+
+
+name: 20:1
+unit: g
+value: 0.043
+label: wing
+value: 0.022
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: wing
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 2.177
+label: wing
+value: 1.11
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 2.02
+label: wing
+value: 1.03
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.106
+label: wing
+value: 0.054
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: wing
+value: 0.0
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.023
+label: wing
+value: 0.012
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.0
+label: wing
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.028
+label: wing
+value: 0.014
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: wing
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: wing
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: wing
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.164
+label: wing
+value: 0.084
+
+
+name: Cholesterol
+unit: mg
+value: 129.0
+label: wing
+value: 66.0
+
+
+name: Tryptophan
+unit: g
+value: 0.205
+label: wing
+value: 0.105
+
+
+name: Threonine
+unit: g
+value: 0.563
+label: wing
+value: 0.287
+
+
+name: Isoleucine
+unit: g
+value: 0.92
+label: wing
+value: 0.469
+
+
+name: Leucine
+unit: g
+value: 1.593
+label: wing
+value: 0.812
+
+
+name: Lysine
+unit: g
+value: 1.656
+label: wing
+value: 0.845
+
+
+name: Methionine
+unit: g
+value: 0.636
+label: wing
+value: 0.324
+
+
+name: Cystine
+unit: g
+value: 0.217
+label: wing
+value: 0.111
+
+
+name: Phenylalanine
+unit: g
+value: 0.757
+label: wing
+value: 0.386
+
+
+name: Tyrosine
+unit: g
+value: 0.603
+label: wing
+value: 0.308
+
+
+name: Valine
+unit: g
+value: 1.046
+label: wing
+value: 0.533
+
+
+name: Arginine
+unit: g
+value: 1.307
+label: wing
+value: 0.667
+
+
+name: Histidine
+unit: g
+value: 0.625
+label: wing
+value: 0.319
+
+
+name: Alanine
+unit: g
+value: 1.242
+label: wing
+value: 0.633
+
+
+name: Aspartic acid
+unit: g
+value: 1.899
+label: wing
+value: 0.968
+
+
+name: Glutamic acid
+unit: g
+value: 3.002
+label: wing
+value: 1.531
+
+
+name: Glycine
+unit: g
+value: 1.369
+label: wing
+value: 0.698
+
+
+name: Proline
+unit: g
+value: 1.47
+label: wing
+value: 0.75
+
+
+name: Serine
+unit: g
+value: 0.586
+label: wing
+value: 0.299
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: wing
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: wing
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: wing
+value: 0.0
+
+
+

@@ -1,0 +1,969 @@
+ndbno: 18016
+
+
+name: Biscuits, plain or buttermilk, prepared from recipe
+
+
+name: Water
+unit: g
+value: 28.9
+label: oz
+value: 8.19
+label: biscuit (4\ dia)
+value: 29.19
+label: small (1-1/2\ dia)
+value: 4.05
+label: biscuit (2-1/2\ dia)
+value: 17.34
+
+
+name: Energy
+unit: kcal
+value: 353.0
+label: oz
+value: 100.0
+label: biscuit (4\ dia)
+value: 357.0
+label: small (1-1/2\ dia)
+value: 49.0
+label: biscuit (2-1/2\ dia)
+value: 212.0
+
+
+name: Energy
+unit: kJ
+value: 1477.0
+label: oz
+value: 419.0
+label: biscuit (4\ dia)
+value: 1492.0
+label: small (1-1/2\ dia)
+value: 207.0
+label: biscuit (2-1/2\ dia)
+value: 886.0
+
+
+name: Protein
+unit: g
+value: 7.0
+label: oz
+value: 1.98
+label: biscuit (4\ dia)
+value: 7.07
+label: small (1-1/2\ dia)
+value: 0.98
+label: biscuit (2-1/2\ dia)
+value: 4.2
+
+
+name: Total lipid (fat)
+unit: g
+value: 16.3
+label: oz
+value: 4.62
+label: biscuit (4\ dia)
+value: 16.46
+label: small (1-1/2\ dia)
+value: 2.28
+label: biscuit (2-1/2\ dia)
+value: 9.78
+
+
+name: Ash
+unit: g
+value: 3.2
+label: oz
+value: 0.91
+label: biscuit (4\ dia)
+value: 3.23
+label: small (1-1/2\ dia)
+value: 0.45
+label: biscuit (2-1/2\ dia)
+value: 1.92
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 44.6
+label: oz
+value: 12.64
+label: biscuit (4\ dia)
+value: 45.05
+label: small (1-1/2\ dia)
+value: 6.24
+label: biscuit (2-1/2\ dia)
+value: 26.76
+
+
+name: Fiber, total dietary
+unit: g
+value: 1.5
+label: oz
+value: 0.4
+label: biscuit (4\ dia)
+value: 1.5
+label: small (1-1/2\ dia)
+value: 0.2
+label: biscuit (2-1/2\ dia)
+value: 0.9
+
+
+name: Sugars, total
+unit: g
+value: 2.18
+label: oz
+value: 0.62
+label: biscuit (4\ dia)
+value: 2.2
+label: small (1-1/2\ dia)
+value: 0.31
+label: biscuit (2-1/2\ dia)
+value: 1.31
+
+
+name: Calcium, Ca
+unit: mg
+value: 235.0
+label: oz
+value: 67.0
+label: biscuit (4\ dia)
+value: 237.0
+label: small (1-1/2\ dia)
+value: 33.0
+label: biscuit (2-1/2\ dia)
+value: 141.0
+
+
+name: Iron, Fe
+unit: mg
+value: 2.9
+label: oz
+value: 0.82
+label: biscuit (4\ dia)
+value: 2.93
+label: small (1-1/2\ dia)
+value: 0.41
+label: biscuit (2-1/2\ dia)
+value: 1.74
+
+
+name: Magnesium, Mg
+unit: mg
+value: 18.0
+label: oz
+value: 5.0
+label: biscuit (4\ dia)
+value: 18.0
+label: small (1-1/2\ dia)
+value: 3.0
+label: biscuit (2-1/2\ dia)
+value: 11.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 164.0
+label: oz
+value: 46.0
+label: biscuit (4\ dia)
+value: 166.0
+label: small (1-1/2\ dia)
+value: 23.0
+label: biscuit (2-1/2\ dia)
+value: 98.0
+
+
+name: Potassium, K
+unit: mg
+value: 121.0
+label: oz
+value: 34.0
+label: biscuit (4\ dia)
+value: 122.0
+label: small (1-1/2\ dia)
+value: 17.0
+label: biscuit (2-1/2\ dia)
+value: 73.0
+
+
+name: Sodium, Na
+unit: mg
+value: 580.0
+label: oz
+value: 164.0
+label: biscuit (4\ dia)
+value: 586.0
+label: small (1-1/2\ dia)
+value: 81.0
+label: biscuit (2-1/2\ dia)
+value: 348.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.54
+label: oz
+value: 0.15
+label: biscuit (4\ dia)
+value: 0.55
+label: small (1-1/2\ dia)
+value: 0.08
+label: biscuit (2-1/2\ dia)
+value: 0.32
+
+
+name: Copper, Cu
+unit: mg
+value: 0.082
+label: oz
+value: 0.023
+label: biscuit (4\ dia)
+value: 0.083
+label: small (1-1/2\ dia)
+value: 0.011
+label: biscuit (2-1/2\ dia)
+value: 0.049
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.378
+label: oz
+value: 0.107
+label: biscuit (4\ dia)
+value: 0.382
+label: small (1-1/2\ dia)
+value: 0.053
+label: biscuit (2-1/2\ dia)
+value: 0.227
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 19.5
+label: oz
+value: 5.5
+label: biscuit (4\ dia)
+value: 19.7
+label: small (1-1/2\ dia)
+value: 2.7
+label: biscuit (2-1/2\ dia)
+value: 11.7
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.2
+label: oz
+value: 0.1
+label: biscuit (4\ dia)
+value: 0.2
+label: small (1-1/2\ dia)
+value: 0.0
+label: biscuit (2-1/2\ dia)
+value: 0.1
+
+
+name: Thiamin
+unit: mg
+value: 0.356
+label: oz
+value: 0.101
+label: biscuit (4\ dia)
+value: 0.36
+label: small (1-1/2\ dia)
+value: 0.05
+label: biscuit (2-1/2\ dia)
+value: 0.214
+
+
+name: Riboflavin
+unit: mg
+value: 0.31
+label: oz
+value: 0.088
+label: biscuit (4\ dia)
+value: 0.313
+label: small (1-1/2\ dia)
+value: 0.043
+label: biscuit (2-1/2\ dia)
+value: 0.186
+
+
+name: Niacin
+unit: mg
+value: 2.949
+label: oz
+value: 0.836
+label: biscuit (4\ dia)
+value: 2.978
+label: small (1-1/2\ dia)
+value: 0.413
+label: biscuit (2-1/2\ dia)
+value: 1.769
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.285
+label: oz
+value: 0.081
+label: biscuit (4\ dia)
+value: 0.288
+label: small (1-1/2\ dia)
+value: 0.04
+label: biscuit (2-1/2\ dia)
+value: 0.171
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.035
+label: oz
+value: 0.01
+label: biscuit (4\ dia)
+value: 0.035
+label: small (1-1/2\ dia)
+value: 0.005
+label: biscuit (2-1/2\ dia)
+value: 0.021
+
+
+name: Folate, total
+unit: \u00B5g
+value: 61.0
+label: oz
+value: 17.0
+label: biscuit (4\ dia)
+value: 62.0
+label: small (1-1/2\ dia)
+value: 9.0
+label: biscuit (2-1/2\ dia)
+value: 37.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 49.0
+label: oz
+value: 14.0
+label: biscuit (4\ dia)
+value: 49.0
+label: small (1-1/2\ dia)
+value: 7.0
+label: biscuit (2-1/2\ dia)
+value: 29.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 12.0
+label: oz
+value: 3.0
+label: biscuit (4\ dia)
+value: 12.0
+label: small (1-1/2\ dia)
+value: 2.0
+label: biscuit (2-1/2\ dia)
+value: 7.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 95.0
+label: oz
+value: 27.0
+label: biscuit (4\ dia)
+value: 96.0
+label: small (1-1/2\ dia)
+value: 13.0
+label: biscuit (2-1/2\ dia)
+value: 57.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.08
+label: oz
+value: 0.02
+label: biscuit (4\ dia)
+value: 0.08
+label: small (1-1/2\ dia)
+value: 0.01
+label: biscuit (2-1/2\ dia)
+value: 0.05
+
+
+name: Vitamin A, IU
+unit: IU
+value: 82.0
+label: oz
+value: 23.0
+label: biscuit (4\ dia)
+value: 83.0
+label: small (1-1/2\ dia)
+value: 11.0
+label: biscuit (2-1/2\ dia)
+value: 49.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 4.324
+label: oz
+value: 1.226
+label: biscuit (4\ dia)
+value: 4.367
+label: small (1-1/2\ dia)
+value: 0.605
+label: biscuit (2-1/2\ dia)
+value: 2.594
+
+
+name: 4:0
+unit: g
+value: 0.026
+label: oz
+value: 0.007
+label: biscuit (4\ dia)
+value: 0.026
+label: small (1-1/2\ dia)
+value: 0.004
+label: biscuit (2-1/2\ dia)
+value: 0.016
+
+
+name: 6:0
+unit: g
+value: 0.015
+label: oz
+value: 0.004
+label: biscuit (4\ dia)
+value: 0.015
+label: small (1-1/2\ dia)
+value: 0.002
+label: biscuit (2-1/2\ dia)
+value: 0.009
+
+
+name: 8:0
+unit: g
+value: 0.009
+label: oz
+value: 0.003
+label: biscuit (4\ dia)
+value: 0.009
+label: small (1-1/2\ dia)
+value: 0.001
+label: biscuit (2-1/2\ dia)
+value: 0.005
+
+
+name: 10:0
+unit: g
+value: 0.02
+label: oz
+value: 0.006
+label: biscuit (4\ dia)
+value: 0.02
+label: small (1-1/2\ dia)
+value: 0.003
+label: biscuit (2-1/2\ dia)
+value: 0.012
+
+
+name: 12:0
+unit: g
+value: 0.022
+label: oz
+value: 0.006
+label: biscuit (4\ dia)
+value: 0.022
+label: small (1-1/2\ dia)
+value: 0.003
+label: biscuit (2-1/2\ dia)
+value: 0.013
+
+
+name: 14:0
+unit: g
+value: 0.14
+label: oz
+value: 0.04
+label: biscuit (4\ dia)
+value: 0.141
+label: small (1-1/2\ dia)
+value: 0.02
+label: biscuit (2-1/2\ dia)
+value: 0.084
+
+
+name: 16:0
+unit: g
+value: 2.402
+label: oz
+value: 0.681
+label: biscuit (4\ dia)
+value: 2.426
+label: small (1-1/2\ dia)
+value: 0.336
+label: biscuit (2-1/2\ dia)
+value: 1.441
+
+
+name: 18:0
+unit: g
+value: 1.687
+label: oz
+value: 0.478
+label: biscuit (4\ dia)
+value: 1.704
+label: small (1-1/2\ dia)
+value: 0.236
+label: biscuit (2-1/2\ dia)
+value: 1.012
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 6.93
+label: oz
+value: 1.965
+label: biscuit (4\ dia)
+value: 6.999
+label: small (1-1/2\ dia)
+value: 0.97
+label: biscuit (2-1/2\ dia)
+value: 4.158
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.018
+label: oz
+value: 0.005
+label: biscuit (4\ dia)
+value: 0.018
+label: small (1-1/2\ dia)
+value: 0.003
+label: biscuit (2-1/2\ dia)
+value: 0.011
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 6.91
+label: oz
+value: 1.959
+label: biscuit (4\ dia)
+value: 6.979
+label: small (1-1/2\ dia)
+value: 0.967
+label: biscuit (2-1/2\ dia)
+value: 4.146
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: biscuit (4\ dia)
+value: 0.0
+label: small (1-1/2\ dia)
+value: 0.0
+label: biscuit (2-1/2\ dia)
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: biscuit (4\ dia)
+value: 0.0
+label: small (1-1/2\ dia)
+value: 0.0
+label: biscuit (2-1/2\ dia)
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 4.163
+label: oz
+value: 1.18
+label: biscuit (4\ dia)
+value: 4.205
+label: small (1-1/2\ dia)
+value: 0.583
+label: biscuit (2-1/2\ dia)
+value: 2.498
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 3.9
+label: oz
+value: 1.106
+label: biscuit (4\ dia)
+value: 3.939
+label: small (1-1/2\ dia)
+value: 0.546
+label: biscuit (2-1/2\ dia)
+value: 2.34
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.263
+label: oz
+value: 0.075
+label: biscuit (4\ dia)
+value: 0.266
+label: small (1-1/2\ dia)
+value: 0.037
+label: biscuit (2-1/2\ dia)
+value: 0.158
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: biscuit (4\ dia)
+value: 0.0
+label: small (1-1/2\ dia)
+value: 0.0
+label: biscuit (2-1/2\ dia)
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: biscuit (4\ dia)
+value: 0.0
+label: small (1-1/2\ dia)
+value: 0.0
+label: biscuit (2-1/2\ dia)
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: biscuit (4\ dia)
+value: 0.0
+label: small (1-1/2\ dia)
+value: 0.0
+label: biscuit (2-1/2\ dia)
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: biscuit (4\ dia)
+value: 0.0
+label: small (1-1/2\ dia)
+value: 0.0
+label: biscuit (2-1/2\ dia)
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: biscuit (4\ dia)
+value: 0.0
+label: small (1-1/2\ dia)
+value: 0.0
+label: biscuit (2-1/2\ dia)
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 3.0
+label: oz
+value: 1.0
+label: biscuit (4\ dia)
+value: 3.0
+label: small (1-1/2\ dia)
+value: 0.0
+label: biscuit (2-1/2\ dia)
+value: 2.0
+
+
+name: Phytosterols
+unit: mg
+value: 30.0
+label: oz
+value: 9.0
+label: biscuit (4\ dia)
+value: 30.0
+label: small (1-1/2\ dia)
+value: 4.0
+label: biscuit (2-1/2\ dia)
+value: 18.0
+
+
+name: Tryptophan
+unit: g
+value: 0.087
+label: oz
+value: 0.025
+label: biscuit (4\ dia)
+value: 0.088
+label: small (1-1/2\ dia)
+value: 0.012
+label: biscuit (2-1/2\ dia)
+value: 0.052
+
+
+name: Threonine
+unit: g
+value: 0.211
+label: oz
+value: 0.06
+label: biscuit (4\ dia)
+value: 0.213
+label: small (1-1/2\ dia)
+value: 0.03
+label: biscuit (2-1/2\ dia)
+value: 0.127
+
+
+name: Isoleucine
+unit: g
+value: 0.273
+label: oz
+value: 0.077
+label: biscuit (4\ dia)
+value: 0.276
+label: small (1-1/2\ dia)
+value: 0.038
+label: biscuit (2-1/2\ dia)
+value: 0.164
+
+
+name: Leucine
+unit: g
+value: 0.514
+label: oz
+value: 0.146
+label: biscuit (4\ dia)
+value: 0.519
+label: small (1-1/2\ dia)
+value: 0.072
+label: biscuit (2-1/2\ dia)
+value: 0.308
+
+
+name: Lysine
+unit: g
+value: 0.226
+label: oz
+value: 0.064
+label: biscuit (4\ dia)
+value: 0.228
+label: small (1-1/2\ dia)
+value: 0.032
+label: biscuit (2-1/2\ dia)
+value: 0.136
+
+
+name: Methionine
+unit: g
+value: 0.132
+label: oz
+value: 0.037
+label: biscuit (4\ dia)
+value: 0.133
+label: small (1-1/2\ dia)
+value: 0.018
+label: biscuit (2-1/2\ dia)
+value: 0.079
+
+
+name: Cystine
+unit: g
+value: 0.132
+label: oz
+value: 0.037
+label: biscuit (4\ dia)
+value: 0.133
+label: small (1-1/2\ dia)
+value: 0.018
+label: biscuit (2-1/2\ dia)
+value: 0.079
+
+
+name: Phenylalanine
+unit: g
+value: 0.347
+label: oz
+value: 0.098
+label: biscuit (4\ dia)
+value: 0.35
+label: small (1-1/2\ dia)
+value: 0.049
+label: biscuit (2-1/2\ dia)
+value: 0.208
+
+
+name: Tyrosine
+unit: g
+value: 0.232
+label: oz
+value: 0.066
+label: biscuit (4\ dia)
+value: 0.234
+label: small (1-1/2\ dia)
+value: 0.032
+label: biscuit (2-1/2\ dia)
+value: 0.139
+
+
+name: Valine
+unit: g
+value: 0.313
+label: oz
+value: 0.089
+label: biscuit (4\ dia)
+value: 0.316
+label: small (1-1/2\ dia)
+value: 0.044
+label: biscuit (2-1/2\ dia)
+value: 0.188
+
+
+name: Arginine
+unit: g
+value: 0.275
+label: oz
+value: 0.078
+label: biscuit (4\ dia)
+value: 0.278
+label: small (1-1/2\ dia)
+value: 0.039
+label: biscuit (2-1/2\ dia)
+value: 0.165
+
+
+name: Histidine
+unit: g
+value: 0.161
+label: oz
+value: 0.046
+label: biscuit (4\ dia)
+value: 0.163
+label: small (1-1/2\ dia)
+value: 0.023
+label: biscuit (2-1/2\ dia)
+value: 0.097
+
+
+name: Alanine
+unit: g
+value: 0.226
+label: oz
+value: 0.064
+label: biscuit (4\ dia)
+value: 0.228
+label: small (1-1/2\ dia)
+value: 0.032
+label: biscuit (2-1/2\ dia)
+value: 0.136
+
+
+name: Aspartic acid
+unit: g
+value: 0.335
+label: oz
+value: 0.095
+label: biscuit (4\ dia)
+value: 0.338
+label: small (1-1/2\ dia)
+value: 0.047
+label: biscuit (2-1/2\ dia)
+value: 0.201
+
+
+name: Glutamic acid
+unit: g
+value: 2.175
+label: oz
+value: 0.617
+label: biscuit (4\ dia)
+value: 2.197
+label: small (1-1/2\ dia)
+value: 0.304
+label: biscuit (2-1/2\ dia)
+value: 1.305
+
+
+name: Glycine
+unit: g
+value: 0.231
+label: oz
+value: 0.065
+label: biscuit (4\ dia)
+value: 0.233
+label: small (1-1/2\ dia)
+value: 0.032
+label: biscuit (2-1/2\ dia)
+value: 0.139
+
+
+name: Proline
+unit: g
+value: 0.78
+label: oz
+value: 0.221
+label: biscuit (4\ dia)
+value: 0.788
+label: small (1-1/2\ dia)
+value: 0.109
+label: biscuit (2-1/2\ dia)
+value: 0.468
+
+
+name: Serine
+unit: g
+value: 0.352
+label: oz
+value: 0.1
+label: biscuit (4\ dia)
+value: 0.356
+label: small (1-1/2\ dia)
+value: 0.049
+label: biscuit (2-1/2\ dia)
+value: 0.211
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: biscuit (4\ dia)
+value: 0.0
+label: small (1-1/2\ dia)
+value: 0.0
+label: biscuit (2-1/2\ dia)
+value: 0.0
+
+
+

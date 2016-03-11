@@ -1,0 +1,864 @@
+ndbno: 21141
+
+
+name: BURGER KING, Vanilla Shake
+
+
+name: Water
+unit: g
+value: 68.13
+label: fl oz
+value: 16.9
+label: small 12 fl oz
+value: 203.03
+label: medium 16 fl oz
+value: 270.48
+
+
+name: Energy
+unit: kcal
+value: 168.0
+label: fl oz
+value: 42.0
+label: small 12 fl oz
+value: 501.0
+label: medium 16 fl oz
+value: 667.0
+
+
+name: Energy
+unit: kJ
+value: 701.0
+label: fl oz
+value: 174.0
+label: small 12 fl oz
+value: 2089.0
+label: medium 16 fl oz
+value: 2783.0
+
+
+name: Protein
+unit: g
+value: 3.19
+label: fl oz
+value: 0.79
+label: small 12 fl oz
+value: 9.51
+label: medium 16 fl oz
+value: 12.66
+
+
+name: Total lipid (fat)
+unit: g
+value: 8.74
+label: fl oz
+value: 2.17
+label: small 12 fl oz
+value: 26.05
+label: medium 16 fl oz
+value: 34.7
+
+
+name: Ash
+unit: g
+value: 0.91
+label: fl oz
+value: 0.23
+label: small 12 fl oz
+value: 2.71
+label: medium 16 fl oz
+value: 3.61
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 19.03
+label: fl oz
+value: 4.72
+label: small 12 fl oz
+value: 56.71
+label: medium 16 fl oz
+value: 75.55
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: small 12 fl oz
+value: 0.0
+label: medium 16 fl oz
+value: 0.0
+
+
+name: Sugars, total
+unit: g
+value: 11.67
+label: fl oz
+value: 2.89
+label: small 12 fl oz
+value: 34.78
+label: medium 16 fl oz
+value: 46.33
+
+
+name: Sucrose
+unit: g
+value: 7.28
+label: fl oz
+value: 1.81
+label: small 12 fl oz
+value: 21.69
+label: medium 16 fl oz
+value: 28.9
+
+
+name: Glucose (dextrose)
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: small 12 fl oz
+value: 0.0
+label: medium 16 fl oz
+value: 0.0
+
+
+name: Fructose
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: small 12 fl oz
+value: 0.0
+label: medium 16 fl oz
+value: 0.0
+
+
+name: Lactose
+unit: g
+value: 4.26
+label: fl oz
+value: 1.06
+label: small 12 fl oz
+value: 12.69
+label: medium 16 fl oz
+value: 16.91
+
+
+name: Maltose
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: small 12 fl oz
+value: 0.0
+label: medium 16 fl oz
+value: 0.0
+
+
+name: Galactose
+unit: g
+value: 0.13
+label: fl oz
+value: 0.03
+label: small 12 fl oz
+value: 0.39
+label: medium 16 fl oz
+value: 0.52
+
+
+name: Starch
+unit: g
+value: 1.0
+label: fl oz
+value: 0.25
+label: small 12 fl oz
+value: 2.98
+label: medium 16 fl oz
+value: 3.97
+
+
+name: Calcium, Ca
+unit: mg
+value: 104.0
+label: fl oz
+value: 26.0
+label: small 12 fl oz
+value: 310.0
+label: medium 16 fl oz
+value: 413.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.42
+label: fl oz
+value: 0.1
+label: small 12 fl oz
+value: 1.25
+label: medium 16 fl oz
+value: 1.67
+
+
+name: Magnesium, Mg
+unit: mg
+value: 12.0
+label: fl oz
+value: 3.0
+label: small 12 fl oz
+value: 36.0
+label: medium 16 fl oz
+value: 48.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 97.0
+label: fl oz
+value: 24.0
+label: small 12 fl oz
+value: 289.0
+label: medium 16 fl oz
+value: 385.0
+
+
+name: Potassium, K
+unit: mg
+value: 153.0
+label: fl oz
+value: 38.0
+label: small 12 fl oz
+value: 456.0
+label: medium 16 fl oz
+value: 607.0
+
+
+name: Sodium, Na
+unit: mg
+value: 100.0
+label: fl oz
+value: 25.0
+label: small 12 fl oz
+value: 298.0
+label: medium 16 fl oz
+value: 397.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.67
+label: fl oz
+value: 0.17
+label: small 12 fl oz
+value: 2.0
+label: medium 16 fl oz
+value: 2.66
+
+
+name: Copper, Cu
+unit: mg
+value: 0.19
+label: fl oz
+value: 0.047
+label: small 12 fl oz
+value: 0.566
+label: medium 16 fl oz
+value: 0.754
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.061
+label: fl oz
+value: 0.015
+label: small 12 fl oz
+value: 0.182
+label: medium 16 fl oz
+value: 0.242
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 3.2
+label: fl oz
+value: 0.8
+label: small 12 fl oz
+value: 9.5
+label: medium 16 fl oz
+value: 12.7
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: fl oz
+value: 0.0
+label: small 12 fl oz
+value: 0.0
+label: medium 16 fl oz
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.0
+label: fl oz
+value: 0.0
+label: small 12 fl oz
+value: 0.0
+label: medium 16 fl oz
+value: 0.0
+
+
+name: Riboflavin
+unit: mg
+value: 0.18
+label: fl oz
+value: 0.045
+label: small 12 fl oz
+value: 0.536
+label: medium 16 fl oz
+value: 0.715
+
+
+name: Niacin
+unit: mg
+value: 0.09
+label: fl oz
+value: 0.022
+label: small 12 fl oz
+value: 0.268
+label: medium 16 fl oz
+value: 0.357
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.62
+label: fl oz
+value: 0.154
+label: small 12 fl oz
+value: 1.848
+label: medium 16 fl oz
+value: 2.461
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.03
+label: fl oz
+value: 0.007
+label: small 12 fl oz
+value: 0.089
+label: medium 16 fl oz
+value: 0.119
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.36
+label: fl oz
+value: 0.09
+label: small 12 fl oz
+value: 1.07
+label: medium 16 fl oz
+value: 1.43
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.32
+label: fl oz
+value: 0.08
+label: small 12 fl oz
+value: 0.95
+label: medium 16 fl oz
+value: 1.27
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 5.335
+label: fl oz
+value: 1.323
+label: small 12 fl oz
+value: 15.898
+label: medium 16 fl oz
+value: 21.18
+
+
+name: 4:0
+unit: g
+value: 0.198
+label: fl oz
+value: 0.049
+label: small 12 fl oz
+value: 0.59
+label: medium 16 fl oz
+value: 0.786
+
+
+name: 6:0
+unit: g
+value: 0.152
+label: fl oz
+value: 0.038
+label: small 12 fl oz
+value: 0.453
+label: medium 16 fl oz
+value: 0.603
+
+
+name: 8:0
+unit: g
+value: 0.093
+label: fl oz
+value: 0.023
+label: small 12 fl oz
+value: 0.277
+label: medium 16 fl oz
+value: 0.369
+
+
+name: 10:0
+unit: g
+value: 0.227
+label: fl oz
+value: 0.056
+label: small 12 fl oz
+value: 0.676
+label: medium 16 fl oz
+value: 0.901
+
+
+name: 12:0
+unit: g
+value: 0.249
+label: fl oz
+value: 0.062
+label: small 12 fl oz
+value: 0.742
+label: medium 16 fl oz
+value: 0.989
+
+
+name: 14:0
+unit: g
+value: 0.825
+label: fl oz
+value: 0.205
+label: small 12 fl oz
+value: 2.458
+label: medium 16 fl oz
+value: 3.275
+
+
+name: 15:0
+unit: g
+value: 0.084
+label: fl oz
+value: 0.021
+label: small 12 fl oz
+value: 0.25
+label: medium 16 fl oz
+value: 0.333
+
+
+name: 16:0
+unit: g
+value: 2.388
+label: fl oz
+value: 0.592
+label: small 12 fl oz
+value: 7.116
+label: medium 16 fl oz
+value: 9.48
+
+
+name: 17:0
+unit: g
+value: 0.053
+label: fl oz
+value: 0.013
+label: small 12 fl oz
+value: 0.158
+label: medium 16 fl oz
+value: 0.21
+
+
+name: 18:0
+unit: g
+value: 1.039
+label: fl oz
+value: 0.258
+label: small 12 fl oz
+value: 3.096
+label: medium 16 fl oz
+value: 4.125
+
+
+name: 20:0
+unit: g
+value: 0.014
+label: fl oz
+value: 0.003
+label: small 12 fl oz
+value: 0.042
+label: medium 16 fl oz
+value: 0.056
+
+
+name: 22:0
+unit: g
+value: 0.004
+label: fl oz
+value: 0.001
+label: small 12 fl oz
+value: 0.012
+label: medium 16 fl oz
+value: 0.016
+
+
+name: 24:0
+unit: g
+value: 0.006
+label: fl oz
+value: 0.001
+label: small 12 fl oz
+value: 0.018
+label: medium 16 fl oz
+value: 0.024
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 2.47
+label: fl oz
+value: 0.613
+label: small 12 fl oz
+value: 7.361
+label: medium 16 fl oz
+value: 9.806
+
+
+name: 14:1
+unit: g
+value: 0.068
+label: fl oz
+value: 0.017
+label: small 12 fl oz
+value: 0.203
+label: medium 16 fl oz
+value: 0.27
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: small 12 fl oz
+value: 0.0
+label: medium 16 fl oz
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.172
+label: fl oz
+value: 0.043
+label: small 12 fl oz
+value: 0.513
+label: medium 16 fl oz
+value: 0.683
+
+
+name: 16:1 c
+unit: g
+value: 0.143
+label: fl oz
+value: 0.035
+label: small 12 fl oz
+value: 0.426
+label: medium 16 fl oz
+value: 0.568
+
+
+name: 16:1 t
+unit: g
+value: 0.03
+label: fl oz
+value: 0.007
+label: small 12 fl oz
+value: 0.089
+label: medium 16 fl oz
+value: 0.119
+
+
+name: 17:1
+unit: g
+value: 0.017
+label: fl oz
+value: 0.004
+label: small 12 fl oz
+value: 0.051
+label: medium 16 fl oz
+value: 0.067
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 2.204
+label: fl oz
+value: 0.547
+label: small 12 fl oz
+value: 6.568
+label: medium 16 fl oz
+value: 8.75
+
+
+name: 18:1 c
+unit: g
+value: 1.997
+label: fl oz
+value: 0.495
+label: small 12 fl oz
+value: 5.951
+label: medium 16 fl oz
+value: 7.928
+
+
+name: 18:1 t
+unit: g
+value: 0.207
+label: fl oz
+value: 0.051
+label: small 12 fl oz
+value: 0.617
+label: medium 16 fl oz
+value: 0.822
+
+
+name: 20:1
+unit: g
+value: 0.009
+label: fl oz
+value: 0.002
+label: small 12 fl oz
+value: 0.027
+label: medium 16 fl oz
+value: 0.036
+
+
+name: 22:1 c
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: small 12 fl oz
+value: 0.0
+label: medium 16 fl oz
+value: 0.0
+
+
+name: 22:1 t
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: small 12 fl oz
+value: 0.0
+label: medium 16 fl oz
+value: 0.0
+
+
+name: 24:1 c
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: small 12 fl oz
+value: 0.0
+label: medium 16 fl oz
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.434
+label: fl oz
+value: 0.108
+label: small 12 fl oz
+value: 1.293
+label: medium 16 fl oz
+value: 1.723
+
+
+name: 18:2 n-6 c,c
+unit: g
+value: 0.255
+label: fl oz
+value: 0.063
+label: small 12 fl oz
+value: 0.76
+label: medium 16 fl oz
+value: 1.012
+
+
+name: 18:2 CLAs
+unit: g
+value: 0.047
+label: fl oz
+value: 0.012
+label: small 12 fl oz
+value: 0.14
+label: medium 16 fl oz
+value: 0.187
+
+
+name: 18:2 t not further defined
+unit: g
+value: 0.059
+label: fl oz
+value: 0.015
+label: small 12 fl oz
+value: 0.176
+label: medium 16 fl oz
+value: 0.234
+
+
+name: 18:3 n-3 c,c,c (ALA)
+unit: g
+value: 0.034
+label: fl oz
+value: 0.008
+label: small 12 fl oz
+value: 0.101
+label: medium 16 fl oz
+value: 0.135
+
+
+name: 18:3 n-6 c,c,c
+unit: g
+value: 0.003
+label: fl oz
+value: 0.001
+label: small 12 fl oz
+value: 0.009
+label: medium 16 fl oz
+value: 0.012
+
+
+name: 18:4
+unit: g
+value: 0.004
+label: fl oz
+value: 0.001
+label: small 12 fl oz
+value: 0.012
+label: medium 16 fl oz
+value: 0.016
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.002
+label: fl oz
+value: 0.0
+label: small 12 fl oz
+value: 0.006
+label: medium 16 fl oz
+value: 0.008
+
+
+name: 20:3 n-6
+unit: g
+value: 0.011
+label: fl oz
+value: 0.003
+label: small 12 fl oz
+value: 0.033
+label: medium 16 fl oz
+value: 0.044
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.013
+label: fl oz
+value: 0.003
+label: small 12 fl oz
+value: 0.039
+label: medium 16 fl oz
+value: 0.052
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: small 12 fl oz
+value: 0.0
+label: medium 16 fl oz
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.005
+label: fl oz
+value: 0.001
+label: small 12 fl oz
+value: 0.015
+label: medium 16 fl oz
+value: 0.02
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: small 12 fl oz
+value: 0.0
+label: medium 16 fl oz
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.296
+label: fl oz
+value: 0.073
+label: small 12 fl oz
+value: 0.882
+label: medium 16 fl oz
+value: 1.175
+
+
+name: Fatty acids, total trans-monoenoic
+unit: g
+value: 0.237
+label: fl oz
+value: 0.059
+label: small 12 fl oz
+value: 0.706
+label: medium 16 fl oz
+value: 0.941
+
+
+name: Cholesterol
+unit: mg
+value: 31.0
+label: fl oz
+value: 8.0
+label: small 12 fl oz
+value: 92.0
+label: medium 16 fl oz
+value: 123.0
+
+

@@ -1,0 +1,590 @@
+ndbno: 09429
+
+
+name: Pineapple, raw, traditional varieties
+
+
+name: Water
+unit: g
+value: 87.24
+label: cup, chunks
+value: 143.95
+label: slice (4-2/3\ dia x 3/4\ thick)
+value: 152.67
+label: fruit
+value: 874.14
+label: NLEA serving
+value: 97.71
+
+
+name: Energy
+unit: kcal
+value: 45.0
+label: cup, chunks
+value: 74.0
+label: slice (4-2/3\ dia x 3/4\ thick)
+value: 79.0
+label: fruit
+value: 451.0
+label: NLEA serving
+value: 50.0
+
+
+name: Energy
+unit: kJ
+value: 190.0
+label: cup, chunks
+value: 314.0
+label: slice (4-2/3\ dia x 3/4\ thick)
+value: 332.0
+label: fruit
+value: 1904.0
+label: NLEA serving
+value: 213.0
+
+
+name: Protein
+unit: g
+value: 0.55
+label: cup, chunks
+value: 0.91
+label: slice (4-2/3\ dia x 3/4\ thick)
+value: 0.96
+label: fruit
+value: 5.51
+label: NLEA serving
+value: 0.62
+
+
+name: Total lipid (fat)
+unit: g
+value: 0.13
+label: cup, chunks
+value: 0.21
+label: slice (4-2/3\ dia x 3/4\ thick)
+value: 0.23
+label: fruit
+value: 1.3
+label: NLEA serving
+value: 0.15
+
+
+name: Ash
+unit: g
+value: 0.27
+label: cup, chunks
+value: 0.45
+label: slice (4-2/3\ dia x 3/4\ thick)
+value: 0.47
+label: fruit
+value: 2.71
+label: NLEA serving
+value: 0.3
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 11.82
+label: cup, chunks
+value: 19.5
+label: slice (4-2/3\ dia x 3/4\ thick)
+value: 20.68
+label: fruit
+value: 118.44
+label: NLEA serving
+value: 13.24
+
+
+name: Sugars, total
+unit: g
+value: 8.29
+label: cup, chunks
+value: 13.68
+label: slice (4-2/3\ dia x 3/4\ thick)
+value: 14.51
+label: fruit
+value: 83.07
+label: NLEA serving
+value: 9.28
+
+
+name: Sucrose
+unit: g
+value: 4.59
+label: cup, chunks
+value: 7.57
+label: slice (4-2/3\ dia x 3/4\ thick)
+value: 8.03
+label: fruit
+value: 45.99
+label: NLEA serving
+value: 5.14
+
+
+name: Glucose (dextrose)
+unit: g
+value: 1.76
+label: cup, chunks
+value: 2.9
+label: slice (4-2/3\ dia x 3/4\ thick)
+value: 3.08
+label: fruit
+value: 17.64
+label: NLEA serving
+value: 1.97
+
+
+name: Fructose
+unit: g
+value: 1.94
+label: cup, chunks
+value: 3.2
+label: slice (4-2/3\ dia x 3/4\ thick)
+value: 3.4
+label: fruit
+value: 19.44
+label: NLEA serving
+value: 2.17
+
+
+name: Lactose
+unit: g
+value: 0.0
+label: cup, chunks
+value: 0.0
+label: slice (4-2/3\ dia x 3/4\ thick)
+value: 0.0
+label: fruit
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: Maltose
+unit: g
+value: 0.0
+label: cup, chunks
+value: 0.0
+label: slice (4-2/3\ dia x 3/4\ thick)
+value: 0.0
+label: fruit
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: Galactose
+unit: g
+value: 0.0
+label: cup, chunks
+value: 0.0
+label: slice (4-2/3\ dia x 3/4\ thick)
+value: 0.0
+label: fruit
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 13.0
+label: cup, chunks
+value: 21.0
+label: slice (4-2/3\ dia x 3/4\ thick)
+value: 23.0
+label: fruit
+value: 130.0
+label: NLEA serving
+value: 15.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.25
+label: cup, chunks
+value: 0.41
+label: slice (4-2/3\ dia x 3/4\ thick)
+value: 0.44
+label: fruit
+value: 2.5
+label: NLEA serving
+value: 0.28
+
+
+name: Magnesium, Mg
+unit: mg
+value: 12.0
+label: cup, chunks
+value: 20.0
+label: slice (4-2/3\ dia x 3/4\ thick)
+value: 21.0
+label: fruit
+value: 120.0
+label: NLEA serving
+value: 13.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 9.0
+label: cup, chunks
+value: 15.0
+label: slice (4-2/3\ dia x 3/4\ thick)
+value: 16.0
+label: fruit
+value: 90.0
+label: NLEA serving
+value: 10.0
+
+
+name: Potassium, K
+unit: mg
+value: 125.0
+label: cup, chunks
+value: 206.0
+label: slice (4-2/3\ dia x 3/4\ thick)
+value: 219.0
+label: fruit
+value: 1252.0
+label: NLEA serving
+value: 140.0
+
+
+name: Sodium, Na
+unit: mg
+value: 1.0
+label: cup, chunks
+value: 2.0
+label: slice (4-2/3\ dia x 3/4\ thick)
+value: 2.0
+label: fruit
+value: 10.0
+label: NLEA serving
+value: 1.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.08
+label: cup, chunks
+value: 0.13
+label: slice (4-2/3\ dia x 3/4\ thick)
+value: 0.14
+label: fruit
+value: 0.8
+label: NLEA serving
+value: 0.09
+
+
+name: Copper, Cu
+unit: mg
+value: 0.081
+label: cup, chunks
+value: 0.134
+label: slice (4-2/3\ dia x 3/4\ thick)
+value: 0.142
+label: fruit
+value: 0.812
+label: NLEA serving
+value: 0.091
+
+
+name: Manganese, Mn
+unit: mg
+value: 1.593
+label: cup, chunks
+value: 2.628
+label: slice (4-2/3\ dia x 3/4\ thick)
+value: 2.788
+label: fruit
+value: 15.962
+label: NLEA serving
+value: 1.784
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 0.0
+label: cup, chunks
+value: 0.0
+label: slice (4-2/3\ dia x 3/4\ thick)
+value: 0.0
+label: fruit
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 16.9
+label: cup, chunks
+value: 27.9
+label: slice (4-2/3\ dia x 3/4\ thick)
+value: 29.6
+label: fruit
+value: 169.3
+label: NLEA serving
+value: 18.9
+
+
+name: Thiamin
+unit: mg
+value: 0.078
+label: cup, chunks
+value: 0.129
+label: slice (4-2/3\ dia x 3/4\ thick)
+value: 0.136
+label: fruit
+value: 0.782
+label: NLEA serving
+value: 0.087
+
+
+name: Riboflavin
+unit: mg
+value: 0.029
+label: cup, chunks
+value: 0.048
+label: slice (4-2/3\ dia x 3/4\ thick)
+value: 0.051
+label: fruit
+value: 0.291
+label: NLEA serving
+value: 0.032
+
+
+name: Niacin
+unit: mg
+value: 0.47
+label: cup, chunks
+value: 0.776
+label: slice (4-2/3\ dia x 3/4\ thick)
+value: 0.822
+label: fruit
+value: 4.709
+label: NLEA serving
+value: 0.526
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.193
+label: cup, chunks
+value: 0.318
+label: slice (4-2/3\ dia x 3/4\ thick)
+value: 0.338
+label: fruit
+value: 1.934
+label: NLEA serving
+value: 0.216
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.106
+label: cup, chunks
+value: 0.175
+label: slice (4-2/3\ dia x 3/4\ thick)
+value: 0.186
+label: fruit
+value: 1.062
+label: NLEA serving
+value: 0.119
+
+
+name: Folate, total
+unit: \u00B5g
+value: 11.0
+label: cup, chunks
+value: 18.0
+label: slice (4-2/3\ dia x 3/4\ thick)
+value: 19.0
+label: fruit
+value: 110.0
+label: NLEA serving
+value: 12.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 11.0
+label: cup, chunks
+value: 18.0
+label: slice (4-2/3\ dia x 3/4\ thick)
+value: 19.0
+label: fruit
+value: 110.0
+label: NLEA serving
+value: 12.0
+
+
+name: Choline, total
+unit: mg
+value: 5.6
+label: cup, chunks
+value: 9.2
+label: slice (4-2/3\ dia x 3/4\ thick)
+value: 9.8
+label: fruit
+value: 56.1
+label: NLEA serving
+value: 6.3
+
+
+name: Betaine
+unit: mg
+value: 0.1
+label: cup, chunks
+value: 0.2
+label: slice (4-2/3\ dia x 3/4\ thick)
+value: 0.2
+label: fruit
+value: 1.0
+label: NLEA serving
+value: 0.1
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 3.0
+label: cup, chunks
+value: 5.0
+label: slice (4-2/3\ dia x 3/4\ thick)
+value: 5.0
+label: fruit
+value: 30.0
+label: NLEA serving
+value: 3.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 31.0
+label: cup, chunks
+value: 51.0
+label: slice (4-2/3\ dia x 3/4\ thick)
+value: 54.0
+label: fruit
+value: 311.0
+label: NLEA serving
+value: 35.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: cup, chunks
+value: 0.0
+label: slice (4-2/3\ dia x 3/4\ thick)
+value: 0.0
+label: fruit
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: cup, chunks
+value: 0.0
+label: slice (4-2/3\ dia x 3/4\ thick)
+value: 0.0
+label: fruit
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 52.0
+label: cup, chunks
+value: 86.0
+label: slice (4-2/3\ dia x 3/4\ thick)
+value: 91.0
+label: fruit
+value: 521.0
+label: NLEA serving
+value: 58.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: cup, chunks
+value: 0.0
+label: slice (4-2/3\ dia x 3/4\ thick)
+value: 0.0
+label: fruit
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 0.0
+label: cup, chunks
+value: 0.0
+label: slice (4-2/3\ dia x 3/4\ thick)
+value: 0.0
+label: fruit
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: cup, chunks
+value: 0.0
+label: slice (4-2/3\ dia x 3/4\ thick)
+value: 0.0
+label: fruit
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: cup, chunks
+value: 0.0
+label: slice (4-2/3\ dia x 3/4\ thick)
+value: 0.0
+label: fruit
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 0.7
+label: cup, chunks
+value: 1.2
+label: slice (4-2/3\ dia x 3/4\ thick)
+value: 1.2
+label: fruit
+value: 7.0
+label: NLEA serving
+value: 0.8
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.0
+label: cup, chunks
+value: 0.0
+label: slice (4-2/3\ dia x 3/4\ thick)
+value: 0.0
+label: fruit
+value: 0.0
+label: NLEA serving
+value: 0.0
+

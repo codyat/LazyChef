@@ -1,0 +1,573 @@
+ndbno: 21243
+
+
+name: WENDY'S, CLASSIC DOUBLE, with cheese
+
+
+name: Water
+unit: g
+value: 55.84
+label: item
+value: 173.1
+
+
+name: Energy
+unit: kcal
+value: 241.0
+label: item
+value: 747.0
+
+
+name: Energy
+unit: kJ
+value: 1007.0
+label: item
+value: 3122.0
+
+
+name: Protein
+unit: g
+value: 16.52
+label: item
+value: 51.21
+
+
+name: Total lipid (fat)
+unit: g
+value: 14.2
+label: item
+value: 44.02
+
+
+name: Ash
+unit: g
+value: 1.73
+label: item
+value: 5.36
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 11.71
+label: item
+value: 36.3
+
+
+name: Fiber, total dietary
+unit: g
+value: 1.1
+label: item
+value: 3.4
+
+
+name: Sucrose
+unit: g
+value: 0.0
+label: item
+value: 0.0
+
+
+name: Glucose (dextrose)
+unit: g
+value: 0.47
+label: item
+value: 1.46
+
+
+name: Fructose
+unit: g
+value: 0.62
+label: item
+value: 1.92
+
+
+name: Lactose
+unit: g
+value: 0.15
+label: item
+value: 0.46
+
+
+name: Maltose
+unit: g
+value: 0.15
+label: item
+value: 0.46
+
+
+name: Starch
+unit: g
+value: 8.6
+label: item
+value: 26.66
+
+
+name: Calcium, Ca
+unit: mg
+value: 58.0
+label: item
+value: 180.0
+
+
+name: Iron, Fe
+unit: mg
+value: 2.94
+label: item
+value: 9.11
+
+
+name: Magnesium, Mg
+unit: mg
+value: 19.0
+label: item
+value: 59.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 134.0
+label: item
+value: 415.0
+
+
+name: Potassium, K
+unit: mg
+value: 214.0
+label: item
+value: 663.0
+
+
+name: Sodium, Na
+unit: mg
+value: 422.0
+label: item
+value: 1308.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 3.05
+label: item
+value: 9.46
+
+
+name: Copper, Cu
+unit: mg
+value: 0.075
+label: item
+value: 0.232
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.133
+label: item
+value: 0.412
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 19.9
+label: item
+value: 61.7
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.7
+label: item
+value: 2.2
+
+
+name: Thiamin
+unit: mg
+value: 0.242
+label: item
+value: 0.75
+
+
+name: Riboflavin
+unit: mg
+value: 0.251
+label: item
+value: 0.778
+
+
+name: Niacin
+unit: mg
+value: 3.52
+label: item
+value: 10.912
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.359
+label: item
+value: 1.113
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.189
+label: item
+value: 0.586
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 1.92
+label: item
+value: 5.95
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 6.9
+label: item
+value: 21.4
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 5.89
+label: item
+value: 18.259
+
+
+name: 8:0
+unit: g
+value: 0.02
+label: item
+value: 0.062
+
+
+name: 10:0
+unit: g
+value: 0.05
+label: item
+value: 0.155
+
+
+name: 12:0
+unit: g
+value: 0.06
+label: item
+value: 0.186
+
+
+name: 14:0
+unit: g
+value: 0.5
+label: item
+value: 1.55
+
+
+name: 15:0
+unit: g
+value: 0.07
+label: item
+value: 0.217
+
+
+name: 16:0
+unit: g
+value: 3.24
+label: item
+value: 10.044
+
+
+name: 17:0
+unit: g
+value: 0.16
+label: item
+value: 0.496
+
+
+name: 18:0
+unit: g
+value: 1.75
+label: item
+value: 5.425
+
+
+name: 20:0
+unit: g
+value: 0.02
+label: item
+value: 0.062
+
+
+name: 22:0
+unit: g
+value: 0.0
+label: item
+value: 0.0
+
+
+name: 24:0
+unit: g
+value: 0.02
+label: item
+value: 0.062
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 5.74
+label: item
+value: 17.794
+
+
+name: 14:1
+unit: g
+value: 0.11
+label: item
+value: 0.341
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: item
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.49
+label: item
+value: 1.519
+
+
+name: 17:1
+unit: g
+value: 0.0
+label: item
+value: 0.0
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 5.09
+label: item
+value: 15.779
+
+
+name: 20:1
+unit: g
+value: 0.05
+label: item
+value: 0.155
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: item
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 1.3
+label: item
+value: 4.03
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 1.04
+label: item
+value: 3.224
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.15
+label: item
+value: 0.465
+
+
+name: 18:4
+unit: g
+value: 0.07
+label: item
+value: 0.217
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.0
+label: item
+value: 0.0
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.01
+label: item
+value: 0.031
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.03
+label: item
+value: 0.093
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: item
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: item
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: item
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 51.0
+label: item
+value: 158.0
+
+
+name: Tryptophan
+unit: g
+value: 0.16
+label: item
+value: 0.496
+
+
+name: Threonine
+unit: g
+value: 0.57
+label: item
+value: 1.767
+
+
+name: Isoleucine
+unit: g
+value: 0.59
+label: item
+value: 1.829
+
+
+name: Leucine
+unit: g
+value: 1.06
+label: item
+value: 3.286
+
+
+name: Lysine
+unit: g
+value: 1.01
+label: item
+value: 3.131
+
+
+name: Methionine
+unit: g
+value: 0.34
+label: item
+value: 1.054
+
+
+name: Cystine
+unit: g
+value: 0.18
+label: item
+value: 0.558
+
+
+name: Phenylalanine
+unit: g
+value: 0.57
+label: item
+value: 1.767
+
+
+name: Tyrosine
+unit: g
+value: 0.35
+label: item
+value: 1.085
+
+
+name: Valine
+unit: g
+value: 0.68
+label: item
+value: 2.108
+
+
+name: Arginine
+unit: g
+value: 0.81
+label: item
+value: 2.511
+
+
+name: Histidine
+unit: g
+value: 0.38
+label: item
+value: 1.178
+
+
+name: Alanine
+unit: g
+value: 0.86
+label: item
+value: 2.666
+
+
+name: Aspartic acid
+unit: g
+value: 1.23
+label: item
+value: 3.813
+
+
+name: Glutamic acid
+unit: g
+value: 2.44
+label: item
+value: 7.564
+
+
+name: Glycine
+unit: g
+value: 0.93
+label: item
+value: 2.883
+
+
+name: Proline
+unit: g
+value: 0.9
+label: item
+value: 2.79
+
+
+name: Serine
+unit: g
+value: 0.6
+label: item
+value: 1.86
+
+

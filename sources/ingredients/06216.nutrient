@@ -1,0 +1,788 @@
+ndbno: 06216
+
+
+name: Soup, cream of chicken, canned, prepared with equal volume milk
+
+
+name: Water
+unit: g
+value: 84.83
+label: cup (8 fl oz)
+value: 210.38
+label: fl oz
+value: 26.3
+label: can (10.75 oz), prepared
+value: 510.68
+
+
+name: Energy
+unit: kcal
+value: 77.0
+label: cup (8 fl oz)
+value: 191.0
+label: fl oz
+value: 24.0
+label: can (10.75 oz), prepared
+value: 464.0
+
+
+name: Energy
+unit: kJ
+value: 322.0
+label: cup (8 fl oz)
+value: 799.0
+label: fl oz
+value: 100.0
+label: can (10.75 oz), prepared
+value: 1938.0
+
+
+name: Protein
+unit: g
+value: 3.01
+label: cup (8 fl oz)
+value: 7.46
+label: fl oz
+value: 0.93
+label: can (10.75 oz), prepared
+value: 18.12
+
+
+name: Total lipid (fat)
+unit: g
+value: 4.62
+label: cup (8 fl oz)
+value: 11.46
+label: fl oz
+value: 1.43
+label: can (10.75 oz), prepared
+value: 27.81
+
+
+name: Ash
+unit: g
+value: 1.51
+label: cup (8 fl oz)
+value: 3.74
+label: fl oz
+value: 0.47
+label: can (10.75 oz), prepared
+value: 9.09
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 6.04
+label: cup (8 fl oz)
+value: 14.98
+label: fl oz
+value: 1.87
+label: can (10.75 oz), prepared
+value: 36.36
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.1
+label: cup (8 fl oz)
+value: 0.2
+label: fl oz
+value: 0.0
+label: can (10.75 oz), prepared
+value: 0.6
+
+
+name: Calcium, Ca
+unit: mg
+value: 73.0
+label: cup (8 fl oz)
+value: 181.0
+label: fl oz
+value: 23.0
+label: can (10.75 oz), prepared
+value: 439.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.27
+label: cup (8 fl oz)
+value: 0.67
+label: fl oz
+value: 0.08
+label: can (10.75 oz), prepared
+value: 1.63
+
+
+name: Magnesium, Mg
+unit: mg
+value: 7.0
+label: cup (8 fl oz)
+value: 17.0
+label: fl oz
+value: 2.0
+label: can (10.75 oz), prepared
+value: 42.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 61.0
+label: cup (8 fl oz)
+value: 151.0
+label: fl oz
+value: 19.0
+label: can (10.75 oz), prepared
+value: 367.0
+
+
+name: Potassium, K
+unit: mg
+value: 110.0
+label: cup (8 fl oz)
+value: 273.0
+label: fl oz
+value: 34.0
+label: can (10.75 oz), prepared
+value: 662.0
+
+
+name: Sodium, Na
+unit: mg
+value: 362.0
+label: cup (8 fl oz)
+value: 898.0
+label: fl oz
+value: 112.0
+label: can (10.75 oz), prepared
+value: 2179.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.27
+label: cup (8 fl oz)
+value: 0.67
+label: fl oz
+value: 0.08
+label: can (10.75 oz), prepared
+value: 1.63
+
+
+name: Copper, Cu
+unit: mg
+value: 0.056
+label: cup (8 fl oz)
+value: 0.139
+label: fl oz
+value: 0.017
+label: can (10.75 oz), prepared
+value: 0.337
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.153
+label: cup (8 fl oz)
+value: 0.379
+label: fl oz
+value: 0.047
+label: can (10.75 oz), prepared
+value: 0.921
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.5
+label: cup (8 fl oz)
+value: 1.2
+label: fl oz
+value: 0.2
+label: can (10.75 oz), prepared
+value: 3.0
+
+
+name: Thiamin
+unit: mg
+value: 0.03
+label: cup (8 fl oz)
+value: 0.074
+label: fl oz
+value: 0.009
+label: can (10.75 oz), prepared
+value: 0.181
+
+
+name: Riboflavin
+unit: mg
+value: 0.104
+label: cup (8 fl oz)
+value: 0.258
+label: fl oz
+value: 0.032
+label: can (10.75 oz), prepared
+value: 0.626
+
+
+name: Niacin
+unit: mg
+value: 0.372
+label: cup (8 fl oz)
+value: 0.923
+label: fl oz
+value: 0.115
+label: can (10.75 oz), prepared
+value: 2.239
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.23
+label: cup (8 fl oz)
+value: 0.57
+label: fl oz
+value: 0.071
+label: can (10.75 oz), prepared
+value: 1.385
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.027
+label: cup (8 fl oz)
+value: 0.067
+label: fl oz
+value: 0.008
+label: can (10.75 oz), prepared
+value: 0.163
+
+
+name: Folate, total
+unit: \u00B5g
+value: 3.0
+label: cup (8 fl oz)
+value: 7.0
+label: fl oz
+value: 1.0
+label: can (10.75 oz), prepared
+value: 18.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: cup (8 fl oz)
+value: 0.0
+label: fl oz
+value: 0.0
+label: can (10.75 oz), prepared
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 3.0
+label: cup (8 fl oz)
+value: 7.0
+label: fl oz
+value: 1.0
+label: can (10.75 oz), prepared
+value: 18.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 3.0
+label: cup (8 fl oz)
+value: 7.0
+label: fl oz
+value: 1.0
+label: can (10.75 oz), prepared
+value: 18.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.22
+label: cup (8 fl oz)
+value: 0.55
+label: fl oz
+value: 0.07
+label: can (10.75 oz), prepared
+value: 1.32
+
+
+name: Vitamin A, IU
+unit: IU
+value: 288.0
+label: cup (8 fl oz)
+value: 714.0
+label: fl oz
+value: 89.0
+label: can (10.75 oz), prepared
+value: 1734.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 1.87
+label: cup (8 fl oz)
+value: 4.638
+label: fl oz
+value: 0.58
+label: can (10.75 oz), prepared
+value: 11.257
+
+
+name: 4:0
+unit: g
+value: 0.07
+label: cup (8 fl oz)
+value: 0.174
+label: fl oz
+value: 0.022
+label: can (10.75 oz), prepared
+value: 0.421
+
+
+name: 6:0
+unit: g
+value: 0.05
+label: cup (8 fl oz)
+value: 0.124
+label: fl oz
+value: 0.016
+label: can (10.75 oz), prepared
+value: 0.301
+
+
+name: 8:0
+unit: g
+value: 0.03
+label: cup (8 fl oz)
+value: 0.074
+label: fl oz
+value: 0.009
+label: can (10.75 oz), prepared
+value: 0.181
+
+
+name: 10:0
+unit: g
+value: 0.05
+label: cup (8 fl oz)
+value: 0.124
+label: fl oz
+value: 0.016
+label: can (10.75 oz), prepared
+value: 0.301
+
+
+name: 12:0
+unit: g
+value: 0.06
+label: cup (8 fl oz)
+value: 0.149
+label: fl oz
+value: 0.019
+label: can (10.75 oz), prepared
+value: 0.361
+
+
+name: 14:0
+unit: g
+value: 0.23
+label: cup (8 fl oz)
+value: 0.57
+label: fl oz
+value: 0.071
+label: can (10.75 oz), prepared
+value: 1.385
+
+
+name: 16:0
+unit: g
+value: 0.96
+label: cup (8 fl oz)
+value: 2.381
+label: fl oz
+value: 0.298
+label: can (10.75 oz), prepared
+value: 5.779
+
+
+name: 18:0
+unit: g
+value: 0.36
+label: cup (8 fl oz)
+value: 0.893
+label: fl oz
+value: 0.112
+label: can (10.75 oz), prepared
+value: 2.167
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 1.8
+label: cup (8 fl oz)
+value: 4.464
+label: fl oz
+value: 0.558
+label: can (10.75 oz), prepared
+value: 10.836
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.16
+label: cup (8 fl oz)
+value: 0.397
+label: fl oz
+value: 0.05
+label: can (10.75 oz), prepared
+value: 0.963
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 1.6
+label: cup (8 fl oz)
+value: 3.968
+label: fl oz
+value: 0.496
+label: can (10.75 oz), prepared
+value: 9.632
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: cup (8 fl oz)
+value: 0.0
+label: fl oz
+value: 0.0
+label: can (10.75 oz), prepared
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: cup (8 fl oz)
+value: 0.0
+label: fl oz
+value: 0.0
+label: can (10.75 oz), prepared
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.66
+label: cup (8 fl oz)
+value: 1.637
+label: fl oz
+value: 0.205
+label: can (10.75 oz), prepared
+value: 3.973
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.61
+label: cup (8 fl oz)
+value: 1.513
+label: fl oz
+value: 0.189
+label: can (10.75 oz), prepared
+value: 3.672
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.05
+label: cup (8 fl oz)
+value: 0.124
+label: fl oz
+value: 0.016
+label: can (10.75 oz), prepared
+value: 0.301
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: cup (8 fl oz)
+value: 0.0
+label: fl oz
+value: 0.0
+label: can (10.75 oz), prepared
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: cup (8 fl oz)
+value: 0.0
+label: fl oz
+value: 0.0
+label: can (10.75 oz), prepared
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: cup (8 fl oz)
+value: 0.0
+label: fl oz
+value: 0.0
+label: can (10.75 oz), prepared
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: cup (8 fl oz)
+value: 0.0
+label: fl oz
+value: 0.0
+label: can (10.75 oz), prepared
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: cup (8 fl oz)
+value: 0.0
+label: fl oz
+value: 0.0
+label: can (10.75 oz), prepared
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 11.0
+label: cup (8 fl oz)
+value: 27.0
+label: fl oz
+value: 3.0
+label: can (10.75 oz), prepared
+value: 66.0
+
+
+name: Tryptophan
+unit: g
+value: 0.04
+label: cup (8 fl oz)
+value: 0.099
+label: fl oz
+value: 0.012
+label: can (10.75 oz), prepared
+value: 0.241
+
+
+name: Threonine
+unit: g
+value: 0.126
+label: cup (8 fl oz)
+value: 0.312
+label: fl oz
+value: 0.039
+label: can (10.75 oz), prepared
+value: 0.759
+
+
+name: Isoleucine
+unit: g
+value: 0.167
+label: cup (8 fl oz)
+value: 0.414
+label: fl oz
+value: 0.052
+label: can (10.75 oz), prepared
+value: 1.005
+
+
+name: Leucine
+unit: g
+value: 0.265
+label: cup (8 fl oz)
+value: 0.657
+label: fl oz
+value: 0.082
+label: can (10.75 oz), prepared
+value: 1.595
+
+
+name: Lysine
+unit: g
+value: 0.215
+label: cup (8 fl oz)
+value: 0.533
+label: fl oz
+value: 0.067
+label: can (10.75 oz), prepared
+value: 1.294
+
+
+name: Methionine
+unit: g
+value: 0.073
+label: cup (8 fl oz)
+value: 0.181
+label: fl oz
+value: 0.023
+label: can (10.75 oz), prepared
+value: 0.439
+
+
+name: Cystine
+unit: g
+value: 0.035
+label: cup (8 fl oz)
+value: 0.087
+label: fl oz
+value: 0.011
+label: can (10.75 oz), prepared
+value: 0.211
+
+
+name: Phenylalanine
+unit: g
+value: 0.14
+label: cup (8 fl oz)
+value: 0.347
+label: fl oz
+value: 0.043
+label: can (10.75 oz), prepared
+value: 0.843
+
+
+name: Tyrosine
+unit: g
+value: 0.126
+label: cup (8 fl oz)
+value: 0.312
+label: fl oz
+value: 0.039
+label: can (10.75 oz), prepared
+value: 0.759
+
+
+name: Valine
+unit: g
+value: 0.179
+label: cup (8 fl oz)
+value: 0.444
+label: fl oz
+value: 0.055
+label: can (10.75 oz), prepared
+value: 1.078
+
+
+name: Arginine
+unit: g
+value: 0.126
+label: cup (8 fl oz)
+value: 0.312
+label: fl oz
+value: 0.039
+label: can (10.75 oz), prepared
+value: 0.759
+
+
+name: Histidine
+unit: g
+value: 0.081
+label: cup (8 fl oz)
+value: 0.201
+label: fl oz
+value: 0.025
+label: can (10.75 oz), prepared
+value: 0.488
+
+
+name: Alanine
+unit: g
+value: 0.116
+label: cup (8 fl oz)
+value: 0.288
+label: fl oz
+value: 0.036
+label: can (10.75 oz), prepared
+value: 0.698
+
+
+name: Aspartic acid
+unit: g
+value: 0.221
+label: cup (8 fl oz)
+value: 0.548
+label: fl oz
+value: 0.069
+label: can (10.75 oz), prepared
+value: 1.33
+
+
+name: Glutamic acid
+unit: g
+value: 0.655
+label: cup (8 fl oz)
+value: 1.624
+label: fl oz
+value: 0.203
+label: can (10.75 oz), prepared
+value: 3.943
+
+
+name: Glycine
+unit: g
+value: 0.089
+label: cup (8 fl oz)
+value: 0.221
+label: fl oz
+value: 0.028
+label: can (10.75 oz), prepared
+value: 0.536
+
+
+name: Proline
+unit: g
+value: 0.261
+label: cup (8 fl oz)
+value: 0.647
+label: fl oz
+value: 0.081
+label: can (10.75 oz), prepared
+value: 1.571
+
+
+name: Serine
+unit: g
+value: 0.149
+label: cup (8 fl oz)
+value: 0.37
+label: fl oz
+value: 0.046
+label: can (10.75 oz), prepared
+value: 0.897
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: cup (8 fl oz)
+value: 0.0
+label: fl oz
+value: 0.0
+label: can (10.75 oz), prepared
+value: 0.0
+
+
+

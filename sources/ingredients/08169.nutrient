@@ -1,0 +1,637 @@
+ndbno: 08169
+
+
+name: Cereals, CREAM OF WHEAT, regular (10 minute), cooked with water, with salt
+
+
+name: Water
+unit: g
+value: 87.14
+label: cup (1 serving)
+value: 218.72
+
+
+name: Energy
+unit: kcal
+value: 50.0
+label: cup (1 serving)
+value: 126.0
+
+
+name: Energy
+unit: kJ
+value: 211.0
+label: cup (1 serving)
+value: 530.0
+
+
+name: Protein
+unit: g
+value: 1.46
+label: cup (1 serving)
+value: 3.66
+
+
+name: Total lipid (fat)
+unit: g
+value: 0.21
+label: cup (1 serving)
+value: 0.53
+
+
+name: Ash
+unit: g
+value: 0.53
+label: cup (1 serving)
+value: 1.33
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 10.66
+label: cup (1 serving)
+value: 26.76
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.5
+label: cup (1 serving)
+value: 1.3
+
+
+name: Sugars, total
+unit: g
+value: 0.03
+label: cup (1 serving)
+value: 0.08
+
+
+name: Calcium, Ca
+unit: mg
+value: 89.0
+label: cup (1 serving)
+value: 223.0
+
+
+name: Iron, Fe
+unit: mg
+value: 3.99
+label: cup (1 serving)
+value: 10.01
+
+
+name: Magnesium, Mg
+unit: mg
+value: 5.0
+label: cup (1 serving)
+value: 13.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 16.0
+label: cup (1 serving)
+value: 40.0
+
+
+name: Potassium, K
+unit: mg
+value: 17.0
+label: cup (1 serving)
+value: 43.0
+
+
+name: Sodium, Na
+unit: mg
+value: 129.0
+label: cup (1 serving)
+value: 324.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.13
+label: cup (1 serving)
+value: 0.33
+
+
+name: Copper, Cu
+unit: mg
+value: 0.041
+label: cup (1 serving)
+value: 0.103
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.001
+label: cup (1 serving)
+value: 0.003
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 2.8
+label: cup (1 serving)
+value: 7.0
+
+
+name: Fluoride, F
+unit: \u00B5g
+value: 94.6
+label: cup (1 serving)
+value: 237.4
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: cup (1 serving)
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.07
+label: cup (1 serving)
+value: 0.176
+
+
+name: Riboflavin
+unit: mg
+value: 0.028
+label: cup (1 serving)
+value: 0.07
+
+
+name: Niacin
+unit: mg
+value: 0.585
+label: cup (1 serving)
+value: 1.468
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.072
+label: cup (1 serving)
+value: 0.181
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.015
+label: cup (1 serving)
+value: 0.038
+
+
+name: Folate, total
+unit: \u00B5g
+value: 17.0
+label: cup (1 serving)
+value: 43.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 12.0
+label: cup (1 serving)
+value: 30.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 5.0
+label: cup (1 serving)
+value: 13.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 25.0
+label: cup (1 serving)
+value: 63.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: cup (1 serving)
+value: 0.0
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: cup (1 serving)
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 0.0
+label: cup (1 serving)
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: cup (1 serving)
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 0.0
+label: cup (1 serving)
+value: 0.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: cup (1 serving)
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: cup (1 serving)
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 0.0
+label: cup (1 serving)
+value: 0.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: cup (1 serving)
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 2.0
+label: cup (1 serving)
+value: 5.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.02
+label: cup (1 serving)
+value: 0.05
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: cup (1 serving)
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: cup (1 serving)
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: cup (1 serving)
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 0.1
+label: cup (1 serving)
+value: 0.3
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.033
+label: cup (1 serving)
+value: 0.083
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: cup (1 serving)
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: cup (1 serving)
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: cup (1 serving)
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: cup (1 serving)
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: cup (1 serving)
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.0
+label: cup (1 serving)
+value: 0.0
+
+
+name: 16:0
+unit: g
+value: 0.031
+label: cup (1 serving)
+value: 0.078
+
+
+name: 18:0
+unit: g
+value: 0.002
+label: cup (1 serving)
+value: 0.005
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.029
+label: cup (1 serving)
+value: 0.073
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.001
+label: cup (1 serving)
+value: 0.003
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.028
+label: cup (1 serving)
+value: 0.07
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: cup (1 serving)
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: cup (1 serving)
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.115
+label: cup (1 serving)
+value: 0.289
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.103
+label: cup (1 serving)
+value: 0.259
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.012
+label: cup (1 serving)
+value: 0.03
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: cup (1 serving)
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: cup (1 serving)
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: cup (1 serving)
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: cup (1 serving)
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: cup (1 serving)
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: cup (1 serving)
+value: 0.0
+
+
+name: Phytosterols
+unit: mg
+value: 0.0
+label: cup (1 serving)
+value: 0.0
+
+
+name: Tryptophan
+unit: g
+value: 0.02
+label: cup (1 serving)
+value: 0.05
+
+
+name: Threonine
+unit: g
+value: 0.046
+label: cup (1 serving)
+value: 0.115
+
+
+name: Isoleucine
+unit: g
+value: 0.064
+label: cup (1 serving)
+value: 0.161
+
+
+name: Leucine
+unit: g
+value: 0.111
+label: cup (1 serving)
+value: 0.279
+
+
+name: Lysine
+unit: g
+value: 0.038
+label: cup (1 serving)
+value: 0.095
+
+
+name: Methionine
+unit: g
+value: 0.027
+label: cup (1 serving)
+value: 0.068
+
+
+name: Cystine
+unit: g
+value: 0.033
+label: cup (1 serving)
+value: 0.083
+
+
+name: Phenylalanine
+unit: g
+value: 0.079
+label: cup (1 serving)
+value: 0.198
+
+
+name: Tyrosine
+unit: g
+value: 0.047
+label: cup (1 serving)
+value: 0.118
+
+
+name: Valine
+unit: g
+value: 0.071
+label: cup (1 serving)
+value: 0.178
+
+
+name: Arginine
+unit: g
+value: 0.063
+label: cup (1 serving)
+value: 0.158
+
+
+name: Histidine
+unit: g
+value: 0.034
+label: cup (1 serving)
+value: 0.085
+
+
+name: Alanine
+unit: g
+value: 0.051
+label: cup (1 serving)
+value: 0.128
+
+
+name: Aspartic acid
+unit: g
+value: 0.069
+label: cup (1 serving)
+value: 0.173
+
+
+name: Glutamic acid
+unit: g
+value: 0.544
+label: cup (1 serving)
+value: 1.365
+
+
+name: Glycine
+unit: g
+value: 0.057
+label: cup (1 serving)
+value: 0.143
+
+
+name: Proline
+unit: g
+value: 0.179
+label: cup (1 serving)
+value: 0.449
+
+
+name: Serine
+unit: g
+value: 0.083
+label: cup (1 serving)
+value: 0.208
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: cup (1 serving)
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: cup (1 serving)
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: cup (1 serving)
+value: 0.0
+
+
+

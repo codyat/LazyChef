@@ -1,0 +1,763 @@
+ndbno: 11764
+
+
+name: Celery, cooked, boiled, drained, with salt
+
+
+name: Water
+unit: g
+value: 94.11
+label: cup, diced
+value: 141.16
+label: stalks
+value: 70.58
+
+
+name: Energy
+unit: kcal
+value: 18.0
+label: cup, diced
+value: 27.0
+label: stalks
+value: 14.0
+
+
+name: Energy
+unit: kJ
+value: 74.0
+label: cup, diced
+value: 111.0
+label: stalks
+value: 56.0
+
+
+name: Protein
+unit: g
+value: 0.83
+label: cup, diced
+value: 1.24
+label: stalks
+value: 0.62
+
+
+name: Total lipid (fat)
+unit: g
+value: 0.16
+label: cup, diced
+value: 0.24
+label: stalks
+value: 0.12
+
+
+name: Ash
+unit: g
+value: 0.9
+label: cup, diced
+value: 1.35
+label: stalks
+value: 0.68
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 4.0
+label: cup, diced
+value: 6.0
+label: stalks
+value: 3.0
+
+
+name: Fiber, total dietary
+unit: g
+value: 1.6
+label: cup, diced
+value: 2.4
+label: stalks
+value: 1.2
+
+
+name: Sugars, total
+unit: g
+value: 2.37
+label: cup, diced
+value: 3.56
+label: stalks
+value: 1.78
+
+
+name: Sucrose
+unit: g
+value: 0.14
+label: cup, diced
+value: 0.21
+label: stalks
+value: 0.11
+
+
+name: Glucose (dextrose)
+unit: g
+value: 0.71
+label: cup, diced
+value: 1.06
+label: stalks
+value: 0.53
+
+
+name: Fructose
+unit: g
+value: 0.66
+label: cup, diced
+value: 0.99
+label: stalks
+value: 0.5
+
+
+name: Lactose
+unit: g
+value: 0.0
+label: cup, diced
+value: 0.0
+label: stalks
+value: 0.0
+
+
+name: Maltose
+unit: g
+value: 0.0
+label: cup, diced
+value: 0.0
+label: stalks
+value: 0.0
+
+
+name: Galactose
+unit: g
+value: 0.85
+label: cup, diced
+value: 1.28
+label: stalks
+value: 0.64
+
+
+name: Calcium, Ca
+unit: mg
+value: 42.0
+label: cup, diced
+value: 63.0
+label: stalks
+value: 32.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.42
+label: cup, diced
+value: 0.63
+label: stalks
+value: 0.32
+
+
+name: Magnesium, Mg
+unit: mg
+value: 12.0
+label: cup, diced
+value: 18.0
+label: stalks
+value: 9.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 25.0
+label: cup, diced
+value: 38.0
+label: stalks
+value: 19.0
+
+
+name: Potassium, K
+unit: mg
+value: 284.0
+label: cup, diced
+value: 426.0
+label: stalks
+value: 213.0
+
+
+name: Sodium, Na
+unit: mg
+value: 327.0
+label: cup, diced
+value: 490.0
+label: stalks
+value: 245.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.14
+label: cup, diced
+value: 0.21
+label: stalks
+value: 0.11
+
+
+name: Copper, Cu
+unit: mg
+value: 0.036
+label: cup, diced
+value: 0.054
+label: stalks
+value: 0.027
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.106
+label: cup, diced
+value: 0.159
+label: stalks
+value: 0.08
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 1.0
+label: cup, diced
+value: 1.5
+label: stalks
+value: 0.8
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 6.1
+label: cup, diced
+value: 9.2
+label: stalks
+value: 4.6
+
+
+name: Thiamin
+unit: mg
+value: 0.043
+label: cup, diced
+value: 0.064
+label: stalks
+value: 0.032
+
+
+name: Riboflavin
+unit: mg
+value: 0.047
+label: cup, diced
+value: 0.07
+label: stalks
+value: 0.035
+
+
+name: Niacin
+unit: mg
+value: 0.319
+label: cup, diced
+value: 0.479
+label: stalks
+value: 0.239
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.195
+label: cup, diced
+value: 0.292
+label: stalks
+value: 0.146
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.086
+label: cup, diced
+value: 0.129
+label: stalks
+value: 0.064
+
+
+name: Folate, total
+unit: \u00B5g
+value: 22.0
+label: cup, diced
+value: 33.0
+label: stalks
+value: 16.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: cup, diced
+value: 0.0
+label: stalks
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 22.0
+label: cup, diced
+value: 33.0
+label: stalks
+value: 16.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 22.0
+label: cup, diced
+value: 33.0
+label: stalks
+value: 16.0
+
+
+name: Choline, total
+unit: mg
+value: 7.9
+label: cup, diced
+value: 11.8
+label: stalks
+value: 5.9
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: cup, diced
+value: 0.0
+label: stalks
+value: 0.0
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: cup, diced
+value: 0.0
+label: stalks
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 26.0
+label: cup, diced
+value: 39.0
+label: stalks
+value: 20.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: cup, diced
+value: 0.0
+label: stalks
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 313.0
+label: cup, diced
+value: 470.0
+label: stalks
+value: 235.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: cup, diced
+value: 0.0
+label: stalks
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: cup, diced
+value: 0.0
+label: stalks
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 521.0
+label: cup, diced
+value: 782.0
+label: stalks
+value: 391.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: cup, diced
+value: 0.0
+label: stalks
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 329.0
+label: cup, diced
+value: 494.0
+label: stalks
+value: 247.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.35
+label: cup, diced
+value: 0.52
+label: stalks
+value: 0.26
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: cup, diced
+value: 0.0
+label: stalks
+value: 0.0
+
+
+name: Tocopherol, beta
+unit: mg
+value: 0.0
+label: cup, diced
+value: 0.0
+label: stalks
+value: 0.0
+
+
+name: Tocopherol, gamma
+unit: mg
+value: 0.0
+label: cup, diced
+value: 0.0
+label: stalks
+value: 0.0
+
+
+name: Tocopherol, delta
+unit: mg
+value: 0.0
+label: cup, diced
+value: 0.0
+label: stalks
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: cup, diced
+value: 0.0
+label: stalks
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: cup, diced
+value: 0.0
+label: stalks
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 37.8
+label: cup, diced
+value: 56.7
+label: stalks
+value: 28.4
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.04
+label: cup, diced
+value: 0.06
+label: stalks
+value: 0.03
+
+
+name: 14:0
+unit: g
+value: 0.001
+label: cup, diced
+value: 0.002
+label: stalks
+value: 0.001
+
+
+name: 16:0
+unit: g
+value: 0.035
+label: cup, diced
+value: 0.053
+label: stalks
+value: 0.026
+
+
+name: 18:0
+unit: g
+value: 0.004
+label: cup, diced
+value: 0.006
+label: stalks
+value: 0.003
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.03
+label: cup, diced
+value: 0.045
+label: stalks
+value: 0.022
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.001
+label: cup, diced
+value: 0.002
+label: stalks
+value: 0.001
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.029
+label: cup, diced
+value: 0.044
+label: stalks
+value: 0.022
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.075
+label: cup, diced
+value: 0.112
+label: stalks
+value: 0.056
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.075
+label: cup, diced
+value: 0.112
+label: stalks
+value: 0.056
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.0
+label: cup, diced
+value: 0.0
+label: stalks
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: cup, diced
+value: 0.0
+label: stalks
+value: 0.0
+
+
+name: Phytosterols
+unit: mg
+value: 7.0
+label: cup, diced
+value: 10.0
+label: stalks
+value: 5.0
+
+
+name: Tryptophan
+unit: g
+value: 0.011
+label: cup, diced
+value: 0.016
+label: stalks
+value: 0.008
+
+
+name: Threonine
+unit: g
+value: 0.024
+label: cup, diced
+value: 0.036
+label: stalks
+value: 0.018
+
+
+name: Isoleucine
+unit: g
+value: 0.025
+label: cup, diced
+value: 0.038
+label: stalks
+value: 0.019
+
+
+name: Leucine
+unit: g
+value: 0.039
+label: cup, diced
+value: 0.058
+label: stalks
+value: 0.029
+
+
+name: Lysine
+unit: g
+value: 0.032
+label: cup, diced
+value: 0.048
+label: stalks
+value: 0.024
+
+
+name: Methionine
+unit: g
+value: 0.007
+label: cup, diced
+value: 0.01
+label: stalks
+value: 0.005
+
+
+name: Cystine
+unit: g
+value: 0.005
+label: cup, diced
+value: 0.008
+label: stalks
+value: 0.004
+
+
+name: Phenylalanine
+unit: g
+value: 0.024
+label: cup, diced
+value: 0.036
+label: stalks
+value: 0.018
+
+
+name: Tyrosine
+unit: g
+value: 0.011
+label: cup, diced
+value: 0.016
+label: stalks
+value: 0.008
+
+
+name: Valine
+unit: g
+value: 0.033
+label: cup, diced
+value: 0.05
+label: stalks
+value: 0.025
+
+
+name: Arginine
+unit: g
+value: 0.024
+label: cup, diced
+value: 0.036
+label: stalks
+value: 0.018
+
+
+name: Histidine
+unit: g
+value: 0.014
+label: cup, diced
+value: 0.021
+label: stalks
+value: 0.01
+
+
+name: Alanine
+unit: g
+value: 0.027
+label: cup, diced
+value: 0.04
+label: stalks
+value: 0.02
+
+
+name: Aspartic acid
+unit: g
+value: 0.141
+label: cup, diced
+value: 0.212
+label: stalks
+value: 0.106
+
+
+name: Glutamic acid
+unit: g
+value: 0.107
+label: cup, diced
+value: 0.16
+label: stalks
+value: 0.08
+
+
+name: Glycine
+unit: g
+value: 0.026
+label: cup, diced
+value: 0.039
+label: stalks
+value: 0.02
+
+
+name: Proline
+unit: g
+value: 0.022
+label: cup, diced
+value: 0.033
+label: stalks
+value: 0.016
+
+
+name: Serine
+unit: g
+value: 0.024
+label: cup, diced
+value: 0.036
+label: stalks
+value: 0.018
+
+
+

@@ -1,0 +1,646 @@
+ndbno: 44258
+
+
+name: Puddings, chocolate flavor, low calorie, regular, dry mix
+
+
+name: Water
+unit: g
+value: 6.8
+label: serving
+value: 0.67
+label: package
+value: 2.72
+
+
+name: Energy
+unit: kcal
+value: 365.0
+label: serving
+value: 36.0
+label: package
+value: 146.0
+
+
+name: Energy
+unit: kJ
+value: 1527.0
+label: serving
+value: 151.0
+label: package
+value: 611.0
+
+
+name: Protein
+unit: g
+value: 10.08
+label: serving
+value: 1.0
+label: package
+value: 4.03
+
+
+name: Total lipid (fat)
+unit: g
+value: 3.0
+label: serving
+value: 0.3
+label: package
+value: 1.2
+
+
+name: Ash
+unit: g
+value: 5.7
+label: serving
+value: 0.56
+label: package
+value: 2.28
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 74.42
+label: serving
+value: 7.37
+label: package
+value: 29.77
+
+
+name: Fiber, total dietary
+unit: g
+value: 10.1
+label: serving
+value: 1.0
+label: package
+value: 4.0
+
+
+name: Sugars, total
+unit: g
+value: 0.7
+label: serving
+value: 0.07
+label: package
+value: 0.28
+
+
+name: Calcium, Ca
+unit: mg
+value: 50.0
+label: serving
+value: 5.0
+label: package
+value: 20.0
+
+
+name: Iron, Fe
+unit: mg
+value: 3.87
+label: serving
+value: 0.38
+label: package
+value: 1.55
+
+
+name: Magnesium, Mg
+unit: mg
+value: 110.0
+label: serving
+value: 11.0
+label: package
+value: 44.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 174.0
+label: serving
+value: 17.0
+label: package
+value: 70.0
+
+
+name: Potassium, K
+unit: mg
+value: 570.0
+label: serving
+value: 56.0
+label: package
+value: 228.0
+
+
+name: Sodium, Na
+unit: mg
+value: 3326.0
+label: serving
+value: 329.0
+label: package
+value: 1330.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 1.49
+label: serving
+value: 0.15
+label: package
+value: 0.6
+
+
+name: Copper, Cu
+unit: mg
+value: 0.854
+label: serving
+value: 0.085
+label: package
+value: 0.342
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.887
+label: serving
+value: 0.088
+label: package
+value: 0.355
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 5.1
+label: serving
+value: 0.5
+label: package
+value: 2.0
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: serving
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.025
+label: serving
+value: 0.002
+label: package
+value: 0.01
+
+
+name: Riboflavin
+unit: mg
+value: 0.105
+label: serving
+value: 0.01
+label: package
+value: 0.042
+
+
+name: Niacin
+unit: mg
+value: 0.545
+label: serving
+value: 0.054
+label: package
+value: 0.218
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.058
+label: serving
+value: 0.006
+label: package
+value: 0.023
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.027
+label: serving
+value: 0.003
+label: package
+value: 0.011
+
+
+name: Folate, total
+unit: \u00B5g
+value: 0.0
+label: serving
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: serving
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 0.0
+label: serving
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 0.0
+label: serving
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Choline, total
+unit: mg
+value: 3.3
+label: serving
+value: 0.3
+label: package
+value: 1.3
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: serving
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: serving
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 0.0
+label: serving
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: serving
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 0.0
+label: serving
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: serving
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: serving
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 0.0
+label: serving
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: serving
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 9.0
+label: serving
+value: 1.0
+label: package
+value: 4.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.02
+label: serving
+value: 0.0
+label: package
+value: 0.01
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: serving
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: serving
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: serving
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 0.5
+label: serving
+value: 0.0
+label: package
+value: 0.2
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 1.578
+label: serving
+value: 0.156
+label: package
+value: 0.631
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+label: package
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+label: package
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+label: package
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+label: package
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+label: package
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.004
+label: serving
+value: 0.0
+label: package
+value: 0.002
+
+
+name: 16:0
+unit: g
+value: 0.735
+label: serving
+value: 0.073
+label: package
+value: 0.294
+
+
+name: 18:0
+unit: g
+value: 0.839
+label: serving
+value: 0.083
+label: package
+value: 0.336
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 1.15
+label: serving
+value: 0.114
+label: package
+value: 0.46
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+label: package
+value: 0.0
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 1.15
+label: serving
+value: 0.114
+label: package
+value: 0.46
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+label: package
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.13
+label: serving
+value: 0.013
+label: package
+value: 0.052
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.13
+label: serving
+value: 0.013
+label: package
+value: 0.052
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+label: package
+value: 0.0
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+label: package
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+label: package
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+label: package
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+label: package
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: serving
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 18.0
+label: serving
+value: 2.0
+label: package
+value: 7.0
+
+
+name: Theobromine
+unit: mg
+value: 596.0
+label: serving
+value: 59.0
+label: package
+value: 238.0
+
+
+

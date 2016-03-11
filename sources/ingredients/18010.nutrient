@@ -1,0 +1,1520 @@
+ndbno: 18010
+
+
+name: Biscuits, plain or buttermilk, dry mix
+
+
+name: Water
+unit: g
+value: 9.2
+label: cup, purchased
+value: 11.04
+label: cup, homemade
+value: 10.49
+label: cup, poured from box
+value: 11.78
+label: cup, spooned into cup
+value: 11.04
+label: cup (NLEA serving size)
+value: 3.68
+label: oz
+value: 2.61
+
+
+name: Energy
+unit: kcal
+value: 428.0
+label: cup, purchased
+value: 514.0
+label: cup, homemade
+value: 488.0
+label: cup, poured from box
+value: 548.0
+label: cup, spooned into cup
+value: 514.0
+label: cup (NLEA serving size)
+value: 171.0
+label: oz
+value: 121.0
+
+
+name: Energy
+unit: kJ
+value: 1792.0
+label: cup, purchased
+value: 2150.0
+label: cup, homemade
+value: 2043.0
+label: cup, poured from box
+value: 2294.0
+label: cup, spooned into cup
+value: 2150.0
+label: cup (NLEA serving size)
+value: 717.0
+label: oz
+value: 508.0
+
+
+name: Protein
+unit: g
+value: 8.0
+label: cup, purchased
+value: 9.6
+label: cup, homemade
+value: 9.12
+label: cup, poured from box
+value: 10.24
+label: cup, spooned into cup
+value: 9.6
+label: cup (NLEA serving size)
+value: 3.2
+label: oz
+value: 2.27
+
+
+name: Total lipid (fat)
+unit: g
+value: 15.4
+label: cup, purchased
+value: 18.48
+label: cup, homemade
+value: 17.56
+label: cup, poured from box
+value: 19.71
+label: cup, spooned into cup
+value: 18.48
+label: cup (NLEA serving size)
+value: 6.16
+label: oz
+value: 4.37
+
+
+name: Ash
+unit: g
+value: 4.0
+label: cup, purchased
+value: 4.8
+label: cup, homemade
+value: 4.56
+label: cup, poured from box
+value: 5.12
+label: cup, spooned into cup
+value: 4.8
+label: cup (NLEA serving size)
+value: 1.6
+label: oz
+value: 1.13
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 63.4
+label: cup, purchased
+value: 76.08
+label: cup, homemade
+value: 72.28
+label: cup, poured from box
+value: 81.15
+label: cup, spooned into cup
+value: 76.08
+label: cup (NLEA serving size)
+value: 25.36
+label: oz
+value: 17.97
+
+
+name: Fiber, total dietary
+unit: g
+value: 2.1
+label: cup, purchased
+value: 2.5
+label: cup, homemade
+value: 2.4
+label: cup, poured from box
+value: 2.7
+label: cup, spooned into cup
+value: 2.5
+label: cup (NLEA serving size)
+value: 0.8
+label: oz
+value: 0.6
+
+
+name: Sugars, total
+unit: g
+value: 11.65
+label: cup, purchased
+value: 13.98
+label: cup, homemade
+value: 13.28
+label: cup, poured from box
+value: 14.91
+label: cup, spooned into cup
+value: 13.98
+label: cup (NLEA serving size)
+value: 4.66
+label: oz
+value: 3.3
+
+
+name: Calcium, Ca
+unit: mg
+value: 179.0
+label: cup, purchased
+value: 215.0
+label: cup, homemade
+value: 204.0
+label: cup, poured from box
+value: 229.0
+label: cup, spooned into cup
+value: 215.0
+label: cup (NLEA serving size)
+value: 72.0
+label: oz
+value: 51.0
+
+
+name: Iron, Fe
+unit: mg
+value: 2.77
+label: cup, purchased
+value: 3.32
+label: cup, homemade
+value: 3.16
+label: cup, poured from box
+value: 3.55
+label: cup, spooned into cup
+value: 3.32
+label: cup (NLEA serving size)
+value: 1.11
+label: oz
+value: 0.79
+
+
+name: Magnesium, Mg
+unit: mg
+value: 25.0
+label: cup, purchased
+value: 30.0
+label: cup, homemade
+value: 28.0
+label: cup, poured from box
+value: 32.0
+label: cup, spooned into cup
+value: 30.0
+label: cup (NLEA serving size)
+value: 10.0
+label: oz
+value: 7.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 585.0
+label: cup, purchased
+value: 702.0
+label: cup, homemade
+value: 667.0
+label: cup, poured from box
+value: 749.0
+label: cup, spooned into cup
+value: 702.0
+label: cup (NLEA serving size)
+value: 234.0
+label: oz
+value: 166.0
+
+
+name: Potassium, K
+unit: mg
+value: 163.0
+label: cup, purchased
+value: 196.0
+label: cup, homemade
+value: 186.0
+label: cup, poured from box
+value: 209.0
+label: cup, spooned into cup
+value: 196.0
+label: cup (NLEA serving size)
+value: 65.0
+label: oz
+value: 46.0
+
+
+name: Sodium, Na
+unit: mg
+value: 1276.0
+label: cup, purchased
+value: 1531.0
+label: cup, homemade
+value: 1455.0
+label: cup, poured from box
+value: 1633.0
+label: cup, spooned into cup
+value: 1531.0
+label: cup (NLEA serving size)
+value: 510.0
+label: oz
+value: 362.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.6
+label: cup, purchased
+value: 0.72
+label: cup, homemade
+value: 0.68
+label: cup, poured from box
+value: 0.77
+label: cup, spooned into cup
+value: 0.72
+label: cup (NLEA serving size)
+value: 0.24
+label: oz
+value: 0.17
+
+
+name: Copper, Cu
+unit: mg
+value: 0.154
+label: cup, purchased
+value: 0.185
+label: cup, homemade
+value: 0.176
+label: cup, poured from box
+value: 0.197
+label: cup, spooned into cup
+value: 0.185
+label: cup (NLEA serving size)
+value: 0.062
+label: oz
+value: 0.044
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.34
+label: cup, purchased
+value: 0.408
+label: cup, homemade
+value: 0.388
+label: cup, poured from box
+value: 0.435
+label: cup, spooned into cup
+value: 0.408
+label: cup (NLEA serving size)
+value: 0.136
+label: oz
+value: 0.096
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 7.5
+label: cup, purchased
+value: 9.0
+label: cup, homemade
+value: 8.6
+label: cup, poured from box
+value: 9.6
+label: cup, spooned into cup
+value: 9.0
+label: cup (NLEA serving size)
+value: 3.0
+label: oz
+value: 2.1
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.3
+label: cup, purchased
+value: 0.4
+label: cup, homemade
+value: 0.3
+label: cup, poured from box
+value: 0.4
+label: cup, spooned into cup
+value: 0.4
+label: cup (NLEA serving size)
+value: 0.1
+label: oz
+value: 0.1
+
+
+name: Thiamin
+unit: mg
+value: 0.575
+label: cup, purchased
+value: 0.69
+label: cup, homemade
+value: 0.656
+label: cup, poured from box
+value: 0.736
+label: cup, spooned into cup
+value: 0.69
+label: cup (NLEA serving size)
+value: 0.23
+label: oz
+value: 0.163
+
+
+name: Riboflavin
+unit: mg
+value: 0.437
+label: cup, purchased
+value: 0.524
+label: cup, homemade
+value: 0.498
+label: cup, poured from box
+value: 0.559
+label: cup, spooned into cup
+value: 0.524
+label: cup (NLEA serving size)
+value: 0.175
+label: oz
+value: 0.124
+
+
+name: Niacin
+unit: mg
+value: 4.542
+label: cup, purchased
+value: 5.45
+label: cup, homemade
+value: 5.178
+label: cup, poured from box
+value: 5.814
+label: cup, spooned into cup
+value: 5.45
+label: cup (NLEA serving size)
+value: 1.817
+label: oz
+value: 1.288
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.884
+label: cup, purchased
+value: 1.061
+label: cup, homemade
+value: 1.008
+label: cup, poured from box
+value: 1.132
+label: cup, spooned into cup
+value: 1.061
+label: cup (NLEA serving size)
+value: 0.354
+label: oz
+value: 0.251
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.076
+label: cup, purchased
+value: 0.091
+label: cup, homemade
+value: 0.087
+label: cup, poured from box
+value: 0.097
+label: cup, spooned into cup
+value: 0.091
+label: cup (NLEA serving size)
+value: 0.03
+label: oz
+value: 0.022
+
+
+name: Folate, total
+unit: \u00B5g
+value: 125.0
+label: cup, purchased
+value: 150.0
+label: cup, homemade
+value: 142.0
+label: cup, poured from box
+value: 160.0
+label: cup, spooned into cup
+value: 150.0
+label: cup (NLEA serving size)
+value: 50.0
+label: oz
+value: 35.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 91.0
+label: cup, purchased
+value: 109.0
+label: cup, homemade
+value: 104.0
+label: cup, poured from box
+value: 116.0
+label: cup, spooned into cup
+value: 109.0
+label: cup (NLEA serving size)
+value: 36.0
+label: oz
+value: 26.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 34.0
+label: cup, purchased
+value: 41.0
+label: cup, homemade
+value: 39.0
+label: cup, poured from box
+value: 44.0
+label: cup, spooned into cup
+value: 41.0
+label: cup (NLEA serving size)
+value: 14.0
+label: oz
+value: 10.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 189.0
+label: cup, purchased
+value: 227.0
+label: cup, homemade
+value: 215.0
+label: cup, poured from box
+value: 242.0
+label: cup, spooned into cup
+value: 227.0
+label: cup (NLEA serving size)
+value: 76.0
+label: oz
+value: 54.0
+
+
+name: Choline, total
+unit: mg
+value: 11.0
+label: cup, purchased
+value: 13.2
+label: cup, homemade
+value: 12.5
+label: cup, poured from box
+value: 14.1
+label: cup, spooned into cup
+value: 13.2
+label: cup (NLEA serving size)
+value: 4.4
+label: oz
+value: 3.1
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.39
+label: cup, purchased
+value: 0.47
+label: cup, homemade
+value: 0.44
+label: cup, poured from box
+value: 0.5
+label: cup, spooned into cup
+value: 0.47
+label: cup (NLEA serving size)
+value: 0.16
+label: oz
+value: 0.11
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: cup, purchased
+value: 0.0
+label: cup, homemade
+value: 0.0
+label: cup, poured from box
+value: 0.0
+label: cup, spooned into cup
+value: 0.0
+label: cup (NLEA serving size)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 2.0
+label: cup, purchased
+value: 2.0
+label: cup, homemade
+value: 2.0
+label: cup, poured from box
+value: 3.0
+label: cup, spooned into cup
+value: 2.0
+label: cup (NLEA serving size)
+value: 1.0
+label: oz
+value: 1.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 2.0
+label: cup, purchased
+value: 2.0
+label: cup, homemade
+value: 2.0
+label: cup, poured from box
+value: 3.0
+label: cup, spooned into cup
+value: 2.0
+label: cup (NLEA serving size)
+value: 1.0
+label: oz
+value: 1.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 0.0
+label: cup, purchased
+value: 0.0
+label: cup, homemade
+value: 0.0
+label: cup, poured from box
+value: 0.0
+label: cup, spooned into cup
+value: 0.0
+label: cup (NLEA serving size)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: cup, purchased
+value: 0.0
+label: cup, homemade
+value: 0.0
+label: cup, poured from box
+value: 0.0
+label: cup, spooned into cup
+value: 0.0
+label: cup (NLEA serving size)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: cup, purchased
+value: 0.0
+label: cup, homemade
+value: 0.0
+label: cup, poured from box
+value: 0.0
+label: cup, spooned into cup
+value: 0.0
+label: cup (NLEA serving size)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 4.0
+label: cup, purchased
+value: 5.0
+label: cup, homemade
+value: 5.0
+label: cup, poured from box
+value: 5.0
+label: cup, spooned into cup
+value: 5.0
+label: cup (NLEA serving size)
+value: 2.0
+label: oz
+value: 1.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: cup, purchased
+value: 0.0
+label: cup, homemade
+value: 0.0
+label: cup, poured from box
+value: 0.0
+label: cup, spooned into cup
+value: 0.0
+label: cup (NLEA serving size)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 2.0
+label: cup, purchased
+value: 2.0
+label: cup, homemade
+value: 2.0
+label: cup, poured from box
+value: 3.0
+label: cup, spooned into cup
+value: 2.0
+label: cup (NLEA serving size)
+value: 1.0
+label: oz
+value: 1.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.13
+label: cup, purchased
+value: 0.16
+label: cup, homemade
+value: 0.15
+label: cup, poured from box
+value: 0.17
+label: cup, spooned into cup
+value: 0.16
+label: cup (NLEA serving size)
+value: 0.05
+label: oz
+value: 0.04
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: cup, purchased
+value: 0.0
+label: cup, homemade
+value: 0.0
+label: cup, poured from box
+value: 0.0
+label: cup, spooned into cup
+value: 0.0
+label: cup (NLEA serving size)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: cup, purchased
+value: 0.0
+label: cup, homemade
+value: 0.0
+label: cup, poured from box
+value: 0.0
+label: cup, spooned into cup
+value: 0.0
+label: cup (NLEA serving size)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: cup, purchased
+value: 0.0
+label: cup, homemade
+value: 0.0
+label: cup, poured from box
+value: 0.0
+label: cup, spooned into cup
+value: 0.0
+label: cup (NLEA serving size)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 6.5
+label: cup, purchased
+value: 7.8
+label: cup, homemade
+value: 7.4
+label: cup, poured from box
+value: 8.3
+label: cup, spooned into cup
+value: 7.8
+label: cup (NLEA serving size)
+value: 2.6
+label: oz
+value: 1.8
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 3.965
+label: cup, purchased
+value: 4.758
+label: cup, homemade
+value: 4.52
+label: cup, poured from box
+value: 5.075
+label: cup, spooned into cup
+value: 4.758
+label: cup (NLEA serving size)
+value: 1.586
+label: oz
+value: 1.124
+
+
+name: 4:0
+unit: g
+value: 0.011
+label: cup, purchased
+value: 0.013
+label: cup, homemade
+value: 0.013
+label: cup, poured from box
+value: 0.014
+label: cup, spooned into cup
+value: 0.013
+label: cup (NLEA serving size)
+value: 0.004
+label: oz
+value: 0.003
+
+
+name: 6:0
+unit: g
+value: 0.003
+label: cup, purchased
+value: 0.004
+label: cup, homemade
+value: 0.003
+label: cup, poured from box
+value: 0.004
+label: cup, spooned into cup
+value: 0.004
+label: cup (NLEA serving size)
+value: 0.001
+label: oz
+value: 0.001
+
+
+name: 8:0
+unit: g
+value: 0.002
+label: cup, purchased
+value: 0.002
+label: cup, homemade
+value: 0.002
+label: cup, poured from box
+value: 0.003
+label: cup, spooned into cup
+value: 0.002
+label: cup (NLEA serving size)
+value: 0.001
+label: oz
+value: 0.001
+
+
+name: 10:0
+unit: g
+value: 0.004
+label: cup, purchased
+value: 0.005
+label: cup, homemade
+value: 0.005
+label: cup, poured from box
+value: 0.005
+label: cup, spooned into cup
+value: 0.005
+label: cup (NLEA serving size)
+value: 0.002
+label: oz
+value: 0.001
+
+
+name: 12:0
+unit: g
+value: 0.004
+label: cup, purchased
+value: 0.005
+label: cup, homemade
+value: 0.005
+label: cup, poured from box
+value: 0.005
+label: cup, spooned into cup
+value: 0.005
+label: cup (NLEA serving size)
+value: 0.002
+label: oz
+value: 0.001
+
+
+name: 14:0
+unit: g
+value: 0.096
+label: cup, purchased
+value: 0.115
+label: cup, homemade
+value: 0.109
+label: cup, poured from box
+value: 0.123
+label: cup, spooned into cup
+value: 0.115
+label: cup (NLEA serving size)
+value: 0.038
+label: oz
+value: 0.027
+
+
+name: 16:0
+unit: g
+value: 2.04
+label: cup, purchased
+value: 2.448
+label: cup, homemade
+value: 2.326
+label: cup, poured from box
+value: 2.611
+label: cup, spooned into cup
+value: 2.448
+label: cup (NLEA serving size)
+value: 0.816
+label: oz
+value: 0.578
+
+
+name: 18:0
+unit: g
+value: 1.793
+label: cup, purchased
+value: 2.152
+label: cup, homemade
+value: 2.044
+label: cup, poured from box
+value: 2.295
+label: cup, spooned into cup
+value: 2.152
+label: cup (NLEA serving size)
+value: 0.717
+label: oz
+value: 0.508
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 8.584
+label: cup, purchased
+value: 10.301
+label: cup, homemade
+value: 9.786
+label: cup, poured from box
+value: 10.988
+label: cup, spooned into cup
+value: 10.301
+label: cup (NLEA serving size)
+value: 3.434
+label: oz
+value: 2.434
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.008
+label: cup, purchased
+value: 0.01
+label: cup, homemade
+value: 0.009
+label: cup, poured from box
+value: 0.01
+label: cup, spooned into cup
+value: 0.01
+label: cup (NLEA serving size)
+value: 0.003
+label: oz
+value: 0.002
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 8.572
+label: cup, purchased
+value: 10.286
+label: cup, homemade
+value: 9.772
+label: cup, poured from box
+value: 10.972
+label: cup, spooned into cup
+value: 10.286
+label: cup (NLEA serving size)
+value: 3.429
+label: oz
+value: 2.43
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: cup, purchased
+value: 0.0
+label: cup, homemade
+value: 0.0
+label: cup, poured from box
+value: 0.0
+label: cup, spooned into cup
+value: 0.0
+label: cup (NLEA serving size)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: cup, purchased
+value: 0.0
+label: cup, homemade
+value: 0.0
+label: cup, poured from box
+value: 0.0
+label: cup, spooned into cup
+value: 0.0
+label: cup (NLEA serving size)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 2.011
+label: cup, purchased
+value: 2.413
+label: cup, homemade
+value: 2.293
+label: cup, poured from box
+value: 2.574
+label: cup, spooned into cup
+value: 2.413
+label: cup (NLEA serving size)
+value: 0.804
+label: oz
+value: 0.57
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 1.907
+label: cup, purchased
+value: 2.288
+label: cup, homemade
+value: 2.174
+label: cup, poured from box
+value: 2.441
+label: cup, spooned into cup
+value: 2.288
+label: cup (NLEA serving size)
+value: 0.763
+label: oz
+value: 0.541
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.104
+label: cup, purchased
+value: 0.125
+label: cup, homemade
+value: 0.119
+label: cup, poured from box
+value: 0.133
+label: cup, spooned into cup
+value: 0.125
+label: cup (NLEA serving size)
+value: 0.042
+label: oz
+value: 0.029
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: cup, purchased
+value: 0.0
+label: cup, homemade
+value: 0.0
+label: cup, poured from box
+value: 0.0
+label: cup, spooned into cup
+value: 0.0
+label: cup (NLEA serving size)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: cup, purchased
+value: 0.0
+label: cup, homemade
+value: 0.0
+label: cup, poured from box
+value: 0.0
+label: cup, spooned into cup
+value: 0.0
+label: cup (NLEA serving size)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: cup, purchased
+value: 0.0
+label: cup, homemade
+value: 0.0
+label: cup, poured from box
+value: 0.0
+label: cup, spooned into cup
+value: 0.0
+label: cup (NLEA serving size)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: cup, purchased
+value: 0.0
+label: cup, homemade
+value: 0.0
+label: cup, poured from box
+value: 0.0
+label: cup, spooned into cup
+value: 0.0
+label: cup (NLEA serving size)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: cup, purchased
+value: 0.0
+label: cup, homemade
+value: 0.0
+label: cup, poured from box
+value: 0.0
+label: cup, spooned into cup
+value: 0.0
+label: cup (NLEA serving size)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 2.0
+label: cup, purchased
+value: 2.0
+label: cup, homemade
+value: 2.0
+label: cup, poured from box
+value: 3.0
+label: cup, spooned into cup
+value: 2.0
+label: cup (NLEA serving size)
+value: 1.0
+label: oz
+value: 1.0
+
+
+name: Tryptophan
+unit: g
+value: 0.098
+label: cup, purchased
+value: 0.118
+label: cup, homemade
+value: 0.112
+label: cup, poured from box
+value: 0.125
+label: cup, spooned into cup
+value: 0.118
+label: cup (NLEA serving size)
+value: 0.039
+label: oz
+value: 0.028
+
+
+name: Threonine
+unit: g
+value: 0.233
+label: cup, purchased
+value: 0.28
+label: cup, homemade
+value: 0.266
+label: cup, poured from box
+value: 0.298
+label: cup, spooned into cup
+value: 0.28
+label: cup (NLEA serving size)
+value: 0.093
+label: oz
+value: 0.066
+
+
+name: Isoleucine
+unit: g
+value: 0.288
+label: cup, purchased
+value: 0.346
+label: cup, homemade
+value: 0.328
+label: cup, poured from box
+value: 0.369
+label: cup, spooned into cup
+value: 0.346
+label: cup (NLEA serving size)
+value: 0.115
+label: oz
+value: 0.082
+
+
+name: Leucine
+unit: g
+value: 0.562
+label: cup, purchased
+value: 0.674
+label: cup, homemade
+value: 0.641
+label: cup, poured from box
+value: 0.719
+label: cup, spooned into cup
+value: 0.674
+label: cup (NLEA serving size)
+value: 0.225
+label: oz
+value: 0.159
+
+
+name: Lysine
+unit: g
+value: 0.213
+label: cup, purchased
+value: 0.256
+label: cup, homemade
+value: 0.243
+label: cup, poured from box
+value: 0.273
+label: cup, spooned into cup
+value: 0.256
+label: cup (NLEA serving size)
+value: 0.085
+label: oz
+value: 0.06
+
+
+name: Methionine
+unit: g
+value: 0.142
+label: cup, purchased
+value: 0.17
+label: cup, homemade
+value: 0.162
+label: cup, poured from box
+value: 0.182
+label: cup, spooned into cup
+value: 0.17
+label: cup (NLEA serving size)
+value: 0.057
+label: oz
+value: 0.04
+
+
+name: Cystine
+unit: g
+value: 0.164
+label: cup, purchased
+value: 0.197
+label: cup, homemade
+value: 0.187
+label: cup, poured from box
+value: 0.21
+label: cup, spooned into cup
+value: 0.197
+label: cup (NLEA serving size)
+value: 0.066
+label: oz
+value: 0.046
+
+
+name: Phenylalanine
+unit: g
+value: 0.392
+label: cup, purchased
+value: 0.47
+label: cup, homemade
+value: 0.447
+label: cup, poured from box
+value: 0.502
+label: cup, spooned into cup
+value: 0.47
+label: cup (NLEA serving size)
+value: 0.157
+label: oz
+value: 0.111
+
+
+name: Tyrosine
+unit: g
+value: 0.242
+label: cup, purchased
+value: 0.29
+label: cup, homemade
+value: 0.276
+label: cup, poured from box
+value: 0.31
+label: cup, spooned into cup
+value: 0.29
+label: cup (NLEA serving size)
+value: 0.097
+label: oz
+value: 0.069
+
+
+name: Valine
+unit: g
+value: 0.334
+label: cup, purchased
+value: 0.401
+label: cup, homemade
+value: 0.381
+label: cup, poured from box
+value: 0.428
+label: cup, spooned into cup
+value: 0.401
+label: cup (NLEA serving size)
+value: 0.134
+label: oz
+value: 0.095
+
+
+name: Arginine
+unit: g
+value: 0.315
+label: cup, purchased
+value: 0.378
+label: cup, homemade
+value: 0.359
+label: cup, poured from box
+value: 0.403
+label: cup, spooned into cup
+value: 0.378
+label: cup (NLEA serving size)
+value: 0.126
+label: oz
+value: 0.089
+
+
+name: Histidine
+unit: g
+value: 0.177
+label: cup, purchased
+value: 0.212
+label: cup, homemade
+value: 0.202
+label: cup, poured from box
+value: 0.227
+label: cup, spooned into cup
+value: 0.212
+label: cup (NLEA serving size)
+value: 0.071
+label: oz
+value: 0.05
+
+
+name: Alanine
+unit: g
+value: 0.261
+label: cup, purchased
+value: 0.313
+label: cup, homemade
+value: 0.298
+label: cup, poured from box
+value: 0.334
+label: cup, spooned into cup
+value: 0.313
+label: cup (NLEA serving size)
+value: 0.104
+label: oz
+value: 0.074
+
+
+name: Aspartic acid
+unit: g
+value: 0.364
+label: cup, purchased
+value: 0.437
+label: cup, homemade
+value: 0.415
+label: cup, poured from box
+value: 0.466
+label: cup, spooned into cup
+value: 0.437
+label: cup (NLEA serving size)
+value: 0.146
+label: oz
+value: 0.103
+
+
+name: Glutamic acid
+unit: g
+value: 2.567
+label: cup, purchased
+value: 3.08
+label: cup, homemade
+value: 2.926
+label: cup, poured from box
+value: 3.286
+label: cup, spooned into cup
+value: 3.08
+label: cup (NLEA serving size)
+value: 1.027
+label: oz
+value: 0.728
+
+
+name: Glycine
+unit: g
+value: 0.276
+label: cup, purchased
+value: 0.331
+label: cup, homemade
+value: 0.315
+label: cup, poured from box
+value: 0.353
+label: cup, spooned into cup
+value: 0.331
+label: cup (NLEA serving size)
+value: 0.11
+label: oz
+value: 0.078
+
+
+name: Proline
+unit: g
+value: 0.896
+label: cup, purchased
+value: 1.075
+label: cup, homemade
+value: 1.021
+label: cup, poured from box
+value: 1.147
+label: cup, spooned into cup
+value: 1.075
+label: cup (NLEA serving size)
+value: 0.358
+label: oz
+value: 0.254
+
+
+name: Serine
+unit: g
+value: 0.393
+label: cup, purchased
+value: 0.472
+label: cup, homemade
+value: 0.448
+label: cup, poured from box
+value: 0.503
+label: cup, spooned into cup
+value: 0.472
+label: cup (NLEA serving size)
+value: 0.157
+label: oz
+value: 0.111
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: cup, purchased
+value: 0.0
+label: cup, homemade
+value: 0.0
+label: cup, poured from box
+value: 0.0
+label: cup, spooned into cup
+value: 0.0
+label: cup (NLEA serving size)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: cup, purchased
+value: 0.0
+label: cup, homemade
+value: 0.0
+label: cup, poured from box
+value: 0.0
+label: cup, spooned into cup
+value: 0.0
+label: cup (NLEA serving size)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: cup, purchased
+value: 0.0
+label: cup, homemade
+value: 0.0
+label: cup, poured from box
+value: 0.0
+label: cup, spooned into cup
+value: 0.0
+label: cup (NLEA serving size)
+value: 0.0
+label: oz
+value: 0.0
+
+
+

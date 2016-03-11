@@ -1,0 +1,879 @@
+ndbno: 21465
+
+
+name: Fast Foods, Fried Chicken, Drumstick, meat only, skin and breading removed
+
+
+name: Water
+unit: g
+value: 64.24
+label: drumstick, bone and skin removed
+value: 25.7
+label: drumstick, drumstick without skin
+value: 35.97
+
+
+name: Energy
+unit: kcal
+value: 172.0
+label: drumstick, bone and skin removed
+value: 69.0
+label: drumstick, drumstick without skin
+value: 96.0
+
+
+name: Energy
+unit: kJ
+value: 718.0
+label: drumstick, bone and skin removed
+value: 287.0
+label: drumstick, drumstick without skin
+value: 402.0
+
+
+name: Protein
+unit: g
+value: 26.24
+label: drumstick, bone and skin removed
+value: 10.5
+label: drumstick, drumstick without skin
+value: 14.69
+
+
+name: Total lipid (fat)
+unit: g
+value: 7.41
+label: drumstick, bone and skin removed
+value: 2.96
+label: drumstick, drumstick without skin
+value: 4.15
+
+
+name: Ash
+unit: g
+value: 2.13
+label: drumstick, bone and skin removed
+value: 0.85
+label: drumstick, drumstick without skin
+value: 1.19
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 0.0
+label: drumstick, bone and skin removed
+value: 0.0
+label: drumstick, drumstick without skin
+value: 0.0
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: drumstick, bone and skin removed
+value: 0.0
+label: drumstick, drumstick without skin
+value: 0.0
+
+
+name: Sugars, total
+unit: g
+value: 0.0
+label: drumstick, bone and skin removed
+value: 0.0
+label: drumstick, drumstick without skin
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 16.0
+label: drumstick, bone and skin removed
+value: 6.0
+label: drumstick, drumstick without skin
+value: 9.0
+
+
+name: Iron, Fe
+unit: mg
+value: 1.03
+label: drumstick, bone and skin removed
+value: 0.41
+label: drumstick, drumstick without skin
+value: 0.58
+
+
+name: Magnesium, Mg
+unit: mg
+value: 24.0
+label: drumstick, bone and skin removed
+value: 10.0
+label: drumstick, drumstick without skin
+value: 13.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 211.0
+label: drumstick, bone and skin removed
+value: 84.0
+label: drumstick, drumstick without skin
+value: 118.0
+
+
+name: Potassium, K
+unit: mg
+value: 291.0
+label: drumstick, bone and skin removed
+value: 116.0
+label: drumstick, drumstick without skin
+value: 163.0
+
+
+name: Sodium, Na
+unit: mg
+value: 492.0
+label: drumstick, bone and skin removed
+value: 197.0
+label: drumstick, drumstick without skin
+value: 276.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 2.5
+label: drumstick, bone and skin removed
+value: 1.0
+label: drumstick, drumstick without skin
+value: 1.4
+
+
+name: Copper, Cu
+unit: mg
+value: 0.082
+label: drumstick, bone and skin removed
+value: 0.033
+label: drumstick, drumstick without skin
+value: 0.046
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.05
+label: drumstick, bone and skin removed
+value: 0.02
+label: drumstick, drumstick without skin
+value: 0.028
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 32.1
+label: drumstick, bone and skin removed
+value: 12.8
+label: drumstick, drumstick without skin
+value: 18.0
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: drumstick, bone and skin removed
+value: 0.0
+label: drumstick, drumstick without skin
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.079
+label: drumstick, bone and skin removed
+value: 0.032
+label: drumstick, drumstick without skin
+value: 0.044
+
+
+name: Riboflavin
+unit: mg
+value: 0.303
+label: drumstick, bone and skin removed
+value: 0.121
+label: drumstick, drumstick without skin
+value: 0.17
+
+
+name: Niacin
+unit: mg
+value: 5.726
+label: drumstick, bone and skin removed
+value: 2.29
+label: drumstick, drumstick without skin
+value: 3.207
+
+
+name: Pantothenic acid
+unit: mg
+value: 1.387
+label: drumstick, bone and skin removed
+value: 0.555
+label: drumstick, drumstick without skin
+value: 0.777
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.272
+label: drumstick, bone and skin removed
+value: 0.109
+label: drumstick, drumstick without skin
+value: 0.152
+
+
+name: Folate, total
+unit: \u00B5g
+value: 10.0
+label: drumstick, bone and skin removed
+value: 4.0
+label: drumstick, drumstick without skin
+value: 6.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: drumstick, bone and skin removed
+value: 0.0
+label: drumstick, drumstick without skin
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 10.0
+label: drumstick, bone and skin removed
+value: 4.0
+label: drumstick, drumstick without skin
+value: 6.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 10.0
+label: drumstick, bone and skin removed
+value: 4.0
+label: drumstick, drumstick without skin
+value: 6.0
+
+
+name: Choline, total
+unit: mg
+value: 81.0
+label: drumstick, bone and skin removed
+value: 32.4
+label: drumstick, drumstick without skin
+value: 45.4
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.74
+label: drumstick, bone and skin removed
+value: 0.3
+label: drumstick, drumstick without skin
+value: 0.41
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: drumstick, bone and skin removed
+value: 0.0
+label: drumstick, drumstick without skin
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 11.0
+label: drumstick, bone and skin removed
+value: 4.0
+label: drumstick, drumstick without skin
+value: 6.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 11.0
+label: drumstick, bone and skin removed
+value: 4.0
+label: drumstick, drumstick without skin
+value: 6.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 0.0
+label: drumstick, bone and skin removed
+value: 0.0
+label: drumstick, drumstick without skin
+value: 0.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: drumstick, bone and skin removed
+value: 0.0
+label: drumstick, drumstick without skin
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: drumstick, bone and skin removed
+value: 0.0
+label: drumstick, drumstick without skin
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 37.0
+label: drumstick, bone and skin removed
+value: 15.0
+label: drumstick, drumstick without skin
+value: 21.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: drumstick, bone and skin removed
+value: 0.0
+label: drumstick, drumstick without skin
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 0.0
+label: drumstick, bone and skin removed
+value: 0.0
+label: drumstick, drumstick without skin
+value: 0.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.33
+label: drumstick, bone and skin removed
+value: 0.13
+label: drumstick, drumstick without skin
+value: 0.18
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: drumstick, bone and skin removed
+value: 0.0
+label: drumstick, drumstick without skin
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.1
+label: drumstick, bone and skin removed
+value: 0.0
+label: drumstick, drumstick without skin
+value: 0.1
+
+
+name: Vitamin D
+unit: IU
+value: 5.0
+label: drumstick, bone and skin removed
+value: 2.0
+label: drumstick, drumstick without skin
+value: 3.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 0.0
+label: drumstick, bone and skin removed
+value: 0.0
+label: drumstick, drumstick without skin
+value: 0.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 2.004
+label: drumstick, bone and skin removed
+value: 0.802
+label: drumstick, drumstick without skin
+value: 1.122
+
+
+name: 4:0
+unit: g
+value: 0.002
+label: drumstick, bone and skin removed
+value: 0.001
+label: drumstick, drumstick without skin
+value: 0.001
+
+
+name: 6:0
+unit: g
+value: 0.001
+label: drumstick, bone and skin removed
+value: 0.0
+label: drumstick, drumstick without skin
+value: 0.001
+
+
+name: 8:0
+unit: g
+value: 0.001
+label: drumstick, bone and skin removed
+value: 0.0
+label: drumstick, drumstick without skin
+value: 0.001
+
+
+name: 10:0
+unit: g
+value: 0.003
+label: drumstick, bone and skin removed
+value: 0.001
+label: drumstick, drumstick without skin
+value: 0.002
+
+
+name: 12:0
+unit: g
+value: 0.005
+label: drumstick, bone and skin removed
+value: 0.002
+label: drumstick, drumstick without skin
+value: 0.003
+
+
+name: 14:0
+unit: g
+value: 0.046
+label: drumstick, bone and skin removed
+value: 0.018
+label: drumstick, drumstick without skin
+value: 0.026
+
+
+name: 15:0
+unit: g
+value: 0.007
+label: drumstick, bone and skin removed
+value: 0.003
+label: drumstick, drumstick without skin
+value: 0.004
+
+
+name: 16:0
+unit: g
+value: 1.412
+label: drumstick, bone and skin removed
+value: 0.565
+label: drumstick, drumstick without skin
+value: 0.791
+
+
+name: 17:0
+unit: g
+value: 0.012
+label: drumstick, bone and skin removed
+value: 0.005
+label: drumstick, drumstick without skin
+value: 0.007
+
+
+name: 18:0
+unit: g
+value: 0.492
+label: drumstick, bone and skin removed
+value: 0.197
+label: drumstick, drumstick without skin
+value: 0.276
+
+
+name: 20:0
+unit: g
+value: 0.009
+label: drumstick, bone and skin removed
+value: 0.004
+label: drumstick, drumstick without skin
+value: 0.005
+
+
+name: 22:0
+unit: g
+value: 0.008
+label: drumstick, bone and skin removed
+value: 0.003
+label: drumstick, drumstick without skin
+value: 0.004
+
+
+name: 24:0
+unit: g
+value: 0.005
+label: drumstick, bone and skin removed
+value: 0.002
+label: drumstick, drumstick without skin
+value: 0.003
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 2.933
+label: drumstick, bone and skin removed
+value: 1.173
+label: drumstick, drumstick without skin
+value: 1.642
+
+
+name: 14:1
+unit: g
+value: 0.015
+label: drumstick, bone and skin removed
+value: 0.006
+label: drumstick, drumstick without skin
+value: 0.008
+
+
+name: 15:1
+unit: g
+value: 0.002
+label: drumstick, bone and skin removed
+value: 0.001
+label: drumstick, drumstick without skin
+value: 0.001
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.43
+label: drumstick, bone and skin removed
+value: 0.172
+label: drumstick, drumstick without skin
+value: 0.241
+
+
+name: 16:1 c
+unit: g
+value: 0.425
+label: drumstick, bone and skin removed
+value: 0.17
+label: drumstick, drumstick without skin
+value: 0.238
+
+
+name: 16:1 t
+unit: g
+value: 0.005
+label: drumstick, bone and skin removed
+value: 0.002
+label: drumstick, drumstick without skin
+value: 0.003
+
+
+name: 17:1
+unit: g
+value: 0.009
+label: drumstick, bone and skin removed
+value: 0.004
+label: drumstick, drumstick without skin
+value: 0.005
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 2.44
+label: drumstick, bone and skin removed
+value: 0.976
+label: drumstick, drumstick without skin
+value: 1.366
+
+
+name: 18:1 c
+unit: g
+value: 2.389
+label: drumstick, bone and skin removed
+value: 0.956
+label: drumstick, drumstick without skin
+value: 1.338
+
+
+name: 18:1 t
+unit: g
+value: 0.051
+label: drumstick, bone and skin removed
+value: 0.02
+label: drumstick, drumstick without skin
+value: 0.029
+
+
+name: 20:1
+unit: g
+value: 0.028
+label: drumstick, bone and skin removed
+value: 0.011
+label: drumstick, drumstick without skin
+value: 0.016
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.003
+label: drumstick, bone and skin removed
+value: 0.001
+label: drumstick, drumstick without skin
+value: 0.002
+
+
+name: 22:1 c
+unit: g
+value: 0.002
+label: drumstick, bone and skin removed
+value: 0.001
+label: drumstick, drumstick without skin
+value: 0.001
+
+
+name: 22:1 t
+unit: g
+value: 0.0
+label: drumstick, bone and skin removed
+value: 0.0
+label: drumstick, drumstick without skin
+value: 0.0
+
+
+name: 24:1 c
+unit: g
+value: 0.007
+label: drumstick, bone and skin removed
+value: 0.003
+label: drumstick, drumstick without skin
+value: 0.004
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 1.675
+label: drumstick, bone and skin removed
+value: 0.67
+label: drumstick, drumstick without skin
+value: 0.938
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 1.453
+label: drumstick, bone and skin removed
+value: 0.581
+label: drumstick, drumstick without skin
+value: 0.814
+
+
+name: 18:2 n-6 c,c
+unit: g
+value: 1.424
+label: drumstick, bone and skin removed
+value: 0.57
+label: drumstick, drumstick without skin
+value: 0.797
+
+
+name: 18:2 CLAs
+unit: g
+value: 0.01
+label: drumstick, bone and skin removed
+value: 0.004
+label: drumstick, drumstick without skin
+value: 0.006
+
+
+name: 18:2 t not further defined
+unit: g
+value: 0.018
+label: drumstick, bone and skin removed
+value: 0.007
+label: drumstick, drumstick without skin
+value: 0.01
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.071
+label: drumstick, bone and skin removed
+value: 0.028
+label: drumstick, drumstick without skin
+value: 0.04
+
+
+name: 18:3 n-3 c,c,c (ALA)
+unit: g
+value: 0.062
+label: drumstick, bone and skin removed
+value: 0.025
+label: drumstick, drumstick without skin
+value: 0.035
+
+
+name: 18:3 n-6 c,c,c
+unit: g
+value: 0.009
+label: drumstick, bone and skin removed
+value: 0.004
+label: drumstick, drumstick without skin
+value: 0.005
+
+
+name: 18:4
+unit: g
+value: 0.002
+label: drumstick, bone and skin removed
+value: 0.001
+label: drumstick, drumstick without skin
+value: 0.001
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.01
+label: drumstick, bone and skin removed
+value: 0.004
+label: drumstick, drumstick without skin
+value: 0.006
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.025
+label: drumstick, bone and skin removed
+value: 0.01
+label: drumstick, drumstick without skin
+value: 0.014
+
+
+name: 20:3 n-6
+unit: g
+value: 0.024
+label: drumstick, bone and skin removed
+value: 0.01
+label: drumstick, drumstick without skin
+value: 0.013
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.078
+label: drumstick, bone and skin removed
+value: 0.031
+label: drumstick, drumstick without skin
+value: 0.044
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.003
+label: drumstick, bone and skin removed
+value: 0.001
+label: drumstick, drumstick without skin
+value: 0.002
+
+
+name: 22:4
+unit: g
+value: 0.022
+label: drumstick, bone and skin removed
+value: 0.009
+label: drumstick, drumstick without skin
+value: 0.012
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.007
+label: drumstick, bone and skin removed
+value: 0.003
+label: drumstick, drumstick without skin
+value: 0.004
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.004
+label: drumstick, bone and skin removed
+value: 0.002
+label: drumstick, drumstick without skin
+value: 0.002
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.074
+label: drumstick, bone and skin removed
+value: 0.03
+label: drumstick, drumstick without skin
+value: 0.041
+
+
+name: Fatty acids, total trans-monoenoic
+unit: g
+value: 0.056
+label: drumstick, bone and skin removed
+value: 0.022
+label: drumstick, drumstick without skin
+value: 0.031
+
+
+name: Cholesterol
+unit: mg
+value: 133.0
+label: drumstick, bone and skin removed
+value: 53.0
+label: drumstick, drumstick without skin
+value: 74.0
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: drumstick, bone and skin removed
+value: 0.0
+label: drumstick, drumstick without skin
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: drumstick, bone and skin removed
+value: 0.0
+label: drumstick, drumstick without skin
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: drumstick, bone and skin removed
+value: 0.0
+label: drumstick, drumstick without skin
+value: 0.0
+
+

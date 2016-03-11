@@ -1,0 +1,2096 @@
+ndbno: 18360
+
+
+name: Taco shells, baked
+
+
+name: Water
+unit: g
+value: 6.4
+label: shell
+value: 0.83
+label: taco
+value: 0.81
+label: medium (approx 5\ dia)
+value: 0.85
+label: large (6-1/2\ dia)
+value: 1.34
+label: miniature (3\ dia)
+value: 0.32
+label: oz
+value: 1.81
+
+
+name: Energy
+unit: kcal
+value: 476.0
+label: shell
+value: 61.0
+label: taco
+value: 60.0
+label: medium (approx 5\ dia)
+value: 63.0
+label: large (6-1/2\ dia)
+value: 100.0
+label: miniature (3\ dia)
+value: 24.0
+label: oz
+value: 135.0
+
+
+name: Energy
+unit: kJ
+value: 1991.0
+label: shell
+value: 257.0
+label: taco
+value: 253.0
+label: medium (approx 5\ dia)
+value: 265.0
+label: large (6-1/2\ dia)
+value: 418.0
+label: miniature (3\ dia)
+value: 100.0
+label: oz
+value: 564.0
+
+
+name: Protein
+unit: g
+value: 6.41
+label: shell
+value: 0.83
+label: taco
+value: 0.81
+label: medium (approx 5\ dia)
+value: 0.85
+label: large (6-1/2\ dia)
+value: 1.35
+label: miniature (3\ dia)
+value: 0.32
+label: oz
+value: 1.82
+
+
+name: Total lipid (fat)
+unit: g
+value: 21.79
+label: shell
+value: 2.81
+label: taco
+value: 2.77
+label: medium (approx 5\ dia)
+value: 2.9
+label: large (6-1/2\ dia)
+value: 4.58
+label: miniature (3\ dia)
+value: 1.09
+label: oz
+value: 6.18
+
+
+name: Ash
+unit: g
+value: 1.9
+label: shell
+value: 0.25
+label: taco
+value: 0.24
+label: medium (approx 5\ dia)
+value: 0.25
+label: large (6-1/2\ dia)
+value: 0.4
+label: miniature (3\ dia)
+value: 0.1
+label: oz
+value: 0.54
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 63.49
+label: shell
+value: 8.19
+label: taco
+value: 8.06
+label: medium (approx 5\ dia)
+value: 8.44
+label: large (6-1/2\ dia)
+value: 13.33
+label: miniature (3\ dia)
+value: 3.17
+label: oz
+value: 18.0
+
+
+name: Fiber, total dietary
+unit: g
+value: 6.7
+label: shell
+value: 0.9
+label: taco
+value: 0.9
+label: medium (approx 5\ dia)
+value: 0.9
+label: large (6-1/2\ dia)
+value: 1.4
+label: miniature (3\ dia)
+value: 0.3
+label: oz
+value: 1.9
+
+
+name: Sugars, total
+unit: g
+value: 1.5
+label: shell
+value: 0.19
+label: taco
+value: 0.19
+label: medium (approx 5\ dia)
+value: 0.2
+label: large (6-1/2\ dia)
+value: 0.32
+label: miniature (3\ dia)
+value: 0.08
+label: oz
+value: 0.43
+
+
+name: Sucrose
+unit: g
+value: 1.0
+label: shell
+value: 0.13
+label: taco
+value: 0.13
+label: medium (approx 5\ dia)
+value: 0.13
+label: large (6-1/2\ dia)
+value: 0.21
+label: miniature (3\ dia)
+value: 0.05
+label: oz
+value: 0.28
+
+
+name: Glucose (dextrose)
+unit: g
+value: 0.1
+label: shell
+value: 0.01
+label: taco
+value: 0.01
+label: medium (approx 5\ dia)
+value: 0.01
+label: large (6-1/2\ dia)
+value: 0.02
+label: miniature (3\ dia)
+value: 0.0
+label: oz
+value: 0.03
+
+
+name: Fructose
+unit: g
+value: 0.1
+label: shell
+value: 0.01
+label: taco
+value: 0.01
+label: medium (approx 5\ dia)
+value: 0.01
+label: large (6-1/2\ dia)
+value: 0.02
+label: miniature (3\ dia)
+value: 0.0
+label: oz
+value: 0.03
+
+
+name: Lactose
+unit: g
+value: 0.1
+label: shell
+value: 0.01
+label: taco
+value: 0.01
+label: medium (approx 5\ dia)
+value: 0.01
+label: large (6-1/2\ dia)
+value: 0.02
+label: miniature (3\ dia)
+value: 0.0
+label: oz
+value: 0.03
+
+
+name: Maltose
+unit: g
+value: 0.1
+label: shell
+value: 0.01
+label: taco
+value: 0.01
+label: medium (approx 5\ dia)
+value: 0.01
+label: large (6-1/2\ dia)
+value: 0.02
+label: miniature (3\ dia)
+value: 0.0
+label: oz
+value: 0.03
+
+
+name: Galactose
+unit: g
+value: 0.1
+label: shell
+value: 0.01
+label: taco
+value: 0.01
+label: medium (approx 5\ dia)
+value: 0.01
+label: large (6-1/2\ dia)
+value: 0.02
+label: miniature (3\ dia)
+value: 0.0
+label: oz
+value: 0.03
+
+
+name: Starch
+unit: g
+value: 54.94
+label: shell
+value: 7.09
+label: taco
+value: 6.98
+label: medium (approx 5\ dia)
+value: 7.31
+label: large (6-1/2\ dia)
+value: 11.54
+label: miniature (3\ dia)
+value: 2.75
+label: oz
+value: 15.58
+
+
+name: Calcium, Ca
+unit: mg
+value: 100.0
+label: shell
+value: 13.0
+label: taco
+value: 13.0
+label: medium (approx 5\ dia)
+value: 13.0
+label: large (6-1/2\ dia)
+value: 21.0
+label: miniature (3\ dia)
+value: 5.0
+label: oz
+value: 28.0
+
+
+name: Iron, Fe
+unit: mg
+value: 1.64
+label: shell
+value: 0.21
+label: taco
+value: 0.21
+label: medium (approx 5\ dia)
+value: 0.22
+label: large (6-1/2\ dia)
+value: 0.34
+label: miniature (3\ dia)
+value: 0.08
+label: oz
+value: 0.46
+
+
+name: Magnesium, Mg
+unit: mg
+value: 83.0
+label: shell
+value: 11.0
+label: taco
+value: 11.0
+label: medium (approx 5\ dia)
+value: 11.0
+label: large (6-1/2\ dia)
+value: 17.0
+label: miniature (3\ dia)
+value: 4.0
+label: oz
+value: 24.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 233.0
+label: shell
+value: 30.0
+label: taco
+value: 30.0
+label: medium (approx 5\ dia)
+value: 31.0
+label: large (6-1/2\ dia)
+value: 49.0
+label: miniature (3\ dia)
+value: 12.0
+label: oz
+value: 66.0
+
+
+name: Potassium, K
+unit: mg
+value: 231.0
+label: shell
+value: 30.0
+label: taco
+value: 29.0
+label: medium (approx 5\ dia)
+value: 31.0
+label: large (6-1/2\ dia)
+value: 49.0
+label: miniature (3\ dia)
+value: 12.0
+label: oz
+value: 65.0
+
+
+name: Sodium, Na
+unit: mg
+value: 324.0
+label: shell
+value: 42.0
+label: taco
+value: 41.0
+label: medium (approx 5\ dia)
+value: 43.0
+label: large (6-1/2\ dia)
+value: 68.0
+label: miniature (3\ dia)
+value: 16.0
+label: oz
+value: 92.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 1.61
+label: shell
+value: 0.21
+label: taco
+value: 0.2
+label: medium (approx 5\ dia)
+value: 0.21
+label: large (6-1/2\ dia)
+value: 0.34
+label: miniature (3\ dia)
+value: 0.08
+label: oz
+value: 0.46
+
+
+name: Copper, Cu
+unit: mg
+value: 0.113
+label: shell
+value: 0.015
+label: taco
+value: 0.014
+label: medium (approx 5\ dia)
+value: 0.015
+label: large (6-1/2\ dia)
+value: 0.024
+label: miniature (3\ dia)
+value: 0.006
+label: oz
+value: 0.032
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.56
+label: shell
+value: 0.072
+label: taco
+value: 0.071
+label: medium (approx 5\ dia)
+value: 0.074
+label: large (6-1/2\ dia)
+value: 0.118
+label: miniature (3\ dia)
+value: 0.028
+label: oz
+value: 0.159
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 4.8
+label: shell
+value: 0.6
+label: taco
+value: 0.6
+label: medium (approx 5\ dia)
+value: 0.6
+label: large (6-1/2\ dia)
+value: 1.0
+label: miniature (3\ dia)
+value: 0.2
+label: oz
+value: 1.4
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: shell
+value: 0.0
+label: taco
+value: 0.0
+label: medium (approx 5\ dia)
+value: 0.0
+label: large (6-1/2\ dia)
+value: 0.0
+label: miniature (3\ dia)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.216
+label: shell
+value: 0.028
+label: taco
+value: 0.027
+label: medium (approx 5\ dia)
+value: 0.029
+label: large (6-1/2\ dia)
+value: 0.045
+label: miniature (3\ dia)
+value: 0.011
+label: oz
+value: 0.061
+
+
+name: Riboflavin
+unit: mg
+value: 0.08
+label: shell
+value: 0.01
+label: taco
+value: 0.01
+label: medium (approx 5\ dia)
+value: 0.011
+label: large (6-1/2\ dia)
+value: 0.017
+label: miniature (3\ dia)
+value: 0.004
+label: oz
+value: 0.023
+
+
+name: Niacin
+unit: mg
+value: 1.867
+label: shell
+value: 0.241
+label: taco
+value: 0.237
+label: medium (approx 5\ dia)
+value: 0.248
+label: large (6-1/2\ dia)
+value: 0.392
+label: miniature (3\ dia)
+value: 0.093
+label: oz
+value: 0.529
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.203
+label: shell
+value: 0.026
+label: taco
+value: 0.026
+label: medium (approx 5\ dia)
+value: 0.027
+label: large (6-1/2\ dia)
+value: 0.043
+label: miniature (3\ dia)
+value: 0.01
+label: oz
+value: 0.058
+
+
+name: Folate, total
+unit: \u00B5g
+value: 69.0
+label: shell
+value: 9.0
+label: taco
+value: 9.0
+label: medium (approx 5\ dia)
+value: 9.0
+label: large (6-1/2\ dia)
+value: 14.0
+label: miniature (3\ dia)
+value: 3.0
+label: oz
+value: 20.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 24.0
+label: shell
+value: 3.0
+label: taco
+value: 3.0
+label: medium (approx 5\ dia)
+value: 3.0
+label: large (6-1/2\ dia)
+value: 5.0
+label: miniature (3\ dia)
+value: 1.0
+label: oz
+value: 7.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 46.0
+label: shell
+value: 6.0
+label: taco
+value: 6.0
+label: medium (approx 5\ dia)
+value: 6.0
+label: large (6-1/2\ dia)
+value: 10.0
+label: miniature (3\ dia)
+value: 2.0
+label: oz
+value: 13.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 85.0
+label: shell
+value: 11.0
+label: taco
+value: 11.0
+label: medium (approx 5\ dia)
+value: 11.0
+label: large (6-1/2\ dia)
+value: 18.0
+label: miniature (3\ dia)
+value: 4.0
+label: oz
+value: 24.0
+
+
+name: Choline, total
+unit: mg
+value: 29.9
+label: shell
+value: 3.9
+label: taco
+value: 3.8
+label: medium (approx 5\ dia)
+value: 4.0
+label: large (6-1/2\ dia)
+value: 6.3
+label: miniature (3\ dia)
+value: 1.5
+label: oz
+value: 8.5
+
+
+name: Betaine
+unit: mg
+value: 0.4
+label: shell
+value: 0.1
+label: taco
+value: 0.1
+label: medium (approx 5\ dia)
+value: 0.1
+label: large (6-1/2\ dia)
+value: 0.1
+label: miniature (3\ dia)
+value: 0.0
+label: oz
+value: 0.1
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: shell
+value: 0.0
+label: taco
+value: 0.0
+label: medium (approx 5\ dia)
+value: 0.0
+label: large (6-1/2\ dia)
+value: 0.0
+label: miniature (3\ dia)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: shell
+value: 0.0
+label: taco
+value: 0.0
+label: medium (approx 5\ dia)
+value: 0.0
+label: large (6-1/2\ dia)
+value: 0.0
+label: miniature (3\ dia)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 1.0
+label: shell
+value: 0.0
+label: taco
+value: 0.0
+label: medium (approx 5\ dia)
+value: 0.0
+label: large (6-1/2\ dia)
+value: 0.0
+label: miniature (3\ dia)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: shell
+value: 0.0
+label: taco
+value: 0.0
+label: medium (approx 5\ dia)
+value: 0.0
+label: large (6-1/2\ dia)
+value: 0.0
+label: miniature (3\ dia)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 3.0
+label: shell
+value: 0.0
+label: taco
+value: 0.0
+label: medium (approx 5\ dia)
+value: 0.0
+label: large (6-1/2\ dia)
+value: 1.0
+label: miniature (3\ dia)
+value: 0.0
+label: oz
+value: 1.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 3.0
+label: shell
+value: 0.0
+label: taco
+value: 0.0
+label: medium (approx 5\ dia)
+value: 0.0
+label: large (6-1/2\ dia)
+value: 1.0
+label: miniature (3\ dia)
+value: 0.0
+label: oz
+value: 1.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 13.0
+label: shell
+value: 2.0
+label: taco
+value: 2.0
+label: medium (approx 5\ dia)
+value: 2.0
+label: large (6-1/2\ dia)
+value: 3.0
+label: miniature (3\ dia)
+value: 1.0
+label: oz
+value: 4.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 17.0
+label: shell
+value: 2.0
+label: taco
+value: 2.0
+label: medium (approx 5\ dia)
+value: 2.0
+label: large (6-1/2\ dia)
+value: 4.0
+label: miniature (3\ dia)
+value: 1.0
+label: oz
+value: 5.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 3.0
+label: shell
+value: 0.0
+label: taco
+value: 0.0
+label: medium (approx 5\ dia)
+value: 0.0
+label: large (6-1/2\ dia)
+value: 1.0
+label: miniature (3\ dia)
+value: 0.0
+label: oz
+value: 1.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 106.0
+label: shell
+value: 14.0
+label: taco
+value: 13.0
+label: medium (approx 5\ dia)
+value: 14.0
+label: large (6-1/2\ dia)
+value: 22.0
+label: miniature (3\ dia)
+value: 5.0
+label: oz
+value: 30.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.69
+label: shell
+value: 0.09
+label: taco
+value: 0.09
+label: medium (approx 5\ dia)
+value: 0.09
+label: large (6-1/2\ dia)
+value: 0.14
+label: miniature (3\ dia)
+value: 0.03
+label: oz
+value: 0.2
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: shell
+value: 0.0
+label: taco
+value: 0.0
+label: medium (approx 5\ dia)
+value: 0.0
+label: large (6-1/2\ dia)
+value: 0.0
+label: miniature (3\ dia)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: shell
+value: 0.0
+label: taco
+value: 0.0
+label: medium (approx 5\ dia)
+value: 0.0
+label: large (6-1/2\ dia)
+value: 0.0
+label: miniature (3\ dia)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: shell
+value: 0.0
+label: taco
+value: 0.0
+label: medium (approx 5\ dia)
+value: 0.0
+label: large (6-1/2\ dia)
+value: 0.0
+label: miniature (3\ dia)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 8.6
+label: shell
+value: 1.1
+label: taco
+value: 1.1
+label: medium (approx 5\ dia)
+value: 1.1
+label: large (6-1/2\ dia)
+value: 1.8
+label: miniature (3\ dia)
+value: 0.4
+label: oz
+value: 2.4
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 7.105
+label: shell
+value: 0.917
+label: taco
+value: 0.902
+label: medium (approx 5\ dia)
+value: 0.945
+label: large (6-1/2\ dia)
+value: 1.492
+label: miniature (3\ dia)
+value: 0.355
+label: oz
+value: 2.014
+
+
+name: 4:0
+unit: g
+value: 0.006
+label: shell
+value: 0.001
+label: taco
+value: 0.001
+label: medium (approx 5\ dia)
+value: 0.001
+label: large (6-1/2\ dia)
+value: 0.001
+label: miniature (3\ dia)
+value: 0.0
+label: oz
+value: 0.002
+
+
+name: 6:0
+unit: g
+value: 0.004
+label: shell
+value: 0.001
+label: taco
+value: 0.001
+label: medium (approx 5\ dia)
+value: 0.001
+label: large (6-1/2\ dia)
+value: 0.001
+label: miniature (3\ dia)
+value: 0.0
+label: oz
+value: 0.001
+
+
+name: 8:0
+unit: g
+value: 0.057
+label: shell
+value: 0.007
+label: taco
+value: 0.007
+label: medium (approx 5\ dia)
+value: 0.008
+label: large (6-1/2\ dia)
+value: 0.012
+label: miniature (3\ dia)
+value: 0.003
+label: oz
+value: 0.016
+
+
+name: 10:0
+unit: g
+value: 0.053
+label: shell
+value: 0.007
+label: taco
+value: 0.007
+label: medium (approx 5\ dia)
+value: 0.007
+label: large (6-1/2\ dia)
+value: 0.011
+label: miniature (3\ dia)
+value: 0.003
+label: oz
+value: 0.015
+
+
+name: 12:0
+unit: g
+value: 0.342
+label: shell
+value: 0.044
+label: taco
+value: 0.043
+label: medium (approx 5\ dia)
+value: 0.045
+label: large (6-1/2\ dia)
+value: 0.072
+label: miniature (3\ dia)
+value: 0.017
+label: oz
+value: 0.097
+
+
+name: 14:0
+unit: g
+value: 0.251
+label: shell
+value: 0.032
+label: taco
+value: 0.032
+label: medium (approx 5\ dia)
+value: 0.033
+label: large (6-1/2\ dia)
+value: 0.053
+label: miniature (3\ dia)
+value: 0.013
+label: oz
+value: 0.071
+
+
+name: 15:0
+unit: g
+value: 0.008
+label: shell
+value: 0.001
+label: taco
+value: 0.001
+label: medium (approx 5\ dia)
+value: 0.001
+label: large (6-1/2\ dia)
+value: 0.002
+label: miniature (3\ dia)
+value: 0.0
+label: oz
+value: 0.002
+
+
+name: 16:0
+unit: g
+value: 5.53
+label: shell
+value: 0.713
+label: taco
+value: 0.702
+label: medium (approx 5\ dia)
+value: 0.735
+label: large (6-1/2\ dia)
+value: 1.161
+label: miniature (3\ dia)
+value: 0.276
+label: oz
+value: 1.568
+
+
+name: 17:0
+unit: g
+value: 0.012
+label: shell
+value: 0.002
+label: taco
+value: 0.002
+label: medium (approx 5\ dia)
+value: 0.002
+label: large (6-1/2\ dia)
+value: 0.003
+label: miniature (3\ dia)
+value: 0.001
+label: oz
+value: 0.003
+
+
+name: 18:0
+unit: g
+value: 0.757
+label: shell
+value: 0.098
+label: taco
+value: 0.096
+label: medium (approx 5\ dia)
+value: 0.101
+label: large (6-1/2\ dia)
+value: 0.159
+label: miniature (3\ dia)
+value: 0.038
+label: oz
+value: 0.215
+
+
+name: 20:0
+unit: g
+value: 0.067
+label: shell
+value: 0.009
+label: taco
+value: 0.009
+label: medium (approx 5\ dia)
+value: 0.009
+label: large (6-1/2\ dia)
+value: 0.014
+label: miniature (3\ dia)
+value: 0.003
+label: oz
+value: 0.019
+
+
+name: 22:0
+unit: g
+value: 0.0
+label: shell
+value: 0.0
+label: taco
+value: 0.0
+label: medium (approx 5\ dia)
+value: 0.0
+label: large (6-1/2\ dia)
+value: 0.0
+label: miniature (3\ dia)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 24:0
+unit: g
+value: 0.019
+label: shell
+value: 0.002
+label: taco
+value: 0.002
+label: medium (approx 5\ dia)
+value: 0.003
+label: large (6-1/2\ dia)
+value: 0.004
+label: miniature (3\ dia)
+value: 0.001
+label: oz
+value: 0.005
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 6.935
+label: shell
+value: 0.895
+label: taco
+value: 0.881
+label: medium (approx 5\ dia)
+value: 0.922
+label: large (6-1/2\ dia)
+value: 1.456
+label: miniature (3\ dia)
+value: 0.347
+label: oz
+value: 1.966
+
+
+name: 14:1
+unit: g
+value: 0.0
+label: shell
+value: 0.0
+label: taco
+value: 0.0
+label: medium (approx 5\ dia)
+value: 0.0
+label: large (6-1/2\ dia)
+value: 0.0
+label: miniature (3\ dia)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: shell
+value: 0.0
+label: taco
+value: 0.0
+label: medium (approx 5\ dia)
+value: 0.0
+label: large (6-1/2\ dia)
+value: 0.0
+label: miniature (3\ dia)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.028
+label: shell
+value: 0.004
+label: taco
+value: 0.004
+label: medium (approx 5\ dia)
+value: 0.004
+label: large (6-1/2\ dia)
+value: 0.006
+label: miniature (3\ dia)
+value: 0.001
+label: oz
+value: 0.008
+
+
+name: 16:1 c
+unit: g
+value: 0.028
+label: shell
+value: 0.004
+label: taco
+value: 0.004
+label: medium (approx 5\ dia)
+value: 0.004
+label: large (6-1/2\ dia)
+value: 0.006
+label: miniature (3\ dia)
+value: 0.001
+label: oz
+value: 0.008
+
+
+name: 16:1 t
+unit: g
+value: 0.0
+label: shell
+value: 0.0
+label: taco
+value: 0.0
+label: medium (approx 5\ dia)
+value: 0.0
+label: large (6-1/2\ dia)
+value: 0.0
+label: miniature (3\ dia)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 17:1
+unit: g
+value: 0.007
+label: shell
+value: 0.001
+label: taco
+value: 0.001
+label: medium (approx 5\ dia)
+value: 0.001
+label: large (6-1/2\ dia)
+value: 0.001
+label: miniature (3\ dia)
+value: 0.0
+label: oz
+value: 0.002
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 6.854
+label: shell
+value: 0.884
+label: taco
+value: 0.87
+label: medium (approx 5\ dia)
+value: 0.912
+label: large (6-1/2\ dia)
+value: 1.439
+label: miniature (3\ dia)
+value: 0.343
+label: oz
+value: 1.943
+
+
+name: 18:1 c
+unit: g
+value: 6.759
+label: shell
+value: 0.872
+label: taco
+value: 0.858
+label: medium (approx 5\ dia)
+value: 0.899
+label: large (6-1/2\ dia)
+value: 1.419
+label: miniature (3\ dia)
+value: 0.338
+label: oz
+value: 1.916
+
+
+name: 18:1 t
+unit: g
+value: 0.095
+label: shell
+value: 0.012
+label: taco
+value: 0.012
+label: medium (approx 5\ dia)
+value: 0.013
+label: large (6-1/2\ dia)
+value: 0.02
+label: miniature (3\ dia)
+value: 0.005
+label: oz
+value: 0.027
+
+
+name: 20:1
+unit: g
+value: 0.043
+label: shell
+value: 0.006
+label: taco
+value: 0.005
+label: medium (approx 5\ dia)
+value: 0.006
+label: large (6-1/2\ dia)
+value: 0.009
+label: miniature (3\ dia)
+value: 0.002
+label: oz
+value: 0.012
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.002
+label: shell
+value: 0.0
+label: taco
+value: 0.0
+label: medium (approx 5\ dia)
+value: 0.0
+label: large (6-1/2\ dia)
+value: 0.0
+label: miniature (3\ dia)
+value: 0.0
+label: oz
+value: 0.001
+
+
+name: 22:1 c
+unit: g
+value: 0.001
+label: shell
+value: 0.0
+label: taco
+value: 0.0
+label: medium (approx 5\ dia)
+value: 0.0
+label: large (6-1/2\ dia)
+value: 0.0
+label: miniature (3\ dia)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 22:1 t
+unit: g
+value: 0.001
+label: shell
+value: 0.0
+label: taco
+value: 0.0
+label: medium (approx 5\ dia)
+value: 0.0
+label: large (6-1/2\ dia)
+value: 0.0
+label: miniature (3\ dia)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 24:1 c
+unit: g
+value: 0.0
+label: shell
+value: 0.0
+label: taco
+value: 0.0
+label: medium (approx 5\ dia)
+value: 0.0
+label: large (6-1/2\ dia)
+value: 0.0
+label: miniature (3\ dia)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 5.495
+label: shell
+value: 0.709
+label: taco
+value: 0.698
+label: medium (approx 5\ dia)
+value: 0.731
+label: large (6-1/2\ dia)
+value: 1.154
+label: miniature (3\ dia)
+value: 0.275
+label: oz
+value: 1.558
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 5.182
+label: shell
+value: 0.668
+label: taco
+value: 0.658
+label: medium (approx 5\ dia)
+value: 0.689
+label: large (6-1/2\ dia)
+value: 1.088
+label: miniature (3\ dia)
+value: 0.259
+label: oz
+value: 1.469
+
+
+name: 18:2 n-6 c,c
+unit: g
+value: 5.097
+label: shell
+value: 0.658
+label: taco
+value: 0.647
+label: medium (approx 5\ dia)
+value: 0.678
+label: large (6-1/2\ dia)
+value: 1.07
+label: miniature (3\ dia)
+value: 0.255
+label: oz
+value: 1.445
+
+
+name: 18:2 CLAs
+unit: g
+value: 0.009
+label: shell
+value: 0.001
+label: taco
+value: 0.001
+label: medium (approx 5\ dia)
+value: 0.001
+label: large (6-1/2\ dia)
+value: 0.002
+label: miniature (3\ dia)
+value: 0.0
+label: oz
+value: 0.003
+
+
+name: 18:2 t not further defined
+unit: g
+value: 0.076
+label: shell
+value: 0.01
+label: taco
+value: 0.01
+label: medium (approx 5\ dia)
+value: 0.01
+label: large (6-1/2\ dia)
+value: 0.016
+label: miniature (3\ dia)
+value: 0.004
+label: oz
+value: 0.022
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.284
+label: shell
+value: 0.037
+label: taco
+value: 0.036
+label: medium (approx 5\ dia)
+value: 0.038
+label: large (6-1/2\ dia)
+value: 0.06
+label: miniature (3\ dia)
+value: 0.014
+label: oz
+value: 0.081
+
+
+name: 18:3 n-3 c,c,c (ALA)
+unit: g
+value: 0.27
+label: shell
+value: 0.035
+label: taco
+value: 0.034
+label: medium (approx 5\ dia)
+value: 0.036
+label: large (6-1/2\ dia)
+value: 0.057
+label: miniature (3\ dia)
+value: 0.014
+label: oz
+value: 0.077
+
+
+name: 18:3 n-6 c,c,c
+unit: g
+value: 0.014
+label: shell
+value: 0.002
+label: taco
+value: 0.002
+label: medium (approx 5\ dia)
+value: 0.002
+label: large (6-1/2\ dia)
+value: 0.003
+label: miniature (3\ dia)
+value: 0.001
+label: oz
+value: 0.004
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: shell
+value: 0.0
+label: taco
+value: 0.0
+label: medium (approx 5\ dia)
+value: 0.0
+label: large (6-1/2\ dia)
+value: 0.0
+label: miniature (3\ dia)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.005
+label: shell
+value: 0.001
+label: taco
+value: 0.001
+label: medium (approx 5\ dia)
+value: 0.001
+label: large (6-1/2\ dia)
+value: 0.001
+label: miniature (3\ dia)
+value: 0.0
+label: oz
+value: 0.001
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.0
+label: shell
+value: 0.0
+label: taco
+value: 0.0
+label: medium (approx 5\ dia)
+value: 0.0
+label: large (6-1/2\ dia)
+value: 0.0
+label: miniature (3\ dia)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 20:3 n-6
+unit: g
+value: 0.0
+label: shell
+value: 0.0
+label: taco
+value: 0.0
+label: medium (approx 5\ dia)
+value: 0.0
+label: large (6-1/2\ dia)
+value: 0.0
+label: miniature (3\ dia)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: shell
+value: 0.0
+label: taco
+value: 0.0
+label: medium (approx 5\ dia)
+value: 0.0
+label: large (6-1/2\ dia)
+value: 0.0
+label: miniature (3\ dia)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: shell
+value: 0.0
+label: taco
+value: 0.0
+label: medium (approx 5\ dia)
+value: 0.0
+label: large (6-1/2\ dia)
+value: 0.0
+label: miniature (3\ dia)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 22:4
+unit: g
+value: 0.0
+label: shell
+value: 0.0
+label: taco
+value: 0.0
+label: medium (approx 5\ dia)
+value: 0.0
+label: large (6-1/2\ dia)
+value: 0.0
+label: miniature (3\ dia)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: shell
+value: 0.0
+label: taco
+value: 0.0
+label: medium (approx 5\ dia)
+value: 0.0
+label: large (6-1/2\ dia)
+value: 0.0
+label: miniature (3\ dia)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: shell
+value: 0.0
+label: taco
+value: 0.0
+label: medium (approx 5\ dia)
+value: 0.0
+label: large (6-1/2\ dia)
+value: 0.0
+label: miniature (3\ dia)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.172
+label: shell
+value: 0.022
+label: taco
+value: 0.022
+label: medium (approx 5\ dia)
+value: 0.023
+label: large (6-1/2\ dia)
+value: 0.036
+label: miniature (3\ dia)
+value: 0.009
+label: oz
+value: 0.049
+
+
+name: Fatty acids, total trans-monoenoic
+unit: g
+value: 0.096
+label: shell
+value: 0.012
+label: taco
+value: 0.012
+label: medium (approx 5\ dia)
+value: 0.013
+label: large (6-1/2\ dia)
+value: 0.02
+label: miniature (3\ dia)
+value: 0.005
+label: oz
+value: 0.027
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: shell
+value: 0.0
+label: taco
+value: 0.0
+label: medium (approx 5\ dia)
+value: 0.0
+label: large (6-1/2\ dia)
+value: 0.0
+label: miniature (3\ dia)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Tryptophan
+unit: g
+value: 0.04
+label: shell
+value: 0.005
+label: taco
+value: 0.005
+label: medium (approx 5\ dia)
+value: 0.005
+label: large (6-1/2\ dia)
+value: 0.008
+label: miniature (3\ dia)
+value: 0.002
+label: oz
+value: 0.011
+
+
+name: Threonine
+unit: g
+value: 0.227
+label: shell
+value: 0.029
+label: taco
+value: 0.029
+label: medium (approx 5\ dia)
+value: 0.03
+label: large (6-1/2\ dia)
+value: 0.048
+label: miniature (3\ dia)
+value: 0.011
+label: oz
+value: 0.064
+
+
+name: Isoleucine
+unit: g
+value: 0.22
+label: shell
+value: 0.028
+label: taco
+value: 0.028
+label: medium (approx 5\ dia)
+value: 0.029
+label: large (6-1/2\ dia)
+value: 0.046
+label: miniature (3\ dia)
+value: 0.011
+label: oz
+value: 0.062
+
+
+name: Leucine
+unit: g
+value: 0.837
+label: shell
+value: 0.108
+label: taco
+value: 0.106
+label: medium (approx 5\ dia)
+value: 0.111
+label: large (6-1/2\ dia)
+value: 0.176
+label: miniature (3\ dia)
+value: 0.042
+label: oz
+value: 0.237
+
+
+name: Lysine
+unit: g
+value: 0.197
+label: shell
+value: 0.025
+label: taco
+value: 0.025
+label: medium (approx 5\ dia)
+value: 0.026
+label: large (6-1/2\ dia)
+value: 0.041
+label: miniature (3\ dia)
+value: 0.01
+label: oz
+value: 0.056
+
+
+name: Methionine
+unit: g
+value: 0.18
+label: shell
+value: 0.023
+label: taco
+value: 0.023
+label: medium (approx 5\ dia)
+value: 0.024
+label: large (6-1/2\ dia)
+value: 0.038
+label: miniature (3\ dia)
+value: 0.009
+label: oz
+value: 0.051
+
+
+name: Cystine
+unit: g
+value: 0.14
+label: shell
+value: 0.018
+label: taco
+value: 0.018
+label: medium (approx 5\ dia)
+value: 0.019
+label: large (6-1/2\ dia)
+value: 0.029
+label: miniature (3\ dia)
+value: 0.007
+label: oz
+value: 0.04
+
+
+name: Phenylalanine
+unit: g
+value: 0.29
+label: shell
+value: 0.037
+label: taco
+value: 0.037
+label: medium (approx 5\ dia)
+value: 0.039
+label: large (6-1/2\ dia)
+value: 0.061
+label: miniature (3\ dia)
+value: 0.014
+label: oz
+value: 0.082
+
+
+name: Tyrosine
+unit: g
+value: 0.223
+label: shell
+value: 0.029
+label: taco
+value: 0.028
+label: medium (approx 5\ dia)
+value: 0.03
+label: large (6-1/2\ dia)
+value: 0.047
+label: miniature (3\ dia)
+value: 0.011
+label: oz
+value: 0.063
+
+
+name: Valine
+unit: g
+value: 0.287
+label: shell
+value: 0.037
+label: taco
+value: 0.036
+label: medium (approx 5\ dia)
+value: 0.038
+label: large (6-1/2\ dia)
+value: 0.06
+label: miniature (3\ dia)
+value: 0.014
+label: oz
+value: 0.081
+
+
+name: Arginine
+unit: g
+value: 0.287
+label: shell
+value: 0.037
+label: taco
+value: 0.036
+label: medium (approx 5\ dia)
+value: 0.038
+label: large (6-1/2\ dia)
+value: 0.06
+label: miniature (3\ dia)
+value: 0.014
+label: oz
+value: 0.081
+
+
+name: Histidine
+unit: g
+value: 0.167
+label: shell
+value: 0.022
+label: taco
+value: 0.021
+label: medium (approx 5\ dia)
+value: 0.022
+label: large (6-1/2\ dia)
+value: 0.035
+label: miniature (3\ dia)
+value: 0.008
+label: oz
+value: 0.047
+
+
+name: Alanine
+unit: g
+value: 0.457
+label: shell
+value: 0.059
+label: taco
+value: 0.058
+label: medium (approx 5\ dia)
+value: 0.061
+label: large (6-1/2\ dia)
+value: 0.096
+label: miniature (3\ dia)
+value: 0.023
+label: oz
+value: 0.13
+
+
+name: Aspartic acid
+unit: g
+value: 0.54
+label: shell
+value: 0.07
+label: taco
+value: 0.069
+label: medium (approx 5\ dia)
+value: 0.072
+label: large (6-1/2\ dia)
+value: 0.113
+label: miniature (3\ dia)
+value: 0.027
+label: oz
+value: 0.153
+
+
+name: Glutamic acid
+unit: g
+value: 1.257
+label: shell
+value: 0.162
+label: taco
+value: 0.16
+label: medium (approx 5\ dia)
+value: 0.167
+label: large (6-1/2\ dia)
+value: 0.264
+label: miniature (3\ dia)
+value: 0.063
+label: oz
+value: 0.356
+
+
+name: Glycine
+unit: g
+value: 0.25
+label: shell
+value: 0.032
+label: taco
+value: 0.032
+label: medium (approx 5\ dia)
+value: 0.033
+label: large (6-1/2\ dia)
+value: 0.052
+label: miniature (3\ dia)
+value: 0.012
+label: oz
+value: 0.071
+
+
+name: Proline
+unit: g
+value: 0.77
+label: shell
+value: 0.099
+label: taco
+value: 0.098
+label: medium (approx 5\ dia)
+value: 0.102
+label: large (6-1/2\ dia)
+value: 0.162
+label: miniature (3\ dia)
+value: 0.038
+label: oz
+value: 0.218
+
+
+name: Serine
+unit: g
+value: 0.367
+label: shell
+value: 0.047
+label: taco
+value: 0.047
+label: medium (approx 5\ dia)
+value: 0.049
+label: large (6-1/2\ dia)
+value: 0.077
+label: miniature (3\ dia)
+value: 0.018
+label: oz
+value: 0.104
+
+
+name: Hydroxyproline
+unit: g
+value: 0.0
+label: shell
+value: 0.0
+label: taco
+value: 0.0
+label: medium (approx 5\ dia)
+value: 0.0
+label: large (6-1/2\ dia)
+value: 0.0
+label: miniature (3\ dia)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: shell
+value: 0.0
+label: taco
+value: 0.0
+label: medium (approx 5\ dia)
+value: 0.0
+label: large (6-1/2\ dia)
+value: 0.0
+label: miniature (3\ dia)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: shell
+value: 0.0
+label: taco
+value: 0.0
+label: medium (approx 5\ dia)
+value: 0.0
+label: large (6-1/2\ dia)
+value: 0.0
+label: miniature (3\ dia)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: shell
+value: 0.0
+label: taco
+value: 0.0
+label: medium (approx 5\ dia)
+value: 0.0
+label: large (6-1/2\ dia)
+value: 0.0
+label: miniature (3\ dia)
+value: 0.0
+label: oz
+value: 0.0
+

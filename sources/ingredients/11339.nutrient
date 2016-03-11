@@ -1,0 +1,727 @@
+ndbno: 11339
+
+
+name: Peppers, sweet, green, sauteed
+
+
+name: Water
+unit: g
+value: 82.65
+label: cup chopped
+value: 95.05
+
+
+name: Energy
+unit: kcal
+value: 127.0
+label: cup chopped
+value: 146.0
+
+
+name: Energy
+unit: kJ
+value: 530.0
+label: cup chopped
+value: 610.0
+
+
+name: Protein
+unit: g
+value: 0.78
+label: cup chopped
+value: 0.9
+
+
+name: Total lipid (fat)
+unit: g
+value: 11.85
+label: cup chopped
+value: 13.63
+
+
+name: Ash
+unit: g
+value: 0.5
+label: cup chopped
+value: 0.58
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 4.22
+label: cup chopped
+value: 4.85
+
+
+name: Fiber, total dietary
+unit: g
+value: 1.8
+label: cup chopped
+value: 2.1
+
+
+name: Sugars, total
+unit: g
+value: 2.17
+label: cup chopped
+value: 2.5
+
+
+name: Sucrose
+unit: g
+value: 0.0
+label: cup chopped
+value: 0.0
+
+
+name: Glucose (dextrose)
+unit: g
+value: 1.09
+label: cup chopped
+value: 1.25
+
+
+name: Fructose
+unit: g
+value: 1.08
+label: cup chopped
+value: 1.24
+
+
+name: Lactose
+unit: g
+value: 0.0
+label: cup chopped
+value: 0.0
+
+
+name: Maltose
+unit: g
+value: 0.0
+label: cup chopped
+value: 0.0
+
+
+name: Galactose
+unit: g
+value: 0.0
+label: cup chopped
+value: 0.0
+
+
+name: Starch
+unit: g
+value: 0.0
+label: cup chopped
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 8.0
+label: cup chopped
+value: 9.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.3
+label: cup chopped
+value: 0.34
+
+
+name: Magnesium, Mg
+unit: mg
+value: 8.0
+label: cup chopped
+value: 9.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 15.0
+label: cup chopped
+value: 17.0
+
+
+name: Potassium, K
+unit: mg
+value: 134.0
+label: cup chopped
+value: 154.0
+
+
+name: Sodium, Na
+unit: mg
+value: 17.0
+label: cup chopped
+value: 20.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.06
+label: cup chopped
+value: 0.07
+
+
+name: Copper, Cu
+unit: mg
+value: 0.017
+label: cup chopped
+value: 0.02
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.062
+label: cup chopped
+value: 0.071
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 0.6
+label: cup chopped
+value: 0.7
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 177.0
+label: cup chopped
+value: 203.6
+
+
+name: Thiamin
+unit: mg
+value: 0.042
+label: cup chopped
+value: 0.048
+
+
+name: Riboflavin
+unit: mg
+value: 0.048
+label: cup chopped
+value: 0.055
+
+
+name: Niacin
+unit: mg
+value: 0.582
+label: cup chopped
+value: 0.669
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.111
+label: cup chopped
+value: 0.128
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.196
+label: cup chopped
+value: 0.225
+
+
+name: Folate, total
+unit: \u00B5g
+value: 2.0
+label: cup chopped
+value: 2.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 2.0
+label: cup chopped
+value: 2.0
+
+
+name: Choline, total
+unit: mg
+value: 4.8
+label: cup chopped
+value: 5.5
+
+
+name: Betaine
+unit: mg
+value: 0.1
+label: cup chopped
+value: 0.1
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: cup chopped
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 14.0
+label: cup chopped
+value: 16.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: cup chopped
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 135.0
+label: cup chopped
+value: 155.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 42.0
+label: cup chopped
+value: 48.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 17.0
+label: cup chopped
+value: 20.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 273.0
+label: cup chopped
+value: 314.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: cup chopped
+value: 0.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 1.4
+label: cup chopped
+value: 1.61
+
+
+name: Tocopherol, beta
+unit: mg
+value: 0.07
+label: cup chopped
+value: 0.08
+
+
+name: Tocopherol, gamma
+unit: mg
+value: 7.55
+label: cup chopped
+value: 8.68
+
+
+name: Tocopherol, delta
+unit: mg
+value: 2.3
+label: cup chopped
+value: 2.64
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: cup chopped
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: cup chopped
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 21.3
+label: cup chopped
+value: 24.5
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 1.59
+label: cup chopped
+value: 1.829
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: cup chopped
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: cup chopped
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: cup chopped
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: cup chopped
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: cup chopped
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.0
+label: cup chopped
+value: 0.0
+
+
+name: 15:0
+unit: g
+value: 0.0
+label: cup chopped
+value: 0.0
+
+
+name: 16:0
+unit: g
+value: 1.1
+label: cup chopped
+value: 1.265
+
+
+name: 17:0
+unit: g
+value: 0.0
+label: cup chopped
+value: 0.0
+
+
+name: 18:0
+unit: g
+value: 0.42
+label: cup chopped
+value: 0.483
+
+
+name: 20:0
+unit: g
+value: 0.035
+label: cup chopped
+value: 0.04
+
+
+name: 22:0
+unit: g
+value: 0.035
+label: cup chopped
+value: 0.04
+
+
+name: 24:0
+unit: g
+value: 0.0
+label: cup chopped
+value: 0.0
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 2.337
+label: cup chopped
+value: 2.688
+
+
+name: 14:1
+unit: g
+value: 0.0
+label: cup chopped
+value: 0.0
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: cup chopped
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.002
+label: cup chopped
+value: 0.002
+
+
+name: 17:1
+unit: g
+value: 0.0
+label: cup chopped
+value: 0.0
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 2.31
+label: cup chopped
+value: 2.657
+
+
+name: 20:1
+unit: g
+value: 0.025
+label: cup chopped
+value: 0.029
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: cup chopped
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 5.9
+label: cup chopped
+value: 6.785
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 5.13
+label: cup chopped
+value: 5.9
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.77
+label: cup chopped
+value: 0.886
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: cup chopped
+value: 0.0
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.0
+label: cup chopped
+value: 0.0
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.0
+label: cup chopped
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: cup chopped
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: cup chopped
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: cup chopped
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: cup chopped
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.0
+label: cup chopped
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: cup chopped
+value: 0.0
+
+
+name: Tryptophan
+unit: g
+value: 0.011
+label: cup chopped
+value: 0.013
+
+
+name: Threonine
+unit: g
+value: 0.033
+label: cup chopped
+value: 0.038
+
+
+name: Isoleucine
+unit: g
+value: 0.022
+label: cup chopped
+value: 0.025
+
+
+name: Leucine
+unit: g
+value: 0.033
+label: cup chopped
+value: 0.038
+
+
+name: Lysine
+unit: g
+value: 0.036
+label: cup chopped
+value: 0.041
+
+
+name: Methionine
+unit: g
+value: 0.007
+label: cup chopped
+value: 0.008
+
+
+name: Cystine
+unit: g
+value: 0.011
+label: cup chopped
+value: 0.013
+
+
+name: Phenylalanine
+unit: g
+value: 0.084
+label: cup chopped
+value: 0.097
+
+
+name: Tyrosine
+unit: g
+value: 0.011
+label: cup chopped
+value: 0.013
+
+
+name: Valine
+unit: g
+value: 0.033
+label: cup chopped
+value: 0.038
+
+
+name: Arginine
+unit: g
+value: 0.024
+label: cup chopped
+value: 0.028
+
+
+name: Histidine
+unit: g
+value: 0.009
+label: cup chopped
+value: 0.01
+
+
+name: Alanine
+unit: g
+value: 0.033
+label: cup chopped
+value: 0.038
+
+
+name: Aspartic acid
+unit: g
+value: 0.189
+label: cup chopped
+value: 0.217
+
+
+name: Glutamic acid
+unit: g
+value: 0.176
+label: cup chopped
+value: 0.202
+
+
+name: Glycine
+unit: g
+value: 0.027
+label: cup chopped
+value: 0.031
+
+
+name: Proline
+unit: g
+value: 0.022
+label: cup chopped
+value: 0.025
+
+
+name: Serine
+unit: g
+value: 0.049
+label: cup chopped
+value: 0.056
+
+

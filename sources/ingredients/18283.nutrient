@@ -1,0 +1,1520 @@
+ndbno: 18283
+
+
+name: Muffins, oat bran
+
+
+name: Water
+unit: g
+value: 35.0
+label: oz
+value: 9.92
+label: mini
+value: 5.95
+label: small
+value: 23.1
+label: medium
+value: 39.55
+label: large
+value: 48.65
+label: extra large
+value: 58.8
+
+
+name: Energy
+unit: kcal
+value: 270.0
+label: oz
+value: 77.0
+label: mini
+value: 46.0
+label: small
+value: 178.0
+label: medium
+value: 305.0
+label: large
+value: 375.0
+label: extra large
+value: 454.0
+
+
+name: Energy
+unit: kJ
+value: 1130.0
+label: oz
+value: 320.0
+label: mini
+value: 192.0
+label: small
+value: 746.0
+label: medium
+value: 1277.0
+label: large
+value: 1571.0
+label: extra large
+value: 1898.0
+
+
+name: Protein
+unit: g
+value: 7.0
+label: oz
+value: 1.98
+label: mini
+value: 1.19
+label: small
+value: 4.62
+label: medium
+value: 7.91
+label: large
+value: 9.73
+label: extra large
+value: 11.76
+
+
+name: Total lipid (fat)
+unit: g
+value: 7.4
+label: oz
+value: 2.1
+label: mini
+value: 1.26
+label: small
+value: 4.88
+label: medium
+value: 8.36
+label: large
+value: 10.29
+label: extra large
+value: 12.43
+
+
+name: Ash
+unit: g
+value: 2.3
+label: oz
+value: 0.65
+label: mini
+value: 0.39
+label: small
+value: 1.52
+label: medium
+value: 2.6
+label: large
+value: 3.2
+label: extra large
+value: 3.86
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 48.3
+label: oz
+value: 13.69
+label: mini
+value: 8.21
+label: small
+value: 31.88
+label: medium
+value: 54.58
+label: large
+value: 67.14
+label: extra large
+value: 81.14
+
+
+name: Fiber, total dietary
+unit: g
+value: 4.6
+label: oz
+value: 1.3
+label: mini
+value: 0.8
+label: small
+value: 3.0
+label: medium
+value: 5.2
+label: large
+value: 6.4
+label: extra large
+value: 7.7
+
+
+name: Sugars, total
+unit: g
+value: 8.22
+label: oz
+value: 2.33
+label: mini
+value: 1.4
+label: small
+value: 5.43
+label: medium
+value: 9.29
+label: large
+value: 11.43
+label: extra large
+value: 13.81
+
+
+name: Calcium, Ca
+unit: mg
+value: 63.0
+label: oz
+value: 18.0
+label: mini
+value: 11.0
+label: small
+value: 42.0
+label: medium
+value: 71.0
+label: large
+value: 88.0
+label: extra large
+value: 106.0
+
+
+name: Iron, Fe
+unit: mg
+value: 4.2
+label: oz
+value: 1.19
+label: mini
+value: 0.71
+label: small
+value: 2.77
+label: medium
+value: 4.75
+label: large
+value: 5.84
+label: extra large
+value: 7.06
+
+
+name: Magnesium, Mg
+unit: mg
+value: 157.0
+label: oz
+value: 45.0
+label: mini
+value: 27.0
+label: small
+value: 104.0
+label: medium
+value: 177.0
+label: large
+value: 218.0
+label: extra large
+value: 264.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 376.0
+label: oz
+value: 107.0
+label: mini
+value: 64.0
+label: small
+value: 248.0
+label: medium
+value: 425.0
+label: large
+value: 523.0
+label: extra large
+value: 632.0
+
+
+name: Potassium, K
+unit: mg
+value: 507.0
+label: oz
+value: 144.0
+label: mini
+value: 86.0
+label: small
+value: 335.0
+label: medium
+value: 573.0
+label: large
+value: 705.0
+label: extra large
+value: 852.0
+
+
+name: Sodium, Na
+unit: mg
+value: 393.0
+label: oz
+value: 111.0
+label: mini
+value: 67.0
+label: small
+value: 259.0
+label: medium
+value: 444.0
+label: large
+value: 546.0
+label: extra large
+value: 660.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 1.84
+label: oz
+value: 0.52
+label: mini
+value: 0.31
+label: small
+value: 1.21
+label: medium
+value: 2.08
+label: large
+value: 2.56
+label: extra large
+value: 3.09
+
+
+name: Copper, Cu
+unit: mg
+value: 0.33
+label: oz
+value: 0.094
+label: mini
+value: 0.056
+label: small
+value: 0.218
+label: medium
+value: 0.373
+label: large
+value: 0.459
+label: extra large
+value: 0.554
+
+
+name: Manganese, Mn
+unit: mg
+value: 2.63
+label: oz
+value: 0.746
+label: mini
+value: 0.447
+label: small
+value: 1.736
+label: medium
+value: 2.972
+label: large
+value: 3.656
+label: extra large
+value: 4.418
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 11.0
+label: oz
+value: 3.1
+label: mini
+value: 1.9
+label: small
+value: 7.3
+label: medium
+value: 12.4
+label: large
+value: 15.3
+label: extra large
+value: 18.5
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: mini
+value: 0.0
+label: small
+value: 0.0
+label: medium
+value: 0.0
+label: large
+value: 0.0
+label: extra large
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.262
+label: oz
+value: 0.074
+label: mini
+value: 0.045
+label: small
+value: 0.173
+label: medium
+value: 0.296
+label: large
+value: 0.364
+label: extra large
+value: 0.44
+
+
+name: Riboflavin
+unit: mg
+value: 0.095
+label: oz
+value: 0.027
+label: mini
+value: 0.016
+label: small
+value: 0.063
+label: medium
+value: 0.107
+label: large
+value: 0.132
+label: extra large
+value: 0.16
+
+
+name: Niacin
+unit: mg
+value: 0.42
+label: oz
+value: 0.119
+label: mini
+value: 0.071
+label: small
+value: 0.277
+label: medium
+value: 0.475
+label: large
+value: 0.584
+label: extra large
+value: 0.706
+
+
+name: Pantothenic acid
+unit: mg
+value: 1.01
+label: oz
+value: 0.286
+label: mini
+value: 0.172
+label: small
+value: 0.667
+label: medium
+value: 1.141
+label: large
+value: 1.404
+label: extra large
+value: 1.697
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.161
+label: oz
+value: 0.046
+label: mini
+value: 0.027
+label: small
+value: 0.106
+label: medium
+value: 0.182
+label: large
+value: 0.224
+label: extra large
+value: 0.27
+
+
+name: Folate, total
+unit: \u00B5g
+value: 89.0
+label: oz
+value: 25.0
+label: mini
+value: 15.0
+label: small
+value: 59.0
+label: medium
+value: 101.0
+label: large
+value: 124.0
+label: extra large
+value: 150.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 71.0
+label: oz
+value: 20.0
+label: mini
+value: 12.0
+label: small
+value: 47.0
+label: medium
+value: 80.0
+label: large
+value: 99.0
+label: extra large
+value: 119.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 18.0
+label: oz
+value: 5.0
+label: mini
+value: 3.0
+label: small
+value: 12.0
+label: medium
+value: 20.0
+label: large
+value: 25.0
+label: extra large
+value: 30.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 139.0
+label: oz
+value: 39.0
+label: mini
+value: 24.0
+label: small
+value: 92.0
+label: medium
+value: 157.0
+label: large
+value: 193.0
+label: extra large
+value: 234.0
+
+
+name: Choline, total
+unit: mg
+value: 6.6
+label: oz
+value: 1.9
+label: mini
+value: 1.1
+label: small
+value: 4.4
+label: medium
+value: 7.5
+label: large
+value: 9.2
+label: extra large
+value: 11.1
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.01
+label: oz
+value: 0.0
+label: mini
+value: 0.0
+label: small
+value: 0.01
+label: medium
+value: 0.01
+label: large
+value: 0.01
+label: extra large
+value: 0.02
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: mini
+value: 0.0
+label: small
+value: 0.0
+label: medium
+value: 0.0
+label: large
+value: 0.0
+label: extra large
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: mini
+value: 0.0
+label: small
+value: 0.0
+label: medium
+value: 0.0
+label: large
+value: 0.0
+label: extra large
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: mini
+value: 0.0
+label: small
+value: 0.0
+label: medium
+value: 0.0
+label: large
+value: 0.0
+label: extra large
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: mini
+value: 0.0
+label: small
+value: 0.0
+label: medium
+value: 0.0
+label: large
+value: 0.0
+label: extra large
+value: 0.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: mini
+value: 0.0
+label: small
+value: 0.0
+label: medium
+value: 0.0
+label: large
+value: 0.0
+label: extra large
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: mini
+value: 0.0
+label: small
+value: 0.0
+label: medium
+value: 0.0
+label: large
+value: 0.0
+label: extra large
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 0.0
+label: oz
+value: 0.0
+label: mini
+value: 0.0
+label: small
+value: 0.0
+label: medium
+value: 0.0
+label: large
+value: 0.0
+label: extra large
+value: 0.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: mini
+value: 0.0
+label: small
+value: 0.0
+label: medium
+value: 0.0
+label: large
+value: 0.0
+label: extra large
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 13.0
+label: oz
+value: 4.0
+label: mini
+value: 2.0
+label: small
+value: 9.0
+label: medium
+value: 15.0
+label: large
+value: 18.0
+label: extra large
+value: 22.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.66
+label: oz
+value: 0.19
+label: mini
+value: 0.11
+label: small
+value: 0.44
+label: medium
+value: 0.75
+label: large
+value: 0.92
+label: extra large
+value: 1.11
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: mini
+value: 0.0
+label: small
+value: 0.0
+label: medium
+value: 0.0
+label: large
+value: 0.0
+label: extra large
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: mini
+value: 0.0
+label: small
+value: 0.0
+label: medium
+value: 0.0
+label: large
+value: 0.0
+label: extra large
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: oz
+value: 0.0
+label: mini
+value: 0.0
+label: small
+value: 0.0
+label: medium
+value: 0.0
+label: large
+value: 0.0
+label: extra large
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 13.0
+label: oz
+value: 3.7
+label: mini
+value: 2.2
+label: small
+value: 8.6
+label: medium
+value: 14.7
+label: large
+value: 18.1
+label: extra large
+value: 21.8
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 1.087
+label: oz
+value: 0.308
+label: mini
+value: 0.185
+label: small
+value: 0.717
+label: medium
+value: 1.228
+label: large
+value: 1.511
+label: extra large
+value: 1.826
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: mini
+value: 0.0
+label: small
+value: 0.0
+label: medium
+value: 0.0
+label: large
+value: 0.0
+label: extra large
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: mini
+value: 0.0
+label: small
+value: 0.0
+label: medium
+value: 0.0
+label: large
+value: 0.0
+label: extra large
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: mini
+value: 0.0
+label: small
+value: 0.0
+label: medium
+value: 0.0
+label: large
+value: 0.0
+label: extra large
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: mini
+value: 0.0
+label: small
+value: 0.0
+label: medium
+value: 0.0
+label: large
+value: 0.0
+label: extra large
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.002
+label: oz
+value: 0.001
+label: mini
+value: 0.0
+label: small
+value: 0.001
+label: medium
+value: 0.002
+label: large
+value: 0.003
+label: extra large
+value: 0.003
+
+
+name: 14:0
+unit: g
+value: 0.008
+label: oz
+value: 0.002
+label: mini
+value: 0.001
+label: small
+value: 0.005
+label: medium
+value: 0.009
+label: large
+value: 0.011
+label: extra large
+value: 0.013
+
+
+name: 16:0
+unit: g
+value: 0.803
+label: oz
+value: 0.228
+label: mini
+value: 0.137
+label: small
+value: 0.53
+label: medium
+value: 0.907
+label: large
+value: 1.116
+label: extra large
+value: 1.349
+
+
+name: 18:0
+unit: g
+value: 0.252
+label: oz
+value: 0.071
+label: mini
+value: 0.043
+label: small
+value: 0.166
+label: medium
+value: 0.285
+label: large
+value: 0.35
+label: extra large
+value: 0.423
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 1.695
+label: oz
+value: 0.481
+label: mini
+value: 0.288
+label: small
+value: 1.119
+label: medium
+value: 1.915
+label: large
+value: 2.356
+label: extra large
+value: 2.848
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.016
+label: oz
+value: 0.005
+label: mini
+value: 0.003
+label: small
+value: 0.011
+label: medium
+value: 0.018
+label: large
+value: 0.022
+label: extra large
+value: 0.027
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 1.661
+label: oz
+value: 0.471
+label: mini
+value: 0.282
+label: small
+value: 1.096
+label: medium
+value: 1.877
+label: large
+value: 2.309
+label: extra large
+value: 2.79
+
+
+name: 20:1
+unit: g
+value: 0.013
+label: oz
+value: 0.004
+label: mini
+value: 0.002
+label: small
+value: 0.009
+label: medium
+value: 0.015
+label: large
+value: 0.018
+label: extra large
+value: 0.022
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: mini
+value: 0.0
+label: small
+value: 0.0
+label: medium
+value: 0.0
+label: large
+value: 0.0
+label: extra large
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 4.129
+label: oz
+value: 1.171
+label: mini
+value: 0.702
+label: small
+value: 2.725
+label: medium
+value: 4.666
+label: large
+value: 5.739
+label: extra large
+value: 6.937
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 3.664
+label: oz
+value: 1.039
+label: mini
+value: 0.623
+label: small
+value: 2.418
+label: medium
+value: 4.14
+label: large
+value: 5.093
+label: extra large
+value: 6.156
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.458
+label: oz
+value: 0.13
+label: mini
+value: 0.078
+label: small
+value: 0.302
+label: medium
+value: 0.518
+label: large
+value: 0.637
+label: extra large
+value: 0.769
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: mini
+value: 0.0
+label: small
+value: 0.0
+label: medium
+value: 0.0
+label: large
+value: 0.0
+label: extra large
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: mini
+value: 0.0
+label: small
+value: 0.0
+label: medium
+value: 0.0
+label: large
+value: 0.0
+label: extra large
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: mini
+value: 0.0
+label: small
+value: 0.0
+label: medium
+value: 0.0
+label: large
+value: 0.0
+label: extra large
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: mini
+value: 0.0
+label: small
+value: 0.0
+label: medium
+value: 0.0
+label: large
+value: 0.0
+label: extra large
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: mini
+value: 0.0
+label: small
+value: 0.0
+label: medium
+value: 0.0
+label: large
+value: 0.0
+label: extra large
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: mini
+value: 0.0
+label: small
+value: 0.0
+label: medium
+value: 0.0
+label: large
+value: 0.0
+label: extra large
+value: 0.0
+
+
+name: Tryptophan
+unit: g
+value: 0.105
+label: oz
+value: 0.03
+label: mini
+value: 0.018
+label: small
+value: 0.069
+label: medium
+value: 0.119
+label: large
+value: 0.146
+label: extra large
+value: 0.176
+
+
+name: Threonine
+unit: g
+value: 0.21
+label: oz
+value: 0.06
+label: mini
+value: 0.036
+label: small
+value: 0.139
+label: medium
+value: 0.237
+label: large
+value: 0.292
+label: extra large
+value: 0.353
+
+
+name: Isoleucine
+unit: g
+value: 0.262
+label: oz
+value: 0.074
+label: mini
+value: 0.045
+label: small
+value: 0.173
+label: medium
+value: 0.296
+label: large
+value: 0.364
+label: extra large
+value: 0.44
+
+
+name: Leucine
+unit: g
+value: 0.506
+label: oz
+value: 0.143
+label: mini
+value: 0.086
+label: small
+value: 0.334
+label: medium
+value: 0.572
+label: large
+value: 0.703
+label: extra large
+value: 0.85
+
+
+name: Lysine
+unit: g
+value: 0.277
+label: oz
+value: 0.079
+label: mini
+value: 0.047
+label: small
+value: 0.183
+label: medium
+value: 0.313
+label: large
+value: 0.385
+label: extra large
+value: 0.465
+
+
+name: Methionine
+unit: g
+value: 0.123
+label: oz
+value: 0.035
+label: mini
+value: 0.021
+label: small
+value: 0.081
+label: medium
+value: 0.139
+label: large
+value: 0.171
+label: extra large
+value: 0.207
+
+
+name: Cystine
+unit: g
+value: 0.182
+label: oz
+value: 0.052
+label: mini
+value: 0.031
+label: small
+value: 0.12
+label: medium
+value: 0.206
+label: large
+value: 0.253
+label: extra large
+value: 0.306
+
+
+name: Phenylalanine
+unit: g
+value: 0.346
+label: oz
+value: 0.098
+label: mini
+value: 0.059
+label: small
+value: 0.228
+label: medium
+value: 0.391
+label: large
+value: 0.481
+label: extra large
+value: 0.581
+
+
+name: Tyrosine
+unit: g
+value: 0.234
+label: oz
+value: 0.066
+label: mini
+value: 0.04
+label: small
+value: 0.154
+label: medium
+value: 0.264
+label: large
+value: 0.325
+label: extra large
+value: 0.393
+
+
+name: Valine
+unit: g
+value: 0.364
+label: oz
+value: 0.103
+label: mini
+value: 0.062
+label: small
+value: 0.24
+label: medium
+value: 0.411
+label: large
+value: 0.506
+label: extra large
+value: 0.612
+
+
+name: Arginine
+unit: g
+value: 0.472
+label: oz
+value: 0.134
+label: mini
+value: 0.08
+label: small
+value: 0.312
+label: medium
+value: 0.533
+label: large
+value: 0.656
+label: extra large
+value: 0.793
+
+
+name: Histidine
+unit: g
+value: 0.156
+label: oz
+value: 0.044
+label: mini
+value: 0.027
+label: small
+value: 0.103
+label: medium
+value: 0.176
+label: large
+value: 0.217
+label: extra large
+value: 0.262
+
+
+name: Alanine
+unit: g
+value: 0.337
+label: oz
+value: 0.096
+label: mini
+value: 0.057
+label: small
+value: 0.222
+label: medium
+value: 0.381
+label: large
+value: 0.468
+label: extra large
+value: 0.566
+
+
+name: Aspartic acid
+unit: g
+value: 0.576
+label: oz
+value: 0.163
+label: mini
+value: 0.098
+label: small
+value: 0.38
+label: medium
+value: 0.651
+label: large
+value: 0.801
+label: extra large
+value: 0.968
+
+
+name: Glutamic acid
+unit: g
+value: 1.43
+label: oz
+value: 0.405
+label: mini
+value: 0.243
+label: small
+value: 0.944
+label: medium
+value: 1.616
+label: large
+value: 1.988
+label: extra large
+value: 2.402
+
+
+name: Glycine
+unit: g
+value: 0.338
+label: oz
+value: 0.096
+label: mini
+value: 0.057
+label: small
+value: 0.223
+label: medium
+value: 0.382
+label: large
+value: 0.47
+label: extra large
+value: 0.568
+
+
+name: Proline
+unit: g
+value: 0.365
+label: oz
+value: 0.103
+label: mini
+value: 0.062
+label: small
+value: 0.241
+label: medium
+value: 0.412
+label: large
+value: 0.507
+label: extra large
+value: 0.613
+
+
+name: Serine
+unit: g
+value: 0.309
+label: oz
+value: 0.088
+label: mini
+value: 0.053
+label: small
+value: 0.204
+label: medium
+value: 0.349
+label: large
+value: 0.43
+label: extra large
+value: 0.519
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: mini
+value: 0.0
+label: small
+value: 0.0
+label: medium
+value: 0.0
+label: large
+value: 0.0
+label: extra large
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: mini
+value: 0.0
+label: small
+value: 0.0
+label: medium
+value: 0.0
+label: large
+value: 0.0
+label: extra large
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: mini
+value: 0.0
+label: small
+value: 0.0
+label: medium
+value: 0.0
+label: large
+value: 0.0
+label: extra large
+value: 0.0
+
+
+

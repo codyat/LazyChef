@@ -1,0 +1,448 @@
+ndbno: 03043
+
+
+name: Babyfood, dinner, beef lasagna, toddler
+
+
+name: Water
+unit: g
+value: 82.3
+label: oz
+value: 23.33
+label: jar
+value: 139.91
+
+
+name: Energy
+unit: kcal
+value: 77.0
+label: oz
+value: 22.0
+label: jar
+value: 131.0
+
+
+name: Energy
+unit: kJ
+value: 322.0
+label: oz
+value: 91.0
+label: jar
+value: 547.0
+
+
+name: Protein
+unit: g
+value: 4.2
+label: oz
+value: 1.19
+label: jar
+value: 7.14
+
+
+name: Total lipid (fat)
+unit: g
+value: 2.1
+label: oz
+value: 0.6
+label: jar
+value: 3.57
+
+
+name: Ash
+unit: g
+value: 1.4
+label: oz
+value: 0.4
+label: jar
+value: 2.38
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 10.0
+label: oz
+value: 2.84
+label: jar
+value: 17.0
+
+
+name: Sugars, total
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: jar
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 18.0
+label: oz
+value: 5.0
+label: jar
+value: 31.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.87
+label: oz
+value: 0.25
+label: jar
+value: 1.48
+
+
+name: Magnesium, Mg
+unit: mg
+value: 11.0
+label: oz
+value: 3.0
+label: jar
+value: 19.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 40.0
+label: oz
+value: 11.0
+label: jar
+value: 68.0
+
+
+name: Potassium, K
+unit: mg
+value: 122.0
+label: oz
+value: 35.0
+label: jar
+value: 207.0
+
+
+name: Sodium, Na
+unit: mg
+value: 41.0
+label: oz
+value: 12.0
+label: jar
+value: 70.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.7
+label: oz
+value: 0.2
+label: jar
+value: 1.19
+
+
+name: Copper, Cu
+unit: mg
+value: 0.097
+label: oz
+value: 0.027
+label: jar
+value: 0.165
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 8.4
+label: oz
+value: 2.4
+label: jar
+value: 14.3
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 1.9
+label: oz
+value: 0.5
+label: jar
+value: 3.2
+
+
+name: Thiamin
+unit: mg
+value: 0.072
+label: oz
+value: 0.02
+label: jar
+value: 0.122
+
+
+name: Riboflavin
+unit: mg
+value: 0.089
+label: oz
+value: 0.025
+label: jar
+value: 0.151
+
+
+name: Niacin
+unit: mg
+value: 1.353
+label: oz
+value: 0.384
+label: jar
+value: 2.3
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.071
+label: oz
+value: 0.02
+label: jar
+value: 0.121
+
+
+name: Folate, total
+unit: \u00B5g
+value: 6.0
+label: oz
+value: 2.0
+label: jar
+value: 10.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: jar
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 6.0
+label: oz
+value: 2.0
+label: jar
+value: 10.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 6.0
+label: oz
+value: 2.0
+label: jar
+value: 10.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.51
+label: oz
+value: 0.14
+label: jar
+value: 0.87
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: jar
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 58.0
+label: oz
+value: 16.0
+label: jar
+value: 99.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: jar
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 1163.0
+label: oz
+value: 330.0
+label: jar
+value: 1977.0
+
+
+name: Tryptophan
+unit: g
+value: 0.047
+label: oz
+value: 0.013
+label: jar
+value: 0.08
+
+
+name: Threonine
+unit: g
+value: 0.163
+label: oz
+value: 0.046
+label: jar
+value: 0.277
+
+
+name: Isoleucine
+unit: g
+value: 0.206
+label: oz
+value: 0.058
+label: jar
+value: 0.35
+
+
+name: Leucine
+unit: g
+value: 0.324
+label: oz
+value: 0.092
+label: jar
+value: 0.551
+
+
+name: Lysine
+unit: g
+value: 0.297
+label: oz
+value: 0.084
+label: jar
+value: 0.505
+
+
+name: Methionine
+unit: g
+value: 0.082
+label: oz
+value: 0.023
+label: jar
+value: 0.139
+
+
+name: Cystine
+unit: g
+value: 0.048
+label: oz
+value: 0.014
+label: jar
+value: 0.082
+
+
+name: Phenylalanine
+unit: g
+value: 0.182
+label: oz
+value: 0.052
+label: jar
+value: 0.309
+
+
+name: Tyrosine
+unit: g
+value: 0.132
+label: oz
+value: 0.037
+label: jar
+value: 0.224
+
+
+name: Valine
+unit: g
+value: 0.231
+label: oz
+value: 0.065
+label: jar
+value: 0.393
+
+
+name: Arginine
+unit: g
+value: 0.253
+label: oz
+value: 0.072
+label: jar
+value: 0.43
+
+
+name: Histidine
+unit: g
+value: 0.102
+label: oz
+value: 0.029
+label: jar
+value: 0.173
+
+
+name: Alanine
+unit: g
+value: 0.265
+label: oz
+value: 0.075
+label: jar
+value: 0.451
+
+
+name: Aspartic acid
+unit: g
+value: 0.353
+label: oz
+value: 0.1
+label: jar
+value: 0.6
+
+
+name: Glutamic acid
+unit: g
+value: 0.889
+label: oz
+value: 0.252
+label: jar
+value: 1.511
+
+
+name: Glycine
+unit: g
+value: 0.279
+label: oz
+value: 0.079
+label: jar
+value: 0.474
+
+
+name: Proline
+unit: g
+value: 0.326
+label: oz
+value: 0.092
+label: jar
+value: 0.554
+
+
+name: Serine
+unit: g
+value: 0.12
+label: oz
+value: 0.034
+label: jar
+value: 0.204
+
+
+

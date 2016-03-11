@@ -1,0 +1,1042 @@
+ndbno: 01130
+
+
+name: Egg, whole, cooked, omelet
+
+
+name: Water
+unit: g
+value: 76.13
+label: tbsp
+value: 11.42
+label: large
+value: 46.44
+
+
+name: Energy
+unit: kcal
+value: 154.0
+label: tbsp
+value: 23.0
+label: large
+value: 94.0
+
+
+name: Energy
+unit: kJ
+value: 643.0
+label: tbsp
+value: 96.0
+label: large
+value: 392.0
+
+
+name: Protein
+unit: g
+value: 10.57
+label: tbsp
+value: 1.59
+label: large
+value: 6.45
+
+
+name: Total lipid (fat)
+unit: g
+value: 11.66
+label: tbsp
+value: 1.75
+label: large
+value: 7.11
+
+
+name: Ash
+unit: g
+value: 1.01
+label: tbsp
+value: 0.15
+label: large
+value: 0.62
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 0.64
+label: tbsp
+value: 0.1
+label: large
+value: 0.39
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+label: large
+value: 0.0
+
+
+name: Sugars, total
+unit: g
+value: 0.31
+label: tbsp
+value: 0.05
+label: large
+value: 0.19
+
+
+name: Sucrose
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+label: large
+value: 0.0
+
+
+name: Glucose (dextrose)
+unit: g
+value: 0.31
+label: tbsp
+value: 0.05
+label: large
+value: 0.19
+
+
+name: Fructose
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+label: large
+value: 0.0
+
+
+name: Lactose
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+label: large
+value: 0.0
+
+
+name: Maltose
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+label: large
+value: 0.0
+
+
+name: Galactose
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+label: large
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 48.0
+label: tbsp
+value: 7.0
+label: large
+value: 29.0
+
+
+name: Iron, Fe
+unit: mg
+value: 1.48
+label: tbsp
+value: 0.22
+label: large
+value: 0.9
+
+
+name: Magnesium, Mg
+unit: mg
+value: 11.0
+label: tbsp
+value: 2.0
+label: large
+value: 7.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 167.0
+label: tbsp
+value: 25.0
+label: large
+value: 102.0
+
+
+name: Potassium, K
+unit: mg
+value: 117.0
+label: tbsp
+value: 18.0
+label: large
+value: 71.0
+
+
+name: Sodium, Na
+unit: mg
+value: 155.0
+label: tbsp
+value: 23.0
+label: large
+value: 95.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 1.09
+label: tbsp
+value: 0.16
+label: large
+value: 0.66
+
+
+name: Copper, Cu
+unit: mg
+value: 0.063
+label: tbsp
+value: 0.009
+label: large
+value: 0.038
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.024
+label: tbsp
+value: 0.004
+label: large
+value: 0.015
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 25.8
+label: tbsp
+value: 3.9
+label: large
+value: 15.7
+
+
+name: Fluoride, F
+unit: \u00B5g
+value: 21.2
+label: tbsp
+value: 3.2
+label: large
+value: 12.9
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: tbsp
+value: 0.0
+label: large
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.034
+label: tbsp
+value: 0.005
+label: large
+value: 0.021
+
+
+name: Riboflavin
+unit: mg
+value: 0.386
+label: tbsp
+value: 0.058
+label: large
+value: 0.235
+
+
+name: Niacin
+unit: mg
+value: 0.064
+label: tbsp
+value: 0.01
+label: large
+value: 0.039
+
+
+name: Pantothenic acid
+unit: mg
+value: 1.289
+label: tbsp
+value: 0.193
+label: large
+value: 0.786
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.143
+label: tbsp
+value: 0.021
+label: large
+value: 0.087
+
+
+name: Folate, total
+unit: \u00B5g
+value: 39.0
+label: tbsp
+value: 6.0
+label: large
+value: 24.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: tbsp
+value: 0.0
+label: large
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 39.0
+label: tbsp
+value: 6.0
+label: large
+value: 24.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 39.0
+label: tbsp
+value: 6.0
+label: large
+value: 24.0
+
+
+name: Choline, total
+unit: mg
+value: 247.6
+label: tbsp
+value: 37.1
+label: large
+value: 151.0
+
+
+name: Betaine
+unit: mg
+value: 0.2
+label: tbsp
+value: 0.0
+label: large
+value: 0.1
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.76
+label: tbsp
+value: 0.11
+label: large
+value: 0.46
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: tbsp
+value: 0.0
+label: large
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 172.0
+label: tbsp
+value: 26.0
+label: large
+value: 105.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 169.0
+label: tbsp
+value: 25.0
+label: large
+value: 103.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 28.0
+label: tbsp
+value: 4.0
+label: large
+value: 17.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: tbsp
+value: 0.0
+label: large
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 8.0
+label: tbsp
+value: 1.0
+label: large
+value: 5.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 617.0
+label: tbsp
+value: 93.0
+label: large
+value: 376.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: tbsp
+value: 0.0
+label: large
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 423.0
+label: tbsp
+value: 63.0
+label: large
+value: 258.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 1.29
+label: tbsp
+value: 0.19
+label: large
+value: 0.79
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: tbsp
+value: 0.0
+label: large
+value: 0.0
+
+
+name: Tocopherol, beta
+unit: mg
+value: 0.03
+label: tbsp
+value: 0.0
+label: large
+value: 0.02
+
+
+name: Tocopherol, gamma
+unit: mg
+value: 2.41
+label: tbsp
+value: 0.36
+label: large
+value: 1.47
+
+
+name: Tocopherol, delta
+unit: mg
+value: 0.74
+label: tbsp
+value: 0.11
+label: large
+value: 0.45
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 1.7
+label: tbsp
+value: 0.3
+label: large
+value: 1.0
+
+
+name: Vitamin D3 (cholecalciferol)
+unit: \u00B5g
+value: 1.7
+label: tbsp
+value: 0.3
+label: large
+value: 1.0
+
+
+name: Vitamin D
+unit: IU
+value: 69.0
+label: tbsp
+value: 10.0
+label: large
+value: 42.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 4.5
+label: tbsp
+value: 0.7
+label: large
+value: 2.7
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 3.319
+label: tbsp
+value: 0.498
+label: large
+value: 2.025
+
+
+name: 4:0
+unit: g
+value: 0.003
+label: tbsp
+value: 0.0
+label: large
+value: 0.002
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+label: large
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.003
+label: tbsp
+value: 0.0
+label: large
+value: 0.002
+
+
+name: 10:0
+unit: g
+value: 0.005
+label: tbsp
+value: 0.001
+label: large
+value: 0.003
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+label: large
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.03
+label: tbsp
+value: 0.004
+label: large
+value: 0.018
+
+
+name: 15:0
+unit: g
+value: 0.008
+label: tbsp
+value: 0.001
+label: large
+value: 0.005
+
+
+name: 16:0
+unit: g
+value: 2.259
+label: tbsp
+value: 0.339
+label: large
+value: 1.378
+
+
+name: 17:0
+unit: g
+value: 0.021
+label: tbsp
+value: 0.003
+label: large
+value: 0.013
+
+
+name: 18:0
+unit: g
+value: 0.963
+label: tbsp
+value: 0.144
+label: large
+value: 0.587
+
+
+name: 20:0
+unit: g
+value: 0.014
+label: tbsp
+value: 0.002
+label: large
+value: 0.009
+
+
+name: 22:0
+unit: g
+value: 0.009
+label: tbsp
+value: 0.001
+label: large
+value: 0.005
+
+
+name: 24:0
+unit: g
+value: 0.004
+label: tbsp
+value: 0.001
+label: large
+value: 0.002
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 4.843
+label: tbsp
+value: 0.726
+label: large
+value: 2.954
+
+
+name: 14:1
+unit: g
+value: 0.006
+label: tbsp
+value: 0.001
+label: large
+value: 0.004
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+label: large
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.171
+label: tbsp
+value: 0.026
+label: large
+value: 0.104
+
+
+name: 17:1
+unit: g
+value: 0.012
+label: tbsp
+value: 0.002
+label: large
+value: 0.007
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 4.626
+label: tbsp
+value: 0.694
+label: large
+value: 2.822
+
+
+name: 20:1
+unit: g
+value: 0.029
+label: tbsp
+value: 0.004
+label: large
+value: 0.018
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+label: large
+value: 0.0
+
+
+name: 24:1 c
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+label: large
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 2.712
+label: tbsp
+value: 0.407
+label: large
+value: 1.654
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 2.319
+label: tbsp
+value: 0.348
+label: large
+value: 1.415
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.133
+label: tbsp
+value: 0.02
+label: large
+value: 0.081
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+label: large
+value: 0.0
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.015
+label: tbsp
+value: 0.002
+label: large
+value: 0.009
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.02
+label: tbsp
+value: 0.003
+label: large
+value: 0.012
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.158
+label: tbsp
+value: 0.024
+label: large
+value: 0.096
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+label: large
+value: 0.0
+
+
+name: 22:4
+unit: g
+value: 0.011
+label: tbsp
+value: 0.002
+label: large
+value: 0.007
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.006
+label: tbsp
+value: 0.001
+label: large
+value: 0.004
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.049
+label: tbsp
+value: 0.007
+label: large
+value: 0.03
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.709
+label: tbsp
+value: 0.106
+label: large
+value: 0.432
+
+
+name: Cholesterol
+unit: mg
+value: 313.0
+label: tbsp
+value: 47.0
+label: large
+value: 191.0
+
+
+name: Phytosterols
+unit: mg
+value: 10.0
+label: tbsp
+value: 2.0
+label: large
+value: 6.0
+
+
+name: Tryptophan
+unit: g
+value: 0.14
+label: tbsp
+value: 0.021
+label: large
+value: 0.085
+
+
+name: Threonine
+unit: g
+value: 0.467
+label: tbsp
+value: 0.07
+label: large
+value: 0.285
+
+
+name: Isoleucine
+unit: g
+value: 0.565
+label: tbsp
+value: 0.085
+label: large
+value: 0.345
+
+
+name: Leucine
+unit: g
+value: 0.913
+label: tbsp
+value: 0.137
+label: large
+value: 0.557
+
+
+name: Lysine
+unit: g
+value: 0.767
+label: tbsp
+value: 0.115
+label: large
+value: 0.468
+
+
+name: Methionine
+unit: g
+value: 0.319
+label: tbsp
+value: 0.048
+label: large
+value: 0.195
+
+
+name: Cystine
+unit: g
+value: 0.229
+label: tbsp
+value: 0.034
+label: large
+value: 0.14
+
+
+name: Phenylalanine
+unit: g
+value: 0.572
+label: tbsp
+value: 0.086
+label: large
+value: 0.349
+
+
+name: Tyrosine
+unit: g
+value: 0.42
+label: tbsp
+value: 0.063
+label: large
+value: 0.256
+
+
+name: Valine
+unit: g
+value: 0.722
+label: tbsp
+value: 0.108
+label: large
+value: 0.44
+
+
+name: Arginine
+unit: g
+value: 0.69
+label: tbsp
+value: 0.104
+label: large
+value: 0.421
+
+
+name: Histidine
+unit: g
+value: 0.26
+label: tbsp
+value: 0.039
+label: large
+value: 0.159
+
+
+name: Alanine
+unit: g
+value: 0.618
+label: tbsp
+value: 0.093
+label: large
+value: 0.377
+
+
+name: Aspartic acid
+unit: g
+value: 1.117
+label: tbsp
+value: 0.168
+label: large
+value: 0.681
+
+
+name: Glutamic acid
+unit: g
+value: 1.407
+label: tbsp
+value: 0.211
+label: large
+value: 0.858
+
+
+name: Glycine
+unit: g
+value: 0.363
+label: tbsp
+value: 0.054
+label: large
+value: 0.221
+
+
+name: Proline
+unit: g
+value: 0.431
+label: tbsp
+value: 0.065
+label: large
+value: 0.263
+
+
+name: Serine
+unit: g
+value: 0.817
+label: tbsp
+value: 0.123
+label: large
+value: 0.498
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+label: large
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: tbsp
+value: 0.0
+label: large
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: tbsp
+value: 0.0
+label: large
+value: 0.0
+
+
+

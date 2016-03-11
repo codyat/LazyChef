@@ -1,0 +1,780 @@
+ndbno: 13320
+
+
+name: Beef, variety meats and by-products, brain, cooked, simmered
+
+
+name: Water
+unit: g
+value: 74.86
+label: oz
+value: 63.63
+label: piece, cooked, excluding refuse
+value: 292.7
+
+
+name: Energy
+unit: kcal
+value: 151.0
+label: oz
+value: 128.0
+label: piece, cooked, excluding refuse
+value: 590.0
+
+
+name: Energy
+unit: kJ
+value: 630.0
+label: oz
+value: 536.0
+label: piece, cooked, excluding refuse
+value: 2463.0
+
+
+name: Protein
+unit: g
+value: 11.67
+label: oz
+value: 9.92
+label: piece, cooked, excluding refuse
+value: 45.63
+
+
+name: Total lipid (fat)
+unit: g
+value: 10.53
+label: oz
+value: 8.95
+label: piece, cooked, excluding refuse
+value: 41.17
+
+
+name: Ash
+unit: g
+value: 1.46
+label: oz
+value: 1.24
+label: piece, cooked, excluding refuse
+value: 5.71
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 1.48
+label: oz
+value: 1.26
+label: piece, cooked, excluding refuse
+value: 5.79
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: piece, cooked, excluding refuse
+value: 0.0
+
+
+name: Sugars, total
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: piece, cooked, excluding refuse
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 9.0
+label: oz
+value: 8.0
+label: piece, cooked, excluding refuse
+value: 35.0
+
+
+name: Iron, Fe
+unit: mg
+value: 2.3
+label: oz
+value: 1.95
+label: piece, cooked, excluding refuse
+value: 8.99
+
+
+name: Magnesium, Mg
+unit: mg
+value: 12.0
+label: oz
+value: 10.0
+label: piece, cooked, excluding refuse
+value: 47.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 335.0
+label: oz
+value: 285.0
+label: piece, cooked, excluding refuse
+value: 1310.0
+
+
+name: Potassium, K
+unit: mg
+value: 244.0
+label: oz
+value: 207.0
+label: piece, cooked, excluding refuse
+value: 954.0
+
+
+name: Sodium, Na
+unit: mg
+value: 108.0
+label: oz
+value: 92.0
+label: piece, cooked, excluding refuse
+value: 422.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 1.09
+label: oz
+value: 0.93
+label: piece, cooked, excluding refuse
+value: 4.26
+
+
+name: Copper, Cu
+unit: mg
+value: 0.23
+label: oz
+value: 0.196
+label: piece, cooked, excluding refuse
+value: 0.899
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.028
+label: oz
+value: 0.024
+label: piece, cooked, excluding refuse
+value: 0.109
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 21.8
+label: oz
+value: 18.5
+label: piece, cooked, excluding refuse
+value: 85.2
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 10.5
+label: oz
+value: 8.9
+label: piece, cooked, excluding refuse
+value: 41.1
+
+
+name: Thiamin
+unit: mg
+value: 0.069
+label: oz
+value: 0.059
+label: piece, cooked, excluding refuse
+value: 0.27
+
+
+name: Riboflavin
+unit: mg
+value: 0.217
+label: oz
+value: 0.184
+label: piece, cooked, excluding refuse
+value: 0.848
+
+
+name: Niacin
+unit: mg
+value: 3.62
+label: oz
+value: 3.077
+label: piece, cooked, excluding refuse
+value: 14.154
+
+
+name: Pantothenic acid
+unit: mg
+value: 1.21
+label: oz
+value: 1.028
+label: piece, cooked, excluding refuse
+value: 4.731
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.143
+label: oz
+value: 0.122
+label: piece, cooked, excluding refuse
+value: 0.559
+
+
+name: Folate, total
+unit: \u00B5g
+value: 5.0
+label: oz
+value: 4.0
+label: piece, cooked, excluding refuse
+value: 20.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: piece, cooked, excluding refuse
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 5.0
+label: oz
+value: 4.0
+label: piece, cooked, excluding refuse
+value: 20.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 5.0
+label: oz
+value: 4.0
+label: piece, cooked, excluding refuse
+value: 20.0
+
+
+name: Choline, total
+unit: mg
+value: 490.9
+label: oz
+value: 417.3
+label: piece, cooked, excluding refuse
+value: 1919.4
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 10.1
+label: oz
+value: 8.58
+label: piece, cooked, excluding refuse
+value: 39.49
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: piece, cooked, excluding refuse
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 6.0
+label: oz
+value: 5.0
+label: piece, cooked, excluding refuse
+value: 23.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: piece, cooked, excluding refuse
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 70.0
+label: oz
+value: 60.0
+label: piece, cooked, excluding refuse
+value: 274.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: piece, cooked, excluding refuse
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: piece, cooked, excluding refuse
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 117.0
+label: oz
+value: 99.0
+label: piece, cooked, excluding refuse
+value: 457.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: piece, cooked, excluding refuse
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: piece, cooked, excluding refuse
+value: 0.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 1.67
+label: oz
+value: 1.42
+label: piece, cooked, excluding refuse
+value: 6.53
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: piece, cooked, excluding refuse
+value: 0.0
+
+
+name: Tocopherol, beta
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: piece, cooked, excluding refuse
+value: 0.0
+
+
+name: Tocopherol, gamma
+unit: mg
+value: 0.06
+label: oz
+value: 0.05
+label: piece, cooked, excluding refuse
+value: 0.23
+
+
+name: Tocopherol, delta
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: piece, cooked, excluding refuse
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: piece, cooked, excluding refuse
+value: 0.0
+
+
+name: Vitamin D3 (cholecalciferol)
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: piece, cooked, excluding refuse
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: oz
+value: 0.0
+label: piece, cooked, excluding refuse
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 0.1
+label: oz
+value: 0.1
+label: piece, cooked, excluding refuse
+value: 0.4
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 2.394
+label: oz
+value: 2.035
+label: piece, cooked, excluding refuse
+value: 9.361
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: piece, cooked, excluding refuse
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: piece, cooked, excluding refuse
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: piece, cooked, excluding refuse
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: piece, cooked, excluding refuse
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: piece, cooked, excluding refuse
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.029
+label: oz
+value: 0.025
+label: piece, cooked, excluding refuse
+value: 0.113
+
+
+name: 15:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: piece, cooked, excluding refuse
+value: 0.0
+
+
+name: 16:0
+unit: g
+value: 0.974
+label: oz
+value: 0.828
+label: piece, cooked, excluding refuse
+value: 3.808
+
+
+name: 17:0
+unit: g
+value: 0.032
+label: oz
+value: 0.027
+label: piece, cooked, excluding refuse
+value: 0.125
+
+
+name: 18:0
+unit: g
+value: 1.305
+label: oz
+value: 1.109
+label: piece, cooked, excluding refuse
+value: 5.103
+
+
+name: 20:0
+unit: g
+value: 0.018
+label: oz
+value: 0.015
+label: piece, cooked, excluding refuse
+value: 0.07
+
+
+name: 22:0
+unit: g
+value: 0.035
+label: oz
+value: 0.03
+label: piece, cooked, excluding refuse
+value: 0.137
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 1.882
+label: oz
+value: 1.6
+label: piece, cooked, excluding refuse
+value: 7.359
+
+
+name: 14:1
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: piece, cooked, excluding refuse
+value: 0.0
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: piece, cooked, excluding refuse
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.023
+label: oz
+value: 0.02
+label: piece, cooked, excluding refuse
+value: 0.09
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 1.667
+label: oz
+value: 1.417
+label: piece, cooked, excluding refuse
+value: 6.518
+
+
+name: 20:1
+unit: g
+value: 0.193
+label: oz
+value: 0.164
+label: piece, cooked, excluding refuse
+value: 0.755
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: piece, cooked, excluding refuse
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 1.632
+label: oz
+value: 1.387
+label: piece, cooked, excluding refuse
+value: 6.381
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.039
+label: oz
+value: 0.033
+label: piece, cooked, excluding refuse
+value: 0.152
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: piece, cooked, excluding refuse
+value: 0.0
+
+
+name: 18:3 n-3 c,c,c (ALA)
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: piece, cooked, excluding refuse
+value: 0.0
+
+
+name: 18:3 n-6 c,c,c
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: piece, cooked, excluding refuse
+value: 0.0
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: piece, cooked, excluding refuse
+value: 0.0
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: piece, cooked, excluding refuse
+value: 0.0
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: piece, cooked, excluding refuse
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.355
+label: oz
+value: 0.302
+label: piece, cooked, excluding refuse
+value: 1.388
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: piece, cooked, excluding refuse
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.383
+label: oz
+value: 0.326
+label: piece, cooked, excluding refuse
+value: 1.498
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.855
+label: oz
+value: 0.727
+label: piece, cooked, excluding refuse
+value: 3.343
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.51
+label: oz
+value: 0.434
+label: piece, cooked, excluding refuse
+value: 1.994
+
+
+name: Cholesterol
+unit: mg
+value: 3100.0
+label: oz
+value: 2635.0
+label: piece, cooked, excluding refuse
+value: 12121.0
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: piece, cooked, excluding refuse
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: piece, cooked, excluding refuse
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: piece, cooked, excluding refuse
+value: 0.0
+
+

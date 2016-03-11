@@ -1,0 +1,628 @@
+ndbno: 18218
+
+
+name: Crackers, matzo, egg
+
+
+name: Water
+unit: g
+value: 6.4
+label: oz
+value: 0.91
+label: matzo
+value: 1.79
+
+
+name: Energy
+unit: kcal
+value: 391.0
+label: oz
+value: 56.0
+label: matzo
+value: 109.0
+
+
+name: Energy
+unit: kJ
+value: 1636.0
+label: oz
+value: 232.0
+label: matzo
+value: 458.0
+
+
+name: Protein
+unit: g
+value: 12.3
+label: oz
+value: 1.75
+label: matzo
+value: 3.44
+
+
+name: Total lipid (fat)
+unit: g
+value: 2.1
+label: oz
+value: 0.3
+label: matzo
+value: 0.59
+
+
+name: Ash
+unit: g
+value: 0.6
+label: oz
+value: 0.09
+label: matzo
+value: 0.17
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 78.6
+label: oz
+value: 11.16
+label: matzo
+value: 22.01
+
+
+name: Fiber, total dietary
+unit: g
+value: 2.8
+label: oz
+value: 0.4
+label: matzo
+value: 0.8
+
+
+name: Calcium, Ca
+unit: mg
+value: 40.0
+label: oz
+value: 6.0
+label: matzo
+value: 11.0
+
+
+name: Iron, Fe
+unit: mg
+value: 2.7
+label: oz
+value: 0.38
+label: matzo
+value: 0.76
+
+
+name: Magnesium, Mg
+unit: mg
+value: 24.0
+label: oz
+value: 3.0
+label: matzo
+value: 7.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 148.0
+label: oz
+value: 21.0
+label: matzo
+value: 41.0
+
+
+name: Potassium, K
+unit: mg
+value: 150.0
+label: oz
+value: 21.0
+label: matzo
+value: 42.0
+
+
+name: Sodium, Na
+unit: mg
+value: 21.0
+label: oz
+value: 3.0
+label: matzo
+value: 6.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.73
+label: oz
+value: 0.1
+label: matzo
+value: 0.2
+
+
+name: Copper, Cu
+unit: mg
+value: 0.155
+label: oz
+value: 0.022
+label: matzo
+value: 0.043
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.6
+label: oz
+value: 0.085
+label: matzo
+value: 0.168
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 27.7
+label: oz
+value: 3.9
+label: matzo
+value: 7.8
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.1
+label: oz
+value: 0.0
+label: matzo
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.788
+label: oz
+value: 0.112
+label: matzo
+value: 0.221
+
+
+name: Riboflavin
+unit: mg
+value: 0.618
+label: oz
+value: 0.088
+label: matzo
+value: 0.173
+
+
+name: Niacin
+unit: mg
+value: 5.08
+label: oz
+value: 0.721
+label: matzo
+value: 1.422
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.435
+label: oz
+value: 0.062
+label: matzo
+value: 0.122
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.054
+label: oz
+value: 0.008
+label: matzo
+value: 0.015
+
+
+name: Folate, total
+unit: \u00B5g
+value: 24.0
+label: oz
+value: 3.0
+label: matzo
+value: 7.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: matzo
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 24.0
+label: oz
+value: 3.0
+label: matzo
+value: 7.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 24.0
+label: oz
+value: 3.0
+label: matzo
+value: 7.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.19
+label: oz
+value: 0.03
+label: matzo
+value: 0.05
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 13.0
+label: oz
+value: 2.0
+label: matzo
+value: 4.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 13.0
+label: oz
+value: 2.0
+label: matzo
+value: 4.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 42.0
+label: oz
+value: 6.0
+label: matzo
+value: 12.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.548
+label: oz
+value: 0.078
+label: matzo
+value: 0.153
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: matzo
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: matzo
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: matzo
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.005
+label: oz
+value: 0.001
+label: matzo
+value: 0.001
+
+
+name: 16:0
+unit: g
+value: 0.423
+label: oz
+value: 0.06
+label: matzo
+value: 0.118
+
+
+name: 18:0
+unit: g
+value: 0.119
+label: oz
+value: 0.017
+label: matzo
+value: 0.033
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.612
+label: oz
+value: 0.087
+label: matzo
+value: 0.171
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.043
+label: oz
+value: 0.006
+label: matzo
+value: 0.012
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.564
+label: oz
+value: 0.08
+label: matzo
+value: 0.158
+
+
+name: 20:1
+unit: g
+value: 0.004
+label: oz
+value: 0.001
+label: matzo
+value: 0.001
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: matzo
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.473
+label: oz
+value: 0.067
+label: matzo
+value: 0.132
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.427
+label: oz
+value: 0.061
+label: matzo
+value: 0.12
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.02
+label: oz
+value: 0.003
+label: matzo
+value: 0.006
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.021
+label: oz
+value: 0.003
+label: matzo
+value: 0.006
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.001
+label: oz
+value: 0.0
+label: matzo
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.005
+label: oz
+value: 0.001
+label: matzo
+value: 0.001
+
+
+name: Cholesterol
+unit: mg
+value: 83.0
+label: oz
+value: 12.0
+label: matzo
+value: 23.0
+
+
+name: Tryptophan
+unit: g
+value: 0.151
+label: oz
+value: 0.021
+label: matzo
+value: 0.042
+
+
+name: Threonine
+unit: g
+value: 0.384
+label: oz
+value: 0.055
+label: matzo
+value: 0.108
+
+
+name: Isoleucine
+unit: g
+value: 0.472
+label: oz
+value: 0.067
+label: matzo
+value: 0.132
+
+
+name: Leucine
+unit: g
+value: 0.886
+label: oz
+value: 0.126
+label: matzo
+value: 0.248
+
+
+name: Lysine
+unit: g
+value: 0.389
+label: oz
+value: 0.055
+label: matzo
+value: 0.109
+
+
+name: Methionine
+unit: g
+value: 0.248
+label: oz
+value: 0.035
+label: matzo
+value: 0.069
+
+
+name: Cystine
+unit: g
+value: 0.268
+label: oz
+value: 0.038
+label: matzo
+value: 0.075
+
+
+name: Phenylalanine
+unit: g
+value: 0.624
+label: oz
+value: 0.089
+label: matzo
+value: 0.175
+
+
+name: Tyrosine
+unit: g
+value: 0.397
+label: oz
+value: 0.056
+label: matzo
+value: 0.111
+
+
+name: Valine
+unit: g
+value: 0.544
+label: oz
+value: 0.077
+label: matzo
+value: 0.152
+
+
+name: Arginine
+unit: g
+value: 0.544
+label: oz
+value: 0.077
+label: matzo
+value: 0.152
+
+
+name: Histidine
+unit: g
+value: 0.278
+label: oz
+value: 0.039
+label: matzo
+value: 0.078
+
+
+name: Alanine
+unit: g
+value: 0.45
+label: oz
+value: 0.064
+label: matzo
+value: 0.126
+
+
+name: Aspartic acid
+unit: g
+value: 0.656
+label: oz
+value: 0.093
+label: matzo
+value: 0.184
+
+
+name: Glutamic acid
+unit: g
+value: 3.666
+label: oz
+value: 0.521
+label: matzo
+value: 1.026
+
+
+name: Glycine
+unit: g
+value: 0.438
+label: oz
+value: 0.062
+label: matzo
+value: 0.123
+
+
+name: Proline
+unit: g
+value: 1.251
+label: oz
+value: 0.178
+label: matzo
+value: 0.35
+
+
+name: Serine
+unit: g
+value: 0.673
+label: oz
+value: 0.096
+label: matzo
+value: 0.188
+
+
+

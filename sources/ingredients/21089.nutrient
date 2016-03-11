@@ -1,0 +1,888 @@
+ndbno: 21089
+
+
+name: Fast foods, cheeseburger; single, regular patty; plain
+
+
+name: Water
+unit: g
+value: 38.63
+label: sandwich
+value: 35.15
+
+
+name: Energy
+unit: kcal
+value: 308.0
+label: sandwich
+value: 280.0
+
+
+name: Energy
+unit: kJ
+value: 1290.0
+label: sandwich
+value: 1174.0
+
+
+name: Protein
+unit: g
+value: 16.51
+label: sandwich
+value: 15.02
+
+
+name: Total lipid (fat)
+unit: g
+value: 14.72
+label: sandwich
+value: 13.4
+
+
+name: Ash
+unit: g
+value: 2.11
+label: sandwich
+value: 1.92
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 28.03
+label: sandwich
+value: 25.51
+
+
+name: Fiber, total dietary
+unit: g
+value: 2.0
+label: sandwich
+value: 1.8
+
+
+name: Sugars, total
+unit: g
+value: 4.88
+label: sandwich
+value: 4.44
+
+
+name: Sucrose
+unit: g
+value: 0.0
+label: sandwich
+value: 0.0
+
+
+name: Glucose (dextrose)
+unit: g
+value: 1.76
+label: sandwich
+value: 1.6
+
+
+name: Fructose
+unit: g
+value: 1.94
+label: sandwich
+value: 1.77
+
+
+name: Lactose
+unit: g
+value: 0.72
+label: sandwich
+value: 0.66
+
+
+name: Maltose
+unit: g
+value: 0.46
+label: sandwich
+value: 0.42
+
+
+name: Galactose
+unit: g
+value: 0.0
+label: sandwich
+value: 0.0
+
+
+name: Starch
+unit: g
+value: 19.87
+label: sandwich
+value: 18.08
+
+
+name: Calcium, Ca
+unit: mg
+value: 119.0
+label: sandwich
+value: 108.0
+
+
+name: Iron, Fe
+unit: mg
+value: 2.71
+label: sandwich
+value: 2.47
+
+
+name: Magnesium, Mg
+unit: mg
+value: 26.0
+label: sandwich
+value: 24.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 161.0
+label: sandwich
+value: 147.0
+
+
+name: Potassium, K
+unit: mg
+value: 196.0
+label: sandwich
+value: 178.0
+
+
+name: Sodium, Na
+unit: mg
+value: 515.0
+label: sandwich
+value: 469.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 2.49
+label: sandwich
+value: 2.27
+
+
+name: Copper, Cu
+unit: mg
+value: 0.111
+label: sandwich
+value: 0.101
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.316
+label: sandwich
+value: 0.288
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 19.6
+label: sandwich
+value: 17.8
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: sandwich
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.293
+label: sandwich
+value: 0.267
+
+
+name: Riboflavin
+unit: mg
+value: 0.363
+label: sandwich
+value: 0.33
+
+
+name: Niacin
+unit: mg
+value: 5.217
+label: sandwich
+value: 4.747
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.545
+label: sandwich
+value: 0.496
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.228
+label: sandwich
+value: 0.207
+
+
+name: Folate, total
+unit: \u00B5g
+value: 70.0
+label: sandwich
+value: 64.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 28.0
+label: sandwich
+value: 25.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 42.0
+label: sandwich
+value: 38.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 89.0
+label: sandwich
+value: 81.0
+
+
+name: Choline, total
+unit: mg
+value: 28.9
+label: sandwich
+value: 26.3
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.76
+label: sandwich
+value: 0.69
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: sandwich
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 50.0
+label: sandwich
+value: 46.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 45.0
+label: sandwich
+value: 41.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 61.0
+label: sandwich
+value: 56.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: sandwich
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 2.0
+label: sandwich
+value: 2.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 254.0
+label: sandwich
+value: 231.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: sandwich
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 37.0
+label: sandwich
+value: 34.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.52
+label: sandwich
+value: 0.47
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: sandwich
+value: 0.0
+
+
+name: Tocopherol, beta
+unit: mg
+value: 0.08
+label: sandwich
+value: 0.07
+
+
+name: Tocopherol, gamma
+unit: mg
+value: 0.9
+label: sandwich
+value: 0.82
+
+
+name: Tocopherol, delta
+unit: mg
+value: 0.22
+label: sandwich
+value: 0.2
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.1
+label: sandwich
+value: 0.1
+
+
+name: Vitamin D
+unit: IU
+value: 2.0
+label: sandwich
+value: 2.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 4.2
+label: sandwich
+value: 3.8
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 6.473
+label: sandwich
+value: 5.89
+
+
+name: 4:0
+unit: g
+value: 0.076
+label: sandwich
+value: 0.069
+
+
+name: 6:0
+unit: g
+value: 0.059
+label: sandwich
+value: 0.054
+
+
+name: 8:0
+unit: g
+value: 0.042
+label: sandwich
+value: 0.038
+
+
+name: 10:0
+unit: g
+value: 0.108
+label: sandwich
+value: 0.098
+
+
+name: 12:0
+unit: g
+value: 0.126
+label: sandwich
+value: 0.115
+
+
+name: 14:0
+unit: g
+value: 0.648
+label: sandwich
+value: 0.59
+
+
+name: 15:0
+unit: g
+value: 0.086
+label: sandwich
+value: 0.078
+
+
+name: 16:0
+unit: g
+value: 3.331
+label: sandwich
+value: 3.031
+
+
+name: 17:0
+unit: g
+value: 0.129
+label: sandwich
+value: 0.117
+
+
+name: 18:0
+unit: g
+value: 1.825
+label: sandwich
+value: 1.661
+
+
+name: 20:0
+unit: g
+value: 0.024
+label: sandwich
+value: 0.022
+
+
+name: 22:0
+unit: g
+value: 0.012
+label: sandwich
+value: 0.011
+
+
+name: 24:0
+unit: g
+value: 0.007
+label: sandwich
+value: 0.006
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 5.413
+label: sandwich
+value: 4.926
+
+
+name: 14:1
+unit: g
+value: 0.111
+label: sandwich
+value: 0.101
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: sandwich
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.36
+label: sandwich
+value: 0.328
+
+
+name: 16:1 c
+unit: g
+value: 0.316
+label: sandwich
+value: 0.288
+
+
+name: 16:1 t
+unit: g
+value: 0.043
+label: sandwich
+value: 0.039
+
+
+name: 17:1
+unit: g
+value: 0.075
+label: sandwich
+value: 0.068
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 4.826
+label: sandwich
+value: 4.392
+
+
+name: 18:1 c
+unit: g
+value: 4.376
+label: sandwich
+value: 3.982
+
+
+name: 18:1 t
+unit: g
+value: 0.45
+label: sandwich
+value: 0.41
+
+
+name: 20:1
+unit: g
+value: 0.041
+label: sandwich
+value: 0.037
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: sandwich
+value: 0.0
+
+
+name: 22:1 c
+unit: g
+value: 0.0
+label: sandwich
+value: 0.0
+
+
+name: 22:1 t
+unit: g
+value: 0.0
+label: sandwich
+value: 0.0
+
+
+name: 24:1 c
+unit: g
+value: 0.0
+label: sandwich
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 1.658
+label: sandwich
+value: 1.509
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 1.462
+label: sandwich
+value: 1.33
+
+
+name: 18:2 n-6 c,c
+unit: g
+value: 1.322
+label: sandwich
+value: 1.203
+
+
+name: 18:2 CLAs
+unit: g
+value: 0.064
+label: sandwich
+value: 0.058
+
+
+name: 18:2 t not further defined
+unit: g
+value: 0.076
+label: sandwich
+value: 0.069
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.131
+label: sandwich
+value: 0.119
+
+
+name: 18:3 n-3 c,c,c (ALA)
+unit: g
+value: 0.125
+label: sandwich
+value: 0.114
+
+
+name: 18:3 n-6 c,c,c
+unit: g
+value: 0.005
+label: sandwich
+value: 0.005
+
+
+name: 18:3i
+unit: g
+value: 0.001
+label: sandwich
+value: 0.001
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: sandwich
+value: 0.0
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.004
+label: sandwich
+value: 0.004
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.015
+label: sandwich
+value: 0.014
+
+
+name: 20:3 n-6
+unit: g
+value: 0.015
+label: sandwich
+value: 0.014
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.025
+label: sandwich
+value: 0.023
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.005
+label: sandwich
+value: 0.005
+
+
+name: 22:4
+unit: g
+value: 0.005
+label: sandwich
+value: 0.005
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.01
+label: sandwich
+value: 0.009
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: sandwich
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.57
+label: sandwich
+value: 0.519
+
+
+name: Fatty acids, total trans-monoenoic
+unit: g
+value: 0.493
+label: sandwich
+value: 0.449
+
+
+name: Cholesterol
+unit: mg
+value: 43.0
+label: sandwich
+value: 39.0
+
+
+name: Tryptophan
+unit: g
+value: 0.155
+label: sandwich
+value: 0.141
+
+
+name: Threonine
+unit: g
+value: 0.571
+label: sandwich
+value: 0.52
+
+
+name: Isoleucine
+unit: g
+value: 0.755
+label: sandwich
+value: 0.687
+
+
+name: Leucine
+unit: g
+value: 1.316
+label: sandwich
+value: 1.198
+
+
+name: Lysine
+unit: g
+value: 0.784
+label: sandwich
+value: 0.713
+
+
+name: Methionine
+unit: g
+value: 0.377
+label: sandwich
+value: 0.343
+
+
+name: Phenylalanine
+unit: g
+value: 0.755
+label: sandwich
+value: 0.687
+
+
+name: Tyrosine
+unit: g
+value: 0.464
+label: sandwich
+value: 0.422
+
+
+name: Valine
+unit: g
+value: 0.881
+label: sandwich
+value: 0.802
+
+
+name: Arginine
+unit: g
+value: 0.89
+label: sandwich
+value: 0.81
+
+
+name: Histidine
+unit: g
+value: 0.445
+label: sandwich
+value: 0.405
+
+
+name: Alanine
+unit: g
+value: 0.871
+label: sandwich
+value: 0.793
+
+
+name: Aspartic acid
+unit: g
+value: 1.229
+label: sandwich
+value: 1.118
+
+
+name: Glutamic acid
+unit: g
+value: 3.987
+label: sandwich
+value: 3.628
+
+
+name: Glycine
+unit: g
+value: 0.909
+label: sandwich
+value: 0.827
+
+
+name: Proline
+unit: g
+value: 1.945
+label: sandwich
+value: 1.77
+
+
+name: Serine
+unit: g
+value: 0.716
+label: sandwich
+value: 0.652
+
+
+name: Hydroxyproline
+unit: g
+value: 0.29
+label: sandwich
+value: 0.264
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: sandwich
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: sandwich
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: sandwich
+value: 0.0
+
+

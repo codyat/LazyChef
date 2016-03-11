@@ -1,0 +1,646 @@
+ndbno: 43098
+
+
+name: Pie fillings, cherry, low calorie
+
+
+name: Water
+unit: g
+value: 86.76
+label: serving
+value: 73.75
+label: cup
+value: 229.05
+
+
+name: Energy
+unit: kcal
+value: 53.0
+label: serving
+value: 45.0
+label: cup
+value: 140.0
+
+
+name: Energy
+unit: kJ
+value: 220.0
+label: serving
+value: 187.0
+label: cup
+value: 581.0
+
+
+name: Protein
+unit: g
+value: 0.82
+label: serving
+value: 0.7
+label: cup
+value: 2.16
+
+
+name: Total lipid (fat)
+unit: g
+value: 0.16
+label: serving
+value: 0.14
+label: cup
+value: 0.42
+
+
+name: Ash
+unit: g
+value: 0.28
+label: serving
+value: 0.24
+label: cup
+value: 0.74
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 11.98
+label: serving
+value: 10.18
+label: cup
+value: 31.63
+
+
+name: Fiber, total dietary
+unit: g
+value: 1.2
+label: serving
+value: 1.0
+label: cup
+value: 3.2
+
+
+name: Sugars, total
+unit: g
+value: 9.15
+label: serving
+value: 7.78
+label: cup
+value: 24.16
+
+
+name: Calcium, Ca
+unit: mg
+value: 11.0
+label: serving
+value: 9.0
+label: cup
+value: 29.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.33
+label: serving
+value: 0.28
+label: cup
+value: 0.87
+
+
+name: Magnesium, Mg
+unit: mg
+value: 8.0
+label: serving
+value: 7.0
+label: cup
+value: 21.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 15.0
+label: serving
+value: 13.0
+label: cup
+value: 40.0
+
+
+name: Potassium, K
+unit: mg
+value: 118.0
+label: serving
+value: 100.0
+label: cup
+value: 312.0
+
+
+name: Sodium, Na
+unit: mg
+value: 12.0
+label: serving
+value: 10.0
+label: cup
+value: 32.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.07
+label: serving
+value: 0.06
+label: cup
+value: 0.18
+
+
+name: Copper, Cu
+unit: mg
+value: 0.084
+label: serving
+value: 0.071
+label: cup
+value: 0.222
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.057
+label: serving
+value: 0.048
+label: cup
+value: 0.15
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 0.1
+label: serving
+value: 0.1
+label: cup
+value: 0.3
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 2.8
+label: serving
+value: 2.4
+label: cup
+value: 7.4
+
+
+name: Thiamin
+unit: mg
+value: 0.02
+label: serving
+value: 0.017
+label: cup
+value: 0.053
+
+
+name: Riboflavin
+unit: mg
+value: 0.039
+label: serving
+value: 0.033
+label: cup
+value: 0.103
+
+
+name: Niacin
+unit: mg
+value: 0.361
+label: serving
+value: 0.307
+label: cup
+value: 0.953
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.0
+label: serving
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.027
+label: serving
+value: 0.023
+label: cup
+value: 0.071
+
+
+name: Folate, total
+unit: \u00B5g
+value: 4.0
+label: serving
+value: 3.0
+label: cup
+value: 11.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: serving
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 4.0
+label: serving
+value: 3.0
+label: cup
+value: 11.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 4.0
+label: serving
+value: 3.0
+label: cup
+value: 11.0
+
+
+name: Choline, total
+unit: mg
+value: 4.9
+label: serving
+value: 4.2
+label: cup
+value: 12.9
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: serving
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: serving
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 10.0
+label: serving
+value: 8.0
+label: cup
+value: 26.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: serving
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 125.0
+label: serving
+value: 106.0
+label: cup
+value: 330.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: serving
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: serving
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 208.0
+label: serving
+value: 177.0
+label: cup
+value: 549.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: serving
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 70.0
+label: serving
+value: 60.0
+label: cup
+value: 185.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.0
+label: serving
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: serving
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: serving
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: serving
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 0.0
+label: serving
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 16:0
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 18:0
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: serving
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: serving
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: serving
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: serving
+value: 0.0
+label: cup
+value: 0.0
+
+
+

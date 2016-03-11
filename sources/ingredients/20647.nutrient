@@ -1,0 +1,754 @@
+ndbno: 20647
+
+
+name: Millet flour
+
+
+name: Water
+unit: g
+value: 8.67
+label: cup
+value: 10.32
+
+
+name: Energy
+unit: kcal
+value: 382.0
+label: cup
+value: 455.0
+
+
+name: Energy
+unit: kJ
+value: 1597.0
+label: cup
+value: 1900.0
+
+
+name: Protein
+unit: g
+value: 10.75
+label: cup
+value: 12.79
+
+
+name: Total lipid (fat)
+unit: g
+value: 4.25
+label: cup
+value: 5.06
+
+
+name: Ash
+unit: g
+value: 1.21
+label: cup
+value: 1.44
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 75.12
+label: cup
+value: 89.39
+
+
+name: Fiber, total dietary
+unit: g
+value: 3.5
+label: cup
+value: 4.2
+
+
+name: Sugars, total
+unit: g
+value: 1.66
+label: cup
+value: 1.98
+
+
+name: Sucrose
+unit: g
+value: 0.3
+label: cup
+value: 0.36
+
+
+name: Glucose (dextrose)
+unit: g
+value: 1.26
+label: cup
+value: 1.5
+
+
+name: Fructose
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Lactose
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Maltose
+unit: g
+value: 0.11
+label: cup
+value: 0.13
+
+
+name: Galactose
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Starch
+unit: g
+value: 69.88
+label: cup
+value: 83.16
+
+
+name: Calcium, Ca
+unit: mg
+value: 14.0
+label: cup
+value: 17.0
+
+
+name: Iron, Fe
+unit: mg
+value: 3.94
+label: cup
+value: 4.69
+
+
+name: Magnesium, Mg
+unit: mg
+value: 119.0
+label: cup
+value: 142.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 285.0
+label: cup
+value: 339.0
+
+
+name: Potassium, K
+unit: mg
+value: 224.0
+label: cup
+value: 267.0
+
+
+name: Sodium, Na
+unit: mg
+value: 4.0
+label: cup
+value: 5.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 2.63
+label: cup
+value: 3.13
+
+
+name: Copper, Cu
+unit: mg
+value: 0.535
+label: cup
+value: 0.637
+
+
+name: Manganese, Mn
+unit: mg
+value: 1.002
+label: cup
+value: 1.192
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 32.7
+label: cup
+value: 38.9
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.413
+label: cup
+value: 0.491
+
+
+name: Riboflavin
+unit: mg
+value: 0.073
+label: cup
+value: 0.087
+
+
+name: Niacin
+unit: mg
+value: 6.02
+label: cup
+value: 7.164
+
+
+name: Pantothenic acid
+unit: mg
+value: 1.267
+label: cup
+value: 1.508
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.372
+label: cup
+value: 0.443
+
+
+name: Folate, total
+unit: \u00B5g
+value: 42.0
+label: cup
+value: 50.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 42.0
+label: cup
+value: 50.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 42.0
+label: cup
+value: 50.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.11
+label: cup
+value: 0.13
+
+
+name: Tocopherol, beta
+unit: mg
+value: 0.06
+label: cup
+value: 0.07
+
+
+name: Tocopherol, gamma
+unit: mg
+value: 2.07
+label: cup
+value: 2.46
+
+
+name: Tocopherol, delta
+unit: mg
+value: 0.53
+label: cup
+value: 0.63
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 0.8
+label: cup
+value: 1.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.536
+label: cup
+value: 0.638
+
+
+name: 4:0
+unit: g
+value: 0.007
+label: cup
+value: 0.008
+
+
+name: 6:0
+unit: g
+value: 0.001
+label: cup
+value: 0.001
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.008
+label: cup
+value: 0.01
+
+
+name: 12:0
+unit: g
+value: 0.001
+label: cup
+value: 0.001
+
+
+name: 14:0
+unit: g
+value: 0.003
+label: cup
+value: 0.004
+
+
+name: 15:0
+unit: g
+value: 0.002
+label: cup
+value: 0.002
+
+
+name: 16:0
+unit: g
+value: 0.393
+label: cup
+value: 0.468
+
+
+name: 17:0
+unit: g
+value: 0.002
+label: cup
+value: 0.002
+
+
+name: 18:0
+unit: g
+value: 0.071
+label: cup
+value: 0.084
+
+
+name: 20:0
+unit: g
+value: 0.021
+label: cup
+value: 0.025
+
+
+name: 22:0
+unit: g
+value: 0.015
+label: cup
+value: 0.018
+
+
+name: 24:0
+unit: g
+value: 0.012
+label: cup
+value: 0.014
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.924
+label: cup
+value: 1.1
+
+
+name: 14:1
+unit: g
+value: 0.002
+label: cup
+value: 0.002
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.007
+label: cup
+value: 0.008
+
+
+name: 16:1 c
+unit: g
+value: 0.007
+label: cup
+value: 0.008
+
+
+name: 16:1 t
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 17:1
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.895
+label: cup
+value: 1.065
+
+
+name: 18:1 c
+unit: g
+value: 0.895
+label: cup
+value: 1.065
+
+
+name: 18:1 t
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 20:1
+unit: g
+value: 0.02
+label: cup
+value: 0.024
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 22:1 c
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 22:1 t
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 24:1 c
+unit: g
+value: 0.001
+label: cup
+value: 0.001
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 2.618
+label: cup
+value: 3.115
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 2.552
+label: cup
+value: 3.037
+
+
+name: 18:2 n-6 c,c
+unit: g
+value: 2.549
+label: cup
+value: 3.033
+
+
+name: 18:2 CLAs
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 18:2 t not further defined
+unit: g
+value: 0.003
+label: cup
+value: 0.004
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.044
+label: cup
+value: 0.052
+
+
+name: 18:3 n-3 c,c,c (ALA)
+unit: g
+value: 0.044
+label: cup
+value: 0.052
+
+
+name: 18:3 n-6 c,c,c
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.002
+label: cup
+value: 0.002
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 20:3 n-6
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.02
+label: cup
+value: 0.024
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 22:4
+unit: g
+value: 0.001
+label: cup
+value: 0.001
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.002
+label: cup
+value: 0.002
+
+
+name: Fatty acids, total trans-monoenoic
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Tryptophan
+unit: g
+value: 0.17
+label: cup
+value: 0.202
+
+
+name: Threonine
+unit: g
+value: 0.354
+label: cup
+value: 0.421
+
+
+name: Isoleucine
+unit: g
+value: 0.473
+label: cup
+value: 0.563
+
+
+name: Leucine
+unit: g
+value: 1.537
+label: cup
+value: 1.829
+
+
+name: Lysine
+unit: g
+value: 0.144
+label: cup
+value: 0.171
+
+
+name: Methionine
+unit: g
+value: 0.319
+label: cup
+value: 0.38
+
+
+name: Cystine
+unit: g
+value: 0.178
+label: cup
+value: 0.212
+
+
+name: Phenylalanine
+unit: g
+value: 0.675
+label: cup
+value: 0.803
+
+
+name: Tyrosine
+unit: g
+value: 0.326
+label: cup
+value: 0.388
+
+
+name: Valine
+unit: g
+value: 0.584
+label: cup
+value: 0.695
+
+
+name: Arginine
+unit: g
+value: 0.37
+label: cup
+value: 0.44
+
+
+name: Histidine
+unit: g
+value: 0.257
+label: cup
+value: 0.306
+
+
+name: Alanine
+unit: g
+value: 1.282
+label: cup
+value: 1.526
+
+
+name: Aspartic acid
+unit: g
+value: 0.71
+label: cup
+value: 0.845
+
+
+name: Glutamic acid
+unit: g
+value: 2.599
+label: cup
+value: 3.093
+
+
+name: Glycine
+unit: g
+value: 0.271
+label: cup
+value: 0.322
+
+
+name: Proline
+unit: g
+value: 0.911
+label: cup
+value: 1.084
+
+
+name: Serine
+unit: g
+value: 0.782
+label: cup
+value: 0.931
+

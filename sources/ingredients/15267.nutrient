@@ -1,0 +1,461 @@
+ndbno: 15267
+
+
+name: Fish, pollock, Alaska, cooked (not previously frozen)
+
+
+name: Water
+unit: g
+value: 79.34
+label: oz
+value: 67.44
+
+
+name: Energy
+unit: kcal
+value: 80.0
+label: oz
+value: 68.0
+
+
+name: Energy
+unit: kJ
+value: 335.0
+label: oz
+value: 285.0
+
+
+name: Protein
+unit: g
+value: 19.42
+label: oz
+value: 16.51
+
+
+name: Total lipid (fat)
+unit: g
+value: 0.26
+label: oz
+value: 0.22
+
+
+name: Ash
+unit: g
+value: 1.42
+label: oz
+value: 1.21
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 13.0
+label: oz
+value: 11.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.29
+label: oz
+value: 0.25
+
+
+name: Magnesium, Mg
+unit: mg
+value: 37.0
+label: oz
+value: 31.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 206.0
+label: oz
+value: 175.0
+
+
+name: Potassium, K
+unit: mg
+value: 364.0
+label: oz
+value: 309.0
+
+
+name: Sodium, Na
+unit: mg
+value: 166.0
+label: oz
+value: 141.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.44
+label: oz
+value: 0.37
+
+
+name: Copper, Cu
+unit: mg
+value: 0.043
+label: oz
+value: 0.037
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.011
+label: oz
+value: 0.009
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.053
+label: oz
+value: 0.045
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.003
+label: oz
+value: 0.003
+
+
+name: 15:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 16:0
+unit: g
+value: 0.041
+label: oz
+value: 0.035
+
+
+name: 17:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 18:0
+unit: g
+value: 0.008
+label: oz
+value: 0.007
+
+
+name: 20:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 22:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 24:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.059
+label: oz
+value: 0.05
+
+
+name: 14:1
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.003
+label: oz
+value: 0.003
+
+
+name: 16:1 c
+unit: g
+value: 0.003
+label: oz
+value: 0.003
+
+
+name: 16:1 t
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 17:1
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.022
+label: oz
+value: 0.019
+
+
+name: 18:1 c
+unit: g
+value: 0.021
+label: oz
+value: 0.018
+
+
+name: 18:1 t
+unit: g
+value: 0.001
+label: oz
+value: 0.001
+
+
+name: 20:1
+unit: g
+value: 0.009
+label: oz
+value: 0.008
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 22:1 c
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 22:1 t
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 24:1 c
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.097
+label: oz
+value: 0.082
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.002
+label: oz
+value: 0.002
+
+
+name: 18:2 n-6 c,c
+unit: g
+value: 0.002
+label: oz
+value: 0.002
+
+
+name: 18:2 CLAs
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 18:2 t not further defined
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 18:3 n-3 c,c,c (ALA)
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 18:3 n-6 c,c,c
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 18:4
+unit: g
+value: 0.001
+label: oz
+value: 0.001
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.001
+label: oz
+value: 0.001
+
+
+name: 20:3 n-6
+unit: g
+value: 0.001
+label: oz
+value: 0.001
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.002
+label: oz
+value: 0.002
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.027
+label: oz
+value: 0.023
+
+
+name: 22:4
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.003
+label: oz
+value: 0.003
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.06
+label: oz
+value: 0.051
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.001
+label: oz
+value: 0.001
+
+
+name: Fatty acids, total trans-monoenoic
+unit: g
+value: 0.001
+label: oz
+value: 0.001
+
+
+name: Cholesterol
+unit: mg
+value: 74.0
+label: oz
+value: 63.0
+
+

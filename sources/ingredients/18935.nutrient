@@ -1,0 +1,475 @@
+ndbno: 18935
+
+
+name: Waffle, plain, frozen, ready-to-heat, microwave
+
+
+name: Water
+unit: g
+value: 34.95
+label: waffle, round (4\dia)
+value: 11.18
+
+
+name: Energy
+unit: kcal
+value: 298.0
+label: waffle, round (4\dia)
+value: 95.0
+
+
+name: Energy
+unit: kJ
+value: 1245.0
+label: waffle, round (4\dia)
+value: 398.0
+
+
+name: Protein
+unit: g
+value: 6.71
+label: waffle, round (4\dia)
+value: 2.15
+
+
+name: Total lipid (fat)
+unit: g
+value: 9.91
+label: waffle, round (4\dia)
+value: 3.17
+
+
+name: Ash
+unit: g
+value: 3.02
+label: waffle, round (4\dia)
+value: 0.97
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 45.41
+label: waffle, round (4\dia)
+value: 14.53
+
+
+name: Fiber, total dietary
+unit: g
+value: 2.4
+label: waffle, round (4\dia)
+value: 0.8
+
+
+name: Sugars, total
+unit: g
+value: 5.04
+label: waffle, round (4\dia)
+value: 1.61
+
+
+name: Sucrose
+unit: g
+value: 3.31
+label: waffle, round (4\dia)
+value: 1.06
+
+
+name: Glucose (dextrose)
+unit: g
+value: 0.0
+label: waffle, round (4\dia)
+value: 0.0
+
+
+name: Fructose
+unit: g
+value: 0.0
+label: waffle, round (4\dia)
+value: 0.0
+
+
+name: Lactose
+unit: g
+value: 1.46
+label: waffle, round (4\dia)
+value: 0.47
+
+
+name: Maltose
+unit: g
+value: 0.28
+label: waffle, round (4\dia)
+value: 0.09
+
+
+name: Galactose
+unit: g
+value: 0.0
+label: waffle, round (4\dia)
+value: 0.0
+
+
+name: Starch
+unit: g
+value: 38.63
+label: waffle, round (4\dia)
+value: 12.36
+
+
+name: Calcium, Ca
+unit: mg
+value: 197.0
+label: waffle, round (4\dia)
+value: 63.0
+
+
+name: Iron, Fe
+unit: mg
+value: 5.81
+label: waffle, round (4\dia)
+value: 1.86
+
+
+name: Magnesium, Mg
+unit: mg
+value: 25.0
+label: waffle, round (4\dia)
+value: 8.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 410.0
+label: waffle, round (4\dia)
+value: 131.0
+
+
+name: Potassium, K
+unit: mg
+value: 148.0
+label: waffle, round (4\dia)
+value: 47.0
+
+
+name: Sodium, Na
+unit: mg
+value: 682.0
+label: waffle, round (4\dia)
+value: 218.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.45
+label: waffle, round (4\dia)
+value: 0.14
+
+
+name: Copper, Cu
+unit: mg
+value: 0.038
+label: waffle, round (4\dia)
+value: 0.012
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.154
+label: waffle, round (4\dia)
+value: 0.049
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 12.8
+label: waffle, round (4\dia)
+value: 4.1
+
+
+name: Thiamin
+unit: mg
+value: 0.544
+label: waffle, round (4\dia)
+value: 0.174
+
+
+name: Riboflavin
+unit: mg
+value: 0.655
+label: waffle, round (4\dia)
+value: 0.21
+
+
+name: Niacin
+unit: mg
+value: 7.785
+label: waffle, round (4\dia)
+value: 2.491
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.325
+label: waffle, round (4\dia)
+value: 0.104
+
+
+name: Vitamin B-6
+unit: mg
+value: 1.016
+label: waffle, round (4\dia)
+value: 0.325
+
+
+name: Folate, total
+unit: \u00B5g
+value: 67.0
+label: waffle, round (4\dia)
+value: 21.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 56.0
+label: waffle, round (4\dia)
+value: 18.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 11.0
+label: waffle, round (4\dia)
+value: 4.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 106.0
+label: waffle, round (4\dia)
+value: 34.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 2.18
+label: waffle, round (4\dia)
+value: 0.7
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.95
+label: waffle, round (4\dia)
+value: 0.3
+
+
+name: Tocopherol, beta
+unit: mg
+value: 0.07
+label: waffle, round (4\dia)
+value: 0.02
+
+
+name: Tocopherol, gamma
+unit: mg
+value: 4.52
+label: waffle, round (4\dia)
+value: 1.45
+
+
+name: Tocopherol, delta
+unit: mg
+value: 1.18
+label: waffle, round (4\dia)
+value: 0.38
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 8.1
+label: waffle, round (4\dia)
+value: 2.6
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 1.58
+label: waffle, round (4\dia)
+value: 0.506
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: waffle, round (4\dia)
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: waffle, round (4\dia)
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: waffle, round (4\dia)
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.012
+label: waffle, round (4\dia)
+value: 0.004
+
+
+name: 15:0
+unit: g
+value: 0.0
+label: waffle, round (4\dia)
+value: 0.0
+
+
+name: 16:0
+unit: g
+value: 0.909
+label: waffle, round (4\dia)
+value: 0.291
+
+
+name: 17:0
+unit: g
+value: 0.005
+label: waffle, round (4\dia)
+value: 0.002
+
+
+name: 18:0
+unit: g
+value: 0.576
+label: waffle, round (4\dia)
+value: 0.184
+
+
+name: 20:0
+unit: g
+value: 0.042
+label: waffle, round (4\dia)
+value: 0.013
+
+
+name: 22:0
+unit: g
+value: 0.035
+label: waffle, round (4\dia)
+value: 0.011
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 5.195
+label: waffle, round (4\dia)
+value: 1.662
+
+
+name: 14:1
+unit: g
+value: 0.0
+label: waffle, round (4\dia)
+value: 0.0
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: waffle, round (4\dia)
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.026
+label: waffle, round (4\dia)
+value: 0.008
+
+
+name: 17:1
+unit: g
+value: 0.0
+label: waffle, round (4\dia)
+value: 0.0
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 5.099
+label: waffle, round (4\dia)
+value: 1.632
+
+
+name: 20:1
+unit: g
+value: 0.07
+label: waffle, round (4\dia)
+value: 0.022
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 2.24
+label: waffle, round (4\dia)
+value: 0.717
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 1.856
+label: waffle, round (4\dia)
+value: 0.594
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.371
+label: waffle, round (4\dia)
+value: 0.119
+
+
+name: 18:3 n-6 c,c,c
+unit: g
+value: 0.0
+label: waffle, round (4\dia)
+value: 0.0
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.007
+label: waffle, round (4\dia)
+value: 0.002
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.0
+label: waffle, round (4\dia)
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.005
+label: waffle, round (4\dia)
+value: 0.002
+
+
+name: Cholesterol
+unit: mg
+value: 16.0
+label: waffle, round (4\dia)
+value: 5.0
+
+

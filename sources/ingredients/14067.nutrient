@@ -1,0 +1,623 @@
+ndbno: 14067
+
+
+name: Beverages, Protein powder soy based
+
+
+name: Water
+unit: g
+value: 4.13
+label: scoop
+value: 1.86
+
+
+name: Energy
+unit: kcal
+value: 388.0
+label: scoop
+value: 175.0
+
+
+name: Energy
+unit: kJ
+value: 1622.0
+label: scoop
+value: 730.0
+
+
+name: Protein
+unit: g
+value: 55.56
+label: scoop
+value: 25.0
+
+
+name: Total lipid (fat)
+unit: g
+value: 5.56
+label: scoop
+value: 2.5
+
+
+name: Ash
+unit: g
+value: 5.87
+label: scoop
+value: 2.64
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 28.89
+label: scoop
+value: 13.0
+
+
+name: Fiber, total dietary
+unit: g
+value: 6.7
+label: scoop
+value: 3.0
+
+
+name: Sugars, total
+unit: g
+value: 22.22
+label: scoop
+value: 10.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 178.0
+label: scoop
+value: 80.0
+
+
+name: Iron, Fe
+unit: mg
+value: 12.0
+label: scoop
+value: 5.4
+
+
+name: Magnesium, Mg
+unit: mg
+value: 64.0
+label: scoop
+value: 29.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 1272.0
+label: scoop
+value: 572.0
+
+
+name: Potassium, K
+unit: mg
+value: 933.0
+label: scoop
+value: 420.0
+
+
+name: Sodium, Na
+unit: mg
+value: 733.0
+label: scoop
+value: 330.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 6.6
+label: scoop
+value: 2.97
+
+
+name: Copper, Cu
+unit: mg
+value: 2.62
+label: scoop
+value: 1.179
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 1.3
+label: scoop
+value: 0.6
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: scoop
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.288
+label: scoop
+value: 0.13
+
+
+name: Riboflavin
+unit: mg
+value: 0.164
+label: scoop
+value: 0.074
+
+
+name: Niacin
+unit: mg
+value: 2.357
+label: scoop
+value: 1.061
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.164
+label: scoop
+value: 0.074
+
+
+name: Folate, total
+unit: \u00B5g
+value: 289.0
+label: scoop
+value: 130.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: scoop
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 289.0
+label: scoop
+value: 130.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 289.0
+label: scoop
+value: 130.0
+
+
+name: Choline, total
+unit: mg
+value: 312.9
+label: scoop
+value: 140.8
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: scoop
+value: 0.0
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: scoop
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 0.0
+label: scoop
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: scoop
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 0.0
+label: scoop
+value: 0.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: scoop
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: scoop
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 0.0
+label: scoop
+value: 0.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: scoop
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 0.0
+label: scoop
+value: 0.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.0
+label: scoop
+value: 0.0
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: scoop
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: scoop
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: scoop
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 0.0
+label: scoop
+value: 0.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 1.111
+label: scoop
+value: 0.5
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: scoop
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: scoop
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: scoop
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: scoop
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: scoop
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.013
+label: scoop
+value: 0.006
+
+
+name: 16:0
+unit: g
+value: 0.508
+label: scoop
+value: 0.229
+
+
+name: 18:0
+unit: g
+value: 0.17
+label: scoop
+value: 0.076
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 1.057
+label: scoop
+value: 0.476
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.013
+label: scoop
+value: 0.006
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 1.044
+label: scoop
+value: 0.47
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: scoop
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: scoop
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 2.701
+label: scoop
+value: 1.215
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 2.381
+label: scoop
+value: 1.071
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.32
+label: scoop
+value: 0.144
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: scoop
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: scoop
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: scoop
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: scoop
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: scoop
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.0
+label: scoop
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: scoop
+value: 0.0
+
+
+name: Tryptophan
+unit: g
+value: 0.722
+label: scoop
+value: 0.325
+
+
+name: Threonine
+unit: g
+value: 2.169
+label: scoop
+value: 0.976
+
+
+name: Isoleucine
+unit: g
+value: 2.762
+label: scoop
+value: 1.243
+
+
+name: Leucine
+unit: g
+value: 4.602
+label: scoop
+value: 2.071
+
+
+name: Lysine
+unit: g
+value: 3.551
+label: scoop
+value: 1.598
+
+
+name: Methionine
+unit: g
+value: 0.722
+label: scoop
+value: 0.325
+
+
+name: Cystine
+unit: g
+value: 0.722
+label: scoop
+value: 0.325
+
+
+name: Phenylalanine
+unit: g
+value: 2.958
+label: scoop
+value: 1.331
+
+
+name: Tyrosine
+unit: g
+value: 2.169
+label: scoop
+value: 0.976
+
+
+name: Valine
+unit: g
+value: 2.827
+label: scoop
+value: 1.272
+
+
+name: Arginine
+unit: g
+value: 4.273
+label: scoop
+value: 1.923
+
+
+name: Histidine
+unit: g
+value: 1.511
+label: scoop
+value: 0.68
+
+
+name: Alanine
+unit: g
+value: 2.433
+label: scoop
+value: 1.095
+
+
+name: Aspartic acid
+unit: g
+value: 6.576
+label: scoop
+value: 2.959
+
+
+name: Glutamic acid
+unit: g
+value: 10.849
+label: scoop
+value: 4.882
+
+
+name: Glycine
+unit: g
+value: 2.367
+label: scoop
+value: 1.065
+
+
+name: Proline
+unit: g
+value: 2.893
+label: scoop
+value: 1.302
+
+
+name: Serine
+unit: g
+value: 2.958
+label: scoop
+value: 1.331
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: scoop
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: scoop
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: scoop
+value: 0.0
+
+
+

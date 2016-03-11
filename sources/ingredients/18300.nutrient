@@ -1,0 +1,810 @@
+ndbno: 18300
+
+
+name: Pancakes, whole-wheat, dry mix, incomplete, prepared
+
+
+name: Water
+unit: g
+value: 52.8
+label: oz
+value: 14.97
+label: pancake (4\ dia)
+value: 23.23
+label: pancake (6\ dia)
+value: 68.11
+
+
+name: Energy
+unit: kcal
+value: 208.0
+label: oz
+value: 59.0
+label: pancake (4\ dia)
+value: 92.0
+label: pancake (6\ dia)
+value: 268.0
+
+
+name: Energy
+unit: kJ
+value: 870.0
+label: oz
+value: 247.0
+label: pancake (4\ dia)
+value: 383.0
+label: pancake (6\ dia)
+value: 1122.0
+
+
+name: Protein
+unit: g
+value: 8.5
+label: oz
+value: 2.41
+label: pancake (4\ dia)
+value: 3.74
+label: pancake (6\ dia)
+value: 10.96
+
+
+name: Total lipid (fat)
+unit: g
+value: 6.5
+label: oz
+value: 1.84
+label: pancake (4\ dia)
+value: 2.86
+label: pancake (6\ dia)
+value: 8.38
+
+
+name: Ash
+unit: g
+value: 2.8
+label: oz
+value: 0.79
+label: pancake (4\ dia)
+value: 1.23
+label: pancake (6\ dia)
+value: 3.61
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 29.4
+label: oz
+value: 8.33
+label: pancake (4\ dia)
+value: 12.94
+label: pancake (6\ dia)
+value: 37.93
+
+
+name: Fiber, total dietary
+unit: g
+value: 2.8
+label: oz
+value: 0.8
+label: pancake (4\ dia)
+value: 1.2
+label: pancake (6\ dia)
+value: 3.6
+
+
+name: Calcium, Ca
+unit: mg
+value: 250.0
+label: oz
+value: 71.0
+label: pancake (4\ dia)
+value: 110.0
+label: pancake (6\ dia)
+value: 322.0
+
+
+name: Iron, Fe
+unit: mg
+value: 3.11
+label: oz
+value: 0.88
+label: pancake (4\ dia)
+value: 1.37
+label: pancake (6\ dia)
+value: 4.01
+
+
+name: Magnesium, Mg
+unit: mg
+value: 46.0
+label: oz
+value: 13.0
+label: pancake (4\ dia)
+value: 20.0
+label: pancake (6\ dia)
+value: 59.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 373.0
+label: oz
+value: 106.0
+label: pancake (4\ dia)
+value: 164.0
+label: pancake (6\ dia)
+value: 481.0
+
+
+name: Potassium, K
+unit: mg
+value: 279.0
+label: oz
+value: 79.0
+label: pancake (4\ dia)
+value: 123.0
+label: pancake (6\ dia)
+value: 360.0
+
+
+name: Sodium, Na
+unit: mg
+value: 572.0
+label: oz
+value: 162.0
+label: pancake (4\ dia)
+value: 252.0
+label: pancake (6\ dia)
+value: 738.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 1.04
+label: oz
+value: 0.29
+label: pancake (4\ dia)
+value: 0.46
+label: pancake (6\ dia)
+value: 1.34
+
+
+name: Copper, Cu
+unit: mg
+value: 0.08
+label: oz
+value: 0.023
+label: pancake (4\ dia)
+value: 0.035
+label: pancake (6\ dia)
+value: 0.103
+
+
+name: Manganese, Mn
+unit: mg
+value: 1.546
+label: oz
+value: 0.438
+label: pancake (4\ dia)
+value: 0.68
+label: pancake (6\ dia)
+value: 1.994
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 19.4
+label: oz
+value: 5.5
+label: pancake (4\ dia)
+value: 8.5
+label: pancake (6\ dia)
+value: 25.0
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.5
+label: oz
+value: 0.1
+label: pancake (4\ dia)
+value: 0.2
+label: pancake (6\ dia)
+value: 0.6
+
+
+name: Thiamin
+unit: mg
+value: 0.197
+label: oz
+value: 0.056
+label: pancake (4\ dia)
+value: 0.087
+label: pancake (6\ dia)
+value: 0.254
+
+
+name: Riboflavin
+unit: mg
+value: 0.529
+label: oz
+value: 0.15
+label: pancake (4\ dia)
+value: 0.233
+label: pancake (6\ dia)
+value: 0.682
+
+
+name: Niacin
+unit: mg
+value: 2.309
+label: oz
+value: 0.655
+label: pancake (4\ dia)
+value: 1.016
+label: pancake (6\ dia)
+value: 2.979
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.518
+label: oz
+value: 0.147
+label: pancake (4\ dia)
+value: 0.228
+label: pancake (6\ dia)
+value: 0.668
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.11
+label: oz
+value: 0.031
+label: pancake (4\ dia)
+value: 0.048
+label: pancake (6\ dia)
+value: 0.142
+
+
+name: Folate, total
+unit: \u00B5g
+value: 29.0
+label: oz
+value: 8.0
+label: pancake (4\ dia)
+value: 13.0
+label: pancake (6\ dia)
+value: 37.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 8.0
+label: oz
+value: 2.0
+label: pancake (4\ dia)
+value: 4.0
+label: pancake (6\ dia)
+value: 10.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 21.0
+label: oz
+value: 6.0
+label: pancake (4\ dia)
+value: 9.0
+label: pancake (6\ dia)
+value: 27.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 35.0
+label: oz
+value: 10.0
+label: pancake (4\ dia)
+value: 15.0
+label: pancake (6\ dia)
+value: 45.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.29
+label: oz
+value: 0.08
+label: pancake (4\ dia)
+value: 0.13
+label: pancake (6\ dia)
+value: 0.37
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 64.0
+label: oz
+value: 18.0
+label: pancake (4\ dia)
+value: 28.0
+label: pancake (6\ dia)
+value: 83.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 63.0
+label: oz
+value: 18.0
+label: pancake (4\ dia)
+value: 28.0
+label: pancake (6\ dia)
+value: 81.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 226.0
+label: oz
+value: 64.0
+label: pancake (4\ dia)
+value: 99.0
+label: pancake (6\ dia)
+value: 292.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 1.749
+label: oz
+value: 0.496
+label: pancake (4\ dia)
+value: 0.77
+label: pancake (6\ dia)
+value: 2.256
+
+
+name: 4:0
+unit: g
+value: 0.041
+label: oz
+value: 0.012
+label: pancake (4\ dia)
+value: 0.018
+label: pancake (6\ dia)
+value: 0.053
+
+
+name: 6:0
+unit: g
+value: 0.025
+label: oz
+value: 0.007
+label: pancake (4\ dia)
+value: 0.011
+label: pancake (6\ dia)
+value: 0.032
+
+
+name: 8:0
+unit: g
+value: 0.014
+label: oz
+value: 0.004
+label: pancake (4\ dia)
+value: 0.006
+label: pancake (6\ dia)
+value: 0.018
+
+
+name: 10:0
+unit: g
+value: 0.032
+label: oz
+value: 0.009
+label: pancake (4\ dia)
+value: 0.014
+label: pancake (6\ dia)
+value: 0.041
+
+
+name: 12:0
+unit: g
+value: 0.037
+label: oz
+value: 0.01
+label: pancake (4\ dia)
+value: 0.016
+label: pancake (6\ dia)
+value: 0.048
+
+
+name: 14:0
+unit: g
+value: 0.137
+label: oz
+value: 0.039
+label: pancake (4\ dia)
+value: 0.06
+label: pancake (6\ dia)
+value: 0.177
+
+
+name: 16:0
+unit: g
+value: 1.057
+label: oz
+value: 0.3
+label: pancake (4\ dia)
+value: 0.465
+label: pancake (6\ dia)
+value: 1.364
+
+
+name: 18:0
+unit: g
+value: 0.391
+label: oz
+value: 0.111
+label: pancake (4\ dia)
+value: 0.172
+label: pancake (6\ dia)
+value: 0.504
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 1.742
+label: oz
+value: 0.494
+label: pancake (4\ dia)
+value: 0.766
+label: pancake (6\ dia)
+value: 2.247
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.077
+label: oz
+value: 0.022
+label: pancake (4\ dia)
+value: 0.034
+label: pancake (6\ dia)
+value: 0.099
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 1.65
+label: oz
+value: 0.468
+label: pancake (4\ dia)
+value: 0.726
+label: pancake (6\ dia)
+value: 2.128
+
+
+name: 20:1
+unit: g
+value: 0.01
+label: oz
+value: 0.003
+label: pancake (4\ dia)
+value: 0.004
+label: pancake (6\ dia)
+value: 0.013
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: pancake (4\ dia)
+value: 0.0
+label: pancake (6\ dia)
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 2.406
+label: oz
+value: 0.682
+label: pancake (4\ dia)
+value: 1.059
+label: pancake (6\ dia)
+value: 3.104
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 2.118
+label: oz
+value: 0.6
+label: pancake (4\ dia)
+value: 0.932
+label: pancake (6\ dia)
+value: 2.732
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.264
+label: oz
+value: 0.075
+label: pancake (4\ dia)
+value: 0.116
+label: pancake (6\ dia)
+value: 0.341
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: pancake (4\ dia)
+value: 0.0
+label: pancake (6\ dia)
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.019
+label: oz
+value: 0.005
+label: pancake (4\ dia)
+value: 0.008
+label: pancake (6\ dia)
+value: 0.025
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: pancake (4\ dia)
+value: 0.0
+label: pancake (6\ dia)
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: pancake (4\ dia)
+value: 0.0
+label: pancake (6\ dia)
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.005
+label: oz
+value: 0.001
+label: pancake (4\ dia)
+value: 0.002
+label: pancake (6\ dia)
+value: 0.006
+
+
+name: Cholesterol
+unit: mg
+value: 61.0
+label: oz
+value: 17.0
+label: pancake (4\ dia)
+value: 27.0
+label: pancake (6\ dia)
+value: 79.0
+
+
+name: Tryptophan
+unit: g
+value: 0.118
+label: oz
+value: 0.033
+label: pancake (4\ dia)
+value: 0.052
+label: pancake (6\ dia)
+value: 0.152
+
+
+name: Threonine
+unit: g
+value: 0.316
+label: oz
+value: 0.09
+label: pancake (4\ dia)
+value: 0.139
+label: pancake (6\ dia)
+value: 0.408
+
+
+name: Isoleucine
+unit: g
+value: 0.396
+label: oz
+value: 0.112
+label: pancake (4\ dia)
+value: 0.174
+label: pancake (6\ dia)
+value: 0.511
+
+
+name: Leucine
+unit: g
+value: 0.675
+label: oz
+value: 0.191
+label: pancake (4\ dia)
+value: 0.297
+label: pancake (6\ dia)
+value: 0.871
+
+
+name: Lysine
+unit: g
+value: 0.438
+label: oz
+value: 0.124
+label: pancake (4\ dia)
+value: 0.193
+label: pancake (6\ dia)
+value: 0.565
+
+
+name: Methionine
+unit: g
+value: 0.182
+label: oz
+value: 0.052
+label: pancake (4\ dia)
+value: 0.08
+label: pancake (6\ dia)
+value: 0.235
+
+
+name: Cystine
+unit: g
+value: 0.167
+label: oz
+value: 0.047
+label: pancake (4\ dia)
+value: 0.073
+label: pancake (6\ dia)
+value: 0.215
+
+
+name: Phenylalanine
+unit: g
+value: 0.419
+label: oz
+value: 0.119
+label: pancake (4\ dia)
+value: 0.184
+label: pancake (6\ dia)
+value: 0.541
+
+
+name: Tyrosine
+unit: g
+value: 0.312
+label: oz
+value: 0.088
+label: pancake (4\ dia)
+value: 0.137
+label: pancake (6\ dia)
+value: 0.402
+
+
+name: Valine
+unit: g
+value: 0.468
+label: oz
+value: 0.133
+label: pancake (4\ dia)
+value: 0.206
+label: pancake (6\ dia)
+value: 0.604
+
+
+name: Arginine
+unit: g
+value: 0.432
+label: oz
+value: 0.122
+label: pancake (4\ dia)
+value: 0.19
+label: pancake (6\ dia)
+value: 0.557
+
+
+name: Histidine
+unit: g
+value: 0.204
+label: oz
+value: 0.058
+label: pancake (4\ dia)
+value: 0.09
+label: pancake (6\ dia)
+value: 0.263
+
+
+name: Alanine
+unit: g
+value: 0.357
+label: oz
+value: 0.101
+label: pancake (4\ dia)
+value: 0.157
+label: pancake (6\ dia)
+value: 0.461
+
+
+name: Aspartic acid
+unit: g
+value: 0.62
+label: oz
+value: 0.176
+label: pancake (4\ dia)
+value: 0.273
+label: pancake (6\ dia)
+value: 0.8
+
+
+name: Glutamic acid
+unit: g
+value: 1.969
+label: oz
+value: 0.558
+label: pancake (4\ dia)
+value: 0.866
+label: pancake (6\ dia)
+value: 2.54
+
+
+name: Glycine
+unit: g
+value: 0.303
+label: oz
+value: 0.086
+label: pancake (4\ dia)
+value: 0.133
+label: pancake (6\ dia)
+value: 0.391
+
+
+name: Proline
+unit: g
+value: 0.671
+label: oz
+value: 0.19
+label: pancake (4\ dia)
+value: 0.295
+label: pancake (6\ dia)
+value: 0.866
+
+
+name: Serine
+unit: g
+value: 0.454
+label: oz
+value: 0.129
+label: pancake (4\ dia)
+value: 0.2
+label: pancake (6\ dia)
+value: 0.586
+
+
+

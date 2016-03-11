@@ -1,0 +1,574 @@
+ndbno: 18446
+
+
+name: Pie crust, standard-type, frozen, ready-to-bake, unenriched
+
+
+name: Water
+unit: g
+value: 21.0
+label: crust, single 9\
+value: 29.82
+label: piece (1/8 of 9\ crust)
+value: 3.36
+
+
+name: Energy
+unit: kcal
+value: 457.0
+label: crust, single 9\
+value: 649.0
+label: piece (1/8 of 9\ crust)
+value: 73.0
+
+
+name: Energy
+unit: kJ
+value: 1912.0
+label: crust, single 9\
+value: 2715.0
+label: piece (1/8 of 9\ crust)
+value: 306.0
+
+
+name: Protein
+unit: g
+value: 3.9
+label: crust, single 9\
+value: 5.54
+label: piece (1/8 of 9\ crust)
+value: 0.62
+
+
+name: Total lipid (fat)
+unit: g
+value: 29.2
+label: crust, single 9\
+value: 41.46
+label: piece (1/8 of 9\ crust)
+value: 4.67
+
+
+name: Ash
+unit: g
+value: 1.8
+label: crust, single 9\
+value: 2.56
+label: piece (1/8 of 9\ crust)
+value: 0.29
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 44.1
+label: crust, single 9\
+value: 62.62
+label: piece (1/8 of 9\ crust)
+value: 7.06
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.9
+label: crust, single 9\
+value: 1.3
+label: piece (1/8 of 9\ crust)
+value: 0.1
+
+
+name: Calcium, Ca
+unit: mg
+value: 18.0
+label: crust, single 9\
+value: 26.0
+label: piece (1/8 of 9\ crust)
+value: 3.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.38
+label: crust, single 9\
+value: 0.54
+label: piece (1/8 of 9\ crust)
+value: 0.06
+
+
+name: Magnesium, Mg
+unit: mg
+value: 16.0
+label: crust, single 9\
+value: 23.0
+label: piece (1/8 of 9\ crust)
+value: 3.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 53.0
+label: crust, single 9\
+value: 75.0
+label: piece (1/8 of 9\ crust)
+value: 8.0
+
+
+name: Potassium, K
+unit: mg
+value: 98.0
+label: crust, single 9\
+value: 139.0
+label: piece (1/8 of 9\ crust)
+value: 16.0
+
+
+name: Sodium, Na
+unit: mg
+value: 576.0
+label: crust, single 9\
+value: 818.0
+label: piece (1/8 of 9\ crust)
+value: 92.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.3
+label: crust, single 9\
+value: 0.43
+label: piece (1/8 of 9\ crust)
+value: 0.05
+
+
+name: Copper, Cu
+unit: mg
+value: 0.068
+label: crust, single 9\
+value: 0.097
+label: piece (1/8 of 9\ crust)
+value: 0.011
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.547
+label: crust, single 9\
+value: 0.777
+label: piece (1/8 of 9\ crust)
+value: 0.088
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: crust, single 9\
+value: 0.0
+label: piece (1/8 of 9\ crust)
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.05
+label: crust, single 9\
+value: 0.071
+label: piece (1/8 of 9\ crust)
+value: 0.008
+
+
+name: Riboflavin
+unit: mg
+value: 0.01
+label: crust, single 9\
+value: 0.014
+label: piece (1/8 of 9\ crust)
+value: 0.002
+
+
+name: Niacin
+unit: mg
+value: 0.55
+label: crust, single 9\
+value: 0.781
+label: piece (1/8 of 9\ crust)
+value: 0.088
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.231
+label: crust, single 9\
+value: 0.328
+label: piece (1/8 of 9\ crust)
+value: 0.037
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.071
+label: crust, single 9\
+value: 0.101
+label: piece (1/8 of 9\ crust)
+value: 0.011
+
+
+name: Folate, total
+unit: \u00B5g
+value: 10.0
+label: crust, single 9\
+value: 14.0
+label: piece (1/8 of 9\ crust)
+value: 2.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: crust, single 9\
+value: 0.0
+label: piece (1/8 of 9\ crust)
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 10.0
+label: crust, single 9\
+value: 14.0
+label: piece (1/8 of 9\ crust)
+value: 2.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 10.0
+label: crust, single 9\
+value: 14.0
+label: piece (1/8 of 9\ crust)
+value: 2.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.03
+label: crust, single 9\
+value: 0.04
+label: piece (1/8 of 9\ crust)
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 0.0
+label: crust, single 9\
+value: 0.0
+label: piece (1/8 of 9\ crust)
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: crust, single 9\
+value: 0.0
+label: piece (1/8 of 9\ crust)
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 0.0
+label: crust, single 9\
+value: 0.0
+label: piece (1/8 of 9\ crust)
+value: 0.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 4.357
+label: crust, single 9\
+value: 6.187
+label: piece (1/8 of 9\ crust)
+value: 0.697
+
+
+name: 4:0
+unit: g
+value: 0.001
+label: crust, single 9\
+value: 0.001
+label: piece (1/8 of 9\ crust)
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: crust, single 9\
+value: 0.0
+label: piece (1/8 of 9\ crust)
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: crust, single 9\
+value: 0.0
+label: piece (1/8 of 9\ crust)
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.031
+label: crust, single 9\
+value: 0.044
+label: piece (1/8 of 9\ crust)
+value: 0.005
+
+
+name: 16:0
+unit: g
+value: 2.878
+label: crust, single 9\
+value: 4.087
+label: piece (1/8 of 9\ crust)
+value: 0.46
+
+
+name: 18:0
+unit: g
+value: 1.443
+label: crust, single 9\
+value: 2.049
+label: piece (1/8 of 9\ crust)
+value: 0.231
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 12.414
+label: crust, single 9\
+value: 17.628
+label: piece (1/8 of 9\ crust)
+value: 1.986
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.117
+label: crust, single 9\
+value: 0.166
+label: piece (1/8 of 9\ crust)
+value: 0.019
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 12.273
+label: crust, single 9\
+value: 17.428
+label: piece (1/8 of 9\ crust)
+value: 1.964
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 11.0
+label: crust, single 9\
+value: 15.62
+label: piece (1/8 of 9\ crust)
+value: 1.76
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 10.212
+label: crust, single 9\
+value: 14.501
+label: piece (1/8 of 9\ crust)
+value: 1.634
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.759
+label: crust, single 9\
+value: 1.078
+label: piece (1/8 of 9\ crust)
+value: 0.121
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: crust, single 9\
+value: 0.0
+label: piece (1/8 of 9\ crust)
+value: 0.0
+
+
+name: Tryptophan
+unit: g
+value: 0.056
+label: crust, single 9\
+value: 0.08
+label: piece (1/8 of 9\ crust)
+value: 0.009
+
+
+name: Threonine
+unit: g
+value: 0.112
+label: crust, single 9\
+value: 0.159
+label: piece (1/8 of 9\ crust)
+value: 0.018
+
+
+name: Isoleucine
+unit: g
+value: 0.15
+label: crust, single 9\
+value: 0.213
+label: piece (1/8 of 9\ crust)
+value: 0.024
+
+
+name: Leucine
+unit: g
+value: 0.267
+label: crust, single 9\
+value: 0.379
+label: piece (1/8 of 9\ crust)
+value: 0.043
+
+
+name: Lysine
+unit: g
+value: 0.14
+label: crust, single 9\
+value: 0.199
+label: piece (1/8 of 9\ crust)
+value: 0.022
+
+
+name: Methionine
+unit: g
+value: 0.065
+label: crust, single 9\
+value: 0.092
+label: piece (1/8 of 9\ crust)
+value: 0.01
+
+
+name: Cystine
+unit: g
+value: 0.085
+label: crust, single 9\
+value: 0.121
+label: piece (1/8 of 9\ crust)
+value: 0.014
+
+
+name: Phenylalanine
+unit: g
+value: 0.182
+label: crust, single 9\
+value: 0.258
+label: piece (1/8 of 9\ crust)
+value: 0.029
+
+
+name: Tyrosine
+unit: g
+value: 0.111
+label: crust, single 9\
+value: 0.158
+label: piece (1/8 of 9\ crust)
+value: 0.018
+
+
+name: Valine
+unit: g
+value: 0.172
+label: crust, single 9\
+value: 0.244
+label: piece (1/8 of 9\ crust)
+value: 0.028
+
+
+name: Arginine
+unit: g
+value: 0.148
+label: crust, single 9\
+value: 0.21
+label: piece (1/8 of 9\ crust)
+value: 0.024
+
+
+name: Histidine
+unit: g
+value: 0.079
+label: crust, single 9\
+value: 0.112
+label: piece (1/8 of 9\ crust)
+value: 0.013
+
+
+name: Alanine
+unit: g
+value: 0.119
+label: crust, single 9\
+value: 0.169
+label: piece (1/8 of 9\ crust)
+value: 0.019
+
+
+name: Aspartic acid
+unit: g
+value: 0.169
+label: crust, single 9\
+value: 0.24
+label: piece (1/8 of 9\ crust)
+value: 0.027
+
+
+name: Glutamic acid
+unit: g
+value: 1.266
+label: crust, single 9\
+value: 1.798
+label: piece (1/8 of 9\ crust)
+value: 0.203
+
+
+name: Glycine
+unit: g
+value: 0.131
+label: crust, single 9\
+value: 0.186
+label: piece (1/8 of 9\ crust)
+value: 0.021
+
+
+name: Proline
+unit: g
+value: 0.427
+label: crust, single 9\
+value: 0.606
+label: piece (1/8 of 9\ crust)
+value: 0.068
+
+
+name: Serine
+unit: g
+value: 0.205
+label: crust, single 9\
+value: 0.291
+label: piece (1/8 of 9\ crust)
+value: 0.033
+
+
+

@@ -1,0 +1,843 @@
+ndbno: 11137
+
+
+name: Cauliflower, frozen, unprepared
+
+
+name: Water
+unit: g
+value: 92.51
+label: cup (1\ pieces)
+value: 61.06
+label: package (10 oz)
+value: 262.73
+
+
+name: Energy
+unit: kcal
+value: 24.0
+label: cup (1\ pieces)
+value: 16.0
+label: package (10 oz)
+value: 68.0
+
+
+name: Energy
+unit: kJ
+value: 100.0
+label: cup (1\ pieces)
+value: 66.0
+label: package (10 oz)
+value: 284.0
+
+
+name: Protein
+unit: g
+value: 2.01
+label: cup (1\ pieces)
+value: 1.33
+label: package (10 oz)
+value: 5.71
+
+
+name: Total lipid (fat)
+unit: g
+value: 0.27
+label: cup (1\ pieces)
+value: 0.18
+label: package (10 oz)
+value: 0.77
+
+
+name: Ash
+unit: g
+value: 0.53
+label: cup (1\ pieces)
+value: 0.35
+label: package (10 oz)
+value: 1.51
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 4.68
+label: cup (1\ pieces)
+value: 3.09
+label: package (10 oz)
+value: 13.29
+
+
+name: Fiber, total dietary
+unit: g
+value: 2.3
+label: cup (1\ pieces)
+value: 1.5
+label: package (10 oz)
+value: 6.5
+
+
+name: Sugars, total
+unit: g
+value: 2.22
+label: cup (1\ pieces)
+value: 1.47
+label: package (10 oz)
+value: 6.3
+
+
+name: Calcium, Ca
+unit: mg
+value: 22.0
+label: cup (1\ pieces)
+value: 15.0
+label: package (10 oz)
+value: 62.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.54
+label: cup (1\ pieces)
+value: 0.36
+label: package (10 oz)
+value: 1.53
+
+
+name: Magnesium, Mg
+unit: mg
+value: 12.0
+label: cup (1\ pieces)
+value: 8.0
+label: package (10 oz)
+value: 34.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 35.0
+label: cup (1\ pieces)
+value: 23.0
+label: package (10 oz)
+value: 99.0
+
+
+name: Potassium, K
+unit: mg
+value: 193.0
+label: cup (1\ pieces)
+value: 127.0
+label: package (10 oz)
+value: 548.0
+
+
+name: Sodium, Na
+unit: mg
+value: 24.0
+label: cup (1\ pieces)
+value: 16.0
+label: package (10 oz)
+value: 68.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.17
+label: cup (1\ pieces)
+value: 0.11
+label: package (10 oz)
+value: 0.48
+
+
+name: Copper, Cu
+unit: mg
+value: 0.031
+label: cup (1\ pieces)
+value: 0.02
+label: package (10 oz)
+value: 0.088
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.197
+label: cup (1\ pieces)
+value: 0.13
+label: package (10 oz)
+value: 0.559
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 0.8
+label: cup (1\ pieces)
+value: 0.5
+label: package (10 oz)
+value: 2.3
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 48.8
+label: cup (1\ pieces)
+value: 32.2
+label: package (10 oz)
+value: 138.6
+
+
+name: Thiamin
+unit: mg
+value: 0.051
+label: cup (1\ pieces)
+value: 0.034
+label: package (10 oz)
+value: 0.145
+
+
+name: Riboflavin
+unit: mg
+value: 0.07
+label: cup (1\ pieces)
+value: 0.046
+label: package (10 oz)
+value: 0.199
+
+
+name: Niacin
+unit: mg
+value: 0.429
+label: cup (1\ pieces)
+value: 0.283
+label: package (10 oz)
+value: 1.218
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.136
+label: cup (1\ pieces)
+value: 0.09
+label: package (10 oz)
+value: 0.386
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.123
+label: cup (1\ pieces)
+value: 0.081
+label: package (10 oz)
+value: 0.349
+
+
+name: Folate, total
+unit: \u00B5g
+value: 64.0
+label: cup (1\ pieces)
+value: 42.0
+label: package (10 oz)
+value: 182.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: cup (1\ pieces)
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 64.0
+label: cup (1\ pieces)
+value: 42.0
+label: package (10 oz)
+value: 182.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 64.0
+label: cup (1\ pieces)
+value: 42.0
+label: package (10 oz)
+value: 182.0
+
+
+name: Choline, total
+unit: mg
+value: 41.9
+label: cup (1\ pieces)
+value: 27.7
+label: package (10 oz)
+value: 119.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: cup (1\ pieces)
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: cup (1\ pieces)
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 1.0
+label: cup (1\ pieces)
+value: 1.0
+label: package (10 oz)
+value: 3.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: cup (1\ pieces)
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 7.0
+label: cup (1\ pieces)
+value: 5.0
+label: package (10 oz)
+value: 20.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: cup (1\ pieces)
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: cup (1\ pieces)
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 12.0
+label: cup (1\ pieces)
+value: 8.0
+label: package (10 oz)
+value: 34.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: cup (1\ pieces)
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 31.0
+label: cup (1\ pieces)
+value: 20.0
+label: package (10 oz)
+value: 88.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.07
+label: cup (1\ pieces)
+value: 0.05
+label: package (10 oz)
+value: 0.2
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: cup (1\ pieces)
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: cup (1\ pieces)
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: cup (1\ pieces)
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 14.8
+label: cup (1\ pieces)
+value: 9.8
+label: package (10 oz)
+value: 42.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.041
+label: cup (1\ pieces)
+value: 0.027
+label: package (10 oz)
+value: 0.116
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: cup (1\ pieces)
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: cup (1\ pieces)
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: cup (1\ pieces)
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: cup (1\ pieces)
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: cup (1\ pieces)
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.0
+label: cup (1\ pieces)
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: 16:0
+unit: g
+value: 0.036
+label: cup (1\ pieces)
+value: 0.024
+label: package (10 oz)
+value: 0.102
+
+
+name: 18:0
+unit: g
+value: 0.005
+label: cup (1\ pieces)
+value: 0.003
+label: package (10 oz)
+value: 0.014
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.019
+label: cup (1\ pieces)
+value: 0.013
+label: package (10 oz)
+value: 0.054
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.0
+label: cup (1\ pieces)
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.019
+label: cup (1\ pieces)
+value: 0.013
+label: package (10 oz)
+value: 0.054
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: cup (1\ pieces)
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: cup (1\ pieces)
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.128
+label: cup (1\ pieces)
+value: 0.084
+label: package (10 oz)
+value: 0.364
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.029
+label: cup (1\ pieces)
+value: 0.019
+label: package (10 oz)
+value: 0.082
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.098
+label: cup (1\ pieces)
+value: 0.065
+label: package (10 oz)
+value: 0.278
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: cup (1\ pieces)
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: cup (1\ pieces)
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: cup (1\ pieces)
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: cup (1\ pieces)
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: cup (1\ pieces)
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.0
+label: cup (1\ pieces)
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: cup (1\ pieces)
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: Tryptophan
+unit: g
+value: 0.026
+label: cup (1\ pieces)
+value: 0.017
+label: package (10 oz)
+value: 0.074
+
+
+name: Threonine
+unit: g
+value: 0.073
+label: cup (1\ pieces)
+value: 0.048
+label: package (10 oz)
+value: 0.207
+
+
+name: Isoleucine
+unit: g
+value: 0.077
+label: cup (1\ pieces)
+value: 0.051
+label: package (10 oz)
+value: 0.219
+
+
+name: Leucine
+unit: g
+value: 0.118
+label: cup (1\ pieces)
+value: 0.078
+label: package (10 oz)
+value: 0.335
+
+
+name: Lysine
+unit: g
+value: 0.108
+label: cup (1\ pieces)
+value: 0.071
+label: package (10 oz)
+value: 0.307
+
+
+name: Methionine
+unit: g
+value: 0.028
+label: cup (1\ pieces)
+value: 0.018
+label: package (10 oz)
+value: 0.08
+
+
+name: Cystine
+unit: g
+value: 0.023
+label: cup (1\ pieces)
+value: 0.015
+label: package (10 oz)
+value: 0.065
+
+
+name: Phenylalanine
+unit: g
+value: 0.072
+label: cup (1\ pieces)
+value: 0.048
+label: package (10 oz)
+value: 0.204
+
+
+name: Tyrosine
+unit: g
+value: 0.044
+label: cup (1\ pieces)
+value: 0.029
+label: package (10 oz)
+value: 0.125
+
+
+name: Valine
+unit: g
+value: 0.101
+label: cup (1\ pieces)
+value: 0.067
+label: package (10 oz)
+value: 0.287
+
+
+name: Arginine
+unit: g
+value: 0.097
+label: cup (1\ pieces)
+value: 0.064
+label: package (10 oz)
+value: 0.275
+
+
+name: Histidine
+unit: g
+value: 0.041
+label: cup (1\ pieces)
+value: 0.027
+label: package (10 oz)
+value: 0.116
+
+
+name: Alanine
+unit: g
+value: 0.106
+label: cup (1\ pieces)
+value: 0.07
+label: package (10 oz)
+value: 0.301
+
+
+name: Aspartic acid
+unit: g
+value: 0.236
+label: cup (1\ pieces)
+value: 0.156
+label: package (10 oz)
+value: 0.67
+
+
+name: Glutamic acid
+unit: g
+value: 0.268
+label: cup (1\ pieces)
+value: 0.177
+label: package (10 oz)
+value: 0.761
+
+
+name: Glycine
+unit: g
+value: 0.065
+label: cup (1\ pieces)
+value: 0.043
+label: package (10 oz)
+value: 0.185
+
+
+name: Proline
+unit: g
+value: 0.087
+label: cup (1\ pieces)
+value: 0.057
+label: package (10 oz)
+value: 0.247
+
+
+name: Serine
+unit: g
+value: 0.105
+label: cup (1\ pieces)
+value: 0.069
+label: package (10 oz)
+value: 0.298
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: cup (1\ pieces)
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: cup (1\ pieces)
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: cup (1\ pieces)
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: Luteolin
+unit: mg
+value: 0.3
+label: cup (1\ pieces)
+value: 0.2
+label: package (10 oz)
+value: 0.8
+
+
+name: Kaempferol
+unit: mg
+value: 0.3
+label: cup (1\ pieces)
+value: 0.2
+label: package (10 oz)
+value: 0.9
+
+
+name: Quercetin
+unit: mg
+value: 0.5
+label: cup (1\ pieces)
+value: 0.3
+label: package (10 oz)
+value: 1.5
+
+

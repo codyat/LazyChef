@@ -1,0 +1,413 @@
+ndbno: 09293
+
+
+name: Plums, dried (prunes), stewed, with added sugar
+
+
+name: Water
+unit: g
+value: 65.08
+label: cup, pitted
+value: 161.4
+
+
+name: Energy
+unit: kcal
+value: 124.0
+label: cup, pitted
+value: 308.0
+
+
+name: Energy
+unit: kJ
+value: 519.0
+label: cup, pitted
+value: 1287.0
+
+
+name: Protein
+unit: g
+value: 1.09
+label: cup, pitted
+value: 2.7
+
+
+name: Total lipid (fat)
+unit: g
+value: 0.22
+label: cup, pitted
+value: 0.55
+
+
+name: Ash
+unit: g
+value: 0.73
+label: cup, pitted
+value: 1.81
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 32.88
+label: cup, pitted
+value: 81.54
+
+
+name: Fiber, total dietary
+unit: g
+value: 3.8
+label: cup, pitted
+value: 9.4
+
+
+name: Calcium, Ca
+unit: mg
+value: 21.0
+label: cup, pitted
+value: 52.0
+
+
+name: Iron, Fe
+unit: mg
+value: 1.04
+label: cup, pitted
+value: 2.58
+
+
+name: Magnesium, Mg
+unit: mg
+value: 19.0
+label: cup, pitted
+value: 47.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 33.0
+label: cup, pitted
+value: 82.0
+
+
+name: Potassium, K
+unit: mg
+value: 312.0
+label: cup, pitted
+value: 774.0
+
+
+name: Sodium, Na
+unit: mg
+value: 2.0
+label: cup, pitted
+value: 5.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.22
+label: cup, pitted
+value: 0.55
+
+
+name: Copper, Cu
+unit: mg
+value: 0.18
+label: cup, pitted
+value: 0.446
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.092
+label: cup, pitted
+value: 0.228
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 1.0
+label: cup, pitted
+value: 2.5
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 2.7
+label: cup, pitted
+value: 6.7
+
+
+name: Thiamin
+unit: mg
+value: 0.022
+label: cup, pitted
+value: 0.055
+
+
+name: Riboflavin
+unit: mg
+value: 0.093
+label: cup, pitted
+value: 0.231
+
+
+name: Niacin
+unit: mg
+value: 0.675
+label: cup, pitted
+value: 1.674
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.1
+label: cup, pitted
+value: 0.248
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.203
+label: cup, pitted
+value: 0.503
+
+
+name: Folate, total
+unit: \u00B5g
+value: 0.0
+label: cup, pitted
+value: 0.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: cup, pitted
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 0.0
+label: cup, pitted
+value: 0.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 0.0
+label: cup, pitted
+value: 0.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: cup, pitted
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 14.0
+label: cup, pitted
+value: 35.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: cup, pitted
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 285.0
+label: cup, pitted
+value: 707.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: cup, pitted
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: cup, pitted
+value: 0.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.017
+label: cup, pitted
+value: 0.042
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: cup, pitted
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: cup, pitted
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: cup, pitted
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: cup, pitted
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: cup, pitted
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.0
+label: cup, pitted
+value: 0.0
+
+
+name: 16:0
+unit: g
+value: 0.014
+label: cup, pitted
+value: 0.035
+
+
+name: 18:0
+unit: g
+value: 0.003
+label: cup, pitted
+value: 0.007
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.142
+label: cup, pitted
+value: 0.352
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.002
+label: cup, pitted
+value: 0.005
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.14
+label: cup, pitted
+value: 0.347
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: cup, pitted
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: cup, pitted
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.047
+label: cup, pitted
+value: 0.117
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.047
+label: cup, pitted
+value: 0.117
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.0
+label: cup, pitted
+value: 0.0
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: cup, pitted
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: cup, pitted
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: cup, pitted
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: cup, pitted
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: cup, pitted
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: cup, pitted
+value: 0.0
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: cup, pitted
+value: 0.0
+
+
+

@@ -1,0 +1,461 @@
+ndbno: 15271
+
+
+name: Crustaceans, shrimp, cooked (not previously frozen)
+
+
+name: Water
+unit: g
+value: 74.33
+label: oz
+value: 63.18
+
+
+name: Energy
+unit: kcal
+value: 99.0
+label: oz
+value: 84.0
+
+
+name: Energy
+unit: kJ
+value: 415.0
+label: oz
+value: 353.0
+
+
+name: Protein
+unit: g
+value: 23.98
+label: oz
+value: 20.38
+
+
+name: Total lipid (fat)
+unit: g
+value: 0.28
+label: oz
+value: 0.24
+
+
+name: Ash
+unit: g
+value: 1.22
+label: oz
+value: 1.04
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 0.2
+label: oz
+value: 0.17
+
+
+name: Calcium, Ca
+unit: mg
+value: 70.0
+label: oz
+value: 60.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.51
+label: oz
+value: 0.43
+
+
+name: Magnesium, Mg
+unit: mg
+value: 39.0
+label: oz
+value: 33.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 237.0
+label: oz
+value: 201.0
+
+
+name: Potassium, K
+unit: mg
+value: 259.0
+label: oz
+value: 220.0
+
+
+name: Sodium, Na
+unit: mg
+value: 111.0
+label: oz
+value: 94.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 1.64
+label: oz
+value: 1.39
+
+
+name: Copper, Cu
+unit: mg
+value: 0.379
+label: oz
+value: 0.322
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.033
+label: oz
+value: 0.028
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.056
+label: oz
+value: 0.048
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.001
+label: oz
+value: 0.001
+
+
+name: 15:0
+unit: g
+value: 0.001
+label: oz
+value: 0.001
+
+
+name: 16:0
+unit: g
+value: 0.028
+label: oz
+value: 0.024
+
+
+name: 17:0
+unit: g
+value: 0.002
+label: oz
+value: 0.002
+
+
+name: 18:0
+unit: g
+value: 0.021
+label: oz
+value: 0.018
+
+
+name: 20:0
+unit: g
+value: 0.001
+label: oz
+value: 0.001
+
+
+name: 22:0
+unit: g
+value: 0.002
+label: oz
+value: 0.002
+
+
+name: 24:0
+unit: g
+value: 0.001
+label: oz
+value: 0.001
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.048
+label: oz
+value: 0.041
+
+
+name: 14:1
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.002
+label: oz
+value: 0.002
+
+
+name: 16:1 c
+unit: g
+value: 0.002
+label: oz
+value: 0.002
+
+
+name: 16:1 t
+unit: g
+value: 0.001
+label: oz
+value: 0.001
+
+
+name: 17:1
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.021
+label: oz
+value: 0.018
+
+
+name: 18:1 c
+unit: g
+value: 0.02
+label: oz
+value: 0.017
+
+
+name: 18:1 t
+unit: g
+value: 0.001
+label: oz
+value: 0.001
+
+
+name: 20:1
+unit: g
+value: 0.001
+label: oz
+value: 0.001
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 22:1 c
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 22:1 t
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 24:1 c
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.079
+label: oz
+value: 0.067
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.018
+label: oz
+value: 0.015
+
+
+name: 18:2 n-6 c,c
+unit: g
+value: 0.018
+label: oz
+value: 0.015
+
+
+name: 18:2 CLAs
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 18:2 t not further defined
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.001
+label: oz
+value: 0.001
+
+
+name: 18:3 n-3 c,c,c (ALA)
+unit: g
+value: 0.001
+label: oz
+value: 0.001
+
+
+name: 18:3 n-6 c,c,c
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.002
+label: oz
+value: 0.002
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.001
+label: oz
+value: 0.001
+
+
+name: 20:3 n-6
+unit: g
+value: 0.001
+label: oz
+value: 0.001
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.007
+label: oz
+value: 0.006
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.015
+label: oz
+value: 0.013
+
+
+name: 22:4
+unit: g
+value: 0.001
+label: oz
+value: 0.001
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.001
+label: oz
+value: 0.001
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.015
+label: oz
+value: 0.013
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.002
+label: oz
+value: 0.002
+
+
+name: Fatty acids, total trans-monoenoic
+unit: g
+value: 0.002
+label: oz
+value: 0.002
+
+
+name: Cholesterol
+unit: mg
+value: 189.0
+label: oz
+value: 161.0
+
+

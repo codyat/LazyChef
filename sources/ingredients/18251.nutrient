@@ -1,0 +1,986 @@
+ndbno: 18251
+
+
+name: Doughnuts, cake-type, chocolate, sugared or glazed
+
+
+name: Water
+unit: g
+value: 16.3
+label: oz
+value: 4.62
+label: doughnut (3-3/4\ dia)
+value: 9.78
+label: doughnut, medium (approx 3\ dia)
+value: 6.85
+
+
+name: Energy
+unit: kcal
+value: 417.0
+label: oz
+value: 118.0
+label: doughnut (3-3/4\ dia)
+value: 250.0
+label: doughnut, medium (approx 3\ dia)
+value: 175.0
+
+
+name: Energy
+unit: kJ
+value: 1745.0
+label: oz
+value: 495.0
+label: doughnut (3-3/4\ dia)
+value: 1047.0
+label: doughnut, medium (approx 3\ dia)
+value: 733.0
+
+
+name: Protein
+unit: g
+value: 4.5
+label: oz
+value: 1.28
+label: doughnut (3-3/4\ dia)
+value: 2.7
+label: doughnut, medium (approx 3\ dia)
+value: 1.89
+
+
+name: Total lipid (fat)
+unit: g
+value: 19.9
+label: oz
+value: 5.64
+label: doughnut (3-3/4\ dia)
+value: 11.94
+label: doughnut, medium (approx 3\ dia)
+value: 8.36
+
+
+name: Ash
+unit: g
+value: 1.8
+label: oz
+value: 0.51
+label: doughnut (3-3/4\ dia)
+value: 1.08
+label: doughnut, medium (approx 3\ dia)
+value: 0.76
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 57.4
+label: oz
+value: 16.27
+label: doughnut (3-3/4\ dia)
+value: 34.44
+label: doughnut, medium (approx 3\ dia)
+value: 24.11
+
+
+name: Fiber, total dietary
+unit: g
+value: 2.2
+label: oz
+value: 0.6
+label: doughnut (3-3/4\ dia)
+value: 1.3
+label: doughnut, medium (approx 3\ dia)
+value: 0.9
+
+
+name: Sugars, total
+unit: g
+value: 31.92
+label: oz
+value: 9.05
+label: doughnut (3-3/4\ dia)
+value: 19.15
+label: doughnut, medium (approx 3\ dia)
+value: 13.41
+
+
+name: Calcium, Ca
+unit: mg
+value: 213.0
+label: oz
+value: 60.0
+label: doughnut (3-3/4\ dia)
+value: 128.0
+label: doughnut, medium (approx 3\ dia)
+value: 89.0
+
+
+name: Iron, Fe
+unit: mg
+value: 2.27
+label: oz
+value: 0.64
+label: doughnut (3-3/4\ dia)
+value: 1.36
+label: doughnut, medium (approx 3\ dia)
+value: 0.95
+
+
+name: Magnesium, Mg
+unit: mg
+value: 34.0
+label: oz
+value: 10.0
+label: doughnut (3-3/4\ dia)
+value: 20.0
+label: doughnut, medium (approx 3\ dia)
+value: 14.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 162.0
+label: oz
+value: 46.0
+label: doughnut (3-3/4\ dia)
+value: 97.0
+label: doughnut, medium (approx 3\ dia)
+value: 68.0
+
+
+name: Potassium, K
+unit: mg
+value: 106.0
+label: oz
+value: 30.0
+label: doughnut (3-3/4\ dia)
+value: 64.0
+label: doughnut, medium (approx 3\ dia)
+value: 45.0
+
+
+name: Sodium, Na
+unit: mg
+value: 215.0
+label: oz
+value: 61.0
+label: doughnut (3-3/4\ dia)
+value: 129.0
+label: doughnut, medium (approx 3\ dia)
+value: 90.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.57
+label: oz
+value: 0.16
+label: doughnut (3-3/4\ dia)
+value: 0.34
+label: doughnut, medium (approx 3\ dia)
+value: 0.24
+
+
+name: Copper, Cu
+unit: mg
+value: 0.191
+label: oz
+value: 0.054
+label: doughnut (3-3/4\ dia)
+value: 0.115
+label: doughnut, medium (approx 3\ dia)
+value: 0.08
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.37
+label: oz
+value: 0.105
+label: doughnut (3-3/4\ dia)
+value: 0.222
+label: doughnut, medium (approx 3\ dia)
+value: 0.155
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 4.1
+label: oz
+value: 1.2
+label: doughnut (3-3/4\ dia)
+value: 2.5
+label: doughnut, medium (approx 3\ dia)
+value: 1.7
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.1
+label: oz
+value: 0.0
+label: doughnut (3-3/4\ dia)
+value: 0.1
+label: doughnut, medium (approx 3\ dia)
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.045
+label: oz
+value: 0.013
+label: doughnut (3-3/4\ dia)
+value: 0.027
+label: doughnut, medium (approx 3\ dia)
+value: 0.019
+
+
+name: Riboflavin
+unit: mg
+value: 0.07
+label: oz
+value: 0.02
+label: doughnut (3-3/4\ dia)
+value: 0.042
+label: doughnut, medium (approx 3\ dia)
+value: 0.029
+
+
+name: Niacin
+unit: mg
+value: 0.47
+label: oz
+value: 0.133
+label: doughnut (3-3/4\ dia)
+value: 0.282
+label: doughnut, medium (approx 3\ dia)
+value: 0.197
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.342
+label: oz
+value: 0.097
+label: doughnut (3-3/4\ dia)
+value: 0.205
+label: doughnut, medium (approx 3\ dia)
+value: 0.144
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.027
+label: oz
+value: 0.008
+label: doughnut (3-3/4\ dia)
+value: 0.016
+label: doughnut, medium (approx 3\ dia)
+value: 0.011
+
+
+name: Folate, total
+unit: \u00B5g
+value: 45.0
+label: oz
+value: 13.0
+label: doughnut (3-3/4\ dia)
+value: 27.0
+label: doughnut, medium (approx 3\ dia)
+value: 19.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 28.0
+label: oz
+value: 8.0
+label: doughnut (3-3/4\ dia)
+value: 17.0
+label: doughnut, medium (approx 3\ dia)
+value: 12.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 17.0
+label: oz
+value: 5.0
+label: doughnut (3-3/4\ dia)
+value: 10.0
+label: doughnut, medium (approx 3\ dia)
+value: 7.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 64.0
+label: oz
+value: 18.0
+label: doughnut (3-3/4\ dia)
+value: 38.0
+label: doughnut, medium (approx 3\ dia)
+value: 27.0
+
+
+name: Choline, total
+unit: mg
+value: 29.1
+label: oz
+value: 8.2
+label: doughnut (3-3/4\ dia)
+value: 17.5
+label: doughnut, medium (approx 3\ dia)
+value: 12.2
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.1
+label: oz
+value: 0.03
+label: doughnut (3-3/4\ dia)
+value: 0.06
+label: doughnut, medium (approx 3\ dia)
+value: 0.04
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: doughnut (3-3/4\ dia)
+value: 0.0
+label: doughnut, medium (approx 3\ dia)
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 12.0
+label: oz
+value: 3.0
+label: doughnut (3-3/4\ dia)
+value: 7.0
+label: doughnut, medium (approx 3\ dia)
+value: 5.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 11.0
+label: oz
+value: 3.0
+label: doughnut (3-3/4\ dia)
+value: 7.0
+label: doughnut, medium (approx 3\ dia)
+value: 5.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 2.0
+label: oz
+value: 1.0
+label: doughnut (3-3/4\ dia)
+value: 1.0
+label: doughnut, medium (approx 3\ dia)
+value: 1.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 1.0
+label: oz
+value: 0.0
+label: doughnut (3-3/4\ dia)
+value: 1.0
+label: doughnut, medium (approx 3\ dia)
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 1.0
+label: oz
+value: 0.0
+label: doughnut (3-3/4\ dia)
+value: 1.0
+label: doughnut, medium (approx 3\ dia)
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 39.0
+label: oz
+value: 11.0
+label: doughnut (3-3/4\ dia)
+value: 23.0
+label: doughnut, medium (approx 3\ dia)
+value: 16.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: doughnut (3-3/4\ dia)
+value: 0.0
+label: doughnut, medium (approx 3\ dia)
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 20.0
+label: oz
+value: 6.0
+label: doughnut (3-3/4\ dia)
+value: 12.0
+label: doughnut, medium (approx 3\ dia)
+value: 8.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.21
+label: oz
+value: 0.06
+label: doughnut (3-3/4\ dia)
+value: 0.13
+label: doughnut, medium (approx 3\ dia)
+value: 0.09
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: doughnut (3-3/4\ dia)
+value: 0.0
+label: doughnut, medium (approx 3\ dia)
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: doughnut (3-3/4\ dia)
+value: 0.0
+label: doughnut, medium (approx 3\ dia)
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: oz
+value: 0.0
+label: doughnut (3-3/4\ dia)
+value: 0.0
+label: doughnut, medium (approx 3\ dia)
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 9.8
+label: oz
+value: 2.8
+label: doughnut (3-3/4\ dia)
+value: 5.9
+label: doughnut, medium (approx 3\ dia)
+value: 4.1
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 5.132
+label: oz
+value: 1.455
+label: doughnut (3-3/4\ dia)
+value: 3.079
+label: doughnut, medium (approx 3\ dia)
+value: 2.155
+
+
+name: 4:0
+unit: g
+value: 0.001
+label: oz
+value: 0.0
+label: doughnut (3-3/4\ dia)
+value: 0.001
+label: doughnut, medium (approx 3\ dia)
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: doughnut (3-3/4\ dia)
+value: 0.0
+label: doughnut, medium (approx 3\ dia)
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: doughnut (3-3/4\ dia)
+value: 0.0
+label: doughnut, medium (approx 3\ dia)
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.001
+label: oz
+value: 0.0
+label: doughnut (3-3/4\ dia)
+value: 0.001
+label: doughnut, medium (approx 3\ dia)
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: doughnut (3-3/4\ dia)
+value: 0.0
+label: doughnut, medium (approx 3\ dia)
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.099
+label: oz
+value: 0.028
+label: doughnut (3-3/4\ dia)
+value: 0.059
+label: doughnut, medium (approx 3\ dia)
+value: 0.042
+
+
+name: 16:0
+unit: g
+value: 2.649
+label: oz
+value: 0.751
+label: doughnut (3-3/4\ dia)
+value: 1.589
+label: doughnut, medium (approx 3\ dia)
+value: 1.113
+
+
+name: 18:0
+unit: g
+value: 2.376
+label: oz
+value: 0.674
+label: doughnut (3-3/4\ dia)
+value: 1.426
+label: doughnut, medium (approx 3\ dia)
+value: 0.998
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 11.278
+label: oz
+value: 3.197
+label: doughnut (3-3/4\ dia)
+value: 6.767
+label: doughnut, medium (approx 3\ dia)
+value: 4.737
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.013
+label: oz
+value: 0.004
+label: doughnut (3-3/4\ dia)
+value: 0.008
+label: doughnut, medium (approx 3\ dia)
+value: 0.005
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 11.263
+label: oz
+value: 3.193
+label: doughnut (3-3/4\ dia)
+value: 6.758
+label: doughnut, medium (approx 3\ dia)
+value: 4.73
+
+
+name: 20:1
+unit: g
+value: 0.001
+label: oz
+value: 0.0
+label: doughnut (3-3/4\ dia)
+value: 0.001
+label: doughnut, medium (approx 3\ dia)
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: doughnut (3-3/4\ dia)
+value: 0.0
+label: doughnut, medium (approx 3\ dia)
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 2.477
+label: oz
+value: 0.702
+label: doughnut (3-3/4\ dia)
+value: 1.486
+label: doughnut, medium (approx 3\ dia)
+value: 1.04
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 2.343
+label: oz
+value: 0.664
+label: doughnut (3-3/4\ dia)
+value: 1.406
+label: doughnut, medium (approx 3\ dia)
+value: 0.984
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.123
+label: oz
+value: 0.035
+label: doughnut (3-3/4\ dia)
+value: 0.074
+label: doughnut, medium (approx 3\ dia)
+value: 0.052
+
+
+name: 18:4
+unit: g
+value: 0.001
+label: oz
+value: 0.0
+label: doughnut (3-3/4\ dia)
+value: 0.001
+label: doughnut, medium (approx 3\ dia)
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.007
+label: oz
+value: 0.002
+label: doughnut (3-3/4\ dia)
+value: 0.004
+label: doughnut, medium (approx 3\ dia)
+value: 0.003
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.002
+label: oz
+value: 0.001
+label: doughnut (3-3/4\ dia)
+value: 0.001
+label: doughnut, medium (approx 3\ dia)
+value: 0.001
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: doughnut (3-3/4\ dia)
+value: 0.0
+label: doughnut, medium (approx 3\ dia)
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.002
+label: oz
+value: 0.001
+label: doughnut (3-3/4\ dia)
+value: 0.001
+label: doughnut, medium (approx 3\ dia)
+value: 0.001
+
+
+name: Cholesterol
+unit: mg
+value: 57.0
+label: oz
+value: 16.0
+label: doughnut (3-3/4\ dia)
+value: 34.0
+label: doughnut, medium (approx 3\ dia)
+value: 24.0
+
+
+name: Tryptophan
+unit: g
+value: 0.058
+label: oz
+value: 0.016
+label: doughnut (3-3/4\ dia)
+value: 0.035
+label: doughnut, medium (approx 3\ dia)
+value: 0.024
+
+
+name: Threonine
+unit: g
+value: 0.17
+label: oz
+value: 0.048
+label: doughnut (3-3/4\ dia)
+value: 0.102
+label: doughnut, medium (approx 3\ dia)
+value: 0.071
+
+
+name: Isoleucine
+unit: g
+value: 0.205
+label: oz
+value: 0.058
+label: doughnut (3-3/4\ dia)
+value: 0.123
+label: doughnut, medium (approx 3\ dia)
+value: 0.086
+
+
+name: Leucine
+unit: g
+value: 0.339
+label: oz
+value: 0.096
+label: doughnut (3-3/4\ dia)
+value: 0.203
+label: doughnut, medium (approx 3\ dia)
+value: 0.142
+
+
+name: Lysine
+unit: g
+value: 0.234
+label: oz
+value: 0.066
+label: doughnut (3-3/4\ dia)
+value: 0.14
+label: doughnut, medium (approx 3\ dia)
+value: 0.098
+
+
+name: Methionine
+unit: g
+value: 0.096
+label: oz
+value: 0.027
+label: doughnut (3-3/4\ dia)
+value: 0.058
+label: doughnut, medium (approx 3\ dia)
+value: 0.04
+
+
+name: Cystine
+unit: g
+value: 0.091
+label: oz
+value: 0.026
+label: doughnut (3-3/4\ dia)
+value: 0.055
+label: doughnut, medium (approx 3\ dia)
+value: 0.038
+
+
+name: Phenylalanine
+unit: g
+value: 0.224
+label: oz
+value: 0.064
+label: doughnut (3-3/4\ dia)
+value: 0.134
+label: doughnut, medium (approx 3\ dia)
+value: 0.094
+
+
+name: Tyrosine
+unit: g
+value: 0.156
+label: oz
+value: 0.044
+label: doughnut (3-3/4\ dia)
+value: 0.094
+label: doughnut, medium (approx 3\ dia)
+value: 0.066
+
+
+name: Valine
+unit: g
+value: 0.234
+label: oz
+value: 0.066
+label: doughnut (3-3/4\ dia)
+value: 0.14
+label: doughnut, medium (approx 3\ dia)
+value: 0.098
+
+
+name: Arginine
+unit: g
+value: 0.227
+label: oz
+value: 0.064
+label: doughnut (3-3/4\ dia)
+value: 0.136
+label: doughnut, medium (approx 3\ dia)
+value: 0.095
+
+
+name: Histidine
+unit: g
+value: 0.1
+label: oz
+value: 0.028
+label: doughnut (3-3/4\ dia)
+value: 0.06
+label: doughnut, medium (approx 3\ dia)
+value: 0.042
+
+
+name: Alanine
+unit: g
+value: 0.19
+label: oz
+value: 0.054
+label: doughnut (3-3/4\ dia)
+value: 0.114
+label: doughnut, medium (approx 3\ dia)
+value: 0.08
+
+
+name: Aspartic acid
+unit: g
+value: 0.352
+label: oz
+value: 0.1
+label: doughnut (3-3/4\ dia)
+value: 0.211
+label: doughnut, medium (approx 3\ dia)
+value: 0.148
+
+
+name: Glutamic acid
+unit: g
+value: 0.998
+label: oz
+value: 0.283
+label: doughnut (3-3/4\ dia)
+value: 0.599
+label: doughnut, medium (approx 3\ dia)
+value: 0.419
+
+
+name: Glycine
+unit: g
+value: 0.159
+label: oz
+value: 0.045
+label: doughnut (3-3/4\ dia)
+value: 0.095
+label: doughnut, medium (approx 3\ dia)
+value: 0.067
+
+
+name: Proline
+unit: g
+value: 0.327
+label: oz
+value: 0.093
+label: doughnut (3-3/4\ dia)
+value: 0.196
+label: doughnut, medium (approx 3\ dia)
+value: 0.137
+
+
+name: Serine
+unit: g
+value: 0.263
+label: oz
+value: 0.075
+label: doughnut (3-3/4\ dia)
+value: 0.158
+label: doughnut, medium (approx 3\ dia)
+value: 0.11
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: doughnut (3-3/4\ dia)
+value: 0.0
+label: doughnut, medium (approx 3\ dia)
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 1.0
+label: oz
+value: 0.0
+label: doughnut (3-3/4\ dia)
+value: 1.0
+label: doughnut, medium (approx 3\ dia)
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 21.0
+label: oz
+value: 6.0
+label: doughnut (3-3/4\ dia)
+value: 13.0
+label: doughnut, medium (approx 3\ dia)
+value: 9.0
+
+
+

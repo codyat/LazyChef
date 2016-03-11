@@ -1,0 +1,798 @@
+ndbno: 11918
+
+
+name: Peppers, sweet, red, frozen, chopped, boiled, drained, without salt
+
+
+name: Water
+unit: g
+value: 94.7
+label: cup, chopped or strips
+value: 127.84
+label: tablespoon, chopped
+value: 10.99
+
+
+name: Energy
+unit: kcal
+value: 16.0
+label: cup, chopped or strips
+value: 22.0
+label: tablespoon, chopped
+value: 2.0
+
+
+name: Energy
+unit: kJ
+value: 65.0
+label: cup, chopped or strips
+value: 88.0
+label: tablespoon, chopped
+value: 8.0
+
+
+name: Protein
+unit: g
+value: 0.95
+label: cup, chopped or strips
+value: 1.28
+label: tablespoon, chopped
+value: 0.11
+
+
+name: Total lipid (fat)
+unit: g
+value: 0.18
+label: cup, chopped or strips
+value: 0.24
+label: tablespoon, chopped
+value: 0.02
+
+
+name: Ash
+unit: g
+value: 0.86
+label: cup, chopped or strips
+value: 1.16
+label: tablespoon, chopped
+value: 0.1
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 3.31
+label: cup, chopped or strips
+value: 4.47
+label: tablespoon, chopped
+value: 0.38
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.8
+label: cup, chopped or strips
+value: 1.1
+label: tablespoon, chopped
+value: 0.1
+
+
+name: Sugars, total
+unit: g
+value: 2.86
+label: cup, chopped or strips
+value: 3.86
+label: tablespoon, chopped
+value: 0.33
+
+
+name: Calcium, Ca
+unit: mg
+value: 8.0
+label: cup, chopped or strips
+value: 11.0
+label: tablespoon, chopped
+value: 1.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.52
+label: cup, chopped or strips
+value: 0.7
+label: tablespoon, chopped
+value: 0.06
+
+
+name: Magnesium, Mg
+unit: mg
+value: 7.0
+label: cup, chopped or strips
+value: 9.0
+label: tablespoon, chopped
+value: 1.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 13.0
+label: cup, chopped or strips
+value: 18.0
+label: tablespoon, chopped
+value: 2.0
+
+
+name: Potassium, K
+unit: mg
+value: 72.0
+label: cup, chopped or strips
+value: 97.0
+label: tablespoon, chopped
+value: 8.0
+
+
+name: Sodium, Na
+unit: mg
+value: 4.0
+label: cup, chopped or strips
+value: 5.0
+label: tablespoon, chopped
+value: 0.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.05
+label: cup, chopped or strips
+value: 0.07
+label: tablespoon, chopped
+value: 0.01
+
+
+name: Copper, Cu
+unit: mg
+value: 0.044
+label: cup, chopped or strips
+value: 0.059
+label: tablespoon, chopped
+value: 0.005
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.097
+label: cup, chopped or strips
+value: 0.131
+label: tablespoon, chopped
+value: 0.011
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 0.2
+label: cup, chopped or strips
+value: 0.3
+label: tablespoon, chopped
+value: 0.0
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 41.2
+label: cup, chopped or strips
+value: 55.6
+label: tablespoon, chopped
+value: 4.8
+
+
+name: Thiamin
+unit: mg
+value: 0.051
+label: cup, chopped or strips
+value: 0.069
+label: tablespoon, chopped
+value: 0.006
+
+
+name: Riboflavin
+unit: mg
+value: 0.031
+label: cup, chopped or strips
+value: 0.042
+label: tablespoon, chopped
+value: 0.004
+
+
+name: Niacin
+unit: mg
+value: 1.082
+label: cup, chopped or strips
+value: 1.461
+label: tablespoon, chopped
+value: 0.126
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.023
+label: cup, chopped or strips
+value: 0.031
+label: tablespoon, chopped
+value: 0.003
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.108
+label: cup, chopped or strips
+value: 0.146
+label: tablespoon, chopped
+value: 0.013
+
+
+name: Folate, total
+unit: \u00B5g
+value: 10.0
+label: cup, chopped or strips
+value: 14.0
+label: tablespoon, chopped
+value: 1.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: cup, chopped or strips
+value: 0.0
+label: tablespoon, chopped
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 10.0
+label: cup, chopped or strips
+value: 14.0
+label: tablespoon, chopped
+value: 1.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 10.0
+label: cup, chopped or strips
+value: 14.0
+label: tablespoon, chopped
+value: 1.0
+
+
+name: Choline, total
+unit: mg
+value: 3.8
+label: cup, chopped or strips
+value: 5.1
+label: tablespoon, chopped
+value: 0.4
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: cup, chopped or strips
+value: 0.0
+label: tablespoon, chopped
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 96.0
+label: cup, chopped or strips
+value: 130.0
+label: tablespoon, chopped
+value: 11.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: cup, chopped or strips
+value: 0.0
+label: tablespoon, chopped
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 994.0
+label: cup, chopped or strips
+value: 1342.0
+label: tablespoon, chopped
+value: 115.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 12.0
+label: cup, chopped or strips
+value: 16.0
+label: tablespoon, chopped
+value: 1.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 300.0
+label: cup, chopped or strips
+value: 405.0
+label: tablespoon, chopped
+value: 35.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 1917.0
+label: cup, chopped or strips
+value: 2588.0
+label: tablespoon, chopped
+value: 222.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: cup, chopped or strips
+value: 0.0
+label: tablespoon, chopped
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 31.0
+label: cup, chopped or strips
+value: 42.0
+label: tablespoon, chopped
+value: 4.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 1.08
+label: cup, chopped or strips
+value: 1.46
+label: tablespoon, chopped
+value: 0.13
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: cup, chopped or strips
+value: 0.0
+label: tablespoon, chopped
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: cup, chopped or strips
+value: 0.0
+label: tablespoon, chopped
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 3.4
+label: cup, chopped or strips
+value: 4.6
+label: tablespoon, chopped
+value: 0.4
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.027
+label: cup, chopped or strips
+value: 0.036
+label: tablespoon, chopped
+value: 0.003
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: cup, chopped or strips
+value: 0.0
+label: tablespoon, chopped
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: cup, chopped or strips
+value: 0.0
+label: tablespoon, chopped
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: cup, chopped or strips
+value: 0.0
+label: tablespoon, chopped
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: cup, chopped or strips
+value: 0.0
+label: tablespoon, chopped
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: cup, chopped or strips
+value: 0.0
+label: tablespoon, chopped
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.001
+label: cup, chopped or strips
+value: 0.001
+label: tablespoon, chopped
+value: 0.0
+
+
+name: 16:0
+unit: g
+value: 0.02
+label: cup, chopped or strips
+value: 0.027
+label: tablespoon, chopped
+value: 0.002
+
+
+name: 18:0
+unit: g
+value: 0.006
+label: cup, chopped or strips
+value: 0.008
+label: tablespoon, chopped
+value: 0.001
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.012
+label: cup, chopped or strips
+value: 0.016
+label: tablespoon, chopped
+value: 0.001
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.001
+label: cup, chopped or strips
+value: 0.001
+label: tablespoon, chopped
+value: 0.0
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.011
+label: cup, chopped or strips
+value: 0.015
+label: tablespoon, chopped
+value: 0.001
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: cup, chopped or strips
+value: 0.0
+label: tablespoon, chopped
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: cup, chopped or strips
+value: 0.0
+label: tablespoon, chopped
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.099
+label: cup, chopped or strips
+value: 0.134
+label: tablespoon, chopped
+value: 0.011
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.09
+label: cup, chopped or strips
+value: 0.122
+label: tablespoon, chopped
+value: 0.01
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.009
+label: cup, chopped or strips
+value: 0.012
+label: tablespoon, chopped
+value: 0.001
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: cup, chopped or strips
+value: 0.0
+label: tablespoon, chopped
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: cup, chopped or strips
+value: 0.0
+label: tablespoon, chopped
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: cup, chopped or strips
+value: 0.0
+label: tablespoon, chopped
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: cup, chopped or strips
+value: 0.0
+label: tablespoon, chopped
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: cup, chopped or strips
+value: 0.0
+label: tablespoon, chopped
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.0
+label: cup, chopped or strips
+value: 0.0
+label: tablespoon, chopped
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: cup, chopped or strips
+value: 0.0
+label: tablespoon, chopped
+value: 0.0
+
+
+name: Tryptophan
+unit: g
+value: 0.011
+label: cup, chopped or strips
+value: 0.015
+label: tablespoon, chopped
+value: 0.001
+
+
+name: Threonine
+unit: g
+value: 0.039
+label: cup, chopped or strips
+value: 0.053
+label: tablespoon, chopped
+value: 0.005
+
+
+name: Isoleucine
+unit: g
+value: 0.02
+label: cup, chopped or strips
+value: 0.027
+label: tablespoon, chopped
+value: 0.002
+
+
+name: Leucine
+unit: g
+value: 0.034
+label: cup, chopped or strips
+value: 0.046
+label: tablespoon, chopped
+value: 0.004
+
+
+name: Lysine
+unit: g
+value: 0.034
+label: cup, chopped or strips
+value: 0.046
+label: tablespoon, chopped
+value: 0.004
+
+
+name: Methionine
+unit: g
+value: 0.005
+label: cup, chopped or strips
+value: 0.007
+label: tablespoon, chopped
+value: 0.001
+
+
+name: Cystine
+unit: g
+value: 0.018
+label: cup, chopped or strips
+value: 0.024
+label: tablespoon, chopped
+value: 0.002
+
+
+name: Phenylalanine
+unit: g
+value: 0.048
+label: cup, chopped or strips
+value: 0.065
+label: tablespoon, chopped
+value: 0.006
+
+
+name: Tyrosine
+unit: g
+value: 0.009
+label: cup, chopped or strips
+value: 0.012
+label: tablespoon, chopped
+value: 0.001
+
+
+name: Valine
+unit: g
+value: 0.029
+label: cup, chopped or strips
+value: 0.039
+label: tablespoon, chopped
+value: 0.003
+
+
+name: Arginine
+unit: g
+value: 0.034
+label: cup, chopped or strips
+value: 0.046
+label: tablespoon, chopped
+value: 0.004
+
+
+name: Histidine
+unit: g
+value: 0.016
+label: cup, chopped or strips
+value: 0.022
+label: tablespoon, chopped
+value: 0.002
+
+
+name: Alanine
+unit: g
+value: 0.025
+label: cup, chopped or strips
+value: 0.034
+label: tablespoon, chopped
+value: 0.003
+
+
+name: Aspartic acid
+unit: g
+value: 0.272
+label: cup, chopped or strips
+value: 0.367
+label: tablespoon, chopped
+value: 0.032
+
+
+name: Glutamic acid
+unit: g
+value: 0.202
+label: cup, chopped or strips
+value: 0.273
+label: tablespoon, chopped
+value: 0.023
+
+
+name: Glycine
+unit: g
+value: 0.027
+label: cup, chopped or strips
+value: 0.036
+label: tablespoon, chopped
+value: 0.003
+
+
+name: Proline
+unit: g
+value: 0.023
+label: cup, chopped or strips
+value: 0.031
+label: tablespoon, chopped
+value: 0.003
+
+
+name: Serine
+unit: g
+value: 0.048
+label: cup, chopped or strips
+value: 0.065
+label: tablespoon, chopped
+value: 0.006
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: cup, chopped or strips
+value: 0.0
+label: tablespoon, chopped
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: cup, chopped or strips
+value: 0.0
+label: tablespoon, chopped
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: cup, chopped or strips
+value: 0.0
+label: tablespoon, chopped
+value: 0.0
+
+

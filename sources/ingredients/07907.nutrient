@@ -1,0 +1,399 @@
+ndbno: 07907
+
+
+name: USDA Commodity, pork sausage, bulk/links/patties, frozen, raw
+
+
+name: Water
+unit: g
+value: 64.92
+label: link
+value: 18.18
+
+
+name: Energy
+unit: kcal
+value: 231.0
+label: link
+value: 65.0
+
+
+name: Energy
+unit: kJ
+value: 968.0
+label: link
+value: 271.0
+
+
+name: Protein
+unit: g
+value: 14.95
+label: link
+value: 4.19
+
+
+name: Total lipid (fat)
+unit: g
+value: 18.56
+label: link
+value: 5.2
+
+
+name: Ash
+unit: g
+value: 2.0
+label: link
+value: 0.56
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 0.0
+label: link
+value: 0.0
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: link
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 9.0
+label: link
+value: 3.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.99
+label: link
+value: 0.28
+
+
+name: Magnesium, Mg
+unit: mg
+value: 17.0
+label: link
+value: 5.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 162.0
+label: link
+value: 45.0
+
+
+name: Potassium, K
+unit: mg
+value: 231.0
+label: link
+value: 65.0
+
+
+name: Sodium, Na
+unit: mg
+value: 507.0
+label: link
+value: 142.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 2.39
+label: link
+value: 0.67
+
+
+name: Copper, Cu
+unit: mg
+value: 0.047
+label: link
+value: 0.013
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.018
+label: link
+value: 0.005
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 21.7
+label: link
+value: 6.1
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: link
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.688
+label: link
+value: 0.193
+
+
+name: Riboflavin
+unit: mg
+value: 0.223
+label: link
+value: 0.062
+
+
+name: Niacin
+unit: mg
+value: 2.619
+label: link
+value: 0.733
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.618
+label: link
+value: 0.173
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.234
+label: link
+value: 0.066
+
+
+name: Folate, total
+unit: \u00B5g
+value: 3.0
+label: link
+value: 1.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: link
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 3.0
+label: link
+value: 1.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 3.0
+label: link
+value: 1.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.84
+label: link
+value: 0.24
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 12.0
+label: link
+value: 3.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 12.0
+label: link
+value: 3.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 40.0
+label: link
+value: 11.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 4.968
+label: link
+value: 1.391
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: link
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: link
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: link
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.032
+label: link
+value: 0.009
+
+
+name: 12:0
+unit: g
+value: 0.016
+label: link
+value: 0.004
+
+
+name: 14:0
+unit: g
+value: 0.161
+label: link
+value: 0.045
+
+
+name: 16:0
+unit: g
+value: 3.218
+label: link
+value: 0.901
+
+
+name: 18:0
+unit: g
+value: 1.382
+label: link
+value: 0.387
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 8.061
+label: link
+value: 2.257
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.484
+label: link
+value: 0.136
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 7.439
+label: link
+value: 2.083
+
+
+name: 20:1
+unit: g
+value: 0.126
+label: link
+value: 0.035
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.004
+label: link
+value: 0.001
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 2.246
+label: link
+value: 0.629
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 1.722
+label: link
+value: 0.482
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.086
+label: link
+value: 0.024
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: link
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.09
+label: link
+value: 0.025
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.003
+label: link
+value: 0.001
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: link
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.013
+label: link
+value: 0.004
+
+
+name: Cholesterol
+unit: mg
+value: 73.0
+label: link
+value: 20.0
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: link
+value: 0.0
+
+
+

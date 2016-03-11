@@ -1,0 +1,673 @@
+ndbno: 18146
+
+
+name: Cake, yellow, prepared from recipe without frosting
+
+
+name: Water
+unit: g
+value: 25.1
+label: piece (1/12 of 8\ dia)
+value: 17.07
+label: cake, 2-layer (8\ dia)
+value: 205.07
+
+
+name: Energy
+unit: kcal
+value: 361.0
+label: piece (1/12 of 8\ dia)
+value: 245.0
+label: cake, 2-layer (8\ dia)
+value: 2949.0
+
+
+name: Energy
+unit: kJ
+value: 1510.0
+label: piece (1/12 of 8\ dia)
+value: 1027.0
+label: cake, 2-layer (8\ dia)
+value: 12337.0
+
+
+name: Protein
+unit: g
+value: 5.3
+label: piece (1/12 of 8\ dia)
+value: 3.6
+label: cake, 2-layer (8\ dia)
+value: 43.3
+
+
+name: Total lipid (fat)
+unit: g
+value: 14.6
+label: piece (1/12 of 8\ dia)
+value: 9.93
+label: cake, 2-layer (8\ dia)
+value: 119.28
+
+
+name: Ash
+unit: g
+value: 1.9
+label: piece (1/12 of 8\ dia)
+value: 1.29
+label: cake, 2-layer (8\ dia)
+value: 15.52
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 53.0
+label: piece (1/12 of 8\ dia)
+value: 36.04
+label: cake, 2-layer (8\ dia)
+value: 433.01
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.7
+label: piece (1/12 of 8\ dia)
+value: 0.5
+label: cake, 2-layer (8\ dia)
+value: 5.7
+
+
+name: Calcium, Ca
+unit: mg
+value: 146.0
+label: piece (1/12 of 8\ dia)
+value: 99.0
+label: cake, 2-layer (8\ dia)
+value: 1193.0
+
+
+name: Iron, Fe
+unit: mg
+value: 1.64
+label: piece (1/12 of 8\ dia)
+value: 1.12
+label: cake, 2-layer (8\ dia)
+value: 13.4
+
+
+name: Magnesium, Mg
+unit: mg
+value: 12.0
+label: piece (1/12 of 8\ dia)
+value: 8.0
+label: cake, 2-layer (8\ dia)
+value: 98.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 117.0
+label: piece (1/12 of 8\ dia)
+value: 80.0
+label: cake, 2-layer (8\ dia)
+value: 956.0
+
+
+name: Potassium, K
+unit: mg
+value: 91.0
+label: piece (1/12 of 8\ dia)
+value: 62.0
+label: cake, 2-layer (8\ dia)
+value: 743.0
+
+
+name: Sodium, Na
+unit: mg
+value: 343.0
+label: piece (1/12 of 8\ dia)
+value: 233.0
+label: cake, 2-layer (8\ dia)
+value: 2802.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.45
+label: piece (1/12 of 8\ dia)
+value: 0.31
+label: cake, 2-layer (8\ dia)
+value: 3.68
+
+
+name: Copper, Cu
+unit: mg
+value: 0.056
+label: piece (1/12 of 8\ dia)
+value: 0.038
+label: cake, 2-layer (8\ dia)
+value: 0.458
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.19
+label: piece (1/12 of 8\ dia)
+value: 0.129
+label: cake, 2-layer (8\ dia)
+value: 1.552
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 13.7
+label: piece (1/12 of 8\ dia)
+value: 9.3
+label: cake, 2-layer (8\ dia)
+value: 111.9
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.2
+label: piece (1/12 of 8\ dia)
+value: 0.1
+label: cake, 2-layer (8\ dia)
+value: 1.6
+
+
+name: Thiamin
+unit: mg
+value: 0.183
+label: piece (1/12 of 8\ dia)
+value: 0.124
+label: cake, 2-layer (8\ dia)
+value: 1.495
+
+
+name: Riboflavin
+unit: mg
+value: 0.233
+label: piece (1/12 of 8\ dia)
+value: 0.158
+label: cake, 2-layer (8\ dia)
+value: 1.904
+
+
+name: Niacin
+unit: mg
+value: 1.456
+label: piece (1/12 of 8\ dia)
+value: 0.99
+label: cake, 2-layer (8\ dia)
+value: 11.896
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.31
+label: piece (1/12 of 8\ dia)
+value: 0.211
+label: cake, 2-layer (8\ dia)
+value: 2.533
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.036
+label: piece (1/12 of 8\ dia)
+value: 0.024
+label: cake, 2-layer (8\ dia)
+value: 0.294
+
+
+name: Folate, total
+unit: \u00B5g
+value: 34.0
+label: piece (1/12 of 8\ dia)
+value: 23.0
+label: cake, 2-layer (8\ dia)
+value: 278.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 24.0
+label: piece (1/12 of 8\ dia)
+value: 16.0
+label: cake, 2-layer (8\ dia)
+value: 196.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 10.0
+label: piece (1/12 of 8\ dia)
+value: 7.0
+label: cake, 2-layer (8\ dia)
+value: 82.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 51.0
+label: piece (1/12 of 8\ dia)
+value: 35.0
+label: cake, 2-layer (8\ dia)
+value: 417.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.16
+label: piece (1/12 of 8\ dia)
+value: 0.11
+label: cake, 2-layer (8\ dia)
+value: 1.31
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 40.0
+label: piece (1/12 of 8\ dia)
+value: 27.0
+label: cake, 2-layer (8\ dia)
+value: 327.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 39.0
+label: piece (1/12 of 8\ dia)
+value: 27.0
+label: cake, 2-layer (8\ dia)
+value: 319.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 139.0
+label: piece (1/12 of 8\ dia)
+value: 95.0
+label: cake, 2-layer (8\ dia)
+value: 1136.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 3.924
+label: piece (1/12 of 8\ dia)
+value: 2.668
+label: cake, 2-layer (8\ dia)
+value: 32.059
+
+
+name: 4:0
+unit: g
+value: 0.019
+label: piece (1/12 of 8\ dia)
+value: 0.013
+label: cake, 2-layer (8\ dia)
+value: 0.155
+
+
+name: 6:0
+unit: g
+value: 0.011
+label: piece (1/12 of 8\ dia)
+value: 0.007
+label: cake, 2-layer (8\ dia)
+value: 0.09
+
+
+name: 8:0
+unit: g
+value: 0.007
+label: piece (1/12 of 8\ dia)
+value: 0.005
+label: cake, 2-layer (8\ dia)
+value: 0.057
+
+
+name: 10:0
+unit: g
+value: 0.015
+label: piece (1/12 of 8\ dia)
+value: 0.01
+label: cake, 2-layer (8\ dia)
+value: 0.123
+
+
+name: 12:0
+unit: g
+value: 0.017
+label: piece (1/12 of 8\ dia)
+value: 0.012
+label: cake, 2-layer (8\ dia)
+value: 0.139
+
+
+name: 14:0
+unit: g
+value: 0.114
+label: piece (1/12 of 8\ dia)
+value: 0.078
+label: cake, 2-layer (8\ dia)
+value: 0.931
+
+
+name: 16:0
+unit: g
+value: 2.235
+label: piece (1/12 of 8\ dia)
+value: 1.52
+label: cake, 2-layer (8\ dia)
+value: 18.26
+
+
+name: 18:0
+unit: g
+value: 1.498
+label: piece (1/12 of 8\ dia)
+value: 1.019
+label: cake, 2-layer (8\ dia)
+value: 12.239
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 6.229
+label: piece (1/12 of 8\ dia)
+value: 4.236
+label: cake, 2-layer (8\ dia)
+value: 50.891
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.05
+label: piece (1/12 of 8\ dia)
+value: 0.034
+label: cake, 2-layer (8\ dia)
+value: 0.409
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 6.173
+label: piece (1/12 of 8\ dia)
+value: 4.198
+label: cake, 2-layer (8\ dia)
+value: 50.433
+
+
+name: 20:1
+unit: g
+value: 0.003
+label: piece (1/12 of 8\ dia)
+value: 0.002
+label: cake, 2-layer (8\ dia)
+value: 0.025
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: piece (1/12 of 8\ dia)
+value: 0.0
+label: cake, 2-layer (8\ dia)
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 3.57
+label: piece (1/12 of 8\ dia)
+value: 2.428
+label: cake, 2-layer (8\ dia)
+value: 29.167
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 3.328
+label: piece (1/12 of 8\ dia)
+value: 2.263
+label: cake, 2-layer (8\ dia)
+value: 27.19
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.219
+label: piece (1/12 of 8\ dia)
+value: 0.149
+label: cake, 2-layer (8\ dia)
+value: 1.789
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: piece (1/12 of 8\ dia)
+value: 0.0
+label: cake, 2-layer (8\ dia)
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.017
+label: piece (1/12 of 8\ dia)
+value: 0.012
+label: cake, 2-layer (8\ dia)
+value: 0.139
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: piece (1/12 of 8\ dia)
+value: 0.0
+label: cake, 2-layer (8\ dia)
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: piece (1/12 of 8\ dia)
+value: 0.0
+label: cake, 2-layer (8\ dia)
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.005
+label: piece (1/12 of 8\ dia)
+value: 0.003
+label: cake, 2-layer (8\ dia)
+value: 0.041
+
+
+name: Cholesterol
+unit: mg
+value: 54.0
+label: piece (1/12 of 8\ dia)
+value: 37.0
+label: cake, 2-layer (8\ dia)
+value: 441.0
+
+
+name: Tryptophan
+unit: g
+value: 0.066
+label: piece (1/12 of 8\ dia)
+value: 0.045
+label: cake, 2-layer (8\ dia)
+value: 0.539
+
+
+name: Threonine
+unit: g
+value: 0.191
+label: piece (1/12 of 8\ dia)
+value: 0.13
+label: cake, 2-layer (8\ dia)
+value: 1.56
+
+
+name: Isoleucine
+unit: g
+value: 0.236
+label: piece (1/12 of 8\ dia)
+value: 0.16
+label: cake, 2-layer (8\ dia)
+value: 1.928
+
+
+name: Leucine
+unit: g
+value: 0.414
+label: piece (1/12 of 8\ dia)
+value: 0.282
+label: cake, 2-layer (8\ dia)
+value: 3.382
+
+
+name: Lysine
+unit: g
+value: 0.246
+label: piece (1/12 of 8\ dia)
+value: 0.167
+label: cake, 2-layer (8\ dia)
+value: 2.01
+
+
+name: Methionine
+unit: g
+value: 0.12
+label: piece (1/12 of 8\ dia)
+value: 0.082
+label: cake, 2-layer (8\ dia)
+value: 0.98
+
+
+name: Cystine
+unit: g
+value: 0.103
+label: piece (1/12 of 8\ dia)
+value: 0.07
+label: cake, 2-layer (8\ dia)
+value: 0.842
+
+
+name: Phenylalanine
+unit: g
+value: 0.266
+label: piece (1/12 of 8\ dia)
+value: 0.181
+label: cake, 2-layer (8\ dia)
+value: 2.173
+
+
+name: Tyrosine
+unit: g
+value: 0.191
+label: piece (1/12 of 8\ dia)
+value: 0.13
+label: cake, 2-layer (8\ dia)
+value: 1.56
+
+
+name: Valine
+unit: g
+value: 0.268
+label: piece (1/12 of 8\ dia)
+value: 0.182
+label: cake, 2-layer (8\ dia)
+value: 2.19
+
+
+name: Arginine
+unit: g
+value: 0.238
+label: piece (1/12 of 8\ dia)
+value: 0.162
+label: cake, 2-layer (8\ dia)
+value: 1.944
+
+
+name: Histidine
+unit: g
+value: 0.124
+label: piece (1/12 of 8\ dia)
+value: 0.084
+label: cake, 2-layer (8\ dia)
+value: 1.013
+
+
+name: Alanine
+unit: g
+value: 0.206
+label: piece (1/12 of 8\ dia)
+value: 0.14
+label: cake, 2-layer (8\ dia)
+value: 1.683
+
+
+name: Aspartic acid
+unit: g
+value: 0.342
+label: piece (1/12 of 8\ dia)
+value: 0.233
+label: cake, 2-layer (8\ dia)
+value: 2.794
+
+
+name: Glutamic acid
+unit: g
+value: 1.329
+label: piece (1/12 of 8\ dia)
+value: 0.904
+label: cake, 2-layer (8\ dia)
+value: 10.858
+
+
+name: Glycine
+unit: g
+value: 0.171
+label: piece (1/12 of 8\ dia)
+value: 0.116
+label: cake, 2-layer (8\ dia)
+value: 1.397
+
+
+name: Proline
+unit: g
+value: 0.473
+label: piece (1/12 of 8\ dia)
+value: 0.322
+label: cake, 2-layer (8\ dia)
+value: 3.864
+
+
+name: Serine
+unit: g
+value: 0.303
+label: piece (1/12 of 8\ dia)
+value: 0.206
+label: cake, 2-layer (8\ dia)
+value: 2.476
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: piece (1/12 of 8\ dia)
+value: 0.0
+label: cake, 2-layer (8\ dia)
+value: 0.0
+
+
+

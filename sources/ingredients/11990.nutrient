@@ -1,0 +1,348 @@
+ndbno: 11990
+
+
+name: Wasabi, root, raw
+
+
+name: Water
+unit: g
+value: 69.11
+label: cup, sliced
+value: 89.84
+label: root
+value: 116.8
+
+
+name: Energy
+unit: kcal
+value: 109.0
+label: cup, sliced
+value: 142.0
+label: root
+value: 184.0
+
+
+name: Energy
+unit: kJ
+value: 456.0
+label: cup, sliced
+value: 593.0
+label: root
+value: 771.0
+
+
+name: Protein
+unit: g
+value: 4.8
+label: cup, sliced
+value: 6.24
+label: root
+value: 8.11
+
+
+name: Total lipid (fat)
+unit: g
+value: 0.63
+label: cup, sliced
+value: 0.82
+label: root
+value: 1.06
+
+
+name: Ash
+unit: g
+value: 1.92
+label: cup, sliced
+value: 2.5
+label: root
+value: 3.24
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 23.54
+label: cup, sliced
+value: 30.6
+label: root
+value: 39.78
+
+
+name: Fiber, total dietary
+unit: g
+value: 7.8
+label: cup, sliced
+value: 10.1
+label: root
+value: 13.2
+
+
+name: Calcium, Ca
+unit: mg
+value: 128.0
+label: cup, sliced
+value: 166.0
+label: root
+value: 216.0
+
+
+name: Iron, Fe
+unit: mg
+value: 1.03
+label: cup, sliced
+value: 1.34
+label: root
+value: 1.74
+
+
+name: Magnesium, Mg
+unit: mg
+value: 69.0
+label: cup, sliced
+value: 90.0
+label: root
+value: 117.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 80.0
+label: cup, sliced
+value: 104.0
+label: root
+value: 135.0
+
+
+name: Potassium, K
+unit: mg
+value: 568.0
+label: cup, sliced
+value: 738.0
+label: root
+value: 960.0
+
+
+name: Sodium, Na
+unit: mg
+value: 17.0
+label: cup, sliced
+value: 22.0
+label: root
+value: 29.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 1.62
+label: cup, sliced
+value: 2.11
+label: root
+value: 2.74
+
+
+name: Copper, Cu
+unit: mg
+value: 0.155
+label: cup, sliced
+value: 0.201
+label: root
+value: 0.262
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.391
+label: cup, sliced
+value: 0.508
+label: root
+value: 0.661
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 41.9
+label: cup, sliced
+value: 54.5
+label: root
+value: 70.8
+
+
+name: Thiamin
+unit: mg
+value: 0.131
+label: cup, sliced
+value: 0.17
+label: root
+value: 0.221
+
+
+name: Riboflavin
+unit: mg
+value: 0.114
+label: cup, sliced
+value: 0.148
+label: root
+value: 0.193
+
+
+name: Niacin
+unit: mg
+value: 0.743
+label: cup, sliced
+value: 0.966
+label: root
+value: 1.256
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.203
+label: cup, sliced
+value: 0.264
+label: root
+value: 0.343
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.274
+label: cup, sliced
+value: 0.356
+label: root
+value: 0.463
+
+
+name: Folate, total
+unit: \u00B5g
+value: 18.0
+label: cup, sliced
+value: 23.0
+label: root
+value: 30.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: root
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 18.0
+label: cup, sliced
+value: 23.0
+label: root
+value: 30.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 18.0
+label: cup, sliced
+value: 23.0
+label: root
+value: 30.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: root
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 2.0
+label: cup, sliced
+value: 3.0
+label: root
+value: 3.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: root
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 21.0
+label: cup, sliced
+value: 27.0
+label: root
+value: 35.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: root
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: root
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 35.0
+label: cup, sliced
+value: 46.0
+label: root
+value: 59.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: root
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: root
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: root
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: root
+value: 0.0
+
+

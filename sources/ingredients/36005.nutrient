@@ -1,0 +1,1032 @@
+ndbno: 36005
+
+
+name: APPLEBEE'S, chicken tenders, from kids' menu
+
+
+name: Water
+unit: g
+value: 43.42
+label: piece
+value: 15.2
+label: serving (3 pieces)
+value: 42.99
+
+
+name: Energy
+unit: kcal
+value: 296.0
+label: piece
+value: 104.0
+label: serving (3 pieces)
+value: 293.0
+
+
+name: Energy
+unit: kJ
+value: 1238.0
+label: piece
+value: 433.0
+label: serving (3 pieces)
+value: 1226.0
+
+
+name: Protein
+unit: g
+value: 19.25
+label: piece
+value: 6.74
+label: serving (3 pieces)
+value: 19.06
+
+
+name: Total lipid (fat)
+unit: g
+value: 16.15
+label: piece
+value: 5.65
+label: serving (3 pieces)
+value: 15.99
+
+
+name: Ash
+unit: g
+value: 2.81
+label: piece
+value: 0.98
+label: serving (3 pieces)
+value: 2.78
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 18.36
+label: piece
+value: 6.43
+label: serving (3 pieces)
+value: 18.18
+
+
+name: Fiber, total dietary
+unit: g
+value: 1.2
+label: piece
+value: 0.4
+label: serving (3 pieces)
+value: 1.2
+
+
+name: Sugars, total
+unit: g
+value: 0.39
+label: piece
+value: 0.14
+label: serving (3 pieces)
+value: 0.39
+
+
+name: Sucrose
+unit: g
+value: 0.0
+label: piece
+value: 0.0
+label: serving (3 pieces)
+value: 0.0
+
+
+name: Glucose (dextrose)
+unit: g
+value: 0.39
+label: piece
+value: 0.14
+label: serving (3 pieces)
+value: 0.39
+
+
+name: Fructose
+unit: g
+value: 0.0
+label: piece
+value: 0.0
+label: serving (3 pieces)
+value: 0.0
+
+
+name: Lactose
+unit: g
+value: 0.0
+label: piece
+value: 0.0
+label: serving (3 pieces)
+value: 0.0
+
+
+name: Maltose
+unit: g
+value: 0.0
+label: piece
+value: 0.0
+label: serving (3 pieces)
+value: 0.0
+
+
+name: Galactose
+unit: g
+value: 0.0
+label: piece
+value: 0.0
+label: serving (3 pieces)
+value: 0.0
+
+
+name: Starch
+unit: g
+value: 16.97
+label: piece
+value: 5.94
+label: serving (3 pieces)
+value: 16.8
+
+
+name: Calcium, Ca
+unit: mg
+value: 23.0
+label: piece
+value: 8.0
+label: serving (3 pieces)
+value: 23.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.9
+label: piece
+value: 0.32
+label: serving (3 pieces)
+value: 0.89
+
+
+name: Magnesium, Mg
+unit: mg
+value: 30.0
+label: piece
+value: 10.0
+label: serving (3 pieces)
+value: 30.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 305.0
+label: piece
+value: 107.0
+label: serving (3 pieces)
+value: 302.0
+
+
+name: Potassium, K
+unit: mg
+value: 337.0
+label: piece
+value: 118.0
+label: serving (3 pieces)
+value: 334.0
+
+
+name: Sodium, Na
+unit: mg
+value: 763.0
+label: piece
+value: 267.0
+label: serving (3 pieces)
+value: 755.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.71
+label: piece
+value: 0.25
+label: serving (3 pieces)
+value: 0.7
+
+
+name: Copper, Cu
+unit: mg
+value: 0.071
+label: piece
+value: 0.025
+label: serving (3 pieces)
+value: 0.07
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.26
+label: piece
+value: 0.091
+label: serving (3 pieces)
+value: 0.257
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 16.9
+label: piece
+value: 5.9
+label: serving (3 pieces)
+value: 16.7
+
+
+name: Thiamin
+unit: mg
+value: 0.1
+label: piece
+value: 0.035
+label: serving (3 pieces)
+value: 0.099
+
+
+name: Riboflavin
+unit: mg
+value: 0.177
+label: piece
+value: 0.062
+label: serving (3 pieces)
+value: 0.175
+
+
+name: Niacin
+unit: mg
+value: 7.89
+label: piece
+value: 2.762
+label: serving (3 pieces)
+value: 7.811
+
+
+name: Pantothenic acid
+unit: mg
+value: 1.565
+label: piece
+value: 0.548
+label: serving (3 pieces)
+value: 1.549
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.484
+label: piece
+value: 0.169
+label: serving (3 pieces)
+value: 0.479
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.15
+label: piece
+value: 0.05
+label: serving (3 pieces)
+value: 0.15
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 10.0
+label: piece
+value: 4.0
+label: serving (3 pieces)
+value: 10.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 7.0
+label: piece
+value: 2.0
+label: serving (3 pieces)
+value: 7.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 23.0
+label: piece
+value: 8.0
+label: serving (3 pieces)
+value: 23.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: piece
+value: 0.0
+label: serving (3 pieces)
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 11.0
+label: piece
+value: 4.0
+label: serving (3 pieces)
+value: 11.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 72.0
+label: piece
+value: 25.0
+label: serving (3 pieces)
+value: 71.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 6.0
+label: piece
+value: 2.0
+label: serving (3 pieces)
+value: 6.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 72.0
+label: piece
+value: 25.0
+label: serving (3 pieces)
+value: 71.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 1.28
+label: piece
+value: 0.45
+label: serving (3 pieces)
+value: 1.27
+
+
+name: Tocopherol, beta
+unit: mg
+value: 0.17
+label: piece
+value: 0.06
+label: serving (3 pieces)
+value: 0.17
+
+
+name: Tocopherol, gamma
+unit: mg
+value: 7.01
+label: piece
+value: 2.45
+label: serving (3 pieces)
+value: 6.94
+
+
+name: Tocopherol, delta
+unit: mg
+value: 1.12
+label: piece
+value: 0.39
+label: serving (3 pieces)
+value: 1.11
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 25.1
+label: piece
+value: 8.8
+label: serving (3 pieces)
+value: 24.8
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 2.852
+label: piece
+value: 0.998
+label: serving (3 pieces)
+value: 2.823
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: piece
+value: 0.0
+label: serving (3 pieces)
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: piece
+value: 0.0
+label: serving (3 pieces)
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.007
+label: piece
+value: 0.002
+label: serving (3 pieces)
+value: 0.007
+
+
+name: 10:0
+unit: g
+value: 0.005
+label: piece
+value: 0.002
+label: serving (3 pieces)
+value: 0.005
+
+
+name: 12:0
+unit: g
+value: 0.002
+label: piece
+value: 0.001
+label: serving (3 pieces)
+value: 0.002
+
+
+name: 14:0
+unit: g
+value: 0.02
+label: piece
+value: 0.007
+label: serving (3 pieces)
+value: 0.02
+
+
+name: 15:0
+unit: g
+value: 0.005
+label: piece
+value: 0.002
+label: serving (3 pieces)
+value: 0.005
+
+
+name: 16:0
+unit: g
+value: 1.783
+label: piece
+value: 0.624
+label: serving (3 pieces)
+value: 1.765
+
+
+name: 17:0
+unit: g
+value: 0.018
+label: piece
+value: 0.006
+label: serving (3 pieces)
+value: 0.018
+
+
+name: 18:0
+unit: g
+value: 0.892
+label: piece
+value: 0.312
+label: serving (3 pieces)
+value: 0.883
+
+
+name: 20:0
+unit: g
+value: 0.05
+label: piece
+value: 0.018
+label: serving (3 pieces)
+value: 0.05
+
+
+name: 22:0
+unit: g
+value: 0.05
+label: piece
+value: 0.018
+label: serving (3 pieces)
+value: 0.05
+
+
+name: 24:0
+unit: g
+value: 0.019
+label: piece
+value: 0.007
+label: serving (3 pieces)
+value: 0.019
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 3.568
+label: piece
+value: 1.249
+label: serving (3 pieces)
+value: 3.532
+
+
+name: 14:1
+unit: g
+value: 0.002
+label: piece
+value: 0.001
+label: serving (3 pieces)
+value: 0.002
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: piece
+value: 0.0
+label: serving (3 pieces)
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.059
+label: piece
+value: 0.021
+label: serving (3 pieces)
+value: 0.058
+
+
+name: 16:1 c
+unit: g
+value: 0.059
+label: piece
+value: 0.021
+label: serving (3 pieces)
+value: 0.058
+
+
+name: 16:1 t
+unit: g
+value: 0.0
+label: piece
+value: 0.0
+label: serving (3 pieces)
+value: 0.0
+
+
+name: 17:1
+unit: g
+value: 0.009
+label: piece
+value: 0.003
+label: serving (3 pieces)
+value: 0.009
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 3.402
+label: piece
+value: 1.191
+label: serving (3 pieces)
+value: 3.368
+
+
+name: 18:1 c
+unit: g
+value: 3.366
+label: piece
+value: 1.178
+label: serving (3 pieces)
+value: 3.332
+
+
+name: 18:1 t
+unit: g
+value: 0.037
+label: piece
+value: 0.013
+label: serving (3 pieces)
+value: 0.037
+
+
+name: 20:1
+unit: g
+value: 0.096
+label: piece
+value: 0.034
+label: serving (3 pieces)
+value: 0.095
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: piece
+value: 0.0
+label: serving (3 pieces)
+value: 0.0
+
+
+name: 22:1 c
+unit: g
+value: 0.0
+label: piece
+value: 0.0
+label: serving (3 pieces)
+value: 0.0
+
+
+name: 22:1 t
+unit: g
+value: 0.0
+label: piece
+value: 0.0
+label: serving (3 pieces)
+value: 0.0
+
+
+name: 24:1 c
+unit: g
+value: 0.0
+label: piece
+value: 0.0
+label: serving (3 pieces)
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 7.894
+label: piece
+value: 2.763
+label: serving (3 pieces)
+value: 7.815
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 6.88
+label: piece
+value: 2.408
+label: serving (3 pieces)
+value: 6.811
+
+
+name: 18:2 n-6 c,c
+unit: g
+value: 6.79
+label: piece
+value: 2.376
+label: serving (3 pieces)
+value: 6.722
+
+
+name: 18:2 CLAs
+unit: g
+value: 0.01
+label: piece
+value: 0.004
+label: serving (3 pieces)
+value: 0.01
+
+
+name: 18:2 t not further defined
+unit: g
+value: 0.08
+label: piece
+value: 0.028
+label: serving (3 pieces)
+value: 0.079
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.917
+label: piece
+value: 0.321
+label: serving (3 pieces)
+value: 0.908
+
+
+name: 18:3 n-3 c,c,c (ALA)
+unit: g
+value: 0.859
+label: piece
+value: 0.301
+label: serving (3 pieces)
+value: 0.85
+
+
+name: 18:3 n-6 c,c,c
+unit: g
+value: 0.058
+label: piece
+value: 0.02
+label: serving (3 pieces)
+value: 0.057
+
+
+name: 18:3i
+unit: g
+value: 0.0
+label: piece
+value: 0.0
+label: serving (3 pieces)
+value: 0.0
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: piece
+value: 0.0
+label: serving (3 pieces)
+value: 0.0
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.01
+label: piece
+value: 0.004
+label: serving (3 pieces)
+value: 0.01
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.009
+label: piece
+value: 0.003
+label: serving (3 pieces)
+value: 0.009
+
+
+name: 20:3 n-6
+unit: g
+value: 0.009
+label: piece
+value: 0.003
+label: serving (3 pieces)
+value: 0.009
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.051
+label: piece
+value: 0.018
+label: serving (3 pieces)
+value: 0.05
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: piece
+value: 0.0
+label: serving (3 pieces)
+value: 0.0
+
+
+name: 22:4
+unit: g
+value: 0.019
+label: piece
+value: 0.007
+label: serving (3 pieces)
+value: 0.019
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.005
+label: piece
+value: 0.002
+label: serving (3 pieces)
+value: 0.005
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.004
+label: piece
+value: 0.001
+label: serving (3 pieces)
+value: 0.004
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.116
+label: piece
+value: 0.041
+label: serving (3 pieces)
+value: 0.115
+
+
+name: Fatty acids, total trans-monoenoic
+unit: g
+value: 0.037
+label: piece
+value: 0.013
+label: serving (3 pieces)
+value: 0.037
+
+
+name: Cholesterol
+unit: mg
+value: 51.0
+label: piece
+value: 18.0
+label: serving (3 pieces)
+value: 50.0
+
+
+name: Tryptophan
+unit: g
+value: 0.203
+label: piece
+value: 0.071
+label: serving (3 pieces)
+value: 0.201
+
+
+name: Threonine
+unit: g
+value: 0.577
+label: piece
+value: 0.202
+label: serving (3 pieces)
+value: 0.571
+
+
+name: Isoleucine
+unit: g
+value: 0.952
+label: piece
+value: 0.333
+label: serving (3 pieces)
+value: 0.942
+
+
+name: Leucine
+unit: g
+value: 1.52
+label: piece
+value: 0.532
+label: serving (3 pieces)
+value: 1.505
+
+
+name: Lysine
+unit: g
+value: 1.348
+label: piece
+value: 0.472
+label: serving (3 pieces)
+value: 1.335
+
+
+name: Methionine
+unit: g
+value: 0.486
+label: piece
+value: 0.17
+label: serving (3 pieces)
+value: 0.481
+
+
+name: Cystine
+unit: g
+value: 0.233
+label: piece
+value: 0.082
+label: serving (3 pieces)
+value: 0.231
+
+
+name: Phenylalanine
+unit: g
+value: 0.76
+label: piece
+value: 0.266
+label: serving (3 pieces)
+value: 0.752
+
+
+name: Tyrosine
+unit: g
+value: 0.507
+label: piece
+value: 0.177
+label: serving (3 pieces)
+value: 0.502
+
+
+name: Valine
+unit: g
+value: 1.054
+label: piece
+value: 0.369
+label: serving (3 pieces)
+value: 1.043
+
+
+name: Arginine
+unit: g
+value: 1.135
+label: piece
+value: 0.397
+label: serving (3 pieces)
+value: 1.124
+
+
+name: Histidine
+unit: g
+value: 0.679
+label: piece
+value: 0.238
+label: serving (3 pieces)
+value: 0.672
+
+
+name: Alanine
+unit: g
+value: 1.043
+label: piece
+value: 0.365
+label: serving (3 pieces)
+value: 1.033
+
+
+name: Aspartic acid
+unit: g
+value: 1.651
+label: piece
+value: 0.578
+label: serving (3 pieces)
+value: 1.634
+
+
+name: Glutamic acid
+unit: g
+value: 3.343
+label: piece
+value: 1.17
+label: serving (3 pieces)
+value: 3.31
+
+
+name: Glycine
+unit: g
+value: 0.79
+label: piece
+value: 0.276
+label: serving (3 pieces)
+value: 0.782
+
+
+name: Proline
+unit: g
+value: 1.175
+label: piece
+value: 0.411
+label: serving (3 pieces)
+value: 1.163
+
+
+name: Serine
+unit: g
+value: 0.577
+label: piece
+value: 0.202
+label: serving (3 pieces)
+value: 0.571
+
+
+name: Hydroxyproline
+unit: g
+value: 0.03
+label: piece
+value: 0.01
+label: serving (3 pieces)
+value: 0.03
+
+

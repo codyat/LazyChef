@@ -1,0 +1,788 @@
+ndbno: 05311
+
+
+name: Chicken, canned, no broth
+
+
+name: Water
+unit: g
+value: 64.9
+label: oz
+value: 18.17
+label: cup
+value: 133.05
+label: can (5 oz) yields
+value: 81.13
+
+
+name: Energy
+unit: kcal
+value: 185.0
+label: oz
+value: 52.0
+label: cup
+value: 379.0
+label: can (5 oz) yields
+value: 231.0
+
+
+name: Energy
+unit: kJ
+value: 772.0
+label: oz
+value: 216.0
+label: cup
+value: 1583.0
+label: can (5 oz) yields
+value: 965.0
+
+
+name: Protein
+unit: g
+value: 25.3
+label: oz
+value: 7.08
+label: cup
+value: 51.86
+label: can (5 oz) yields
+value: 31.62
+
+
+name: Total lipid (fat)
+unit: g
+value: 8.1
+label: oz
+value: 2.27
+label: cup
+value: 16.6
+label: can (5 oz) yields
+value: 10.12
+
+
+name: Ash
+unit: g
+value: 0.8
+label: oz
+value: 0.22
+label: cup
+value: 1.64
+label: can (5 oz) yields
+value: 1.0
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 0.9
+label: oz
+value: 0.25
+label: cup
+value: 1.84
+label: can (5 oz) yields
+value: 1.12
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: cup
+value: 0.0
+label: can (5 oz) yields
+value: 0.0
+
+
+name: Sugars, total
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: cup
+value: 0.0
+label: can (5 oz) yields
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 14.0
+label: oz
+value: 4.0
+label: cup
+value: 29.0
+label: can (5 oz) yields
+value: 18.0
+
+
+name: Iron, Fe
+unit: mg
+value: 1.3
+label: oz
+value: 0.36
+label: cup
+value: 2.66
+label: can (5 oz) yields
+value: 1.62
+
+
+name: Magnesium, Mg
+unit: mg
+value: 19.0
+label: oz
+value: 5.0
+label: cup
+value: 39.0
+label: can (5 oz) yields
+value: 24.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 153.0
+label: oz
+value: 43.0
+label: cup
+value: 314.0
+label: can (5 oz) yields
+value: 191.0
+
+
+name: Potassium, K
+unit: mg
+value: 153.0
+label: oz
+value: 43.0
+label: cup
+value: 314.0
+label: can (5 oz) yields
+value: 191.0
+
+
+name: Sodium, Na
+unit: mg
+value: 482.0
+label: oz
+value: 135.0
+label: cup
+value: 988.0
+label: can (5 oz) yields
+value: 602.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 2.5
+label: oz
+value: 0.7
+label: cup
+value: 5.12
+label: can (5 oz) yields
+value: 3.12
+
+
+name: Copper, Cu
+unit: mg
+value: 0.05
+label: oz
+value: 0.014
+label: cup
+value: 0.102
+label: can (5 oz) yields
+value: 0.062
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 18.4
+label: oz
+value: 5.2
+label: cup
+value: 37.7
+label: can (5 oz) yields
+value: 23.0
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: cup
+value: 0.0
+label: can (5 oz) yields
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: cup
+value: 0.0
+label: can (5 oz) yields
+value: 0.0
+
+
+name: Riboflavin
+unit: mg
+value: 0.1
+label: oz
+value: 0.028
+label: cup
+value: 0.205
+label: can (5 oz) yields
+value: 0.125
+
+
+name: Niacin
+unit: mg
+value: 2.4
+label: oz
+value: 0.672
+label: cup
+value: 4.92
+label: can (5 oz) yields
+value: 3.0
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.19
+label: oz
+value: 0.053
+label: cup
+value: 0.39
+label: can (5 oz) yields
+value: 0.238
+
+
+name: Folate, total
+unit: \u00B5g
+value: 2.0
+label: oz
+value: 1.0
+label: cup
+value: 4.0
+label: can (5 oz) yields
+value: 2.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: cup
+value: 0.0
+label: can (5 oz) yields
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 2.0
+label: oz
+value: 1.0
+label: cup
+value: 4.0
+label: can (5 oz) yields
+value: 2.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 2.0
+label: oz
+value: 1.0
+label: cup
+value: 4.0
+label: can (5 oz) yields
+value: 2.0
+
+
+name: Choline, total
+unit: mg
+value: 73.8
+label: oz
+value: 20.7
+label: cup
+value: 151.3
+label: can (5 oz) yields
+value: 92.2
+
+
+name: Betaine
+unit: mg
+value: 5.4
+label: oz
+value: 1.5
+label: cup
+value: 11.1
+label: can (5 oz) yields
+value: 6.8
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 1.0
+label: oz
+value: 0.28
+label: cup
+value: 2.05
+label: can (5 oz) yields
+value: 1.25
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: cup
+value: 0.0
+label: can (5 oz) yields
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 53.0
+label: oz
+value: 15.0
+label: cup
+value: 109.0
+label: can (5 oz) yields
+value: 66.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 53.0
+label: oz
+value: 15.0
+label: cup
+value: 109.0
+label: can (5 oz) yields
+value: 66.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: cup
+value: 0.0
+label: can (5 oz) yields
+value: 0.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: cup
+value: 0.0
+label: can (5 oz) yields
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: cup
+value: 0.0
+label: can (5 oz) yields
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 177.0
+label: oz
+value: 50.0
+label: cup
+value: 363.0
+label: can (5 oz) yields
+value: 221.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: cup
+value: 0.0
+label: can (5 oz) yields
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: cup
+value: 0.0
+label: can (5 oz) yields
+value: 0.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.32
+label: oz
+value: 0.09
+label: cup
+value: 0.66
+label: can (5 oz) yields
+value: 0.4
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: cup
+value: 0.0
+label: can (5 oz) yields
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.1
+label: oz
+value: 0.0
+label: cup
+value: 0.2
+label: can (5 oz) yields
+value: 0.1
+
+
+name: Vitamin D3 (cholecalciferol)
+unit: \u00B5g
+value: 0.1
+label: oz
+value: 0.0
+label: cup
+value: 0.2
+label: can (5 oz) yields
+value: 0.1
+
+
+name: Vitamin D
+unit: IU
+value: 5.0
+label: oz
+value: 1.0
+label: cup
+value: 10.0
+label: can (5 oz) yields
+value: 6.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 2.3
+label: oz
+value: 0.6
+label: cup
+value: 4.7
+label: can (5 oz) yields
+value: 2.9
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 2.25
+label: oz
+value: 0.63
+label: cup
+value: 4.612
+label: can (5 oz) yields
+value: 2.812
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: cup
+value: 0.0
+label: can (5 oz) yields
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: cup
+value: 0.0
+label: can (5 oz) yields
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: cup
+value: 0.0
+label: can (5 oz) yields
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: cup
+value: 0.0
+label: can (5 oz) yields
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.011
+label: oz
+value: 0.003
+label: cup
+value: 0.023
+label: can (5 oz) yields
+value: 0.014
+
+
+name: 14:0
+unit: g
+value: 0.063
+label: oz
+value: 0.018
+label: cup
+value: 0.129
+label: can (5 oz) yields
+value: 0.079
+
+
+name: 16:0
+unit: g
+value: 1.713
+label: oz
+value: 0.48
+label: cup
+value: 3.512
+label: can (5 oz) yields
+value: 2.141
+
+
+name: 18:0
+unit: g
+value: 0.465
+label: oz
+value: 0.13
+label: cup
+value: 0.953
+label: can (5 oz) yields
+value: 0.581
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 3.279
+label: oz
+value: 0.918
+label: cup
+value: 6.722
+label: can (5 oz) yields
+value: 4.099
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.465
+label: oz
+value: 0.13
+label: cup
+value: 0.953
+label: can (5 oz) yields
+value: 0.581
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 2.73
+label: oz
+value: 0.764
+label: cup
+value: 5.596
+label: can (5 oz) yields
+value: 3.412
+
+
+name: 20:1
+unit: g
+value: 0.084
+label: oz
+value: 0.024
+label: cup
+value: 0.172
+label: can (5 oz) yields
+value: 0.105
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: cup
+value: 0.0
+label: can (5 oz) yields
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 1.978
+label: oz
+value: 0.554
+label: cup
+value: 4.055
+label: can (5 oz) yields
+value: 2.472
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 1.597
+label: oz
+value: 0.447
+label: cup
+value: 3.274
+label: can (5 oz) yields
+value: 1.996
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.074
+label: oz
+value: 0.021
+label: cup
+value: 0.152
+label: can (5 oz) yields
+value: 0.092
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: cup
+value: 0.0
+label: can (5 oz) yields
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.074
+label: oz
+value: 0.021
+label: cup
+value: 0.152
+label: can (5 oz) yields
+value: 0.092
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.011
+label: oz
+value: 0.003
+label: cup
+value: 0.023
+label: can (5 oz) yields
+value: 0.014
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.011
+label: oz
+value: 0.003
+label: cup
+value: 0.023
+label: can (5 oz) yields
+value: 0.014
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.211
+label: oz
+value: 0.059
+label: cup
+value: 0.433
+label: can (5 oz) yields
+value: 0.264
+
+
+name: Cholesterol
+unit: mg
+value: 50.0
+label: oz
+value: 14.0
+label: cup
+value: 102.0
+label: can (5 oz) yields
+value: 62.0
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: cup
+value: 0.0
+label: can (5 oz) yields
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: cup
+value: 0.0
+label: can (5 oz) yields
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: cup
+value: 0.0
+label: can (5 oz) yields
+value: 0.0
+
+
+

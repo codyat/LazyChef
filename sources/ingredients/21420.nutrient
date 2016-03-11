@@ -1,0 +1,960 @@
+ndbno: 21420
+
+
+name: KFC, Coleslaw
+
+
+name: Water
+unit: g
+value: 73.99
+label: package
+value: 82.87
+label: cup
+value: 141.32
+
+
+name: Energy
+unit: kcal
+value: 144.0
+label: package
+value: 161.0
+label: cup
+value: 275.0
+
+
+name: Energy
+unit: kJ
+value: 602.0
+label: package
+value: 674.0
+label: cup
+value: 1150.0
+
+
+name: Protein
+unit: g
+value: 0.91
+label: package
+value: 1.02
+label: cup
+value: 1.74
+
+
+name: Total lipid (fat)
+unit: g
+value: 8.64
+label: package
+value: 9.68
+label: cup
+value: 16.5
+
+
+name: Ash
+unit: g
+value: 0.81
+label: package
+value: 0.91
+label: cup
+value: 1.55
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 15.65
+label: package
+value: 17.53
+label: cup
+value: 29.89
+
+
+name: Fiber, total dietary
+unit: g
+value: 2.0
+label: package
+value: 2.2
+label: cup
+value: 3.8
+
+
+name: Sugars, total
+unit: g
+value: 13.54
+label: package
+value: 15.16
+label: cup
+value: 25.86
+
+
+name: Sucrose
+unit: g
+value: 10.18
+label: package
+value: 11.4
+label: cup
+value: 19.44
+
+
+name: Glucose (dextrose)
+unit: g
+value: 1.72
+label: package
+value: 1.93
+label: cup
+value: 3.29
+
+
+name: Fructose
+unit: g
+value: 1.45
+label: package
+value: 1.62
+label: cup
+value: 2.77
+
+
+name: Lactose
+unit: g
+value: 0.0
+label: package
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Maltose
+unit: g
+value: 0.0
+label: package
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Galactose
+unit: g
+value: 0.19
+label: package
+value: 0.21
+label: cup
+value: 0.36
+
+
+name: Calcium, Ca
+unit: mg
+value: 28.0
+label: package
+value: 31.0
+label: cup
+value: 53.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.21
+label: package
+value: 0.24
+label: cup
+value: 0.4
+
+
+name: Magnesium, Mg
+unit: mg
+value: 9.0
+label: package
+value: 10.0
+label: cup
+value: 17.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 20.0
+label: package
+value: 22.0
+label: cup
+value: 38.0
+
+
+name: Potassium, K
+unit: mg
+value: 140.0
+label: package
+value: 157.0
+label: cup
+value: 267.0
+
+
+name: Sodium, Na
+unit: mg
+value: 189.0
+label: package
+value: 212.0
+label: cup
+value: 361.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.15
+label: package
+value: 0.17
+label: cup
+value: 0.29
+
+
+name: Copper, Cu
+unit: mg
+value: 0.016
+label: package
+value: 0.018
+label: cup
+value: 0.031
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.121
+label: package
+value: 0.136
+label: cup
+value: 0.231
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 14.6
+label: package
+value: 16.4
+label: cup
+value: 27.9
+
+
+name: Thiamin
+unit: mg
+value: 0.037
+label: package
+value: 0.041
+label: cup
+value: 0.071
+
+
+name: Riboflavin
+unit: mg
+value: 0.015
+label: package
+value: 0.017
+label: cup
+value: 0.029
+
+
+name: Niacin
+unit: mg
+value: 0.206
+label: package
+value: 0.231
+label: cup
+value: 0.393
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.242
+label: package
+value: 0.271
+label: cup
+value: 0.462
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.121
+label: package
+value: 0.136
+label: cup
+value: 0.231
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.03
+label: package
+value: 0.03
+label: cup
+value: 0.06
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 1.0
+label: package
+value: 1.0
+label: cup
+value: 2.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 1.0
+label: package
+value: 1.0
+label: cup
+value: 2.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 4.0
+label: package
+value: 4.0
+label: cup
+value: 8.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.54
+label: package
+value: 0.6
+label: cup
+value: 1.03
+
+
+name: Tocopherol, beta
+unit: mg
+value: 0.04
+label: package
+value: 0.04
+label: cup
+value: 0.08
+
+
+name: Tocopherol, gamma
+unit: mg
+value: 4.79
+label: package
+value: 5.36
+label: cup
+value: 9.15
+
+
+name: Tocopherol, delta
+unit: mg
+value: 1.64
+label: package
+value: 1.84
+label: cup
+value: 3.13
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 70.9
+label: package
+value: 79.4
+label: cup
+value: 135.4
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 1.303
+label: package
+value: 1.459
+label: cup
+value: 2.489
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: package
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: package
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: package
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: package
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: package
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.005
+label: package
+value: 0.006
+label: cup
+value: 0.01
+
+
+name: 15:0
+unit: g
+value: 0.0
+label: package
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 16:0
+unit: g
+value: 0.877
+label: package
+value: 0.982
+label: cup
+value: 1.675
+
+
+name: 17:0
+unit: g
+value: 0.007
+label: package
+value: 0.008
+label: cup
+value: 0.013
+
+
+name: 18:0
+unit: g
+value: 0.357
+label: package
+value: 0.4
+label: cup
+value: 0.682
+
+
+name: 20:0
+unit: g
+value: 0.023
+label: package
+value: 0.026
+label: cup
+value: 0.044
+
+
+name: 22:0
+unit: g
+value: 0.025
+label: package
+value: 0.028
+label: cup
+value: 0.048
+
+
+name: 24:0
+unit: g
+value: 0.008
+label: package
+value: 0.009
+label: cup
+value: 0.015
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 1.963
+label: package
+value: 2.199
+label: cup
+value: 3.749
+
+
+name: 14:1
+unit: g
+value: 0.0
+label: package
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: package
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.008
+label: package
+value: 0.009
+label: cup
+value: 0.015
+
+
+name: 16:1 c
+unit: g
+value: 0.008
+label: package
+value: 0.009
+label: cup
+value: 0.015
+
+
+name: 16:1 t
+unit: g
+value: 0.0
+label: package
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 17:1
+unit: g
+value: 0.004
+label: package
+value: 0.004
+label: cup
+value: 0.008
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 1.914
+label: package
+value: 2.144
+label: cup
+value: 3.656
+
+
+name: 18:1 c
+unit: g
+value: 1.907
+label: package
+value: 2.136
+label: cup
+value: 3.642
+
+
+name: 18:1 t
+unit: g
+value: 0.007
+label: package
+value: 0.008
+label: cup
+value: 0.013
+
+
+name: 20:1
+unit: g
+value: 0.028
+label: package
+value: 0.031
+label: cup
+value: 0.053
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.007
+label: package
+value: 0.008
+label: cup
+value: 0.013
+
+
+name: 22:1 c
+unit: g
+value: 0.007
+label: package
+value: 0.008
+label: cup
+value: 0.013
+
+
+name: 22:1 t
+unit: g
+value: 0.0
+label: package
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 24:1 c
+unit: g
+value: 0.002
+label: package
+value: 0.002
+label: cup
+value: 0.004
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 4.888
+label: package
+value: 5.475
+label: cup
+value: 9.336
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 4.301
+label: package
+value: 4.817
+label: cup
+value: 8.215
+
+
+name: 18:2 n-6 c,c
+unit: g
+value: 4.277
+label: package
+value: 4.79
+label: cup
+value: 8.169
+
+
+name: 18:2 CLAs
+unit: g
+value: 0.001
+label: package
+value: 0.001
+label: cup
+value: 0.002
+
+
+name: 18:2 t not further defined
+unit: g
+value: 0.024
+label: package
+value: 0.027
+label: cup
+value: 0.046
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.586
+label: package
+value: 0.656
+label: cup
+value: 1.119
+
+
+name: 18:3 n-3 c,c,c (ALA)
+unit: g
+value: 0.566
+label: package
+value: 0.634
+label: cup
+value: 1.081
+
+
+name: 18:3 n-6 c,c,c
+unit: g
+value: 0.02
+label: package
+value: 0.022
+label: cup
+value: 0.038
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: package
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.001
+label: package
+value: 0.001
+label: cup
+value: 0.002
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.0
+label: package
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 20:3 n-6
+unit: g
+value: 0.0
+label: package
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: package
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: package
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 22:4
+unit: g
+value: 0.0
+label: package
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: package
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: package
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.031
+label: package
+value: 0.035
+label: cup
+value: 0.059
+
+
+name: Fatty acids, total trans-monoenoic
+unit: g
+value: 0.007
+label: package
+value: 0.008
+label: cup
+value: 0.013
+
+
+name: Cholesterol
+unit: mg
+value: 2.0
+label: package
+value: 2.0
+label: cup
+value: 4.0
+
+
+name: Tryptophan
+unit: g
+value: 0.008
+label: package
+value: 0.009
+label: cup
+value: 0.015
+
+
+name: Threonine
+unit: g
+value: 0.025
+label: package
+value: 0.028
+label: cup
+value: 0.048
+
+
+name: Isoleucine
+unit: g
+value: 0.025
+label: package
+value: 0.028
+label: cup
+value: 0.048
+
+
+name: Leucine
+unit: g
+value: 0.034
+label: package
+value: 0.038
+label: cup
+value: 0.065
+
+
+name: Lysine
+unit: g
+value: 0.034
+label: package
+value: 0.038
+label: cup
+value: 0.065
+
+
+name: Methionine
+unit: g
+value: 0.017
+label: package
+value: 0.019
+label: cup
+value: 0.032
+
+
+name: Cystine
+unit: g
+value: 0.008
+label: package
+value: 0.009
+label: cup
+value: 0.015
+
+
+name: Phenylalanine
+unit: g
+value: 0.025
+label: package
+value: 0.028
+label: cup
+value: 0.048
+
+
+name: Tyrosine
+unit: g
+value: 0.017
+label: package
+value: 0.019
+label: cup
+value: 0.032
+
+
+name: Valine
+unit: g
+value: 0.034
+label: package
+value: 0.038
+label: cup
+value: 0.065
+
+
+name: Arginine
+unit: g
+value: 0.043
+label: package
+value: 0.048
+label: cup
+value: 0.082
+
+
+name: Histidine
+unit: g
+value: 0.017
+label: package
+value: 0.019
+label: cup
+value: 0.032
+
+
+name: Alanine
+unit: g
+value: 0.051
+label: package
+value: 0.057
+label: cup
+value: 0.097
+
+
+name: Aspartic acid
+unit: g
+value: 0.068
+label: package
+value: 0.076
+label: cup
+value: 0.13
+
+
+name: Glutamic acid
+unit: g
+value: 0.162
+label: package
+value: 0.181
+label: cup
+value: 0.309
+
+
+name: Glycine
+unit: g
+value: 0.025
+label: package
+value: 0.028
+label: cup
+value: 0.048
+
+
+name: Proline
+unit: g
+value: 0.051
+label: package
+value: 0.057
+label: cup
+value: 0.097
+
+
+name: Serine
+unit: g
+value: 0.034
+label: package
+value: 0.038
+label: cup
+value: 0.065
+
+

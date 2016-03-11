@@ -1,0 +1,681 @@
+ndbno: 09039
+
+
+name: Avocados, raw, Florida
+
+
+name: Water
+unit: g
+value: 78.81
+label: cup, pureed
+value: 181.26
+label: fruit without skin and seeds
+value: 239.58
+
+
+name: Energy
+unit: kcal
+value: 120.0
+label: cup, pureed
+value: 276.0
+label: fruit without skin and seeds
+value: 365.0
+
+
+name: Energy
+unit: kJ
+value: 501.0
+label: cup, pureed
+value: 1152.0
+label: fruit without skin and seeds
+value: 1523.0
+
+
+name: Protein
+unit: g
+value: 2.23
+label: cup, pureed
+value: 5.13
+label: fruit without skin and seeds
+value: 6.78
+
+
+name: Total lipid (fat)
+unit: g
+value: 10.06
+label: cup, pureed
+value: 23.14
+label: fruit without skin and seeds
+value: 30.58
+
+
+name: Ash
+unit: g
+value: 1.08
+label: cup, pureed
+value: 2.48
+label: fruit without skin and seeds
+value: 3.28
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 7.82
+label: cup, pureed
+value: 17.99
+label: fruit without skin and seeds
+value: 23.77
+
+
+name: Fiber, total dietary
+unit: g
+value: 5.6
+label: cup, pureed
+value: 12.9
+label: fruit without skin and seeds
+value: 17.0
+
+
+name: Sugars, total
+unit: g
+value: 2.42
+label: cup, pureed
+value: 5.57
+label: fruit without skin and seeds
+value: 7.36
+
+
+name: Sucrose
+unit: g
+value: 0.0
+label: cup, pureed
+value: 0.0
+label: fruit without skin and seeds
+value: 0.0
+
+
+name: Glucose (dextrose)
+unit: g
+value: 2.17
+label: cup, pureed
+value: 4.99
+label: fruit without skin and seeds
+value: 6.6
+
+
+name: Fructose
+unit: g
+value: 0.25
+label: cup, pureed
+value: 0.58
+label: fruit without skin and seeds
+value: 0.76
+
+
+name: Lactose
+unit: g
+value: 0.0
+label: cup, pureed
+value: 0.0
+label: fruit without skin and seeds
+value: 0.0
+
+
+name: Maltose
+unit: g
+value: 0.0
+label: cup, pureed
+value: 0.0
+label: fruit without skin and seeds
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 10.0
+label: cup, pureed
+value: 23.0
+label: fruit without skin and seeds
+value: 30.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.17
+label: cup, pureed
+value: 0.39
+label: fruit without skin and seeds
+value: 0.52
+
+
+name: Magnesium, Mg
+unit: mg
+value: 24.0
+label: cup, pureed
+value: 55.0
+label: fruit without skin and seeds
+value: 73.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 40.0
+label: cup, pureed
+value: 92.0
+label: fruit without skin and seeds
+value: 122.0
+
+
+name: Potassium, K
+unit: mg
+value: 351.0
+label: cup, pureed
+value: 807.0
+label: fruit without skin and seeds
+value: 1067.0
+
+
+name: Sodium, Na
+unit: mg
+value: 2.0
+label: cup, pureed
+value: 5.0
+label: fruit without skin and seeds
+value: 6.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.4
+label: cup, pureed
+value: 0.92
+label: fruit without skin and seeds
+value: 1.22
+
+
+name: Copper, Cu
+unit: mg
+value: 0.311
+label: cup, pureed
+value: 0.715
+label: fruit without skin and seeds
+value: 0.945
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.095
+label: cup, pureed
+value: 0.219
+label: fruit without skin and seeds
+value: 0.289
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 17.4
+label: cup, pureed
+value: 40.0
+label: fruit without skin and seeds
+value: 52.9
+
+
+name: Thiamin
+unit: mg
+value: 0.021
+label: cup, pureed
+value: 0.048
+label: fruit without skin and seeds
+value: 0.064
+
+
+name: Riboflavin
+unit: mg
+value: 0.053
+label: cup, pureed
+value: 0.122
+label: fruit without skin and seeds
+value: 0.161
+
+
+name: Niacin
+unit: mg
+value: 0.672
+label: cup, pureed
+value: 1.546
+label: fruit without skin and seeds
+value: 2.043
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.931
+label: cup, pureed
+value: 2.141
+label: fruit without skin and seeds
+value: 2.83
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.078
+label: cup, pureed
+value: 0.179
+label: fruit without skin and seeds
+value: 0.237
+
+
+name: Folate, total
+unit: \u00B5g
+value: 35.0
+label: cup, pureed
+value: 80.0
+label: fruit without skin and seeds
+value: 106.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: cup, pureed
+value: 0.0
+label: fruit without skin and seeds
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 35.0
+label: cup, pureed
+value: 80.0
+label: fruit without skin and seeds
+value: 106.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 35.0
+label: cup, pureed
+value: 80.0
+label: fruit without skin and seeds
+value: 106.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: cup, pureed
+value: 0.0
+label: fruit without skin and seeds
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 7.0
+label: cup, pureed
+value: 16.0
+label: fruit without skin and seeds
+value: 21.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: cup, pureed
+value: 0.0
+label: fruit without skin and seeds
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 53.0
+label: cup, pureed
+value: 122.0
+label: fruit without skin and seeds
+value: 161.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 27.0
+label: cup, pureed
+value: 62.0
+label: fruit without skin and seeds
+value: 82.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 36.0
+label: cup, pureed
+value: 83.0
+label: fruit without skin and seeds
+value: 109.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 140.0
+label: cup, pureed
+value: 322.0
+label: fruit without skin and seeds
+value: 426.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 2.66
+label: cup, pureed
+value: 6.12
+label: fruit without skin and seeds
+value: 8.09
+
+
+name: Tocopherol, beta
+unit: mg
+value: 0.08
+label: cup, pureed
+value: 0.18
+label: fruit without skin and seeds
+value: 0.24
+
+
+name: Tocopherol, gamma
+unit: mg
+value: 0.39
+label: cup, pureed
+value: 0.9
+label: fruit without skin and seeds
+value: 1.19
+
+
+name: Tocopherol, delta
+unit: mg
+value: 0.0
+label: cup, pureed
+value: 0.0
+label: fruit without skin and seeds
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: cup, pureed
+value: 0.0
+label: fruit without skin and seeds
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: cup, pureed
+value: 0.0
+label: fruit without skin and seeds
+value: 0.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 1.96
+label: cup, pureed
+value: 4.508
+label: fruit without skin and seeds
+value: 5.958
+
+
+name: 16:0
+unit: g
+value: 1.905
+label: cup, pureed
+value: 4.382
+label: fruit without skin and seeds
+value: 5.791
+
+
+name: 18:0
+unit: g
+value: 0.055
+label: cup, pureed
+value: 0.126
+label: fruit without skin and seeds
+value: 0.167
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 5.513
+label: cup, pureed
+value: 12.68
+label: fruit without skin and seeds
+value: 16.76
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.825
+label: cup, pureed
+value: 1.898
+label: fruit without skin and seeds
+value: 2.508
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 4.689
+label: cup, pureed
+value: 10.785
+label: fruit without skin and seeds
+value: 14.255
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 1.676
+label: cup, pureed
+value: 3.855
+label: fruit without skin and seeds
+value: 5.095
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 1.58
+label: cup, pureed
+value: 3.634
+label: fruit without skin and seeds
+value: 4.803
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.096
+label: cup, pureed
+value: 0.221
+label: fruit without skin and seeds
+value: 0.292
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.0
+label: cup, pureed
+value: 0.0
+label: fruit without skin and seeds
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: cup, pureed
+value: 0.0
+label: fruit without skin and seeds
+value: 0.0
+
+
+name: Tryptophan
+unit: g
+value: 0.028
+label: cup, pureed
+value: 0.064
+label: fruit without skin and seeds
+value: 0.085
+
+
+name: Threonine
+unit: g
+value: 0.082
+label: cup, pureed
+value: 0.189
+label: fruit without skin and seeds
+value: 0.249
+
+
+name: Isoleucine
+unit: g
+value: 0.094
+label: cup, pureed
+value: 0.216
+label: fruit without skin and seeds
+value: 0.286
+
+
+name: Leucine
+unit: g
+value: 0.16
+label: cup, pureed
+value: 0.368
+label: fruit without skin and seeds
+value: 0.486
+
+
+name: Lysine
+unit: g
+value: 0.147
+label: cup, pureed
+value: 0.338
+label: fruit without skin and seeds
+value: 0.447
+
+
+name: Methionine
+unit: g
+value: 0.042
+label: cup, pureed
+value: 0.097
+label: fruit without skin and seeds
+value: 0.128
+
+
+name: Cystine
+unit: g
+value: 0.031
+label: cup, pureed
+value: 0.071
+label: fruit without skin and seeds
+value: 0.094
+
+
+name: Phenylalanine
+unit: g
+value: 0.108
+label: cup, pureed
+value: 0.248
+label: fruit without skin and seeds
+value: 0.328
+
+
+name: Tyrosine
+unit: g
+value: 0.054
+label: cup, pureed
+value: 0.124
+label: fruit without skin and seeds
+value: 0.164
+
+
+name: Valine
+unit: g
+value: 0.12
+label: cup, pureed
+value: 0.276
+label: fruit without skin and seeds
+value: 0.365
+
+
+name: Arginine
+unit: g
+value: 0.099
+label: cup, pureed
+value: 0.228
+label: fruit without skin and seeds
+value: 0.301
+
+
+name: Histidine
+unit: g
+value: 0.055
+label: cup, pureed
+value: 0.126
+label: fruit without skin and seeds
+value: 0.167
+
+
+name: Alanine
+unit: g
+value: 0.121
+label: cup, pureed
+value: 0.278
+label: fruit without skin and seeds
+value: 0.368
+
+
+name: Aspartic acid
+unit: g
+value: 0.264
+label: cup, pureed
+value: 0.607
+label: fruit without skin and seeds
+value: 0.803
+
+
+name: Glutamic acid
+unit: g
+value: 0.321
+label: cup, pureed
+value: 0.738
+label: fruit without skin and seeds
+value: 0.976
+
+
+name: Glycine
+unit: g
+value: 0.116
+label: cup, pureed
+value: 0.267
+label: fruit without skin and seeds
+value: 0.353
+
+
+name: Proline
+unit: g
+value: 0.11
+label: cup, pureed
+value: 0.253
+label: fruit without skin and seeds
+value: 0.334
+
+
+name: Serine
+unit: g
+value: 0.128
+label: cup, pureed
+value: 0.294
+label: fruit without skin and seeds
+value: 0.389
+
+

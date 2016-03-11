@@ -1,0 +1,864 @@
+ndbno: 11163
+
+
+name: Collards, frozen, chopped, unprepared
+
+
+name: Water
+unit: g
+value: 89.53
+label: package (10 oz)
+value: 85.05
+label: package (10 oz)
+value: 254.27
+label: package (3 lb)
+value: 1218.5
+
+
+name: Energy
+unit: kcal
+value: 33.0
+label: package (10 oz)
+value: 31.0
+label: package (10 oz)
+value: 94.0
+label: package (3 lb)
+value: 449.0
+
+
+name: Energy
+unit: kJ
+value: 137.0
+label: package (10 oz)
+value: 130.0
+label: package (10 oz)
+value: 389.0
+label: package (3 lb)
+value: 1865.0
+
+
+name: Protein
+unit: g
+value: 2.69
+label: package (10 oz)
+value: 2.56
+label: package (10 oz)
+value: 7.64
+label: package (3 lb)
+value: 36.61
+
+
+name: Total lipid (fat)
+unit: g
+value: 0.37
+label: package (10 oz)
+value: 0.35
+label: package (10 oz)
+value: 1.05
+label: package (3 lb)
+value: 5.04
+
+
+name: Ash
+unit: g
+value: 0.95
+label: package (10 oz)
+value: 0.9
+label: package (10 oz)
+value: 2.7
+label: package (3 lb)
+value: 12.93
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 6.46
+label: package (10 oz)
+value: 6.14
+label: package (10 oz)
+value: 18.35
+label: package (3 lb)
+value: 87.92
+
+
+name: Fiber, total dietary
+unit: g
+value: 3.6
+label: package (10 oz)
+value: 3.4
+label: package (10 oz)
+value: 10.2
+label: package (3 lb)
+value: 49.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 201.0
+label: package (10 oz)
+value: 191.0
+label: package (10 oz)
+value: 571.0
+label: package (3 lb)
+value: 2736.0
+
+
+name: Iron, Fe
+unit: mg
+value: 1.07
+label: package (10 oz)
+value: 1.02
+label: package (10 oz)
+value: 3.04
+label: package (3 lb)
+value: 14.56
+
+
+name: Magnesium, Mg
+unit: mg
+value: 29.0
+label: package (10 oz)
+value: 28.0
+label: package (10 oz)
+value: 82.0
+label: package (3 lb)
+value: 395.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 27.0
+label: package (10 oz)
+value: 26.0
+label: package (10 oz)
+value: 77.0
+label: package (3 lb)
+value: 367.0
+
+
+name: Potassium, K
+unit: mg
+value: 253.0
+label: package (10 oz)
+value: 240.0
+label: package (10 oz)
+value: 719.0
+label: package (3 lb)
+value: 3443.0
+
+
+name: Sodium, Na
+unit: mg
+value: 48.0
+label: package (10 oz)
+value: 46.0
+label: package (10 oz)
+value: 136.0
+label: package (3 lb)
+value: 653.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.26
+label: package (10 oz)
+value: 0.25
+label: package (10 oz)
+value: 0.74
+label: package (3 lb)
+value: 3.54
+
+
+name: Copper, Cu
+unit: mg
+value: 0.053
+label: package (10 oz)
+value: 0.05
+label: package (10 oz)
+value: 0.151
+label: package (3 lb)
+value: 0.721
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.633
+label: package (10 oz)
+value: 0.601
+label: package (10 oz)
+value: 1.798
+label: package (3 lb)
+value: 8.615
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 1.4
+label: package (10 oz)
+value: 1.3
+label: package (10 oz)
+value: 4.0
+label: package (3 lb)
+value: 19.1
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 40.0
+label: package (10 oz)
+value: 38.0
+label: package (10 oz)
+value: 113.6
+label: package (3 lb)
+value: 544.4
+
+
+name: Thiamin
+unit: mg
+value: 0.05
+label: package (10 oz)
+value: 0.048
+label: package (10 oz)
+value: 0.142
+label: package (3 lb)
+value: 0.68
+
+
+name: Riboflavin
+unit: mg
+value: 0.11
+label: package (10 oz)
+value: 0.104
+label: package (10 oz)
+value: 0.312
+label: package (3 lb)
+value: 1.497
+
+
+name: Niacin
+unit: mg
+value: 0.641
+label: package (10 oz)
+value: 0.609
+label: package (10 oz)
+value: 1.82
+label: package (3 lb)
+value: 8.724
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.11
+label: package (10 oz)
+value: 0.104
+label: package (10 oz)
+value: 0.312
+label: package (3 lb)
+value: 1.497
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.115
+label: package (10 oz)
+value: 0.109
+label: package (10 oz)
+value: 0.327
+label: package (3 lb)
+value: 1.565
+
+
+name: Folate, total
+unit: \u00B5g
+value: 73.0
+label: package (10 oz)
+value: 69.0
+label: package (10 oz)
+value: 207.0
+label: package (3 lb)
+value: 994.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: package (10 oz)
+value: 0.0
+label: package (10 oz)
+value: 0.0
+label: package (3 lb)
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 73.0
+label: package (10 oz)
+value: 69.0
+label: package (10 oz)
+value: 207.0
+label: package (3 lb)
+value: 994.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 73.0
+label: package (10 oz)
+value: 69.0
+label: package (10 oz)
+value: 207.0
+label: package (3 lb)
+value: 994.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: package (10 oz)
+value: 0.0
+label: package (10 oz)
+value: 0.0
+label: package (3 lb)
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 459.0
+label: package (10 oz)
+value: 436.0
+label: package (10 oz)
+value: 1304.0
+label: package (3 lb)
+value: 6247.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: package (10 oz)
+value: 0.0
+label: package (10 oz)
+value: 0.0
+label: package (3 lb)
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 5510.0
+label: package (10 oz)
+value: 5234.0
+label: package (10 oz)
+value: 15648.0
+label: package (3 lb)
+value: 74991.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 9183.0
+label: package (10 oz)
+value: 8724.0
+label: package (10 oz)
+value: 26080.0
+label: package (3 lb)
+value: 124981.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: package (10 oz)
+value: 0.0
+label: package (10 oz)
+value: 0.0
+label: package (3 lb)
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: package (10 oz)
+value: 0.0
+label: package (10 oz)
+value: 0.0
+label: package (3 lb)
+value: 0.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.048
+label: package (10 oz)
+value: 0.046
+label: package (10 oz)
+value: 0.136
+label: package (3 lb)
+value: 0.653
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: package (10 oz)
+value: 0.0
+label: package (10 oz)
+value: 0.0
+label: package (3 lb)
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: package (10 oz)
+value: 0.0
+label: package (10 oz)
+value: 0.0
+label: package (3 lb)
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: package (10 oz)
+value: 0.0
+label: package (10 oz)
+value: 0.0
+label: package (3 lb)
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: package (10 oz)
+value: 0.0
+label: package (10 oz)
+value: 0.0
+label: package (3 lb)
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.002
+label: package (10 oz)
+value: 0.002
+label: package (10 oz)
+value: 0.006
+label: package (3 lb)
+value: 0.027
+
+
+name: 14:0
+unit: g
+value: 0.002
+label: package (10 oz)
+value: 0.002
+label: package (10 oz)
+value: 0.006
+label: package (3 lb)
+value: 0.027
+
+
+name: 16:0
+unit: g
+value: 0.04
+label: package (10 oz)
+value: 0.038
+label: package (10 oz)
+value: 0.114
+label: package (3 lb)
+value: 0.544
+
+
+name: 18:0
+unit: g
+value: 0.002
+label: package (10 oz)
+value: 0.002
+label: package (10 oz)
+value: 0.006
+label: package (3 lb)
+value: 0.027
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.027
+label: package (10 oz)
+value: 0.026
+label: package (10 oz)
+value: 0.077
+label: package (3 lb)
+value: 0.367
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.0
+label: package (10 oz)
+value: 0.0
+label: package (10 oz)
+value: 0.0
+label: package (3 lb)
+value: 0.0
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.026
+label: package (10 oz)
+value: 0.025
+label: package (10 oz)
+value: 0.074
+label: package (3 lb)
+value: 0.354
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: package (10 oz)
+value: 0.0
+label: package (10 oz)
+value: 0.0
+label: package (3 lb)
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: package (10 oz)
+value: 0.0
+label: package (10 oz)
+value: 0.0
+label: package (3 lb)
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.178
+label: package (10 oz)
+value: 0.169
+label: package (10 oz)
+value: 0.506
+label: package (3 lb)
+value: 2.423
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.072
+label: package (10 oz)
+value: 0.068
+label: package (10 oz)
+value: 0.204
+label: package (3 lb)
+value: 0.98
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.096
+label: package (10 oz)
+value: 0.091
+label: package (10 oz)
+value: 0.273
+label: package (3 lb)
+value: 1.307
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: package (10 oz)
+value: 0.0
+label: package (10 oz)
+value: 0.0
+label: package (3 lb)
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.002
+label: package (10 oz)
+value: 0.002
+label: package (10 oz)
+value: 0.006
+label: package (3 lb)
+value: 0.027
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: package (10 oz)
+value: 0.0
+label: package (10 oz)
+value: 0.0
+label: package (3 lb)
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: package (10 oz)
+value: 0.0
+label: package (10 oz)
+value: 0.0
+label: package (3 lb)
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: package (10 oz)
+value: 0.0
+label: package (10 oz)
+value: 0.0
+label: package (3 lb)
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.0
+label: package (10 oz)
+value: 0.0
+label: package (10 oz)
+value: 0.0
+label: package (3 lb)
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: package (10 oz)
+value: 0.0
+label: package (10 oz)
+value: 0.0
+label: package (3 lb)
+value: 0.0
+
+
+name: Tryptophan
+unit: g
+value: 0.035
+label: package (10 oz)
+value: 0.033
+label: package (10 oz)
+value: 0.099
+label: package (3 lb)
+value: 0.476
+
+
+name: Threonine
+unit: g
+value: 0.095
+label: package (10 oz)
+value: 0.09
+label: package (10 oz)
+value: 0.27
+label: package (3 lb)
+value: 1.293
+
+
+name: Isoleucine
+unit: g
+value: 0.109
+label: package (10 oz)
+value: 0.104
+label: package (10 oz)
+value: 0.31
+label: package (3 lb)
+value: 1.483
+
+
+name: Leucine
+unit: g
+value: 0.167
+label: package (10 oz)
+value: 0.159
+label: package (10 oz)
+value: 0.474
+label: package (3 lb)
+value: 2.273
+
+
+name: Lysine
+unit: g
+value: 0.128
+label: package (10 oz)
+value: 0.122
+label: package (10 oz)
+value: 0.364
+label: package (3 lb)
+value: 1.742
+
+
+name: Methionine
+unit: g
+value: 0.037
+label: package (10 oz)
+value: 0.035
+label: package (10 oz)
+value: 0.105
+label: package (3 lb)
+value: 0.504
+
+
+name: Cystine
+unit: g
+value: 0.027
+label: package (10 oz)
+value: 0.026
+label: package (10 oz)
+value: 0.077
+label: package (3 lb)
+value: 0.367
+
+
+name: Phenylalanine
+unit: g
+value: 0.096
+label: package (10 oz)
+value: 0.091
+label: package (10 oz)
+value: 0.273
+label: package (3 lb)
+value: 1.307
+
+
+name: Tyrosine
+unit: g
+value: 0.073
+label: package (10 oz)
+value: 0.069
+label: package (10 oz)
+value: 0.207
+label: package (3 lb)
+value: 0.994
+
+
+name: Valine
+unit: g
+value: 0.131
+label: package (10 oz)
+value: 0.124
+label: package (10 oz)
+value: 0.372
+label: package (3 lb)
+value: 1.783
+
+
+name: Arginine
+unit: g
+value: 0.138
+label: package (10 oz)
+value: 0.131
+label: package (10 oz)
+value: 0.392
+label: package (3 lb)
+value: 1.878
+
+
+name: Histidine
+unit: g
+value: 0.051
+label: package (10 oz)
+value: 0.048
+label: package (10 oz)
+value: 0.145
+label: package (3 lb)
+value: 0.694
+
+
+name: Alanine
+unit: g
+value: 0.116
+label: package (10 oz)
+value: 0.11
+label: package (10 oz)
+value: 0.329
+label: package (3 lb)
+value: 1.579
+
+
+name: Aspartic acid
+unit: g
+value: 0.206
+label: package (10 oz)
+value: 0.196
+label: package (10 oz)
+value: 0.585
+label: package (3 lb)
+value: 2.804
+
+
+name: Glutamic acid
+unit: g
+value: 0.225
+label: package (10 oz)
+value: 0.214
+label: package (10 oz)
+value: 0.639
+label: package (3 lb)
+value: 3.062
+
+
+name: Glycine
+unit: g
+value: 0.103
+label: package (10 oz)
+value: 0.098
+label: package (10 oz)
+value: 0.293
+label: package (3 lb)
+value: 1.402
+
+
+name: Proline
+unit: g
+value: 0.115
+label: package (10 oz)
+value: 0.109
+label: package (10 oz)
+value: 0.327
+label: package (3 lb)
+value: 1.565
+
+
+name: Serine
+unit: g
+value: 0.087
+label: package (10 oz)
+value: 0.083
+label: package (10 oz)
+value: 0.247
+label: package (3 lb)
+value: 1.184
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: package (10 oz)
+value: 0.0
+label: package (10 oz)
+value: 0.0
+label: package (3 lb)
+value: 0.0
+
+

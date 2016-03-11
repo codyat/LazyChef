@@ -1,0 +1,1085 @@
+ndbno: 09176
+
+
+name: Mangos, raw
+
+
+name: Water
+unit: g
+value: 83.46
+label: cup pieces
+value: 137.71
+label: fruit without refuse
+value: 280.43
+
+
+name: Energy
+unit: kcal
+value: 60.0
+label: cup pieces
+value: 99.0
+label: fruit without refuse
+value: 202.0
+
+
+name: Energy
+unit: kJ
+value: 250.0
+label: cup pieces
+value: 412.0
+label: fruit without refuse
+value: 840.0
+
+
+name: Protein
+unit: g
+value: 0.82
+label: cup pieces
+value: 1.35
+label: fruit without refuse
+value: 2.76
+
+
+name: Total lipid (fat)
+unit: g
+value: 0.38
+label: cup pieces
+value: 0.63
+label: fruit without refuse
+value: 1.28
+
+
+name: Ash
+unit: g
+value: 0.36
+label: cup pieces
+value: 0.59
+label: fruit without refuse
+value: 1.21
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 14.98
+label: cup pieces
+value: 24.72
+label: fruit without refuse
+value: 50.33
+
+
+name: Fiber, total dietary
+unit: g
+value: 1.6
+label: cup pieces
+value: 2.6
+label: fruit without refuse
+value: 5.4
+
+
+name: Sugars, total
+unit: g
+value: 13.66
+label: cup pieces
+value: 22.54
+label: fruit without refuse
+value: 45.9
+
+
+name: Sucrose
+unit: g
+value: 6.97
+label: cup pieces
+value: 11.5
+label: fruit without refuse
+value: 23.42
+
+
+name: Glucose (dextrose)
+unit: g
+value: 2.01
+label: cup pieces
+value: 3.32
+label: fruit without refuse
+value: 6.75
+
+
+name: Fructose
+unit: g
+value: 4.68
+label: cup pieces
+value: 7.72
+label: fruit without refuse
+value: 15.72
+
+
+name: Lactose
+unit: g
+value: 0.0
+label: cup pieces
+value: 0.0
+label: fruit without refuse
+value: 0.0
+
+
+name: Maltose
+unit: g
+value: 0.0
+label: cup pieces
+value: 0.0
+label: fruit without refuse
+value: 0.0
+
+
+name: Galactose
+unit: g
+value: 0.0
+label: cup pieces
+value: 0.0
+label: fruit without refuse
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 11.0
+label: cup pieces
+value: 18.0
+label: fruit without refuse
+value: 37.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.16
+label: cup pieces
+value: 0.26
+label: fruit without refuse
+value: 0.54
+
+
+name: Magnesium, Mg
+unit: mg
+value: 10.0
+label: cup pieces
+value: 16.0
+label: fruit without refuse
+value: 34.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 14.0
+label: cup pieces
+value: 23.0
+label: fruit without refuse
+value: 47.0
+
+
+name: Potassium, K
+unit: mg
+value: 168.0
+label: cup pieces
+value: 277.0
+label: fruit without refuse
+value: 564.0
+
+
+name: Sodium, Na
+unit: mg
+value: 1.0
+label: cup pieces
+value: 2.0
+label: fruit without refuse
+value: 3.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.09
+label: cup pieces
+value: 0.15
+label: fruit without refuse
+value: 0.3
+
+
+name: Copper, Cu
+unit: mg
+value: 0.111
+label: cup pieces
+value: 0.183
+label: fruit without refuse
+value: 0.373
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.063
+label: cup pieces
+value: 0.104
+label: fruit without refuse
+value: 0.212
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 0.6
+label: cup pieces
+value: 1.0
+label: fruit without refuse
+value: 2.0
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 36.4
+label: cup pieces
+value: 60.1
+label: fruit without refuse
+value: 122.3
+
+
+name: Thiamin
+unit: mg
+value: 0.028
+label: cup pieces
+value: 0.046
+label: fruit without refuse
+value: 0.094
+
+
+name: Riboflavin
+unit: mg
+value: 0.038
+label: cup pieces
+value: 0.063
+label: fruit without refuse
+value: 0.128
+
+
+name: Niacin
+unit: mg
+value: 0.669
+label: cup pieces
+value: 1.104
+label: fruit without refuse
+value: 2.248
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.197
+label: cup pieces
+value: 0.325
+label: fruit without refuse
+value: 0.662
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.119
+label: cup pieces
+value: 0.196
+label: fruit without refuse
+value: 0.4
+
+
+name: Folate, total
+unit: \u00B5g
+value: 43.0
+label: cup pieces
+value: 71.0
+label: fruit without refuse
+value: 144.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: cup pieces
+value: 0.0
+label: fruit without refuse
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 43.0
+label: cup pieces
+value: 71.0
+label: fruit without refuse
+value: 144.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 43.0
+label: cup pieces
+value: 71.0
+label: fruit without refuse
+value: 144.0
+
+
+name: Choline, total
+unit: mg
+value: 7.6
+label: cup pieces
+value: 12.5
+label: fruit without refuse
+value: 25.5
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: cup pieces
+value: 0.0
+label: fruit without refuse
+value: 0.0
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: cup pieces
+value: 0.0
+label: fruit without refuse
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 54.0
+label: cup pieces
+value: 89.0
+label: fruit without refuse
+value: 181.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: cup pieces
+value: 0.0
+label: fruit without refuse
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 640.0
+label: cup pieces
+value: 1056.0
+label: fruit without refuse
+value: 2150.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 9.0
+label: cup pieces
+value: 15.0
+label: fruit without refuse
+value: 30.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 10.0
+label: cup pieces
+value: 16.0
+label: fruit without refuse
+value: 34.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 1082.0
+label: cup pieces
+value: 1785.0
+label: fruit without refuse
+value: 3636.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 3.0
+label: cup pieces
+value: 5.0
+label: fruit without refuse
+value: 10.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 23.0
+label: cup pieces
+value: 38.0
+label: fruit without refuse
+value: 77.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.9
+label: cup pieces
+value: 1.48
+label: fruit without refuse
+value: 3.02
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: cup pieces
+value: 0.0
+label: fruit without refuse
+value: 0.0
+
+
+name: Tocopherol, beta
+unit: mg
+value: 0.01
+label: cup pieces
+value: 0.02
+label: fruit without refuse
+value: 0.03
+
+
+name: Tocopherol, gamma
+unit: mg
+value: 0.01
+label: cup pieces
+value: 0.02
+label: fruit without refuse
+value: 0.03
+
+
+name: Tocopherol, delta
+unit: mg
+value: 0.0
+label: cup pieces
+value: 0.0
+label: fruit without refuse
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: cup pieces
+value: 0.0
+label: fruit without refuse
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: cup pieces
+value: 0.0
+label: fruit without refuse
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 4.2
+label: cup pieces
+value: 6.9
+label: fruit without refuse
+value: 14.1
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.092
+label: cup pieces
+value: 0.152
+label: fruit without refuse
+value: 0.309
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: cup pieces
+value: 0.0
+label: fruit without refuse
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: cup pieces
+value: 0.0
+label: fruit without refuse
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: cup pieces
+value: 0.0
+label: fruit without refuse
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: cup pieces
+value: 0.0
+label: fruit without refuse
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.001
+label: cup pieces
+value: 0.002
+label: fruit without refuse
+value: 0.003
+
+
+name: 14:0
+unit: g
+value: 0.013
+label: cup pieces
+value: 0.021
+label: fruit without refuse
+value: 0.044
+
+
+name: 16:0
+unit: g
+value: 0.072
+label: cup pieces
+value: 0.119
+label: fruit without refuse
+value: 0.242
+
+
+name: 18:0
+unit: g
+value: 0.004
+label: cup pieces
+value: 0.007
+label: fruit without refuse
+value: 0.013
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.14
+label: cup pieces
+value: 0.231
+label: fruit without refuse
+value: 0.47
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.067
+label: cup pieces
+value: 0.111
+label: fruit without refuse
+value: 0.225
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.075
+label: cup pieces
+value: 0.124
+label: fruit without refuse
+value: 0.252
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: cup pieces
+value: 0.0
+label: fruit without refuse
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: cup pieces
+value: 0.0
+label: fruit without refuse
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.071
+label: cup pieces
+value: 0.117
+label: fruit without refuse
+value: 0.239
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.019
+label: cup pieces
+value: 0.031
+label: fruit without refuse
+value: 0.064
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.051
+label: cup pieces
+value: 0.084
+label: fruit without refuse
+value: 0.171
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: cup pieces
+value: 0.0
+label: fruit without refuse
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: cup pieces
+value: 0.0
+label: fruit without refuse
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: cup pieces
+value: 0.0
+label: fruit without refuse
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: cup pieces
+value: 0.0
+label: fruit without refuse
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: cup pieces
+value: 0.0
+label: fruit without refuse
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.0
+label: cup pieces
+value: 0.0
+label: fruit without refuse
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: cup pieces
+value: 0.0
+label: fruit without refuse
+value: 0.0
+
+
+name: Tryptophan
+unit: g
+value: 0.013
+label: cup pieces
+value: 0.021
+label: fruit without refuse
+value: 0.044
+
+
+name: Threonine
+unit: g
+value: 0.031
+label: cup pieces
+value: 0.051
+label: fruit without refuse
+value: 0.104
+
+
+name: Isoleucine
+unit: g
+value: 0.029
+label: cup pieces
+value: 0.048
+label: fruit without refuse
+value: 0.097
+
+
+name: Leucine
+unit: g
+value: 0.05
+label: cup pieces
+value: 0.082
+label: fruit without refuse
+value: 0.168
+
+
+name: Lysine
+unit: g
+value: 0.066
+label: cup pieces
+value: 0.109
+label: fruit without refuse
+value: 0.222
+
+
+name: Methionine
+unit: g
+value: 0.008
+label: cup pieces
+value: 0.013
+label: fruit without refuse
+value: 0.027
+
+
+name: Phenylalanine
+unit: g
+value: 0.027
+label: cup pieces
+value: 0.045
+label: fruit without refuse
+value: 0.091
+
+
+name: Tyrosine
+unit: g
+value: 0.016
+label: cup pieces
+value: 0.026
+label: fruit without refuse
+value: 0.054
+
+
+name: Valine
+unit: g
+value: 0.042
+label: cup pieces
+value: 0.069
+label: fruit without refuse
+value: 0.141
+
+
+name: Arginine
+unit: g
+value: 0.031
+label: cup pieces
+value: 0.051
+label: fruit without refuse
+value: 0.104
+
+
+name: Histidine
+unit: g
+value: 0.019
+label: cup pieces
+value: 0.031
+label: fruit without refuse
+value: 0.064
+
+
+name: Alanine
+unit: g
+value: 0.082
+label: cup pieces
+value: 0.135
+label: fruit without refuse
+value: 0.276
+
+
+name: Aspartic acid
+unit: g
+value: 0.068
+label: cup pieces
+value: 0.112
+label: fruit without refuse
+value: 0.228
+
+
+name: Glutamic acid
+unit: g
+value: 0.096
+label: cup pieces
+value: 0.158
+label: fruit without refuse
+value: 0.323
+
+
+name: Glycine
+unit: g
+value: 0.034
+label: cup pieces
+value: 0.056
+label: fruit without refuse
+value: 0.114
+
+
+name: Proline
+unit: g
+value: 0.029
+label: cup pieces
+value: 0.048
+label: fruit without refuse
+value: 0.097
+
+
+name: Serine
+unit: g
+value: 0.035
+label: cup pieces
+value: 0.058
+label: fruit without refuse
+value: 0.118
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: cup pieces
+value: 0.0
+label: fruit without refuse
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: cup pieces
+value: 0.0
+label: fruit without refuse
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: cup pieces
+value: 0.0
+label: fruit without refuse
+value: 0.0
+
+
+name: Cyanidin
+unit: mg
+value: 0.1
+label: cup pieces
+value: 0.16
+label: fruit without refuse
+value: 0.34
+
+
+name: Delphinidin
+unit: mg
+value: 0.0
+label: cup pieces
+value: 0.0
+label: fruit without refuse
+value: 0.1
+
+
+name: Pelargonidin
+unit: mg
+value: 0.0
+label: cup pieces
+value: 0.0
+label: fruit without refuse
+value: 0.1
+
+
+name: (+)-Catechin
+unit: mg
+value: 1.7
+label: cup pieces
+value: 2.8
+label: fruit without refuse
+value: 5.8
+
+
+name: (-)-Epigallocatechin
+unit: mg
+value: 0.0
+label: cup pieces
+value: 0.0
+label: fruit without refuse
+value: 0.0
+
+
+name: (-)-Epicatechin
+unit: mg
+value: 0.0
+label: cup pieces
+value: 0.0
+label: fruit without refuse
+value: 0.0
+
+
+name: (-)-Epicatechin 3-gallate
+unit: mg
+value: 0.0
+label: cup pieces
+value: 0.0
+label: fruit without refuse
+value: 0.0
+
+
+name: (-)-Epigallocatechin 3-gallate
+unit: mg
+value: 0.0
+label: cup pieces
+value: 0.0
+label: fruit without refuse
+value: 0.0
+
+
+name: (+)-Gallocatechin
+unit: mg
+value: 0.0
+label: cup pieces
+value: 0.0
+label: fruit without refuse
+value: 0.0
+
+
+name: Apigenin
+unit: mg
+value: 0.0
+label: cup pieces
+value: 0.0
+label: fruit without refuse
+value: 0.0
+
+
+name: Luteolin
+unit: mg
+value: 0.0
+label: cup pieces
+value: 0.0
+label: fruit without refuse
+value: 0.1
+
+
+name: Kaempferol
+unit: mg
+value: 0.0
+label: cup pieces
+value: 0.1
+label: fruit without refuse
+value: 0.2
+
+
+name: Myricetin
+unit: mg
+value: 0.1
+label: cup pieces
+value: 0.1
+label: fruit without refuse
+value: 0.2
+
+
+name: Quercetin
+unit: mg
+value: 0.0
+label: cup pieces
+value: 0.0
+label: fruit without refuse
+value: 0.0
+
+
+name: Daidzein
+unit: mg
+value: 0.0
+label: cup pieces
+value: 0.0
+label: fruit without refuse
+value: 0.0
+
+
+name: Genistein
+unit: mg
+value: 0.0
+label: cup pieces
+value: 0.0
+label: fruit without refuse
+value: 0.0
+
+
+name: Total isoflavones
+unit: mg
+value: 0.0
+label: cup pieces
+value: 0.01
+label: fruit without refuse
+value: 0.02
+
+
+name: Proanthocyanidin dimers
+unit: mg
+value: 1.8
+label: cup pieces
+value: 3.0
+label: fruit without refuse
+value: 6.0
+
+
+name: Proanthocyanidin trimers
+unit: mg
+value: 1.4
+label: cup pieces
+value: 2.3
+label: fruit without refuse
+value: 4.7
+
+
+name: Proanthocyanidin 4-6mers
+unit: mg
+value: 7.2
+label: cup pieces
+value: 11.9
+label: fruit without refuse
+value: 24.2
+
+
+name: Proanthocyanidin 7-10mers
+unit: mg
+value: 0.0
+label: cup pieces
+value: 0.0
+label: fruit without refuse
+value: 0.0
+
+
+name: Proanthocyanidin polymers (>10mers)
+unit: mg
+value: 0.0
+label: cup pieces
+value: 0.0
+label: fruit without refuse
+value: 0.0
+

@@ -1,0 +1,538 @@
+ndbno: 10803
+
+
+name: USDA Commodity, pork, ground, fine/coarse, frozen, cooked
+
+
+name: Water
+unit: g
+value: 57.08
+label: oz grilled patties
+value: 16.18
+label: oz grilled patties
+value: 48.52
+
+
+name: Energy
+unit: kcal
+value: 265.0
+label: oz grilled patties
+value: 75.0
+label: oz grilled patties
+value: 225.0
+
+
+name: Energy
+unit: kJ
+value: 1109.0
+label: oz grilled patties
+value: 314.0
+label: oz grilled patties
+value: 943.0
+
+
+name: Protein
+unit: g
+value: 23.55
+label: oz grilled patties
+value: 6.68
+label: oz grilled patties
+value: 20.02
+
+
+name: Total lipid (fat)
+unit: g
+value: 18.19
+label: oz grilled patties
+value: 5.16
+label: oz grilled patties
+value: 15.46
+
+
+name: Ash
+unit: g
+value: 1.19
+label: oz grilled patties
+value: 0.34
+label: oz grilled patties
+value: 1.01
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 0.0
+label: oz grilled patties
+value: 0.0
+label: oz grilled patties
+value: 0.0
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: oz grilled patties
+value: 0.0
+label: oz grilled patties
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 8.0
+label: oz grilled patties
+value: 2.0
+label: oz grilled patties
+value: 7.0
+
+
+name: Iron, Fe
+unit: mg
+value: 1.51
+label: oz grilled patties
+value: 0.43
+label: oz grilled patties
+value: 1.28
+
+
+name: Magnesium, Mg
+unit: mg
+value: 23.0
+label: oz grilled patties
+value: 7.0
+label: oz grilled patties
+value: 20.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 231.0
+label: oz grilled patties
+value: 65.0
+label: oz grilled patties
+value: 196.0
+
+
+name: Potassium, K
+unit: mg
+value: 311.0
+label: oz grilled patties
+value: 88.0
+label: oz grilled patties
+value: 264.0
+
+
+name: Sodium, Na
+unit: mg
+value: 76.0
+label: oz grilled patties
+value: 22.0
+label: oz grilled patties
+value: 65.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 3.59
+label: oz grilled patties
+value: 1.02
+label: oz grilled patties
+value: 3.05
+
+
+name: Copper, Cu
+unit: mg
+value: 0.131
+label: oz grilled patties
+value: 0.037
+label: oz grilled patties
+value: 0.111
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.01
+label: oz grilled patties
+value: 0.003
+label: oz grilled patties
+value: 0.008
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 35.4
+label: oz grilled patties
+value: 10.0
+label: oz grilled patties
+value: 30.1
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 2.3
+label: oz grilled patties
+value: 0.7
+label: oz grilled patties
+value: 2.0
+
+
+name: Thiamin
+unit: mg
+value: 0.598
+label: oz grilled patties
+value: 0.17
+label: oz grilled patties
+value: 0.508
+
+
+name: Riboflavin
+unit: mg
+value: 0.247
+label: oz grilled patties
+value: 0.07
+label: oz grilled patties
+value: 0.21
+
+
+name: Niacin
+unit: mg
+value: 3.597
+label: oz grilled patties
+value: 1.02
+label: oz grilled patties
+value: 3.057
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.923
+label: oz grilled patties
+value: 0.262
+label: oz grilled patties
+value: 0.785
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.167
+label: oz grilled patties
+value: 0.047
+label: oz grilled patties
+value: 0.142
+
+
+name: Folate, total
+unit: \u00B5g
+value: 6.0
+label: oz grilled patties
+value: 2.0
+label: oz grilled patties
+value: 5.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: oz grilled patties
+value: 0.0
+label: oz grilled patties
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 6.0
+label: oz grilled patties
+value: 2.0
+label: oz grilled patties
+value: 5.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 6.0
+label: oz grilled patties
+value: 2.0
+label: oz grilled patties
+value: 5.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 2.3
+label: oz grilled patties
+value: 0.65
+label: oz grilled patties
+value: 1.95
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 5.0
+label: oz grilled patties
+value: 1.0
+label: oz grilled patties
+value: 4.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 5.0
+label: oz grilled patties
+value: 1.0
+label: oz grilled patties
+value: 4.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 0.0
+label: oz grilled patties
+value: 0.0
+label: oz grilled patties
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 15.0
+label: oz grilled patties
+value: 4.0
+label: oz grilled patties
+value: 13.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 5.515
+label: oz grilled patties
+value: 1.564
+label: oz grilled patties
+value: 4.688
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: oz grilled patties
+value: 0.0
+label: oz grilled patties
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: oz grilled patties
+value: 0.0
+label: oz grilled patties
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.005
+label: oz grilled patties
+value: 0.001
+label: oz grilled patties
+value: 0.004
+
+
+name: 10:0
+unit: g
+value: 0.025
+label: oz grilled patties
+value: 0.007
+label: oz grilled patties
+value: 0.021
+
+
+name: 12:0
+unit: g
+value: 0.014
+label: oz grilled patties
+value: 0.004
+label: oz grilled patties
+value: 0.012
+
+
+name: 14:0
+unit: g
+value: 0.181
+label: oz grilled patties
+value: 0.051
+label: oz grilled patties
+value: 0.154
+
+
+name: 16:0
+unit: g
+value: 3.623
+label: oz grilled patties
+value: 1.027
+label: oz grilled patties
+value: 3.08
+
+
+name: 18:0
+unit: g
+value: 1.505
+label: oz grilled patties
+value: 0.427
+label: oz grilled patties
+value: 1.279
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 9.141
+label: oz grilled patties
+value: 2.591
+label: oz grilled patties
+value: 7.77
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.556
+label: oz grilled patties
+value: 0.158
+label: oz grilled patties
+value: 0.473
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 8.435
+label: oz grilled patties
+value: 2.391
+label: oz grilled patties
+value: 7.17
+
+
+name: 20:1
+unit: g
+value: 0.139
+label: oz grilled patties
+value: 0.039
+label: oz grilled patties
+value: 0.118
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.002
+label: oz grilled patties
+value: 0.001
+label: oz grilled patties
+value: 0.002
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 2.337
+label: oz grilled patties
+value: 0.663
+label: oz grilled patties
+value: 1.986
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 2.034
+label: oz grilled patties
+value: 0.577
+label: oz grilled patties
+value: 1.729
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.089
+label: oz grilled patties
+value: 0.025
+label: oz grilled patties
+value: 0.076
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: oz grilled patties
+value: 0.0
+label: oz grilled patties
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.11
+label: oz grilled patties
+value: 0.031
+label: oz grilled patties
+value: 0.094
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.003
+label: oz grilled patties
+value: 0.001
+label: oz grilled patties
+value: 0.003
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: oz grilled patties
+value: 0.0
+label: oz grilled patties
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.008
+label: oz grilled patties
+value: 0.002
+label: oz grilled patties
+value: 0.007
+
+
+name: Cholesterol
+unit: mg
+value: 105.0
+label: oz grilled patties
+value: 30.0
+label: oz grilled patties
+value: 89.0
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: oz grilled patties
+value: 0.0
+label: oz grilled patties
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: oz grilled patties
+value: 0.0
+label: oz grilled patties
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: oz grilled patties
+value: 0.0
+label: oz grilled patties
+value: 0.0
+
+
+

@@ -1,0 +1,627 @@
+ndbno: 05025
+
+
+name: Chicken, heart, all classes, raw
+
+
+name: Water
+unit: g
+value: 73.56
+label: heart
+value: 4.49
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 1.32
+
+
+name: Energy
+unit: kcal
+value: 153.0
+label: heart
+value: 9.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 3.0
+
+
+name: Energy
+unit: kJ
+value: 640.0
+label: heart
+value: 39.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 12.0
+
+
+name: Protein
+unit: g
+value: 15.55
+label: heart
+value: 0.95
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.28
+
+
+name: Total lipid (fat)
+unit: g
+value: 9.33
+label: heart
+value: 0.57
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.17
+
+
+name: Ash
+unit: g
+value: 0.85
+label: heart
+value: 0.05
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.02
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 0.71
+label: heart
+value: 0.04
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.01
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: heart
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 12.0
+label: heart
+value: 1.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.0
+
+
+name: Iron, Fe
+unit: mg
+value: 5.96
+label: heart
+value: 0.36
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.11
+
+
+name: Magnesium, Mg
+unit: mg
+value: 15.0
+label: heart
+value: 1.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 177.0
+label: heart
+value: 11.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 3.0
+
+
+name: Potassium, K
+unit: mg
+value: 176.0
+label: heart
+value: 11.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 3.0
+
+
+name: Sodium, Na
+unit: mg
+value: 74.0
+label: heart
+value: 5.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 1.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 6.59
+label: heart
+value: 0.4
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.12
+
+
+name: Copper, Cu
+unit: mg
+value: 0.346
+label: heart
+value: 0.021
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.006
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.089
+label: heart
+value: 0.005
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.002
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 4.3
+label: heart
+value: 0.3
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.1
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 3.2
+label: heart
+value: 0.2
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.1
+
+
+name: Thiamin
+unit: mg
+value: 0.152
+label: heart
+value: 0.009
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.003
+
+
+name: Riboflavin
+unit: mg
+value: 0.728
+label: heart
+value: 0.044
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.013
+
+
+name: Niacin
+unit: mg
+value: 4.883
+label: heart
+value: 0.298
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.088
+
+
+name: Pantothenic acid
+unit: mg
+value: 2.559
+label: heart
+value: 0.156
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.046
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.36
+label: heart
+value: 0.022
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.006
+
+
+name: Folate, total
+unit: \u00B5g
+value: 72.0
+label: heart
+value: 4.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 1.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: heart
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 72.0
+label: heart
+value: 4.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 1.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 72.0
+label: heart
+value: 4.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 1.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 7.29
+label: heart
+value: 0.44
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.13
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 9.0
+label: heart
+value: 1.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 9.0
+label: heart
+value: 1.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 30.0
+label: heart
+value: 2.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 1.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 2.66
+label: heart
+value: 0.162
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.048
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: heart
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: heart
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.06
+label: heart
+value: 0.004
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.001
+
+
+name: 16:0
+unit: g
+value: 1.45
+label: heart
+value: 0.088
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.026
+
+
+name: 18:0
+unit: g
+value: 0.78
+label: heart
+value: 0.048
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.014
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 2.37
+label: heart
+value: 0.145
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.043
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.39
+label: heart
+value: 0.024
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.007
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 1.98
+label: heart
+value: 0.121
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.036
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: heart
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: heart
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 2.71
+label: heart
+value: 0.165
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.049
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 1.91
+label: heart
+value: 0.117
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.034
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.07
+label: heart
+value: 0.004
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.001
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.72
+label: heart
+value: 0.044
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.013
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: heart
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: heart
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: heart
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 136.0
+label: heart
+value: 8.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 2.0
+
+
+name: Tryptophan
+unit: g
+value: 0.199
+label: heart
+value: 0.012
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.004
+
+
+name: Threonine
+unit: g
+value: 0.704
+label: heart
+value: 0.043
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.013
+
+
+name: Isoleucine
+unit: g
+value: 0.833
+label: heart
+value: 0.051
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.015
+
+
+name: Leucine
+unit: g
+value: 1.355
+label: heart
+value: 0.083
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.024
+
+
+name: Lysine
+unit: g
+value: 1.303
+label: heart
+value: 0.079
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.023
+
+
+name: Methionine
+unit: g
+value: 0.376
+label: heart
+value: 0.023
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.007
+
+
+name: Cystine
+unit: g
+value: 0.211
+label: heart
+value: 0.013
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.004
+
+
+name: Phenylalanine
+unit: g
+value: 0.696
+label: heart
+value: 0.042
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.013
+
+
+name: Tyrosine
+unit: g
+value: 0.557
+label: heart
+value: 0.034
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.01
+
+
+name: Valine
+unit: g
+value: 0.88
+label: heart
+value: 0.054
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.016
+
+
+name: Arginine
+unit: g
+value: 0.997
+label: heart
+value: 0.061
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.018
+
+
+name: Histidine
+unit: g
+value: 0.408
+label: heart
+value: 0.025
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.007
+
+
+name: Alanine
+unit: g
+value: 0.98
+label: heart
+value: 0.06
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.018
+
+
+name: Aspartic acid
+unit: g
+value: 1.512
+label: heart
+value: 0.092
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.027
+
+
+name: Glutamic acid
+unit: g
+value: 2.308
+label: heart
+value: 0.141
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.042
+
+
+name: Glycine
+unit: g
+value: 0.863
+label: heart
+value: 0.053
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.016
+
+
+name: Proline
+unit: g
+value: 0.793
+label: heart
+value: 0.048
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.014
+
+
+name: Serine
+unit: g
+value: 0.627
+label: heart
+value: 0.038
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.011
+
+

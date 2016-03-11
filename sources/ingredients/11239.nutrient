@@ -1,0 +1,383 @@
+ndbno: 11239
+
+
+name: Mushrooms, Chanterelle, raw
+
+
+name: Water
+unit: g
+value: 89.85
+label: cup
+value: 48.52
+label: piece
+value: 4.85
+
+
+name: Energy
+unit: kcal
+value: 38.0
+label: cup
+value: 21.0
+label: piece
+value: 2.0
+
+
+name: Energy
+unit: kJ
+value: 160.0
+label: cup
+value: 86.0
+label: piece
+value: 9.0
+
+
+name: Protein
+unit: g
+value: 1.49
+label: cup
+value: 0.8
+label: piece
+value: 0.08
+
+
+name: Total lipid (fat)
+unit: g
+value: 0.53
+label: cup
+value: 0.29
+label: piece
+value: 0.03
+
+
+name: Ash
+unit: g
+value: 1.26
+label: cup
+value: 0.68
+label: piece
+value: 0.07
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 6.86
+label: cup
+value: 3.7
+label: piece
+value: 0.37
+
+
+name: Fiber, total dietary
+unit: g
+value: 3.8
+label: cup
+value: 2.1
+label: piece
+value: 0.2
+
+
+name: Sugars, total
+unit: g
+value: 1.16
+label: cup
+value: 0.63
+label: piece
+value: 0.06
+
+
+name: Sucrose
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: Glucose (dextrose)
+unit: g
+value: 1.16
+label: cup
+value: 0.63
+label: piece
+value: 0.06
+
+
+name: Fructose
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: Lactose
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: Maltose
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: Galactose
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 15.0
+label: cup
+value: 8.0
+label: piece
+value: 1.0
+
+
+name: Iron, Fe
+unit: mg
+value: 3.47
+label: cup
+value: 1.87
+label: piece
+value: 0.19
+
+
+name: Magnesium, Mg
+unit: mg
+value: 13.0
+label: cup
+value: 7.0
+label: piece
+value: 1.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 57.0
+label: cup
+value: 31.0
+label: piece
+value: 3.0
+
+
+name: Potassium, K
+unit: mg
+value: 506.0
+label: cup
+value: 273.0
+label: piece
+value: 27.0
+
+
+name: Sodium, Na
+unit: mg
+value: 9.0
+label: cup
+value: 5.0
+label: piece
+value: 0.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.71
+label: cup
+value: 0.38
+label: piece
+value: 0.04
+
+
+name: Copper, Cu
+unit: mg
+value: 0.353
+label: cup
+value: 0.191
+label: piece
+value: 0.019
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.286
+label: cup
+value: 0.154
+label: piece
+value: 0.015
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 2.2
+label: cup
+value: 1.2
+label: piece
+value: 0.1
+
+
+name: Thiamin
+unit: mg
+value: 0.015
+label: cup
+value: 0.008
+label: piece
+value: 0.001
+
+
+name: Riboflavin
+unit: mg
+value: 0.215
+label: cup
+value: 0.116
+label: piece
+value: 0.012
+
+
+name: Niacin
+unit: mg
+value: 4.085
+label: cup
+value: 2.206
+label: piece
+value: 0.221
+
+
+name: Pantothenic acid
+unit: mg
+value: 1.075
+label: cup
+value: 0.58
+label: piece
+value: 0.058
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.044
+label: cup
+value: 0.024
+label: piece
+value: 0.002
+
+
+name: Folate, total
+unit: \u00B5g
+value: 2.0
+label: cup
+value: 1.0
+label: piece
+value: 0.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 2.0
+label: cup
+value: 1.0
+label: piece
+value: 0.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 2.0
+label: cup
+value: 1.0
+label: piece
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 5.3
+label: cup
+value: 2.9
+label: piece
+value: 0.3
+
+
+name: Vitamin D2 (ergocalciferol)
+unit: \u00B5g
+value: 5.3
+label: cup
+value: 2.9
+label: piece
+value: 0.3
+
+
+name: Vitamin D3 (cholecalciferol)
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 212.0
+label: cup
+value: 114.0
+label: piece
+value: 11.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: Stigmasterol
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: Campesterol
+unit: mg
+value: 1.0
+label: cup
+value: 1.0
+label: piece
+value: 0.0
+
+
+name: Beta-sitosterol
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: piece
+value: 0.0
+

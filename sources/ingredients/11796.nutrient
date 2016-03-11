@@ -1,0 +1,601 @@
+ndbno: 11796
+
+
+name: Lotus root, cooked, boiled, drained, with salt
+
+
+name: Water
+unit: g
+value: 81.42
+label: cup
+value: 48.85
+label: slices (2-1/2\ dia)
+value: 72.46
+
+
+name: Energy
+unit: kcal
+value: 66.0
+label: cup
+value: 40.0
+label: slices (2-1/2\ dia)
+value: 59.0
+
+
+name: Energy
+unit: kJ
+value: 278.0
+label: cup
+value: 167.0
+label: slices (2-1/2\ dia)
+value: 247.0
+
+
+name: Protein
+unit: g
+value: 1.58
+label: cup
+value: 0.95
+label: slices (2-1/2\ dia)
+value: 1.41
+
+
+name: Total lipid (fat)
+unit: g
+value: 0.07
+label: cup
+value: 0.04
+label: slices (2-1/2\ dia)
+value: 0.06
+
+
+name: Ash
+unit: g
+value: 0.91
+label: cup
+value: 0.55
+label: slices (2-1/2\ dia)
+value: 0.81
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 16.02
+label: cup
+value: 9.61
+label: slices (2-1/2\ dia)
+value: 14.26
+
+
+name: Fiber, total dietary
+unit: g
+value: 3.1
+label: cup
+value: 1.9
+label: slices (2-1/2\ dia)
+value: 2.8
+
+
+name: Calcium, Ca
+unit: mg
+value: 26.0
+label: cup
+value: 16.0
+label: slices (2-1/2\ dia)
+value: 23.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.9
+label: cup
+value: 0.54
+label: slices (2-1/2\ dia)
+value: 0.8
+
+
+name: Magnesium, Mg
+unit: mg
+value: 22.0
+label: cup
+value: 13.0
+label: slices (2-1/2\ dia)
+value: 20.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 78.0
+label: cup
+value: 47.0
+label: slices (2-1/2\ dia)
+value: 69.0
+
+
+name: Potassium, K
+unit: mg
+value: 363.0
+label: cup
+value: 218.0
+label: slices (2-1/2\ dia)
+value: 323.0
+
+
+name: Sodium, Na
+unit: mg
+value: 281.0
+label: cup
+value: 169.0
+label: slices (2-1/2\ dia)
+value: 250.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.33
+label: cup
+value: 0.2
+label: slices (2-1/2\ dia)
+value: 0.29
+
+
+name: Copper, Cu
+unit: mg
+value: 0.217
+label: cup
+value: 0.13
+label: slices (2-1/2\ dia)
+value: 0.193
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.22
+label: cup
+value: 0.132
+label: slices (2-1/2\ dia)
+value: 0.196
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 0.6
+label: cup
+value: 0.4
+label: slices (2-1/2\ dia)
+value: 0.5
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 27.4
+label: cup
+value: 16.4
+label: slices (2-1/2\ dia)
+value: 24.4
+
+
+name: Thiamin
+unit: mg
+value: 0.127
+label: cup
+value: 0.076
+label: slices (2-1/2\ dia)
+value: 0.113
+
+
+name: Riboflavin
+unit: mg
+value: 0.01
+label: cup
+value: 0.006
+label: slices (2-1/2\ dia)
+value: 0.009
+
+
+name: Niacin
+unit: mg
+value: 0.3
+label: cup
+value: 0.18
+label: slices (2-1/2\ dia)
+value: 0.267
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.302
+label: cup
+value: 0.181
+label: slices (2-1/2\ dia)
+value: 0.269
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.218
+label: cup
+value: 0.131
+label: slices (2-1/2\ dia)
+value: 0.194
+
+
+name: Folate, total
+unit: \u00B5g
+value: 8.0
+label: cup
+value: 5.0
+label: slices (2-1/2\ dia)
+value: 7.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: slices (2-1/2\ dia)
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 8.0
+label: cup
+value: 5.0
+label: slices (2-1/2\ dia)
+value: 7.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 8.0
+label: cup
+value: 5.0
+label: slices (2-1/2\ dia)
+value: 7.0
+
+
+name: Choline, total
+unit: mg
+value: 25.4
+label: cup
+value: 15.2
+label: slices (2-1/2\ dia)
+value: 22.6
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: slices (2-1/2\ dia)
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: slices (2-1/2\ dia)
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: slices (2-1/2\ dia)
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 0.0
+label: cup
+value: 0.0
+label: slices (2-1/2\ dia)
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: slices (2-1/2\ dia)
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: cup
+value: 0.0
+label: slices (2-1/2\ dia)
+value: 0.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.021
+label: cup
+value: 0.013
+label: slices (2-1/2\ dia)
+value: 0.019
+
+
+name: 14:0
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: slices (2-1/2\ dia)
+value: 0.0
+
+
+name: 16:0
+unit: g
+value: 0.02
+label: cup
+value: 0.012
+label: slices (2-1/2\ dia)
+value: 0.018
+
+
+name: 18:0
+unit: g
+value: 0.001
+label: cup
+value: 0.001
+label: slices (2-1/2\ dia)
+value: 0.001
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.014
+label: cup
+value: 0.008
+label: slices (2-1/2\ dia)
+value: 0.012
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.001
+label: cup
+value: 0.001
+label: slices (2-1/2\ dia)
+value: 0.001
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.01
+label: cup
+value: 0.006
+label: slices (2-1/2\ dia)
+value: 0.009
+
+
+name: 20:1
+unit: g
+value: 0.002
+label: cup
+value: 0.001
+label: slices (2-1/2\ dia)
+value: 0.002
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.014
+label: cup
+value: 0.008
+label: slices (2-1/2\ dia)
+value: 0.012
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.01
+label: cup
+value: 0.006
+label: slices (2-1/2\ dia)
+value: 0.009
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.004
+label: cup
+value: 0.002
+label: slices (2-1/2\ dia)
+value: 0.004
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: slices (2-1/2\ dia)
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: slices (2-1/2\ dia)
+value: 0.0
+
+
+name: Tryptophan
+unit: g
+value: 0.012
+label: cup
+value: 0.007
+label: slices (2-1/2\ dia)
+value: 0.011
+
+
+name: Threonine
+unit: g
+value: 0.031
+label: cup
+value: 0.019
+label: slices (2-1/2\ dia)
+value: 0.028
+
+
+name: Isoleucine
+unit: g
+value: 0.033
+label: cup
+value: 0.02
+label: slices (2-1/2\ dia)
+value: 0.029
+
+
+name: Leucine
+unit: g
+value: 0.042
+label: cup
+value: 0.025
+label: slices (2-1/2\ dia)
+value: 0.037
+
+
+name: Lysine
+unit: g
+value: 0.057
+label: cup
+value: 0.034
+label: slices (2-1/2\ dia)
+value: 0.051
+
+
+name: Methionine
+unit: g
+value: 0.014
+label: cup
+value: 0.008
+label: slices (2-1/2\ dia)
+value: 0.012
+
+
+name: Cystine
+unit: g
+value: 0.014
+label: cup
+value: 0.008
+label: slices (2-1/2\ dia)
+value: 0.012
+
+
+name: Phenylalanine
+unit: g
+value: 0.028
+label: cup
+value: 0.017
+label: slices (2-1/2\ dia)
+value: 0.025
+
+
+name: Tyrosine
+unit: g
+value: 0.017
+label: cup
+value: 0.01
+label: slices (2-1/2\ dia)
+value: 0.015
+
+
+name: Valine
+unit: g
+value: 0.034
+label: cup
+value: 0.02
+label: slices (2-1/2\ dia)
+value: 0.03
+
+
+name: Arginine
+unit: g
+value: 0.053
+label: cup
+value: 0.032
+label: slices (2-1/2\ dia)
+value: 0.047
+
+
+name: Histidine
+unit: g
+value: 0.023
+label: cup
+value: 0.014
+label: slices (2-1/2\ dia)
+value: 0.02
+
+
+name: Alanine
+unit: g
+value: 0.033
+label: cup
+value: 0.02
+label: slices (2-1/2\ dia)
+value: 0.029
+
+
+name: Aspartic acid
+unit: g
+value: 0.223
+label: cup
+value: 0.134
+label: slices (2-1/2\ dia)
+value: 0.198
+
+
+name: Glutamic acid
+unit: g
+value: 0.084
+label: cup
+value: 0.05
+label: slices (2-1/2\ dia)
+value: 0.075
+
+
+name: Glycine
+unit: g
+value: 0.095
+label: cup
+value: 0.057
+label: slices (2-1/2\ dia)
+value: 0.085
+
+
+name: Proline
+unit: g
+value: 0.082
+label: cup
+value: 0.049
+label: slices (2-1/2\ dia)
+value: 0.073
+
+
+name: Serine
+unit: g
+value: 0.037
+label: cup
+value: 0.022
+label: slices (2-1/2\ dia)
+value: 0.033
+
+
+

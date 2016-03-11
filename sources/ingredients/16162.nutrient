@@ -1,0 +1,377 @@
+ndbno: 16162
+
+
+name: MORI-NU, Tofu, silken, firm
+
+
+name: Water
+unit: g
+value: 87.4
+label: slice
+value: 73.42
+
+
+name: Energy
+unit: kcal
+value: 62.0
+label: slice
+value: 52.0
+
+
+name: Energy
+unit: kJ
+value: 259.0
+label: slice
+value: 218.0
+
+
+name: Protein
+unit: g
+value: 6.9
+label: slice
+value: 5.8
+
+
+name: Total lipid (fat)
+unit: g
+value: 2.7
+label: slice
+value: 2.27
+
+
+name: Ash
+unit: g
+value: 0.6
+label: slice
+value: 0.5
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 2.4
+label: slice
+value: 2.02
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.1
+label: slice
+value: 0.1
+
+
+name: Sugars, total
+unit: g
+value: 1.27
+label: slice
+value: 1.07
+
+
+name: Calcium, Ca
+unit: mg
+value: 32.0
+label: slice
+value: 27.0
+
+
+name: Iron, Fe
+unit: mg
+value: 1.03
+label: slice
+value: 0.87
+
+
+name: Magnesium, Mg
+unit: mg
+value: 27.0
+label: slice
+value: 23.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 90.0
+label: slice
+value: 76.0
+
+
+name: Potassium, K
+unit: mg
+value: 194.0
+label: slice
+value: 163.0
+
+
+name: Sodium, Na
+unit: mg
+value: 36.0
+label: slice
+value: 30.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.61
+label: slice
+value: 0.51
+
+
+name: Copper, Cu
+unit: mg
+value: 0.203
+label: slice
+value: 0.171
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: slice
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.101
+label: slice
+value: 0.085
+
+
+name: Riboflavin
+unit: mg
+value: 0.041
+label: slice
+value: 0.034
+
+
+name: Niacin
+unit: mg
+value: 0.247
+label: slice
+value: 0.207
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.011
+label: slice
+value: 0.009
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: slice
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 0.0
+label: slice
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: slice
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 0.0
+label: slice
+value: 0.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.406
+label: slice
+value: 0.341
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.539
+label: slice
+value: 0.453
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 1.485
+label: slice
+value: 1.247
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.0
+label: slice
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: slice
+value: 0.0
+
+
+name: Tryptophan
+unit: g
+value: 0.085
+label: slice
+value: 0.071
+
+
+name: Threonine
+unit: g
+value: 0.286
+label: slice
+value: 0.24
+
+
+name: Isoleucine
+unit: g
+value: 0.349
+label: slice
+value: 0.293
+
+
+name: Leucine
+unit: g
+value: 0.586
+label: slice
+value: 0.492
+
+
+name: Lysine
+unit: g
+value: 0.459
+label: slice
+value: 0.386
+
+
+name: Methionine
+unit: g
+value: 0.106
+label: slice
+value: 0.089
+
+
+name: Cystine
+unit: g
+value: 0.1
+label: slice
+value: 0.084
+
+
+name: Phenylalanine
+unit: g
+value: 0.394
+label: slice
+value: 0.331
+
+
+name: Tyrosine
+unit: g
+value: 0.299
+label: slice
+value: 0.251
+
+
+name: Valine
+unit: g
+value: 0.385
+label: slice
+value: 0.323
+
+
+name: Arginine
+unit: g
+value: 0.517
+label: slice
+value: 0.434
+
+
+name: Histidine
+unit: g
+value: 0.169
+label: slice
+value: 0.142
+
+
+name: Alanine
+unit: g
+value: 0.266
+label: slice
+value: 0.223
+
+
+name: Aspartic acid
+unit: g
+value: 0.771
+label: slice
+value: 0.648
+
+
+name: Glutamic acid
+unit: g
+value: 1.176
+label: slice
+value: 0.988
+
+
+name: Glycine
+unit: g
+value: 0.268
+label: slice
+value: 0.225
+
+
+name: Proline
+unit: g
+value: 0.349
+label: slice
+value: 0.293
+
+
+name: Serine
+unit: g
+value: 0.333
+label: slice
+value: 0.28
+
+
+name: Daidzein
+unit: mg
+value: 12.42
+label: slice
+value: 10.43
+
+
+name: Genistein
+unit: mg
+value: 16.95
+label: slice
+value: 14.24
+
+
+name: Glycitein
+unit: mg
+value: 2.4
+label: slice
+value: 2.02
+
+
+name: Total isoflavones
+unit: mg
+value: 29.97
+label: slice
+value: 25.17
+
+

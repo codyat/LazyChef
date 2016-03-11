@@ -1,0 +1,1298 @@
+ndbno: 21227
+
+
+name: Pizza, meat and vegetable topping, rising crust, frozen, cooked
+
+
+name: Water
+unit: g
+value: 44.24
+label: serving 6 servings per 34.98 oz package
+value: 75.21
+label: serving 6 servings per 30.7 oz package
+value: 65.92
+label: serving 3 servings per 14.3 oz package
+value: 61.05
+label: package 34.98 oz pizza
+value: 451.25
+label: package 30.7 oz pizza
+value: 394.18
+label: package 14.3 oz pizza
+value: 183.6
+
+
+name: Energy
+unit: kcal
+value: 271.0
+label: serving 6 servings per 34.98 oz package
+value: 461.0
+label: serving 6 servings per 30.7 oz package
+value: 404.0
+label: serving 3 servings per 14.3 oz package
+value: 374.0
+label: package 34.98 oz pizza
+value: 2764.0
+label: package 30.7 oz pizza
+value: 2415.0
+label: package 14.3 oz pizza
+value: 1125.0
+
+
+name: Energy
+unit: kJ
+value: 1135.0
+label: serving 6 servings per 34.98 oz package
+value: 1930.0
+label: serving 6 servings per 30.7 oz package
+value: 1691.0
+label: serving 3 servings per 14.3 oz package
+value: 1566.0
+label: package 34.98 oz pizza
+value: 11577.0
+label: package 30.7 oz pizza
+value: 10113.0
+label: package 14.3 oz pizza
+value: 4710.0
+
+
+name: Protein
+unit: g
+value: 12.63
+label: serving 6 servings per 34.98 oz package
+value: 21.47
+label: serving 6 servings per 30.7 oz package
+value: 18.82
+label: serving 3 servings per 14.3 oz package
+value: 17.43
+label: package 34.98 oz pizza
+value: 128.83
+label: package 30.7 oz pizza
+value: 112.53
+label: package 14.3 oz pizza
+value: 52.41
+
+
+name: Total lipid (fat)
+unit: g
+value: 11.75
+label: serving 6 servings per 34.98 oz package
+value: 19.98
+label: serving 6 servings per 30.7 oz package
+value: 17.51
+label: serving 3 servings per 14.3 oz package
+value: 16.22
+label: package 34.98 oz pizza
+value: 119.85
+label: package 30.7 oz pizza
+value: 104.69
+label: package 14.3 oz pizza
+value: 48.76
+
+
+name: Ash
+unit: g
+value: 2.61
+label: serving 6 servings per 34.98 oz package
+value: 4.44
+label: serving 6 servings per 30.7 oz package
+value: 3.89
+label: serving 3 servings per 14.3 oz package
+value: 3.6
+label: package 34.98 oz pizza
+value: 26.62
+label: package 30.7 oz pizza
+value: 23.26
+label: package 14.3 oz pizza
+value: 10.83
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 28.78
+label: serving 6 servings per 34.98 oz package
+value: 48.93
+label: serving 6 servings per 30.7 oz package
+value: 42.88
+label: serving 3 servings per 14.3 oz package
+value: 39.72
+label: package 34.98 oz pizza
+value: 293.56
+label: package 30.7 oz pizza
+value: 256.43
+label: package 14.3 oz pizza
+value: 119.44
+
+
+name: Fiber, total dietary
+unit: g
+value: 2.3
+label: serving 6 servings per 34.98 oz package
+value: 3.9
+label: serving 6 servings per 30.7 oz package
+value: 3.4
+label: serving 3 servings per 14.3 oz package
+value: 3.2
+label: package 34.98 oz pizza
+value: 23.5
+label: package 30.7 oz pizza
+value: 20.5
+label: package 14.3 oz pizza
+value: 9.5
+
+
+name: Sugars, total
+unit: g
+value: 7.26
+label: serving 6 servings per 34.98 oz package
+value: 12.34
+label: serving 6 servings per 30.7 oz package
+value: 10.82
+label: serving 3 servings per 14.3 oz package
+value: 10.02
+label: package 34.98 oz pizza
+value: 74.05
+label: package 30.7 oz pizza
+value: 64.69
+label: package 14.3 oz pizza
+value: 30.13
+
+
+name: Glucose (dextrose)
+unit: g
+value: 3.0
+label: serving 6 servings per 34.98 oz package
+value: 5.1
+label: serving 6 servings per 30.7 oz package
+value: 4.47
+label: serving 3 servings per 14.3 oz package
+value: 4.14
+label: package 34.98 oz pizza
+value: 30.6
+label: package 30.7 oz pizza
+value: 26.73
+label: package 14.3 oz pizza
+value: 12.45
+
+
+name: Fructose
+unit: g
+value: 1.7
+label: serving 6 servings per 34.98 oz package
+value: 2.89
+label: serving 6 servings per 30.7 oz package
+value: 2.53
+label: serving 3 servings per 14.3 oz package
+value: 2.35
+label: package 34.98 oz pizza
+value: 17.34
+label: package 30.7 oz pizza
+value: 15.15
+label: package 14.3 oz pizza
+value: 7.06
+
+
+name: Maltose
+unit: g
+value: 2.4
+label: serving 6 servings per 34.98 oz package
+value: 4.08
+label: serving 6 servings per 30.7 oz package
+value: 3.58
+label: serving 3 servings per 14.3 oz package
+value: 3.31
+label: package 34.98 oz pizza
+value: 24.48
+label: package 30.7 oz pizza
+value: 21.38
+label: package 14.3 oz pizza
+value: 9.96
+
+
+name: Galactose
+unit: g
+value: 0.16
+label: serving 6 servings per 34.98 oz package
+value: 0.27
+label: serving 6 servings per 30.7 oz package
+value: 0.24
+label: serving 3 servings per 14.3 oz package
+value: 0.22
+label: package 34.98 oz pizza
+value: 1.63
+label: package 30.7 oz pizza
+value: 1.43
+label: package 14.3 oz pizza
+value: 0.66
+
+
+name: Starch
+unit: g
+value: 19.76
+label: serving 6 servings per 34.98 oz package
+value: 33.59
+label: serving 6 servings per 30.7 oz package
+value: 29.44
+label: serving 3 servings per 14.3 oz package
+value: 27.27
+label: package 34.98 oz pizza
+value: 201.55
+label: package 30.7 oz pizza
+value: 176.06
+label: package 14.3 oz pizza
+value: 82.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 155.0
+label: serving 6 servings per 34.98 oz package
+value: 264.0
+label: serving 6 servings per 30.7 oz package
+value: 231.0
+label: serving 3 servings per 14.3 oz package
+value: 214.0
+label: package 34.98 oz pizza
+value: 1581.0
+label: package 30.7 oz pizza
+value: 1381.0
+label: package 14.3 oz pizza
+value: 643.0
+
+
+name: Iron, Fe
+unit: mg
+value: 1.36
+label: serving 6 servings per 34.98 oz package
+value: 2.31
+label: serving 6 servings per 30.7 oz package
+value: 2.03
+label: serving 3 servings per 14.3 oz package
+value: 1.88
+label: package 34.98 oz pizza
+value: 13.87
+label: package 30.7 oz pizza
+value: 12.12
+label: package 14.3 oz pizza
+value: 5.64
+
+
+name: Magnesium, Mg
+unit: mg
+value: 27.0
+label: serving 6 servings per 34.98 oz package
+value: 46.0
+label: serving 6 servings per 30.7 oz package
+value: 40.0
+label: serving 3 servings per 14.3 oz package
+value: 37.0
+label: package 34.98 oz pizza
+value: 275.0
+label: package 30.7 oz pizza
+value: 241.0
+label: package 14.3 oz pizza
+value: 112.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 211.0
+label: serving 6 servings per 34.98 oz package
+value: 359.0
+label: serving 6 servings per 30.7 oz package
+value: 314.0
+label: serving 3 servings per 14.3 oz package
+value: 291.0
+label: package 34.98 oz pizza
+value: 2152.0
+label: package 30.7 oz pizza
+value: 1880.0
+label: package 14.3 oz pizza
+value: 876.0
+
+
+name: Potassium, K
+unit: mg
+value: 189.0
+label: serving 6 servings per 34.98 oz package
+value: 321.0
+label: serving 6 servings per 30.7 oz package
+value: 282.0
+label: serving 3 servings per 14.3 oz package
+value: 261.0
+label: package 34.98 oz pizza
+value: 1928.0
+label: package 30.7 oz pizza
+value: 1684.0
+label: package 14.3 oz pizza
+value: 784.0
+
+
+name: Sodium, Na
+unit: mg
+value: 640.0
+label: serving 6 servings per 34.98 oz package
+value: 1088.0
+label: serving 6 servings per 30.7 oz package
+value: 954.0
+label: serving 3 servings per 14.3 oz package
+value: 883.0
+label: package 34.98 oz pizza
+value: 6528.0
+label: package 30.7 oz pizza
+value: 5702.0
+label: package 14.3 oz pizza
+value: 2656.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 1.87
+label: serving 6 servings per 34.98 oz package
+value: 3.18
+label: serving 6 servings per 30.7 oz package
+value: 2.79
+label: serving 3 servings per 14.3 oz package
+value: 2.58
+label: package 34.98 oz pizza
+value: 19.07
+label: package 30.7 oz pizza
+value: 16.66
+label: package 14.3 oz pizza
+value: 7.76
+
+
+name: Copper, Cu
+unit: mg
+value: 0.21
+label: serving 6 servings per 34.98 oz package
+value: 0.357
+label: serving 6 servings per 30.7 oz package
+value: 0.313
+label: serving 3 servings per 14.3 oz package
+value: 0.29
+label: package 34.98 oz pizza
+value: 2.142
+label: package 30.7 oz pizza
+value: 1.871
+label: package 14.3 oz pizza
+value: 0.871
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.323
+label: serving 6 servings per 34.98 oz package
+value: 0.549
+label: serving 6 servings per 30.7 oz package
+value: 0.481
+label: serving 3 servings per 14.3 oz package
+value: 0.446
+label: package 34.98 oz pizza
+value: 3.295
+label: package 30.7 oz pizza
+value: 2.878
+label: package 14.3 oz pizza
+value: 1.34
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 11.6
+label: serving 6 servings per 34.98 oz package
+value: 19.7
+label: serving 6 servings per 30.7 oz package
+value: 17.3
+label: serving 3 servings per 14.3 oz package
+value: 16.0
+label: package 34.98 oz pizza
+value: 118.3
+label: package 30.7 oz pizza
+value: 103.4
+label: package 14.3 oz pizza
+value: 48.1
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 4.2
+label: serving 6 servings per 34.98 oz package
+value: 7.1
+label: serving 6 servings per 30.7 oz package
+value: 6.3
+label: serving 3 servings per 14.3 oz package
+value: 5.8
+label: package 34.98 oz pizza
+value: 42.8
+label: package 30.7 oz pizza
+value: 37.4
+label: package 14.3 oz pizza
+value: 17.4
+
+
+name: Thiamin
+unit: mg
+value: 0.25
+label: serving 6 servings per 34.98 oz package
+value: 0.425
+label: serving 6 servings per 30.7 oz package
+value: 0.372
+label: serving 3 servings per 14.3 oz package
+value: 0.345
+label: package 34.98 oz pizza
+value: 2.55
+label: package 30.7 oz pizza
+value: 2.228
+label: package 14.3 oz pizza
+value: 1.038
+
+
+name: Riboflavin
+unit: mg
+value: 0.206
+label: serving 6 servings per 34.98 oz package
+value: 0.35
+label: serving 6 servings per 30.7 oz package
+value: 0.307
+label: serving 3 servings per 14.3 oz package
+value: 0.284
+label: package 34.98 oz pizza
+value: 2.101
+label: package 30.7 oz pizza
+value: 1.835
+label: package 14.3 oz pizza
+value: 0.855
+
+
+name: Niacin
+unit: mg
+value: 2.155
+label: serving 6 servings per 34.98 oz package
+value: 3.663
+label: serving 6 servings per 30.7 oz package
+value: 3.211
+label: serving 3 servings per 14.3 oz package
+value: 2.974
+label: package 34.98 oz pizza
+value: 21.981
+label: package 30.7 oz pizza
+value: 19.201
+label: package 14.3 oz pizza
+value: 8.943
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.435
+label: serving 6 servings per 34.98 oz package
+value: 0.74
+label: serving 6 servings per 30.7 oz package
+value: 0.648
+label: serving 3 servings per 14.3 oz package
+value: 0.6
+label: package 34.98 oz pizza
+value: 4.437
+label: package 30.7 oz pizza
+value: 3.876
+label: package 14.3 oz pizza
+value: 1.805
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.14
+label: serving 6 servings per 34.98 oz package
+value: 0.238
+label: serving 6 servings per 30.7 oz package
+value: 0.209
+label: serving 3 servings per 14.3 oz package
+value: 0.193
+label: package 34.98 oz pizza
+value: 1.428
+label: package 30.7 oz pizza
+value: 1.247
+label: package 14.3 oz pizza
+value: 0.581
+
+
+name: Folate, total
+unit: \u00B5g
+value: 70.0
+label: serving 6 servings per 34.98 oz package
+value: 119.0
+label: serving 6 servings per 30.7 oz package
+value: 104.0
+label: serving 3 servings per 14.3 oz package
+value: 97.0
+label: package 34.98 oz pizza
+value: 714.0
+label: package 30.7 oz pizza
+value: 624.0
+label: package 14.3 oz pizza
+value: 290.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 41.0
+label: serving 6 servings per 34.98 oz package
+value: 70.0
+label: serving 6 servings per 30.7 oz package
+value: 61.0
+label: serving 3 servings per 14.3 oz package
+value: 57.0
+label: package 34.98 oz pizza
+value: 418.0
+label: package 30.7 oz pizza
+value: 365.0
+label: package 14.3 oz pizza
+value: 170.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 29.0
+label: serving 6 servings per 34.98 oz package
+value: 49.0
+label: serving 6 servings per 30.7 oz package
+value: 43.0
+label: serving 3 servings per 14.3 oz package
+value: 40.0
+label: package 34.98 oz pizza
+value: 296.0
+label: package 30.7 oz pizza
+value: 258.0
+label: package 14.3 oz pizza
+value: 120.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 98.0
+label: serving 6 servings per 34.98 oz package
+value: 167.0
+label: serving 6 servings per 30.7 oz package
+value: 146.0
+label: serving 3 servings per 14.3 oz package
+value: 135.0
+label: package 34.98 oz pizza
+value: 1000.0
+label: package 30.7 oz pizza
+value: 873.0
+label: package 14.3 oz pizza
+value: 407.0
+
+
+name: Choline, total
+unit: mg
+value: 24.3
+label: serving 6 servings per 34.98 oz package
+value: 41.3
+label: serving 6 servings per 30.7 oz package
+value: 36.2
+label: serving 3 servings per 14.3 oz package
+value: 33.5
+label: package 34.98 oz pizza
+value: 247.9
+label: package 30.7 oz pizza
+value: 216.5
+label: package 14.3 oz pizza
+value: 100.8
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.8
+label: serving 6 servings per 34.98 oz package
+value: 1.36
+label: serving 6 servings per 30.7 oz package
+value: 1.19
+label: serving 3 servings per 14.3 oz package
+value: 1.1
+label: package 34.98 oz pizza
+value: 8.16
+label: package 30.7 oz pizza
+value: 7.13
+label: package 14.3 oz pizza
+value: 3.32
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: serving 6 servings per 34.98 oz package
+value: 0.0
+label: serving 6 servings per 30.7 oz package
+value: 0.0
+label: serving 3 servings per 14.3 oz package
+value: 0.0
+label: package 34.98 oz pizza
+value: 0.0
+label: package 30.7 oz pizza
+value: 0.0
+label: package 14.3 oz pizza
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 68.0
+label: serving 6 servings per 34.98 oz package
+value: 116.0
+label: serving 6 servings per 30.7 oz package
+value: 101.0
+label: serving 3 servings per 14.3 oz package
+value: 94.0
+label: package 34.98 oz pizza
+value: 694.0
+label: package 30.7 oz pizza
+value: 606.0
+label: package 14.3 oz pizza
+value: 282.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 61.0
+label: serving 6 servings per 34.98 oz package
+value: 104.0
+label: serving 6 servings per 30.7 oz package
+value: 91.0
+label: serving 3 servings per 14.3 oz package
+value: 84.0
+label: package 34.98 oz pizza
+value: 622.0
+label: package 30.7 oz pizza
+value: 544.0
+label: package 14.3 oz pizza
+value: 253.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 92.0
+label: serving 6 servings per 34.98 oz package
+value: 156.0
+label: serving 6 servings per 30.7 oz package
+value: 137.0
+label: serving 3 servings per 14.3 oz package
+value: 127.0
+label: package 34.98 oz pizza
+value: 938.0
+label: package 30.7 oz pizza
+value: 820.0
+label: package 14.3 oz pizza
+value: 382.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: serving 6 servings per 34.98 oz package
+value: 0.0
+label: serving 6 servings per 30.7 oz package
+value: 0.0
+label: serving 3 servings per 14.3 oz package
+value: 0.0
+label: package 34.98 oz pizza
+value: 0.0
+label: package 30.7 oz pizza
+value: 0.0
+label: package 14.3 oz pizza
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: serving 6 servings per 34.98 oz package
+value: 0.0
+label: serving 6 servings per 30.7 oz package
+value: 0.0
+label: serving 3 servings per 14.3 oz package
+value: 0.0
+label: package 34.98 oz pizza
+value: 0.0
+label: package 30.7 oz pizza
+value: 0.0
+label: package 14.3 oz pizza
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 355.0
+label: serving 6 servings per 34.98 oz package
+value: 604.0
+label: serving 6 servings per 30.7 oz package
+value: 529.0
+label: serving 3 servings per 14.3 oz package
+value: 490.0
+label: package 34.98 oz pizza
+value: 3621.0
+label: package 30.7 oz pizza
+value: 3163.0
+label: package 14.3 oz pizza
+value: 1473.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 1899.0
+label: serving 6 servings per 34.98 oz package
+value: 3228.0
+label: serving 6 servings per 30.7 oz package
+value: 2830.0
+label: serving 3 servings per 14.3 oz package
+value: 2621.0
+label: package 34.98 oz pizza
+value: 19370.0
+label: package 30.7 oz pizza
+value: 16920.0
+label: package 14.3 oz pizza
+value: 7881.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 58.0
+label: serving 6 servings per 34.98 oz package
+value: 99.0
+label: serving 6 servings per 30.7 oz package
+value: 86.0
+label: serving 3 servings per 14.3 oz package
+value: 80.0
+label: package 34.98 oz pizza
+value: 592.0
+label: package 30.7 oz pizza
+value: 517.0
+label: package 14.3 oz pizza
+value: 241.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.92
+label: serving 6 servings per 34.98 oz package
+value: 1.56
+label: serving 6 servings per 30.7 oz package
+value: 1.37
+label: serving 3 servings per 14.3 oz package
+value: 1.27
+label: package 34.98 oz pizza
+value: 9.38
+label: package 30.7 oz pizza
+value: 8.2
+label: package 14.3 oz pizza
+value: 3.82
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: serving 6 servings per 34.98 oz package
+value: 0.0
+label: serving 6 servings per 30.7 oz package
+value: 0.0
+label: serving 3 servings per 14.3 oz package
+value: 0.0
+label: package 34.98 oz pizza
+value: 0.0
+label: package 30.7 oz pizza
+value: 0.0
+label: package 14.3 oz pizza
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: serving 6 servings per 34.98 oz package
+value: 0.0
+label: serving 6 servings per 30.7 oz package
+value: 0.0
+label: serving 3 servings per 14.3 oz package
+value: 0.0
+label: package 34.98 oz pizza
+value: 0.0
+label: package 30.7 oz pizza
+value: 0.0
+label: package 14.3 oz pizza
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: serving 6 servings per 34.98 oz package
+value: 0.0
+label: serving 6 servings per 30.7 oz package
+value: 0.0
+label: serving 3 servings per 14.3 oz package
+value: 0.0
+label: package 34.98 oz pizza
+value: 0.0
+label: package 30.7 oz pizza
+value: 0.0
+label: package 14.3 oz pizza
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 6.7
+label: serving 6 servings per 34.98 oz package
+value: 11.4
+label: serving 6 servings per 30.7 oz package
+value: 10.0
+label: serving 3 servings per 14.3 oz package
+value: 9.2
+label: package 34.98 oz pizza
+value: 68.3
+label: package 30.7 oz pizza
+value: 59.7
+label: package 14.3 oz pizza
+value: 27.8
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 4.586
+label: serving 6 servings per 34.98 oz package
+value: 7.796
+label: serving 6 servings per 30.7 oz package
+value: 6.833
+label: serving 3 servings per 14.3 oz package
+value: 6.329
+label: package 34.98 oz pizza
+value: 46.777
+label: package 30.7 oz pizza
+value: 40.861
+label: package 14.3 oz pizza
+value: 19.032
+
+
+name: 4:0
+unit: g
+value: 0.158
+label: serving 6 servings per 34.98 oz package
+value: 0.269
+label: serving 6 servings per 30.7 oz package
+value: 0.235
+label: serving 3 servings per 14.3 oz package
+value: 0.218
+label: package 34.98 oz pizza
+value: 1.612
+label: package 30.7 oz pizza
+value: 1.408
+label: package 14.3 oz pizza
+value: 0.656
+
+
+name: 6:0
+unit: g
+value: 0.03
+label: serving 6 servings per 34.98 oz package
+value: 0.051
+label: serving 6 servings per 30.7 oz package
+value: 0.045
+label: serving 3 servings per 14.3 oz package
+value: 0.041
+label: package 34.98 oz pizza
+value: 0.306
+label: package 30.7 oz pizza
+value: 0.267
+label: package 14.3 oz pizza
+value: 0.124
+
+
+name: 8:0
+unit: g
+value: 0.042
+label: serving 6 servings per 34.98 oz package
+value: 0.071
+label: serving 6 servings per 30.7 oz package
+value: 0.063
+label: serving 3 servings per 14.3 oz package
+value: 0.058
+label: package 34.98 oz pizza
+value: 0.428
+label: package 30.7 oz pizza
+value: 0.374
+label: package 14.3 oz pizza
+value: 0.174
+
+
+name: 10:0
+unit: g
+value: 0.1
+label: serving 6 servings per 34.98 oz package
+value: 0.17
+label: serving 6 servings per 30.7 oz package
+value: 0.149
+label: serving 3 servings per 14.3 oz package
+value: 0.138
+label: package 34.98 oz pizza
+value: 1.02
+label: package 30.7 oz pizza
+value: 0.891
+label: package 14.3 oz pizza
+value: 0.415
+
+
+name: 12:0
+unit: g
+value: 0.126
+label: serving 6 servings per 34.98 oz package
+value: 0.214
+label: serving 6 servings per 30.7 oz package
+value: 0.188
+label: serving 3 servings per 14.3 oz package
+value: 0.174
+label: package 34.98 oz pizza
+value: 1.285
+label: package 30.7 oz pizza
+value: 1.123
+label: package 14.3 oz pizza
+value: 0.523
+
+
+name: 14:0
+unit: g
+value: 0.426
+label: serving 6 servings per 34.98 oz package
+value: 0.724
+label: serving 6 servings per 30.7 oz package
+value: 0.635
+label: serving 3 servings per 14.3 oz package
+value: 0.588
+label: package 34.98 oz pizza
+value: 4.345
+label: package 30.7 oz pizza
+value: 3.796
+label: package 14.3 oz pizza
+value: 1.768
+
+
+name: 16:0
+unit: g
+value: 2.418
+label: serving 6 servings per 34.98 oz package
+value: 4.111
+label: serving 6 servings per 30.7 oz package
+value: 3.603
+label: serving 3 servings per 14.3 oz package
+value: 3.337
+label: package 34.98 oz pizza
+value: 24.664
+label: package 30.7 oz pizza
+value: 21.544
+label: package 14.3 oz pizza
+value: 10.035
+
+
+name: 18:0
+unit: g
+value: 1.286
+label: serving 6 servings per 34.98 oz package
+value: 2.186
+label: serving 6 servings per 30.7 oz package
+value: 1.916
+label: serving 3 servings per 14.3 oz package
+value: 1.775
+label: package 34.98 oz pizza
+value: 13.117
+label: package 30.7 oz pizza
+value: 11.458
+label: package 14.3 oz pizza
+value: 5.337
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 4.343
+label: serving 6 servings per 34.98 oz package
+value: 7.383
+label: serving 6 servings per 30.7 oz package
+value: 6.471
+label: serving 3 servings per 14.3 oz package
+value: 5.993
+label: package 34.98 oz pizza
+value: 44.299
+label: package 30.7 oz pizza
+value: 38.696
+label: package 14.3 oz pizza
+value: 18.023
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.281
+label: serving 6 servings per 34.98 oz package
+value: 0.478
+label: serving 6 servings per 30.7 oz package
+value: 0.419
+label: serving 3 servings per 14.3 oz package
+value: 0.388
+label: package 34.98 oz pizza
+value: 2.866
+label: package 30.7 oz pizza
+value: 2.504
+label: package 14.3 oz pizza
+value: 1.166
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 4.015
+label: serving 6 servings per 34.98 oz package
+value: 6.826
+label: serving 6 servings per 30.7 oz package
+value: 5.982
+label: serving 3 servings per 14.3 oz package
+value: 5.541
+label: package 34.98 oz pizza
+value: 40.953
+label: package 30.7 oz pizza
+value: 35.774
+label: package 14.3 oz pizza
+value: 16.662
+
+
+name: 20:1
+unit: g
+value: 0.046
+label: serving 6 servings per 34.98 oz package
+value: 0.078
+label: serving 6 servings per 30.7 oz package
+value: 0.069
+label: serving 3 servings per 14.3 oz package
+value: 0.063
+label: package 34.98 oz pizza
+value: 0.469
+label: package 30.7 oz pizza
+value: 0.41
+label: package 14.3 oz pizza
+value: 0.191
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.001
+label: serving 6 servings per 34.98 oz package
+value: 0.002
+label: serving 6 servings per 30.7 oz package
+value: 0.001
+label: serving 3 servings per 14.3 oz package
+value: 0.001
+label: package 34.98 oz pizza
+value: 0.01
+label: package 30.7 oz pizza
+value: 0.009
+label: package 14.3 oz pizza
+value: 0.004
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 1.89
+label: serving 6 servings per 34.98 oz package
+value: 3.213
+label: serving 6 servings per 30.7 oz package
+value: 2.816
+label: serving 3 servings per 14.3 oz package
+value: 2.608
+label: package 34.98 oz pizza
+value: 19.278
+label: package 30.7 oz pizza
+value: 16.84
+label: package 14.3 oz pizza
+value: 7.843
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 1.669
+label: serving 6 servings per 34.98 oz package
+value: 2.837
+label: serving 6 servings per 30.7 oz package
+value: 2.487
+label: serving 3 servings per 14.3 oz package
+value: 2.303
+label: package 34.98 oz pizza
+value: 17.024
+label: package 30.7 oz pizza
+value: 14.871
+label: package 14.3 oz pizza
+value: 6.926
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.167
+label: serving 6 servings per 34.98 oz package
+value: 0.284
+label: serving 6 servings per 30.7 oz package
+value: 0.249
+label: serving 3 servings per 14.3 oz package
+value: 0.23
+label: package 34.98 oz pizza
+value: 1.703
+label: package 30.7 oz pizza
+value: 1.488
+label: package 14.3 oz pizza
+value: 0.693
+
+
+name: 18:4
+unit: g
+value: 0.031
+label: serving 6 servings per 34.98 oz package
+value: 0.053
+label: serving 6 servings per 30.7 oz package
+value: 0.046
+label: serving 3 servings per 14.3 oz package
+value: 0.043
+label: package 34.98 oz pizza
+value: 0.316
+label: package 30.7 oz pizza
+value: 0.276
+label: package 14.3 oz pizza
+value: 0.129
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.024
+label: serving 6 servings per 34.98 oz package
+value: 0.041
+label: serving 6 servings per 30.7 oz package
+value: 0.036
+label: serving 3 servings per 14.3 oz package
+value: 0.033
+label: package 34.98 oz pizza
+value: 0.245
+label: package 30.7 oz pizza
+value: 0.214
+label: package 14.3 oz pizza
+value: 0.1
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: serving 6 servings per 34.98 oz package
+value: 0.0
+label: serving 6 servings per 30.7 oz package
+value: 0.0
+label: serving 3 servings per 14.3 oz package
+value: 0.0
+label: package 34.98 oz pizza
+value: 0.0
+label: package 30.7 oz pizza
+value: 0.0
+label: package 14.3 oz pizza
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: serving 6 servings per 34.98 oz package
+value: 0.0
+label: serving 6 servings per 30.7 oz package
+value: 0.0
+label: serving 3 servings per 14.3 oz package
+value: 0.0
+label: package 34.98 oz pizza
+value: 0.0
+label: package 30.7 oz pizza
+value: 0.0
+label: package 14.3 oz pizza
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: serving 6 servings per 34.98 oz package
+value: 0.0
+label: serving 6 servings per 30.7 oz package
+value: 0.0
+label: serving 3 servings per 14.3 oz package
+value: 0.0
+label: package 34.98 oz pizza
+value: 0.0
+label: package 30.7 oz pizza
+value: 0.0
+label: package 14.3 oz pizza
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 19.0
+label: serving 6 servings per 34.98 oz package
+value: 32.0
+label: serving 6 servings per 30.7 oz package
+value: 28.0
+label: serving 3 servings per 14.3 oz package
+value: 26.0
+label: package 34.98 oz pizza
+value: 194.0
+label: package 30.7 oz pizza
+value: 169.0
+label: package 14.3 oz pizza
+value: 79.0
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: serving 6 servings per 34.98 oz package
+value: 0.0
+label: serving 6 servings per 30.7 oz package
+value: 0.0
+label: serving 3 servings per 14.3 oz package
+value: 0.0
+label: package 34.98 oz pizza
+value: 0.0
+label: package 30.7 oz pizza
+value: 0.0
+label: package 14.3 oz pizza
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: serving 6 servings per 34.98 oz package
+value: 0.0
+label: serving 6 servings per 30.7 oz package
+value: 0.0
+label: serving 3 servings per 14.3 oz package
+value: 0.0
+label: package 34.98 oz pizza
+value: 0.0
+label: package 30.7 oz pizza
+value: 0.0
+label: package 14.3 oz pizza
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: serving 6 servings per 34.98 oz package
+value: 0.0
+label: serving 6 servings per 30.7 oz package
+value: 0.0
+label: serving 3 servings per 14.3 oz package
+value: 0.0
+label: package 34.98 oz pizza
+value: 0.0
+label: package 30.7 oz pizza
+value: 0.0
+label: package 14.3 oz pizza
+value: 0.0
+
+

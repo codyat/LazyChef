@@ -1,0 +1,887 @@
+ndbno: 14096
+
+
+name: Alcoholic beverage, wine, table, red
+
+
+name: Water
+unit: g
+value: 86.49
+label: fl oz
+value: 25.43
+label: serving (5 fl oz)
+value: 127.14
+
+
+name: Energy
+unit: kcal
+value: 85.0
+label: fl oz
+value: 25.0
+label: serving (5 fl oz)
+value: 125.0
+
+
+name: Energy
+unit: kJ
+value: 356.0
+label: fl oz
+value: 105.0
+label: serving (5 fl oz)
+value: 523.0
+
+
+name: Protein
+unit: g
+value: 0.07
+label: fl oz
+value: 0.02
+label: serving (5 fl oz)
+value: 0.1
+
+
+name: Total lipid (fat)
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: serving (5 fl oz)
+value: 0.0
+
+
+name: Ash
+unit: g
+value: 0.28
+label: fl oz
+value: 0.08
+label: serving (5 fl oz)
+value: 0.41
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 2.61
+label: fl oz
+value: 0.77
+label: serving (5 fl oz)
+value: 3.84
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: serving (5 fl oz)
+value: 0.0
+
+
+name: Sugars, total
+unit: g
+value: 0.62
+label: fl oz
+value: 0.18
+label: serving (5 fl oz)
+value: 0.91
+
+
+name: Calcium, Ca
+unit: mg
+value: 8.0
+label: fl oz
+value: 2.0
+label: serving (5 fl oz)
+value: 12.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.46
+label: fl oz
+value: 0.14
+label: serving (5 fl oz)
+value: 0.68
+
+
+name: Magnesium, Mg
+unit: mg
+value: 12.0
+label: fl oz
+value: 4.0
+label: serving (5 fl oz)
+value: 18.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 23.0
+label: fl oz
+value: 7.0
+label: serving (5 fl oz)
+value: 34.0
+
+
+name: Potassium, K
+unit: mg
+value: 127.0
+label: fl oz
+value: 37.0
+label: serving (5 fl oz)
+value: 187.0
+
+
+name: Sodium, Na
+unit: mg
+value: 4.0
+label: fl oz
+value: 1.0
+label: serving (5 fl oz)
+value: 6.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.14
+label: fl oz
+value: 0.04
+label: serving (5 fl oz)
+value: 0.21
+
+
+name: Copper, Cu
+unit: mg
+value: 0.011
+label: fl oz
+value: 0.003
+label: serving (5 fl oz)
+value: 0.016
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.132
+label: fl oz
+value: 0.039
+label: serving (5 fl oz)
+value: 0.194
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 0.2
+label: fl oz
+value: 0.1
+label: serving (5 fl oz)
+value: 0.3
+
+
+name: Fluoride, F
+unit: \u00B5g
+value: 104.6
+label: fl oz
+value: 30.8
+label: serving (5 fl oz)
+value: 153.8
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: fl oz
+value: 0.0
+label: serving (5 fl oz)
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.005
+label: fl oz
+value: 0.001
+label: serving (5 fl oz)
+value: 0.007
+
+
+name: Riboflavin
+unit: mg
+value: 0.031
+label: fl oz
+value: 0.009
+label: serving (5 fl oz)
+value: 0.046
+
+
+name: Niacin
+unit: mg
+value: 0.224
+label: fl oz
+value: 0.066
+label: serving (5 fl oz)
+value: 0.329
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.03
+label: fl oz
+value: 0.009
+label: serving (5 fl oz)
+value: 0.044
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.057
+label: fl oz
+value: 0.017
+label: serving (5 fl oz)
+value: 0.084
+
+
+name: Folate, total
+unit: \u00B5g
+value: 1.0
+label: fl oz
+value: 0.0
+label: serving (5 fl oz)
+value: 1.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: fl oz
+value: 0.0
+label: serving (5 fl oz)
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 1.0
+label: fl oz
+value: 0.0
+label: serving (5 fl oz)
+value: 1.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 1.0
+label: fl oz
+value: 0.0
+label: serving (5 fl oz)
+value: 1.0
+
+
+name: Choline, total
+unit: mg
+value: 5.7
+label: fl oz
+value: 1.7
+label: serving (5 fl oz)
+value: 8.4
+
+
+name: Betaine
+unit: mg
+value: 0.3
+label: fl oz
+value: 0.1
+label: serving (5 fl oz)
+value: 0.4
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: fl oz
+value: 0.0
+label: serving (5 fl oz)
+value: 0.0
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: fl oz
+value: 0.0
+label: serving (5 fl oz)
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 0.0
+label: fl oz
+value: 0.0
+label: serving (5 fl oz)
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: fl oz
+value: 0.0
+label: serving (5 fl oz)
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 1.0
+label: fl oz
+value: 0.0
+label: serving (5 fl oz)
+value: 1.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: fl oz
+value: 0.0
+label: serving (5 fl oz)
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: fl oz
+value: 0.0
+label: serving (5 fl oz)
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 2.0
+label: fl oz
+value: 1.0
+label: serving (5 fl oz)
+value: 3.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: fl oz
+value: 0.0
+label: serving (5 fl oz)
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 6.0
+label: fl oz
+value: 2.0
+label: serving (5 fl oz)
+value: 9.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.0
+label: fl oz
+value: 0.0
+label: serving (5 fl oz)
+value: 0.0
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: fl oz
+value: 0.0
+label: serving (5 fl oz)
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: fl oz
+value: 0.0
+label: serving (5 fl oz)
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: fl oz
+value: 0.0
+label: serving (5 fl oz)
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 0.4
+label: fl oz
+value: 0.1
+label: serving (5 fl oz)
+value: 0.6
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: serving (5 fl oz)
+value: 0.0
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: serving (5 fl oz)
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: serving (5 fl oz)
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: serving (5 fl oz)
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: serving (5 fl oz)
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: serving (5 fl oz)
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: serving (5 fl oz)
+value: 0.0
+
+
+name: 16:0
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: serving (5 fl oz)
+value: 0.0
+
+
+name: 18:0
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: serving (5 fl oz)
+value: 0.0
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: serving (5 fl oz)
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: serving (5 fl oz)
+value: 0.0
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: serving (5 fl oz)
+value: 0.0
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: serving (5 fl oz)
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: serving (5 fl oz)
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: serving (5 fl oz)
+value: 0.0
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: serving (5 fl oz)
+value: 0.0
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: serving (5 fl oz)
+value: 0.0
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: serving (5 fl oz)
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: serving (5 fl oz)
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: serving (5 fl oz)
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: serving (5 fl oz)
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: serving (5 fl oz)
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: serving (5 fl oz)
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: fl oz
+value: 0.0
+label: serving (5 fl oz)
+value: 0.0
+
+
+name: Alcohol, ethyl
+unit: g
+value: 10.6
+label: fl oz
+value: 3.1
+label: serving (5 fl oz)
+value: 15.6
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: fl oz
+value: 0.0
+label: serving (5 fl oz)
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: fl oz
+value: 0.0
+label: serving (5 fl oz)
+value: 0.0
+
+
+name: Cyanidin
+unit: mg
+value: 0.19
+label: fl oz
+value: 0.06
+label: serving (5 fl oz)
+value: 0.28
+
+
+name: Petunidin
+unit: mg
+value: 2.0
+label: fl oz
+value: 0.6
+label: serving (5 fl oz)
+value: 2.9
+
+
+name: Delphinidin
+unit: mg
+value: 2.0
+label: fl oz
+value: 0.6
+label: serving (5 fl oz)
+value: 3.0
+
+
+name: Malvidin
+unit: mg
+value: 13.8
+label: fl oz
+value: 4.1
+label: serving (5 fl oz)
+value: 20.3
+
+
+name: Peonidin
+unit: mg
+value: 1.2
+label: fl oz
+value: 0.4
+label: serving (5 fl oz)
+value: 1.8
+
+
+name: (+)-Catechin
+unit: mg
+value: 7.1
+label: fl oz
+value: 2.1
+label: serving (5 fl oz)
+value: 10.5
+
+
+name: (-)-Epigallocatechin
+unit: mg
+value: 0.1
+label: fl oz
+value: 0.0
+label: serving (5 fl oz)
+value: 0.1
+
+
+name: (-)-Epicatechin
+unit: mg
+value: 3.8
+label: fl oz
+value: 1.1
+label: serving (5 fl oz)
+value: 5.6
+
+
+name: (-)-Epicatechin 3-gallate
+unit: mg
+value: 0.0
+label: fl oz
+value: 0.0
+label: serving (5 fl oz)
+value: 0.0
+
+
+name: (-)-Epigallocatechin 3-gallate
+unit: mg
+value: 0.0
+label: fl oz
+value: 0.0
+label: serving (5 fl oz)
+value: 0.0
+
+
+name: (+)-Gallocatechin
+unit: mg
+value: 0.1
+label: fl oz
+value: 0.0
+label: serving (5 fl oz)
+value: 0.1
+
+
+name: Hesperetin
+unit: mg
+value: 0.6
+label: fl oz
+value: 0.2
+label: serving (5 fl oz)
+value: 0.9
+
+
+name: Naringenin
+unit: mg
+value: 1.8
+label: fl oz
+value: 0.5
+label: serving (5 fl oz)
+value: 2.6
+
+
+name: Apigenin
+unit: mg
+value: 0.1
+label: fl oz
+value: 0.0
+label: serving (5 fl oz)
+value: 0.2
+
+
+name: Luteolin
+unit: mg
+value: 0.0
+label: fl oz
+value: 0.0
+label: serving (5 fl oz)
+value: 0.1
+
+
+name: Isorhamnetin
+unit: mg
+value: 0.0
+label: fl oz
+value: 0.0
+label: serving (5 fl oz)
+value: 0.0
+
+
+name: Kaempferol
+unit: mg
+value: 0.1
+label: fl oz
+value: 0.0
+label: serving (5 fl oz)
+value: 0.1
+
+
+name: Myricetin
+unit: mg
+value: 0.4
+label: fl oz
+value: 0.1
+label: serving (5 fl oz)
+value: 0.6
+
+
+name: Quercetin
+unit: mg
+value: 1.0
+label: fl oz
+value: 0.3
+label: serving (5 fl oz)
+value: 1.5
+
+
+name: Proanthocyanidin dimers
+unit: mg
+value: 12.3
+label: fl oz
+value: 3.6
+label: serving (5 fl oz)
+value: 18.1
+
+
+name: Proanthocyanidin trimers
+unit: mg
+value: 2.4
+label: fl oz
+value: 0.7
+label: serving (5 fl oz)
+value: 3.6
+
+
+name: Proanthocyanidin 4-6mers
+unit: mg
+value: 2.5
+label: fl oz
+value: 0.7
+label: serving (5 fl oz)
+value: 3.7
+
+
+name: Proanthocyanidin 7-10mers
+unit: mg
+value: 3.8
+label: fl oz
+value: 1.1
+label: serving (5 fl oz)
+value: 5.5
+
+
+name: Proanthocyanidin polymers (>10mers)
+unit: mg
+value: 8.6
+label: fl oz
+value: 2.5
+label: serving (5 fl oz)
+value: 12.6
+

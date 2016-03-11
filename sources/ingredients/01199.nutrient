@@ -1,0 +1,672 @@
+ndbno: 01199
+
+
+name: Cream, half and half, fat free
+
+
+name: Water
+unit: g
+value: 86.0
+label: tbsp
+value: 24.94
+label: pint
+value: 416.24
+
+
+name: Energy
+unit: kcal
+value: 59.0
+label: tbsp
+value: 17.0
+label: pint
+value: 286.0
+
+
+name: Energy
+unit: kJ
+value: 247.0
+label: tbsp
+value: 72.0
+label: pint
+value: 1195.0
+
+
+name: Protein
+unit: g
+value: 2.6
+label: tbsp
+value: 0.75
+label: pint
+value: 12.58
+
+
+name: Total lipid (fat)
+unit: g
+value: 1.4
+label: tbsp
+value: 0.41
+label: pint
+value: 6.78
+
+
+name: Ash
+unit: g
+value: 1.0
+label: tbsp
+value: 0.29
+label: pint
+value: 4.84
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 9.0
+label: tbsp
+value: 2.61
+label: pint
+value: 43.56
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+label: pint
+value: 0.0
+
+
+name: Sugars, total
+unit: g
+value: 5.0
+label: tbsp
+value: 1.45
+label: pint
+value: 24.2
+
+
+name: Starch
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+label: pint
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 96.0
+label: tbsp
+value: 28.0
+label: pint
+value: 465.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.0
+label: tbsp
+value: 0.0
+label: pint
+value: 0.0
+
+
+name: Magnesium, Mg
+unit: mg
+value: 16.0
+label: tbsp
+value: 5.0
+label: pint
+value: 77.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 151.0
+label: tbsp
+value: 44.0
+label: pint
+value: 731.0
+
+
+name: Potassium, K
+unit: mg
+value: 206.0
+label: tbsp
+value: 60.0
+label: pint
+value: 997.0
+
+
+name: Sodium, Na
+unit: mg
+value: 100.0
+label: tbsp
+value: 29.0
+label: pint
+value: 484.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.81
+label: tbsp
+value: 0.23
+label: pint
+value: 3.92
+
+
+name: Copper, Cu
+unit: mg
+value: 0.016
+label: tbsp
+value: 0.005
+label: pint
+value: 0.077
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.002
+label: tbsp
+value: 0.001
+label: pint
+value: 0.01
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 2.9
+label: tbsp
+value: 0.8
+label: pint
+value: 14.0
+
+
+name: Fluoride, F
+unit: \u00B5g
+value: 3.0
+label: tbsp
+value: 0.9
+label: pint
+value: 14.5
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.7
+label: tbsp
+value: 0.2
+label: pint
+value: 3.4
+
+
+name: Thiamin
+unit: mg
+value: 0.056
+label: tbsp
+value: 0.016
+label: pint
+value: 0.271
+
+
+name: Riboflavin
+unit: mg
+value: 0.237
+label: tbsp
+value: 0.069
+label: pint
+value: 1.147
+
+
+name: Niacin
+unit: mg
+value: 0.124
+label: tbsp
+value: 0.036
+label: pint
+value: 0.6
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.459
+label: tbsp
+value: 0.133
+label: pint
+value: 2.222
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.062
+label: tbsp
+value: 0.018
+label: pint
+value: 0.3
+
+
+name: Folate, total
+unit: \u00B5g
+value: 4.0
+label: tbsp
+value: 1.0
+label: pint
+value: 19.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: tbsp
+value: 0.0
+label: pint
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 4.0
+label: tbsp
+value: 1.0
+label: pint
+value: 19.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 4.0
+label: tbsp
+value: 1.0
+label: pint
+value: 19.0
+
+
+name: Choline, total
+unit: mg
+value: 15.0
+label: tbsp
+value: 4.4
+label: pint
+value: 72.6
+
+
+name: Betaine
+unit: mg
+value: 0.7
+label: tbsp
+value: 0.2
+label: pint
+value: 3.4
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.52
+label: tbsp
+value: 0.15
+label: pint
+value: 2.52
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: tbsp
+value: 0.0
+label: pint
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 12.0
+label: tbsp
+value: 3.0
+label: pint
+value: 58.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 12.0
+label: tbsp
+value: 3.0
+label: pint
+value: 58.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 3.0
+label: tbsp
+value: 1.0
+label: pint
+value: 15.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: tbsp
+value: 0.0
+label: pint
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: tbsp
+value: 0.0
+label: pint
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 43.0
+label: tbsp
+value: 12.0
+label: pint
+value: 208.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: tbsp
+value: 0.0
+label: pint
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 0.0
+label: tbsp
+value: 0.0
+label: pint
+value: 0.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.04
+label: tbsp
+value: 0.01
+label: pint
+value: 0.19
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: tbsp
+value: 0.0
+label: pint
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: tbsp
+value: 0.0
+label: pint
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: tbsp
+value: 0.0
+label: pint
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 0.2
+label: tbsp
+value: 0.1
+label: pint
+value: 1.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.841
+label: tbsp
+value: 0.244
+label: pint
+value: 4.07
+
+
+name: 4:0
+unit: g
+value: 0.045
+label: tbsp
+value: 0.013
+label: pint
+value: 0.218
+
+
+name: 6:0
+unit: g
+value: 0.027
+label: tbsp
+value: 0.008
+label: pint
+value: 0.131
+
+
+name: 8:0
+unit: g
+value: 0.016
+label: tbsp
+value: 0.005
+label: pint
+value: 0.077
+
+
+name: 10:0
+unit: g
+value: 0.035
+label: tbsp
+value: 0.01
+label: pint
+value: 0.169
+
+
+name: 12:0
+unit: g
+value: 0.039
+label: tbsp
+value: 0.011
+label: pint
+value: 0.189
+
+
+name: 14:0
+unit: g
+value: 0.141
+label: tbsp
+value: 0.041
+label: pint
+value: 0.682
+
+
+name: 16:0
+unit: g
+value: 0.368
+label: tbsp
+value: 0.107
+label: pint
+value: 1.781
+
+
+name: 18:0
+unit: g
+value: 0.17
+label: tbsp
+value: 0.049
+label: pint
+value: 0.823
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.384
+label: tbsp
+value: 0.111
+label: pint
+value: 1.859
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.031
+label: tbsp
+value: 0.009
+label: pint
+value: 0.15
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.352
+label: tbsp
+value: 0.102
+label: pint
+value: 1.704
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+label: pint
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+label: pint
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.052
+label: tbsp
+value: 0.015
+label: pint
+value: 0.252
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.032
+label: tbsp
+value: 0.009
+label: pint
+value: 0.155
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.02
+label: tbsp
+value: 0.006
+label: pint
+value: 0.097
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+label: pint
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+label: pint
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+label: pint
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+label: pint
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+label: pint
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 5.0
+label: tbsp
+value: 1.0
+label: pint
+value: 24.0
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+label: pint
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: tbsp
+value: 0.0
+label: pint
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: tbsp
+value: 0.0
+label: pint
+value: 0.0
+
+

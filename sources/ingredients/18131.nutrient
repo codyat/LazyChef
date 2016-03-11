@@ -1,0 +1,646 @@
+ndbno: 18131
+
+
+name: Cake, white, dry mix, special dietary (includes lemon-flavored)
+
+
+name: Water
+unit: g
+value: 6.0
+label: oz
+value: 1.7
+label: package (8 oz)
+value: 13.62
+
+
+name: Energy
+unit: kcal
+value: 397.0
+label: oz
+value: 113.0
+label: package (8 oz)
+value: 901.0
+
+
+name: Energy
+unit: kJ
+value: 1661.0
+label: oz
+value: 471.0
+label: package (8 oz)
+value: 3770.0
+
+
+name: Protein
+unit: g
+value: 3.0
+label: oz
+value: 0.85
+label: package (8 oz)
+value: 6.81
+
+
+name: Total lipid (fat)
+unit: g
+value: 8.4
+label: oz
+value: 2.38
+label: package (8 oz)
+value: 19.07
+
+
+name: Ash
+unit: g
+value: 2.9
+label: oz
+value: 0.82
+label: package (8 oz)
+value: 6.58
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 79.6
+label: oz
+value: 22.57
+label: package (8 oz)
+value: 180.69
+
+
+name: Calcium, Ca
+unit: mg
+value: 26.0
+label: oz
+value: 7.0
+label: package (8 oz)
+value: 59.0
+
+
+name: Iron, Fe
+unit: mg
+value: 1.99
+label: oz
+value: 0.56
+label: package (8 oz)
+value: 4.52
+
+
+name: Magnesium, Mg
+unit: mg
+value: 10.0
+label: oz
+value: 3.0
+label: package (8 oz)
+value: 23.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 296.0
+label: oz
+value: 84.0
+label: package (8 oz)
+value: 672.0
+
+
+name: Potassium, K
+unit: mg
+value: 149.0
+label: oz
+value: 42.0
+label: package (8 oz)
+value: 338.0
+
+
+name: Sodium, Na
+unit: mg
+value: 260.0
+label: oz
+value: 74.0
+label: package (8 oz)
+value: 590.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.3
+label: oz
+value: 0.09
+label: package (8 oz)
+value: 0.68
+
+
+name: Copper, Cu
+unit: mg
+value: 0.057
+label: oz
+value: 0.016
+label: package (8 oz)
+value: 0.129
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.3
+label: oz
+value: 0.085
+label: package (8 oz)
+value: 0.681
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 2.5
+label: oz
+value: 0.7
+label: package (8 oz)
+value: 5.7
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: package (8 oz)
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.289
+label: oz
+value: 0.082
+label: package (8 oz)
+value: 0.656
+
+
+name: Riboflavin
+unit: mg
+value: 0.179
+label: oz
+value: 0.051
+label: package (8 oz)
+value: 0.406
+
+
+name: Niacin
+unit: mg
+value: 2.395
+label: oz
+value: 0.679
+label: package (8 oz)
+value: 5.437
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.196
+label: oz
+value: 0.056
+label: package (8 oz)
+value: 0.445
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.018
+label: oz
+value: 0.005
+label: package (8 oz)
+value: 0.041
+
+
+name: Folate, total
+unit: \u00B5g
+value: 69.0
+label: oz
+value: 20.0
+label: package (8 oz)
+value: 157.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 60.0
+label: oz
+value: 17.0
+label: package (8 oz)
+value: 136.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 9.0
+label: oz
+value: 3.0
+label: package (8 oz)
+value: 20.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 111.0
+label: oz
+value: 31.0
+label: package (8 oz)
+value: 252.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: package (8 oz)
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: package (8 oz)
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: package (8 oz)
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 0.0
+label: oz
+value: 0.0
+label: package (8 oz)
+value: 0.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 1.251
+label: oz
+value: 0.355
+label: package (8 oz)
+value: 2.84
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: package (8 oz)
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: package (8 oz)
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: package (8 oz)
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: package (8 oz)
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: package (8 oz)
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.008
+label: oz
+value: 0.002
+label: package (8 oz)
+value: 0.018
+
+
+name: 16:0
+unit: g
+value: 0.836
+label: oz
+value: 0.237
+label: package (8 oz)
+value: 1.898
+
+
+name: 18:0
+unit: g
+value: 0.403
+label: oz
+value: 0.114
+label: package (8 oz)
+value: 0.915
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 3.48
+label: oz
+value: 0.987
+label: package (8 oz)
+value: 7.9
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.033
+label: oz
+value: 0.009
+label: package (8 oz)
+value: 0.075
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 3.439
+label: oz
+value: 0.975
+label: package (8 oz)
+value: 7.807
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: package (8 oz)
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: package (8 oz)
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 3.183
+label: oz
+value: 0.902
+label: package (8 oz)
+value: 7.225
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 2.957
+label: oz
+value: 0.838
+label: package (8 oz)
+value: 6.712
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.218
+label: oz
+value: 0.062
+label: package (8 oz)
+value: 0.495
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: package (8 oz)
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: package (8 oz)
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: package (8 oz)
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: package (8 oz)
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: package (8 oz)
+value: 0.0
+
+
+name: Tryptophan
+unit: g
+value: 0.044
+label: oz
+value: 0.012
+label: package (8 oz)
+value: 0.1
+
+
+name: Threonine
+unit: g
+value: 0.084
+label: oz
+value: 0.024
+label: package (8 oz)
+value: 0.191
+
+
+name: Isoleucine
+unit: g
+value: 0.115
+label: oz
+value: 0.033
+label: package (8 oz)
+value: 0.261
+
+
+name: Leucine
+unit: g
+value: 0.206
+label: oz
+value: 0.058
+label: package (8 oz)
+value: 0.468
+
+
+name: Lysine
+unit: g
+value: 0.105
+label: oz
+value: 0.03
+label: package (8 oz)
+value: 0.238
+
+
+name: Methionine
+unit: g
+value: 0.051
+label: oz
+value: 0.014
+label: package (8 oz)
+value: 0.116
+
+
+name: Cystine
+unit: g
+value: 0.066
+label: oz
+value: 0.019
+label: package (8 oz)
+value: 0.15
+
+
+name: Phenylalanine
+unit: g
+value: 0.144
+label: oz
+value: 0.041
+label: package (8 oz)
+value: 0.327
+
+
+name: Tyrosine
+unit: g
+value: 0.087
+label: oz
+value: 0.025
+label: package (8 oz)
+value: 0.197
+
+
+name: Valine
+unit: g
+value: 0.133
+label: oz
+value: 0.038
+label: package (8 oz)
+value: 0.302
+
+
+name: Arginine
+unit: g
+value: 0.116
+label: oz
+value: 0.033
+label: package (8 oz)
+value: 0.263
+
+
+name: Histidine
+unit: g
+value: 0.062
+label: oz
+value: 0.018
+label: package (8 oz)
+value: 0.141
+
+
+name: Alanine
+unit: g
+value: 0.092
+label: oz
+value: 0.026
+label: package (8 oz)
+value: 0.209
+
+
+name: Aspartic acid
+unit: g
+value: 0.127
+label: oz
+value: 0.036
+label: package (8 oz)
+value: 0.288
+
+
+name: Glutamic acid
+unit: g
+value: 1.002
+label: oz
+value: 0.284
+label: package (8 oz)
+value: 2.275
+
+
+name: Glycine
+unit: g
+value: 0.103
+label: oz
+value: 0.029
+label: package (8 oz)
+value: 0.234
+
+
+name: Proline
+unit: g
+value: 0.338
+label: oz
+value: 0.096
+label: package (8 oz)
+value: 0.767
+
+
+name: Serine
+unit: g
+value: 0.16
+label: oz
+value: 0.045
+label: package (8 oz)
+value: 0.363
+
+
+

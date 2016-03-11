@@ -1,0 +1,790 @@
+ndbno: 17333
+
+
+name: Game meat, bison, chuck, shoulder clod, separable lean only, cooked, braised
+
+
+name: Water
+unit: g
+value: 60.48
+label: serving ( 3 oz )
+value: 51.41
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 468.12
+
+
+name: Energy
+unit: kcal
+value: 193.0
+label: serving ( 3 oz )
+value: 164.0
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 1494.0
+
+
+name: Energy
+unit: kJ
+value: 809.0
+label: serving ( 3 oz )
+value: 688.0
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 6262.0
+
+
+name: Protein
+unit: g
+value: 33.78
+label: serving ( 3 oz )
+value: 28.71
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 261.46
+
+
+name: Total lipid (fat)
+unit: g
+value: 5.43
+label: serving ( 3 oz )
+value: 4.62
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 42.03
+
+
+name: Ash
+unit: g
+value: 1.08
+label: serving ( 3 oz )
+value: 0.92
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 8.36
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 0.0
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 0.0
+
+
+name: Sugars, total
+unit: g
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 7.0
+label: serving ( 3 oz )
+value: 6.0
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 54.0
+
+
+name: Iron, Fe
+unit: mg
+value: 4.86
+label: serving ( 3 oz )
+value: 4.13
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 37.62
+
+
+name: Magnesium, Mg
+unit: mg
+value: 26.0
+label: serving ( 3 oz )
+value: 22.0
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 201.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 239.0
+label: serving ( 3 oz )
+value: 203.0
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 1850.0
+
+
+name: Potassium, K
+unit: mg
+value: 316.0
+label: serving ( 3 oz )
+value: 269.0
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 2446.0
+
+
+name: Sodium, Na
+unit: mg
+value: 57.0
+label: serving ( 3 oz )
+value: 48.0
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 441.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 8.64
+label: serving ( 3 oz )
+value: 7.34
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 66.87
+
+
+name: Copper, Cu
+unit: mg
+value: 0.208
+label: serving ( 3 oz )
+value: 0.177
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 1.61
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.017
+label: serving ( 3 oz )
+value: 0.014
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 0.132
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 41.7
+label: serving ( 3 oz )
+value: 35.4
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 322.8
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.12
+label: serving ( 3 oz )
+value: 0.102
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 0.929
+
+
+name: Riboflavin
+unit: mg
+value: 0.47
+label: serving ( 3 oz )
+value: 0.399
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 3.638
+
+
+name: Niacin
+unit: mg
+value: 4.773
+label: serving ( 3 oz )
+value: 4.057
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 36.943
+
+
+name: Pantothenic acid
+unit: mg
+value: 1.62
+label: serving ( 3 oz )
+value: 1.377
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 12.539
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.458
+label: serving ( 3 oz )
+value: 0.389
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 3.545
+
+
+name: Folate, total
+unit: \u00B5g
+value: 21.0
+label: serving ( 3 oz )
+value: 18.0
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 163.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 21.0
+label: serving ( 3 oz )
+value: 18.0
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 163.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 21.0
+label: serving ( 3 oz )
+value: 18.0
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 163.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 2.38
+label: serving ( 3 oz )
+value: 2.02
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 18.42
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 0.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 0.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 0.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.23
+label: serving ( 3 oz )
+value: 0.2
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 1.78
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 2.32
+label: serving ( 3 oz )
+value: 1.972
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 17.957
+
+
+name: 8:0
+unit: g
+value: 0.002
+label: serving ( 3 oz )
+value: 0.002
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 0.015
+
+
+name: 10:0
+unit: g
+value: 0.002
+label: serving ( 3 oz )
+value: 0.002
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 0.015
+
+
+name: 12:0
+unit: g
+value: 0.002
+label: serving ( 3 oz )
+value: 0.002
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 0.015
+
+
+name: 14:0
+unit: g
+value: 0.098
+label: serving ( 3 oz )
+value: 0.083
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 0.759
+
+
+name: 15:0
+unit: g
+value: 0.028
+label: serving ( 3 oz )
+value: 0.024
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 0.217
+
+
+name: 16:0
+unit: g
+value: 0.978
+label: serving ( 3 oz )
+value: 0.831
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 7.57
+
+
+name: 17:0
+unit: g
+value: 0.082
+label: serving ( 3 oz )
+value: 0.07
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 0.635
+
+
+name: 18:0
+unit: g
+value: 1.116
+label: serving ( 3 oz )
+value: 0.949
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 8.638
+
+
+name: 20:0
+unit: g
+value: 0.01
+label: serving ( 3 oz )
+value: 0.008
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 0.077
+
+
+name: 22:0
+unit: g
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 0.0
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 2.122
+label: serving ( 3 oz )
+value: 1.804
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 16.424
+
+
+name: 14:1
+unit: g
+value: 0.008
+label: serving ( 3 oz )
+value: 0.007
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 0.062
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.108
+label: serving ( 3 oz )
+value: 0.092
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 0.836
+
+
+name: 17:1
+unit: g
+value: 0.039
+label: serving ( 3 oz )
+value: 0.033
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 0.302
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 1.949
+label: serving ( 3 oz )
+value: 1.657
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 15.085
+
+
+name: 20:1
+unit: g
+value: 0.017
+label: serving ( 3 oz )
+value: 0.014
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 0.132
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.255
+label: serving ( 3 oz )
+value: 0.217
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 1.974
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.197
+label: serving ( 3 oz )
+value: 0.167
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 1.525
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.029
+label: serving ( 3 oz )
+value: 0.025
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 0.224
+
+
+name: 18:3 n-6 c,c,c
+unit: g
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 0.0
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 0.0
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.002
+label: serving ( 3 oz )
+value: 0.002
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 0.015
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.028
+label: serving ( 3 oz )
+value: 0.024
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 0.217
+
+
+name: Cholesterol
+unit: mg
+value: 111.0
+label: serving ( 3 oz )
+value: 94.0
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 859.0
+
+
+name: Tryptophan
+unit: g
+value: 0.255
+label: serving ( 3 oz )
+value: 0.217
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 1.974
+
+
+name: Threonine
+unit: g
+value: 1.533
+label: serving ( 3 oz )
+value: 1.303
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 11.865
+
+
+name: Isoleucine
+unit: g
+value: 1.631
+label: serving ( 3 oz )
+value: 1.386
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 12.624
+
+
+name: Leucine
+unit: g
+value: 2.898
+label: serving ( 3 oz )
+value: 2.463
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 22.431
+
+
+name: Lysine
+unit: g
+value: 3.134
+label: serving ( 3 oz )
+value: 2.664
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 24.257
+
+
+name: Methionine
+unit: g
+value: 0.914
+label: serving ( 3 oz )
+value: 0.777
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 7.074
+
+
+name: Cystine
+unit: g
+value: 0.403
+label: serving ( 3 oz )
+value: 0.343
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 3.119
+
+
+name: Phenylalanine
+unit: g
+value: 1.434
+label: serving ( 3 oz )
+value: 1.219
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 11.099
+
+
+name: Tyrosine
+unit: g
+value: 1.149
+label: serving ( 3 oz )
+value: 0.977
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 8.893
+
+
+name: Valine
+unit: g
+value: 1.818
+label: serving ( 3 oz )
+value: 1.545
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 14.071
+
+
+name: Arginine
+unit: g
+value: 2.3
+label: serving ( 3 oz )
+value: 1.955
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 17.802
+
+
+name: Histidine
+unit: g
+value: 1.238
+label: serving ( 3 oz )
+value: 1.052
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 9.582
+
+
+name: Alanine
+unit: g
+value: 2.25
+label: serving ( 3 oz )
+value: 1.912
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 17.415
+
+
+name: Aspartic acid
+unit: g
+value: 3.301
+label: serving ( 3 oz )
+value: 2.806
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 25.55
+
+
+name: Glutamic acid
+unit: g
+value: 5.502
+label: serving ( 3 oz )
+value: 4.677
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 42.585
+
+
+name: Glycine
+unit: g
+value: 2.192
+label: serving ( 3 oz )
+value: 1.863
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 16.966
+
+
+name: Proline
+unit: g
+value: 1.73
+label: serving ( 3 oz )
+value: 1.471
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 13.39
+
+
+name: Serine
+unit: g
+value: 1.405
+label: serving ( 3 oz )
+value: 1.194
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 10.875
+
+
+name: Hydroxyproline
+unit: g
+value: 0.422
+label: serving ( 3 oz )
+value: 0.359
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 3.266
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: serving ( 3 oz )
+value: 0.0
+label: roast ( yield from 1247 g raw meat ) ( 3 to 5 lb roast)
+value: 0.0
+
+
+

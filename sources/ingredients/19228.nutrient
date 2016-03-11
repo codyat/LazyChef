@@ -1,0 +1,682 @@
+ndbno: 19228
+
+
+name: Frostings, cream cheese-flavor, ready-to-eat
+
+
+name: Water
+unit: g
+value: 15.1
+label: tbsp creamy
+value: 4.98
+label: tbsp whipped
+value: 3.62
+
+
+name: Energy
+unit: kcal
+value: 415.0
+label: tbsp creamy
+value: 137.0
+label: tbsp whipped
+value: 100.0
+
+
+name: Energy
+unit: kJ
+value: 1737.0
+label: tbsp creamy
+value: 573.0
+label: tbsp whipped
+value: 417.0
+
+
+name: Protein
+unit: g
+value: 0.1
+label: tbsp creamy
+value: 0.03
+label: tbsp whipped
+value: 0.02
+
+
+name: Total lipid (fat)
+unit: g
+value: 17.3
+label: tbsp creamy
+value: 5.71
+label: tbsp whipped
+value: 4.15
+
+
+name: Ash
+unit: g
+value: 0.23
+label: tbsp creamy
+value: 0.08
+label: tbsp whipped
+value: 0.06
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 67.32
+label: tbsp creamy
+value: 22.22
+label: tbsp whipped
+value: 16.16
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: tbsp creamy
+value: 0.0
+label: tbsp whipped
+value: 0.0
+
+
+name: Sugars, total
+unit: g
+value: 63.54
+label: tbsp creamy
+value: 20.97
+label: tbsp whipped
+value: 15.25
+
+
+name: Calcium, Ca
+unit: mg
+value: 3.0
+label: tbsp creamy
+value: 1.0
+label: tbsp whipped
+value: 1.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.16
+label: tbsp creamy
+value: 0.05
+label: tbsp whipped
+value: 0.04
+
+
+name: Magnesium, Mg
+unit: mg
+value: 2.0
+label: tbsp creamy
+value: 1.0
+label: tbsp whipped
+value: 0.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 3.0
+label: tbsp creamy
+value: 1.0
+label: tbsp whipped
+value: 1.0
+
+
+name: Potassium, K
+unit: mg
+value: 35.0
+label: tbsp creamy
+value: 12.0
+label: tbsp whipped
+value: 8.0
+
+
+name: Sodium, Na
+unit: mg
+value: 191.0
+label: tbsp creamy
+value: 63.0
+label: tbsp whipped
+value: 46.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.02
+label: tbsp creamy
+value: 0.01
+label: tbsp whipped
+value: 0.0
+
+
+name: Copper, Cu
+unit: mg
+value: 0.02
+label: tbsp creamy
+value: 0.007
+label: tbsp whipped
+value: 0.005
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.013
+label: tbsp creamy
+value: 0.004
+label: tbsp whipped
+value: 0.003
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 0.5
+label: tbsp creamy
+value: 0.2
+label: tbsp whipped
+value: 0.1
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: tbsp creamy
+value: 0.0
+label: tbsp whipped
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.0
+label: tbsp creamy
+value: 0.0
+label: tbsp whipped
+value: 0.0
+
+
+name: Riboflavin
+unit: mg
+value: 0.006
+label: tbsp creamy
+value: 0.002
+label: tbsp whipped
+value: 0.001
+
+
+name: Niacin
+unit: mg
+value: 0.011
+label: tbsp creamy
+value: 0.004
+label: tbsp whipped
+value: 0.003
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.002
+label: tbsp creamy
+value: 0.001
+label: tbsp whipped
+value: 0.0
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.0
+label: tbsp creamy
+value: 0.0
+label: tbsp whipped
+value: 0.0
+
+
+name: Folate, total
+unit: \u00B5g
+value: 0.0
+label: tbsp creamy
+value: 0.0
+label: tbsp whipped
+value: 0.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: tbsp creamy
+value: 0.0
+label: tbsp whipped
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 0.0
+label: tbsp creamy
+value: 0.0
+label: tbsp whipped
+value: 0.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 0.0
+label: tbsp creamy
+value: 0.0
+label: tbsp whipped
+value: 0.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: tbsp creamy
+value: 0.0
+label: tbsp whipped
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 0.0
+label: tbsp creamy
+value: 0.0
+label: tbsp whipped
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: tbsp creamy
+value: 0.0
+label: tbsp whipped
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 0.0
+label: tbsp creamy
+value: 0.0
+label: tbsp whipped
+value: 0.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 4.545
+label: tbsp creamy
+value: 1.5
+label: tbsp whipped
+value: 1.091
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: tbsp creamy
+value: 0.0
+label: tbsp whipped
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: tbsp creamy
+value: 0.0
+label: tbsp whipped
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: tbsp creamy
+value: 0.0
+label: tbsp whipped
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: tbsp creamy
+value: 0.0
+label: tbsp whipped
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: tbsp creamy
+value: 0.0
+label: tbsp whipped
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.075
+label: tbsp creamy
+value: 0.025
+label: tbsp whipped
+value: 0.018
+
+
+name: 16:0
+unit: g
+value: 3.536
+label: tbsp creamy
+value: 1.167
+label: tbsp whipped
+value: 0.849
+
+
+name: 18:0
+unit: g
+value: 0.934
+label: tbsp creamy
+value: 0.308
+label: tbsp whipped
+value: 0.224
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 3.755
+label: tbsp creamy
+value: 1.239
+label: tbsp whipped
+value: 0.901
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.026
+label: tbsp creamy
+value: 0.009
+label: tbsp whipped
+value: 0.006
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 3.729
+label: tbsp creamy
+value: 1.231
+label: tbsp whipped
+value: 0.895
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: tbsp creamy
+value: 0.0
+label: tbsp whipped
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: tbsp creamy
+value: 0.0
+label: tbsp whipped
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 6.153
+label: tbsp creamy
+value: 2.03
+label: tbsp whipped
+value: 1.477
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 5.792
+label: tbsp creamy
+value: 1.911
+label: tbsp whipped
+value: 1.39
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.361
+label: tbsp creamy
+value: 0.119
+label: tbsp whipped
+value: 0.087
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: tbsp creamy
+value: 0.0
+label: tbsp whipped
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: tbsp creamy
+value: 0.0
+label: tbsp whipped
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: tbsp creamy
+value: 0.0
+label: tbsp whipped
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: tbsp creamy
+value: 0.0
+label: tbsp whipped
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: tbsp creamy
+value: 0.0
+label: tbsp whipped
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: tbsp creamy
+value: 0.0
+label: tbsp whipped
+value: 0.0
+
+
+name: Tryptophan
+unit: g
+value: 0.0
+label: tbsp creamy
+value: 0.0
+label: tbsp whipped
+value: 0.0
+
+
+name: Threonine
+unit: g
+value: 0.0
+label: tbsp creamy
+value: 0.0
+label: tbsp whipped
+value: 0.0
+
+
+name: Isoleucine
+unit: g
+value: 0.0
+label: tbsp creamy
+value: 0.0
+label: tbsp whipped
+value: 0.0
+
+
+name: Leucine
+unit: g
+value: 0.0
+label: tbsp creamy
+value: 0.0
+label: tbsp whipped
+value: 0.0
+
+
+name: Lysine
+unit: g
+value: 0.0
+label: tbsp creamy
+value: 0.0
+label: tbsp whipped
+value: 0.0
+
+
+name: Methionine
+unit: g
+value: 0.0
+label: tbsp creamy
+value: 0.0
+label: tbsp whipped
+value: 0.0
+
+
+name: Cystine
+unit: g
+value: 0.0
+label: tbsp creamy
+value: 0.0
+label: tbsp whipped
+value: 0.0
+
+
+name: Phenylalanine
+unit: g
+value: 0.0
+label: tbsp creamy
+value: 0.0
+label: tbsp whipped
+value: 0.0
+
+
+name: Tyrosine
+unit: g
+value: 0.0
+label: tbsp creamy
+value: 0.0
+label: tbsp whipped
+value: 0.0
+
+
+name: Valine
+unit: g
+value: 0.0
+label: tbsp creamy
+value: 0.0
+label: tbsp whipped
+value: 0.0
+
+
+name: Arginine
+unit: g
+value: 0.0
+label: tbsp creamy
+value: 0.0
+label: tbsp whipped
+value: 0.0
+
+
+name: Histidine
+unit: g
+value: 0.0
+label: tbsp creamy
+value: 0.0
+label: tbsp whipped
+value: 0.0
+
+
+name: Alanine
+unit: g
+value: 0.0
+label: tbsp creamy
+value: 0.0
+label: tbsp whipped
+value: 0.0
+
+
+name: Aspartic acid
+unit: g
+value: 0.0
+label: tbsp creamy
+value: 0.0
+label: tbsp whipped
+value: 0.0
+
+
+name: Glutamic acid
+unit: g
+value: 0.0
+label: tbsp creamy
+value: 0.0
+label: tbsp whipped
+value: 0.0
+
+
+name: Glycine
+unit: g
+value: 0.0
+label: tbsp creamy
+value: 0.0
+label: tbsp whipped
+value: 0.0
+
+
+name: Proline
+unit: g
+value: 0.0
+label: tbsp creamy
+value: 0.0
+label: tbsp whipped
+value: 0.0
+
+
+name: Serine
+unit: g
+value: 0.0
+label: tbsp creamy
+value: 0.0
+label: tbsp whipped
+value: 0.0
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: tbsp creamy
+value: 0.0
+label: tbsp whipped
+value: 0.0
+
+
+

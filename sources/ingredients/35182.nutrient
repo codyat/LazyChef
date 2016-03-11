@@ -1,0 +1,599 @@
+ndbno: 35182
+
+
+name: Acorn stew (Apache)
+
+
+name: Water
+unit: g
+value: 79.78
+    
+
+
+name: Energy
+unit: kcal
+value: 95.0
+    
+
+
+name: Energy
+unit: kJ
+value: 399.0
+    
+
+
+name: Protein
+unit: g
+value: 6.81
+    
+
+
+name: Total lipid (fat)
+unit: g
+value: 3.47
+    
+
+
+name: Ash
+unit: g
+value: 0.72
+    
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 9.22
+    
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.7
+    
+
+
+name: Sugars, total
+unit: g
+value: 0.34
+    
+
+
+name: Sucrose
+unit: g
+value: 0.16
+    
+
+
+name: Glucose (dextrose)
+unit: g
+value: 0.0
+    
+
+
+name: Fructose
+unit: g
+value: 0.0
+    
+
+
+name: Lactose
+unit: g
+value: 0.0
+    
+
+
+name: Maltose
+unit: g
+value: 0.19
+    
+
+
+name: Galactose
+unit: g
+value: 0.0
+    
+
+
+name: Starch
+unit: g
+value: 6.57
+    
+
+
+name: Calcium, Ca
+unit: mg
+value: 14.0
+    
+
+
+name: Iron, Fe
+unit: mg
+value: 1.0
+    
+
+
+name: Magnesium, Mg
+unit: mg
+value: 12.0
+    
+
+
+name: Phosphorus, P
+unit: mg
+value: 62.0
+    
+
+
+name: Potassium, K
+unit: mg
+value: 110.0
+    
+
+
+name: Sodium, Na
+unit: mg
+value: 130.0
+    
+
+
+name: Zinc, Zn
+unit: mg
+value: 1.6
+    
+
+
+name: Copper, Cu
+unit: mg
+value: 0.03
+    
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.14
+    
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 8.3
+    
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+    
+
+
+name: Thiamin
+unit: mg
+value: 0.175
+    
+
+
+name: Riboflavin
+unit: mg
+value: 0.125
+    
+
+
+name: Niacin
+unit: mg
+value: 2.14
+    
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.212
+    
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.055
+    
+
+
+name: Folate, total
+unit: \u00B5g
+value: 33.0
+    
+
+
+name: Folic acid
+unit: \u00B5g
+value: 15.0
+    
+
+
+name: Folate, food
+unit: \u00B5g
+value: 18.0
+    
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 44.0
+    
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.68
+    
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+    
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 0.0
+    
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+    
+
+
+name: Vitamin A, IU
+unit: IU
+value: 0.0
+    
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.3
+    
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+    
+
+
+name: Tocopherol, beta
+unit: mg
+value: 0.12
+    
+
+
+name: Tocopherol, gamma
+unit: mg
+value: 0.23
+    
+
+
+name: Tocopherol, delta
+unit: mg
+value: 0.05
+    
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 0.0
+    
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 1.28
+    
+
+
+name: 8:0
+unit: g
+value: 0.0
+    
+
+
+name: 10:0
+unit: g
+value: 0.0
+    
+
+
+name: 12:0
+unit: g
+value: 0.0
+    
+
+
+name: 14:0
+unit: g
+value: 0.09
+    
+
+
+name: 15:0
+unit: g
+value: 0.01
+    
+
+
+name: 16:0
+unit: g
+value: 0.75
+    
+
+
+name: 17:0
+unit: g
+value: 0.04
+    
+
+
+name: 18:0
+unit: g
+value: 0.39
+    
+
+
+name: 20:0
+unit: g
+value: 0.0
+    
+
+
+name: 22:0
+unit: g
+value: 0.0
+    
+
+
+name: 24:0
+unit: g
+value: 0.0
+    
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 1.68
+    
+
+
+name: 14:1
+unit: g
+value: 0.02
+    
+
+
+name: 15:1
+unit: g
+value: 0.0
+    
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.11
+    
+
+
+name: 17:1
+unit: g
+value: 0.03
+    
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 1.51
+    
+
+
+name: 20:1
+unit: g
+value: 0.01
+    
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+    
+
+
+name: 24:1 c
+unit: g
+value: 0.0
+    
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.297
+    
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.26
+    
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.01
+    
+
+
+name: 18:4
+unit: g
+value: 0.02
+    
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.007
+    
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.0
+    
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+    
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+    
+
+
+name: 21:5
+unit: g
+value: 0.0
+    
+
+
+name: 22:4
+unit: g
+value: 0.0
+    
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+    
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+    
+
+
+name: Cholesterol
+unit: mg
+value: 20.0
+    
+
+
+name: Tryptophan
+unit: g
+value: 0.04
+    
+
+
+name: Threonine
+unit: g
+value: 0.36
+    
+
+
+name: Isoleucine
+unit: g
+value: 0.35
+    
+
+
+name: Leucine
+unit: g
+value: 0.62
+    
+
+
+name: Lysine
+unit: g
+value: 0.58
+    
+
+
+name: Methionine
+unit: g
+value: 0.16
+    
+
+
+name: Cystine
+unit: g
+value: 0.09
+    
+
+
+name: Phenylalanine
+unit: g
+value: 0.33
+    
+
+
+name: Tyrosine
+unit: g
+value: 0.25
+    
+
+
+name: Valine
+unit: g
+value: 0.39
+    
+
+
+name: Arginine
+unit: g
+value: 0.47
+    
+
+
+name: Histidine
+unit: g
+value: 0.23
+    
+
+
+name: Alanine
+unit: g
+value: 0.45
+    
+
+
+name: Aspartic acid
+unit: g
+value: 0.83
+    
+
+
+name: Glutamic acid
+unit: g
+value: 1.51
+    
+
+
+name: Glycine
+unit: g
+value: 0.42
+    
+
+
+name: Proline
+unit: g
+value: 0.46
+    
+
+
+name: Serine
+unit: g
+value: 0.33
+    
+

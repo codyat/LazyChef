@@ -1,0 +1,682 @@
+ndbno: 19219
+
+
+name: Puddings, coconut cream, dry mix, regular, prepared with 2% milk
+
+
+name: Water
+unit: g
+value: 75.6
+label: cup
+value: 105.84
+label: package yield (2 cups)
+value: 422.6
+
+
+name: Energy
+unit: kcal
+value: 104.0
+label: cup
+value: 146.0
+label: package yield (2 cups)
+value: 581.0
+
+
+name: Energy
+unit: kJ
+value: 435.0
+label: cup
+value: 609.0
+label: package yield (2 cups)
+value: 2432.0
+
+
+name: Protein
+unit: g
+value: 3.1
+label: cup
+value: 4.34
+label: package yield (2 cups)
+value: 17.33
+
+
+name: Total lipid (fat)
+unit: g
+value: 2.5
+label: cup
+value: 3.5
+label: package yield (2 cups)
+value: 13.98
+
+
+name: Ash
+unit: g
+value: 1.0
+label: cup
+value: 1.4
+label: package yield (2 cups)
+value: 5.59
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 17.8
+label: cup
+value: 24.92
+label: package yield (2 cups)
+value: 99.5
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.2
+label: cup
+value: 0.3
+label: package yield (2 cups)
+value: 1.1
+
+
+name: Calcium, Ca
+unit: mg
+value: 113.0
+label: cup
+value: 158.0
+label: package yield (2 cups)
+value: 632.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.2
+label: cup
+value: 0.28
+label: package yield (2 cups)
+value: 1.12
+
+
+name: Magnesium, Mg
+unit: mg
+value: 16.0
+label: cup
+value: 22.0
+label: package yield (2 cups)
+value: 89.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 89.0
+label: cup
+value: 125.0
+label: package yield (2 cups)
+value: 498.0
+
+
+name: Potassium, K
+unit: mg
+value: 159.0
+label: cup
+value: 223.0
+label: package yield (2 cups)
+value: 889.0
+
+
+name: Sodium, Na
+unit: mg
+value: 163.0
+label: cup
+value: 228.0
+label: package yield (2 cups)
+value: 911.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.37
+label: cup
+value: 0.52
+label: package yield (2 cups)
+value: 2.07
+
+
+name: Copper, Cu
+unit: mg
+value: 0.025
+label: cup
+value: 0.035
+label: package yield (2 cups)
+value: 0.14
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.037
+label: cup
+value: 0.052
+label: package yield (2 cups)
+value: 0.207
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 2.3
+label: cup
+value: 3.2
+label: package yield (2 cups)
+value: 12.9
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.7
+label: cup
+value: 1.0
+label: package yield (2 cups)
+value: 3.9
+
+
+name: Thiamin
+unit: mg
+value: 0.032
+label: cup
+value: 0.045
+label: package yield (2 cups)
+value: 0.179
+
+
+name: Riboflavin
+unit: mg
+value: 0.146
+label: cup
+value: 0.204
+label: package yield (2 cups)
+value: 0.816
+
+
+name: Niacin
+unit: mg
+value: 0.091
+label: cup
+value: 0.127
+label: package yield (2 cups)
+value: 0.509
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.29
+label: cup
+value: 0.406
+label: package yield (2 cups)
+value: 1.621
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.145
+label: cup
+value: 0.203
+label: package yield (2 cups)
+value: 0.811
+
+
+name: Folate, total
+unit: \u00B5g
+value: 4.0
+label: cup
+value: 6.0
+label: package yield (2 cups)
+value: 22.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: package yield (2 cups)
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 4.0
+label: cup
+value: 6.0
+label: package yield (2 cups)
+value: 22.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 4.0
+label: cup
+value: 6.0
+label: package yield (2 cups)
+value: 22.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.26
+label: cup
+value: 0.36
+label: package yield (2 cups)
+value: 1.45
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 49.0
+label: cup
+value: 69.0
+label: package yield (2 cups)
+value: 274.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 48.0
+label: cup
+value: 67.0
+label: package yield (2 cups)
+value: 268.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 12.0
+label: cup
+value: 17.0
+label: package yield (2 cups)
+value: 67.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 170.0
+label: cup
+value: 238.0
+label: package yield (2 cups)
+value: 950.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 1.8
+label: cup
+value: 2.52
+label: package yield (2 cups)
+value: 10.062
+
+
+name: 4:0
+unit: g
+value: 0.06
+label: cup
+value: 0.084
+label: package yield (2 cups)
+value: 0.335
+
+
+name: 6:0
+unit: g
+value: 0.04
+label: cup
+value: 0.056
+label: package yield (2 cups)
+value: 0.224
+
+
+name: 8:0
+unit: g
+value: 0.08
+label: cup
+value: 0.112
+label: package yield (2 cups)
+value: 0.447
+
+
+name: 10:0
+unit: g
+value: 0.09
+label: cup
+value: 0.126
+label: package yield (2 cups)
+value: 0.503
+
+
+name: 12:0
+unit: g
+value: 0.42
+label: cup
+value: 0.588
+label: package yield (2 cups)
+value: 2.348
+
+
+name: 14:0
+unit: g
+value: 0.32
+label: cup
+value: 0.448
+label: package yield (2 cups)
+value: 1.789
+
+
+name: 16:0
+unit: g
+value: 0.53
+label: cup
+value: 0.742
+label: package yield (2 cups)
+value: 2.963
+
+
+name: 18:0
+unit: g
+value: 0.26
+label: cup
+value: 0.364
+label: package yield (2 cups)
+value: 1.453
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.52
+label: cup
+value: 0.728
+label: package yield (2 cups)
+value: 2.907
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.04
+label: cup
+value: 0.056
+label: package yield (2 cups)
+value: 0.224
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.47
+label: cup
+value: 0.658
+label: package yield (2 cups)
+value: 2.627
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: package yield (2 cups)
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: package yield (2 cups)
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.07
+label: cup
+value: 0.098
+label: package yield (2 cups)
+value: 0.391
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.05
+label: cup
+value: 0.07
+label: package yield (2 cups)
+value: 0.28
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.03
+label: cup
+value: 0.042
+label: package yield (2 cups)
+value: 0.168
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: package yield (2 cups)
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: package yield (2 cups)
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: package yield (2 cups)
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: package yield (2 cups)
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: package yield (2 cups)
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 7.0
+label: cup
+value: 10.0
+label: package yield (2 cups)
+value: 39.0
+
+
+name: Tryptophan
+unit: g
+value: 0.041
+label: cup
+value: 0.057
+label: package yield (2 cups)
+value: 0.229
+
+
+name: Threonine
+unit: g
+value: 0.131
+label: cup
+value: 0.183
+label: package yield (2 cups)
+value: 0.732
+
+
+name: Isoleucine
+unit: g
+value: 0.174
+label: cup
+value: 0.244
+label: package yield (2 cups)
+value: 0.973
+
+
+name: Leucine
+unit: g
+value: 0.283
+label: cup
+value: 0.396
+label: package yield (2 cups)
+value: 1.582
+
+
+name: Lysine
+unit: g
+value: 0.227
+label: cup
+value: 0.318
+label: package yield (2 cups)
+value: 1.269
+
+
+name: Methionine
+unit: g
+value: 0.072
+label: cup
+value: 0.101
+label: package yield (2 cups)
+value: 0.402
+
+
+name: Cystine
+unit: g
+value: 0.028
+label: cup
+value: 0.039
+label: package yield (2 cups)
+value: 0.157
+
+
+name: Phenylalanine
+unit: g
+value: 0.141
+label: cup
+value: 0.197
+label: package yield (2 cups)
+value: 0.788
+
+
+name: Tyrosine
+unit: g
+value: 0.138
+label: cup
+value: 0.193
+label: package yield (2 cups)
+value: 0.771
+
+
+name: Valine
+unit: g
+value: 0.195
+label: cup
+value: 0.273
+label: package yield (2 cups)
+value: 1.09
+
+
+name: Arginine
+unit: g
+value: 0.123
+label: cup
+value: 0.172
+label: package yield (2 cups)
+value: 0.688
+
+
+name: Histidine
+unit: g
+value: 0.079
+label: cup
+value: 0.111
+label: package yield (2 cups)
+value: 0.442
+
+
+name: Alanine
+unit: g
+value: 0.103
+label: cup
+value: 0.144
+label: package yield (2 cups)
+value: 0.576
+
+
+name: Aspartic acid
+unit: g
+value: 0.225
+label: cup
+value: 0.315
+label: package yield (2 cups)
+value: 1.258
+
+
+name: Glutamic acid
+unit: g
+value: 0.614
+label: cup
+value: 0.86
+label: package yield (2 cups)
+value: 3.432
+
+
+name: Glycine
+unit: g
+value: 0.066
+label: cup
+value: 0.092
+label: package yield (2 cups)
+value: 0.369
+
+
+name: Proline
+unit: g
+value: 0.275
+label: cup
+value: 0.385
+label: package yield (2 cups)
+value: 1.537
+
+
+name: Serine
+unit: g
+value: 0.158
+label: cup
+value: 0.221
+label: package yield (2 cups)
+value: 0.883
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: package yield (2 cups)
+value: 0.0
+
+
+

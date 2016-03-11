@@ -1,0 +1,654 @@
+ndbno: 11007
+
+
+name: Artichokes, (globe or french), raw
+
+
+name: Water
+unit: g
+value: 84.94
+label: artichoke, medium
+value: 108.72
+label: artichoke, large
+value: 137.6
+
+
+name: Energy
+unit: kcal
+value: 47.0
+label: artichoke, medium
+value: 60.0
+label: artichoke, large
+value: 76.0
+
+
+name: Energy
+unit: kJ
+value: 197.0
+label: artichoke, medium
+value: 252.0
+label: artichoke, large
+value: 319.0
+
+
+name: Protein
+unit: g
+value: 3.27
+label: artichoke, medium
+value: 4.19
+label: artichoke, large
+value: 5.3
+
+
+name: Total lipid (fat)
+unit: g
+value: 0.15
+label: artichoke, medium
+value: 0.19
+label: artichoke, large
+value: 0.24
+
+
+name: Ash
+unit: g
+value: 1.13
+label: artichoke, medium
+value: 1.45
+label: artichoke, large
+value: 1.83
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 10.51
+label: artichoke, medium
+value: 13.45
+label: artichoke, large
+value: 17.03
+
+
+name: Fiber, total dietary
+unit: g
+value: 5.4
+label: artichoke, medium
+value: 6.9
+label: artichoke, large
+value: 8.7
+
+
+name: Sugars, total
+unit: g
+value: 0.99
+label: artichoke, medium
+value: 1.27
+label: artichoke, large
+value: 1.6
+
+
+name: Calcium, Ca
+unit: mg
+value: 44.0
+label: artichoke, medium
+value: 56.0
+label: artichoke, large
+value: 71.0
+
+
+name: Iron, Fe
+unit: mg
+value: 1.28
+label: artichoke, medium
+value: 1.64
+label: artichoke, large
+value: 2.07
+
+
+name: Magnesium, Mg
+unit: mg
+value: 60.0
+label: artichoke, medium
+value: 77.0
+label: artichoke, large
+value: 97.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 90.0
+label: artichoke, medium
+value: 115.0
+label: artichoke, large
+value: 146.0
+
+
+name: Potassium, K
+unit: mg
+value: 370.0
+label: artichoke, medium
+value: 474.0
+label: artichoke, large
+value: 599.0
+
+
+name: Sodium, Na
+unit: mg
+value: 94.0
+label: artichoke, medium
+value: 120.0
+label: artichoke, large
+value: 152.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.49
+label: artichoke, medium
+value: 0.63
+label: artichoke, large
+value: 0.79
+
+
+name: Copper, Cu
+unit: mg
+value: 0.231
+label: artichoke, medium
+value: 0.296
+label: artichoke, large
+value: 0.374
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.256
+label: artichoke, medium
+value: 0.328
+label: artichoke, large
+value: 0.415
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 0.2
+label: artichoke, medium
+value: 0.3
+label: artichoke, large
+value: 0.3
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 11.7
+label: artichoke, medium
+value: 15.0
+label: artichoke, large
+value: 19.0
+
+
+name: Thiamin
+unit: mg
+value: 0.072
+label: artichoke, medium
+value: 0.092
+label: artichoke, large
+value: 0.117
+
+
+name: Riboflavin
+unit: mg
+value: 0.066
+label: artichoke, medium
+value: 0.084
+label: artichoke, large
+value: 0.107
+
+
+name: Niacin
+unit: mg
+value: 1.046
+label: artichoke, medium
+value: 1.339
+label: artichoke, large
+value: 1.695
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.338
+label: artichoke, medium
+value: 0.433
+label: artichoke, large
+value: 0.548
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.116
+label: artichoke, medium
+value: 0.148
+label: artichoke, large
+value: 0.188
+
+
+name: Folate, total
+unit: \u00B5g
+value: 68.0
+label: artichoke, medium
+value: 87.0
+label: artichoke, large
+value: 110.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: artichoke, medium
+value: 0.0
+label: artichoke, large
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 68.0
+label: artichoke, medium
+value: 87.0
+label: artichoke, large
+value: 110.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 68.0
+label: artichoke, medium
+value: 87.0
+label: artichoke, large
+value: 110.0
+
+
+name: Choline, total
+unit: mg
+value: 34.4
+label: artichoke, medium
+value: 44.0
+label: artichoke, large
+value: 55.7
+
+
+name: Betaine
+unit: mg
+value: 0.2
+label: artichoke, medium
+value: 0.3
+label: artichoke, large
+value: 0.3
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: artichoke, medium
+value: 0.0
+label: artichoke, large
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 1.0
+label: artichoke, medium
+value: 1.0
+label: artichoke, large
+value: 2.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: artichoke, medium
+value: 0.0
+label: artichoke, large
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 8.0
+label: artichoke, medium
+value: 10.0
+label: artichoke, large
+value: 13.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: artichoke, medium
+value: 0.0
+label: artichoke, large
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: artichoke, medium
+value: 0.0
+label: artichoke, large
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 13.0
+label: artichoke, medium
+value: 17.0
+label: artichoke, large
+value: 21.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: artichoke, medium
+value: 0.0
+label: artichoke, large
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 464.0
+label: artichoke, medium
+value: 594.0
+label: artichoke, large
+value: 752.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.19
+label: artichoke, medium
+value: 0.24
+label: artichoke, large
+value: 0.31
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: artichoke, medium
+value: 0.0
+label: artichoke, large
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: artichoke, medium
+value: 0.0
+label: artichoke, large
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 14.8
+label: artichoke, medium
+value: 18.9
+label: artichoke, large
+value: 24.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.036
+label: artichoke, medium
+value: 0.046
+label: artichoke, large
+value: 0.058
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: artichoke, medium
+value: 0.0
+label: artichoke, large
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: artichoke, medium
+value: 0.0
+label: artichoke, large
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: artichoke, medium
+value: 0.0
+label: artichoke, large
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: artichoke, medium
+value: 0.0
+label: artichoke, large
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.002
+label: artichoke, medium
+value: 0.003
+label: artichoke, large
+value: 0.003
+
+
+name: 14:0
+unit: g
+value: 0.002
+label: artichoke, medium
+value: 0.003
+label: artichoke, large
+value: 0.003
+
+
+name: 16:0
+unit: g
+value: 0.029
+label: artichoke, medium
+value: 0.037
+label: artichoke, large
+value: 0.047
+
+
+name: 18:0
+unit: g
+value: 0.003
+label: artichoke, medium
+value: 0.004
+label: artichoke, large
+value: 0.005
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.005
+label: artichoke, medium
+value: 0.006
+label: artichoke, large
+value: 0.008
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.0
+label: artichoke, medium
+value: 0.0
+label: artichoke, large
+value: 0.0
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.005
+label: artichoke, medium
+value: 0.006
+label: artichoke, large
+value: 0.008
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: artichoke, medium
+value: 0.0
+label: artichoke, large
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: artichoke, medium
+value: 0.0
+label: artichoke, large
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.064
+label: artichoke, medium
+value: 0.082
+label: artichoke, large
+value: 0.104
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.046
+label: artichoke, medium
+value: 0.059
+label: artichoke, large
+value: 0.075
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.017
+label: artichoke, medium
+value: 0.022
+label: artichoke, large
+value: 0.028
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: artichoke, medium
+value: 0.0
+label: artichoke, large
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: artichoke, medium
+value: 0.0
+label: artichoke, large
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: artichoke, medium
+value: 0.0
+label: artichoke, large
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: artichoke, medium
+value: 0.0
+label: artichoke, large
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: artichoke, medium
+value: 0.0
+label: artichoke, large
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.0
+label: artichoke, medium
+value: 0.0
+label: artichoke, large
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: artichoke, medium
+value: 0.0
+label: artichoke, large
+value: 0.0
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: artichoke, medium
+value: 0.0
+label: artichoke, large
+value: 0.0
+
+
+name: Naringenin
+unit: mg
+value: 12.5
+label: artichoke, medium
+value: 16.0
+label: artichoke, large
+value: 20.2
+
+
+name: Apigenin
+unit: mg
+value: 7.5
+label: artichoke, medium
+value: 9.6
+label: artichoke, large
+value: 12.1
+
+
+name: Luteolin
+unit: mg
+value: 2.3
+label: artichoke, medium
+value: 2.9
+label: artichoke, large
+value: 3.7
+
+

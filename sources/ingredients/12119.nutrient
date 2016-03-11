@@ -1,0 +1,1029 @@
+ndbno: 12119
+
+
+name: Nuts, coconut water (liquid from coconuts)
+
+
+name: Water
+unit: g
+value: 94.99
+label: cup
+value: 227.98
+label: tbsp
+value: 14.25
+label: coconut yields
+value: 195.68
+
+
+name: Energy
+unit: kcal
+value: 19.0
+label: cup
+value: 46.0
+label: tbsp
+value: 3.0
+label: coconut yields
+value: 39.0
+
+
+name: Energy
+unit: kJ
+value: 79.0
+label: cup
+value: 190.0
+label: tbsp
+value: 12.0
+label: coconut yields
+value: 163.0
+
+
+name: Protein
+unit: g
+value: 0.72
+label: cup
+value: 1.73
+label: tbsp
+value: 0.11
+label: coconut yields
+value: 1.48
+
+
+name: Total lipid (fat)
+unit: g
+value: 0.2
+label: cup
+value: 0.48
+label: tbsp
+value: 0.03
+label: coconut yields
+value: 0.41
+
+
+name: Ash
+unit: g
+value: 0.39
+label: cup
+value: 0.94
+label: tbsp
+value: 0.06
+label: coconut yields
+value: 0.8
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 3.71
+label: cup
+value: 8.9
+label: tbsp
+value: 0.56
+label: coconut yields
+value: 7.64
+
+
+name: Fiber, total dietary
+unit: g
+value: 1.1
+label: cup
+value: 2.6
+label: tbsp
+value: 0.2
+label: coconut yields
+value: 2.3
+
+
+name: Sugars, total
+unit: g
+value: 2.61
+label: cup
+value: 6.26
+label: tbsp
+value: 0.39
+label: coconut yields
+value: 5.38
+
+
+name: Calcium, Ca
+unit: mg
+value: 24.0
+label: cup
+value: 58.0
+label: tbsp
+value: 4.0
+label: coconut yields
+value: 49.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.29
+label: cup
+value: 0.7
+label: tbsp
+value: 0.04
+label: coconut yields
+value: 0.6
+
+
+name: Magnesium, Mg
+unit: mg
+value: 25.0
+label: cup
+value: 60.0
+label: tbsp
+value: 4.0
+label: coconut yields
+value: 52.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 20.0
+label: cup
+value: 48.0
+label: tbsp
+value: 3.0
+label: coconut yields
+value: 41.0
+
+
+name: Potassium, K
+unit: mg
+value: 250.0
+label: cup
+value: 600.0
+label: tbsp
+value: 38.0
+label: coconut yields
+value: 515.0
+
+
+name: Sodium, Na
+unit: mg
+value: 105.0
+label: cup
+value: 252.0
+label: tbsp
+value: 16.0
+label: coconut yields
+value: 216.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.1
+label: cup
+value: 0.24
+label: tbsp
+value: 0.02
+label: coconut yields
+value: 0.21
+
+
+name: Copper, Cu
+unit: mg
+value: 0.04
+label: cup
+value: 0.096
+label: tbsp
+value: 0.006
+label: coconut yields
+value: 0.082
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.142
+label: cup
+value: 0.341
+label: tbsp
+value: 0.021
+label: coconut yields
+value: 0.293
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 1.0
+label: cup
+value: 2.4
+label: tbsp
+value: 0.2
+label: coconut yields
+value: 2.1
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 2.4
+label: cup
+value: 5.8
+label: tbsp
+value: 0.4
+label: coconut yields
+value: 4.9
+
+
+name: Thiamin
+unit: mg
+value: 0.03
+label: cup
+value: 0.072
+label: tbsp
+value: 0.004
+label: coconut yields
+value: 0.062
+
+
+name: Riboflavin
+unit: mg
+value: 0.057
+label: cup
+value: 0.137
+label: tbsp
+value: 0.009
+label: coconut yields
+value: 0.117
+
+
+name: Niacin
+unit: mg
+value: 0.08
+label: cup
+value: 0.192
+label: tbsp
+value: 0.012
+label: coconut yields
+value: 0.165
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.043
+label: cup
+value: 0.103
+label: tbsp
+value: 0.006
+label: coconut yields
+value: 0.089
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.032
+label: cup
+value: 0.077
+label: tbsp
+value: 0.005
+label: coconut yields
+value: 0.066
+
+
+name: Folate, total
+unit: \u00B5g
+value: 3.0
+label: cup
+value: 7.0
+label: tbsp
+value: 0.0
+label: coconut yields
+value: 6.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: tbsp
+value: 0.0
+label: coconut yields
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 3.0
+label: cup
+value: 7.0
+label: tbsp
+value: 0.0
+label: coconut yields
+value: 6.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 3.0
+label: cup
+value: 7.0
+label: tbsp
+value: 0.0
+label: coconut yields
+value: 6.0
+
+
+name: Choline, total
+unit: mg
+value: 1.1
+label: cup
+value: 2.6
+label: tbsp
+value: 0.2
+label: coconut yields
+value: 2.3
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: tbsp
+value: 0.0
+label: coconut yields
+value: 0.0
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: tbsp
+value: 0.0
+label: coconut yields
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: tbsp
+value: 0.0
+label: coconut yields
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: tbsp
+value: 0.0
+label: coconut yields
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: tbsp
+value: 0.0
+label: coconut yields
+value: 0.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: tbsp
+value: 0.0
+label: coconut yields
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: tbsp
+value: 0.0
+label: coconut yields
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 0.0
+label: cup
+value: 0.0
+label: tbsp
+value: 0.0
+label: coconut yields
+value: 0.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: tbsp
+value: 0.0
+label: coconut yields
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: tbsp
+value: 0.0
+label: coconut yields
+value: 0.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: tbsp
+value: 0.0
+label: coconut yields
+value: 0.0
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: tbsp
+value: 0.0
+label: coconut yields
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: tbsp
+value: 0.0
+label: coconut yields
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: cup
+value: 0.0
+label: tbsp
+value: 0.0
+label: coconut yields
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: tbsp
+value: 0.0
+label: coconut yields
+value: 0.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.176
+label: cup
+value: 0.422
+label: tbsp
+value: 0.026
+label: coconut yields
+value: 0.363
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: tbsp
+value: 0.0
+label: coconut yields
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.001
+label: cup
+value: 0.002
+label: tbsp
+value: 0.0
+label: coconut yields
+value: 0.002
+
+
+name: 8:0
+unit: g
+value: 0.014
+label: cup
+value: 0.034
+label: tbsp
+value: 0.002
+label: coconut yields
+value: 0.029
+
+
+name: 10:0
+unit: g
+value: 0.011
+label: cup
+value: 0.026
+label: tbsp
+value: 0.002
+label: coconut yields
+value: 0.023
+
+
+name: 12:0
+unit: g
+value: 0.088
+label: cup
+value: 0.211
+label: tbsp
+value: 0.013
+label: coconut yields
+value: 0.181
+
+
+name: 14:0
+unit: g
+value: 0.035
+label: cup
+value: 0.084
+label: tbsp
+value: 0.005
+label: coconut yields
+value: 0.072
+
+
+name: 16:0
+unit: g
+value: 0.017
+label: cup
+value: 0.041
+label: tbsp
+value: 0.003
+label: coconut yields
+value: 0.035
+
+
+name: 18:0
+unit: g
+value: 0.01
+label: cup
+value: 0.024
+label: tbsp
+value: 0.002
+label: coconut yields
+value: 0.021
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.008
+label: cup
+value: 0.019
+label: tbsp
+value: 0.001
+label: coconut yields
+value: 0.016
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: tbsp
+value: 0.0
+label: coconut yields
+value: 0.0
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.008
+label: cup
+value: 0.019
+label: tbsp
+value: 0.001
+label: coconut yields
+value: 0.016
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: tbsp
+value: 0.0
+label: coconut yields
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: tbsp
+value: 0.0
+label: coconut yields
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.002
+label: cup
+value: 0.005
+label: tbsp
+value: 0.0
+label: coconut yields
+value: 0.004
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.002
+label: cup
+value: 0.005
+label: tbsp
+value: 0.0
+label: coconut yields
+value: 0.004
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: tbsp
+value: 0.0
+label: coconut yields
+value: 0.0
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: tbsp
+value: 0.0
+label: coconut yields
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: tbsp
+value: 0.0
+label: coconut yields
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: tbsp
+value: 0.0
+label: coconut yields
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: tbsp
+value: 0.0
+label: coconut yields
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: tbsp
+value: 0.0
+label: coconut yields
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: tbsp
+value: 0.0
+label: coconut yields
+value: 0.0
+
+
+name: Tryptophan
+unit: g
+value: 0.008
+label: cup
+value: 0.019
+label: tbsp
+value: 0.001
+label: coconut yields
+value: 0.016
+
+
+name: Threonine
+unit: g
+value: 0.026
+label: cup
+value: 0.062
+label: tbsp
+value: 0.004
+label: coconut yields
+value: 0.054
+
+
+name: Isoleucine
+unit: g
+value: 0.028
+label: cup
+value: 0.067
+label: tbsp
+value: 0.004
+label: coconut yields
+value: 0.058
+
+
+name: Leucine
+unit: g
+value: 0.053
+label: cup
+value: 0.127
+label: tbsp
+value: 0.008
+label: coconut yields
+value: 0.109
+
+
+name: Lysine
+unit: g
+value: 0.032
+label: cup
+value: 0.077
+label: tbsp
+value: 0.005
+label: coconut yields
+value: 0.066
+
+
+name: Methionine
+unit: g
+value: 0.013
+label: cup
+value: 0.031
+label: tbsp
+value: 0.002
+label: coconut yields
+value: 0.027
+
+
+name: Cystine
+unit: g
+value: 0.014
+label: cup
+value: 0.034
+label: tbsp
+value: 0.002
+label: coconut yields
+value: 0.029
+
+
+name: Phenylalanine
+unit: g
+value: 0.037
+label: cup
+value: 0.089
+label: tbsp
+value: 0.006
+label: coconut yields
+value: 0.076
+
+
+name: Tyrosine
+unit: g
+value: 0.022
+label: cup
+value: 0.053
+label: tbsp
+value: 0.003
+label: coconut yields
+value: 0.045
+
+
+name: Valine
+unit: g
+value: 0.044
+label: cup
+value: 0.106
+label: tbsp
+value: 0.007
+label: coconut yields
+value: 0.091
+
+
+name: Arginine
+unit: g
+value: 0.118
+label: cup
+value: 0.283
+label: tbsp
+value: 0.018
+label: coconut yields
+value: 0.243
+
+
+name: Histidine
+unit: g
+value: 0.017
+label: cup
+value: 0.041
+label: tbsp
+value: 0.003
+label: coconut yields
+value: 0.035
+
+
+name: Alanine
+unit: g
+value: 0.037
+label: cup
+value: 0.089
+label: tbsp
+value: 0.006
+label: coconut yields
+value: 0.076
+
+
+name: Aspartic acid
+unit: g
+value: 0.07
+label: cup
+value: 0.168
+label: tbsp
+value: 0.01
+label: coconut yields
+value: 0.144
+
+
+name: Glutamic acid
+unit: g
+value: 0.165
+label: cup
+value: 0.396
+label: tbsp
+value: 0.025
+label: coconut yields
+value: 0.34
+
+
+name: Glycine
+unit: g
+value: 0.034
+label: cup
+value: 0.082
+label: tbsp
+value: 0.005
+label: coconut yields
+value: 0.07
+
+
+name: Proline
+unit: g
+value: 0.03
+label: cup
+value: 0.072
+label: tbsp
+value: 0.004
+label: coconut yields
+value: 0.062
+
+
+name: Serine
+unit: g
+value: 0.037
+label: cup
+value: 0.089
+label: tbsp
+value: 0.006
+label: coconut yields
+value: 0.076
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: tbsp
+value: 0.0
+label: coconut yields
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: tbsp
+value: 0.0
+label: coconut yields
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: tbsp
+value: 0.0
+label: coconut yields
+value: 0.0
+
+
+name: Isorhamnetin
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: tbsp
+value: 0.0
+label: coconut yields
+value: 0.0
+
+
+name: Kaempferol
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: tbsp
+value: 0.0
+label: coconut yields
+value: 0.0
+
+
+name: Myricetin
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: tbsp
+value: 0.0
+label: coconut yields
+value: 0.0
+
+
+name: Quercetin
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: tbsp
+value: 0.0
+label: coconut yields
+value: 0.0
+
+

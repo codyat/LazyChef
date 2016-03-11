@@ -1,0 +1,808 @@
+ndbno: 06072
+
+
+name: Soup, vegetable with beef broth, canned, condensed
+
+
+name: Water
+unit: g
+value: 83.27
+label: cup
+value: 102.42
+label: can (10.5 oz)
+value: 248.14
+
+
+name: Energy
+unit: kcal
+value: 66.0
+label: cup
+value: 81.0
+label: can (10.5 oz)
+value: 197.0
+
+
+name: Energy
+unit: kJ
+value: 276.0
+label: cup
+value: 339.0
+label: can (10.5 oz)
+value: 822.0
+
+
+name: Protein
+unit: g
+value: 2.42
+label: cup
+value: 2.98
+label: can (10.5 oz)
+value: 7.21
+
+
+name: Total lipid (fat)
+unit: g
+value: 1.56
+label: cup
+value: 1.92
+label: can (10.5 oz)
+value: 4.65
+
+
+name: Ash
+unit: g
+value: 2.06
+label: cup
+value: 2.53
+label: can (10.5 oz)
+value: 6.14
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 10.7
+label: cup
+value: 13.16
+label: can (10.5 oz)
+value: 31.89
+
+
+name: Fiber, total dietary
+unit: g
+value: 1.3
+label: cup
+value: 1.6
+label: can (10.5 oz)
+value: 3.9
+
+
+name: Sugars, total
+unit: g
+value: 1.64
+label: cup
+value: 2.02
+label: can (10.5 oz)
+value: 4.89
+
+
+name: Calcium, Ca
+unit: mg
+value: 14.0
+label: cup
+value: 17.0
+label: can (10.5 oz)
+value: 42.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.79
+label: cup
+value: 0.97
+label: can (10.5 oz)
+value: 2.35
+
+
+name: Magnesium, Mg
+unit: mg
+value: 5.0
+label: cup
+value: 6.0
+label: can (10.5 oz)
+value: 15.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 32.0
+label: cup
+value: 39.0
+label: can (10.5 oz)
+value: 95.0
+
+
+name: Potassium, K
+unit: mg
+value: 157.0
+label: cup
+value: 193.0
+label: can (10.5 oz)
+value: 468.0
+
+
+name: Sodium, Na
+unit: mg
+value: 515.0
+label: cup
+value: 633.0
+label: can (10.5 oz)
+value: 1535.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.65
+label: cup
+value: 0.8
+label: can (10.5 oz)
+value: 1.94
+
+
+name: Copper, Cu
+unit: mg
+value: 0.125
+label: cup
+value: 0.154
+label: can (10.5 oz)
+value: 0.372
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.275
+label: cup
+value: 0.338
+label: can (10.5 oz)
+value: 0.82
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 2.2
+label: cup
+value: 2.7
+label: can (10.5 oz)
+value: 6.6
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 1.9
+label: cup
+value: 2.3
+label: can (10.5 oz)
+value: 5.7
+
+
+name: Thiamin
+unit: mg
+value: 0.042
+label: cup
+value: 0.052
+label: can (10.5 oz)
+value: 0.125
+
+
+name: Riboflavin
+unit: mg
+value: 0.037
+label: cup
+value: 0.046
+label: can (10.5 oz)
+value: 0.11
+
+
+name: Niacin
+unit: mg
+value: 0.789
+label: cup
+value: 0.97
+label: can (10.5 oz)
+value: 2.351
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.28
+label: cup
+value: 0.344
+label: can (10.5 oz)
+value: 0.834
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.046
+label: cup
+value: 0.057
+label: can (10.5 oz)
+value: 0.137
+
+
+name: Folate, total
+unit: \u00B5g
+value: 9.0
+label: cup
+value: 11.0
+label: can (10.5 oz)
+value: 27.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: can (10.5 oz)
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 9.0
+label: cup
+value: 11.0
+label: can (10.5 oz)
+value: 27.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 9.0
+label: cup
+value: 11.0
+label: can (10.5 oz)
+value: 27.0
+
+
+name: Choline, total
+unit: mg
+value: 10.3
+label: cup
+value: 12.7
+label: can (10.5 oz)
+value: 30.7
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: can (10.5 oz)
+value: 0.0
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: can (10.5 oz)
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 85.0
+label: cup
+value: 105.0
+label: can (10.5 oz)
+value: 253.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: can (10.5 oz)
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 831.0
+label: cup
+value: 1022.0
+label: can (10.5 oz)
+value: 2476.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 387.0
+label: cup
+value: 476.0
+label: can (10.5 oz)
+value: 1153.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: can (10.5 oz)
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 1707.0
+label: cup
+value: 2100.0
+label: can (10.5 oz)
+value: 5087.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 29.0
+label: cup
+value: 36.0
+label: can (10.5 oz)
+value: 86.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 35.0
+label: cup
+value: 43.0
+label: can (10.5 oz)
+value: 104.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.12
+label: cup
+value: 0.15
+label: can (10.5 oz)
+value: 0.36
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: can (10.5 oz)
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: can (10.5 oz)
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: cup
+value: 0.0
+label: can (10.5 oz)
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 2.3
+label: cup
+value: 2.8
+label: can (10.5 oz)
+value: 6.9
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.36
+label: cup
+value: 0.443
+label: can (10.5 oz)
+value: 1.073
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can (10.5 oz)
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can (10.5 oz)
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can (10.5 oz)
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can (10.5 oz)
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can (10.5 oz)
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.01
+label: cup
+value: 0.012
+label: can (10.5 oz)
+value: 0.03
+
+
+name: 16:0
+unit: g
+value: 0.21
+label: cup
+value: 0.258
+label: can (10.5 oz)
+value: 0.626
+
+
+name: 18:0
+unit: g
+value: 0.11
+label: cup
+value: 0.135
+label: can (10.5 oz)
+value: 0.328
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.45
+label: cup
+value: 0.554
+label: can (10.5 oz)
+value: 1.341
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.02
+label: cup
+value: 0.025
+label: can (10.5 oz)
+value: 0.06
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.42
+label: cup
+value: 0.517
+label: can (10.5 oz)
+value: 1.252
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can (10.5 oz)
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can (10.5 oz)
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.64
+label: cup
+value: 0.787
+label: can (10.5 oz)
+value: 1.907
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.55
+label: cup
+value: 0.677
+label: can (10.5 oz)
+value: 1.639
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.09
+label: cup
+value: 0.111
+label: can (10.5 oz)
+value: 0.268
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can (10.5 oz)
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can (10.5 oz)
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can (10.5 oz)
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can (10.5 oz)
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can (10.5 oz)
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 1.0
+label: cup
+value: 1.0
+label: can (10.5 oz)
+value: 3.0
+
+
+name: Tryptophan
+unit: g
+value: 0.017
+label: cup
+value: 0.021
+label: can (10.5 oz)
+value: 0.051
+
+
+name: Threonine
+unit: g
+value: 0.059
+label: cup
+value: 0.073
+label: can (10.5 oz)
+value: 0.176
+
+
+name: Isoleucine
+unit: g
+value: 0.074
+label: cup
+value: 0.091
+label: can (10.5 oz)
+value: 0.221
+
+
+name: Leucine
+unit: g
+value: 0.134
+label: cup
+value: 0.165
+label: can (10.5 oz)
+value: 0.399
+
+
+name: Lysine
+unit: g
+value: 0.103
+label: cup
+value: 0.127
+label: can (10.5 oz)
+value: 0.307
+
+
+name: Methionine
+unit: g
+value: 0.025
+label: cup
+value: 0.031
+label: can (10.5 oz)
+value: 0.074
+
+
+name: Cystine
+unit: g
+value: 0.019
+label: cup
+value: 0.023
+label: can (10.5 oz)
+value: 0.057
+
+
+name: Phenylalanine
+unit: g
+value: 0.087
+label: cup
+value: 0.107
+label: can (10.5 oz)
+value: 0.259
+
+
+name: Tyrosine
+unit: g
+value: 0.048
+label: cup
+value: 0.059
+label: can (10.5 oz)
+value: 0.143
+
+
+name: Valine
+unit: g
+value: 0.102
+label: cup
+value: 0.125
+label: can (10.5 oz)
+value: 0.304
+
+
+name: Arginine
+unit: g
+value: 0.112
+label: cup
+value: 0.138
+label: can (10.5 oz)
+value: 0.334
+
+
+name: Histidine
+unit: g
+value: 0.041
+label: cup
+value: 0.05
+label: can (10.5 oz)
+value: 0.122
+
+
+name: Alanine
+unit: g
+value: 0.14
+label: cup
+value: 0.172
+label: can (10.5 oz)
+value: 0.417
+
+
+name: Aspartic acid
+unit: g
+value: 0.207
+label: cup
+value: 0.255
+label: can (10.5 oz)
+value: 0.617
+
+
+name: Glutamic acid
+unit: g
+value: 0.692
+label: cup
+value: 0.851
+label: can (10.5 oz)
+value: 2.062
+
+
+name: Glycine
+unit: g
+value: 0.223
+label: cup
+value: 0.274
+label: can (10.5 oz)
+value: 0.665
+
+
+name: Proline
+unit: g
+value: 0.184
+label: cup
+value: 0.226
+label: can (10.5 oz)
+value: 0.548
+
+
+name: Serine
+unit: g
+value: 0.082
+label: cup
+value: 0.101
+label: can (10.5 oz)
+value: 0.244
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can (10.5 oz)
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: can (10.5 oz)
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: can (10.5 oz)
+value: 0.0
+
+
+

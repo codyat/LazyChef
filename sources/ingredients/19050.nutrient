@@ -1,0 +1,565 @@
+ndbno: 19050
+
+
+name: Snacks, pretzels, hard, whole-wheat including both salted and unsalted
+
+
+name: Water
+unit: g
+value: 3.9
+label: oz
+value: 1.11
+label: oz
+value: 2.22
+
+
+name: Energy
+unit: kcal
+value: 362.0
+label: oz
+value: 103.0
+label: oz
+value: 206.0
+
+
+name: Energy
+unit: kJ
+value: 1514.0
+label: oz
+value: 429.0
+label: oz
+value: 863.0
+
+
+name: Protein
+unit: g
+value: 11.1
+label: oz
+value: 3.15
+label: oz
+value: 6.33
+
+
+name: Total lipid (fat)
+unit: g
+value: 2.6
+label: oz
+value: 0.74
+label: oz
+value: 1.48
+
+
+name: Ash
+unit: g
+value: 1.1
+label: oz
+value: 0.31
+label: oz
+value: 0.63
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 81.3
+label: oz
+value: 23.05
+label: oz
+value: 46.34
+
+
+name: Fiber, total dietary
+unit: g
+value: 7.7
+label: oz
+value: 2.2
+label: oz
+value: 4.4
+
+
+name: Calcium, Ca
+unit: mg
+value: 28.0
+label: oz
+value: 8.0
+label: oz
+value: 16.0
+
+
+name: Iron, Fe
+unit: mg
+value: 2.69
+label: oz
+value: 0.76
+label: oz
+value: 1.53
+
+
+name: Magnesium, Mg
+unit: mg
+value: 30.0
+label: oz
+value: 9.0
+label: oz
+value: 17.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 125.0
+label: oz
+value: 35.0
+label: oz
+value: 71.0
+
+
+name: Potassium, K
+unit: mg
+value: 430.0
+label: oz
+value: 122.0
+label: oz
+value: 245.0
+
+
+name: Sodium, Na
+unit: mg
+value: 203.0
+label: oz
+value: 58.0
+label: oz
+value: 116.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.62
+label: oz
+value: 0.18
+label: oz
+value: 0.35
+
+
+name: Copper, Cu
+unit: mg
+value: 0.28
+label: oz
+value: 0.079
+label: oz
+value: 0.16
+
+
+name: Manganese, Mn
+unit: mg
+value: 2.662
+label: oz
+value: 0.755
+label: oz
+value: 1.517
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 1.0
+label: oz
+value: 0.3
+label: oz
+value: 0.6
+
+
+name: Thiamin
+unit: mg
+value: 0.44
+label: oz
+value: 0.125
+label: oz
+value: 0.251
+
+
+name: Riboflavin
+unit: mg
+value: 0.291
+label: oz
+value: 0.082
+label: oz
+value: 0.166
+
+
+name: Niacin
+unit: mg
+value: 6.537
+label: oz
+value: 1.853
+label: oz
+value: 3.726
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.812
+label: oz
+value: 0.23
+label: oz
+value: 0.463
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.274
+label: oz
+value: 0.078
+label: oz
+value: 0.156
+
+
+name: Folate, total
+unit: \u00B5g
+value: 54.0
+label: oz
+value: 15.0
+label: oz
+value: 31.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 54.0
+label: oz
+value: 15.0
+label: oz
+value: 31.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 54.0
+label: oz
+value: 15.0
+label: oz
+value: 31.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 0.0
+label: oz
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.56
+label: oz
+value: 0.159
+label: oz
+value: 0.319
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.03
+label: oz
+value: 0.009
+label: oz
+value: 0.017
+
+
+name: 14:0
+unit: g
+value: 0.02
+label: oz
+value: 0.006
+label: oz
+value: 0.011
+
+
+name: 16:0
+unit: g
+value: 0.34
+label: oz
+value: 0.096
+label: oz
+value: 0.194
+
+
+name: 18:0
+unit: g
+value: 0.17
+label: oz
+value: 0.048
+label: oz
+value: 0.097
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 1.03
+label: oz
+value: 0.292
+label: oz
+value: 0.587
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 1.03
+label: oz
+value: 0.292
+label: oz
+value: 0.587
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.83
+label: oz
+value: 0.235
+label: oz
+value: 0.473
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.79
+label: oz
+value: 0.224
+label: oz
+value: 0.45
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.04
+label: oz
+value: 0.011
+label: oz
+value: 0.023
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Tryptophan
+unit: g
+value: 0.172
+label: oz
+value: 0.049
+label: oz
+value: 0.098
+
+
+name: Threonine
+unit: g
+value: 0.325
+label: oz
+value: 0.092
+label: oz
+value: 0.185
+
+
+name: Isoleucine
+unit: g
+value: 0.412
+label: oz
+value: 0.117
+label: oz
+value: 0.235
+
+
+name: Leucine
+unit: g
+value: 0.75
+label: oz
+value: 0.213
+label: oz
+value: 0.428
+
+
+name: Lysine
+unit: g
+value: 0.307
+label: oz
+value: 0.087
+label: oz
+value: 0.175
+
+
+name: Methionine
+unit: g
+value: 0.178
+label: oz
+value: 0.05
+label: oz
+value: 0.101
+
+
+name: Cystine
+unit: g
+value: 0.252
+label: oz
+value: 0.071
+label: oz
+value: 0.144
+
+
+name: Phenylalanine
+unit: g
+value: 0.523
+label: oz
+value: 0.148
+label: oz
+value: 0.298
+
+
+name: Tyrosine
+unit: g
+value: 0.328
+label: oz
+value: 0.093
+label: oz
+value: 0.187
+
+
+name: Valine
+unit: g
+value: 0.504
+label: oz
+value: 0.143
+label: oz
+value: 0.287
+
+
+name: Arginine
+unit: g
+value: 0.563
+label: oz
+value: 0.16
+label: oz
+value: 0.321
+
+
+name: Histidine
+unit: g
+value: 0.258
+label: oz
+value: 0.073
+label: oz
+value: 0.147
+
+
+name: Alanine
+unit: g
+value: 0.399
+label: oz
+value: 0.113
+label: oz
+value: 0.227
+
+
+name: Aspartic acid
+unit: g
+value: 0.592
+label: oz
+value: 0.168
+label: oz
+value: 0.337
+
+
+name: Glutamic acid
+unit: g
+value: 3.414
+label: oz
+value: 0.968
+label: oz
+value: 1.946
+
+
+name: Glycine
+unit: g
+value: 0.456
+label: oz
+value: 0.129
+label: oz
+value: 0.26
+
+
+name: Proline
+unit: g
+value: 1.14
+label: oz
+value: 0.323
+label: oz
+value: 0.65
+
+
+name: Serine
+unit: g
+value: 0.523
+label: oz
+value: 0.148
+label: oz
+value: 0.298
+
+
+

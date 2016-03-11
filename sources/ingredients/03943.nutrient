@@ -1,0 +1,627 @@
+ndbno: 03943
+
+
+name: Infant formula, MEAD JOHNSON, ENFAMIL, AR LIPIL, powder, with ARA and DHA
+
+
+name: Water
+unit: g
+value: 3.0
+label: scoop
+value: 0.26
+label: serving 100 ml
+value: 3.18
+
+
+name: Energy
+unit: kcal
+value: 509.0
+label: scoop
+value: 44.0
+label: serving 100 ml
+value: 540.0
+
+
+name: Energy
+unit: kJ
+value: 2129.0
+label: scoop
+value: 185.0
+label: serving 100 ml
+value: 2257.0
+
+
+name: Protein
+unit: g
+value: 12.73
+label: scoop
+value: 1.11
+label: serving 100 ml
+value: 13.49
+
+
+name: Total lipid (fat)
+unit: g
+value: 25.97
+label: scoop
+value: 2.26
+label: serving 100 ml
+value: 27.53
+
+
+name: Ash
+unit: g
+value: 2.46
+label: scoop
+value: 0.21
+label: serving 100 ml
+value: 2.61
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 56.03
+label: scoop
+value: 4.87
+label: serving 100 ml
+value: 59.39
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: scoop
+value: 0.0
+label: serving 100 ml
+value: 0.0
+
+
+name: Sugars, total
+unit: g
+value: 56.03
+label: scoop
+value: 4.87
+label: serving 100 ml
+value: 59.39
+
+
+name: Calcium, Ca
+unit: mg
+value: 397.0
+label: scoop
+value: 35.0
+label: serving 100 ml
+value: 421.0
+
+
+name: Iron, Fe
+unit: mg
+value: 9.16
+label: scoop
+value: 0.8
+label: serving 100 ml
+value: 9.71
+
+
+name: Magnesium, Mg
+unit: mg
+value: 41.0
+label: scoop
+value: 4.0
+label: serving 100 ml
+value: 43.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 269.0
+label: scoop
+value: 23.0
+label: serving 100 ml
+value: 285.0
+
+
+name: Potassium, K
+unit: mg
+value: 550.0
+label: scoop
+value: 48.0
+label: serving 100 ml
+value: 583.0
+
+
+name: Sodium, Na
+unit: mg
+value: 204.0
+label: scoop
+value: 18.0
+label: serving 100 ml
+value: 216.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 5.09
+label: scoop
+value: 0.44
+label: serving 100 ml
+value: 5.4
+
+
+name: Copper, Cu
+unit: mg
+value: 0.382
+label: scoop
+value: 0.033
+label: serving 100 ml
+value: 0.405
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 14.3
+label: scoop
+value: 1.2
+label: serving 100 ml
+value: 15.2
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 61.1
+label: scoop
+value: 5.3
+label: serving 100 ml
+value: 64.8
+
+
+name: Thiamin
+unit: mg
+value: 0.408
+label: scoop
+value: 0.035
+label: serving 100 ml
+value: 0.432
+
+
+name: Riboflavin
+unit: mg
+value: 0.713
+label: scoop
+value: 0.062
+label: serving 100 ml
+value: 0.756
+
+
+name: Niacin
+unit: mg
+value: 5.088
+label: scoop
+value: 0.443
+label: serving 100 ml
+value: 5.393
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.306
+label: scoop
+value: 0.027
+label: serving 100 ml
+value: 0.324
+
+
+name: Folate, total
+unit: \u00B5g
+value: 82.0
+label: scoop
+value: 7.0
+label: serving 100 ml
+value: 87.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 82.0
+label: scoop
+value: 7.0
+label: serving 100 ml
+value: 87.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 0.0
+label: scoop
+value: 0.0
+label: serving 100 ml
+value: 0.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 139.0
+label: scoop
+value: 12.0
+label: serving 100 ml
+value: 147.0
+
+
+name: Choline, total
+unit: mg
+value: 62.0
+label: scoop
+value: 5.4
+label: serving 100 ml
+value: 65.7
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 1.53
+label: scoop
+value: 0.13
+label: serving 100 ml
+value: 1.62
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 1.53
+label: scoop
+value: 0.13
+label: serving 100 ml
+value: 1.62
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 459.0
+label: scoop
+value: 40.0
+label: serving 100 ml
+value: 487.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 459.0
+label: scoop
+value: 40.0
+label: serving 100 ml
+value: 487.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 0.0
+label: scoop
+value: 0.0
+label: serving 100 ml
+value: 0.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: scoop
+value: 0.0
+label: serving 100 ml
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: scoop
+value: 0.0
+label: serving 100 ml
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 1528.0
+label: scoop
+value: 133.0
+label: serving 100 ml
+value: 1620.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: scoop
+value: 0.0
+label: serving 100 ml
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 0.0
+label: scoop
+value: 0.0
+label: serving 100 ml
+value: 0.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 4.6
+label: scoop
+value: 0.4
+label: serving 100 ml
+value: 4.88
+
+
+name: Vitamin E, added
+unit: mg
+value: 4.6
+label: scoop
+value: 0.4
+label: serving 100 ml
+value: 4.88
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 7.7
+label: scoop
+value: 0.7
+label: serving 100 ml
+value: 8.2
+
+
+name: Vitamin D
+unit: IU
+value: 306.0
+label: scoop
+value: 27.0
+label: serving 100 ml
+value: 324.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 40.9
+label: scoop
+value: 3.6
+label: serving 100 ml
+value: 43.4
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 10.942
+label: scoop
+value: 0.952
+label: serving 100 ml
+value: 11.599
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: scoop
+value: 0.0
+label: serving 100 ml
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.029
+label: scoop
+value: 0.003
+label: serving 100 ml
+value: 0.031
+
+
+name: 8:0
+unit: g
+value: 0.396
+label: scoop
+value: 0.034
+label: serving 100 ml
+value: 0.42
+
+
+name: 10:0
+unit: g
+value: 0.299
+label: scoop
+value: 0.026
+label: serving 100 ml
+value: 0.317
+
+
+name: 12:0
+unit: g
+value: 2.412
+label: scoop
+value: 0.21
+label: serving 100 ml
+value: 2.557
+
+
+name: 14:0
+unit: g
+value: 1.071
+label: scoop
+value: 0.093
+label: serving 100 ml
+value: 1.135
+
+
+name: 16:0
+unit: g
+value: 5.693
+label: scoop
+value: 0.495
+label: serving 100 ml
+value: 6.035
+
+
+name: 18:0
+unit: g
+value: 1.042
+label: scoop
+value: 0.091
+label: serving 100 ml
+value: 1.105
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 9.292
+label: scoop
+value: 0.808
+label: serving 100 ml
+value: 9.85
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.029
+label: scoop
+value: 0.003
+label: serving 100 ml
+value: 0.031
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 9.263
+label: scoop
+value: 0.806
+label: serving 100 ml
+value: 9.819
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: scoop
+value: 0.0
+label: serving 100 ml
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: scoop
+value: 0.0
+label: serving 100 ml
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 5.124
+label: scoop
+value: 0.446
+label: serving 100 ml
+value: 5.431
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 4.439
+label: scoop
+value: 0.386
+label: serving 100 ml
+value: 4.705
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.434
+label: scoop
+value: 0.038
+label: serving 100 ml
+value: 0.46
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: scoop
+value: 0.0
+label: serving 100 ml
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.164
+label: scoop
+value: 0.014
+label: serving 100 ml
+value: 0.174
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: scoop
+value: 0.0
+label: serving 100 ml
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: scoop
+value: 0.0
+label: serving 100 ml
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.087
+label: scoop
+value: 0.008
+label: serving 100 ml
+value: 0.092
+
+
+name: Cholesterol
+unit: mg
+value: 17.0
+label: scoop
+value: 1.0
+label: serving 100 ml
+value: 18.0
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: scoop
+value: 0.0
+label: serving 100 ml
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: scoop
+value: 0.0
+label: serving 100 ml
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: scoop
+value: 0.0
+label: serving 100 ml
+value: 0.0
+
+

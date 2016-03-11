@@ -1,0 +1,941 @@
+ndbno: 21292
+
+
+name: LITTLE CAESARS 14\ Cheese Pizza, Thin Crust
+
+
+name: Water
+unit: g
+value: 41.21
+label: slice
+value: 19.78
+label: pie
+value: 231.6
+label: pie
+value: 149.18
+
+
+name: Energy
+unit: kcal
+value: 309.0
+label: slice
+value: 148.0
+label: pie
+value: 1737.0
+label: pie
+value: 1119.0
+
+
+name: Energy
+unit: kJ
+value: 1294.0
+label: slice
+value: 621.0
+label: pie
+value: 7272.0
+label: pie
+value: 4684.0
+
+
+name: Protein
+unit: g
+value: 16.23
+label: slice
+value: 7.79
+label: pie
+value: 91.21
+label: pie
+value: 58.75
+
+
+name: Total lipid (fat)
+unit: g
+value: 16.99
+label: slice
+value: 8.16
+label: pie
+value: 95.48
+label: pie
+value: 61.5
+
+
+name: Ash
+unit: g
+value: 2.73
+label: slice
+value: 1.31
+label: pie
+value: 15.34
+label: pie
+value: 9.88
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 22.85
+label: slice
+value: 10.97
+label: pie
+value: 128.42
+label: pie
+value: 82.72
+
+
+name: Fiber, total dietary
+unit: g
+value: 1.6
+label: slice
+value: 0.8
+label: pie
+value: 9.0
+label: pie
+value: 5.8
+
+
+name: Sugars, total
+unit: g
+value: 2.76
+label: slice
+value: 1.32
+label: pie
+value: 15.51
+label: pie
+value: 9.99
+
+
+name: Sucrose
+unit: g
+value: 0.0
+label: slice
+value: 0.0
+label: pie
+value: 0.0
+label: pie
+value: 0.0
+
+
+name: Glucose (dextrose)
+unit: g
+value: 0.89
+label: slice
+value: 0.43
+label: pie
+value: 5.0
+label: pie
+value: 3.22
+
+
+name: Fructose
+unit: g
+value: 0.89
+label: slice
+value: 0.43
+label: pie
+value: 5.0
+label: pie
+value: 3.22
+
+
+name: Lactose
+unit: g
+value: 0.07
+label: slice
+value: 0.03
+label: pie
+value: 0.39
+label: pie
+value: 0.25
+
+
+name: Maltose
+unit: g
+value: 0.66
+label: slice
+value: 0.32
+label: pie
+value: 3.71
+label: pie
+value: 2.39
+
+
+name: Galactose
+unit: g
+value: 0.25
+label: slice
+value: 0.12
+label: pie
+value: 1.4
+label: pie
+value: 0.9
+
+
+name: Starch
+unit: g
+value: 17.7
+label: slice
+value: 8.5
+label: pie
+value: 99.47
+label: pie
+value: 64.07
+
+
+name: Calcium, Ca
+unit: mg
+value: 422.0
+label: slice
+value: 203.0
+label: pie
+value: 2372.0
+label: pie
+value: 1528.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.64
+label: slice
+value: 0.31
+label: pie
+value: 3.6
+label: pie
+value: 2.32
+
+
+name: Magnesium, Mg
+unit: mg
+value: 28.0
+label: slice
+value: 13.0
+label: pie
+value: 157.0
+label: pie
+value: 101.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 297.0
+label: slice
+value: 143.0
+label: pie
+value: 1669.0
+label: pie
+value: 1075.0
+
+
+name: Potassium, K
+unit: mg
+value: 177.0
+label: slice
+value: 85.0
+label: pie
+value: 995.0
+label: pie
+value: 641.0
+
+
+name: Sodium, Na
+unit: mg
+value: 455.0
+label: slice
+value: 218.0
+label: pie
+value: 2557.0
+label: pie
+value: 1647.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 2.12
+label: slice
+value: 1.02
+label: pie
+value: 11.91
+label: pie
+value: 7.67
+
+
+name: Copper, Cu
+unit: mg
+value: 0.082
+label: slice
+value: 0.039
+label: pie
+value: 0.461
+label: pie
+value: 0.297
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.211
+label: slice
+value: 0.101
+label: pie
+value: 1.186
+label: pie
+value: 0.764
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 28.1
+label: slice
+value: 13.5
+label: pie
+value: 157.9
+label: pie
+value: 101.7
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: slice
+value: 0.0
+label: pie
+value: 0.0
+label: pie
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.139
+label: slice
+value: 0.067
+label: pie
+value: 0.781
+label: pie
+value: 0.503
+
+
+name: Riboflavin
+unit: mg
+value: 0.185
+label: slice
+value: 0.089
+label: pie
+value: 1.04
+label: pie
+value: 0.67
+
+
+name: Niacin
+unit: mg
+value: 0.85
+label: slice
+value: 0.408
+label: pie
+value: 4.777
+label: pie
+value: 3.077
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.425
+label: slice
+value: 0.204
+label: pie
+value: 2.388
+label: pie
+value: 1.538
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.71
+label: slice
+value: 0.34
+label: pie
+value: 3.99
+label: pie
+value: 2.57
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 123.0
+label: slice
+value: 59.0
+label: pie
+value: 691.0
+label: pie
+value: 445.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 116.0
+label: slice
+value: 56.0
+label: pie
+value: 652.0
+label: pie
+value: 420.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 542.0
+label: slice
+value: 260.0
+label: pie
+value: 3046.0
+label: pie
+value: 1962.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 1.21
+label: slice
+value: 0.58
+label: pie
+value: 6.8
+label: pie
+value: 4.38
+
+
+name: Tocopherol, beta
+unit: mg
+value: 0.06
+label: slice
+value: 0.03
+label: pie
+value: 0.34
+label: pie
+value: 0.22
+
+
+name: Tocopherol, gamma
+unit: mg
+value: 2.36
+label: slice
+value: 1.13
+label: pie
+value: 13.26
+label: pie
+value: 8.54
+
+
+name: Tocopherol, delta
+unit: mg
+value: 0.87
+label: slice
+value: 0.42
+label: pie
+value: 4.89
+label: pie
+value: 3.15
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 9.6
+label: slice
+value: 4.6
+label: pie
+value: 54.0
+label: pie
+value: 34.8
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 7.327
+label: slice
+value: 3.517
+label: pie
+value: 41.178
+label: pie
+value: 26.524
+
+
+name: 8:0
+unit: g
+value: 0.12
+label: slice
+value: 0.058
+label: pie
+value: 0.674
+label: pie
+value: 0.434
+
+
+name: 10:0
+unit: g
+value: 0.274
+label: slice
+value: 0.132
+label: pie
+value: 1.54
+label: pie
+value: 0.992
+
+
+name: 12:0
+unit: g
+value: 0.318
+label: slice
+value: 0.153
+label: pie
+value: 1.787
+label: pie
+value: 1.151
+
+
+name: 14:0
+unit: g
+value: 1.078
+label: slice
+value: 0.517
+label: pie
+value: 6.058
+label: pie
+value: 3.902
+
+
+name: 15:0
+unit: g
+value: 0.109
+label: slice
+value: 0.052
+label: pie
+value: 0.613
+label: pie
+value: 0.395
+
+
+name: 16:0
+unit: g
+value: 3.669
+label: slice
+value: 1.761
+label: pie
+value: 20.62
+label: pie
+value: 13.282
+
+
+name: 17:0
+unit: g
+value: 0.068
+label: slice
+value: 0.033
+label: pie
+value: 0.382
+label: pie
+value: 0.246
+
+
+name: 18:0
+unit: g
+value: 1.636
+label: slice
+value: 0.785
+label: pie
+value: 9.194
+label: pie
+value: 5.922
+
+
+name: 20:0
+unit: g
+value: 0.032
+label: slice
+value: 0.015
+label: pie
+value: 0.18
+label: pie
+value: 0.116
+
+
+name: 22:0
+unit: g
+value: 0.021
+label: slice
+value: 0.01
+label: pie
+value: 0.118
+label: pie
+value: 0.076
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 4.42
+label: slice
+value: 2.122
+label: pie
+value: 24.84
+label: pie
+value: 16.0
+
+
+name: 14:1
+unit: g
+value: 0.084
+label: slice
+value: 0.04
+label: pie
+value: 0.472
+label: pie
+value: 0.304
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: slice
+value: 0.0
+label: pie
+value: 0.0
+label: pie
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.185
+label: slice
+value: 0.089
+label: pie
+value: 1.04
+label: pie
+value: 0.67
+
+
+name: 17:1
+unit: g
+value: 0.0
+label: slice
+value: 0.0
+label: pie
+value: 0.0
+label: pie
+value: 0.0
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 4.118
+label: slice
+value: 1.977
+label: pie
+value: 23.143
+label: pie
+value: 14.907
+
+
+name: 20:1
+unit: g
+value: 0.034
+label: slice
+value: 0.016
+label: pie
+value: 0.191
+label: pie
+value: 0.123
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 3.161
+label: slice
+value: 1.517
+label: pie
+value: 17.765
+label: pie
+value: 11.443
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 2.763
+label: slice
+value: 1.326
+label: pie
+value: 15.528
+label: pie
+value: 10.002
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.378
+label: slice
+value: 0.181
+label: pie
+value: 2.124
+label: pie
+value: 1.368
+
+
+name: 18:3 n-3 c,c,c (ALA)
+unit: g
+value: 0.378
+label: slice
+value: 0.181
+label: pie
+value: 2.124
+label: pie
+value: 1.368
+
+
+name: 18:3 n-6 c,c,c
+unit: g
+value: 0.0
+label: slice
+value: 0.0
+label: pie
+value: 0.0
+label: pie
+value: 0.0
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.0
+label: slice
+value: 0.0
+label: pie
+value: 0.0
+label: pie
+value: 0.0
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.0
+label: slice
+value: 0.0
+label: pie
+value: 0.0
+label: pie
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.021
+label: slice
+value: 0.01
+label: pie
+value: 0.118
+label: pie
+value: 0.076
+
+
+name: Cholesterol
+unit: mg
+value: 39.0
+label: slice
+value: 19.0
+label: pie
+value: 219.0
+label: pie
+value: 141.0
+
+
+name: Tryptophan
+unit: g
+value: 0.136
+label: slice
+value: 0.065
+label: pie
+value: 0.764
+label: pie
+value: 0.492
+
+
+name: Threonine
+unit: g
+value: 0.556
+label: slice
+value: 0.267
+label: pie
+value: 3.125
+label: pie
+value: 2.013
+
+
+name: Isoleucine
+unit: g
+value: 0.798
+label: slice
+value: 0.383
+label: pie
+value: 4.485
+label: pie
+value: 2.889
+
+
+name: Leucine
+unit: g
+value: 1.655
+label: slice
+value: 0.794
+label: pie
+value: 9.301
+label: pie
+value: 5.991
+
+
+name: Lysine
+unit: g
+value: 1.328
+label: slice
+value: 0.637
+label: pie
+value: 7.463
+label: pie
+value: 4.807
+
+
+name: Methionine
+unit: g
+value: 0.461
+label: slice
+value: 0.221
+label: pie
+value: 2.591
+label: pie
+value: 1.669
+
+
+name: Cystine
+unit: g
+value: 0.436
+label: slice
+value: 0.209
+label: pie
+value: 2.45
+label: pie
+value: 1.578
+
+
+name: Phenylalanine
+unit: g
+value: 0.963
+label: slice
+value: 0.462
+label: pie
+value: 5.412
+label: pie
+value: 3.486
+
+
+name: Tyrosine
+unit: g
+value: 0.818
+label: slice
+value: 0.393
+label: pie
+value: 4.597
+label: pie
+value: 2.961
+
+
+name: Valine
+unit: g
+value: 1.051
+label: slice
+value: 0.504
+label: pie
+value: 5.907
+label: pie
+value: 3.805
+
+
+name: Arginine
+unit: g
+value: 0.699
+label: slice
+value: 0.336
+label: pie
+value: 3.928
+label: pie
+value: 2.53
+
+
+name: Histidine
+unit: g
+value: 0.257
+label: slice
+value: 0.123
+label: pie
+value: 1.444
+label: pie
+value: 0.93
+
+
+name: Alanine
+unit: g
+value: 0.514
+label: slice
+value: 0.247
+label: pie
+value: 2.889
+label: pie
+value: 1.861
+
+
+name: Aspartic acid
+unit: g
+value: 1.303
+label: slice
+value: 0.625
+label: pie
+value: 7.323
+label: pie
+value: 4.717
+
+
+name: Glutamic acid
+unit: g
+value: 4.781
+label: slice
+value: 2.295
+label: pie
+value: 26.869
+label: pie
+value: 17.307
+
+
+name: Glycine
+unit: g
+value: 0.396
+label: slice
+value: 0.19
+label: pie
+value: 2.226
+label: pie
+value: 1.434
+
+
+name: Proline
+unit: g
+value: 1.688
+label: slice
+value: 0.81
+label: pie
+value: 9.487
+label: pie
+value: 6.111
+
+
+name: Serine
+unit: g
+value: 1.122
+label: slice
+value: 0.539
+label: pie
+value: 6.306
+label: pie
+value: 4.062
+
+

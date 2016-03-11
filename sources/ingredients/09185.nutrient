@@ -1,0 +1,413 @@
+ndbno: 09185
+
+
+name: Melon balls, frozen
+
+
+name: Water
+unit: g
+value: 90.26
+label: cup, unthawed
+value: 156.15
+
+
+name: Energy
+unit: kcal
+value: 33.0
+label: cup, unthawed
+value: 57.0
+
+
+name: Energy
+unit: kJ
+value: 138.0
+label: cup, unthawed
+value: 239.0
+
+
+name: Protein
+unit: g
+value: 0.84
+label: cup, unthawed
+value: 1.45
+
+
+name: Total lipid (fat)
+unit: g
+value: 0.25
+label: cup, unthawed
+value: 0.43
+
+
+name: Ash
+unit: g
+value: 0.71
+label: cup, unthawed
+value: 1.23
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 7.94
+label: cup, unthawed
+value: 13.74
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.7
+label: cup, unthawed
+value: 1.2
+
+
+name: Calcium, Ca
+unit: mg
+value: 10.0
+label: cup, unthawed
+value: 17.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.29
+label: cup, unthawed
+value: 0.5
+
+
+name: Magnesium, Mg
+unit: mg
+value: 14.0
+label: cup, unthawed
+value: 24.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 12.0
+label: cup, unthawed
+value: 21.0
+
+
+name: Potassium, K
+unit: mg
+value: 280.0
+label: cup, unthawed
+value: 484.0
+
+
+name: Sodium, Na
+unit: mg
+value: 31.0
+label: cup, unthawed
+value: 54.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.17
+label: cup, unthawed
+value: 0.29
+
+
+name: Copper, Cu
+unit: mg
+value: 0.06
+label: cup, unthawed
+value: 0.104
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.04
+label: cup, unthawed
+value: 0.069
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 6.2
+label: cup, unthawed
+value: 10.7
+
+
+name: Thiamin
+unit: mg
+value: 0.166
+label: cup, unthawed
+value: 0.287
+
+
+name: Riboflavin
+unit: mg
+value: 0.022
+label: cup, unthawed
+value: 0.038
+
+
+name: Niacin
+unit: mg
+value: 0.64
+label: cup, unthawed
+value: 1.107
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.163
+label: cup, unthawed
+value: 0.282
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.106
+label: cup, unthawed
+value: 0.183
+
+
+name: Folate, total
+unit: \u00B5g
+value: 26.0
+label: cup, unthawed
+value: 45.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: cup, unthawed
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 26.0
+label: cup, unthawed
+value: 45.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 26.0
+label: cup, unthawed
+value: 45.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: cup, unthawed
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 89.0
+label: cup, unthawed
+value: 154.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: cup, unthawed
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 1774.0
+label: cup, unthawed
+value: 3069.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: cup, unthawed
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: cup, unthawed
+value: 0.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.064
+label: cup, unthawed
+value: 0.111
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: cup, unthawed
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: cup, unthawed
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: cup, unthawed
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: cup, unthawed
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.002
+label: cup, unthawed
+value: 0.003
+
+
+name: 14:0
+unit: g
+value: 0.002
+label: cup, unthawed
+value: 0.003
+
+
+name: 16:0
+unit: g
+value: 0.052
+label: cup, unthawed
+value: 0.09
+
+
+name: 18:0
+unit: g
+value: 0.006
+label: cup, unthawed
+value: 0.01
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.006
+label: cup, unthawed
+value: 0.01
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.0
+label: cup, unthawed
+value: 0.0
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.004
+label: cup, unthawed
+value: 0.007
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: cup, unthawed
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: cup, unthawed
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.098
+label: cup, unthawed
+value: 0.17
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.042
+label: cup, unthawed
+value: 0.073
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.056
+label: cup, unthawed
+value: 0.097
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: cup, unthawed
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: cup, unthawed
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: cup, unthawed
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: cup, unthawed
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: cup, unthawed
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.0
+label: cup, unthawed
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: cup, unthawed
+value: 0.0
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: cup, unthawed
+value: 0.0
+
+
+

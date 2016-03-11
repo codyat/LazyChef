@@ -1,0 +1,979 @@
+ndbno: 10923
+
+
+name: Pork, cured, ham with natural juices, rump, bone-in, separable lean and fat, heated, roasted
+
+
+name: Water
+unit: g
+value: 64.38
+label: serving (3 oz)
+value: 54.72
+label: roast rump
+value: 1720.88
+
+
+name: Energy
+unit: kcal
+value: 177.0
+label: serving (3 oz)
+value: 150.0
+label: roast rump
+value: 4731.0
+
+
+name: Energy
+unit: kJ
+value: 740.0
+label: serving (3 oz)
+value: 629.0
+label: roast rump
+value: 19780.0
+
+
+name: Protein
+unit: g
+value: 22.47
+label: serving (3 oz)
+value: 19.1
+label: roast rump
+value: 600.62
+
+
+name: Total lipid (fat)
+unit: g
+value: 9.39
+label: serving (3 oz)
+value: 7.98
+label: roast rump
+value: 250.99
+
+
+name: Ash
+unit: g
+value: 3.17
+label: serving (3 oz)
+value: 2.69
+label: roast rump
+value: 84.73
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 0.6
+label: serving (3 oz)
+value: 0.51
+label: roast rump
+value: 16.04
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: serving (3 oz)
+value: 0.0
+label: roast rump
+value: 0.0
+
+
+name: Sugars, total
+unit: g
+value: 0.45
+label: serving (3 oz)
+value: 0.38
+label: roast rump
+value: 12.03
+
+
+name: Sucrose
+unit: g
+value: 0.06
+label: serving (3 oz)
+value: 0.05
+label: roast rump
+value: 1.6
+
+
+name: Glucose (dextrose)
+unit: g
+value: 0.24
+label: serving (3 oz)
+value: 0.2
+label: roast rump
+value: 6.42
+
+
+name: Fructose
+unit: g
+value: 0.15
+label: serving (3 oz)
+value: 0.13
+label: roast rump
+value: 4.01
+
+
+name: Lactose
+unit: g
+value: 0.0
+label: serving (3 oz)
+value: 0.0
+label: roast rump
+value: 0.0
+
+
+name: Maltose
+unit: g
+value: 0.0
+label: serving (3 oz)
+value: 0.0
+label: roast rump
+value: 0.0
+
+
+name: Galactose
+unit: g
+value: 0.0
+label: serving (3 oz)
+value: 0.0
+label: roast rump
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 10.0
+label: serving (3 oz)
+value: 8.0
+label: roast rump
+value: 267.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.99
+label: serving (3 oz)
+value: 0.84
+label: roast rump
+value: 26.46
+
+
+name: Magnesium, Mg
+unit: mg
+value: 21.0
+label: serving (3 oz)
+value: 18.0
+label: roast rump
+value: 561.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 260.0
+label: serving (3 oz)
+value: 221.0
+label: roast rump
+value: 6950.0
+
+
+name: Potassium, K
+unit: mg
+value: 477.0
+label: serving (3 oz)
+value: 405.0
+label: roast rump
+value: 12750.0
+
+
+name: Sodium, Na
+unit: mg
+value: 841.0
+label: serving (3 oz)
+value: 715.0
+label: roast rump
+value: 22480.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 2.35
+label: serving (3 oz)
+value: 2.0
+label: roast rump
+value: 62.82
+
+
+name: Copper, Cu
+unit: mg
+value: 0.12
+label: serving (3 oz)
+value: 0.102
+label: roast rump
+value: 3.208
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.022
+label: serving (3 oz)
+value: 0.019
+label: roast rump
+value: 0.588
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 46.2
+label: serving (3 oz)
+value: 39.3
+label: roast rump
+value: 1234.9
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: serving (3 oz)
+value: 0.0
+label: roast rump
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.327
+label: serving (3 oz)
+value: 0.278
+label: roast rump
+value: 8.741
+
+
+name: Riboflavin
+unit: mg
+value: 0.222
+label: serving (3 oz)
+value: 0.189
+label: roast rump
+value: 5.934
+
+
+name: Niacin
+unit: mg
+value: 7.127
+label: serving (3 oz)
+value: 6.058
+label: roast rump
+value: 190.505
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.478
+label: serving (3 oz)
+value: 0.406
+label: roast rump
+value: 12.777
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.364
+label: serving (3 oz)
+value: 0.309
+label: roast rump
+value: 9.73
+
+
+name: Folate, total
+unit: \u00B5g
+value: 1.0
+label: serving (3 oz)
+value: 1.0
+label: roast rump
+value: 27.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: serving (3 oz)
+value: 0.0
+label: roast rump
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 1.0
+label: serving (3 oz)
+value: 1.0
+label: roast rump
+value: 27.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 1.0
+label: serving (3 oz)
+value: 1.0
+label: roast rump
+value: 27.0
+
+
+name: Choline, total
+unit: mg
+value: 98.6
+label: serving (3 oz)
+value: 83.8
+label: roast rump
+value: 2635.6
+
+
+name: Betaine
+unit: mg
+value: 2.7
+label: serving (3 oz)
+value: 2.3
+label: roast rump
+value: 72.2
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.58
+label: serving (3 oz)
+value: 0.49
+label: roast rump
+value: 15.5
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: serving (3 oz)
+value: 0.0
+label: roast rump
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 11.0
+label: serving (3 oz)
+value: 9.0
+label: roast rump
+value: 294.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 11.0
+label: serving (3 oz)
+value: 9.0
+label: roast rump
+value: 294.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 0.0
+label: serving (3 oz)
+value: 0.0
+label: roast rump
+value: 0.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: serving (3 oz)
+value: 0.0
+label: roast rump
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: serving (3 oz)
+value: 0.0
+label: roast rump
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 38.0
+label: serving (3 oz)
+value: 32.0
+label: roast rump
+value: 1016.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: serving (3 oz)
+value: 0.0
+label: roast rump
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 0.0
+label: serving (3 oz)
+value: 0.0
+label: roast rump
+value: 0.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.27
+label: serving (3 oz)
+value: 0.23
+label: roast rump
+value: 7.22
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: serving (3 oz)
+value: 0.0
+label: roast rump
+value: 0.0
+
+
+name: Tocopherol, beta
+unit: mg
+value: 0.0
+label: serving (3 oz)
+value: 0.0
+label: roast rump
+value: 0.0
+
+
+name: Tocopherol, gamma
+unit: mg
+value: 0.05
+label: serving (3 oz)
+value: 0.04
+label: roast rump
+value: 1.34
+
+
+name: Tocopherol, delta
+unit: mg
+value: 0.0
+label: serving (3 oz)
+value: 0.0
+label: roast rump
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 0.0
+label: serving (3 oz)
+value: 0.0
+label: roast rump
+value: 0.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 3.116
+label: serving (3 oz)
+value: 2.649
+label: roast rump
+value: 83.291
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: serving (3 oz)
+value: 0.0
+label: roast rump
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: serving (3 oz)
+value: 0.0
+label: roast rump
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: serving (3 oz)
+value: 0.0
+label: roast rump
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.005
+label: serving (3 oz)
+value: 0.004
+label: roast rump
+value: 0.134
+
+
+name: 12:0
+unit: g
+value: 0.006
+label: serving (3 oz)
+value: 0.005
+label: roast rump
+value: 0.16
+
+
+name: 14:0
+unit: g
+value: 0.115
+label: serving (3 oz)
+value: 0.098
+label: roast rump
+value: 3.074
+
+
+name: 15:0
+unit: g
+value: 0.0
+label: serving (3 oz)
+value: 0.0
+label: roast rump
+value: 0.0
+
+
+name: 16:0
+unit: g
+value: 2.003
+label: serving (3 oz)
+value: 1.703
+label: roast rump
+value: 53.54
+
+
+name: 17:0
+unit: g
+value: 0.027
+label: serving (3 oz)
+value: 0.023
+label: roast rump
+value: 0.722
+
+
+name: 18:0
+unit: g
+value: 0.927
+label: serving (3 oz)
+value: 0.788
+label: roast rump
+value: 24.779
+
+
+name: 20:0
+unit: g
+value: 0.014
+label: serving (3 oz)
+value: 0.012
+label: roast rump
+value: 0.374
+
+
+name: 22:0
+unit: g
+value: 0.018
+label: serving (3 oz)
+value: 0.015
+label: roast rump
+value: 0.481
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 4.364
+label: serving (3 oz)
+value: 3.709
+label: roast rump
+value: 116.65
+
+
+name: 14:1
+unit: g
+value: 0.0
+label: serving (3 oz)
+value: 0.0
+label: roast rump
+value: 0.0
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: serving (3 oz)
+value: 0.0
+label: roast rump
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.249
+label: serving (3 oz)
+value: 0.212
+label: roast rump
+value: 6.656
+
+
+name: 17:1
+unit: g
+value: 0.0
+label: serving (3 oz)
+value: 0.0
+label: roast rump
+value: 0.0
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 4.048
+label: serving (3 oz)
+value: 3.441
+label: roast rump
+value: 108.203
+
+
+name: 20:1
+unit: g
+value: 0.067
+label: serving (3 oz)
+value: 0.057
+label: roast rump
+value: 1.791
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: serving (3 oz)
+value: 0.0
+label: roast rump
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 1.337
+label: serving (3 oz)
+value: 1.136
+label: roast rump
+value: 35.738
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 1.156
+label: serving (3 oz)
+value: 0.983
+label: roast rump
+value: 30.9
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.048
+label: serving (3 oz)
+value: 0.041
+label: roast rump
+value: 1.283
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: serving (3 oz)
+value: 0.0
+label: roast rump
+value: 0.0
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.045
+label: serving (3 oz)
+value: 0.038
+label: roast rump
+value: 1.203
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.0
+label: serving (3 oz)
+value: 0.0
+label: roast rump
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.088
+label: serving (3 oz)
+value: 0.075
+label: roast rump
+value: 2.352
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: serving (3 oz)
+value: 0.0
+label: roast rump
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: serving (3 oz)
+value: 0.0
+label: roast rump
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: serving (3 oz)
+value: 0.0
+label: roast rump
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.072
+label: serving (3 oz)
+value: 0.061
+label: roast rump
+value: 1.925
+
+
+name: Cholesterol
+unit: mg
+value: 72.0
+label: serving (3 oz)
+value: 61.0
+label: roast rump
+value: 1925.0
+
+
+name: Tryptophan
+unit: g
+value: 0.209
+label: serving (3 oz)
+value: 0.178
+label: roast rump
+value: 5.587
+
+
+name: Threonine
+unit: g
+value: 1.0
+label: serving (3 oz)
+value: 0.85
+label: roast rump
+value: 26.73
+
+
+name: Isoleucine
+unit: g
+value: 1.01
+label: serving (3 oz)
+value: 0.858
+label: roast rump
+value: 26.997
+
+
+name: Leucine
+unit: g
+value: 1.792
+label: serving (3 oz)
+value: 1.523
+label: roast rump
+value: 47.9
+
+
+name: Lysine
+unit: g
+value: 1.886
+label: serving (3 oz)
+value: 1.603
+label: roast rump
+value: 50.413
+
+
+name: Methionine
+unit: g
+value: 0.534
+label: serving (3 oz)
+value: 0.454
+label: roast rump
+value: 14.274
+
+
+name: Cystine
+unit: g
+value: 0.253
+label: serving (3 oz)
+value: 0.215
+label: roast rump
+value: 6.763
+
+
+name: Phenylalanine
+unit: g
+value: 0.896
+label: serving (3 oz)
+value: 0.762
+label: roast rump
+value: 23.95
+
+
+name: Tyrosine
+unit: g
+value: 0.724
+label: serving (3 oz)
+value: 0.615
+label: roast rump
+value: 19.353
+
+
+name: Valine
+unit: g
+value: 1.134
+label: serving (3 oz)
+value: 0.964
+label: roast rump
+value: 30.312
+
+
+name: Arginine
+unit: g
+value: 1.435
+label: serving (3 oz)
+value: 1.22
+label: roast rump
+value: 38.358
+
+
+name: Histidine
+unit: g
+value: 0.979
+label: serving (3 oz)
+value: 0.832
+label: roast rump
+value: 26.169
+
+
+name: Alanine
+unit: g
+value: 1.326
+label: serving (3 oz)
+value: 1.127
+label: roast rump
+value: 35.444
+
+
+name: Aspartic acid
+unit: g
+value: 1.958
+label: serving (3 oz)
+value: 1.664
+label: roast rump
+value: 52.337
+
+
+name: Glutamic acid
+unit: g
+value: 3.206
+label: serving (3 oz)
+value: 2.725
+label: roast rump
+value: 85.696
+
+
+name: Glycine
+unit: g
+value: 1.197
+label: serving (3 oz)
+value: 1.017
+label: roast rump
+value: 31.996
+
+
+name: Proline
+unit: g
+value: 0.97
+label: serving (3 oz)
+value: 0.824
+label: roast rump
+value: 25.928
+
+
+name: Serine
+unit: g
+value: 0.878
+label: serving (3 oz)
+value: 0.746
+label: roast rump
+value: 23.469
+
+
+name: Hydroxyproline
+unit: g
+value: 0.146
+label: serving (3 oz)
+value: 0.124
+label: roast rump
+value: 3.903
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: serving (3 oz)
+value: 0.0
+label: roast rump
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: serving (3 oz)
+value: 0.0
+label: roast rump
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: serving (3 oz)
+value: 0.0
+label: roast rump
+value: 0.0
+
+
+

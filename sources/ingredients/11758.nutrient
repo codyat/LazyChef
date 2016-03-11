@@ -1,0 +1,906 @@
+ndbno: 11758
+
+
+name: Carrots, canned, no salt added, solids and liquids
+
+
+name: Water
+unit: g
+value: 92.99
+label: cup slices
+value: 114.38
+label: can (303 x 406)
+value: 422.17
+
+
+name: Energy
+unit: kcal
+value: 23.0
+label: cup slices
+value: 28.0
+label: can (303 x 406)
+value: 104.0
+
+
+name: Energy
+unit: kJ
+value: 98.0
+label: cup slices
+value: 121.0
+label: can (303 x 406)
+value: 445.0
+
+
+name: Protein
+unit: g
+value: 0.59
+label: cup slices
+value: 0.73
+label: can (303 x 406)
+value: 2.68
+
+
+name: Total lipid (fat)
+unit: g
+value: 0.14
+label: cup slices
+value: 0.17
+label: can (303 x 406)
+value: 0.64
+
+
+name: Ash
+unit: g
+value: 0.92
+label: cup slices
+value: 1.13
+label: can (303 x 406)
+value: 4.18
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 5.36
+label: cup slices
+value: 6.59
+label: can (303 x 406)
+value: 24.33
+
+
+name: Fiber, total dietary
+unit: g
+value: 1.8
+label: cup slices
+value: 2.2
+label: can (303 x 406)
+value: 8.2
+
+
+name: Sugars, total
+unit: g
+value: 2.46
+label: cup slices
+value: 3.03
+label: can (303 x 406)
+value: 11.17
+
+
+name: Sucrose
+unit: g
+value: 1.92
+label: cup slices
+value: 2.36
+label: can (303 x 406)
+value: 8.72
+
+
+name: Glucose (dextrose)
+unit: g
+value: 0.28
+label: cup slices
+value: 0.34
+label: can (303 x 406)
+value: 1.27
+
+
+name: Fructose
+unit: g
+value: 0.26
+label: cup slices
+value: 0.32
+label: can (303 x 406)
+value: 1.18
+
+
+name: Lactose
+unit: g
+value: 0.0
+label: cup slices
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: Maltose
+unit: g
+value: 0.0
+label: cup slices
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: Galactose
+unit: g
+value: 0.0
+label: cup slices
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 31.0
+label: cup slices
+value: 38.0
+label: can (303 x 406)
+value: 141.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.52
+label: cup slices
+value: 0.64
+label: can (303 x 406)
+value: 2.36
+
+
+name: Magnesium, Mg
+unit: mg
+value: 9.0
+label: cup slices
+value: 11.0
+label: can (303 x 406)
+value: 41.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 20.0
+label: cup slices
+value: 25.0
+label: can (303 x 406)
+value: 91.0
+
+
+name: Potassium, K
+unit: mg
+value: 158.0
+label: cup slices
+value: 194.0
+label: can (303 x 406)
+value: 717.0
+
+
+name: Sodium, Na
+unit: mg
+value: 34.0
+label: cup slices
+value: 42.0
+label: can (303 x 406)
+value: 154.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.29
+label: cup slices
+value: 0.36
+label: can (303 x 406)
+value: 1.32
+
+
+name: Copper, Cu
+unit: mg
+value: 0.103
+label: cup slices
+value: 0.127
+label: can (303 x 406)
+value: 0.468
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.45
+label: cup slices
+value: 0.554
+label: can (303 x 406)
+value: 2.043
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 0.4
+label: cup slices
+value: 0.5
+label: can (303 x 406)
+value: 1.8
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 2.0
+label: cup slices
+value: 2.5
+label: can (303 x 406)
+value: 9.1
+
+
+name: Thiamin
+unit: mg
+value: 0.019
+label: cup slices
+value: 0.023
+label: can (303 x 406)
+value: 0.086
+
+
+name: Riboflavin
+unit: mg
+value: 0.027
+label: cup slices
+value: 0.033
+label: can (303 x 406)
+value: 0.123
+
+
+name: Niacin
+unit: mg
+value: 0.421
+label: cup slices
+value: 0.518
+label: can (303 x 406)
+value: 1.911
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.139
+label: cup slices
+value: 0.171
+label: can (303 x 406)
+value: 0.631
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.112
+label: cup slices
+value: 0.138
+label: can (303 x 406)
+value: 0.508
+
+
+name: Folate, total
+unit: \u00B5g
+value: 8.0
+label: cup slices
+value: 10.0
+label: can (303 x 406)
+value: 36.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: cup slices
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 8.0
+label: cup slices
+value: 10.0
+label: can (303 x 406)
+value: 36.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 8.0
+label: cup slices
+value: 10.0
+label: can (303 x 406)
+value: 36.0
+
+
+name: Choline, total
+unit: mg
+value: 6.3
+label: cup slices
+value: 7.7
+label: can (303 x 406)
+value: 28.6
+
+
+name: Betaine
+unit: mg
+value: 0.1
+label: cup slices
+value: 0.1
+label: can (303 x 406)
+value: 0.5
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: cup slices
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: cup slices
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 558.0
+label: cup slices
+value: 686.0
+label: can (303 x 406)
+value: 2533.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: cup slices
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 5331.0
+label: cup slices
+value: 6557.0
+label: can (303 x 406)
+value: 24203.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 2743.0
+label: cup slices
+value: 3374.0
+label: can (303 x 406)
+value: 12453.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: cup slices
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 11170.0
+label: cup slices
+value: 13739.0
+label: can (303 x 406)
+value: 50712.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: cup slices
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 0.0
+label: cup slices
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.73
+label: cup slices
+value: 0.9
+label: can (303 x 406)
+value: 3.31
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: cup slices
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: Tocopherol, beta
+unit: mg
+value: 0.01
+label: cup slices
+value: 0.01
+label: can (303 x 406)
+value: 0.05
+
+
+name: Tocopherol, gamma
+unit: mg
+value: 0.01
+label: cup slices
+value: 0.01
+label: can (303 x 406)
+value: 0.05
+
+
+name: Tocopherol, delta
+unit: mg
+value: 0.0
+label: cup slices
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: cup slices
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: cup slices
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 9.8
+label: cup slices
+value: 12.1
+label: can (303 x 406)
+value: 44.5
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.024
+label: cup slices
+value: 0.03
+label: can (303 x 406)
+value: 0.109
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: cup slices
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: cup slices
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: cup slices
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: cup slices
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.002
+label: cup slices
+value: 0.002
+label: can (303 x 406)
+value: 0.009
+
+
+name: 14:0
+unit: g
+value: 0.001
+label: cup slices
+value: 0.001
+label: can (303 x 406)
+value: 0.005
+
+
+name: 16:0
+unit: g
+value: 0.02
+label: cup slices
+value: 0.025
+label: can (303 x 406)
+value: 0.091
+
+
+name: 18:0
+unit: g
+value: 0.001
+label: cup slices
+value: 0.001
+label: can (303 x 406)
+value: 0.005
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.007
+label: cup slices
+value: 0.009
+label: can (303 x 406)
+value: 0.032
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.002
+label: cup slices
+value: 0.002
+label: can (303 x 406)
+value: 0.009
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.005
+label: cup slices
+value: 0.006
+label: can (303 x 406)
+value: 0.023
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: cup slices
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: cup slices
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.068
+label: cup slices
+value: 0.084
+label: can (303 x 406)
+value: 0.309
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.059
+label: cup slices
+value: 0.073
+label: can (303 x 406)
+value: 0.268
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.008
+label: cup slices
+value: 0.01
+label: can (303 x 406)
+value: 0.036
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: cup slices
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: cup slices
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: cup slices
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: cup slices
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: cup slices
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.0
+label: cup slices
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: cup slices
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: Tryptophan
+unit: g
+value: 0.008
+label: cup slices
+value: 0.01
+label: can (303 x 406)
+value: 0.036
+
+
+name: Threonine
+unit: g
+value: 0.122
+label: cup slices
+value: 0.15
+label: can (303 x 406)
+value: 0.554
+
+
+name: Isoleucine
+unit: g
+value: 0.049
+label: cup slices
+value: 0.06
+label: can (303 x 406)
+value: 0.222
+
+
+name: Leucine
+unit: g
+value: 0.065
+label: cup slices
+value: 0.08
+label: can (303 x 406)
+value: 0.295
+
+
+name: Lysine
+unit: g
+value: 0.064
+label: cup slices
+value: 0.079
+label: can (303 x 406)
+value: 0.291
+
+
+name: Methionine
+unit: g
+value: 0.013
+label: cup slices
+value: 0.016
+label: can (303 x 406)
+value: 0.059
+
+
+name: Cystine
+unit: g
+value: 0.053
+label: cup slices
+value: 0.065
+label: can (303 x 406)
+value: 0.241
+
+
+name: Phenylalanine
+unit: g
+value: 0.039
+label: cup slices
+value: 0.048
+label: can (303 x 406)
+value: 0.177
+
+
+name: Tyrosine
+unit: g
+value: 0.027
+label: cup slices
+value: 0.033
+label: can (303 x 406)
+value: 0.123
+
+
+name: Valine
+unit: g
+value: 0.044
+label: cup slices
+value: 0.054
+label: can (303 x 406)
+value: 0.2
+
+
+name: Arginine
+unit: g
+value: 0.058
+label: cup slices
+value: 0.071
+label: can (303 x 406)
+value: 0.263
+
+
+name: Histidine
+unit: g
+value: 0.025
+label: cup slices
+value: 0.031
+label: can (303 x 406)
+value: 0.114
+
+
+name: Alanine
+unit: g
+value: 0.072
+label: cup slices
+value: 0.089
+label: can (303 x 406)
+value: 0.327
+
+
+name: Aspartic acid
+unit: g
+value: 0.121
+label: cup slices
+value: 0.149
+label: can (303 x 406)
+value: 0.549
+
+
+name: Glutamic acid
+unit: g
+value: 0.233
+label: cup slices
+value: 0.287
+label: can (303 x 406)
+value: 1.058
+
+
+name: Glycine
+unit: g
+value: 0.03
+label: cup slices
+value: 0.037
+label: can (303 x 406)
+value: 0.136
+
+
+name: Proline
+unit: g
+value: 0.035
+label: cup slices
+value: 0.043
+label: can (303 x 406)
+value: 0.159
+
+
+name: Serine
+unit: g
+value: 0.034
+label: cup slices
+value: 0.042
+label: can (303 x 406)
+value: 0.154
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: cup slices
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: cup slices
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: cup slices
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+

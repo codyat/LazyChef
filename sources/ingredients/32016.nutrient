@@ -1,0 +1,497 @@
+ndbno: 32016
+
+
+name: Macaroni or noodles with cheese, microwaveable, unprepared
+
+
+name: Water
+unit: g
+value: 8.07
+label: serving 1 pouch
+value: 4.92
+
+
+name: Energy
+unit: kcal
+value: 388.0
+label: serving 1 pouch
+value: 237.0
+
+
+name: Energy
+unit: kJ
+value: 1623.0
+label: serving 1 pouch
+value: 990.0
+
+
+name: Protein
+unit: g
+value: 11.48
+label: serving 1 pouch
+value: 7.0
+
+
+name: Total lipid (fat)
+unit: g
+value: 6.56
+label: serving 1 pouch
+value: 4.0
+
+
+name: Ash
+unit: g
+value: 3.15
+label: serving 1 pouch
+value: 1.92
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 70.75
+label: serving 1 pouch
+value: 43.16
+
+
+name: Fiber, total dietary
+unit: g
+value: 1.6
+label: serving 1 pouch
+value: 1.0
+
+
+name: Sugars, total
+unit: g
+value: 8.2
+label: serving 1 pouch
+value: 5.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 328.0
+label: serving 1 pouch
+value: 200.0
+
+
+name: Iron, Fe
+unit: mg
+value: 2.36
+label: serving 1 pouch
+value: 1.44
+
+
+name: Magnesium, Mg
+unit: mg
+value: 49.0
+label: serving 1 pouch
+value: 30.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 328.0
+label: serving 1 pouch
+value: 200.0
+
+
+name: Potassium, K
+unit: mg
+value: 348.0
+label: serving 1 pouch
+value: 212.0
+
+
+name: Sodium, Na
+unit: mg
+value: 902.0
+label: serving 1 pouch
+value: 550.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 1.23
+label: serving 1 pouch
+value: 0.75
+
+
+name: Copper, Cu
+unit: mg
+value: 0.193
+label: serving 1 pouch
+value: 0.118
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 47.5
+label: serving 1 pouch
+value: 29.0
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: serving 1 pouch
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 1.04
+label: serving 1 pouch
+value: 0.634
+
+
+name: Riboflavin
+unit: mg
+value: 0.626
+label: serving 1 pouch
+value: 0.382
+
+
+name: Niacin
+unit: mg
+value: 3.882
+label: serving 1 pouch
+value: 2.368
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.142
+label: serving 1 pouch
+value: 0.087
+
+
+name: Folate, total
+unit: \u00B5g
+value: 204.0
+label: serving 1 pouch
+value: 124.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 187.0
+label: serving 1 pouch
+value: 114.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 17.0
+label: serving 1 pouch
+value: 10.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 334.0
+label: serving 1 pouch
+value: 204.0
+
+
+name: Choline, total
+unit: mg
+value: 36.0
+label: serving 1 pouch
+value: 22.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.77
+label: serving 1 pouch
+value: 0.47
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: serving 1 pouch
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 99.0
+label: serving 1 pouch
+value: 60.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 98.0
+label: serving 1 pouch
+value: 60.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 5.0
+label: serving 1 pouch
+value: 3.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: serving 1 pouch
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: serving 1 pouch
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 336.0
+label: serving 1 pouch
+value: 205.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: serving 1 pouch
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 15.0
+label: serving 1 pouch
+value: 9.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.13
+label: serving 1 pouch
+value: 0.08
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: serving 1 pouch
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: serving 1 pouch
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: serving 1 pouch
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 0.2
+label: serving 1 pouch
+value: 0.1
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 2.814
+label: serving 1 pouch
+value: 1.717
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: serving 1 pouch
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: serving 1 pouch
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: serving 1 pouch
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: serving 1 pouch
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: serving 1 pouch
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.4
+label: serving 1 pouch
+value: 0.244
+
+
+name: 16:0
+unit: g
+value: 1.883
+label: serving 1 pouch
+value: 1.149
+
+
+name: 18:0
+unit: g
+value: 0.531
+label: serving 1 pouch
+value: 0.324
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 1.625
+label: serving 1 pouch
+value: 0.991
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.0
+label: serving 1 pouch
+value: 0.0
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 1.625
+label: serving 1 pouch
+value: 0.991
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: serving 1 pouch
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: serving 1 pouch
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 1.987
+label: serving 1 pouch
+value: 1.212
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 1.987
+label: serving 1 pouch
+value: 1.212
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.0
+label: serving 1 pouch
+value: 0.0
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: serving 1 pouch
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: serving 1 pouch
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: serving 1 pouch
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: serving 1 pouch
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: serving 1 pouch
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.0
+label: serving 1 pouch
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 8.0
+label: serving 1 pouch
+value: 5.0
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: serving 1 pouch
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: serving 1 pouch
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: serving 1 pouch
+value: 0.0
+
+
+

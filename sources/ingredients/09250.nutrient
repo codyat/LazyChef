@@ -1,0 +1,997 @@
+ndbno: 09250
+
+
+name: Peaches, frozen, sliced, sweetened
+
+
+name: Water
+unit: g
+value: 74.73
+label: cup, thawed
+value: 186.82
+label: slices
+value: 115.83
+label: package (10 oz)
+value: 212.23
+
+
+name: Energy
+unit: kcal
+value: 94.0
+label: cup, thawed
+value: 235.0
+label: slices
+value: 146.0
+label: package (10 oz)
+value: 267.0
+
+
+name: Energy
+unit: kJ
+value: 393.0
+label: cup, thawed
+value: 982.0
+label: slices
+value: 609.0
+label: package (10 oz)
+value: 1116.0
+
+
+name: Protein
+unit: g
+value: 0.63
+label: cup, thawed
+value: 1.58
+label: slices
+value: 0.98
+label: package (10 oz)
+value: 1.79
+
+
+name: Total lipid (fat)
+unit: g
+value: 0.13
+label: cup, thawed
+value: 0.32
+label: slices
+value: 0.2
+label: package (10 oz)
+value: 0.37
+
+
+name: Ash
+unit: g
+value: 0.53
+label: cup, thawed
+value: 1.32
+label: slices
+value: 0.82
+label: package (10 oz)
+value: 1.51
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 23.98
+label: cup, thawed
+value: 59.95
+label: slices
+value: 37.17
+label: package (10 oz)
+value: 68.1
+
+
+name: Fiber, total dietary
+unit: g
+value: 1.8
+label: cup, thawed
+value: 4.5
+label: slices
+value: 2.8
+label: package (10 oz)
+value: 5.1
+
+
+name: Sugars, total
+unit: g
+value: 22.18
+label: cup, thawed
+value: 55.45
+label: slices
+value: 34.38
+label: package (10 oz)
+value: 62.99
+
+
+name: Calcium, Ca
+unit: mg
+value: 3.0
+label: cup, thawed
+value: 8.0
+label: slices
+value: 5.0
+label: package (10 oz)
+value: 9.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.37
+label: cup, thawed
+value: 0.92
+label: slices
+value: 0.57
+label: package (10 oz)
+value: 1.05
+
+
+name: Magnesium, Mg
+unit: mg
+value: 5.0
+label: cup, thawed
+value: 12.0
+label: slices
+value: 8.0
+label: package (10 oz)
+value: 14.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 11.0
+label: cup, thawed
+value: 28.0
+label: slices
+value: 17.0
+label: package (10 oz)
+value: 31.0
+
+
+name: Potassium, K
+unit: mg
+value: 130.0
+label: cup, thawed
+value: 325.0
+label: slices
+value: 202.0
+label: package (10 oz)
+value: 369.0
+
+
+name: Sodium, Na
+unit: mg
+value: 6.0
+label: cup, thawed
+value: 15.0
+label: slices
+value: 9.0
+label: package (10 oz)
+value: 17.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.05
+label: cup, thawed
+value: 0.12
+label: slices
+value: 0.08
+label: package (10 oz)
+value: 0.14
+
+
+name: Copper, Cu
+unit: mg
+value: 0.024
+label: cup, thawed
+value: 0.06
+label: slices
+value: 0.037
+label: package (10 oz)
+value: 0.068
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.029
+label: cup, thawed
+value: 0.072
+label: slices
+value: 0.045
+label: package (10 oz)
+value: 0.082
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 0.4
+label: cup, thawed
+value: 1.0
+label: slices
+value: 0.6
+label: package (10 oz)
+value: 1.1
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 94.2
+label: cup, thawed
+value: 235.5
+label: slices
+value: 146.0
+label: package (10 oz)
+value: 267.5
+
+
+name: Thiamin
+unit: mg
+value: 0.013
+label: cup, thawed
+value: 0.032
+label: slices
+value: 0.02
+label: package (10 oz)
+value: 0.037
+
+
+name: Riboflavin
+unit: mg
+value: 0.035
+label: cup, thawed
+value: 0.088
+label: slices
+value: 0.054
+label: package (10 oz)
+value: 0.099
+
+
+name: Niacin
+unit: mg
+value: 0.653
+label: cup, thawed
+value: 1.632
+label: slices
+value: 1.012
+label: package (10 oz)
+value: 1.855
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.132
+label: cup, thawed
+value: 0.33
+label: slices
+value: 0.205
+label: package (10 oz)
+value: 0.375
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.018
+label: cup, thawed
+value: 0.045
+label: slices
+value: 0.028
+label: package (10 oz)
+value: 0.051
+
+
+name: Folate, total
+unit: \u00B5g
+value: 3.0
+label: cup, thawed
+value: 8.0
+label: slices
+value: 5.0
+label: package (10 oz)
+value: 9.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: cup, thawed
+value: 0.0
+label: slices
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 3.0
+label: cup, thawed
+value: 8.0
+label: slices
+value: 5.0
+label: package (10 oz)
+value: 9.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 3.0
+label: cup, thawed
+value: 8.0
+label: slices
+value: 5.0
+label: package (10 oz)
+value: 9.0
+
+
+name: Choline, total
+unit: mg
+value: 5.1
+label: cup, thawed
+value: 12.8
+label: slices
+value: 7.9
+label: package (10 oz)
+value: 14.5
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: cup, thawed
+value: 0.0
+label: slices
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: cup, thawed
+value: 0.0
+label: slices
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 14.0
+label: cup, thawed
+value: 35.0
+label: slices
+value: 22.0
+label: package (10 oz)
+value: 40.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: cup, thawed
+value: 0.0
+label: slices
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 141.0
+label: cup, thawed
+value: 352.0
+label: slices
+value: 219.0
+label: package (10 oz)
+value: 400.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: cup, thawed
+value: 0.0
+label: slices
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 58.0
+label: cup, thawed
+value: 145.0
+label: slices
+value: 90.0
+label: package (10 oz)
+value: 165.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 284.0
+label: cup, thawed
+value: 710.0
+label: slices
+value: 440.0
+label: package (10 oz)
+value: 807.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: cup, thawed
+value: 0.0
+label: slices
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 77.0
+label: cup, thawed
+value: 192.0
+label: slices
+value: 119.0
+label: package (10 oz)
+value: 219.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.62
+label: cup, thawed
+value: 1.55
+label: slices
+value: 0.96
+label: package (10 oz)
+value: 1.76
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: cup, thawed
+value: 0.0
+label: slices
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: cup, thawed
+value: 0.0
+label: slices
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: cup, thawed
+value: 0.0
+label: slices
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 2.2
+label: cup, thawed
+value: 5.5
+label: slices
+value: 3.4
+label: package (10 oz)
+value: 6.2
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.014
+label: cup, thawed
+value: 0.035
+label: slices
+value: 0.022
+label: package (10 oz)
+value: 0.04
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: cup, thawed
+value: 0.0
+label: slices
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: cup, thawed
+value: 0.0
+label: slices
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: cup, thawed
+value: 0.0
+label: slices
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: cup, thawed
+value: 0.0
+label: slices
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: cup, thawed
+value: 0.0
+label: slices
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.0
+label: cup, thawed
+value: 0.0
+label: slices
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: 16:0
+unit: g
+value: 0.012
+label: cup, thawed
+value: 0.03
+label: slices
+value: 0.019
+label: package (10 oz)
+value: 0.034
+
+
+name: 18:0
+unit: g
+value: 0.002
+label: cup, thawed
+value: 0.005
+label: slices
+value: 0.003
+label: package (10 oz)
+value: 0.006
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.048
+label: cup, thawed
+value: 0.12
+label: slices
+value: 0.074
+label: package (10 oz)
+value: 0.136
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.001
+label: cup, thawed
+value: 0.002
+label: slices
+value: 0.002
+label: package (10 oz)
+value: 0.003
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.047
+label: cup, thawed
+value: 0.118
+label: slices
+value: 0.073
+label: package (10 oz)
+value: 0.133
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: cup, thawed
+value: 0.0
+label: slices
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: cup, thawed
+value: 0.0
+label: slices
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.064
+label: cup, thawed
+value: 0.16
+label: slices
+value: 0.099
+label: package (10 oz)
+value: 0.182
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.063
+label: cup, thawed
+value: 0.158
+label: slices
+value: 0.098
+label: package (10 oz)
+value: 0.179
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.002
+label: cup, thawed
+value: 0.005
+label: slices
+value: 0.003
+label: package (10 oz)
+value: 0.006
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: cup, thawed
+value: 0.0
+label: slices
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: cup, thawed
+value: 0.0
+label: slices
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: cup, thawed
+value: 0.0
+label: slices
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: cup, thawed
+value: 0.0
+label: slices
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: cup, thawed
+value: 0.0
+label: slices
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.0
+label: cup, thawed
+value: 0.0
+label: slices
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: cup, thawed
+value: 0.0
+label: slices
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: Tryptophan
+unit: g
+value: 0.002
+label: cup, thawed
+value: 0.005
+label: slices
+value: 0.003
+label: package (10 oz)
+value: 0.006
+
+
+name: Threonine
+unit: g
+value: 0.024
+label: cup, thawed
+value: 0.06
+label: slices
+value: 0.037
+label: package (10 oz)
+value: 0.068
+
+
+name: Isoleucine
+unit: g
+value: 0.018
+label: cup, thawed
+value: 0.045
+label: slices
+value: 0.028
+label: package (10 oz)
+value: 0.051
+
+
+name: Leucine
+unit: g
+value: 0.035
+label: cup, thawed
+value: 0.088
+label: slices
+value: 0.054
+label: package (10 oz)
+value: 0.099
+
+
+name: Lysine
+unit: g
+value: 0.02
+label: cup, thawed
+value: 0.05
+label: slices
+value: 0.031
+label: package (10 oz)
+value: 0.057
+
+
+name: Methionine
+unit: g
+value: 0.015
+label: cup, thawed
+value: 0.038
+label: slices
+value: 0.023
+label: package (10 oz)
+value: 0.043
+
+
+name: Cystine
+unit: g
+value: 0.005
+label: cup, thawed
+value: 0.012
+label: slices
+value: 0.008
+label: package (10 oz)
+value: 0.014
+
+
+name: Phenylalanine
+unit: g
+value: 0.02
+label: cup, thawed
+value: 0.05
+label: slices
+value: 0.031
+label: package (10 oz)
+value: 0.057
+
+
+name: Tyrosine
+unit: g
+value: 0.016
+label: cup, thawed
+value: 0.04
+label: slices
+value: 0.025
+label: package (10 oz)
+value: 0.045
+
+
+name: Valine
+unit: g
+value: 0.034
+label: cup, thawed
+value: 0.085
+label: slices
+value: 0.053
+label: package (10 oz)
+value: 0.097
+
+
+name: Arginine
+unit: g
+value: 0.016
+label: cup, thawed
+value: 0.04
+label: slices
+value: 0.025
+label: package (10 oz)
+value: 0.045
+
+
+name: Histidine
+unit: g
+value: 0.012
+label: cup, thawed
+value: 0.03
+label: slices
+value: 0.019
+label: package (10 oz)
+value: 0.034
+
+
+name: Alanine
+unit: g
+value: 0.037
+label: cup, thawed
+value: 0.092
+label: slices
+value: 0.057
+label: package (10 oz)
+value: 0.105
+
+
+name: Aspartic acid
+unit: g
+value: 0.104
+label: cup, thawed
+value: 0.26
+label: slices
+value: 0.161
+label: package (10 oz)
+value: 0.295
+
+
+name: Glutamic acid
+unit: g
+value: 0.095
+label: cup, thawed
+value: 0.238
+label: slices
+value: 0.147
+label: package (10 oz)
+value: 0.27
+
+
+name: Glycine
+unit: g
+value: 0.022
+label: cup, thawed
+value: 0.055
+label: slices
+value: 0.034
+label: package (10 oz)
+value: 0.062
+
+
+name: Proline
+unit: g
+value: 0.026
+label: cup, thawed
+value: 0.065
+label: slices
+value: 0.04
+label: package (10 oz)
+value: 0.074
+
+
+name: Serine
+unit: g
+value: 0.029
+label: cup, thawed
+value: 0.072
+label: slices
+value: 0.045
+label: package (10 oz)
+value: 0.082
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: cup, thawed
+value: 0.0
+label: slices
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: cup, thawed
+value: 0.0
+label: slices
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: cup, thawed
+value: 0.0
+label: slices
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+

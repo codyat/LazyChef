@@ -1,0 +1,96 @@
+ndbno: 14099
+
+
+name: Alcoholic Beverage, wine, table, red, Pinot Noir
+
+
+name: Water
+unit: g
+value: 86.94
+label: fl oz
+value: 25.56
+label: serving (5 fl oz)
+value: 127.8
+
+
+name: Energy
+unit: kcal
+value: 82.0
+label: fl oz
+value: 24.0
+label: serving (5 fl oz)
+value: 121.0
+
+
+name: Energy
+unit: kJ
+value: 341.0
+label: fl oz
+value: 100.0
+label: serving (5 fl oz)
+value: 501.0
+
+
+name: Protein
+unit: g
+value: 0.07
+label: fl oz
+value: 0.02
+label: serving (5 fl oz)
+value: 0.1
+
+
+name: Total lipid (fat)
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: serving (5 fl oz)
+value: 0.0
+
+
+name: Ash
+unit: g
+value: 0.25
+label: fl oz
+value: 0.07
+label: serving (5 fl oz)
+value: 0.37
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 2.31
+label: fl oz
+value: 0.68
+label: serving (5 fl oz)
+value: 3.4
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: serving (5 fl oz)
+value: 0.0
+
+
+name: Alcohol, ethyl
+unit: g
+value: 10.4
+label: fl oz
+value: 3.1
+label: serving (5 fl oz)
+value: 15.3
+
+
+name: Proanthocyanidin dimers
+unit: mg
+value: 18.3
+label: fl oz
+value: 5.4
+label: serving (5 fl oz)
+value: 26.9
+
+

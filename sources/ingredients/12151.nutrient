@@ -1,0 +1,1534 @@
+ndbno: 12151
+
+
+name: Nuts, pistachio nuts, raw
+
+
+name: Water
+unit: g
+value: 4.37
+label: cup
+value: 5.38
+label: oz (49 kernels)
+value: 1.24
+label: kernel
+value: 0.03
+
+
+name: Energy
+unit: kcal
+value: 560.0
+label: cup
+value: 689.0
+label: oz (49 kernels)
+value: 159.0
+label: kernel
+value: 4.0
+
+
+name: Energy
+unit: kJ
+value: 2342.0
+label: cup
+value: 2881.0
+label: oz (49 kernels)
+value: 664.0
+label: kernel
+value: 16.0
+
+
+name: Protein
+unit: g
+value: 20.16
+label: cup
+value: 24.8
+label: oz (49 kernels)
+value: 5.72
+label: kernel
+value: 0.14
+
+
+name: Total lipid (fat)
+unit: g
+value: 45.32
+label: cup
+value: 55.74
+label: oz (49 kernels)
+value: 12.85
+label: kernel
+value: 0.32
+
+
+name: Ash
+unit: g
+value: 2.99
+label: cup
+value: 3.68
+label: oz (49 kernels)
+value: 0.85
+label: kernel
+value: 0.02
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 27.17
+label: cup
+value: 33.42
+label: oz (49 kernels)
+value: 7.7
+label: kernel
+value: 0.19
+
+
+name: Fiber, total dietary
+unit: g
+value: 10.6
+label: cup
+value: 13.0
+label: oz (49 kernels)
+value: 3.0
+label: kernel
+value: 0.1
+
+
+name: Sugars, total
+unit: g
+value: 7.66
+label: cup
+value: 9.42
+label: oz (49 kernels)
+value: 2.17
+label: kernel
+value: 0.05
+
+
+name: Sucrose
+unit: g
+value: 6.87
+label: cup
+value: 8.45
+label: oz (49 kernels)
+value: 1.95
+label: kernel
+value: 0.05
+
+
+name: Glucose (dextrose)
+unit: g
+value: 0.32
+label: cup
+value: 0.39
+label: oz (49 kernels)
+value: 0.09
+label: kernel
+value: 0.0
+
+
+name: Fructose
+unit: g
+value: 0.24
+label: cup
+value: 0.3
+label: oz (49 kernels)
+value: 0.07
+label: kernel
+value: 0.0
+
+
+name: Lactose
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: oz (49 kernels)
+value: 0.0
+label: kernel
+value: 0.0
+
+
+name: Maltose
+unit: g
+value: 0.17
+label: cup
+value: 0.21
+label: oz (49 kernels)
+value: 0.05
+label: kernel
+value: 0.0
+
+
+name: Starch
+unit: g
+value: 1.67
+label: cup
+value: 2.05
+label: oz (49 kernels)
+value: 0.47
+label: kernel
+value: 0.01
+
+
+name: Calcium, Ca
+unit: mg
+value: 105.0
+label: cup
+value: 129.0
+label: oz (49 kernels)
+value: 30.0
+label: kernel
+value: 1.0
+
+
+name: Iron, Fe
+unit: mg
+value: 3.92
+label: cup
+value: 4.82
+label: oz (49 kernels)
+value: 1.11
+label: kernel
+value: 0.03
+
+
+name: Magnesium, Mg
+unit: mg
+value: 121.0
+label: cup
+value: 149.0
+label: oz (49 kernels)
+value: 34.0
+label: kernel
+value: 1.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 490.0
+label: cup
+value: 603.0
+label: oz (49 kernels)
+value: 139.0
+label: kernel
+value: 3.0
+
+
+name: Potassium, K
+unit: mg
+value: 1025.0
+label: cup
+value: 1261.0
+label: oz (49 kernels)
+value: 291.0
+label: kernel
+value: 7.0
+
+
+name: Sodium, Na
+unit: mg
+value: 1.0
+label: cup
+value: 1.0
+label: oz (49 kernels)
+value: 0.0
+label: kernel
+value: 0.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 2.2
+label: cup
+value: 2.71
+label: oz (49 kernels)
+value: 0.62
+label: kernel
+value: 0.02
+
+
+name: Copper, Cu
+unit: mg
+value: 1.3
+label: cup
+value: 1.599
+label: oz (49 kernels)
+value: 0.369
+label: kernel
+value: 0.009
+
+
+name: Manganese, Mn
+unit: mg
+value: 1.2
+label: cup
+value: 1.476
+label: oz (49 kernels)
+value: 0.34
+label: kernel
+value: 0.008
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 7.0
+label: cup
+value: 8.6
+label: oz (49 kernels)
+value: 2.0
+label: kernel
+value: 0.0
+
+
+name: Fluoride, F
+unit: \u00B5g
+value: 3.4
+label: cup
+value: 4.2
+label: oz (49 kernels)
+value: 1.0
+label: kernel
+value: 0.0
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 5.6
+label: cup
+value: 6.9
+label: oz (49 kernels)
+value: 1.6
+label: kernel
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.87
+label: cup
+value: 1.07
+label: oz (49 kernels)
+value: 0.247
+label: kernel
+value: 0.006
+
+
+name: Riboflavin
+unit: mg
+value: 0.16
+label: cup
+value: 0.197
+label: oz (49 kernels)
+value: 0.045
+label: kernel
+value: 0.001
+
+
+name: Niacin
+unit: mg
+value: 1.3
+label: cup
+value: 1.599
+label: oz (49 kernels)
+value: 0.369
+label: kernel
+value: 0.009
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.52
+label: cup
+value: 0.64
+label: oz (49 kernels)
+value: 0.147
+label: kernel
+value: 0.004
+
+
+name: Vitamin B-6
+unit: mg
+value: 1.7
+label: cup
+value: 2.091
+label: oz (49 kernels)
+value: 0.482
+label: kernel
+value: 0.012
+
+
+name: Folate, total
+unit: \u00B5g
+value: 51.0
+label: cup
+value: 63.0
+label: oz (49 kernels)
+value: 14.0
+label: kernel
+value: 0.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: oz (49 kernels)
+value: 0.0
+label: kernel
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 51.0
+label: cup
+value: 63.0
+label: oz (49 kernels)
+value: 14.0
+label: kernel
+value: 0.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 51.0
+label: cup
+value: 63.0
+label: oz (49 kernels)
+value: 14.0
+label: kernel
+value: 0.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: oz (49 kernels)
+value: 0.0
+label: kernel
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 26.0
+label: cup
+value: 32.0
+label: oz (49 kernels)
+value: 7.0
+label: kernel
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: oz (49 kernels)
+value: 0.0
+label: kernel
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 305.0
+label: cup
+value: 375.0
+label: oz (49 kernels)
+value: 86.0
+label: kernel
+value: 2.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 10.0
+label: cup
+value: 12.0
+label: oz (49 kernels)
+value: 3.0
+label: kernel
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: oz (49 kernels)
+value: 0.0
+label: kernel
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 516.0
+label: cup
+value: 635.0
+label: oz (49 kernels)
+value: 146.0
+label: kernel
+value: 4.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 2903.0
+label: cup
+value: 3571.0
+label: oz (49 kernels)
+value: 823.0
+label: kernel
+value: 20.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 2.86
+label: cup
+value: 3.52
+label: oz (49 kernels)
+value: 0.81
+label: kernel
+value: 0.02
+
+
+name: Tocopherol, beta
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: oz (49 kernels)
+value: 0.0
+label: kernel
+value: 0.0
+
+
+name: Tocopherol, gamma
+unit: mg
+value: 20.41
+label: cup
+value: 25.1
+label: oz (49 kernels)
+value: 5.79
+label: kernel
+value: 0.14
+
+
+name: Tocopherol, delta
+unit: mg
+value: 0.8
+label: cup
+value: 0.98
+label: oz (49 kernels)
+value: 0.23
+label: kernel
+value: 0.01
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: oz (49 kernels)
+value: 0.0
+label: kernel
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: cup
+value: 0.0
+label: oz (49 kernels)
+value: 0.0
+label: kernel
+value: 0.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 5.907
+label: cup
+value: 7.266
+label: oz (49 kernels)
+value: 1.675
+label: kernel
+value: 0.041
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: oz (49 kernels)
+value: 0.0
+label: kernel
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.012
+label: cup
+value: 0.015
+label: oz (49 kernels)
+value: 0.003
+label: kernel
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: oz (49 kernels)
+value: 0.0
+label: kernel
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.004
+label: cup
+value: 0.005
+label: oz (49 kernels)
+value: 0.001
+label: kernel
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: oz (49 kernels)
+value: 0.0
+label: kernel
+value: 0.0
+
+
+name: 13:0
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: oz (49 kernels)
+value: 0.0
+label: kernel
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.019
+label: cup
+value: 0.023
+label: oz (49 kernels)
+value: 0.005
+label: kernel
+value: 0.0
+
+
+name: 15:0
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: oz (49 kernels)
+value: 0.0
+label: kernel
+value: 0.0
+
+
+name: 16:0
+unit: g
+value: 5.265
+label: cup
+value: 6.476
+label: oz (49 kernels)
+value: 1.493
+label: kernel
+value: 0.037
+
+
+name: 17:0
+unit: g
+value: 0.009
+label: cup
+value: 0.011
+label: oz (49 kernels)
+value: 0.003
+label: kernel
+value: 0.0
+
+
+name: 18:0
+unit: g
+value: 0.478
+label: cup
+value: 0.588
+label: oz (49 kernels)
+value: 0.136
+label: kernel
+value: 0.003
+
+
+name: 20:0
+unit: g
+value: 0.046
+label: cup
+value: 0.057
+label: oz (49 kernels)
+value: 0.013
+label: kernel
+value: 0.0
+
+
+name: 22:0
+unit: g
+value: 0.04
+label: cup
+value: 0.049
+label: oz (49 kernels)
+value: 0.011
+label: kernel
+value: 0.0
+
+
+name: 24:0
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: oz (49 kernels)
+value: 0.0
+label: kernel
+value: 0.0
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 23.257
+label: cup
+value: 28.606
+label: oz (49 kernels)
+value: 6.593
+label: kernel
+value: 0.163
+
+
+name: 14:1
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: oz (49 kernels)
+value: 0.0
+label: kernel
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.495
+label: cup
+value: 0.609
+label: oz (49 kernels)
+value: 0.14
+label: kernel
+value: 0.003
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 22.674
+label: cup
+value: 27.889
+label: oz (49 kernels)
+value: 6.428
+label: kernel
+value: 0.159
+
+
+name: 20:1
+unit: g
+value: 0.089
+label: cup
+value: 0.109
+label: oz (49 kernels)
+value: 0.025
+label: kernel
+value: 0.001
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: oz (49 kernels)
+value: 0.0
+label: kernel
+value: 0.0
+
+
+name: 24:1 c
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: oz (49 kernels)
+value: 0.0
+label: kernel
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 14.38
+label: cup
+value: 17.687
+label: oz (49 kernels)
+value: 4.077
+label: kernel
+value: 0.101
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 14.091
+label: cup
+value: 17.332
+label: oz (49 kernels)
+value: 3.995
+label: kernel
+value: 0.099
+
+
+name: 18:2 n-6 c,c
+unit: g
+value: 14.091
+label: cup
+value: 17.332
+label: oz (49 kernels)
+value: 3.995
+label: kernel
+value: 0.099
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.289
+label: cup
+value: 0.355
+label: oz (49 kernels)
+value: 0.082
+label: kernel
+value: 0.002
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: oz (49 kernels)
+value: 0.0
+label: kernel
+value: 0.0
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: oz (49 kernels)
+value: 0.0
+label: kernel
+value: 0.0
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: oz (49 kernels)
+value: 0.0
+label: kernel
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: oz (49 kernels)
+value: 0.0
+label: kernel
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: oz (49 kernels)
+value: 0.0
+label: kernel
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: oz (49 kernels)
+value: 0.0
+label: kernel
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: oz (49 kernels)
+value: 0.0
+label: kernel
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: oz (49 kernels)
+value: 0.0
+label: kernel
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: oz (49 kernels)
+value: 0.0
+label: kernel
+value: 0.0
+
+
+name: Phytosterols
+unit: mg
+value: 214.0
+label: cup
+value: 263.0
+label: oz (49 kernels)
+value: 61.0
+label: kernel
+value: 1.0
+
+
+name: Stigmasterol
+unit: mg
+value: 5.0
+label: cup
+value: 6.0
+label: oz (49 kernels)
+value: 1.0
+label: kernel
+value: 0.0
+
+
+name: Campesterol
+unit: mg
+value: 10.0
+label: cup
+value: 12.0
+label: oz (49 kernels)
+value: 3.0
+label: kernel
+value: 0.0
+
+
+name: Beta-sitosterol
+unit: mg
+value: 198.0
+label: cup
+value: 244.0
+label: oz (49 kernels)
+value: 56.0
+label: kernel
+value: 1.0
+
+
+name: Tryptophan
+unit: g
+value: 0.251
+label: cup
+value: 0.309
+label: oz (49 kernels)
+value: 0.071
+label: kernel
+value: 0.002
+
+
+name: Threonine
+unit: g
+value: 0.684
+label: cup
+value: 0.841
+label: oz (49 kernels)
+value: 0.194
+label: kernel
+value: 0.005
+
+
+name: Isoleucine
+unit: g
+value: 0.917
+label: cup
+value: 1.128
+label: oz (49 kernels)
+value: 0.26
+label: kernel
+value: 0.006
+
+
+name: Leucine
+unit: g
+value: 1.604
+label: cup
+value: 1.973
+label: oz (49 kernels)
+value: 0.455
+label: kernel
+value: 0.011
+
+
+name: Lysine
+unit: g
+value: 1.138
+label: cup
+value: 1.4
+label: oz (49 kernels)
+value: 0.323
+label: kernel
+value: 0.008
+
+
+name: Methionine
+unit: g
+value: 0.36
+label: cup
+value: 0.443
+label: oz (49 kernels)
+value: 0.102
+label: kernel
+value: 0.003
+
+
+name: Cystine
+unit: g
+value: 0.292
+label: cup
+value: 0.359
+label: oz (49 kernels)
+value: 0.083
+label: kernel
+value: 0.002
+
+
+name: Phenylalanine
+unit: g
+value: 1.092
+label: cup
+value: 1.343
+label: oz (49 kernels)
+value: 0.31
+label: kernel
+value: 0.008
+
+
+name: Tyrosine
+unit: g
+value: 0.509
+label: cup
+value: 0.626
+label: oz (49 kernels)
+value: 0.144
+label: kernel
+value: 0.004
+
+
+name: Valine
+unit: g
+value: 1.249
+label: cup
+value: 1.536
+label: oz (49 kernels)
+value: 0.354
+label: kernel
+value: 0.009
+
+
+name: Arginine
+unit: g
+value: 2.134
+label: cup
+value: 2.625
+label: oz (49 kernels)
+value: 0.605
+label: kernel
+value: 0.015
+
+
+name: Histidine
+unit: g
+value: 0.512
+label: cup
+value: 0.63
+label: oz (49 kernels)
+value: 0.145
+label: kernel
+value: 0.004
+
+
+name: Alanine
+unit: g
+value: 0.973
+label: cup
+value: 1.197
+label: oz (49 kernels)
+value: 0.276
+label: kernel
+value: 0.007
+
+
+name: Aspartic acid
+unit: g
+value: 1.884
+label: cup
+value: 2.317
+label: oz (49 kernels)
+value: 0.534
+label: kernel
+value: 0.013
+
+
+name: Glutamic acid
+unit: g
+value: 4.3
+label: cup
+value: 5.289
+label: oz (49 kernels)
+value: 1.219
+label: kernel
+value: 0.03
+
+
+name: Glycine
+unit: g
+value: 1.009
+label: cup
+value: 1.241
+label: oz (49 kernels)
+value: 0.286
+label: kernel
+value: 0.007
+
+
+name: Proline
+unit: g
+value: 0.938
+label: cup
+value: 1.154
+label: oz (49 kernels)
+value: 0.266
+label: kernel
+value: 0.007
+
+
+name: Serine
+unit: g
+value: 1.283
+label: cup
+value: 1.578
+label: oz (49 kernels)
+value: 0.364
+label: kernel
+value: 0.009
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: oz (49 kernels)
+value: 0.0
+label: kernel
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: oz (49 kernels)
+value: 0.0
+label: kernel
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: oz (49 kernels)
+value: 0.0
+label: kernel
+value: 0.0
+
+
+name: Cyanidin
+unit: mg
+value: 7.33
+label: cup
+value: 9.02
+label: oz (49 kernels)
+value: 2.08
+label: kernel
+value: 0.05
+
+
+name: Petunidin
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: oz (49 kernels)
+value: 0.0
+label: kernel
+value: 0.0
+
+
+name: Delphinidin
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: oz (49 kernels)
+value: 0.0
+label: kernel
+value: 0.0
+
+
+name: Malvidin
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: oz (49 kernels)
+value: 0.0
+label: kernel
+value: 0.0
+
+
+name: Pelargonidin
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: oz (49 kernels)
+value: 0.0
+label: kernel
+value: 0.0
+
+
+name: Peonidin
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: oz (49 kernels)
+value: 0.0
+label: kernel
+value: 0.0
+
+
+name: (+)-Catechin
+unit: mg
+value: 3.6
+label: cup
+value: 4.4
+label: oz (49 kernels)
+value: 1.0
+label: kernel
+value: 0.0
+
+
+name: (-)-Epigallocatechin
+unit: mg
+value: 2.0
+label: cup
+value: 2.5
+label: oz (49 kernels)
+value: 0.6
+label: kernel
+value: 0.0
+
+
+name: (-)-Epicatechin
+unit: mg
+value: 0.8
+label: cup
+value: 1.0
+label: oz (49 kernels)
+value: 0.2
+label: kernel
+value: 0.0
+
+
+name: (-)-Epicatechin 3-gallate
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: oz (49 kernels)
+value: 0.0
+label: kernel
+value: 0.0
+
+
+name: (-)-Epigallocatechin 3-gallate
+unit: mg
+value: 0.4
+label: cup
+value: 0.5
+label: oz (49 kernels)
+value: 0.1
+label: kernel
+value: 0.0
+
+
+name: (+)-Gallocatechin
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: oz (49 kernels)
+value: 0.0
+label: kernel
+value: 0.0
+
+
+name: Hesperetin
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: oz (49 kernels)
+value: 0.0
+label: kernel
+value: 0.0
+
+
+name: Naringenin
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: oz (49 kernels)
+value: 0.0
+label: kernel
+value: 0.0
+
+
+name: Apigenin
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: oz (49 kernels)
+value: 0.0
+label: kernel
+value: 0.0
+
+
+name: Luteolin
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: oz (49 kernels)
+value: 0.0
+label: kernel
+value: 0.0
+
+
+name: Myricetin
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: oz (49 kernels)
+value: 0.0
+label: kernel
+value: 0.0
+
+
+name: Quercetin
+unit: mg
+value: 1.5
+label: cup
+value: 1.8
+label: oz (49 kernels)
+value: 0.4
+label: kernel
+value: 0.0
+
+
+name: Daidzein
+unit: mg
+value: 1.88
+label: cup
+value: 2.31
+label: oz (49 kernels)
+value: 0.53
+label: kernel
+value: 0.01
+
+
+name: Genistein
+unit: mg
+value: 1.75
+label: cup
+value: 2.15
+label: oz (49 kernels)
+value: 0.5
+label: kernel
+value: 0.01
+
+
+name: Glycitein
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: oz (49 kernels)
+value: 0.0
+label: kernel
+value: 0.0
+
+
+name: Total isoflavones
+unit: mg
+value: 3.63
+label: cup
+value: 4.46
+label: oz (49 kernels)
+value: 1.03
+label: kernel
+value: 0.03
+
+
+name: Formononetin
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: oz (49 kernels)
+value: 0.0
+label: kernel
+value: 0.0
+
+
+name: Coumestrol
+unit: mg
+value: 0.01
+label: cup
+value: 0.01
+label: oz (49 kernels)
+value: 0.0
+label: kernel
+value: 0.0
+
+
+name: Proanthocyanidin dimers
+unit: mg
+value: 13.3
+label: cup
+value: 16.3
+label: oz (49 kernels)
+value: 3.8
+label: kernel
+value: 0.1
+
+
+name: Proanthocyanidin trimers
+unit: mg
+value: 10.5
+label: cup
+value: 12.9
+label: oz (49 kernels)
+value: 3.0
+label: kernel
+value: 0.1
+
+
+name: Proanthocyanidin 4-6mers
+unit: mg
+value: 42.2
+label: cup
+value: 52.0
+label: oz (49 kernels)
+value: 12.0
+label: kernel
+value: 0.3
+
+
+name: Proanthocyanidin 7-10mers
+unit: mg
+value: 37.9
+label: cup
+value: 46.7
+label: oz (49 kernels)
+value: 10.8
+label: kernel
+value: 0.3
+
+
+name: Proanthocyanidin polymers (>10mers)
+unit: mg
+value: 122.5
+label: cup
+value: 150.6
+label: oz (49 kernels)
+value: 34.7
+label: kernel
+value: 0.9
+

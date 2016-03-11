@@ -1,0 +1,432 @@
+ndbno: 16160
+
+
+name: Tofu, hard, prepared with nigari
+
+
+name: Water
+unit: g
+value: 71.12
+label: block
+value: 86.77
+
+
+name: Energy
+unit: kcal
+value: 145.0
+label: block
+value: 177.0
+
+
+name: Energy
+unit: kJ
+value: 609.0
+label: block
+value: 743.0
+
+
+name: Protein
+unit: g
+value: 12.68
+label: block
+value: 15.47
+
+
+name: Total lipid (fat)
+unit: g
+value: 9.99
+label: block
+value: 12.19
+
+
+name: Ash
+unit: g
+value: 1.82
+label: block
+value: 2.22
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 4.39
+label: block
+value: 5.36
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.6
+label: block
+value: 0.7
+
+
+name: Calcium, Ca
+unit: mg
+value: 345.0
+label: block
+value: 421.0
+
+
+name: Iron, Fe
+unit: mg
+value: 2.75
+label: block
+value: 3.36
+
+
+name: Magnesium, Mg
+unit: mg
+value: 53.0
+label: block
+value: 65.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 231.0
+label: block
+value: 282.0
+
+
+name: Potassium, K
+unit: mg
+value: 146.0
+label: block
+value: 178.0
+
+
+name: Sodium, Na
+unit: mg
+value: 2.0
+label: block
+value: 2.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 1.66
+label: block
+value: 2.03
+
+
+name: Copper, Cu
+unit: mg
+value: 0.328
+label: block
+value: 0.4
+
+
+name: Manganese, Mn
+unit: mg
+value: 1.052
+label: block
+value: 1.283
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 16.8
+label: block
+value: 20.5
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.3
+label: block
+value: 0.4
+
+
+name: Thiamin
+unit: mg
+value: 0.042
+label: block
+value: 0.051
+
+
+name: Riboflavin
+unit: mg
+value: 0.077
+label: block
+value: 0.094
+
+
+name: Niacin
+unit: mg
+value: 0.639
+label: block
+value: 0.78
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.037
+label: block
+value: 0.045
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.039
+label: block
+value: 0.048
+
+
+name: Folate, total
+unit: \u00B5g
+value: 22.0
+label: block
+value: 27.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: block
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 22.0
+label: block
+value: 27.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 22.0
+label: block
+value: 27.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: block
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: block
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: block
+value: 0.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 1.445
+label: block
+value: 1.763
+
+
+name: 14:0
+unit: g
+value: 0.027
+label: block
+value: 0.033
+
+
+name: 16:0
+unit: g
+value: 1.06
+label: block
+value: 1.293
+
+
+name: 18:0
+unit: g
+value: 0.356
+label: block
+value: 0.434
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 2.205
+label: block
+value: 2.69
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.027
+label: block
+value: 0.033
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 2.178
+label: block
+value: 2.657
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 5.638
+label: block
+value: 6.878
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 4.971
+label: block
+value: 6.065
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.667
+label: block
+value: 0.814
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.0
+label: block
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: block
+value: 0.0
+
+
+name: Tryptophan
+unit: g
+value: 0.188
+label: block
+value: 0.229
+
+
+name: Threonine
+unit: g
+value: 0.63
+label: block
+value: 0.769
+
+
+name: Isoleucine
+unit: g
+value: 0.682
+label: block
+value: 0.832
+
+
+name: Leucine
+unit: g
+value: 1.118
+label: block
+value: 1.364
+
+
+name: Lysine
+unit: g
+value: 0.709
+label: block
+value: 0.865
+
+
+name: Methionine
+unit: g
+value: 0.169
+label: block
+value: 0.206
+
+
+name: Cystine
+unit: g
+value: 0.046
+label: block
+value: 0.056
+
+
+name: Phenylalanine
+unit: g
+value: 0.671
+label: block
+value: 0.819
+
+
+name: Tyrosine
+unit: g
+value: 0.563
+label: block
+value: 0.687
+
+
+name: Valine
+unit: g
+value: 0.699
+label: block
+value: 0.853
+
+
+name: Arginine
+unit: g
+value: 1.1
+label: block
+value: 1.342
+
+
+name: Histidine
+unit: g
+value: 0.346
+label: block
+value: 0.422
+
+
+name: Alanine
+unit: g
+value: 0.621
+label: block
+value: 0.758
+
+
+name: Aspartic acid
+unit: g
+value: 1.636
+label: block
+value: 1.996
+
+
+name: Glutamic acid
+unit: g
+value: 2.642
+label: block
+value: 3.223
+
+
+name: Glycine
+unit: g
+value: 0.589
+label: block
+value: 0.719
+
+
+name: Proline
+unit: g
+value: 0.871
+label: block
+value: 1.063
+
+
+name: Serine
+unit: g
+value: 0.815
+label: block
+value: 0.994
+

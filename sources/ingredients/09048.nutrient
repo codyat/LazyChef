@@ -1,0 +1,655 @@
+ndbno: 09048
+
+
+name: Blackberries, frozen, unsweetened
+
+
+name: Water
+unit: g
+value: 82.21
+label: cup, unthawed
+value: 124.14
+label: package (18 oz)
+value: 419.27
+
+
+name: Energy
+unit: kcal
+value: 64.0
+label: cup, unthawed
+value: 97.0
+label: package (18 oz)
+value: 326.0
+
+
+name: Energy
+unit: kJ
+value: 268.0
+label: cup, unthawed
+value: 405.0
+label: package (18 oz)
+value: 1367.0
+
+
+name: Protein
+unit: g
+value: 1.18
+label: cup, unthawed
+value: 1.78
+label: package (18 oz)
+value: 6.02
+
+
+name: Total lipid (fat)
+unit: g
+value: 0.43
+label: cup, unthawed
+value: 0.65
+label: package (18 oz)
+value: 2.19
+
+
+name: Ash
+unit: g
+value: 0.51
+label: cup, unthawed
+value: 0.77
+label: package (18 oz)
+value: 2.6
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 15.67
+label: cup, unthawed
+value: 23.66
+label: package (18 oz)
+value: 79.92
+
+
+name: Fiber, total dietary
+unit: g
+value: 5.0
+label: cup, unthawed
+value: 7.6
+label: package (18 oz)
+value: 25.5
+
+
+name: Sugars, total
+unit: g
+value: 10.67
+label: cup, unthawed
+value: 16.11
+label: package (18 oz)
+value: 54.42
+
+
+name: Calcium, Ca
+unit: mg
+value: 29.0
+label: cup, unthawed
+value: 44.0
+label: package (18 oz)
+value: 148.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.8
+label: cup, unthawed
+value: 1.21
+label: package (18 oz)
+value: 4.08
+
+
+name: Magnesium, Mg
+unit: mg
+value: 22.0
+label: cup, unthawed
+value: 33.0
+label: package (18 oz)
+value: 112.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 30.0
+label: cup, unthawed
+value: 45.0
+label: package (18 oz)
+value: 153.0
+
+
+name: Potassium, K
+unit: mg
+value: 140.0
+label: cup, unthawed
+value: 211.0
+label: package (18 oz)
+value: 714.0
+
+
+name: Sodium, Na
+unit: mg
+value: 1.0
+label: cup, unthawed
+value: 2.0
+label: package (18 oz)
+value: 5.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.25
+label: cup, unthawed
+value: 0.38
+label: package (18 oz)
+value: 1.28
+
+
+name: Copper, Cu
+unit: mg
+value: 0.12
+label: cup, unthawed
+value: 0.181
+label: package (18 oz)
+value: 0.612
+
+
+name: Manganese, Mn
+unit: mg
+value: 1.223
+label: cup, unthawed
+value: 1.847
+label: package (18 oz)
+value: 6.237
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 0.4
+label: cup, unthawed
+value: 0.6
+label: package (18 oz)
+value: 2.0
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 3.1
+label: cup, unthawed
+value: 4.7
+label: package (18 oz)
+value: 15.8
+
+
+name: Thiamin
+unit: mg
+value: 0.029
+label: cup, unthawed
+value: 0.044
+label: package (18 oz)
+value: 0.148
+
+
+name: Riboflavin
+unit: mg
+value: 0.046
+label: cup, unthawed
+value: 0.069
+label: package (18 oz)
+value: 0.235
+
+
+name: Niacin
+unit: mg
+value: 1.207
+label: cup, unthawed
+value: 1.823
+label: package (18 oz)
+value: 6.156
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.151
+label: cup, unthawed
+value: 0.228
+label: package (18 oz)
+value: 0.77
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.061
+label: cup, unthawed
+value: 0.092
+label: package (18 oz)
+value: 0.311
+
+
+name: Folate, total
+unit: \u00B5g
+value: 34.0
+label: cup, unthawed
+value: 51.0
+label: package (18 oz)
+value: 173.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: cup, unthawed
+value: 0.0
+label: package (18 oz)
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 34.0
+label: cup, unthawed
+value: 51.0
+label: package (18 oz)
+value: 173.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 34.0
+label: cup, unthawed
+value: 51.0
+label: package (18 oz)
+value: 173.0
+
+
+name: Choline, total
+unit: mg
+value: 8.5
+label: cup, unthawed
+value: 12.8
+label: package (18 oz)
+value: 43.4
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: cup, unthawed
+value: 0.0
+label: package (18 oz)
+value: 0.0
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: cup, unthawed
+value: 0.0
+label: package (18 oz)
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 6.0
+label: cup, unthawed
+value: 9.0
+label: package (18 oz)
+value: 31.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: cup, unthawed
+value: 0.0
+label: package (18 oz)
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 68.0
+label: cup, unthawed
+value: 103.0
+label: package (18 oz)
+value: 347.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: cup, unthawed
+value: 0.0
+label: package (18 oz)
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: cup, unthawed
+value: 0.0
+label: package (18 oz)
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 114.0
+label: cup, unthawed
+value: 172.0
+label: package (18 oz)
+value: 581.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: cup, unthawed
+value: 0.0
+label: package (18 oz)
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 118.0
+label: cup, unthawed
+value: 178.0
+label: package (18 oz)
+value: 602.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 1.17
+label: cup, unthawed
+value: 1.77
+label: package (18 oz)
+value: 5.97
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: cup, unthawed
+value: 0.0
+label: package (18 oz)
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: cup, unthawed
+value: 0.0
+label: package (18 oz)
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: cup, unthawed
+value: 0.0
+label: package (18 oz)
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 19.8
+label: cup, unthawed
+value: 29.9
+label: package (18 oz)
+value: 101.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.015
+label: cup, unthawed
+value: 0.023
+label: package (18 oz)
+value: 0.076
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: cup, unthawed
+value: 0.0
+label: package (18 oz)
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: cup, unthawed
+value: 0.0
+label: package (18 oz)
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: cup, unthawed
+value: 0.0
+label: package (18 oz)
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: cup, unthawed
+value: 0.0
+label: package (18 oz)
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: cup, unthawed
+value: 0.0
+label: package (18 oz)
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.0
+label: cup, unthawed
+value: 0.0
+label: package (18 oz)
+value: 0.0
+
+
+name: 16:0
+unit: g
+value: 0.01
+label: cup, unthawed
+value: 0.015
+label: package (18 oz)
+value: 0.051
+
+
+name: 18:0
+unit: g
+value: 0.002
+label: cup, unthawed
+value: 0.003
+label: package (18 oz)
+value: 0.01
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.041
+label: cup, unthawed
+value: 0.062
+label: package (18 oz)
+value: 0.209
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.0
+label: cup, unthawed
+value: 0.0
+label: package (18 oz)
+value: 0.0
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.038
+label: cup, unthawed
+value: 0.057
+label: package (18 oz)
+value: 0.194
+
+
+name: 20:1
+unit: g
+value: 0.003
+label: cup, unthawed
+value: 0.005
+label: package (18 oz)
+value: 0.015
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: cup, unthawed
+value: 0.0
+label: package (18 oz)
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.245
+label: cup, unthawed
+value: 0.37
+label: package (18 oz)
+value: 1.25
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.163
+label: cup, unthawed
+value: 0.246
+label: package (18 oz)
+value: 0.831
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.082
+label: cup, unthawed
+value: 0.124
+label: package (18 oz)
+value: 0.418
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: cup, unthawed
+value: 0.0
+label: package (18 oz)
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: cup, unthawed
+value: 0.0
+label: package (18 oz)
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: cup, unthawed
+value: 0.0
+label: package (18 oz)
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: cup, unthawed
+value: 0.0
+label: package (18 oz)
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: cup, unthawed
+value: 0.0
+label: package (18 oz)
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.0
+label: cup, unthawed
+value: 0.0
+label: package (18 oz)
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: cup, unthawed
+value: 0.0
+label: package (18 oz)
+value: 0.0
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: cup, unthawed
+value: 0.0
+label: package (18 oz)
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: cup, unthawed
+value: 0.0
+label: package (18 oz)
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: cup, unthawed
+value: 0.0
+label: package (18 oz)
+value: 0.0
+
+
+

@@ -1,0 +1,618 @@
+ndbno: 11973
+
+
+name: Beans, fava, in pod, raw
+
+
+name: Water
+unit: g
+value: 72.6
+label: cup
+value: 91.48
+label: pod
+value: 4.43
+
+
+name: Energy
+unit: kcal
+value: 88.0
+label: cup
+value: 111.0
+label: pod
+value: 5.0
+
+
+name: Energy
+unit: kJ
+value: 368.0
+label: cup
+value: 464.0
+label: pod
+value: 22.0
+
+
+name: Protein
+unit: g
+value: 7.92
+label: cup
+value: 9.98
+label: pod
+value: 0.48
+
+
+name: Total lipid (fat)
+unit: g
+value: 0.73
+label: cup
+value: 0.92
+label: pod
+value: 0.04
+
+
+name: Ash
+unit: g
+value: 1.12
+label: cup
+value: 1.41
+label: pod
+value: 0.07
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 17.63
+label: cup
+value: 22.21
+label: pod
+value: 1.08
+
+
+name: Fiber, total dietary
+unit: g
+value: 7.5
+label: cup
+value: 9.4
+label: pod
+value: 0.5
+
+
+name: Sugars, total
+unit: g
+value: 9.21
+label: cup
+value: 11.6
+label: pod
+value: 0.56
+
+
+name: Calcium, Ca
+unit: mg
+value: 37.0
+label: cup
+value: 47.0
+label: pod
+value: 2.0
+
+
+name: Iron, Fe
+unit: mg
+value: 1.55
+label: cup
+value: 1.95
+label: pod
+value: 0.09
+
+
+name: Magnesium, Mg
+unit: mg
+value: 33.0
+label: cup
+value: 42.0
+label: pod
+value: 2.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 129.0
+label: cup
+value: 163.0
+label: pod
+value: 8.0
+
+
+name: Potassium, K
+unit: mg
+value: 332.0
+label: cup
+value: 418.0
+label: pod
+value: 20.0
+
+
+name: Sodium, Na
+unit: mg
+value: 25.0
+label: cup
+value: 32.0
+label: pod
+value: 2.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 1.0
+label: cup
+value: 1.26
+label: pod
+value: 0.06
+
+
+name: Copper, Cu
+unit: mg
+value: 0.402
+label: cup
+value: 0.507
+label: pod
+value: 0.025
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.661
+label: cup
+value: 0.833
+label: pod
+value: 0.04
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 0.8
+label: cup
+value: 1.0
+label: pod
+value: 0.0
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 3.7
+label: cup
+value: 4.7
+label: pod
+value: 0.2
+
+
+name: Thiamin
+unit: mg
+value: 0.133
+label: cup
+value: 0.168
+label: pod
+value: 0.008
+
+
+name: Riboflavin
+unit: mg
+value: 0.29
+label: cup
+value: 0.365
+label: pod
+value: 0.018
+
+
+name: Niacin
+unit: mg
+value: 2.249
+label: cup
+value: 2.834
+label: pod
+value: 0.137
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.225
+label: cup
+value: 0.284
+label: pod
+value: 0.014
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.104
+label: cup
+value: 0.131
+label: pod
+value: 0.006
+
+
+name: Folate, total
+unit: \u00B5g
+value: 148.0
+label: cup
+value: 186.0
+label: pod
+value: 9.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: pod
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 148.0
+label: cup
+value: 186.0
+label: pod
+value: 9.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 148.0
+label: cup
+value: 186.0
+label: pod
+value: 9.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: pod
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 17.0
+label: cup
+value: 21.0
+label: pod
+value: 1.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: pod
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 196.0
+label: cup
+value: 247.0
+label: pod
+value: 12.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: pod
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 9.0
+label: cup
+value: 11.0
+label: pod
+value: 1.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 333.0
+label: cup
+value: 420.0
+label: pod
+value: 20.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: pod
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 1811.0
+label: cup
+value: 2282.0
+label: pod
+value: 110.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 1.16
+label: cup
+value: 1.46
+label: pod
+value: 0.07
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: pod
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: cup
+value: 0.0
+label: pod
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 40.9
+label: cup
+value: 51.5
+label: pod
+value: 2.5
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.118
+label: cup
+value: 0.149
+label: pod
+value: 0.007
+
+
+name: 12:0
+unit: g
+value: 0.001
+label: cup
+value: 0.001
+label: pod
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.002
+label: cup
+value: 0.003
+label: pod
+value: 0.0
+
+
+name: 15:0
+unit: g
+value: 0.002
+label: cup
+value: 0.003
+label: pod
+value: 0.0
+
+
+name: 16:0
+unit: g
+value: 0.065
+label: cup
+value: 0.082
+label: pod
+value: 0.004
+
+
+name: 17:0
+unit: g
+value: 0.002
+label: cup
+value: 0.003
+label: pod
+value: 0.0
+
+
+name: 18:0
+unit: g
+value: 0.028
+label: cup
+value: 0.035
+label: pod
+value: 0.002
+
+
+name: 20:0
+unit: g
+value: 0.01
+label: cup
+value: 0.013
+label: pod
+value: 0.001
+
+
+name: 22:0
+unit: g
+value: 0.005
+label: cup
+value: 0.006
+label: pod
+value: 0.0
+
+
+name: 24:0
+unit: g
+value: 0.003
+label: cup
+value: 0.004
+label: pod
+value: 0.0
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.104
+label: cup
+value: 0.131
+label: pod
+value: 0.006
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.004
+label: cup
+value: 0.005
+label: pod
+value: 0.0
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.097
+label: cup
+value: 0.122
+label: pod
+value: 0.006
+
+
+name: 20:1
+unit: g
+value: 0.003
+label: cup
+value: 0.004
+label: pod
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.342
+label: cup
+value: 0.431
+label: pod
+value: 0.021
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.312
+label: cup
+value: 0.393
+label: pod
+value: 0.019
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.03
+label: cup
+value: 0.038
+label: pod
+value: 0.002
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: pod
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: pod
+value: 0.0
+
+
+name: Phytosterols
+unit: mg
+value: 22.0
+label: cup
+value: 28.0
+label: pod
+value: 1.0
+
+
+name: Stigmasterol
+unit: mg
+value: 1.0
+label: cup
+value: 1.0
+label: pod
+value: 0.0
+
+
+name: Campesterol
+unit: mg
+value: 3.0
+label: cup
+value: 4.0
+label: pod
+value: 0.0
+
+
+name: Beta-sitosterol
+unit: mg
+value: 18.0
+label: cup
+value: 23.0
+label: pod
+value: 1.0
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: pod
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: pod
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: pod
+value: 0.0
+
+

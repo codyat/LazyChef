@@ -1,0 +1,555 @@
+ndbno: 10994
+
+
+name: Bacon, pre-sliced, reduced/low sodium, unprepared
+
+
+name: Water
+unit: g
+value: 45.01
+label: slice
+value: 11.7
+label: package
+value: 200.74
+
+
+name: Energy
+unit: kcal
+value: 407.0
+label: slice
+value: 106.0
+label: package
+value: 1815.0
+
+
+name: Energy
+unit: kJ
+value: 1702.0
+label: slice
+value: 443.0
+label: package
+value: 7591.0
+
+
+name: Protein
+unit: g
+value: 12.53
+label: slice
+value: 3.26
+label: package
+value: 55.88
+
+
+name: Total lipid (fat)
+unit: g
+value: 39.27
+label: slice
+value: 10.21
+label: package
+value: 175.14
+
+
+name: Ash
+unit: g
+value: 2.4
+label: slice
+value: 0.62
+label: package
+value: 10.7
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 0.83
+label: slice
+value: 0.22
+label: package
+value: 3.7
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: slice
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Sugars, total
+unit: g
+value: 0.83
+label: slice
+value: 0.22
+label: package
+value: 3.7
+
+
+name: Sucrose
+unit: g
+value: 0.83
+label: slice
+value: 0.22
+label: package
+value: 3.7
+
+
+name: Glucose (dextrose)
+unit: g
+value: 0.0
+label: slice
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Fructose
+unit: g
+value: 0.0
+label: slice
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Lactose
+unit: g
+value: 0.0
+label: slice
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Maltose
+unit: g
+value: 0.0
+label: slice
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Galactose
+unit: g
+value: 0.0
+label: slice
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 4.0
+label: slice
+value: 1.0
+label: package
+value: 18.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.42
+label: slice
+value: 0.11
+label: package
+value: 1.87
+
+
+name: Magnesium, Mg
+unit: mg
+value: 12.0
+label: slice
+value: 3.0
+label: package
+value: 54.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 180.0
+label: slice
+value: 47.0
+label: package
+value: 803.0
+
+
+name: Potassium, K
+unit: mg
+value: 506.0
+label: slice
+value: 132.0
+label: package
+value: 2257.0
+
+
+name: Sodium, Na
+unit: mg
+value: 470.0
+label: slice
+value: 122.0
+label: package
+value: 2096.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 1.19
+label: slice
+value: 0.31
+label: package
+value: 5.31
+
+
+name: Copper, Cu
+unit: mg
+value: 0.047
+label: slice
+value: 0.012
+label: package
+value: 0.21
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.011
+label: slice
+value: 0.003
+label: package
+value: 0.049
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: slice
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.5
+label: slice
+value: 0.13
+label: package
+value: 2.23
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: slice
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 0.0
+label: slice
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 0.0
+label: slice
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: slice
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: slice
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 0.0
+label: slice
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: slice
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 0.0
+label: slice
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.43
+label: slice
+value: 0.11
+label: package
+value: 1.92
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: slice
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 0.0
+label: slice
+value: 0.0
+label: package
+value: 0.0
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: slice
+value: 0.0
+label: package
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: slice
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Tryptophan
+unit: g
+value: 0.149
+label: slice
+value: 0.039
+label: package
+value: 0.665
+
+
+name: Threonine
+unit: g
+value: 0.551
+label: slice
+value: 0.143
+label: package
+value: 2.457
+
+
+name: Isoleucine
+unit: g
+value: 0.593
+label: slice
+value: 0.154
+label: package
+value: 2.645
+
+
+name: Leucine
+unit: g
+value: 1.031
+label: slice
+value: 0.268
+label: package
+value: 4.598
+
+
+name: Lysine
+unit: g
+value: 1.114
+label: slice
+value: 0.29
+label: package
+value: 4.968
+
+
+name: Methionine
+unit: g
+value: 0.343
+label: slice
+value: 0.089
+label: package
+value: 1.53
+
+
+name: Cystine
+unit: g
+value: 0.141
+label: slice
+value: 0.037
+label: package
+value: 0.629
+
+
+name: Phenylalanine
+unit: g
+value: 0.521
+label: slice
+value: 0.135
+label: package
+value: 2.324
+
+
+name: Tyrosine
+unit: g
+value: 0.496
+label: slice
+value: 0.129
+label: package
+value: 2.212
+
+
+name: Valine
+unit: g
+value: 0.634
+label: slice
+value: 0.165
+label: package
+value: 2.828
+
+
+name: Arginine
+unit: g
+value: 0.807
+label: slice
+value: 0.21
+label: package
+value: 3.599
+
+
+name: Histidine
+unit: g
+value: 0.51
+label: slice
+value: 0.133
+label: package
+value: 2.275
+
+
+name: Alanine
+unit: g
+value: 0.718
+label: slice
+value: 0.187
+label: package
+value: 3.202
+
+
+name: Aspartic acid
+unit: g
+value: 1.172
+label: slice
+value: 0.305
+label: package
+value: 5.227
+
+
+name: Glutamic acid
+unit: g
+value: 1.914
+label: slice
+value: 0.498
+label: package
+value: 8.536
+
+
+name: Glycine
+unit: g
+value: 0.566
+label: slice
+value: 0.147
+label: package
+value: 2.524
+
+
+name: Proline
+unit: g
+value: 0.507
+label: slice
+value: 0.132
+label: package
+value: 2.261
+
+
+name: Serine
+unit: g
+value: 0.523
+label: slice
+value: 0.136
+label: package
+value: 2.333
+
+
+name: Hydroxyproline
+unit: g
+value: 0.044
+label: slice
+value: 0.011
+label: package
+value: 0.196
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: slice
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: slice
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: slice
+value: 0.0
+label: package
+value: 0.0
+
+

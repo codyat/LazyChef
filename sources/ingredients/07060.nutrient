@@ -1,0 +1,682 @@
+ndbno: 07060
+
+
+name: Luxury loaf, pork
+
+
+name: Water
+unit: g
+value: 68.2
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 19.1
+label: slices
+value: 38.87
+
+
+name: Energy
+unit: kcal
+value: 141.0
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 39.0
+label: slices
+value: 80.0
+
+
+name: Energy
+unit: kJ
+value: 590.0
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 165.0
+label: slices
+value: 336.0
+
+
+name: Protein
+unit: g
+value: 18.4
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 5.15
+label: slices
+value: 10.49
+
+
+name: Total lipid (fat)
+unit: g
+value: 4.8
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 1.34
+label: slices
+value: 2.74
+
+
+name: Ash
+unit: g
+value: 3.6
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 1.01
+label: slices
+value: 2.05
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 4.9
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 1.37
+label: slices
+value: 2.79
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 0.0
+label: slices
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 36.0
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 10.0
+label: slices
+value: 21.0
+
+
+name: Iron, Fe
+unit: mg
+value: 1.05
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 0.29
+label: slices
+value: 0.6
+
+
+name: Magnesium, Mg
+unit: mg
+value: 20.0
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 6.0
+label: slices
+value: 11.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 185.0
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 52.0
+label: slices
+value: 105.0
+
+
+name: Potassium, K
+unit: mg
+value: 377.0
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 106.0
+label: slices
+value: 215.0
+
+
+name: Sodium, Na
+unit: mg
+value: 1225.0
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 343.0
+label: slices
+value: 698.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 3.05
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 0.85
+label: slices
+value: 1.74
+
+
+name: Copper, Cu
+unit: mg
+value: 0.1
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 0.028
+label: slices
+value: 0.057
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.041
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 0.011
+label: slices
+value: 0.023
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 21.5
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 6.0
+label: slices
+value: 12.3
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 0.0
+label: slices
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.707
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 0.198
+label: slices
+value: 0.403
+
+
+name: Riboflavin
+unit: mg
+value: 0.297
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 0.083
+label: slices
+value: 0.169
+
+
+name: Niacin
+unit: mg
+value: 3.482
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 0.975
+label: slices
+value: 1.985
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.515
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 0.144
+label: slices
+value: 0.294
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.31
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 0.087
+label: slices
+value: 0.177
+
+
+name: Folate, total
+unit: \u00B5g
+value: 2.0
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 1.0
+label: slices
+value: 1.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 0.0
+label: slices
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 2.0
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 1.0
+label: slices
+value: 1.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 2.0
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 1.0
+label: slices
+value: 1.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 1.37
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 0.38
+label: slices
+value: 0.78
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 0.0
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 0.0
+label: slices
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 0.0
+label: slices
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 0.0
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 0.0
+label: slices
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.7
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 0.2
+label: slices
+value: 0.4
+
+
+name: Vitamin D
+unit: IU
+value: 28.0
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 8.0
+label: slices
+value: 16.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 1.58
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 0.442
+label: slices
+value: 0.901
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 0.0
+label: slices
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 0.0
+label: slices
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 0.0
+label: slices
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.02
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 0.006
+label: slices
+value: 0.011
+
+
+name: 12:0
+unit: g
+value: 0.01
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 0.003
+label: slices
+value: 0.006
+
+
+name: 14:0
+unit: g
+value: 0.06
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 0.017
+label: slices
+value: 0.034
+
+
+name: 16:0
+unit: g
+value: 0.97
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 0.272
+label: slices
+value: 0.553
+
+
+name: 18:0
+unit: g
+value: 0.52
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 0.146
+label: slices
+value: 0.296
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 2.33
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 0.652
+label: slices
+value: 1.328
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.18
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 0.05
+label: slices
+value: 0.103
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 2.15
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 0.602
+label: slices
+value: 1.226
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 0.0
+label: slices
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 0.0
+label: slices
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.51
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 0.143
+label: slices
+value: 0.291
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.46
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 0.129
+label: slices
+value: 0.262
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.05
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 0.014
+label: slices
+value: 0.028
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 0.0
+label: slices
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 0.0
+label: slices
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 0.0
+label: slices
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 0.0
+label: slices
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 0.0
+label: slices
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 36.0
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 10.0
+label: slices
+value: 21.0
+
+
+name: Tryptophan
+unit: g
+value: 0.215
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 0.06
+label: slices
+value: 0.123
+
+
+name: Threonine
+unit: g
+value: 0.879
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 0.246
+label: slices
+value: 0.501
+
+
+name: Isoleucine
+unit: g
+value: 0.815
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 0.228
+label: slices
+value: 0.465
+
+
+name: Leucine
+unit: g
+value: 1.517
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 0.425
+label: slices
+value: 0.865
+
+
+name: Lysine
+unit: g
+value: 1.653
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 0.463
+label: slices
+value: 0.942
+
+
+name: Methionine
+unit: g
+value: 0.468
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 0.131
+label: slices
+value: 0.267
+
+
+name: Cystine
+unit: g
+value: 0.153
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 0.043
+label: slices
+value: 0.087
+
+
+name: Phenylalanine
+unit: g
+value: 0.718
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 0.201
+label: slices
+value: 0.409
+
+
+name: Tyrosine
+unit: g
+value: 0.644
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 0.18
+label: slices
+value: 0.367
+
+
+name: Valine
+unit: g
+value: 0.894
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 0.25
+label: slices
+value: 0.51
+
+
+name: Arginine
+unit: g
+value: 1.17
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 0.328
+label: slices
+value: 0.667
+
+
+name: Histidine
+unit: g
+value: 0.656
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 0.184
+label: slices
+value: 0.374
+
+
+name: Alanine
+unit: g
+value: 1.073
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 0.3
+label: slices
+value: 0.612
+
+
+name: Aspartic acid
+unit: g
+value: 1.741
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 0.487
+label: slices
+value: 0.992
+
+
+name: Glutamic acid
+unit: g
+value: 2.941
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 0.823
+label: slices
+value: 1.676
+
+
+name: Glycine
+unit: g
+value: 0.929
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 0.26
+label: slices
+value: 0.53
+
+
+name: Proline
+unit: g
+value: 0.912
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 0.255
+label: slices
+value: 0.52
+
+
+name: Serine
+unit: g
+value: 0.826
+label: slice (1 oz) (4\ x 4\ x 3/32\ thick)
+value: 0.231
+label: slices
+value: 0.471
+
+
+

@@ -1,0 +1,888 @@
+ndbno: 01259
+
+
+name: Cheese spread, American or Cheddar cheese base, reduced fat
+
+
+name: Water
+unit: g
+value: 61.82
+label: piece
+value: 12.98
+label: package
+value: 349.9
+
+
+name: Energy
+unit: kcal
+value: 176.0
+label: piece
+value: 37.0
+label: package
+value: 996.0
+
+
+name: Energy
+unit: kJ
+value: 738.0
+label: piece
+value: 155.0
+label: package
+value: 4177.0
+
+
+name: Protein
+unit: g
+value: 13.41
+label: piece
+value: 2.82
+label: package
+value: 75.9
+
+
+name: Total lipid (fat)
+unit: g
+value: 8.88
+label: piece
+value: 1.86
+label: package
+value: 50.26
+
+
+name: Ash
+unit: g
+value: 5.18
+label: piece
+value: 1.09
+label: package
+value: 29.32
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 10.71
+label: piece
+value: 2.25
+label: package
+value: 60.62
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: piece
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Sugars, total
+unit: g
+value: 7.06
+label: piece
+value: 1.48
+label: package
+value: 39.96
+
+
+name: Calcium, Ca
+unit: mg
+value: 557.0
+label: piece
+value: 117.0
+label: package
+value: 3153.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.36
+label: piece
+value: 0.08
+label: package
+value: 2.04
+
+
+name: Magnesium, Mg
+unit: mg
+value: 27.0
+label: piece
+value: 6.0
+label: package
+value: 153.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 931.0
+label: piece
+value: 196.0
+label: package
+value: 5269.0
+
+
+name: Potassium, K
+unit: mg
+value: 250.0
+label: piece
+value: 52.0
+label: package
+value: 1415.0
+
+
+name: Sodium, Na
+unit: mg
+value: 1102.0
+label: piece
+value: 231.0
+label: package
+value: 6237.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 1.81
+label: piece
+value: 0.38
+label: package
+value: 10.24
+
+
+name: Copper, Cu
+unit: mg
+value: 0.032
+label: piece
+value: 0.007
+label: package
+value: 0.181
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.026
+label: piece
+value: 0.005
+label: package
+value: 0.147
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 15.5
+label: piece
+value: 3.3
+label: package
+value: 87.7
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: piece
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.038
+label: piece
+value: 0.008
+label: package
+value: 0.215
+
+
+name: Riboflavin
+unit: mg
+value: 0.442
+label: piece
+value: 0.093
+label: package
+value: 2.502
+
+
+name: Niacin
+unit: mg
+value: 0.153
+label: piece
+value: 0.032
+label: package
+value: 0.866
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.797
+label: piece
+value: 0.167
+label: package
+value: 4.511
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.099
+label: piece
+value: 0.021
+label: package
+value: 0.56
+
+
+name: Folate, total
+unit: \u00B5g
+value: 0.0
+label: piece
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: piece
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 0.0
+label: piece
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 0.0
+label: piece
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Choline, total
+unit: mg
+value: 42.6
+label: piece
+value: 8.9
+label: package
+value: 241.1
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 1.17
+label: piece
+value: 0.25
+label: package
+value: 6.62
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: piece
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 185.0
+label: piece
+value: 39.0
+label: package
+value: 1047.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 183.0
+label: piece
+value: 38.0
+label: package
+value: 1036.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 27.0
+label: piece
+value: 6.0
+label: package
+value: 153.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: piece
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 1.0
+label: piece
+value: 0.0
+label: package
+value: 6.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 656.0
+label: piece
+value: 138.0
+label: package
+value: 3713.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: piece
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 11.0
+label: piece
+value: 2.0
+label: package
+value: 62.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.46
+label: piece
+value: 0.1
+label: package
+value: 2.6
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: piece
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: piece
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: piece
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 0.0
+label: piece
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 5.647
+label: piece
+value: 1.186
+label: package
+value: 31.962
+
+
+name: 4:0
+unit: g
+value: 0.205
+label: piece
+value: 0.043
+label: package
+value: 1.16
+
+
+name: 6:0
+unit: g
+value: 0.156
+label: piece
+value: 0.033
+label: package
+value: 0.883
+
+
+name: 8:0
+unit: g
+value: 0.104
+label: piece
+value: 0.022
+label: package
+value: 0.589
+
+
+name: 10:0
+unit: g
+value: 0.247
+label: piece
+value: 0.052
+label: package
+value: 1.398
+
+
+name: 12:0
+unit: g
+value: 0.28
+label: piece
+value: 0.059
+label: package
+value: 1.585
+
+
+name: 14:0
+unit: g
+value: 0.906
+label: piece
+value: 0.19
+label: package
+value: 5.128
+
+
+name: 15:0
+unit: g
+value: 0.098
+label: piece
+value: 0.021
+label: package
+value: 0.555
+
+
+name: 16:0
+unit: g
+value: 2.61
+label: piece
+value: 0.548
+label: package
+value: 14.773
+
+
+name: 17:0
+unit: g
+value: 0.057
+label: piece
+value: 0.012
+label: package
+value: 0.323
+
+
+name: 18:0
+unit: g
+value: 0.962
+label: piece
+value: 0.202
+label: package
+value: 5.445
+
+
+name: 20:0
+unit: g
+value: 0.014
+label: piece
+value: 0.003
+label: package
+value: 0.079
+
+
+name: 22:0
+unit: g
+value: 0.004
+label: piece
+value: 0.001
+label: package
+value: 0.023
+
+
+name: 24:0
+unit: g
+value: 0.003
+label: piece
+value: 0.001
+label: package
+value: 0.017
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 2.458
+label: piece
+value: 0.516
+label: package
+value: 13.912
+
+
+name: 14:1
+unit: g
+value: 0.092
+label: piece
+value: 0.019
+label: package
+value: 0.521
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: piece
+value: 0.0
+label: package
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.152
+label: piece
+value: 0.032
+label: package
+value: 0.86
+
+
+name: 16:1 c
+unit: g
+value: 0.121
+label: piece
+value: 0.025
+label: package
+value: 0.685
+
+
+name: 16:1 t
+unit: g
+value: 0.031
+label: piece
+value: 0.007
+label: package
+value: 0.175
+
+
+name: 17:1
+unit: g
+value: 0.018
+label: piece
+value: 0.004
+label: package
+value: 0.102
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 2.173
+label: piece
+value: 0.456
+label: package
+value: 12.299
+
+
+name: 18:1 c
+unit: g
+value: 1.938
+label: piece
+value: 0.407
+label: package
+value: 10.969
+
+
+name: 18:1 t
+unit: g
+value: 0.235
+label: piece
+value: 0.049
+label: package
+value: 1.33
+
+
+name: 20:1
+unit: g
+value: 0.019
+label: piece
+value: 0.004
+label: package
+value: 0.108
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: piece
+value: 0.0
+label: package
+value: 0.0
+
+
+name: 22:1 c
+unit: g
+value: 0.0
+label: piece
+value: 0.0
+label: package
+value: 0.0
+
+
+name: 22:1 t
+unit: g
+value: 0.0
+label: piece
+value: 0.0
+label: package
+value: 0.0
+
+
+name: 24:1 c
+unit: g
+value: 0.005
+label: piece
+value: 0.001
+label: package
+value: 0.028
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.415
+label: piece
+value: 0.087
+label: package
+value: 2.349
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.331
+label: piece
+value: 0.07
+label: package
+value: 1.873
+
+
+name: 18:2 n-6 c,c
+unit: g
+value: 0.226
+label: piece
+value: 0.047
+label: package
+value: 1.279
+
+
+name: 18:2 CLAs
+unit: g
+value: 0.045
+label: piece
+value: 0.009
+label: package
+value: 0.255
+
+
+name: 18:2 t not further defined
+unit: g
+value: 0.06
+label: piece
+value: 0.013
+label: package
+value: 0.34
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.039
+label: piece
+value: 0.008
+label: package
+value: 0.221
+
+
+name: 18:3 n-3 c,c,c (ALA)
+unit: g
+value: 0.039
+label: piece
+value: 0.008
+label: package
+value: 0.221
+
+
+name: 18:3 n-6 c,c,c
+unit: g
+value: 0.0
+label: piece
+value: 0.0
+label: package
+value: 0.0
+
+
+name: 18:3i
+unit: g
+value: 0.001
+label: piece
+value: 0.0
+label: package
+value: 0.006
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: piece
+value: 0.0
+label: package
+value: 0.0
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.002
+label: piece
+value: 0.0
+label: package
+value: 0.011
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.011
+label: piece
+value: 0.002
+label: package
+value: 0.062
+
+
+name: 20:3 n-6
+unit: g
+value: 0.011
+label: piece
+value: 0.002
+label: package
+value: 0.062
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.017
+label: piece
+value: 0.004
+label: package
+value: 0.096
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.004
+label: piece
+value: 0.001
+label: package
+value: 0.023
+
+
+name: 22:4
+unit: g
+value: 0.003
+label: piece
+value: 0.001
+label: package
+value: 0.017
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.006
+label: piece
+value: 0.001
+label: package
+value: 0.034
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: piece
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.327
+label: piece
+value: 0.069
+label: package
+value: 1.851
+
+
+name: Fatty acids, total trans-monoenoic
+unit: g
+value: 0.266
+label: piece
+value: 0.056
+label: package
+value: 1.506
+
+
+name: Cholesterol
+unit: mg
+value: 38.0
+label: piece
+value: 8.0
+label: package
+value: 215.0
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: piece
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: piece
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: piece
+value: 0.0
+label: package
+value: 0.0
+
+

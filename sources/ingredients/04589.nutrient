@@ -1,0 +1,568 @@
+ndbno: 04589
+
+
+name: Fish oil, cod liver
+
+
+name: Water
+unit: g
+value: 0.0
+label: tsp
+value: 0.0
+label: tbsp
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Energy
+unit: kcal
+value: 902.0
+label: tsp
+value: 41.0
+label: tbsp
+value: 123.0
+label: cup
+value: 1966.0
+
+
+name: Energy
+unit: kJ
+value: 3774.0
+label: tsp
+value: 170.0
+label: tbsp
+value: 513.0
+label: cup
+value: 8227.0
+
+
+name: Protein
+unit: g
+value: 0.0
+label: tsp
+value: 0.0
+label: tbsp
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Total lipid (fat)
+unit: g
+value: 100.0
+label: tsp
+value: 4.5
+label: tbsp
+value: 13.6
+label: cup
+value: 218.0
+
+
+name: Ash
+unit: g
+value: 0.0
+label: tsp
+value: 0.0
+label: tbsp
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 0.0
+label: tsp
+value: 0.0
+label: tbsp
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: tsp
+value: 0.0
+label: tbsp
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 0.0
+label: tsp
+value: 0.0
+label: tbsp
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.0
+label: tsp
+value: 0.0
+label: tbsp
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Magnesium, Mg
+unit: mg
+value: 0.0
+label: tsp
+value: 0.0
+label: tbsp
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 0.0
+label: tsp
+value: 0.0
+label: tbsp
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Potassium, K
+unit: mg
+value: 0.0
+label: tsp
+value: 0.0
+label: tbsp
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Sodium, Na
+unit: mg
+value: 0.0
+label: tsp
+value: 0.0
+label: tbsp
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.0
+label: tsp
+value: 0.0
+label: tbsp
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Copper, Cu
+unit: mg
+value: 0.0
+label: tsp
+value: 0.0
+label: tbsp
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.0
+label: tsp
+value: 0.0
+label: tbsp
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 0.0
+label: tsp
+value: 0.0
+label: tbsp
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: tsp
+value: 0.0
+label: tbsp
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Riboflavin
+unit: mg
+value: 0.0
+label: tsp
+value: 0.0
+label: tbsp
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Niacin
+unit: mg
+value: 0.0
+label: tsp
+value: 0.0
+label: tbsp
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.0
+label: tsp
+value: 0.0
+label: tbsp
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.0
+label: tsp
+value: 0.0
+label: tbsp
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Folate, total
+unit: \u00B5g
+value: 0.0
+label: tsp
+value: 0.0
+label: tbsp
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: tsp
+value: 0.0
+label: tbsp
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 0.0
+label: tsp
+value: 0.0
+label: tbsp
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 0.0
+label: tsp
+value: 0.0
+label: tbsp
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: tsp
+value: 0.0
+label: tbsp
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 30000.0
+label: tsp
+value: 1350.0
+label: tbsp
+value: 4080.0
+label: cup
+value: 65400.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 30000.0
+label: tsp
+value: 1350.0
+label: tbsp
+value: 4080.0
+label: cup
+value: 65400.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 100000.0
+label: tsp
+value: 4500.0
+label: tbsp
+value: 13600.0
+label: cup
+value: 218000.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 250.0
+label: tsp
+value: 11.2
+label: tbsp
+value: 34.0
+label: cup
+value: 545.0
+
+
+name: Vitamin D
+unit: IU
+value: 10000.0
+label: tsp
+value: 450.0
+label: tbsp
+value: 1360.0
+label: cup
+value: 21800.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 22.608
+label: tsp
+value: 1.017
+label: tbsp
+value: 3.075
+label: cup
+value: 49.285
+
+
+name: 14:0
+unit: g
+value: 3.568
+label: tsp
+value: 0.161
+label: tbsp
+value: 0.485
+label: cup
+value: 7.778
+
+
+name: 16:0
+unit: g
+value: 10.63
+label: tsp
+value: 0.478
+label: tbsp
+value: 1.446
+label: cup
+value: 23.173
+
+
+name: 18:0
+unit: g
+value: 2.799
+label: tsp
+value: 0.126
+label: tbsp
+value: 0.381
+label: cup
+value: 6.102
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 46.711
+label: tsp
+value: 2.102
+label: tbsp
+value: 6.353
+label: cup
+value: 101.83
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 8.309
+label: tsp
+value: 0.374
+label: tbsp
+value: 1.13
+label: cup
+value: 18.114
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 20.653
+label: tsp
+value: 0.929
+label: tbsp
+value: 2.809
+label: cup
+value: 45.024
+
+
+name: 20:1
+unit: g
+value: 10.422
+label: tsp
+value: 0.469
+label: tbsp
+value: 1.417
+label: cup
+value: 22.72
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 7.328
+label: tsp
+value: 0.33
+label: tbsp
+value: 0.997
+label: cup
+value: 15.975
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 22.541
+label: tsp
+value: 1.014
+label: tbsp
+value: 3.066
+label: cup
+value: 49.139
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.935
+label: tsp
+value: 0.042
+label: tbsp
+value: 0.127
+label: cup
+value: 2.038
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.935
+label: tsp
+value: 0.042
+label: tbsp
+value: 0.127
+label: cup
+value: 2.038
+
+
+name: 18:4
+unit: g
+value: 0.935
+label: tsp
+value: 0.042
+label: tbsp
+value: 0.127
+label: cup
+value: 2.038
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.935
+label: tsp
+value: 0.042
+label: tbsp
+value: 0.127
+label: cup
+value: 2.038
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 6.898
+label: tsp
+value: 0.31
+label: tbsp
+value: 0.938
+label: cup
+value: 15.038
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.935
+label: tsp
+value: 0.042
+label: tbsp
+value: 0.127
+label: cup
+value: 2.038
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 10.968
+label: tsp
+value: 0.494
+label: tbsp
+value: 1.492
+label: cup
+value: 23.91
+
+
+name: Cholesterol
+unit: mg
+value: 570.0
+label: tsp
+value: 26.0
+label: tbsp
+value: 78.0
+label: cup
+value: 1243.0
+
+
+

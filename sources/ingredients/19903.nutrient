@@ -1,0 +1,879 @@
+ndbno: 19903
+
+
+name: Chocolate, dark, 60-69% cacao solids
+
+
+name: Water
+unit: g
+value: 1.25
+label: oz
+value: 0.35
+label: bar
+value: 1.4
+
+
+name: Energy
+unit: kcal
+value: 579.0
+label: oz
+value: 164.0
+label: bar
+value: 648.0
+
+
+name: Energy
+unit: kJ
+value: 2422.0
+label: oz
+value: 687.0
+label: bar
+value: 2713.0
+
+
+name: Protein
+unit: g
+value: 6.12
+label: oz
+value: 1.74
+label: bar
+value: 6.85
+
+
+name: Total lipid (fat)
+unit: g
+value: 38.31
+label: oz
+value: 10.86
+label: bar
+value: 42.91
+
+
+name: Ash
+unit: g
+value: 1.9
+label: oz
+value: 0.54
+label: bar
+value: 2.13
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 52.42
+label: oz
+value: 14.86
+label: bar
+value: 58.71
+
+
+name: Fiber, total dietary
+unit: g
+value: 8.0
+label: oz
+value: 2.3
+label: bar
+value: 9.0
+
+
+name: Sugars, total
+unit: g
+value: 36.71
+label: oz
+value: 10.41
+label: bar
+value: 41.12
+
+
+name: Sucrose
+unit: g
+value: 36.39
+label: oz
+value: 10.32
+label: bar
+value: 40.76
+
+
+name: Glucose (dextrose)
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: Fructose
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: Lactose
+unit: g
+value: 0.31
+label: oz
+value: 0.09
+label: bar
+value: 0.35
+
+
+name: Maltose
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: Galactose
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 62.0
+label: oz
+value: 18.0
+label: bar
+value: 69.0
+
+
+name: Iron, Fe
+unit: mg
+value: 6.32
+label: oz
+value: 1.79
+label: bar
+value: 7.08
+
+
+name: Magnesium, Mg
+unit: mg
+value: 176.0
+label: oz
+value: 50.0
+label: bar
+value: 197.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 260.0
+label: oz
+value: 74.0
+label: bar
+value: 291.0
+
+
+name: Potassium, K
+unit: mg
+value: 567.0
+label: oz
+value: 161.0
+label: bar
+value: 635.0
+
+
+name: Sodium, Na
+unit: mg
+value: 10.0
+label: oz
+value: 3.0
+label: bar
+value: 11.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 2.65
+label: oz
+value: 0.75
+label: bar
+value: 2.97
+
+
+name: Copper, Cu
+unit: mg
+value: 1.248
+label: oz
+value: 0.354
+label: bar
+value: 1.398
+
+
+name: Manganese, Mn
+unit: mg
+value: 1.325
+label: oz
+value: 0.376
+label: bar
+value: 1.484
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 8.4
+label: oz
+value: 2.4
+label: bar
+value: 9.4
+
+
+name: Thiamin
+unit: mg
+value: 0.032
+label: oz
+value: 0.009
+label: bar
+value: 0.036
+
+
+name: Riboflavin
+unit: mg
+value: 0.049
+label: oz
+value: 0.014
+label: bar
+value: 0.055
+
+
+name: Niacin
+unit: mg
+value: 0.838
+label: oz
+value: 0.238
+label: bar
+value: 0.939
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.3
+label: oz
+value: 0.085
+label: bar
+value: 0.336
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.034
+label: oz
+value: 0.01
+label: bar
+value: 0.038
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.18
+label: oz
+value: 0.05
+label: bar
+value: 0.2
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 3.0
+label: oz
+value: 1.0
+label: bar
+value: 3.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 25.0
+label: oz
+value: 7.0
+label: bar
+value: 28.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 9.0
+label: oz
+value: 3.0
+label: bar
+value: 10.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 1.0
+label: oz
+value: 0.0
+label: bar
+value: 1.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 50.0
+label: oz
+value: 14.0
+label: bar
+value: 56.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 32.0
+label: oz
+value: 9.0
+label: bar
+value: 36.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.59
+label: oz
+value: 0.17
+label: bar
+value: 0.66
+
+
+name: Tocopherol, beta
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: Tocopherol, gamma
+unit: mg
+value: 8.47
+label: oz
+value: 2.4
+label: bar
+value: 9.49
+
+
+name: Tocopherol, delta
+unit: mg
+value: 0.34
+label: oz
+value: 0.1
+label: bar
+value: 0.38
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 7.2
+label: oz
+value: 2.0
+label: bar
+value: 8.1
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 22.031
+label: oz
+value: 6.246
+label: bar
+value: 24.675
+
+
+name: 4:0
+unit: g
+value: 0.04
+label: oz
+value: 0.011
+label: bar
+value: 0.045
+
+
+name: 6:0
+unit: g
+value: 0.03
+label: oz
+value: 0.009
+label: bar
+value: 0.034
+
+
+name: 8:0
+unit: g
+value: 0.02
+label: oz
+value: 0.006
+label: bar
+value: 0.022
+
+
+name: 10:0
+unit: g
+value: 0.064
+label: oz
+value: 0.018
+label: bar
+value: 0.072
+
+
+name: 12:0
+unit: g
+value: 0.056
+label: oz
+value: 0.016
+label: bar
+value: 0.063
+
+
+name: 14:0
+unit: g
+value: 0.192
+label: oz
+value: 0.054
+label: bar
+value: 0.215
+
+
+name: 15:0
+unit: g
+value: 0.027
+label: oz
+value: 0.008
+label: bar
+value: 0.03
+
+
+name: 16:0
+unit: g
+value: 9.198
+label: oz
+value: 2.608
+label: bar
+value: 10.302
+
+
+name: 17:0
+unit: g
+value: 0.081
+label: oz
+value: 0.023
+label: bar
+value: 0.091
+
+
+name: 18:0
+unit: g
+value: 11.86
+label: oz
+value: 3.362
+label: bar
+value: 13.283
+
+
+name: 20:0
+unit: g
+value: 0.364
+label: oz
+value: 0.103
+label: bar
+value: 0.408
+
+
+name: 22:0
+unit: g
+value: 0.062
+label: oz
+value: 0.018
+label: bar
+value: 0.069
+
+
+name: 24:0
+unit: g
+value: 0.035
+label: oz
+value: 0.01
+label: bar
+value: 0.039
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 11.522
+label: oz
+value: 3.266
+label: bar
+value: 12.905
+
+
+name: 14:1
+unit: g
+value: 0.013
+label: oz
+value: 0.004
+label: bar
+value: 0.015
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.116
+label: oz
+value: 0.033
+label: bar
+value: 0.13
+
+
+name: 16:1 c
+unit: g
+value: 0.11
+label: oz
+value: 0.031
+label: bar
+value: 0.123
+
+
+name: 16:1 t
+unit: g
+value: 0.006
+label: oz
+value: 0.002
+label: bar
+value: 0.007
+
+
+name: 17:1
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 11.373
+label: oz
+value: 3.224
+label: bar
+value: 12.738
+
+
+name: 18:1 c
+unit: g
+value: 11.318
+label: oz
+value: 3.209
+label: bar
+value: 12.676
+
+
+name: 18:1 t
+unit: g
+value: 0.055
+label: oz
+value: 0.016
+label: bar
+value: 0.062
+
+
+name: 20:1
+unit: g
+value: 0.021
+label: oz
+value: 0.006
+label: bar
+value: 0.024
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: 22:1 c
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: 22:1 t
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: 24:1 c
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 1.221
+label: oz
+value: 0.346
+label: bar
+value: 1.368
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 1.126
+label: oz
+value: 0.319
+label: bar
+value: 1.261
+
+
+name: 18:2 n-6 c,c
+unit: g
+value: 1.091
+label: oz
+value: 0.309
+label: bar
+value: 1.222
+
+
+name: 18:2 CLAs
+unit: g
+value: 0.017
+label: oz
+value: 0.005
+label: bar
+value: 0.019
+
+
+name: 18:2 t not further defined
+unit: g
+value: 0.017
+label: oz
+value: 0.005
+label: bar
+value: 0.019
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.088
+label: oz
+value: 0.025
+label: bar
+value: 0.099
+
+
+name: 18:3 n-3 c,c,c (ALA)
+unit: g
+value: 0.088
+label: oz
+value: 0.025
+label: bar
+value: 0.099
+
+
+name: 18:3 n-6 c,c,c
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.001
+label: oz
+value: 0.0
+label: bar
+value: 0.001
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: 20:3 n-6
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: 22:4
+unit: g
+value: 0.003
+label: oz
+value: 0.001
+label: bar
+value: 0.003
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.079
+label: oz
+value: 0.022
+label: bar
+value: 0.088
+
+
+name: Fatty acids, total trans-monoenoic
+unit: g
+value: 0.061
+label: oz
+value: 0.017
+label: bar
+value: 0.068
+
+
+name: Cholesterol
+unit: mg
+value: 6.0
+label: oz
+value: 2.0
+label: bar
+value: 7.0
+
+
+name: Stigmasterol
+unit: mg
+value: 29.0
+label: oz
+value: 8.0
+label: bar
+value: 32.0
+
+
+name: Campesterol
+unit: mg
+value: 12.0
+label: oz
+value: 3.0
+label: bar
+value: 13.0
+
+
+name: Beta-sitosterol
+unit: mg
+value: 75.0
+label: oz
+value: 21.0
+label: bar
+value: 84.0
+
+
+name: Caffeine
+unit: mg
+value: 86.0
+label: oz
+value: 24.0
+label: bar
+value: 96.0
+
+
+name: Theobromine
+unit: mg
+value: 632.0
+label: oz
+value: 179.0
+label: bar
+value: 708.0
+
+

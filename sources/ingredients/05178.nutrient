@@ -1,0 +1,824 @@
+ndbno: 05178
+
+
+name: Turkey, liver, all classes, cooked, simmered
+
+
+name: Water
+unit: g
+value: 63.99
+label: liver cooked
+value: 33.91
+
+
+name: Energy
+unit: kcal
+value: 189.0
+label: liver cooked
+value: 100.0
+
+
+name: Energy
+unit: kJ
+value: 791.0
+label: liver cooked
+value: 419.0
+
+
+name: Protein
+unit: g
+value: 27.0
+label: liver cooked
+value: 14.31
+
+
+name: Total lipid (fat)
+unit: g
+value: 8.18
+label: liver cooked
+value: 4.34
+
+
+name: Ash
+unit: g
+value: 1.47
+label: liver cooked
+value: 0.78
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 0.0
+label: liver cooked
+value: 0.0
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: liver cooked
+value: 0.0
+
+
+name: Sugars, total
+unit: g
+value: 0.0
+label: liver cooked
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 19.0
+label: liver cooked
+value: 10.0
+
+
+name: Iron, Fe
+unit: mg
+value: 1.79
+label: liver cooked
+value: 0.95
+
+
+name: Magnesium, Mg
+unit: mg
+value: 26.0
+label: liver cooked
+value: 14.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 312.0
+label: liver cooked
+value: 165.0
+
+
+name: Potassium, K
+unit: mg
+value: 153.0
+label: liver cooked
+value: 81.0
+
+
+name: Sodium, Na
+unit: mg
+value: 98.0
+label: liver cooked
+value: 52.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 4.53
+label: liver cooked
+value: 2.4
+
+
+name: Copper, Cu
+unit: mg
+value: 1.046
+label: liver cooked
+value: 0.554
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.331
+label: liver cooked
+value: 0.175
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 102.3
+label: liver cooked
+value: 54.2
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 22.6
+label: liver cooked
+value: 12.0
+
+
+name: Thiamin
+unit: mg
+value: 0.256
+label: liver cooked
+value: 0.136
+
+
+name: Riboflavin
+unit: mg
+value: 2.687
+label: liver cooked
+value: 1.424
+
+
+name: Niacin
+unit: mg
+value: 11.09
+label: liver cooked
+value: 5.878
+
+
+name: Pantothenic acid
+unit: mg
+value: 4.35
+label: liver cooked
+value: 2.306
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.882
+label: liver cooked
+value: 0.467
+
+
+name: Folate, total
+unit: \u00B5g
+value: 691.0
+label: liver cooked
+value: 366.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: liver cooked
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 691.0
+label: liver cooked
+value: 366.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 691.0
+label: liver cooked
+value: 366.0
+
+
+name: Choline, total
+unit: mg
+value: 220.2
+label: liver cooked
+value: 116.7
+
+
+name: Betaine
+unit: mg
+value: 2.4
+label: liver cooked
+value: 1.3
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 28.17
+label: liver cooked
+value: 14.93
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: liver cooked
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 10751.0
+label: liver cooked
+value: 5698.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 10751.0
+label: liver cooked
+value: 5698.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 0.0
+label: liver cooked
+value: 0.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: liver cooked
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: liver cooked
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 35836.0
+label: liver cooked
+value: 18993.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: liver cooked
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 0.0
+label: liver cooked
+value: 0.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.15
+label: liver cooked
+value: 0.08
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: liver cooked
+value: 0.0
+
+
+name: Tocopherol, beta
+unit: mg
+value: 0.02
+label: liver cooked
+value: 0.01
+
+
+name: Tocopherol, gamma
+unit: mg
+value: 0.07
+label: liver cooked
+value: 0.04
+
+
+name: Tocopherol, delta
+unit: mg
+value: 0.0
+label: liver cooked
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 0.0
+label: liver cooked
+value: 0.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 2.304
+label: liver cooked
+value: 1.221
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: liver cooked
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: liver cooked
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: liver cooked
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.006
+label: liver cooked
+value: 0.003
+
+
+name: 12:0
+unit: g
+value: 0.006
+label: liver cooked
+value: 0.003
+
+
+name: 14:0
+unit: g
+value: 0.019
+label: liver cooked
+value: 0.01
+
+
+name: 15:0
+unit: g
+value: 0.006
+label: liver cooked
+value: 0.003
+
+
+name: 16:0
+unit: g
+value: 1.037
+label: liver cooked
+value: 0.55
+
+
+name: 17:0
+unit: g
+value: 0.021
+label: liver cooked
+value: 0.011
+
+
+name: 18:0
+unit: g
+value: 1.198
+label: liver cooked
+value: 0.635
+
+
+name: 20:0
+unit: g
+value: 0.006
+label: liver cooked
+value: 0.003
+
+
+name: 22:0
+unit: g
+value: 0.003
+label: liver cooked
+value: 0.002
+
+
+name: 24:0
+unit: g
+value: 0.001
+label: liver cooked
+value: 0.001
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 1.038
+label: liver cooked
+value: 0.55
+
+
+name: 14:1
+unit: g
+value: 0.0
+label: liver cooked
+value: 0.0
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: liver cooked
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.053
+label: liver cooked
+value: 0.028
+
+
+name: 16:1 c
+unit: g
+value: 0.052
+label: liver cooked
+value: 0.028
+
+
+name: 16:1 t
+unit: g
+value: 0.001
+label: liver cooked
+value: 0.001
+
+
+name: 17:1
+unit: g
+value: 0.002
+label: liver cooked
+value: 0.001
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.952
+label: liver cooked
+value: 0.505
+
+
+name: 18:1 c
+unit: g
+value: 0.911
+label: liver cooked
+value: 0.483
+
+
+name: 18:1 t
+unit: g
+value: 0.041
+label: liver cooked
+value: 0.022
+
+
+name: 20:1
+unit: g
+value: 0.03
+label: liver cooked
+value: 0.016
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: liver cooked
+value: 0.0
+
+
+name: 22:1 c
+unit: g
+value: 0.0
+label: liver cooked
+value: 0.0
+
+
+name: 22:1 t
+unit: g
+value: 0.0
+label: liver cooked
+value: 0.0
+
+
+name: 24:1 c
+unit: g
+value: 0.0
+label: liver cooked
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 2.167
+label: liver cooked
+value: 1.149
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 1.471
+label: liver cooked
+value: 0.78
+
+
+name: 18:2 n-6 c,c
+unit: g
+value: 1.453
+label: liver cooked
+value: 0.77
+
+
+name: 18:2 CLAs
+unit: g
+value: 0.003
+label: liver cooked
+value: 0.002
+
+
+name: 18:2 t not further defined
+unit: g
+value: 0.015
+label: liver cooked
+value: 0.008
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.035
+label: liver cooked
+value: 0.019
+
+
+name: 18:3 n-3 c,c,c (ALA)
+unit: g
+value: 0.033
+label: liver cooked
+value: 0.017
+
+
+name: 18:3 n-6 c,c,c
+unit: g
+value: 0.002
+label: liver cooked
+value: 0.001
+
+
+name: 18:4
+unit: g
+value: 0.012
+label: liver cooked
+value: 0.006
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.011
+label: liver cooked
+value: 0.006
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.024
+label: liver cooked
+value: 0.013
+
+
+name: 20:3 n-6
+unit: g
+value: 0.024
+label: liver cooked
+value: 0.013
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.489
+label: liver cooked
+value: 0.259
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.016
+label: liver cooked
+value: 0.008
+
+
+name: 22:4
+unit: g
+value: 0.028
+label: liver cooked
+value: 0.015
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.024
+label: liver cooked
+value: 0.013
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.053
+label: liver cooked
+value: 0.028
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.058
+label: liver cooked
+value: 0.031
+
+
+name: Fatty acids, total trans-monoenoic
+unit: g
+value: 0.042
+label: liver cooked
+value: 0.022
+
+
+name: Cholesterol
+unit: mg
+value: 648.0
+label: liver cooked
+value: 343.0
+
+
+name: Tryptophan
+unit: g
+value: 0.294
+label: liver cooked
+value: 0.156
+
+
+name: Threonine
+unit: g
+value: 0.976
+label: liver cooked
+value: 0.517
+
+
+name: Isoleucine
+unit: g
+value: 0.767
+label: liver cooked
+value: 0.407
+
+
+name: Leucine
+unit: g
+value: 1.937
+label: liver cooked
+value: 1.027
+
+
+name: Lysine
+unit: g
+value: 2.037
+label: liver cooked
+value: 1.08
+
+
+name: Methionine
+unit: g
+value: 0.681
+label: liver cooked
+value: 0.361
+
+
+name: Cystine
+unit: g
+value: 0.314
+label: liver cooked
+value: 0.166
+
+
+name: Phenylalanine
+unit: g
+value: 0.994
+label: liver cooked
+value: 0.527
+
+
+name: Tyrosine
+unit: g
+value: 0.854
+label: liver cooked
+value: 0.453
+
+
+name: Valine
+unit: g
+value: 0.95
+label: liver cooked
+value: 0.504
+
+
+name: Arginine
+unit: g
+value: 1.577
+label: liver cooked
+value: 0.836
+
+
+name: Histidine
+unit: g
+value: 0.589
+label: liver cooked
+value: 0.312
+
+
+name: Alanine
+unit: g
+value: 1.486
+label: liver cooked
+value: 0.788
+
+
+name: Aspartic acid
+unit: g
+value: 2.101
+label: liver cooked
+value: 1.114
+
+
+name: Glutamic acid
+unit: g
+value: 3.523
+label: liver cooked
+value: 1.867
+
+
+name: Glycine
+unit: g
+value: 1.458
+label: liver cooked
+value: 0.773
+
+
+name: Proline
+unit: g
+value: 1.638
+label: liver cooked
+value: 0.868
+
+
+name: Serine
+unit: g
+value: 1.158
+label: liver cooked
+value: 0.614
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: liver cooked
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: liver cooked
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: liver cooked
+value: 0.0
+

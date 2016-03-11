@@ -1,0 +1,960 @@
+ndbno: 23105
+
+
+name: Beef, chuck, under blade center steak, boneless, Denver Cut, separable lean and fat, trimmed to 0\ fat, all grades, cooked, grilled
+
+
+name: Water
+unit: g
+value: 59.08
+label: oz
+value: 50.22
+label: steak
+value: 208.55
+
+
+name: Energy
+unit: kcal
+value: 227.0
+label: oz
+value: 193.0
+label: steak
+value: 801.0
+
+
+name: Energy
+unit: kJ
+value: 952.0
+label: oz
+value: 809.0
+label: steak
+value: 3361.0
+
+
+name: Protein
+unit: g
+value: 26.18
+label: oz
+value: 22.25
+label: steak
+value: 92.42
+
+
+name: Total lipid (fat)
+unit: g
+value: 13.54
+label: oz
+value: 11.51
+label: steak
+value: 47.8
+
+
+name: Ash
+unit: g
+value: 0.99
+label: oz
+value: 0.84
+label: steak
+value: 3.49
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 0.21
+label: oz
+value: 0.18
+label: steak
+value: 0.74
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: steak
+value: 0.0
+
+
+name: Sugars, total
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: steak
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 13.0
+label: oz
+value: 11.0
+label: steak
+value: 46.0
+
+
+name: Iron, Fe
+unit: mg
+value: 3.26
+label: oz
+value: 2.77
+label: steak
+value: 11.51
+
+
+name: Magnesium, Mg
+unit: mg
+value: 23.0
+label: oz
+value: 20.0
+label: steak
+value: 81.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 202.0
+label: oz
+value: 172.0
+label: steak
+value: 713.0
+
+
+name: Potassium, K
+unit: mg
+value: 310.0
+label: oz
+value: 264.0
+label: steak
+value: 1094.0
+
+
+name: Sodium, Na
+unit: mg
+value: 73.0
+label: oz
+value: 62.0
+label: steak
+value: 258.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 9.85
+label: oz
+value: 8.37
+label: steak
+value: 34.77
+
+
+name: Copper, Cu
+unit: mg
+value: 0.108
+label: oz
+value: 0.092
+label: steak
+value: 0.381
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.016
+label: oz
+value: 0.014
+label: steak
+value: 0.056
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 29.9
+label: oz
+value: 25.4
+label: steak
+value: 105.5
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: steak
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.089
+label: oz
+value: 0.076
+label: steak
+value: 0.314
+
+
+name: Riboflavin
+unit: mg
+value: 0.243
+label: oz
+value: 0.207
+label: steak
+value: 0.858
+
+
+name: Niacin
+unit: mg
+value: 3.591
+label: oz
+value: 3.052
+label: steak
+value: 12.676
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.909
+label: oz
+value: 0.773
+label: steak
+value: 3.209
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.413
+label: oz
+value: 0.351
+label: steak
+value: 1.458
+
+
+name: Folate, total
+unit: \u00B5g
+value: 6.0
+label: oz
+value: 5.0
+label: steak
+value: 21.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: steak
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 6.0
+label: oz
+value: 5.0
+label: steak
+value: 21.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 6.0
+label: oz
+value: 5.0
+label: steak
+value: 21.0
+
+
+name: Choline, total
+unit: mg
+value: 90.0
+label: oz
+value: 76.5
+label: steak
+value: 317.7
+
+
+name: Betaine
+unit: mg
+value: 20.6
+label: oz
+value: 17.5
+label: steak
+value: 72.7
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 3.68
+label: oz
+value: 3.13
+label: steak
+value: 12.99
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: steak
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 7.0
+label: oz
+value: 6.0
+label: steak
+value: 25.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 7.0
+label: oz
+value: 6.0
+label: steak
+value: 25.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: steak
+value: 0.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: steak
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: steak
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 23.0
+label: oz
+value: 20.0
+label: steak
+value: 81.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: steak
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: steak
+value: 0.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.08
+label: oz
+value: 0.07
+label: steak
+value: 0.28
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: steak
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.1
+label: oz
+value: 0.1
+label: steak
+value: 0.4
+
+
+name: Vitamin D3 (cholecalciferol)
+unit: \u00B5g
+value: 0.1
+label: oz
+value: 0.1
+label: steak
+value: 0.4
+
+
+name: Vitamin D
+unit: IU
+value: 5.0
+label: oz
+value: 4.0
+label: steak
+value: 18.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 1.6
+label: oz
+value: 1.4
+label: steak
+value: 5.6
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 5.692
+label: oz
+value: 4.838
+label: steak
+value: 20.093
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: steak
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: steak
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: steak
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: steak
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: steak
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.378
+label: oz
+value: 0.321
+label: steak
+value: 1.334
+
+
+name: 16:0
+unit: g
+value: 3.084
+label: oz
+value: 2.621
+label: steak
+value: 10.887
+
+
+name: 17:0
+unit: g
+value: 0.176
+label: oz
+value: 0.15
+label: steak
+value: 0.621
+
+
+name: 18:0
+unit: g
+value: 2.035
+label: oz
+value: 1.73
+label: steak
+value: 7.184
+
+
+name: 20:0
+unit: g
+value: 0.005
+label: oz
+value: 0.004
+label: steak
+value: 0.018
+
+
+name: 24:0
+unit: g
+value: 0.015
+label: oz
+value: 0.013
+label: steak
+value: 0.053
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 6.809
+label: oz
+value: 5.788
+label: steak
+value: 24.036
+
+
+name: 14:1
+unit: g
+value: 0.075
+label: oz
+value: 0.064
+label: steak
+value: 0.265
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.447
+label: oz
+value: 0.38
+label: steak
+value: 1.578
+
+
+name: 16:1 c
+unit: g
+value: 0.447
+label: oz
+value: 0.38
+label: steak
+value: 1.578
+
+
+name: 17:1
+unit: g
+value: 0.127
+label: oz
+value: 0.108
+label: steak
+value: 0.448
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 6.133
+label: oz
+value: 5.213
+label: steak
+value: 21.649
+
+
+name: 18:1 c
+unit: g
+value: 5.266
+label: oz
+value: 4.476
+label: steak
+value: 18.589
+
+
+name: 18:1 t
+unit: g
+value: 0.868
+label: oz
+value: 0.738
+label: steak
+value: 3.064
+
+
+name: 20:1
+unit: g
+value: 0.026
+label: oz
+value: 0.022
+label: steak
+value: 0.092
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: steak
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.79
+label: oz
+value: 0.672
+label: steak
+value: 2.789
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.673
+label: oz
+value: 0.572
+label: steak
+value: 2.376
+
+
+name: 18:2 n-6 c,c
+unit: g
+value: 0.615
+label: oz
+value: 0.523
+label: steak
+value: 2.171
+
+
+name: 18:2 CLAs
+unit: g
+value: 0.057
+label: oz
+value: 0.048
+label: steak
+value: 0.201
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.025
+label: oz
+value: 0.021
+label: steak
+value: 0.088
+
+
+name: 18:3 n-3 c,c,c (ALA)
+unit: g
+value: 0.025
+label: oz
+value: 0.021
+label: steak
+value: 0.088
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: steak
+value: 0.0
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.001
+label: oz
+value: 0.001
+label: steak
+value: 0.004
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.088
+label: oz
+value: 0.075
+label: steak
+value: 0.311
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.002
+label: oz
+value: 0.002
+label: steak
+value: 0.007
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.001
+label: oz
+value: 0.001
+label: steak
+value: 0.004
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: steak
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.868
+label: oz
+value: 0.738
+label: steak
+value: 3.064
+
+
+name: Fatty acids, total trans-monoenoic
+unit: g
+value: 0.868
+label: oz
+value: 0.738
+label: steak
+value: 3.064
+
+
+name: Cholesterol
+unit: mg
+value: 93.0
+label: oz
+value: 79.0
+label: steak
+value: 328.0
+
+
+name: Tryptophan
+unit: g
+value: 0.295
+label: oz
+value: 0.251
+label: steak
+value: 1.041
+
+
+name: Threonine
+unit: g
+value: 1.152
+label: oz
+value: 0.979
+label: steak
+value: 4.067
+
+
+name: Isoleucine
+unit: g
+value: 1.113
+label: oz
+value: 0.946
+label: steak
+value: 3.929
+
+
+name: Leucine
+unit: g
+value: 2.106
+label: oz
+value: 1.79
+label: steak
+value: 7.434
+
+
+name: Lysine
+unit: g
+value: 2.289
+label: oz
+value: 1.946
+label: steak
+value: 8.08
+
+
+name: Methionine
+unit: g
+value: 0.743
+label: oz
+value: 0.632
+label: steak
+value: 2.623
+
+
+name: Cystine
+unit: g
+value: 0.275
+label: oz
+value: 0.234
+label: steak
+value: 0.971
+
+
+name: Phenylalanine
+unit: g
+value: 0.996
+label: oz
+value: 0.847
+label: steak
+value: 3.516
+
+
+name: Tyrosine
+unit: g
+value: 0.903
+label: oz
+value: 0.768
+label: steak
+value: 3.188
+
+
+name: Valine
+unit: g
+value: 1.183
+label: oz
+value: 1.006
+label: steak
+value: 4.176
+
+
+name: Arginine
+unit: g
+value: 1.723
+label: oz
+value: 1.465
+label: steak
+value: 6.082
+
+
+name: Histidine
+unit: g
+value: 0.848
+label: oz
+value: 0.721
+label: steak
+value: 2.993
+
+
+name: Alanine
+unit: g
+value: 1.493
+label: oz
+value: 1.269
+label: steak
+value: 5.27
+
+
+name: Aspartic acid
+unit: g
+value: 2.348
+label: oz
+value: 1.996
+label: steak
+value: 8.288
+
+
+name: Glutamic acid
+unit: g
+value: 4.14
+label: oz
+value: 3.519
+label: steak
+value: 14.614
+
+
+name: Glycine
+unit: g
+value: 1.194
+label: oz
+value: 1.015
+label: steak
+value: 4.215
+
+
+name: Proline
+unit: g
+value: 1.076
+label: oz
+value: 0.915
+label: steak
+value: 3.798
+
+
+name: Serine
+unit: g
+value: 1.005
+label: oz
+value: 0.854
+label: steak
+value: 3.548
+
+
+name: Hydroxyproline
+unit: g
+value: 0.179
+label: oz
+value: 0.152
+label: steak
+value: 0.632
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: steak
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: steak
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: steak
+value: 0.0
+
+

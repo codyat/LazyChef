@@ -1,0 +1,525 @@
+ndbno: 13358
+
+
+name: Beef, cured, smoked, chopped beef
+
+
+name: Water
+unit: g
+value: 68.93
+label: slice (1 oz)
+value: 19.3
+
+
+name: Energy
+unit: kcal
+value: 133.0
+label: slice (1 oz)
+value: 37.0
+
+
+name: Energy
+unit: kJ
+value: 556.0
+label: slice (1 oz)
+value: 156.0
+
+
+name: Protein
+unit: g
+value: 20.19
+label: slice (1 oz)
+value: 5.65
+
+
+name: Total lipid (fat)
+unit: g
+value: 4.42
+label: slice (1 oz)
+value: 1.24
+
+
+name: Ash
+unit: g
+value: 4.6
+label: slice (1 oz)
+value: 1.29
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 1.86
+label: slice (1 oz)
+value: 0.52
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: slice (1 oz)
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 8.0
+label: slice (1 oz)
+value: 2.0
+
+
+name: Iron, Fe
+unit: mg
+value: 2.85
+label: slice (1 oz)
+value: 0.8
+
+
+name: Magnesium, Mg
+unit: mg
+value: 21.0
+label: slice (1 oz)
+value: 6.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 181.0
+label: slice (1 oz)
+value: 51.0
+
+
+name: Potassium, K
+unit: mg
+value: 377.0
+label: slice (1 oz)
+value: 106.0
+
+
+name: Sodium, Na
+unit: mg
+value: 1258.0
+label: slice (1 oz)
+value: 352.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 3.93
+label: slice (1 oz)
+value: 1.1
+
+
+name: Copper, Cu
+unit: mg
+value: 0.026
+label: slice (1 oz)
+value: 0.007
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.029
+label: slice (1 oz)
+value: 0.008
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 19.7
+label: slice (1 oz)
+value: 5.5
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: slice (1 oz)
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.083
+label: slice (1 oz)
+value: 0.023
+
+
+name: Riboflavin
+unit: mg
+value: 0.175
+label: slice (1 oz)
+value: 0.049
+
+
+name: Niacin
+unit: mg
+value: 4.577
+label: slice (1 oz)
+value: 1.282
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.59
+label: slice (1 oz)
+value: 0.165
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.35
+label: slice (1 oz)
+value: 0.098
+
+
+name: Folate, total
+unit: \u00B5g
+value: 8.0
+label: slice (1 oz)
+value: 2.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: slice (1 oz)
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 8.0
+label: slice (1 oz)
+value: 2.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 8.0
+label: slice (1 oz)
+value: 2.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 1.73
+label: slice (1 oz)
+value: 0.48
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 0.0
+label: slice (1 oz)
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: slice (1 oz)
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 0.0
+label: slice (1 oz)
+value: 0.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 1.81
+label: slice (1 oz)
+value: 0.507
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: slice (1 oz)
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: slice (1 oz)
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: slice (1 oz)
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.02
+label: slice (1 oz)
+value: 0.006
+
+
+name: 12:0
+unit: g
+value: 0.02
+label: slice (1 oz)
+value: 0.006
+
+
+name: 14:0
+unit: g
+value: 0.11
+label: slice (1 oz)
+value: 0.031
+
+
+name: 16:0
+unit: g
+value: 0.94
+label: slice (1 oz)
+value: 0.263
+
+
+name: 18:0
+unit: g
+value: 0.66
+label: slice (1 oz)
+value: 0.185
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 1.83
+label: slice (1 oz)
+value: 0.512
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.26
+label: slice (1 oz)
+value: 0.073
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 1.57
+label: slice (1 oz)
+value: 0.44
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: slice (1 oz)
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: slice (1 oz)
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.23
+label: slice (1 oz)
+value: 0.064
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.19
+label: slice (1 oz)
+value: 0.053
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.04
+label: slice (1 oz)
+value: 0.011
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: slice (1 oz)
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: slice (1 oz)
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: slice (1 oz)
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: slice (1 oz)
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: slice (1 oz)
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 46.0
+label: slice (1 oz)
+value: 13.0
+
+
+name: Phytosterols
+unit: mg
+value: 0.0
+label: slice (1 oz)
+value: 0.0
+
+
+name: Tryptophan
+unit: g
+value: 0.165
+label: slice (1 oz)
+value: 0.046
+
+
+name: Threonine
+unit: g
+value: 0.846
+label: slice (1 oz)
+value: 0.237
+
+
+name: Isoleucine
+unit: g
+value: 0.827
+label: slice (1 oz)
+value: 0.232
+
+
+name: Leucine
+unit: g
+value: 1.508
+label: slice (1 oz)
+value: 0.422
+
+
+name: Lysine
+unit: g
+value: 1.647
+label: slice (1 oz)
+value: 0.461
+
+
+name: Methionine
+unit: g
+value: 0.488
+label: slice (1 oz)
+value: 0.137
+
+
+name: Cystine
+unit: g
+value: 0.239
+label: slice (1 oz)
+value: 0.067
+
+
+name: Phenylalanine
+unit: g
+value: 0.756
+label: slice (1 oz)
+value: 0.212
+
+
+name: Tyrosine
+unit: g
+value: 0.61
+label: slice (1 oz)
+value: 0.171
+
+
+name: Valine
+unit: g
+value: 0.927
+label: slice (1 oz)
+value: 0.26
+
+
+name: Arginine
+unit: g
+value: 1.363
+label: slice (1 oz)
+value: 0.382
+
+
+name: Histidine
+unit: g
+value: 0.585
+label: slice (1 oz)
+value: 0.164
+
+
+name: Alanine
+unit: g
+value: 1.334
+label: slice (1 oz)
+value: 0.374
+
+
+name: Aspartic acid
+unit: g
+value: 1.793
+label: slice (1 oz)
+value: 0.502
+
+
+name: Glutamic acid
+unit: g
+value: 2.91
+label: slice (1 oz)
+value: 0.815
+
+
+name: Glycine
+unit: g
+value: 1.499
+label: slice (1 oz)
+value: 0.42
+
+
+name: Proline
+unit: g
+value: 1.098
+label: slice (1 oz)
+value: 0.307
+
+
+name: Serine
+unit: g
+value: 0.824
+label: slice (1 oz)
+value: 0.231
+
+
+

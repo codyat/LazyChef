@@ -1,0 +1,808 @@
+ndbno: 19422
+
+
+name: Snacks, potato chips, reduced fat
+
+
+name: Water
+unit: g
+value: 1.0
+label: oz
+value: 0.28
+label: bag (6 oz)
+value: 1.7
+
+
+name: Energy
+unit: kcal
+value: 471.0
+label: oz
+value: 134.0
+label: bag (6 oz)
+value: 801.0
+
+
+name: Energy
+unit: kJ
+value: 1971.0
+label: oz
+value: 559.0
+label: bag (6 oz)
+value: 3351.0
+
+
+name: Protein
+unit: g
+value: 7.1
+label: oz
+value: 2.01
+label: bag (6 oz)
+value: 12.07
+
+
+name: Total lipid (fat)
+unit: g
+value: 20.8
+label: oz
+value: 5.9
+label: bag (6 oz)
+value: 35.36
+
+
+name: Ash
+unit: g
+value: 4.1
+label: oz
+value: 1.16
+label: bag (6 oz)
+value: 6.97
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 66.9
+label: oz
+value: 18.97
+label: bag (6 oz)
+value: 113.73
+
+
+name: Fiber, total dietary
+unit: g
+value: 5.9
+label: oz
+value: 1.7
+label: bag (6 oz)
+value: 10.0
+
+
+name: Sugars, total
+unit: g
+value: 0.22
+label: oz
+value: 0.06
+label: bag (6 oz)
+value: 0.37
+
+
+name: Calcium, Ca
+unit: mg
+value: 21.0
+label: oz
+value: 6.0
+label: bag (6 oz)
+value: 36.0
+
+
+name: Iron, Fe
+unit: mg
+value: 1.35
+label: oz
+value: 0.38
+label: bag (6 oz)
+value: 2.3
+
+
+name: Magnesium, Mg
+unit: mg
+value: 89.0
+label: oz
+value: 25.0
+label: bag (6 oz)
+value: 151.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 193.0
+label: oz
+value: 55.0
+label: bag (6 oz)
+value: 328.0
+
+
+name: Potassium, K
+unit: mg
+value: 1744.0
+label: oz
+value: 494.0
+label: bag (6 oz)
+value: 2965.0
+
+
+name: Sodium, Na
+unit: mg
+value: 492.0
+label: oz
+value: 139.0
+label: bag (6 oz)
+value: 836.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.07
+label: oz
+value: 0.02
+label: bag (6 oz)
+value: 0.12
+
+
+name: Copper, Cu
+unit: mg
+value: 0.6
+label: oz
+value: 0.17
+label: bag (6 oz)
+value: 1.02
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.44
+label: oz
+value: 0.125
+label: bag (6 oz)
+value: 0.748
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 8.1
+label: oz
+value: 2.3
+label: bag (6 oz)
+value: 13.8
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 25.7
+label: oz
+value: 7.3
+label: bag (6 oz)
+value: 43.7
+
+
+name: Thiamin
+unit: mg
+value: 0.208
+label: oz
+value: 0.059
+label: bag (6 oz)
+value: 0.354
+
+
+name: Riboflavin
+unit: mg
+value: 0.267
+label: oz
+value: 0.076
+label: bag (6 oz)
+value: 0.454
+
+
+name: Niacin
+unit: mg
+value: 7.0
+label: oz
+value: 1.985
+label: bag (6 oz)
+value: 11.9
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.271
+label: oz
+value: 0.077
+label: bag (6 oz)
+value: 0.461
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.671
+label: oz
+value: 0.19
+label: bag (6 oz)
+value: 1.141
+
+
+name: Folate, total
+unit: \u00B5g
+value: 27.0
+label: oz
+value: 8.0
+label: bag (6 oz)
+value: 46.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: bag (6 oz)
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 27.0
+label: oz
+value: 8.0
+label: bag (6 oz)
+value: 46.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 27.0
+label: oz
+value: 8.0
+label: bag (6 oz)
+value: 46.0
+
+
+name: Choline, total
+unit: mg
+value: 45.1
+label: oz
+value: 12.8
+label: bag (6 oz)
+value: 76.7
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: bag (6 oz)
+value: 0.0
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: bag (6 oz)
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: bag (6 oz)
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: bag (6 oz)
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: bag (6 oz)
+value: 0.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: bag (6 oz)
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: bag (6 oz)
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 0.0
+label: oz
+value: 0.0
+label: bag (6 oz)
+value: 0.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: bag (6 oz)
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: bag (6 oz)
+value: 0.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 5.47
+label: oz
+value: 1.55
+label: bag (6 oz)
+value: 9.3
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: bag (6 oz)
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: bag (6 oz)
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: oz
+value: 0.0
+label: bag (6 oz)
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 13.3
+label: oz
+value: 3.8
+label: bag (6 oz)
+value: 22.6
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 4.16
+label: oz
+value: 1.179
+label: bag (6 oz)
+value: 7.072
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: bag (6 oz)
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: bag (6 oz)
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: bag (6 oz)
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: bag (6 oz)
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: bag (6 oz)
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.12
+label: oz
+value: 0.034
+label: bag (6 oz)
+value: 0.204
+
+
+name: 16:0
+unit: g
+value: 3.52
+label: oz
+value: 0.998
+label: bag (6 oz)
+value: 5.984
+
+
+name: 18:0
+unit: g
+value: 0.51
+label: oz
+value: 0.145
+label: bag (6 oz)
+value: 0.867
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 4.8
+label: oz
+value: 1.361
+label: bag (6 oz)
+value: 8.16
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.5
+label: oz
+value: 0.142
+label: bag (6 oz)
+value: 0.85
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 4.3
+label: oz
+value: 1.219
+label: bag (6 oz)
+value: 7.31
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: bag (6 oz)
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: bag (6 oz)
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 10.94
+label: oz
+value: 3.101
+label: bag (6 oz)
+value: 18.598
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 10.75
+label: oz
+value: 3.048
+label: bag (6 oz)
+value: 18.275
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.19
+label: oz
+value: 0.054
+label: bag (6 oz)
+value: 0.323
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: bag (6 oz)
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: bag (6 oz)
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: bag (6 oz)
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: bag (6 oz)
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: bag (6 oz)
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: bag (6 oz)
+value: 0.0
+
+
+name: Tryptophan
+unit: g
+value: 0.111
+label: oz
+value: 0.031
+label: bag (6 oz)
+value: 0.189
+
+
+name: Threonine
+unit: g
+value: 0.26
+label: oz
+value: 0.074
+label: bag (6 oz)
+value: 0.442
+
+
+name: Isoleucine
+unit: g
+value: 0.291
+label: oz
+value: 0.082
+label: bag (6 oz)
+value: 0.495
+
+
+name: Leucine
+unit: g
+value: 0.43
+label: oz
+value: 0.122
+label: bag (6 oz)
+value: 0.731
+
+
+name: Lysine
+unit: g
+value: 0.435
+label: oz
+value: 0.123
+label: bag (6 oz)
+value: 0.74
+
+
+name: Methionine
+unit: g
+value: 0.113
+label: oz
+value: 0.032
+label: bag (6 oz)
+value: 0.192
+
+
+name: Cystine
+unit: g
+value: 0.092
+label: oz
+value: 0.026
+label: bag (6 oz)
+value: 0.156
+
+
+name: Phenylalanine
+unit: g
+value: 0.318
+label: oz
+value: 0.09
+label: bag (6 oz)
+value: 0.541
+
+
+name: Tyrosine
+unit: g
+value: 0.265
+label: oz
+value: 0.075
+label: bag (6 oz)
+value: 0.451
+
+
+name: Valine
+unit: g
+value: 0.403
+label: oz
+value: 0.114
+label: bag (6 oz)
+value: 0.685
+
+
+name: Arginine
+unit: g
+value: 0.329
+label: oz
+value: 0.093
+label: bag (6 oz)
+value: 0.559
+
+
+name: Histidine
+unit: g
+value: 0.157
+label: oz
+value: 0.045
+label: bag (6 oz)
+value: 0.267
+
+
+name: Alanine
+unit: g
+value: 0.22
+label: oz
+value: 0.062
+label: bag (6 oz)
+value: 0.374
+
+
+name: Aspartic acid
+unit: g
+value: 1.75
+label: oz
+value: 0.496
+label: bag (6 oz)
+value: 2.975
+
+
+name: Glutamic acid
+unit: g
+value: 1.2
+label: oz
+value: 0.34
+label: bag (6 oz)
+value: 2.04
+
+
+name: Glycine
+unit: g
+value: 0.213
+label: oz
+value: 0.06
+label: bag (6 oz)
+value: 0.362
+
+
+name: Proline
+unit: g
+value: 0.257
+label: oz
+value: 0.073
+label: bag (6 oz)
+value: 0.437
+
+
+name: Serine
+unit: g
+value: 0.311
+label: oz
+value: 0.088
+label: bag (6 oz)
+value: 0.529
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: bag (6 oz)
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: bag (6 oz)
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: bag (6 oz)
+value: 0.0
+
+
+

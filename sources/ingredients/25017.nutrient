@@ -1,0 +1,930 @@
+ndbno: 25017
+
+
+name: Formulated bar, POWER BAR, chocolate
+
+
+name: Water
+unit: g
+value: 9.83
+label: bar
+value: 6.68
+
+
+name: Energy
+unit: kcal
+value: 363.0
+label: bar
+value: 247.0
+
+
+name: Energy
+unit: kJ
+value: 1519.0
+label: bar
+value: 1033.0
+
+
+name: Protein
+unit: g
+value: 14.15
+label: bar
+value: 9.62
+
+
+name: Total lipid (fat)
+unit: g
+value: 3.11
+label: bar
+value: 2.11
+
+
+name: Ash
+unit: g
+value: 3.28
+label: bar
+value: 2.23
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 69.63
+label: bar
+value: 47.35
+
+
+name: Fiber, total dietary
+unit: g
+value: 5.7
+label: bar
+value: 3.9
+
+
+name: Sugars, total
+unit: g
+value: 30.07
+label: bar
+value: 20.45
+
+
+name: Sucrose
+unit: g
+value: 0.52
+label: bar
+value: 0.35
+
+
+name: Glucose (dextrose)
+unit: g
+value: 11.94
+label: bar
+value: 8.12
+
+
+name: Fructose
+unit: g
+value: 15.96
+label: bar
+value: 10.85
+
+
+name: Lactose
+unit: g
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: Maltose
+unit: g
+value: 1.65
+label: bar
+value: 1.12
+
+
+name: Galactose
+unit: g
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: Starch
+unit: g
+value: 18.7
+label: bar
+value: 12.72
+
+
+name: Calcium, Ca
+unit: mg
+value: 504.0
+label: bar
+value: 343.0
+
+
+name: Iron, Fe
+unit: mg
+value: 11.7
+label: bar
+value: 7.96
+
+
+name: Magnesium, Mg
+unit: mg
+value: 248.0
+label: bar
+value: 169.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 614.0
+label: bar
+value: 418.0
+
+
+name: Potassium, K
+unit: mg
+value: 362.0
+label: bar
+value: 246.0
+
+
+name: Sodium, Na
+unit: mg
+value: 308.0
+label: bar
+value: 209.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 9.96
+label: bar
+value: 6.77
+
+
+name: Copper, Cu
+unit: mg
+value: 1.43
+label: bar
+value: 0.972
+
+
+name: Manganese, Mn
+unit: mg
+value: 1.61
+label: bar
+value: 1.095
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 7.8
+label: bar
+value: 5.3
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 92.3
+label: bar
+value: 62.8
+
+
+name: Thiamin
+unit: mg
+value: 8.06
+label: bar
+value: 5.481
+
+
+name: Riboflavin
+unit: mg
+value: 1.92
+label: bar
+value: 1.306
+
+
+name: Niacin
+unit: mg
+value: 32.6
+label: bar
+value: 22.168
+
+
+name: Pantothenic acid
+unit: mg
+value: 15.9
+label: bar
+value: 10.812
+
+
+name: Vitamin B-6
+unit: mg
+value: 2.2
+label: bar
+value: 1.496
+
+
+name: Folate, total
+unit: \u00B5g
+value: 615.0
+label: bar
+value: 418.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 615.0
+label: bar
+value: 418.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 1046.0
+label: bar
+value: 711.0
+
+
+name: Choline, total
+unit: mg
+value: 18.4
+label: bar
+value: 12.5
+
+
+name: Betaine
+unit: mg
+value: 4.3
+label: bar
+value: 2.9
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 5.6
+label: bar
+value: 3.81
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 5.6
+label: bar
+value: 3.81
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 8.28
+label: bar
+value: 5.63
+
+
+name: Vitamin E, added
+unit: mg
+value: 8.28
+label: bar
+value: 5.63
+
+
+name: Tocopherol, beta
+unit: mg
+value: 0.01
+label: bar
+value: 0.01
+
+
+name: Tocopherol, gamma
+unit: mg
+value: 0.33
+label: bar
+value: 0.22
+
+
+name: Tocopherol, delta
+unit: mg
+value: 0.05
+label: bar
+value: 0.03
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 1.1
+label: bar
+value: 0.7
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 1.32
+label: bar
+value: 0.898
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.003
+label: bar
+value: 0.002
+
+
+name: 14:0
+unit: g
+value: 0.013
+label: bar
+value: 0.009
+
+
+name: 15:0
+unit: g
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: 16:0
+unit: g
+value: 0.644
+label: bar
+value: 0.438
+
+
+name: 17:0
+unit: g
+value: 0.005
+label: bar
+value: 0.003
+
+
+name: 18:0
+unit: g
+value: 0.632
+label: bar
+value: 0.43
+
+
+name: 20:0
+unit: g
+value: 0.019
+label: bar
+value: 0.013
+
+
+name: 22:0
+unit: g
+value: 0.004
+label: bar
+value: 0.003
+
+
+name: 24:0
+unit: g
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 1.05
+label: bar
+value: 0.714
+
+
+name: 14:1
+unit: g
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.01
+label: bar
+value: 0.007
+
+
+name: 16:1 c
+unit: g
+value: 0.01
+label: bar
+value: 0.007
+
+
+name: 16:1 t
+unit: g
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: 17:1
+unit: g
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 1.03
+label: bar
+value: 0.7
+
+
+name: 18:1 c
+unit: g
+value: 1.025
+label: bar
+value: 0.697
+
+
+name: 18:1 t
+unit: g
+value: 0.006
+label: bar
+value: 0.004
+
+
+name: 20:1
+unit: g
+value: 0.01
+label: bar
+value: 0.007
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: 22:1 c
+unit: g
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: 22:1 t
+unit: g
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: 24:1 c
+unit: g
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.589
+label: bar
+value: 0.401
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.565
+label: bar
+value: 0.384
+
+
+name: 18:2 n-6 c,c
+unit: g
+value: 0.561
+label: bar
+value: 0.381
+
+
+name: 18:2 CLAs
+unit: g
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: 18:2 t not further defined
+unit: g
+value: 0.004
+label: bar
+value: 0.003
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.025
+label: bar
+value: 0.017
+
+
+name: 18:3 n-3 c,c,c (ALA)
+unit: g
+value: 0.025
+label: bar
+value: 0.017
+
+
+name: 18:3 n-6 c,c,c
+unit: g
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: 20:3 n-6
+unit: g
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.01
+label: bar
+value: 0.007
+
+
+name: Fatty acids, total trans-monoenoic
+unit: g
+value: 0.006
+label: bar
+value: 0.004
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: Tryptophan
+unit: g
+value: 0.19
+label: bar
+value: 0.129
+
+
+name: Threonine
+unit: g
+value: 0.54
+label: bar
+value: 0.367
+
+
+name: Isoleucine
+unit: g
+value: 0.66
+label: bar
+value: 0.449
+
+
+name: Leucine
+unit: g
+value: 1.33
+label: bar
+value: 0.904
+
+
+name: Lysine
+unit: g
+value: 0.98
+label: bar
+value: 0.666
+
+
+name: Methionine
+unit: g
+value: 0.29
+label: bar
+value: 0.197
+
+
+name: Cystine
+unit: g
+value: 0.22
+label: bar
+value: 0.15
+
+
+name: Phenylalanine
+unit: g
+value: 0.74
+label: bar
+value: 0.503
+
+
+name: Tyrosine
+unit: g
+value: 0.27
+label: bar
+value: 0.184
+
+
+name: Valine
+unit: g
+value: 0.83
+label: bar
+value: 0.564
+
+
+name: Arginine
+unit: g
+value: 0.61
+label: bar
+value: 0.415
+
+
+name: Histidine
+unit: g
+value: 0.36
+label: bar
+value: 0.245
+
+
+name: Alanine
+unit: g
+value: 0.51
+label: bar
+value: 0.347
+
+
+name: Aspartic acid
+unit: g
+value: 1.25
+label: bar
+value: 0.85
+
+
+name: Glutamic acid
+unit: g
+value: 3.1
+label: bar
+value: 2.108
+
+
+name: Glycine
+unit: g
+value: 0.42
+label: bar
+value: 0.286
+
+
+name: Proline
+unit: g
+value: 1.23
+label: bar
+value: 0.836
+
+
+name: Serine
+unit: g
+value: 0.86
+label: bar
+value: 0.585
+
+
+name: Hydroxyproline
+unit: g
+value: 0.09
+label: bar
+value: 0.061
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: Daidzein
+unit: mg
+value: 1.8
+label: bar
+value: 1.22
+
+
+name: Genistein
+unit: mg
+value: 3.27
+label: bar
+value: 2.22
+
+
+name: Total isoflavones
+unit: mg
+value: 5.07
+label: bar
+value: 3.45
+
+
+name: Biochanin A
+unit: mg
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: Formononetin
+unit: mg
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: Coumestrol
+unit: mg
+value: 0.09
+label: bar
+value: 0.06
+
+

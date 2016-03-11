@@ -1,0 +1,645 @@
+ndbno: 19016
+
+
+name: Snacks, granola bars, hard, almond
+
+
+name: Water
+unit: g
+value: 3.1
+label: oz
+value: 0.88
+label: bar
+value: 0.74
+
+
+name: Energy
+unit: kcal
+value: 495.0
+label: oz
+value: 140.0
+label: bar
+value: 119.0
+
+
+name: Energy
+unit: kJ
+value: 2071.0
+label: oz
+value: 587.0
+label: bar
+value: 497.0
+
+
+name: Protein
+unit: g
+value: 7.7
+label: oz
+value: 2.18
+label: bar
+value: 1.85
+
+
+name: Total lipid (fat)
+unit: g
+value: 25.5
+label: oz
+value: 7.23
+label: bar
+value: 6.12
+
+
+name: Ash
+unit: g
+value: 1.6
+label: oz
+value: 0.45
+label: bar
+value: 0.38
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 62.0
+label: oz
+value: 17.58
+label: bar
+value: 14.88
+
+
+name: Fiber, total dietary
+unit: g
+value: 4.8
+label: oz
+value: 1.4
+label: bar
+value: 1.2
+
+
+name: Calcium, Ca
+unit: mg
+value: 32.0
+label: oz
+value: 9.0
+label: bar
+value: 8.0
+
+
+name: Iron, Fe
+unit: mg
+value: 2.5
+label: oz
+value: 0.71
+label: bar
+value: 0.6
+
+
+name: Magnesium, Mg
+unit: mg
+value: 81.0
+label: oz
+value: 23.0
+label: bar
+value: 19.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 228.0
+label: oz
+value: 65.0
+label: bar
+value: 55.0
+
+
+name: Potassium, K
+unit: mg
+value: 273.0
+label: oz
+value: 77.0
+label: bar
+value: 66.0
+
+
+name: Sodium, Na
+unit: mg
+value: 256.0
+label: oz
+value: 73.0
+label: bar
+value: 61.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 1.58
+label: oz
+value: 0.45
+label: bar
+value: 0.38
+
+
+name: Copper, Cu
+unit: mg
+value: 0.127
+label: oz
+value: 0.036
+label: bar
+value: 0.03
+
+
+name: Manganese, Mn
+unit: mg
+value: 1.365
+label: oz
+value: 0.387
+label: bar
+value: 0.328
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 15.0
+label: oz
+value: 4.3
+label: bar
+value: 3.6
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.28
+label: oz
+value: 0.079
+label: bar
+value: 0.067
+
+
+name: Riboflavin
+unit: mg
+value: 0.07
+label: oz
+value: 0.02
+label: bar
+value: 0.017
+
+
+name: Niacin
+unit: mg
+value: 0.61
+label: oz
+value: 0.173
+label: bar
+value: 0.146
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.466
+label: oz
+value: 0.132
+label: bar
+value: 0.112
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.047
+label: oz
+value: 0.013
+label: bar
+value: 0.011
+
+
+name: Folate, total
+unit: \u00B5g
+value: 12.0
+label: oz
+value: 3.0
+label: bar
+value: 3.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 12.0
+label: oz
+value: 3.0
+label: bar
+value: 3.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 12.0
+label: oz
+value: 3.0
+label: bar
+value: 3.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 2.0
+label: oz
+value: 1.0
+label: bar
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 37.0
+label: oz
+value: 10.0
+label: bar
+value: 9.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 12.51
+label: oz
+value: 3.547
+label: bar
+value: 3.002
+
+
+name: 6:0
+unit: g
+value: 0.08
+label: oz
+value: 0.023
+label: bar
+value: 0.019
+
+
+name: 8:0
+unit: g
+value: 0.94
+label: oz
+value: 0.266
+label: bar
+value: 0.226
+
+
+name: 10:0
+unit: g
+value: 0.75
+label: oz
+value: 0.213
+label: bar
+value: 0.18
+
+
+name: 12:0
+unit: g
+value: 5.6
+label: oz
+value: 1.588
+label: bar
+value: 1.344
+
+
+name: 14:0
+unit: g
+value: 2.12
+label: oz
+value: 0.601
+label: bar
+value: 0.509
+
+
+name: 16:0
+unit: g
+value: 2.43
+label: oz
+value: 0.689
+label: bar
+value: 0.583
+
+
+name: 18:0
+unit: g
+value: 0.53
+label: oz
+value: 0.15
+label: bar
+value: 0.127
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 7.74
+label: oz
+value: 2.194
+label: bar
+value: 1.858
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.05
+label: oz
+value: 0.014
+label: bar
+value: 0.012
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 7.69
+label: oz
+value: 2.18
+label: bar
+value: 1.846
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 3.76
+label: oz
+value: 1.066
+label: bar
+value: 0.902
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 3.66
+label: oz
+value: 1.038
+label: bar
+value: 0.878
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.1
+label: oz
+value: 0.028
+label: bar
+value: 0.024
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: Tryptophan
+unit: g
+value: 0.142
+label: oz
+value: 0.04
+label: bar
+value: 0.034
+
+
+name: Threonine
+unit: g
+value: 0.221
+label: oz
+value: 0.063
+label: bar
+value: 0.053
+
+
+name: Isoleucine
+unit: g
+value: 0.289
+label: oz
+value: 0.082
+label: bar
+value: 0.069
+
+
+name: Leucine
+unit: g
+value: 0.585
+label: oz
+value: 0.166
+label: bar
+value: 0.14
+
+
+name: Lysine
+unit: g
+value: 0.313
+label: oz
+value: 0.089
+label: bar
+value: 0.075
+
+
+name: Methionine
+unit: g
+value: 0.135
+label: oz
+value: 0.038
+label: bar
+value: 0.032
+
+
+name: Cystine
+unit: g
+value: 0.231
+label: oz
+value: 0.065
+label: bar
+value: 0.055
+
+
+name: Phenylalanine
+unit: g
+value: 0.39
+label: oz
+value: 0.111
+label: bar
+value: 0.094
+
+
+name: Tyrosine
+unit: g
+value: 0.282
+label: oz
+value: 0.08
+label: bar
+value: 0.068
+
+
+name: Valine
+unit: g
+value: 0.406
+label: oz
+value: 0.115
+label: bar
+value: 0.097
+
+
+name: Arginine
+unit: g
+value: 0.596
+label: oz
+value: 0.169
+label: bar
+value: 0.143
+
+
+name: Histidine
+unit: g
+value: 0.178
+label: oz
+value: 0.05
+label: bar
+value: 0.043
+
+
+name: Alanine
+unit: g
+value: 0.369
+label: oz
+value: 0.105
+label: bar
+value: 0.089
+
+
+name: Aspartic acid
+unit: g
+value: 0.698
+label: oz
+value: 0.198
+label: bar
+value: 0.168
+
+
+name: Glutamic acid
+unit: g
+value: 1.679
+label: oz
+value: 0.476
+label: bar
+value: 0.403
+
+
+name: Glycine
+unit: g
+value: 0.411
+label: oz
+value: 0.117
+label: bar
+value: 0.099
+
+
+name: Proline
+unit: g
+value: 0.425
+label: oz
+value: 0.12
+label: bar
+value: 0.102
+
+
+name: Serine
+unit: g
+value: 0.374
+label: oz
+value: 0.106
+label: bar
+value: 0.09
+
+
+name: Daidzein
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: Genistein
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: Glycitein
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: Total isoflavones
+unit: mg
+value: 0.01
+label: oz
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: Formononetin
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: bar
+value: 0.0
+
+
+name: Coumestrol
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: bar
+value: 0.0
+
+

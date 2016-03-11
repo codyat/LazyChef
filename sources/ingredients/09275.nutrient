@@ -1,0 +1,654 @@
+ndbno: 09275
+
+
+name: Pineapple juice, frozen concentrate, unsweetened, diluted with 3 volume water
+
+
+name: Water
+unit: g
+value: 86.6
+label: cup
+value: 216.5
+label: fl oz
+value: 27.02
+
+
+name: Energy
+unit: kcal
+value: 51.0
+label: cup
+value: 128.0
+label: fl oz
+value: 16.0
+
+
+name: Energy
+unit: kJ
+value: 214.0
+label: cup
+value: 535.0
+label: fl oz
+value: 67.0
+
+
+name: Protein
+unit: g
+value: 0.4
+label: cup
+value: 1.0
+label: fl oz
+value: 0.12
+
+
+name: Total lipid (fat)
+unit: g
+value: 0.03
+label: cup
+value: 0.08
+label: fl oz
+value: 0.01
+
+
+name: Ash
+unit: g
+value: 0.3
+label: cup
+value: 0.75
+label: fl oz
+value: 0.09
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 12.67
+label: cup
+value: 31.68
+label: fl oz
+value: 3.95
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.2
+label: cup
+value: 0.5
+label: fl oz
+value: 0.1
+
+
+name: Sugars, total
+unit: g
+value: 12.47
+label: cup
+value: 31.18
+label: fl oz
+value: 3.89
+
+
+name: Calcium, Ca
+unit: mg
+value: 13.0
+label: cup
+value: 32.0
+label: fl oz
+value: 4.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.16
+label: cup
+value: 0.4
+label: fl oz
+value: 0.05
+
+
+name: Magnesium, Mg
+unit: mg
+value: 14.0
+label: cup
+value: 35.0
+label: fl oz
+value: 4.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 9.0
+label: cup
+value: 22.0
+label: fl oz
+value: 3.0
+
+
+name: Potassium, K
+unit: mg
+value: 132.0
+label: cup
+value: 330.0
+label: fl oz
+value: 41.0
+
+
+name: Sodium, Na
+unit: mg
+value: 1.0
+label: cup
+value: 2.0
+label: fl oz
+value: 0.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.08
+label: cup
+value: 0.2
+label: fl oz
+value: 0.02
+
+
+name: Copper, Cu
+unit: mg
+value: 0.045
+label: cup
+value: 0.112
+label: fl oz
+value: 0.014
+
+
+name: Manganese, Mn
+unit: mg
+value: 1.049
+label: cup
+value: 2.622
+label: fl oz
+value: 0.327
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 0.1
+label: cup
+value: 0.2
+label: fl oz
+value: 0.0
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 12.0
+label: cup
+value: 30.0
+label: fl oz
+value: 3.7
+
+
+name: Thiamin
+unit: mg
+value: 0.07
+label: cup
+value: 0.175
+label: fl oz
+value: 0.022
+
+
+name: Riboflavin
+unit: mg
+value: 0.02
+label: cup
+value: 0.05
+label: fl oz
+value: 0.006
+
+
+name: Niacin
+unit: mg
+value: 0.2
+label: cup
+value: 0.5
+label: fl oz
+value: 0.062
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.125
+label: cup
+value: 0.312
+label: fl oz
+value: 0.039
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.074
+label: cup
+value: 0.185
+label: fl oz
+value: 0.023
+
+
+name: Folate, total
+unit: \u00B5g
+value: 11.0
+label: cup
+value: 28.0
+label: fl oz
+value: 3.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: fl oz
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 11.0
+label: cup
+value: 28.0
+label: fl oz
+value: 3.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 11.0
+label: cup
+value: 28.0
+label: fl oz
+value: 3.0
+
+
+name: Choline, total
+unit: mg
+value: 3.3
+label: cup
+value: 8.2
+label: fl oz
+value: 1.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: fl oz
+value: 0.0
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: fl oz
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 1.0
+label: cup
+value: 2.0
+label: fl oz
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: fl oz
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 6.0
+label: cup
+value: 15.0
+label: fl oz
+value: 2.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: fl oz
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: fl oz
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 10.0
+label: cup
+value: 25.0
+label: fl oz
+value: 3.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: fl oz
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: fl oz
+value: 0.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.01
+label: cup
+value: 0.02
+label: fl oz
+value: 0.0
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: fl oz
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: fl oz
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: cup
+value: 0.0
+label: fl oz
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 0.3
+label: cup
+value: 0.8
+label: fl oz
+value: 0.1
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.002
+label: cup
+value: 0.005
+label: fl oz
+value: 0.001
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: fl oz
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: fl oz
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: fl oz
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: fl oz
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: fl oz
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: fl oz
+value: 0.0
+
+
+name: 16:0
+unit: g
+value: 0.001
+label: cup
+value: 0.002
+label: fl oz
+value: 0.0
+
+
+name: 18:0
+unit: g
+value: 0.001
+label: cup
+value: 0.002
+label: fl oz
+value: 0.0
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.003
+label: cup
+value: 0.008
+label: fl oz
+value: 0.001
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: fl oz
+value: 0.0
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.003
+label: cup
+value: 0.008
+label: fl oz
+value: 0.001
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: fl oz
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: fl oz
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.01
+label: cup
+value: 0.025
+label: fl oz
+value: 0.003
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.006
+label: cup
+value: 0.015
+label: fl oz
+value: 0.002
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.004
+label: cup
+value: 0.01
+label: fl oz
+value: 0.001
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: fl oz
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: fl oz
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: fl oz
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: fl oz
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: fl oz
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: fl oz
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: fl oz
+value: 0.0
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: fl oz
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: fl oz
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: fl oz
+value: 0.0
+
+

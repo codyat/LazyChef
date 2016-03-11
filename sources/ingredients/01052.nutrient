@@ -1,0 +1,1007 @@
+ndbno: 01052
+
+
+name: Cream, fluid, light whipping
+
+
+name: Water
+unit: g
+value: 63.5
+label: cup, whipped
+value: 76.2
+label: cup, fluid (yields 2 cups whipped)
+value: 151.76
+label: tbsp
+value: 9.52
+
+
+name: Energy
+unit: kcal
+value: 292.0
+label: cup, whipped
+value: 350.0
+label: cup, fluid (yields 2 cups whipped)
+value: 698.0
+label: tbsp
+value: 44.0
+
+
+name: Energy
+unit: kJ
+value: 1223.0
+label: cup, whipped
+value: 1468.0
+label: cup, fluid (yields 2 cups whipped)
+value: 2923.0
+label: tbsp
+value: 183.0
+
+
+name: Protein
+unit: g
+value: 2.17
+label: cup, whipped
+value: 2.6
+label: cup, fluid (yields 2 cups whipped)
+value: 5.19
+label: tbsp
+value: 0.33
+
+
+name: Total lipid (fat)
+unit: g
+value: 30.91
+label: cup, whipped
+value: 37.09
+label: cup, fluid (yields 2 cups whipped)
+value: 73.87
+label: tbsp
+value: 4.64
+
+
+name: Ash
+unit: g
+value: 0.46
+label: cup, whipped
+value: 0.55
+label: cup, fluid (yields 2 cups whipped)
+value: 1.1
+label: tbsp
+value: 0.07
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 2.96
+label: cup, whipped
+value: 3.55
+label: cup, fluid (yields 2 cups whipped)
+value: 7.07
+label: tbsp
+value: 0.44
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: cup, whipped
+value: 0.0
+label: cup, fluid (yields 2 cups whipped)
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: Sugars, total
+unit: g
+value: 2.96
+label: cup, whipped
+value: 3.55
+label: cup, fluid (yields 2 cups whipped)
+value: 7.07
+label: tbsp
+value: 0.44
+
+
+name: Calcium, Ca
+unit: mg
+value: 69.0
+label: cup, whipped
+value: 83.0
+label: cup, fluid (yields 2 cups whipped)
+value: 165.0
+label: tbsp
+value: 10.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.03
+label: cup, whipped
+value: 0.04
+label: cup, fluid (yields 2 cups whipped)
+value: 0.07
+label: tbsp
+value: 0.0
+
+
+name: Magnesium, Mg
+unit: mg
+value: 7.0
+label: cup, whipped
+value: 8.0
+label: cup, fluid (yields 2 cups whipped)
+value: 17.0
+label: tbsp
+value: 1.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 61.0
+label: cup, whipped
+value: 73.0
+label: cup, fluid (yields 2 cups whipped)
+value: 146.0
+label: tbsp
+value: 9.0
+
+
+name: Potassium, K
+unit: mg
+value: 97.0
+label: cup, whipped
+value: 116.0
+label: cup, fluid (yields 2 cups whipped)
+value: 232.0
+label: tbsp
+value: 15.0
+
+
+name: Sodium, Na
+unit: mg
+value: 34.0
+label: cup, whipped
+value: 41.0
+label: cup, fluid (yields 2 cups whipped)
+value: 81.0
+label: tbsp
+value: 5.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.25
+label: cup, whipped
+value: 0.3
+label: cup, fluid (yields 2 cups whipped)
+value: 0.6
+label: tbsp
+value: 0.04
+
+
+name: Copper, Cu
+unit: mg
+value: 0.007
+label: cup, whipped
+value: 0.008
+label: cup, fluid (yields 2 cups whipped)
+value: 0.017
+label: tbsp
+value: 0.001
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.001
+label: cup, whipped
+value: 0.001
+label: cup, fluid (yields 2 cups whipped)
+value: 0.002
+label: tbsp
+value: 0.0
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 0.5
+label: cup, whipped
+value: 0.6
+label: cup, fluid (yields 2 cups whipped)
+value: 1.2
+label: tbsp
+value: 0.1
+
+
+name: Fluoride, F
+unit: \u00B5g
+value: 3.0
+label: cup, whipped
+value: 3.6
+label: cup, fluid (yields 2 cups whipped)
+value: 7.2
+label: tbsp
+value: 0.4
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.6
+label: cup, whipped
+value: 0.7
+label: cup, fluid (yields 2 cups whipped)
+value: 1.4
+label: tbsp
+value: 0.1
+
+
+name: Thiamin
+unit: mg
+value: 0.024
+label: cup, whipped
+value: 0.029
+label: cup, fluid (yields 2 cups whipped)
+value: 0.057
+label: tbsp
+value: 0.004
+
+
+name: Riboflavin
+unit: mg
+value: 0.125
+label: cup, whipped
+value: 0.15
+label: cup, fluid (yields 2 cups whipped)
+value: 0.299
+label: tbsp
+value: 0.019
+
+
+name: Niacin
+unit: mg
+value: 0.042
+label: cup, whipped
+value: 0.05
+label: cup, fluid (yields 2 cups whipped)
+value: 0.1
+label: tbsp
+value: 0.006
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.259
+label: cup, whipped
+value: 0.311
+label: cup, fluid (yields 2 cups whipped)
+value: 0.619
+label: tbsp
+value: 0.039
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.028
+label: cup, whipped
+value: 0.034
+label: cup, fluid (yields 2 cups whipped)
+value: 0.067
+label: tbsp
+value: 0.004
+
+
+name: Folate, total
+unit: \u00B5g
+value: 4.0
+label: cup, whipped
+value: 5.0
+label: cup, fluid (yields 2 cups whipped)
+value: 10.0
+label: tbsp
+value: 1.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: cup, whipped
+value: 0.0
+label: cup, fluid (yields 2 cups whipped)
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 4.0
+label: cup, whipped
+value: 5.0
+label: cup, fluid (yields 2 cups whipped)
+value: 10.0
+label: tbsp
+value: 1.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 4.0
+label: cup, whipped
+value: 5.0
+label: cup, fluid (yields 2 cups whipped)
+value: 10.0
+label: tbsp
+value: 1.0
+
+
+name: Choline, total
+unit: mg
+value: 16.8
+label: cup, whipped
+value: 20.2
+label: cup, fluid (yields 2 cups whipped)
+value: 40.2
+label: tbsp
+value: 2.5
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.2
+label: cup, whipped
+value: 0.24
+label: cup, fluid (yields 2 cups whipped)
+value: 0.48
+label: tbsp
+value: 0.03
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: cup, whipped
+value: 0.0
+label: cup, fluid (yields 2 cups whipped)
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 279.0
+label: cup, whipped
+value: 335.0
+label: cup, fluid (yields 2 cups whipped)
+value: 667.0
+label: tbsp
+value: 42.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 274.0
+label: cup, whipped
+value: 329.0
+label: cup, fluid (yields 2 cups whipped)
+value: 655.0
+label: tbsp
+value: 41.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 60.0
+label: cup, whipped
+value: 72.0
+label: cup, fluid (yields 2 cups whipped)
+value: 143.0
+label: tbsp
+value: 9.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: cup, whipped
+value: 0.0
+label: cup, fluid (yields 2 cups whipped)
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: cup, whipped
+value: 0.0
+label: cup, fluid (yields 2 cups whipped)
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 1013.0
+label: cup, whipped
+value: 1216.0
+label: cup, fluid (yields 2 cups whipped)
+value: 2421.0
+label: tbsp
+value: 152.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: cup, whipped
+value: 0.0
+label: cup, fluid (yields 2 cups whipped)
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 0.0
+label: cup, whipped
+value: 0.0
+label: cup, fluid (yields 2 cups whipped)
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.88
+label: cup, whipped
+value: 1.06
+label: cup, fluid (yields 2 cups whipped)
+value: 2.1
+label: tbsp
+value: 0.13
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: cup, whipped
+value: 0.0
+label: cup, fluid (yields 2 cups whipped)
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.6
+label: cup, whipped
+value: 0.7
+label: cup, fluid (yields 2 cups whipped)
+value: 1.4
+label: tbsp
+value: 0.1
+
+
+name: Vitamin D3 (cholecalciferol)
+unit: \u00B5g
+value: 0.6
+label: cup, whipped
+value: 0.7
+label: cup, fluid (yields 2 cups whipped)
+value: 1.4
+label: tbsp
+value: 0.1
+
+
+name: Vitamin D
+unit: IU
+value: 23.0
+label: cup, whipped
+value: 28.0
+label: cup, fluid (yields 2 cups whipped)
+value: 55.0
+label: tbsp
+value: 3.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 2.7
+label: cup, whipped
+value: 3.2
+label: cup, fluid (yields 2 cups whipped)
+value: 6.5
+label: tbsp
+value: 0.4
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 19.337
+label: cup, whipped
+value: 23.204
+label: cup, fluid (yields 2 cups whipped)
+value: 46.215
+label: tbsp
+value: 2.901
+
+
+name: 4:0
+unit: g
+value: 1.083
+label: cup, whipped
+value: 1.3
+label: cup, fluid (yields 2 cups whipped)
+value: 2.588
+label: tbsp
+value: 0.162
+
+
+name: 6:0
+unit: g
+value: 0.302
+label: cup, whipped
+value: 0.362
+label: cup, fluid (yields 2 cups whipped)
+value: 0.722
+label: tbsp
+value: 0.045
+
+
+name: 8:0
+unit: g
+value: 0.309
+label: cup, whipped
+value: 0.371
+label: cup, fluid (yields 2 cups whipped)
+value: 0.739
+label: tbsp
+value: 0.046
+
+
+name: 10:0
+unit: g
+value: 0.629
+label: cup, whipped
+value: 0.755
+label: cup, fluid (yields 2 cups whipped)
+value: 1.503
+label: tbsp
+value: 0.094
+
+
+name: 12:0
+unit: g
+value: 0.366
+label: cup, whipped
+value: 0.439
+label: cup, fluid (yields 2 cups whipped)
+value: 0.875
+label: tbsp
+value: 0.055
+
+
+name: 14:0
+unit: g
+value: 3.29
+label: cup, whipped
+value: 3.948
+label: cup, fluid (yields 2 cups whipped)
+value: 7.863
+label: tbsp
+value: 0.494
+
+
+name: 16:0
+unit: g
+value: 8.84
+label: cup, whipped
+value: 10.608
+label: cup, fluid (yields 2 cups whipped)
+value: 21.128
+label: tbsp
+value: 1.326
+
+
+name: 18:0
+unit: g
+value: 3.37
+label: cup, whipped
+value: 4.044
+label: cup, fluid (yields 2 cups whipped)
+value: 8.054
+label: tbsp
+value: 0.506
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 9.093
+label: cup, whipped
+value: 10.912
+label: cup, fluid (yields 2 cups whipped)
+value: 21.732
+label: tbsp
+value: 1.364
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 1.01
+label: cup, whipped
+value: 1.212
+label: cup, fluid (yields 2 cups whipped)
+value: 2.414
+label: tbsp
+value: 0.152
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 7.658
+label: cup, whipped
+value: 9.19
+label: cup, fluid (yields 2 cups whipped)
+value: 18.303
+label: tbsp
+value: 1.149
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: cup, whipped
+value: 0.0
+label: cup, fluid (yields 2 cups whipped)
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: cup, whipped
+value: 0.0
+label: cup, fluid (yields 2 cups whipped)
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.884
+label: cup, whipped
+value: 1.061
+label: cup, fluid (yields 2 cups whipped)
+value: 2.113
+label: tbsp
+value: 0.133
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.618
+label: cup, whipped
+value: 0.742
+label: cup, fluid (yields 2 cups whipped)
+value: 1.477
+label: tbsp
+value: 0.093
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.266
+label: cup, whipped
+value: 0.319
+label: cup, fluid (yields 2 cups whipped)
+value: 0.636
+label: tbsp
+value: 0.04
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: cup, whipped
+value: 0.0
+label: cup, fluid (yields 2 cups whipped)
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: cup, whipped
+value: 0.0
+label: cup, fluid (yields 2 cups whipped)
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: cup, whipped
+value: 0.0
+label: cup, fluid (yields 2 cups whipped)
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: cup, whipped
+value: 0.0
+label: cup, fluid (yields 2 cups whipped)
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: cup, whipped
+value: 0.0
+label: cup, fluid (yields 2 cups whipped)
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 111.0
+label: cup, whipped
+value: 133.0
+label: cup, fluid (yields 2 cups whipped)
+value: 265.0
+label: tbsp
+value: 17.0
+
+
+name: Tryptophan
+unit: g
+value: 0.031
+label: cup, whipped
+value: 0.037
+label: cup, fluid (yields 2 cups whipped)
+value: 0.074
+label: tbsp
+value: 0.005
+
+
+name: Threonine
+unit: g
+value: 0.098
+label: cup, whipped
+value: 0.118
+label: cup, fluid (yields 2 cups whipped)
+value: 0.234
+label: tbsp
+value: 0.015
+
+
+name: Isoleucine
+unit: g
+value: 0.131
+label: cup, whipped
+value: 0.157
+label: cup, fluid (yields 2 cups whipped)
+value: 0.313
+label: tbsp
+value: 0.02
+
+
+name: Leucine
+unit: g
+value: 0.213
+label: cup, whipped
+value: 0.256
+label: cup, fluid (yields 2 cups whipped)
+value: 0.509
+label: tbsp
+value: 0.032
+
+
+name: Lysine
+unit: g
+value: 0.172
+label: cup, whipped
+value: 0.206
+label: cup, fluid (yields 2 cups whipped)
+value: 0.411
+label: tbsp
+value: 0.026
+
+
+name: Methionine
+unit: g
+value: 0.054
+label: cup, whipped
+value: 0.065
+label: cup, fluid (yields 2 cups whipped)
+value: 0.129
+label: tbsp
+value: 0.008
+
+
+name: Cystine
+unit: g
+value: 0.02
+label: cup, whipped
+value: 0.024
+label: cup, fluid (yields 2 cups whipped)
+value: 0.048
+label: tbsp
+value: 0.003
+
+
+name: Phenylalanine
+unit: g
+value: 0.105
+label: cup, whipped
+value: 0.126
+label: cup, fluid (yields 2 cups whipped)
+value: 0.251
+label: tbsp
+value: 0.016
+
+
+name: Tyrosine
+unit: g
+value: 0.105
+label: cup, whipped
+value: 0.126
+label: cup, fluid (yields 2 cups whipped)
+value: 0.251
+label: tbsp
+value: 0.016
+
+
+name: Valine
+unit: g
+value: 0.145
+label: cup, whipped
+value: 0.174
+label: cup, fluid (yields 2 cups whipped)
+value: 0.347
+label: tbsp
+value: 0.022
+
+
+name: Arginine
+unit: g
+value: 0.079
+label: cup, whipped
+value: 0.095
+label: cup, fluid (yields 2 cups whipped)
+value: 0.189
+label: tbsp
+value: 0.012
+
+
+name: Histidine
+unit: g
+value: 0.059
+label: cup, whipped
+value: 0.071
+label: cup, fluid (yields 2 cups whipped)
+value: 0.141
+label: tbsp
+value: 0.009
+
+
+name: Alanine
+unit: g
+value: 0.075
+label: cup, whipped
+value: 0.09
+label: cup, fluid (yields 2 cups whipped)
+value: 0.179
+label: tbsp
+value: 0.011
+
+
+name: Aspartic acid
+unit: g
+value: 0.165
+label: cup, whipped
+value: 0.198
+label: cup, fluid (yields 2 cups whipped)
+value: 0.394
+label: tbsp
+value: 0.025
+
+
+name: Glutamic acid
+unit: g
+value: 0.454
+label: cup, whipped
+value: 0.545
+label: cup, fluid (yields 2 cups whipped)
+value: 1.085
+label: tbsp
+value: 0.068
+
+
+name: Glycine
+unit: g
+value: 0.046
+label: cup, whipped
+value: 0.055
+label: cup, fluid (yields 2 cups whipped)
+value: 0.11
+label: tbsp
+value: 0.007
+
+
+name: Proline
+unit: g
+value: 0.21
+label: cup, whipped
+value: 0.252
+label: cup, fluid (yields 2 cups whipped)
+value: 0.502
+label: tbsp
+value: 0.032
+
+
+name: Serine
+unit: g
+value: 0.118
+label: cup, whipped
+value: 0.142
+label: cup, fluid (yields 2 cups whipped)
+value: 0.282
+label: tbsp
+value: 0.018
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: cup, whipped
+value: 0.0
+label: cup, fluid (yields 2 cups whipped)
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: cup, whipped
+value: 0.0
+label: cup, fluid (yields 2 cups whipped)
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: cup, whipped
+value: 0.0
+label: cup, fluid (yields 2 cups whipped)
+value: 0.0
+label: tbsp
+value: 0.0
+
+

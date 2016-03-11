@@ -1,0 +1,322 @@
+ndbno: 11005
+
+
+name: Arrowhead, raw
+
+
+name: Water
+unit: g
+value: 72.48
+label: large
+value: 18.12
+label: medium
+value: 8.7
+
+
+name: Energy
+unit: kcal
+value: 99.0
+label: large
+value: 25.0
+label: medium
+value: 12.0
+
+
+name: Energy
+unit: kJ
+value: 414.0
+label: large
+value: 104.0
+label: medium
+value: 50.0
+
+
+name: Protein
+unit: g
+value: 5.33
+label: large
+value: 1.33
+label: medium
+value: 0.64
+
+
+name: Total lipid (fat)
+unit: g
+value: 0.29
+label: large
+value: 0.07
+label: medium
+value: 0.03
+
+
+name: Ash
+unit: g
+value: 1.67
+label: large
+value: 0.42
+label: medium
+value: 0.2
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 20.23
+label: large
+value: 5.06
+label: medium
+value: 2.43
+
+
+name: Calcium, Ca
+unit: mg
+value: 10.0
+label: large
+value: 2.0
+label: medium
+value: 1.0
+
+
+name: Iron, Fe
+unit: mg
+value: 2.57
+label: large
+value: 0.64
+label: medium
+value: 0.31
+
+
+name: Magnesium, Mg
+unit: mg
+value: 51.0
+label: large
+value: 13.0
+label: medium
+value: 6.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 174.0
+label: large
+value: 44.0
+label: medium
+value: 21.0
+
+
+name: Potassium, K
+unit: mg
+value: 922.0
+label: large
+value: 230.0
+label: medium
+value: 111.0
+
+
+name: Sodium, Na
+unit: mg
+value: 22.0
+label: large
+value: 6.0
+label: medium
+value: 3.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.28
+label: large
+value: 0.07
+label: medium
+value: 0.03
+
+
+name: Copper, Cu
+unit: mg
+value: 0.171
+label: large
+value: 0.043
+label: medium
+value: 0.021
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.36
+label: large
+value: 0.09
+label: medium
+value: 0.043
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 0.7
+label: large
+value: 0.2
+label: medium
+value: 0.1
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 1.1
+label: large
+value: 0.3
+label: medium
+value: 0.1
+
+
+name: Thiamin
+unit: mg
+value: 0.17
+label: large
+value: 0.042
+label: medium
+value: 0.02
+
+
+name: Riboflavin
+unit: mg
+value: 0.073
+label: large
+value: 0.018
+label: medium
+value: 0.009
+
+
+name: Niacin
+unit: mg
+value: 1.65
+label: large
+value: 0.412
+label: medium
+value: 0.198
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.599
+label: large
+value: 0.15
+label: medium
+value: 0.072
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.26
+label: large
+value: 0.065
+label: medium
+value: 0.031
+
+
+name: Folate, total
+unit: \u00B5g
+value: 14.0
+label: large
+value: 4.0
+label: medium
+value: 2.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: large
+value: 0.0
+label: medium
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 14.0
+label: large
+value: 4.0
+label: medium
+value: 2.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 14.0
+label: large
+value: 4.0
+label: medium
+value: 2.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: large
+value: 0.0
+label: medium
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 0.0
+label: large
+value: 0.0
+label: medium
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: large
+value: 0.0
+label: medium
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 0.0
+label: large
+value: 0.0
+label: medium
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: large
+value: 0.0
+label: medium
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: large
+value: 0.0
+label: medium
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.0
+label: large
+value: 0.0
+label: medium
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: large
+value: 0.0
+label: medium
+value: 0.0
+
+
+

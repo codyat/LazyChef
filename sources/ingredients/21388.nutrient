@@ -1,0 +1,601 @@
+ndbno: 21388
+
+
+name: Fast foods, miniature cinnamon rolls
+
+
+name: Water
+unit: g
+value: 19.62
+label: each
+value: 4.9
+
+
+name: Energy
+unit: kcal
+value: 403.0
+label: each
+value: 101.0
+
+
+name: Energy
+unit: kJ
+value: 1687.0
+label: each
+value: 422.0
+
+
+name: Protein
+unit: g
+value: 7.02
+label: each
+value: 1.76
+
+
+name: Total lipid (fat)
+unit: g
+value: 17.95
+label: each
+value: 4.49
+
+
+name: Ash
+unit: g
+value: 2.02
+label: each
+value: 0.5
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 53.38
+label: each
+value: 13.34
+
+
+name: Fiber, total dietary
+unit: g
+value: 2.2
+label: each
+value: 0.6
+
+
+name: Sugars, total
+unit: g
+value: 17.98
+label: each
+value: 4.5
+
+
+name: Sucrose
+unit: g
+value: 5.5
+label: each
+value: 1.38
+
+
+name: Glucose (dextrose)
+unit: g
+value: 6.94
+label: each
+value: 1.74
+
+
+name: Fructose
+unit: g
+value: 3.76
+label: each
+value: 0.94
+
+
+name: Lactose
+unit: g
+value: 0.93
+label: each
+value: 0.23
+
+
+name: Maltose
+unit: g
+value: 0.84
+label: each
+value: 0.21
+
+
+name: Galactose
+unit: g
+value: 0.0
+label: each
+value: 0.0
+
+
+name: Starch
+unit: g
+value: 29.05
+label: each
+value: 7.26
+
+
+name: Calcium, Ca
+unit: mg
+value: 54.0
+label: each
+value: 14.0
+
+
+name: Iron, Fe
+unit: mg
+value: 2.55
+label: each
+value: 0.64
+
+
+name: Magnesium, Mg
+unit: mg
+value: 13.0
+label: each
+value: 3.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 180.0
+label: each
+value: 45.0
+
+
+name: Potassium, K
+unit: mg
+value: 131.0
+label: each
+value: 33.0
+
+
+name: Sodium, Na
+unit: mg
+value: 554.0
+label: each
+value: 138.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.54
+label: each
+value: 0.14
+
+
+name: Copper, Cu
+unit: mg
+value: 0.07
+label: each
+value: 0.018
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.561
+label: each
+value: 0.14
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 11.7
+label: each
+value: 2.9
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: each
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.254
+label: each
+value: 0.064
+
+
+name: Riboflavin
+unit: mg
+value: 0.303
+label: each
+value: 0.076
+
+
+name: Niacin
+unit: mg
+value: 3.16
+label: each
+value: 0.79
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.507
+label: each
+value: 0.127
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.044
+label: each
+value: 0.011
+
+
+name: Choline, total
+unit: mg
+value: 27.3
+label: each
+value: 6.8
+
+
+name: Betaine
+unit: mg
+value: 12.3
+label: each
+value: 3.1
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.11
+label: each
+value: 0.03
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 1.11
+label: each
+value: 0.28
+
+
+name: Tocopherol, beta
+unit: mg
+value: 0.08
+label: each
+value: 0.02
+
+
+name: Tocopherol, gamma
+unit: mg
+value: 7.61
+label: each
+value: 1.9
+
+
+name: Tocopherol, delta
+unit: mg
+value: 3.01
+label: each
+value: 0.75
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 13.9
+label: each
+value: 3.5
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 4.701
+label: each
+value: 1.175
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: each
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: each
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: each
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.031
+label: each
+value: 0.008
+
+
+name: 15:0
+unit: g
+value: 0.0
+label: each
+value: 0.0
+
+
+name: 16:0
+unit: g
+value: 2.317
+label: each
+value: 0.579
+
+
+name: 17:0
+unit: g
+value: 0.021
+label: each
+value: 0.005
+
+
+name: 18:0
+unit: g
+value: 2.224
+label: each
+value: 0.556
+
+
+name: 20:0
+unit: g
+value: 0.055
+label: each
+value: 0.014
+
+
+name: 22:0
+unit: g
+value: 0.054
+label: each
+value: 0.014
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 9.221
+label: each
+value: 2.305
+
+
+name: 14:1
+unit: g
+value: 0.0
+label: each
+value: 0.0
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: each
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.04
+label: each
+value: 0.01
+
+
+name: 17:1
+unit: g
+value: 0.0
+label: each
+value: 0.0
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 9.127
+label: each
+value: 2.282
+
+
+name: 20:1
+unit: g
+value: 0.053
+label: each
+value: 0.013
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 2.415
+label: each
+value: 0.604
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 2.287
+label: each
+value: 0.572
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.128
+label: each
+value: 0.032
+
+
+name: 18:3 n-3 c,c,c (ALA)
+unit: g
+value: 0.128
+label: each
+value: 0.032
+
+
+name: 18:3 n-6 c,c,c
+unit: g
+value: 0.0
+label: each
+value: 0.0
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.0
+label: each
+value: 0.0
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.0
+label: each
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: each
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 21.0
+label: each
+value: 5.0
+
+
+name: Tryptophan
+unit: g
+value: 0.054
+label: each
+value: 0.014
+
+
+name: Threonine
+unit: g
+value: 0.218
+label: each
+value: 0.054
+
+
+name: Isoleucine
+unit: g
+value: 0.276
+label: each
+value: 0.069
+
+
+name: Leucine
+unit: g
+value: 0.51
+label: each
+value: 0.128
+
+
+name: Lysine
+unit: g
+value: 0.181
+label: each
+value: 0.045
+
+
+name: Methionine
+unit: g
+value: 0.11
+label: each
+value: 0.028
+
+
+name: Cystine
+unit: g
+value: 0.158
+label: each
+value: 0.04
+
+
+name: Phenylalanine
+unit: g
+value: 0.334
+label: each
+value: 0.083
+
+
+name: Tyrosine
+unit: g
+value: 0.213
+label: each
+value: 0.053
+
+
+name: Valine
+unit: g
+value: 0.334
+label: each
+value: 0.083
+
+
+name: Arginine
+unit: g
+value: 0.259
+label: each
+value: 0.065
+
+
+name: Histidine
+unit: g
+value: 0.162
+label: each
+value: 0.04
+
+
+name: Alanine
+unit: g
+value: 0.25
+label: each
+value: 0.062
+
+
+name: Aspartic acid
+unit: g
+value: 0.365
+label: each
+value: 0.091
+
+
+name: Glutamic acid
+unit: g
+value: 2.247
+label: each
+value: 0.562
+
+
+name: Glycine
+unit: g
+value: 0.251
+label: each
+value: 0.063
+
+
+name: Proline
+unit: g
+value: 0.708
+label: each
+value: 0.177
+
+
+name: Serine
+unit: g
+value: 0.368
+label: each
+value: 0.092
+
+

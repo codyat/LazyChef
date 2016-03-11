@@ -1,0 +1,663 @@
+ndbno: 19111
+
+
+name: Candies, NESTLE, BABY RUTH Bar
+
+
+name: Water
+unit: g
+value: 6.99
+label: serving 2.1 oz bar
+value: 4.19
+label: serving fun size bar 0.65 oz
+value: 1.26
+
+
+name: Energy
+unit: kcal
+value: 459.0
+label: serving 2.1 oz bar
+value: 275.0
+label: serving fun size bar 0.65 oz
+value: 83.0
+
+
+name: Energy
+unit: kJ
+value: 1920.0
+label: serving 2.1 oz bar
+value: 1152.0
+label: serving fun size bar 0.65 oz
+value: 346.0
+
+
+name: Protein
+unit: g
+value: 5.4
+label: serving 2.1 oz bar
+value: 3.24
+label: serving fun size bar 0.65 oz
+value: 0.97
+
+
+name: Total lipid (fat)
+unit: g
+value: 21.6
+label: serving 2.1 oz bar
+value: 12.96
+label: serving fun size bar 0.65 oz
+value: 3.89
+
+
+name: Ash
+unit: g
+value: 1.21
+label: serving 2.1 oz bar
+value: 0.73
+label: serving fun size bar 0.65 oz
+value: 0.22
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 64.8
+label: serving 2.1 oz bar
+value: 38.88
+label: serving fun size bar 0.65 oz
+value: 11.66
+
+
+name: Fiber, total dietary
+unit: g
+value: 2.0
+label: serving 2.1 oz bar
+value: 1.2
+label: serving fun size bar 0.65 oz
+value: 0.4
+
+
+name: Sugars, total
+unit: g
+value: 54.0
+label: serving 2.1 oz bar
+value: 32.4
+label: serving fun size bar 0.65 oz
+value: 9.72
+
+
+name: Calcium, Ca
+unit: mg
+value: 47.0
+label: serving 2.1 oz bar
+value: 28.0
+label: serving fun size bar 0.65 oz
+value: 8.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.63
+label: serving 2.1 oz bar
+value: 0.38
+label: serving fun size bar 0.65 oz
+value: 0.11
+
+
+name: Magnesium, Mg
+unit: mg
+value: 43.0
+label: serving 2.1 oz bar
+value: 26.0
+label: serving fun size bar 0.65 oz
+value: 8.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 94.0
+label: serving 2.1 oz bar
+value: 56.0
+label: serving fun size bar 0.65 oz
+value: 17.0
+
+
+name: Potassium, K
+unit: mg
+value: 249.0
+label: serving 2.1 oz bar
+value: 149.0
+label: serving fun size bar 0.65 oz
+value: 45.0
+
+
+name: Sodium, Na
+unit: mg
+value: 230.0
+label: serving 2.1 oz bar
+value: 138.0
+label: serving fun size bar 0.65 oz
+value: 41.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.72
+label: serving 2.1 oz bar
+value: 0.43
+label: serving fun size bar 0.65 oz
+value: 0.13
+
+
+name: Copper, Cu
+unit: mg
+value: 0.225
+label: serving 2.1 oz bar
+value: 0.135
+label: serving fun size bar 0.65 oz
+value: 0.04
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.351
+label: serving 2.1 oz bar
+value: 0.211
+label: serving fun size bar 0.65 oz
+value: 0.063
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 2.5
+label: serving 2.1 oz bar
+value: 1.5
+label: serving fun size bar 0.65 oz
+value: 0.4
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: serving 2.1 oz bar
+value: 0.0
+label: serving fun size bar 0.65 oz
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.058
+label: serving 2.1 oz bar
+value: 0.035
+label: serving fun size bar 0.65 oz
+value: 0.01
+
+
+name: Riboflavin
+unit: mg
+value: 0.121
+label: serving 2.1 oz bar
+value: 0.073
+label: serving fun size bar 0.65 oz
+value: 0.022
+
+
+name: Niacin
+unit: mg
+value: 1.251
+label: serving 2.1 oz bar
+value: 0.751
+label: serving fun size bar 0.65 oz
+value: 0.225
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.333
+label: serving 2.1 oz bar
+value: 0.2
+label: serving fun size bar 0.65 oz
+value: 0.06
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.042
+label: serving 2.1 oz bar
+value: 0.025
+label: serving fun size bar 0.65 oz
+value: 0.008
+
+
+name: Folate, total
+unit: \u00B5g
+value: 12.0
+label: serving 2.1 oz bar
+value: 7.0
+label: serving fun size bar 0.65 oz
+value: 2.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: serving 2.1 oz bar
+value: 0.0
+label: serving fun size bar 0.65 oz
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 12.0
+label: serving 2.1 oz bar
+value: 7.0
+label: serving fun size bar 0.65 oz
+value: 2.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 12.0
+label: serving 2.1 oz bar
+value: 7.0
+label: serving fun size bar 0.65 oz
+value: 2.0
+
+
+name: Choline, total
+unit: mg
+value: 34.9
+label: serving 2.1 oz bar
+value: 20.9
+label: serving fun size bar 0.65 oz
+value: 6.3
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.06
+label: serving 2.1 oz bar
+value: 0.04
+label: serving fun size bar 0.65 oz
+value: 0.01
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: serving 2.1 oz bar
+value: 0.0
+label: serving fun size bar 0.65 oz
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 0.0
+label: serving 2.1 oz bar
+value: 0.0
+label: serving fun size bar 0.65 oz
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: serving 2.1 oz bar
+value: 0.0
+label: serving fun size bar 0.65 oz
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 0.0
+label: serving 2.1 oz bar
+value: 0.0
+label: serving fun size bar 0.65 oz
+value: 0.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: serving 2.1 oz bar
+value: 0.0
+label: serving fun size bar 0.65 oz
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: serving 2.1 oz bar
+value: 0.0
+label: serving fun size bar 0.65 oz
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 0.0
+label: serving 2.1 oz bar
+value: 0.0
+label: serving fun size bar 0.65 oz
+value: 0.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: serving 2.1 oz bar
+value: 0.0
+label: serving fun size bar 0.65 oz
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 0.0
+label: serving 2.1 oz bar
+value: 0.0
+label: serving fun size bar 0.65 oz
+value: 0.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.93
+label: serving 2.1 oz bar
+value: 0.56
+label: serving fun size bar 0.65 oz
+value: 0.17
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: serving 2.1 oz bar
+value: 0.0
+label: serving fun size bar 0.65 oz
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: serving 2.1 oz bar
+value: 0.0
+label: serving fun size bar 0.65 oz
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: serving 2.1 oz bar
+value: 0.0
+label: serving fun size bar 0.65 oz
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 2.3
+label: serving 2.1 oz bar
+value: 1.4
+label: serving fun size bar 0.65 oz
+value: 0.4
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 12.1
+label: serving 2.1 oz bar
+value: 7.26
+label: serving fun size bar 0.65 oz
+value: 2.178
+
+
+name: 4:0
+unit: g
+value: 0.013
+label: serving 2.1 oz bar
+value: 0.008
+label: serving fun size bar 0.65 oz
+value: 0.002
+
+
+name: 6:0
+unit: g
+value: 0.061
+label: serving 2.1 oz bar
+value: 0.037
+label: serving fun size bar 0.65 oz
+value: 0.011
+
+
+name: 8:0
+unit: g
+value: 0.676
+label: serving 2.1 oz bar
+value: 0.406
+label: serving fun size bar 0.65 oz
+value: 0.122
+
+
+name: 10:0
+unit: g
+value: 0.569
+label: serving 2.1 oz bar
+value: 0.341
+label: serving fun size bar 0.65 oz
+value: 0.102
+
+
+name: 12:0
+unit: g
+value: 6.372
+label: serving 2.1 oz bar
+value: 3.823
+label: serving fun size bar 0.65 oz
+value: 1.147
+
+
+name: 14:0
+unit: g
+value: 2.327
+label: serving 2.1 oz bar
+value: 1.396
+label: serving fun size bar 0.65 oz
+value: 0.419
+
+
+name: 16:0
+unit: g
+value: 1.505
+label: serving 2.1 oz bar
+value: 0.903
+label: serving fun size bar 0.65 oz
+value: 0.271
+
+
+name: 18:0
+unit: g
+value: 0.53
+label: serving 2.1 oz bar
+value: 0.318
+label: serving fun size bar 0.65 oz
+value: 0.095
+
+
+name: 20:0
+unit: g
+value: 0.005
+label: serving 2.1 oz bar
+value: 0.003
+label: serving fun size bar 0.65 oz
+value: 0.001
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 5.557
+label: serving 2.1 oz bar
+value: 3.334
+label: serving fun size bar 0.65 oz
+value: 1.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.007
+label: serving 2.1 oz bar
+value: 0.004
+label: serving fun size bar 0.65 oz
+value: 0.001
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 5.45
+label: serving 2.1 oz bar
+value: 3.27
+label: serving fun size bar 0.65 oz
+value: 0.981
+
+
+name: 20:1
+unit: g
+value: 0.096
+label: serving 2.1 oz bar
+value: 0.058
+label: serving fun size bar 0.65 oz
+value: 0.017
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: serving 2.1 oz bar
+value: 0.0
+label: serving fun size bar 0.65 oz
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 2.638
+label: serving 2.1 oz bar
+value: 1.583
+label: serving fun size bar 0.65 oz
+value: 0.475
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 2.634
+label: serving 2.1 oz bar
+value: 1.58
+label: serving fun size bar 0.65 oz
+value: 0.474
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.003
+label: serving 2.1 oz bar
+value: 0.002
+label: serving fun size bar 0.65 oz
+value: 0.001
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: serving 2.1 oz bar
+value: 0.0
+label: serving fun size bar 0.65 oz
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: serving 2.1 oz bar
+value: 0.0
+label: serving fun size bar 0.65 oz
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: serving 2.1 oz bar
+value: 0.0
+label: serving fun size bar 0.65 oz
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: serving 2.1 oz bar
+value: 0.0
+label: serving fun size bar 0.65 oz
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: serving 2.1 oz bar
+value: 0.0
+label: serving fun size bar 0.65 oz
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.05
+label: serving 2.1 oz bar
+value: 0.03
+label: serving fun size bar 0.65 oz
+value: 0.009
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: serving 2.1 oz bar
+value: 0.0
+label: serving fun size bar 0.65 oz
+value: 0.0
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: serving 2.1 oz bar
+value: 0.0
+label: serving fun size bar 0.65 oz
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 4.0
+label: serving 2.1 oz bar
+value: 2.0
+label: serving fun size bar 0.65 oz
+value: 1.0
+
+
+name: Theobromine
+unit: mg
+value: 119.0
+label: serving 2.1 oz bar
+value: 71.0
+label: serving fun size bar 0.65 oz
+value: 21.0
+
+

@@ -1,0 +1,970 @@
+ndbno: 05692
+
+
+name: Chicken, dark meat, thigh, meat and skin, with added solution, cooked, roasted
+
+
+name: Water
+unit: g
+value: 62.6
+label: thigh with skin
+value: 81.38
+label: thigh without skin
+value: 70.11
+
+
+name: Energy
+unit: kcal
+value: 214.0
+label: thigh with skin
+value: 278.0
+label: thigh without skin
+value: 240.0
+
+
+name: Energy
+unit: kJ
+value: 896.0
+label: thigh with skin
+value: 1165.0
+label: thigh without skin
+value: 1004.0
+
+
+name: Protein
+unit: g
+value: 23.47
+label: thigh with skin
+value: 30.51
+label: thigh without skin
+value: 26.29
+
+
+name: Total lipid (fat)
+unit: g
+value: 13.81
+label: thigh with skin
+value: 17.95
+label: thigh without skin
+value: 15.47
+
+
+name: Ash
+unit: g
+value: 1.14
+label: thigh with skin
+value: 1.48
+label: thigh without skin
+value: 1.28
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 0.09
+label: thigh with skin
+value: 0.12
+label: thigh without skin
+value: 0.1
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: thigh with skin
+value: 0.0
+label: thigh without skin
+value: 0.0
+
+
+name: Sugars, total
+unit: g
+value: 0.0
+label: thigh with skin
+value: 0.0
+label: thigh without skin
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 11.0
+label: thigh with skin
+value: 14.0
+label: thigh without skin
+value: 12.0
+
+
+name: Iron, Fe
+unit: mg
+value: 1.02
+label: thigh with skin
+value: 1.33
+label: thigh without skin
+value: 1.14
+
+
+name: Magnesium, Mg
+unit: mg
+value: 23.0
+label: thigh with skin
+value: 30.0
+label: thigh without skin
+value: 26.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 197.0
+label: thigh with skin
+value: 256.0
+label: thigh without skin
+value: 221.0
+
+
+name: Potassium, K
+unit: mg
+value: 254.0
+label: thigh with skin
+value: 330.0
+label: thigh without skin
+value: 284.0
+
+
+name: Sodium, Na
+unit: mg
+value: 174.0
+label: thigh with skin
+value: 226.0
+label: thigh without skin
+value: 195.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 1.82
+label: thigh with skin
+value: 2.37
+label: thigh without skin
+value: 2.04
+
+
+name: Copper, Cu
+unit: mg
+value: 0.073
+label: thigh with skin
+value: 0.095
+label: thigh without skin
+value: 0.082
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.011
+label: thigh with skin
+value: 0.014
+label: thigh without skin
+value: 0.012
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 31.1
+label: thigh with skin
+value: 40.4
+label: thigh without skin
+value: 34.8
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: thigh with skin
+value: 0.0
+label: thigh without skin
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.084
+label: thigh with skin
+value: 0.109
+label: thigh without skin
+value: 0.094
+
+
+name: Riboflavin
+unit: mg
+value: 0.243
+label: thigh with skin
+value: 0.316
+label: thigh without skin
+value: 0.272
+
+
+name: Niacin
+unit: mg
+value: 5.898
+label: thigh with skin
+value: 7.667
+label: thigh without skin
+value: 6.606
+
+
+name: Pantothenic acid
+unit: mg
+value: 1.128
+label: thigh with skin
+value: 1.466
+label: thigh without skin
+value: 1.263
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.394
+label: thigh with skin
+value: 0.512
+label: thigh without skin
+value: 0.441
+
+
+name: Folate, total
+unit: \u00B5g
+value: 4.0
+label: thigh with skin
+value: 5.0
+label: thigh without skin
+value: 4.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: thigh with skin
+value: 0.0
+label: thigh without skin
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 4.0
+label: thigh with skin
+value: 5.0
+label: thigh without skin
+value: 4.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 4.0
+label: thigh with skin
+value: 5.0
+label: thigh without skin
+value: 4.0
+
+
+name: Choline, total
+unit: mg
+value: 93.6
+label: thigh with skin
+value: 121.7
+label: thigh without skin
+value: 104.8
+
+
+name: Betaine
+unit: mg
+value: 15.3
+label: thigh with skin
+value: 19.9
+label: thigh without skin
+value: 17.1
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.41
+label: thigh with skin
+value: 0.53
+label: thigh without skin
+value: 0.46
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: thigh with skin
+value: 0.0
+label: thigh without skin
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 17.0
+label: thigh with skin
+value: 22.0
+label: thigh without skin
+value: 19.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 17.0
+label: thigh with skin
+value: 22.0
+label: thigh without skin
+value: 19.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 0.0
+label: thigh with skin
+value: 0.0
+label: thigh without skin
+value: 0.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: thigh with skin
+value: 0.0
+label: thigh without skin
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: thigh with skin
+value: 0.0
+label: thigh without skin
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 56.0
+label: thigh with skin
+value: 73.0
+label: thigh without skin
+value: 63.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: thigh with skin
+value: 0.0
+label: thigh without skin
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 74.0
+label: thigh with skin
+value: 96.0
+label: thigh without skin
+value: 83.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.38
+label: thigh with skin
+value: 0.49
+label: thigh without skin
+value: 0.43
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: thigh with skin
+value: 0.0
+label: thigh without skin
+value: 0.0
+
+
+name: Tocopherol, beta
+unit: mg
+value: 0.0
+label: thigh with skin
+value: 0.0
+label: thigh without skin
+value: 0.0
+
+
+name: Tocopherol, gamma
+unit: mg
+value: 0.17
+label: thigh with skin
+value: 0.22
+label: thigh without skin
+value: 0.19
+
+
+name: Tocopherol, delta
+unit: mg
+value: 0.0
+label: thigh with skin
+value: 0.0
+label: thigh without skin
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.3
+label: thigh with skin
+value: 0.4
+label: thigh without skin
+value: 0.3
+
+
+name: Vitamin D3 (cholecalciferol)
+unit: \u00B5g
+value: 0.3
+label: thigh with skin
+value: 0.4
+label: thigh without skin
+value: 0.3
+
+
+name: Vitamin D
+unit: IU
+value: 14.0
+label: thigh with skin
+value: 18.0
+label: thigh without skin
+value: 16.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 0.0
+label: thigh with skin
+value: 0.0
+label: thigh without skin
+value: 0.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 4.145
+label: thigh with skin
+value: 5.388
+label: thigh without skin
+value: 4.642
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: thigh with skin
+value: 0.0
+label: thigh without skin
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: thigh with skin
+value: 0.0
+label: thigh without skin
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.002
+label: thigh with skin
+value: 0.003
+label: thigh without skin
+value: 0.002
+
+
+name: 10:0
+unit: g
+value: 0.005
+label: thigh with skin
+value: 0.007
+label: thigh without skin
+value: 0.006
+
+
+name: 12:0
+unit: g
+value: 0.013
+label: thigh with skin
+value: 0.017
+label: thigh without skin
+value: 0.015
+
+
+name: 14:0
+unit: g
+value: 0.086
+label: thigh with skin
+value: 0.112
+label: thigh without skin
+value: 0.096
+
+
+name: 15:0
+unit: g
+value: 0.012
+label: thigh with skin
+value: 0.016
+label: thigh without skin
+value: 0.013
+
+
+name: 16:0
+unit: g
+value: 3.19
+label: thigh with skin
+value: 4.147
+label: thigh without skin
+value: 3.573
+
+
+name: 17:0
+unit: g
+value: 0.017
+label: thigh with skin
+value: 0.022
+label: thigh without skin
+value: 0.019
+
+
+name: 18:0
+unit: g
+value: 0.795
+label: thigh with skin
+value: 1.034
+label: thigh without skin
+value: 0.89
+
+
+name: 20:0
+unit: g
+value: 0.012
+label: thigh with skin
+value: 0.016
+label: thigh without skin
+value: 0.013
+
+
+name: 22:0
+unit: g
+value: 0.011
+label: thigh with skin
+value: 0.014
+label: thigh without skin
+value: 0.012
+
+
+name: 24:0
+unit: g
+value: 0.003
+label: thigh with skin
+value: 0.004
+label: thigh without skin
+value: 0.003
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 6.392
+label: thigh with skin
+value: 8.31
+label: thigh without skin
+value: 7.159
+
+
+name: 14:1
+unit: g
+value: 0.03
+label: thigh with skin
+value: 0.039
+label: thigh without skin
+value: 0.034
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: thigh with skin
+value: 0.0
+label: thigh without skin
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.938
+label: thigh with skin
+value: 1.219
+label: thigh without skin
+value: 1.051
+
+
+name: 17:1
+unit: g
+value: 0.013
+label: thigh with skin
+value: 0.017
+label: thigh without skin
+value: 0.015
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 5.317
+label: thigh with skin
+value: 6.912
+label: thigh without skin
+value: 5.955
+
+
+name: 20:1
+unit: g
+value: 0.089
+label: thigh with skin
+value: 0.116
+label: thigh without skin
+value: 0.1
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.003
+label: thigh with skin
+value: 0.004
+label: thigh without skin
+value: 0.003
+
+
+name: 24:1 c
+unit: g
+value: 0.002
+label: thigh with skin
+value: 0.003
+label: thigh without skin
+value: 0.002
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 3.275
+label: thigh with skin
+value: 4.258
+label: thigh without skin
+value: 3.668
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 2.903
+label: thigh with skin
+value: 3.774
+label: thigh without skin
+value: 3.251
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.152
+label: thigh with skin
+value: 0.198
+label: thigh without skin
+value: 0.17
+
+
+name: 18:4
+unit: g
+value: 0.004
+label: thigh with skin
+value: 0.005
+label: thigh without skin
+value: 0.004
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.021
+label: thigh with skin
+value: 0.027
+label: thigh without skin
+value: 0.024
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.036
+label: thigh with skin
+value: 0.047
+label: thigh without skin
+value: 0.04
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.109
+label: thigh with skin
+value: 0.142
+label: thigh without skin
+value: 0.122
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.005
+label: thigh with skin
+value: 0.007
+label: thigh without skin
+value: 0.006
+
+
+name: 22:4
+unit: g
+value: 0.027
+label: thigh with skin
+value: 0.035
+label: thigh without skin
+value: 0.03
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.011
+label: thigh with skin
+value: 0.014
+label: thigh without skin
+value: 0.012
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.007
+label: thigh with skin
+value: 0.009
+label: thigh without skin
+value: 0.008
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.091
+label: thigh with skin
+value: 0.118
+label: thigh without skin
+value: 0.102
+
+
+name: Cholesterol
+unit: mg
+value: 128.0
+label: thigh with skin
+value: 166.0
+label: thigh without skin
+value: 143.0
+
+
+name: Tryptophan
+unit: g
+value: 0.216
+label: thigh with skin
+value: 0.281
+label: thigh without skin
+value: 0.242
+
+
+name: Threonine
+unit: g
+value: 0.907
+label: thigh with skin
+value: 1.179
+label: thigh without skin
+value: 1.016
+
+
+name: Isoleucine
+unit: g
+value: 0.916
+label: thigh with skin
+value: 1.191
+label: thigh without skin
+value: 1.026
+
+
+name: Leucine
+unit: g
+value: 1.634
+label: thigh with skin
+value: 2.124
+label: thigh without skin
+value: 1.83
+
+
+name: Lysine
+unit: g
+value: 1.809
+label: thigh with skin
+value: 2.352
+label: thigh without skin
+value: 2.026
+
+
+name: Methionine
+unit: g
+value: 0.548
+label: thigh with skin
+value: 0.712
+label: thigh without skin
+value: 0.614
+
+
+name: Cystine
+unit: g
+value: 0.224
+label: thigh with skin
+value: 0.291
+label: thigh without skin
+value: 0.251
+
+
+name: Phenylalanine
+unit: g
+value: 0.766
+label: thigh with skin
+value: 0.996
+label: thigh without skin
+value: 0.858
+
+
+name: Tyrosine
+unit: g
+value: 0.721
+label: thigh with skin
+value: 0.937
+label: thigh without skin
+value: 0.808
+
+
+name: Valine
+unit: g
+value: 0.932
+label: thigh with skin
+value: 1.212
+label: thigh without skin
+value: 1.044
+
+
+name: Arginine
+unit: g
+value: 1.339
+label: thigh with skin
+value: 1.741
+label: thigh without skin
+value: 1.5
+
+
+name: Histidine
+unit: g
+value: 0.572
+label: thigh with skin
+value: 0.744
+label: thigh without skin
+value: 0.641
+
+
+name: Alanine
+unit: g
+value: 1.148
+label: thigh with skin
+value: 1.492
+label: thigh without skin
+value: 1.286
+
+
+name: Aspartic acid
+unit: g
+value: 1.886
+label: thigh with skin
+value: 2.452
+label: thigh without skin
+value: 2.112
+
+
+name: Glutamic acid
+unit: g
+value: 3.141
+label: thigh with skin
+value: 4.083
+label: thigh without skin
+value: 3.518
+
+
+name: Glycine
+unit: g
+value: 0.879
+label: thigh with skin
+value: 1.143
+label: thigh without skin
+value: 0.984
+
+
+name: Proline
+unit: g
+value: 0.774
+label: thigh with skin
+value: 1.006
+label: thigh without skin
+value: 0.867
+
+
+name: Serine
+unit: g
+value: 0.803
+label: thigh with skin
+value: 1.044
+label: thigh without skin
+value: 0.899
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: thigh with skin
+value: 0.0
+label: thigh without skin
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: thigh with skin
+value: 0.0
+label: thigh without skin
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: thigh with skin
+value: 0.0
+label: thigh without skin
+value: 0.0
+
+
+

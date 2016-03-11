@@ -1,0 +1,763 @@
+ndbno: 05307
+
+
+name: Chicken, cornish game hens, meat and skin, raw
+
+
+name: Water
+unit: g
+value: 68.18
+label: oz
+value: 57.95
+label: bird
+value: 114.54
+
+
+name: Energy
+unit: kcal
+value: 200.0
+label: oz
+value: 170.0
+label: bird
+value: 336.0
+
+
+name: Energy
+unit: kJ
+value: 837.0
+label: oz
+value: 711.0
+label: bird
+value: 1406.0
+
+
+name: Protein
+unit: g
+value: 17.15
+label: oz
+value: 14.58
+label: bird
+value: 28.81
+
+
+name: Total lipid (fat)
+unit: g
+value: 14.02
+label: oz
+value: 11.92
+label: bird
+value: 23.55
+
+
+name: Ash
+unit: g
+value: 0.8
+label: oz
+value: 0.68
+label: bird
+value: 1.34
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: bird
+value: 0.0
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: bird
+value: 0.0
+
+
+name: Sugars, total
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: bird
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 11.0
+label: oz
+value: 9.0
+label: bird
+value: 18.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.78
+label: oz
+value: 0.66
+label: bird
+value: 1.31
+
+
+name: Magnesium, Mg
+unit: mg
+value: 18.0
+label: oz
+value: 15.0
+label: bird
+value: 30.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 140.0
+label: oz
+value: 119.0
+label: bird
+value: 235.0
+
+
+name: Potassium, K
+unit: mg
+value: 236.0
+label: oz
+value: 201.0
+label: bird
+value: 396.0
+
+
+name: Sodium, Na
+unit: mg
+value: 61.0
+label: oz
+value: 52.0
+label: bird
+value: 102.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 1.15
+label: oz
+value: 0.98
+label: bird
+value: 1.93
+
+
+name: Copper, Cu
+unit: mg
+value: 0.049
+label: oz
+value: 0.042
+label: bird
+value: 0.082
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.016
+label: oz
+value: 0.014
+label: bird
+value: 0.027
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 11.8
+label: oz
+value: 10.0
+label: bird
+value: 19.8
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.5
+label: oz
+value: 0.4
+label: bird
+value: 0.8
+
+
+name: Thiamin
+unit: mg
+value: 0.073
+label: oz
+value: 0.062
+label: bird
+value: 0.123
+
+
+name: Riboflavin
+unit: mg
+value: 0.17
+label: oz
+value: 0.145
+label: bird
+value: 0.286
+
+
+name: Niacin
+unit: mg
+value: 5.675
+label: oz
+value: 4.824
+label: bird
+value: 9.534
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.609
+label: oz
+value: 0.518
+label: bird
+value: 1.023
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.295
+label: oz
+value: 0.251
+label: bird
+value: 0.496
+
+
+name: Folate, total
+unit: \u00B5g
+value: 3.0
+label: oz
+value: 3.0
+label: bird
+value: 5.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: bird
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 3.0
+label: oz
+value: 3.0
+label: bird
+value: 5.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 3.0
+label: oz
+value: 3.0
+label: bird
+value: 5.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.33
+label: oz
+value: 0.28
+label: bird
+value: 0.55
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 32.0
+label: oz
+value: 27.0
+label: bird
+value: 54.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 32.0
+label: oz
+value: 27.0
+label: bird
+value: 54.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: bird
+value: 0.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: bird
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: bird
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 108.0
+label: oz
+value: 92.0
+label: bird
+value: 181.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: bird
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: bird
+value: 0.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.28
+label: oz
+value: 0.24
+label: bird
+value: 0.47
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 2.4
+label: oz
+value: 2.0
+label: bird
+value: 4.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 3.89
+label: oz
+value: 3.306
+label: bird
+value: 6.535
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: bird
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: bird
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: bird
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: bird
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.03
+label: oz
+value: 0.026
+label: bird
+value: 0.05
+
+
+name: 14:0
+unit: g
+value: 0.12
+label: oz
+value: 0.102
+label: bird
+value: 0.202
+
+
+name: 16:0
+unit: g
+value: 2.97
+label: oz
+value: 2.524
+label: bird
+value: 4.99
+
+
+name: 18:0
+unit: g
+value: 0.78
+label: oz
+value: 0.663
+label: bird
+value: 1.31
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 6.16
+label: oz
+value: 5.236
+label: bird
+value: 10.349
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.96
+label: oz
+value: 0.816
+label: bird
+value: 1.613
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 5.11
+label: oz
+value: 4.344
+label: bird
+value: 8.585
+
+
+name: 20:1
+unit: g
+value: 0.05
+label: oz
+value: 0.042
+label: bird
+value: 0.084
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: bird
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 2.77
+label: oz
+value: 2.354
+label: bird
+value: 4.654
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 2.46
+label: oz
+value: 2.091
+label: bird
+value: 4.133
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.12
+label: oz
+value: 0.102
+label: bird
+value: 0.202
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: bird
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.15
+label: oz
+value: 0.128
+label: bird
+value: 0.252
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.01
+label: oz
+value: 0.008
+label: bird
+value: 0.017
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.01
+label: oz
+value: 0.008
+label: bird
+value: 0.017
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.01
+label: oz
+value: 0.008
+label: bird
+value: 0.017
+
+
+name: Cholesterol
+unit: mg
+value: 101.0
+label: oz
+value: 86.0
+label: bird
+value: 170.0
+
+
+name: Tryptophan
+unit: g
+value: 0.19
+label: oz
+value: 0.161
+label: bird
+value: 0.319
+
+
+name: Threonine
+unit: g
+value: 0.705
+label: oz
+value: 0.599
+label: bird
+value: 1.184
+
+
+name: Isoleucine
+unit: g
+value: 0.847
+label: oz
+value: 0.72
+label: bird
+value: 1.423
+
+
+name: Leucine
+unit: g
+value: 1.24
+label: oz
+value: 1.054
+label: bird
+value: 2.083
+
+
+name: Lysine
+unit: g
+value: 1.385
+label: oz
+value: 1.177
+label: bird
+value: 2.327
+
+
+name: Methionine
+unit: g
+value: 0.453
+label: oz
+value: 0.385
+label: bird
+value: 0.761
+
+
+name: Cystine
+unit: g
+value: 0.23
+label: oz
+value: 0.196
+label: bird
+value: 0.386
+
+
+name: Phenylalanine
+unit: g
+value: 0.663
+label: oz
+value: 0.564
+label: bird
+value: 1.114
+
+
+name: Tyrosine
+unit: g
+value: 0.548
+label: oz
+value: 0.466
+label: bird
+value: 0.921
+
+
+name: Valine
+unit: g
+value: 0.828
+label: oz
+value: 0.704
+label: bird
+value: 1.391
+
+
+name: Arginine
+unit: g
+value: 1.078
+label: oz
+value: 0.916
+label: bird
+value: 1.811
+
+
+name: Histidine
+unit: g
+value: 0.499
+label: oz
+value: 0.424
+label: bird
+value: 0.838
+
+
+name: Alanine
+unit: g
+value: 1.006
+label: oz
+value: 0.855
+label: bird
+value: 1.69
+
+
+name: Aspartic acid
+unit: g
+value: 1.526
+label: oz
+value: 1.297
+label: bird
+value: 2.564
+
+
+name: Glutamic acid
+unit: g
+value: 2.493
+label: oz
+value: 2.119
+label: bird
+value: 4.188
+
+
+name: Glycine
+unit: g
+value: 1.141
+label: oz
+value: 0.97
+label: bird
+value: 1.917
+
+
+name: Proline
+unit: g
+value: 0.846
+label: oz
+value: 0.719
+label: bird
+value: 1.421
+
+
+name: Serine
+unit: g
+value: 0.606
+label: oz
+value: 0.515
+label: bird
+value: 1.018
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: bird
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: bird
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: bird
+value: 0.0
+
+
+

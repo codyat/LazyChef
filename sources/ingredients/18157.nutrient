@@ -1,0 +1,986 @@
+ndbno: 18157
+
+
+name: Cookies, chocolate wafers
+
+
+name: Water
+unit: g
+value: 4.5
+label: oz
+value: 1.28
+label: cup, crumbs
+value: 5.04
+label: wafer
+value: 0.27
+
+
+name: Energy
+unit: kcal
+value: 433.0
+label: oz
+value: 123.0
+label: cup, crumbs
+value: 485.0
+label: wafer
+value: 26.0
+
+
+name: Energy
+unit: kJ
+value: 1812.0
+label: oz
+value: 514.0
+label: cup, crumbs
+value: 2029.0
+label: wafer
+value: 109.0
+
+
+name: Protein
+unit: g
+value: 6.6
+label: oz
+value: 1.87
+label: cup, crumbs
+value: 7.39
+label: wafer
+value: 0.4
+
+
+name: Total lipid (fat)
+unit: g
+value: 14.2
+label: oz
+value: 4.03
+label: cup, crumbs
+value: 15.9
+label: wafer
+value: 0.85
+
+
+name: Ash
+unit: g
+value: 2.0
+label: oz
+value: 0.57
+label: cup, crumbs
+value: 2.24
+label: wafer
+value: 0.12
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 72.7
+label: oz
+value: 20.61
+label: cup, crumbs
+value: 81.42
+label: wafer
+value: 4.36
+
+
+name: Fiber, total dietary
+unit: g
+value: 3.4
+label: oz
+value: 1.0
+label: cup, crumbs
+value: 3.8
+label: wafer
+value: 0.2
+
+
+name: Sugars, total
+unit: g
+value: 37.43
+label: oz
+value: 10.61
+label: cup, crumbs
+value: 41.92
+label: wafer
+value: 2.25
+
+
+name: Calcium, Ca
+unit: mg
+value: 31.0
+label: oz
+value: 9.0
+label: cup, crumbs
+value: 35.0
+label: wafer
+value: 2.0
+
+
+name: Iron, Fe
+unit: mg
+value: 4.01
+label: oz
+value: 1.14
+label: cup, crumbs
+value: 4.49
+label: wafer
+value: 0.24
+
+
+name: Magnesium, Mg
+unit: mg
+value: 53.0
+label: oz
+value: 15.0
+label: cup, crumbs
+value: 59.0
+label: wafer
+value: 3.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 132.0
+label: oz
+value: 37.0
+label: cup, crumbs
+value: 148.0
+label: wafer
+value: 8.0
+
+
+name: Potassium, K
+unit: mg
+value: 210.0
+label: oz
+value: 60.0
+label: cup, crumbs
+value: 235.0
+label: wafer
+value: 13.0
+
+
+name: Sodium, Na
+unit: mg
+value: 580.0
+label: oz
+value: 164.0
+label: cup, crumbs
+value: 650.0
+label: wafer
+value: 35.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 1.09
+label: oz
+value: 0.31
+label: cup, crumbs
+value: 1.22
+label: wafer
+value: 0.07
+
+
+name: Copper, Cu
+unit: mg
+value: 0.463
+label: oz
+value: 0.131
+label: cup, crumbs
+value: 0.519
+label: wafer
+value: 0.028
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.696
+label: oz
+value: 0.197
+label: cup, crumbs
+value: 0.78
+label: wafer
+value: 0.042
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 5.7
+label: oz
+value: 1.6
+label: cup, crumbs
+value: 6.4
+label: wafer
+value: 0.3
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: cup, crumbs
+value: 0.0
+label: wafer
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.203
+label: oz
+value: 0.058
+label: cup, crumbs
+value: 0.227
+label: wafer
+value: 0.012
+
+
+name: Riboflavin
+unit: mg
+value: 0.266
+label: oz
+value: 0.075
+label: cup, crumbs
+value: 0.298
+label: wafer
+value: 0.016
+
+
+name: Niacin
+unit: mg
+value: 2.858
+label: oz
+value: 0.81
+label: cup, crumbs
+value: 3.201
+label: wafer
+value: 0.171
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.381
+label: oz
+value: 0.108
+label: cup, crumbs
+value: 0.427
+label: wafer
+value: 0.023
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.051
+label: oz
+value: 0.014
+label: cup, crumbs
+value: 0.057
+label: wafer
+value: 0.003
+
+
+name: Folate, total
+unit: \u00B5g
+value: 47.0
+label: oz
+value: 13.0
+label: cup, crumbs
+value: 53.0
+label: wafer
+value: 3.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 39.0
+label: oz
+value: 11.0
+label: cup, crumbs
+value: 44.0
+label: wafer
+value: 2.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 8.0
+label: oz
+value: 2.0
+label: cup, crumbs
+value: 9.0
+label: wafer
+value: 0.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 75.0
+label: oz
+value: 21.0
+label: cup, crumbs
+value: 84.0
+label: wafer
+value: 4.0
+
+
+name: Choline, total
+unit: mg
+value: 14.3
+label: oz
+value: 4.1
+label: cup, crumbs
+value: 16.0
+label: wafer
+value: 0.9
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.09
+label: oz
+value: 0.03
+label: cup, crumbs
+value: 0.1
+label: wafer
+value: 0.01
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: cup, crumbs
+value: 0.0
+label: wafer
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 3.0
+label: oz
+value: 1.0
+label: cup, crumbs
+value: 3.0
+label: wafer
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 3.0
+label: oz
+value: 1.0
+label: cup, crumbs
+value: 3.0
+label: wafer
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: cup, crumbs
+value: 0.0
+label: wafer
+value: 0.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: cup, crumbs
+value: 0.0
+label: wafer
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: cup, crumbs
+value: 0.0
+label: wafer
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 10.0
+label: oz
+value: 3.0
+label: cup, crumbs
+value: 11.0
+label: wafer
+value: 1.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: cup, crumbs
+value: 0.0
+label: wafer
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 13.0
+label: oz
+value: 4.0
+label: cup, crumbs
+value: 15.0
+label: wafer
+value: 1.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.72
+label: oz
+value: 0.2
+label: cup, crumbs
+value: 0.81
+label: wafer
+value: 0.04
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: cup, crumbs
+value: 0.0
+label: wafer
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: cup, crumbs
+value: 0.0
+label: wafer
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: oz
+value: 0.0
+label: cup, crumbs
+value: 0.0
+label: wafer
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 2.4
+label: oz
+value: 0.7
+label: cup, crumbs
+value: 2.7
+label: wafer
+value: 0.1
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 4.241
+label: oz
+value: 1.202
+label: cup, crumbs
+value: 4.75
+label: wafer
+value: 0.254
+
+
+name: 4:0
+unit: g
+value: 0.001
+label: oz
+value: 0.0
+label: cup, crumbs
+value: 0.001
+label: wafer
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.011
+label: oz
+value: 0.003
+label: cup, crumbs
+value: 0.012
+label: wafer
+value: 0.001
+
+
+name: 8:0
+unit: g
+value: 0.128
+label: oz
+value: 0.036
+label: cup, crumbs
+value: 0.143
+label: wafer
+value: 0.008
+
+
+name: 10:0
+unit: g
+value: 0.102
+label: oz
+value: 0.029
+label: cup, crumbs
+value: 0.114
+label: wafer
+value: 0.006
+
+
+name: 12:0
+unit: g
+value: 0.76
+label: oz
+value: 0.215
+label: cup, crumbs
+value: 0.851
+label: wafer
+value: 0.046
+
+
+name: 14:0
+unit: g
+value: 0.305
+label: oz
+value: 0.086
+label: cup, crumbs
+value: 0.342
+label: wafer
+value: 0.018
+
+
+name: 16:0
+unit: g
+value: 1.796
+label: oz
+value: 0.509
+label: cup, crumbs
+value: 2.012
+label: wafer
+value: 0.108
+
+
+name: 18:0
+unit: g
+value: 1.125
+label: oz
+value: 0.319
+label: cup, crumbs
+value: 1.26
+label: wafer
+value: 0.068
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 4.865
+label: oz
+value: 1.379
+label: cup, crumbs
+value: 5.449
+label: wafer
+value: 0.292
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.048
+label: oz
+value: 0.014
+label: cup, crumbs
+value: 0.054
+label: wafer
+value: 0.003
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 4.807
+label: oz
+value: 1.363
+label: cup, crumbs
+value: 5.384
+label: wafer
+value: 0.288
+
+
+name: 20:1
+unit: g
+value: 0.001
+label: oz
+value: 0.0
+label: cup, crumbs
+value: 0.001
+label: wafer
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: cup, crumbs
+value: 0.0
+label: wafer
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 4.153
+label: oz
+value: 1.177
+label: cup, crumbs
+value: 4.651
+label: wafer
+value: 0.249
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 3.866
+label: oz
+value: 1.096
+label: cup, crumbs
+value: 4.33
+label: wafer
+value: 0.232
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.268
+label: oz
+value: 0.076
+label: cup, crumbs
+value: 0.3
+label: wafer
+value: 0.016
+
+
+name: 18:4
+unit: g
+value: 0.001
+label: oz
+value: 0.0
+label: cup, crumbs
+value: 0.001
+label: wafer
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.006
+label: oz
+value: 0.002
+label: cup, crumbs
+value: 0.007
+label: wafer
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.003
+label: oz
+value: 0.001
+label: cup, crumbs
+value: 0.003
+label: wafer
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: cup, crumbs
+value: 0.0
+label: wafer
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.002
+label: oz
+value: 0.001
+label: cup, crumbs
+value: 0.002
+label: wafer
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 2.0
+label: oz
+value: 1.0
+label: cup, crumbs
+value: 2.0
+label: wafer
+value: 0.0
+
+
+name: Tryptophan
+unit: g
+value: 0.096
+label: oz
+value: 0.027
+label: cup, crumbs
+value: 0.108
+label: wafer
+value: 0.006
+
+
+name: Threonine
+unit: g
+value: 0.22
+label: oz
+value: 0.062
+label: cup, crumbs
+value: 0.246
+label: wafer
+value: 0.013
+
+
+name: Isoleucine
+unit: g
+value: 0.261
+label: oz
+value: 0.074
+label: cup, crumbs
+value: 0.292
+label: wafer
+value: 0.016
+
+
+name: Leucine
+unit: g
+value: 0.447
+label: oz
+value: 0.127
+label: cup, crumbs
+value: 0.501
+label: wafer
+value: 0.027
+
+
+name: Lysine
+unit: g
+value: 0.281
+label: oz
+value: 0.08
+label: cup, crumbs
+value: 0.315
+label: wafer
+value: 0.017
+
+
+name: Methionine
+unit: g
+value: 0.105
+label: oz
+value: 0.03
+label: cup, crumbs
+value: 0.118
+label: wafer
+value: 0.006
+
+
+name: Cystine
+unit: g
+value: 0.127
+label: oz
+value: 0.036
+label: cup, crumbs
+value: 0.142
+label: wafer
+value: 0.008
+
+
+name: Phenylalanine
+unit: g
+value: 0.308
+label: oz
+value: 0.087
+label: cup, crumbs
+value: 0.345
+label: wafer
+value: 0.018
+
+
+name: Tyrosine
+unit: g
+value: 0.205
+label: oz
+value: 0.058
+label: cup, crumbs
+value: 0.23
+label: wafer
+value: 0.012
+
+
+name: Valine
+unit: g
+value: 0.323
+label: oz
+value: 0.092
+label: cup, crumbs
+value: 0.362
+label: wafer
+value: 0.019
+
+
+name: Arginine
+unit: g
+value: 0.286
+label: oz
+value: 0.081
+label: cup, crumbs
+value: 0.32
+label: wafer
+value: 0.017
+
+
+name: Histidine
+unit: g
+value: 0.128
+label: oz
+value: 0.036
+label: cup, crumbs
+value: 0.143
+label: wafer
+value: 0.008
+
+
+name: Alanine
+unit: g
+value: 0.238
+label: oz
+value: 0.067
+label: cup, crumbs
+value: 0.267
+label: wafer
+value: 0.014
+
+
+name: Aspartic acid
+unit: g
+value: 0.407
+label: oz
+value: 0.115
+label: cup, crumbs
+value: 0.456
+label: wafer
+value: 0.024
+
+
+name: Glutamic acid
+unit: g
+value: 1.753
+label: oz
+value: 0.497
+label: cup, crumbs
+value: 1.963
+label: wafer
+value: 0.105
+
+
+name: Glycine
+unit: g
+value: 0.236
+label: oz
+value: 0.067
+label: cup, crumbs
+value: 0.264
+label: wafer
+value: 0.014
+
+
+name: Proline
+unit: g
+value: 0.577
+label: oz
+value: 0.164
+label: cup, crumbs
+value: 0.646
+label: wafer
+value: 0.035
+
+
+name: Serine
+unit: g
+value: 0.335
+label: oz
+value: 0.095
+label: cup, crumbs
+value: 0.375
+label: wafer
+value: 0.02
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: cup, crumbs
+value: 0.0
+label: wafer
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 10.0
+label: oz
+value: 3.0
+label: cup, crumbs
+value: 11.0
+label: wafer
+value: 1.0
+
+
+name: Theobromine
+unit: mg
+value: 354.0
+label: oz
+value: 100.0
+label: cup, crumbs
+value: 396.0
+label: wafer
+value: 21.0
+
+
+

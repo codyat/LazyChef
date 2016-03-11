@@ -1,0 +1,852 @@
+ndbno: 11906
+
+
+name: Corn, sweet, white, canned, cream style, regular pack
+
+
+name: Water
+unit: g
+value: 78.24
+label: cup
+value: 200.29
+label: can (303 x 406)
+value: 377.12
+
+
+name: Energy
+unit: kcal
+value: 74.0
+label: cup
+value: 189.0
+label: can (303 x 406)
+value: 357.0
+
+
+name: Energy
+unit: kJ
+value: 311.0
+label: cup
+value: 796.0
+label: can (303 x 406)
+value: 1499.0
+
+
+name: Protein
+unit: g
+value: 1.74
+label: cup
+value: 4.45
+label: can (303 x 406)
+value: 8.39
+
+
+name: Total lipid (fat)
+unit: g
+value: 0.42
+label: cup
+value: 1.08
+label: can (303 x 406)
+value: 2.02
+
+
+name: Ash
+unit: g
+value: 0.98
+label: cup
+value: 2.51
+label: can (303 x 406)
+value: 4.72
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 18.62
+label: cup
+value: 47.67
+label: can (303 x 406)
+value: 89.75
+
+
+name: Fiber, total dietary
+unit: g
+value: 1.2
+label: cup
+value: 3.1
+label: can (303 x 406)
+value: 5.8
+
+
+name: Sugars, total
+unit: g
+value: 6.09
+label: cup
+value: 15.59
+label: can (303 x 406)
+value: 29.35
+
+
+name: Calcium, Ca
+unit: mg
+value: 4.0
+label: cup
+value: 10.0
+label: can (303 x 406)
+value: 19.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.31
+label: cup
+value: 0.79
+label: can (303 x 406)
+value: 1.49
+
+
+name: Magnesium, Mg
+unit: mg
+value: 15.0
+label: cup
+value: 38.0
+label: can (303 x 406)
+value: 72.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 40.0
+label: cup
+value: 102.0
+label: can (303 x 406)
+value: 193.0
+
+
+name: Potassium, K
+unit: mg
+value: 119.0
+label: cup
+value: 305.0
+label: can (303 x 406)
+value: 574.0
+
+
+name: Sodium, Na
+unit: mg
+value: 261.0
+label: cup
+value: 668.0
+label: can (303 x 406)
+value: 1258.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.56
+label: cup
+value: 1.43
+label: can (303 x 406)
+value: 2.7
+
+
+name: Copper, Cu
+unit: mg
+value: 0.022
+label: cup
+value: 0.056
+label: can (303 x 406)
+value: 0.106
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.068
+label: cup
+value: 0.174
+label: can (303 x 406)
+value: 0.328
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 0.4
+label: cup
+value: 1.0
+label: can (303 x 406)
+value: 1.9
+
+
+name: Fluoride, F
+unit: \u00B5g
+value: 28.0
+label: cup
+value: 71.7
+label: can (303 x 406)
+value: 135.0
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 4.6
+label: cup
+value: 11.8
+label: can (303 x 406)
+value: 22.2
+
+
+name: Thiamin
+unit: mg
+value: 0.025
+label: cup
+value: 0.064
+label: can (303 x 406)
+value: 0.121
+
+
+name: Riboflavin
+unit: mg
+value: 0.053
+label: cup
+value: 0.136
+label: can (303 x 406)
+value: 0.255
+
+
+name: Niacin
+unit: mg
+value: 0.96
+label: cup
+value: 2.458
+label: can (303 x 406)
+value: 4.627
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.18
+label: cup
+value: 0.461
+label: can (303 x 406)
+value: 0.868
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.063
+label: cup
+value: 0.161
+label: can (303 x 406)
+value: 0.304
+
+
+name: Folate, total
+unit: \u00B5g
+value: 45.0
+label: cup
+value: 115.0
+label: can (303 x 406)
+value: 217.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 45.0
+label: cup
+value: 115.0
+label: can (303 x 406)
+value: 217.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 45.0
+label: cup
+value: 115.0
+label: can (303 x 406)
+value: 217.0
+
+
+name: Choline, total
+unit: mg
+value: 20.3
+label: cup
+value: 52.0
+label: can (303 x 406)
+value: 97.8
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 1.0
+label: cup
+value: 3.0
+label: can (303 x 406)
+value: 5.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 1.0
+label: cup
+value: 3.0
+label: can (303 x 406)
+value: 5.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 2.0
+label: cup
+value: 5.0
+label: can (303 x 406)
+value: 10.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 44.0
+label: cup
+value: 113.0
+label: can (303 x 406)
+value: 212.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.07
+label: cup
+value: 0.18
+label: can (303 x 406)
+value: 0.34
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: Tocopherol, beta
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: Tocopherol, gamma
+unit: mg
+value: 0.1
+label: cup
+value: 0.26
+label: can (303 x 406)
+value: 0.48
+
+
+name: Tocopherol, delta
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: cup
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.065
+label: cup
+value: 0.166
+label: can (303 x 406)
+value: 0.313
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: 16:0
+unit: g
+value: 0.061
+label: cup
+value: 0.156
+label: can (303 x 406)
+value: 0.294
+
+
+name: 18:0
+unit: g
+value: 0.004
+label: cup
+value: 0.01
+label: can (303 x 406)
+value: 0.019
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.123
+label: cup
+value: 0.315
+label: can (303 x 406)
+value: 0.593
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.123
+label: cup
+value: 0.315
+label: can (303 x 406)
+value: 0.593
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.199
+label: cup
+value: 0.509
+label: can (303 x 406)
+value: 0.959
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.193
+label: cup
+value: 0.494
+label: can (303 x 406)
+value: 0.93
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.006
+label: cup
+value: 0.015
+label: can (303 x 406)
+value: 0.029
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: Tryptophan
+unit: g
+value: 0.012
+label: cup
+value: 0.031
+label: can (303 x 406)
+value: 0.058
+
+
+name: Threonine
+unit: g
+value: 0.07
+label: cup
+value: 0.179
+label: can (303 x 406)
+value: 0.337
+
+
+name: Isoleucine
+unit: g
+value: 0.07
+label: cup
+value: 0.179
+label: can (303 x 406)
+value: 0.337
+
+
+name: Leucine
+unit: g
+value: 0.188
+label: cup
+value: 0.481
+label: can (303 x 406)
+value: 0.906
+
+
+name: Lysine
+unit: g
+value: 0.074
+label: cup
+value: 0.189
+label: can (303 x 406)
+value: 0.357
+
+
+name: Methionine
+unit: g
+value: 0.036
+label: cup
+value: 0.092
+label: can (303 x 406)
+value: 0.174
+
+
+name: Cystine
+unit: g
+value: 0.014
+label: cup
+value: 0.036
+label: can (303 x 406)
+value: 0.067
+
+
+name: Phenylalanine
+unit: g
+value: 0.081
+label: cup
+value: 0.207
+label: can (303 x 406)
+value: 0.39
+
+
+name: Tyrosine
+unit: g
+value: 0.066
+label: cup
+value: 0.169
+label: can (303 x 406)
+value: 0.318
+
+
+name: Valine
+unit: g
+value: 0.1
+label: cup
+value: 0.256
+label: can (303 x 406)
+value: 0.482
+
+
+name: Arginine
+unit: g
+value: 0.071
+label: cup
+value: 0.182
+label: can (303 x 406)
+value: 0.342
+
+
+name: Histidine
+unit: g
+value: 0.048
+label: cup
+value: 0.123
+label: can (303 x 406)
+value: 0.231
+
+
+name: Alanine
+unit: g
+value: 0.159
+label: cup
+value: 0.407
+label: can (303 x 406)
+value: 0.766
+
+
+name: Aspartic acid
+unit: g
+value: 0.132
+label: cup
+value: 0.338
+label: can (303 x 406)
+value: 0.636
+
+
+name: Glutamic acid
+unit: g
+value: 0.343
+label: cup
+value: 0.878
+label: can (303 x 406)
+value: 1.653
+
+
+name: Glycine
+unit: g
+value: 0.068
+label: cup
+value: 0.174
+label: can (303 x 406)
+value: 0.328
+
+
+name: Proline
+unit: g
+value: 0.158
+label: cup
+value: 0.404
+label: can (303 x 406)
+value: 0.762
+
+
+name: Serine
+unit: g
+value: 0.083
+label: cup
+value: 0.212
+label: can (303 x 406)
+value: 0.4
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: can (303 x 406)
+value: 0.0
+
+

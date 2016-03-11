@@ -1,0 +1,403 @@
+ndbno: 06481
+
+
+name: Soup, chicken broth cubes, dry, prepared with water
+
+
+name: Water
+unit: g
+value: 97.43
+label: cup (8 fl oz)
+value: 236.75
+label: cube (6 fl oz prepared)
+value: 177.32
+
+
+name: Energy
+unit: kcal
+value: 5.0
+label: cup (8 fl oz)
+value: 12.0
+label: cube (6 fl oz prepared)
+value: 9.0
+
+
+name: Energy
+unit: kJ
+value: 21.0
+label: cup (8 fl oz)
+value: 51.0
+label: cube (6 fl oz prepared)
+value: 38.0
+
+
+name: Protein
+unit: g
+value: 0.39
+label: cup (8 fl oz)
+value: 0.95
+label: cube (6 fl oz prepared)
+value: 0.71
+
+
+name: Total lipid (fat)
+unit: g
+value: 0.12
+label: cup (8 fl oz)
+value: 0.29
+label: cube (6 fl oz prepared)
+value: 0.22
+
+
+name: Ash
+unit: g
+value: 1.44
+label: cup (8 fl oz)
+value: 3.5
+label: cube (6 fl oz prepared)
+value: 2.62
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 0.62
+label: cup (8 fl oz)
+value: 1.51
+label: cube (6 fl oz prepared)
+value: 1.13
+
+
+name: Calcium, Ca
+unit: mg
+value: 5.0
+label: cup (8 fl oz)
+value: 12.0
+label: cube (6 fl oz prepared)
+value: 9.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.05
+label: cup (8 fl oz)
+value: 0.12
+label: cube (6 fl oz prepared)
+value: 0.09
+
+
+name: Magnesium, Mg
+unit: mg
+value: 1.0
+label: cup (8 fl oz)
+value: 2.0
+label: cube (6 fl oz prepared)
+value: 2.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 5.0
+label: cup (8 fl oz)
+value: 12.0
+label: cube (6 fl oz prepared)
+value: 9.0
+
+
+name: Potassium, K
+unit: mg
+value: 10.0
+label: cup (8 fl oz)
+value: 24.0
+label: cube (6 fl oz prepared)
+value: 18.0
+
+
+name: Sodium, Na
+unit: mg
+value: 326.0
+label: cup (8 fl oz)
+value: 792.0
+label: cube (6 fl oz prepared)
+value: 593.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.01
+label: cup (8 fl oz)
+value: 0.02
+label: cube (6 fl oz prepared)
+value: 0.02
+
+
+name: Copper, Cu
+unit: mg
+value: 0.0
+label: cup (8 fl oz)
+value: 0.0
+label: cube (6 fl oz prepared)
+value: 0.0
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.01
+label: cup (8 fl oz)
+value: 0.024
+label: cube (6 fl oz prepared)
+value: 0.018
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: cup (8 fl oz)
+value: 0.0
+label: cube (6 fl oz prepared)
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.005
+label: cup (8 fl oz)
+value: 0.012
+label: cube (6 fl oz prepared)
+value: 0.009
+
+
+name: Riboflavin
+unit: mg
+value: 0.01
+label: cup (8 fl oz)
+value: 0.024
+label: cube (6 fl oz prepared)
+value: 0.018
+
+
+name: Niacin
+unit: mg
+value: 0.103
+label: cup (8 fl oz)
+value: 0.25
+label: cube (6 fl oz prepared)
+value: 0.187
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.02
+label: cup (8 fl oz)
+value: 0.049
+label: cube (6 fl oz prepared)
+value: 0.036
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.0
+label: cup (8 fl oz)
+value: 0.0
+label: cube (6 fl oz prepared)
+value: 0.0
+
+
+name: Folate, total
+unit: \u00B5g
+value: 1.0
+label: cup (8 fl oz)
+value: 2.0
+label: cube (6 fl oz prepared)
+value: 2.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: cup (8 fl oz)
+value: 0.0
+label: cube (6 fl oz prepared)
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 1.0
+label: cup (8 fl oz)
+value: 2.0
+label: cube (6 fl oz prepared)
+value: 2.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 1.0
+label: cup (8 fl oz)
+value: 2.0
+label: cube (6 fl oz prepared)
+value: 2.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.01
+label: cup (8 fl oz)
+value: 0.02
+label: cube (6 fl oz prepared)
+value: 0.02
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 1.0
+label: cup (8 fl oz)
+value: 2.0
+label: cube (6 fl oz prepared)
+value: 2.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 1.0
+label: cup (8 fl oz)
+value: 2.0
+label: cube (6 fl oz prepared)
+value: 2.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 7.0
+label: cup (8 fl oz)
+value: 17.0
+label: cube (6 fl oz prepared)
+value: 13.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.03
+label: cup (8 fl oz)
+value: 0.073
+label: cube (6 fl oz prepared)
+value: 0.055
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: cup (8 fl oz)
+value: 0.0
+label: cube (6 fl oz prepared)
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.0
+label: cup (8 fl oz)
+value: 0.0
+label: cube (6 fl oz prepared)
+value: 0.0
+
+
+name: 16:0
+unit: g
+value: 0.02
+label: cup (8 fl oz)
+value: 0.049
+label: cube (6 fl oz prepared)
+value: 0.036
+
+
+name: 18:0
+unit: g
+value: 0.01
+label: cup (8 fl oz)
+value: 0.024
+label: cube (6 fl oz prepared)
+value: 0.018
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.05
+label: cup (8 fl oz)
+value: 0.122
+label: cube (6 fl oz prepared)
+value: 0.091
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.01
+label: cup (8 fl oz)
+value: 0.024
+label: cube (6 fl oz prepared)
+value: 0.018
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.04
+label: cup (8 fl oz)
+value: 0.097
+label: cube (6 fl oz prepared)
+value: 0.073
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: cup (8 fl oz)
+value: 0.0
+label: cube (6 fl oz prepared)
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.04
+label: cup (8 fl oz)
+value: 0.097
+label: cube (6 fl oz prepared)
+value: 0.073
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.04
+label: cup (8 fl oz)
+value: 0.097
+label: cube (6 fl oz prepared)
+value: 0.073
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.0
+label: cup (8 fl oz)
+value: 0.0
+label: cube (6 fl oz prepared)
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: cup (8 fl oz)
+value: 0.0
+label: cube (6 fl oz prepared)
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: cup (8 fl oz)
+value: 0.0
+label: cube (6 fl oz prepared)
+value: 0.0
+
+
+

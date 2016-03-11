@@ -1,0 +1,713 @@
+ndbno: 23558
+
+
+name: Beef, ground, 95% lean meat / 5% fat, patty, cooked, broiled
+
+
+name: Water
+unit: g
+value: 65.78
+label: oz
+value: 55.91
+
+
+name: Energy
+unit: kcal
+value: 174.0
+label: oz
+value: 148.0
+
+
+name: Energy
+unit: kJ
+value: 726.0
+label: oz
+value: 617.0
+
+
+name: Protein
+unit: g
+value: 26.29
+label: oz
+value: 22.35
+
+
+name: Total lipid (fat)
+unit: g
+value: 6.8
+label: oz
+value: 5.78
+
+
+name: Ash
+unit: g
+value: 1.06
+label: oz
+value: 0.9
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Sugars, total
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 7.0
+label: oz
+value: 6.0
+
+
+name: Iron, Fe
+unit: mg
+value: 2.83
+label: oz
+value: 2.41
+
+
+name: Magnesium, Mg
+unit: mg
+value: 22.0
+label: oz
+value: 19.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 206.0
+label: oz
+value: 175.0
+
+
+name: Potassium, K
+unit: mg
+value: 347.0
+label: oz
+value: 295.0
+
+
+name: Sodium, Na
+unit: mg
+value: 65.0
+label: oz
+value: 55.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 6.43
+label: oz
+value: 5.47
+
+
+name: Copper, Cu
+unit: mg
+value: 0.096
+label: oz
+value: 0.082
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.014
+label: oz
+value: 0.012
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 21.5
+label: oz
+value: 18.3
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.042
+label: oz
+value: 0.036
+
+
+name: Riboflavin
+unit: mg
+value: 0.176
+label: oz
+value: 0.15
+
+
+name: Niacin
+unit: mg
+value: 5.939
+label: oz
+value: 5.048
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.658
+label: oz
+value: 0.559
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.412
+label: oz
+value: 0.35
+
+
+name: Folate, total
+unit: \u00B5g
+value: 7.0
+label: oz
+value: 6.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 7.0
+label: oz
+value: 6.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 7.0
+label: oz
+value: 6.0
+
+
+name: Choline, total
+unit: mg
+value: 85.4
+label: oz
+value: 72.6
+
+
+name: Betaine
+unit: mg
+value: 7.4
+label: oz
+value: 6.3
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 2.47
+label: oz
+value: 2.1
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 3.0
+label: oz
+value: 3.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 3.0
+label: oz
+value: 3.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 9.0
+label: oz
+value: 8.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.12
+label: oz
+value: 0.1
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Vitamin D3 (cholecalciferol)
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 2.0
+label: oz
+value: 2.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 1.3
+label: oz
+value: 1.1
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 2.976
+label: oz
+value: 2.53
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.007
+label: oz
+value: 0.006
+
+
+name: 14:0
+unit: g
+value: 0.173
+label: oz
+value: 0.147
+
+
+name: 15:0
+unit: g
+value: 0.033
+label: oz
+value: 0.028
+
+
+name: 16:0
+unit: g
+value: 1.549
+label: oz
+value: 1.317
+
+
+name: 17:0
+unit: g
+value: 0.078
+label: oz
+value: 0.066
+
+
+name: 18:0
+unit: g
+value: 1.122
+label: oz
+value: 0.954
+
+
+name: 20:0
+unit: g
+value: 0.013
+label: oz
+value: 0.011
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 2.72
+label: oz
+value: 2.312
+
+
+name: 14:1
+unit: g
+value: 0.03
+label: oz
+value: 0.026
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.203
+label: oz
+value: 0.173
+
+
+name: 17:1
+unit: g
+value: 0.059
+label: oz
+value: 0.05
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.174
+label: oz
+value: 0.148
+
+
+name: 18:1 t
+unit: g
+value: 0.174
+label: oz
+value: 0.148
+
+
+name: 20:1
+unit: g
+value: 0.022
+label: oz
+value: 0.019
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.327
+label: oz
+value: 0.278
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.228
+label: oz
+value: 0.194
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.054
+label: oz
+value: 0.046
+
+
+name: 18:3 n-3 c,c,c (ALA)
+unit: g
+value: 0.042
+label: oz
+value: 0.036
+
+
+name: 18:3 n-6 c,c,c
+unit: g
+value: 0.012
+label: oz
+value: 0.01
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.045
+label: oz
+value: 0.038
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.174
+label: oz
+value: 0.148
+
+
+name: Fatty acids, total trans-monoenoic
+unit: g
+value: 0.174
+label: oz
+value: 0.148
+
+
+name: Cholesterol
+unit: mg
+value: 88.0
+label: oz
+value: 75.0
+
+
+name: Tryptophan
+unit: g
+value: 0.133
+label: oz
+value: 0.113
+
+
+name: Threonine
+unit: g
+value: 1.017
+label: oz
+value: 0.864
+
+
+name: Isoleucine
+unit: g
+value: 1.162
+label: oz
+value: 0.988
+
+
+name: Leucine
+unit: g
+value: 2.049
+label: oz
+value: 1.742
+
+
+name: Lysine
+unit: g
+value: 2.176
+label: oz
+value: 1.85
+
+
+name: Methionine
+unit: g
+value: 0.676
+label: oz
+value: 0.575
+
+
+name: Cystine
+unit: g
+value: 0.271
+label: oz
+value: 0.23
+
+
+name: Phenylalanine
+unit: g
+value: 1.025
+label: oz
+value: 0.871
+
+
+name: Tyrosine
+unit: g
+value: 0.808
+label: oz
+value: 0.687
+
+
+name: Valine
+unit: g
+value: 1.291
+label: oz
+value: 1.097
+
+
+name: Arginine
+unit: g
+value: 1.71
+label: oz
+value: 1.454
+
+
+name: Histidine
+unit: g
+value: 0.854
+label: oz
+value: 0.726
+
+
+name: Alanine
+unit: g
+value: 1.646
+label: oz
+value: 1.399
+
+
+name: Aspartic acid
+unit: g
+value: 2.366
+label: oz
+value: 2.011
+
+
+name: Glutamic acid
+unit: g
+value: 3.939
+label: oz
+value: 3.348
+
+
+name: Glycine
+unit: g
+value: 1.783
+label: oz
+value: 1.516
+
+
+name: Proline
+unit: g
+value: 1.339
+label: oz
+value: 1.138
+
+
+name: Serine
+unit: g
+value: 1.052
+label: oz
+value: 0.894
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+
+

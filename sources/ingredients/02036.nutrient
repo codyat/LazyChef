@@ -1,0 +1,581 @@
+ndbno: 02036
+
+
+name: Spices, rosemary, dried
+
+
+name: Water
+unit: g
+value: 9.31
+label: tsp
+value: 0.11
+label: tbsp
+value: 0.31
+
+
+name: Energy
+unit: kcal
+value: 331.0
+label: tsp
+value: 4.0
+label: tbsp
+value: 11.0
+
+
+name: Energy
+unit: kJ
+value: 1387.0
+label: tsp
+value: 17.0
+label: tbsp
+value: 46.0
+
+
+name: Protein
+unit: g
+value: 4.88
+label: tsp
+value: 0.06
+label: tbsp
+value: 0.16
+
+
+name: Total lipid (fat)
+unit: g
+value: 15.22
+label: tsp
+value: 0.18
+label: tbsp
+value: 0.5
+
+
+name: Ash
+unit: g
+value: 6.53
+label: tsp
+value: 0.08
+label: tbsp
+value: 0.22
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 64.06
+label: tsp
+value: 0.77
+label: tbsp
+value: 2.11
+
+
+name: Fiber, total dietary
+unit: g
+value: 42.6
+label: tsp
+value: 0.5
+label: tbsp
+value: 1.4
+
+
+name: Calcium, Ca
+unit: mg
+value: 1280.0
+label: tsp
+value: 15.0
+label: tbsp
+value: 42.0
+
+
+name: Iron, Fe
+unit: mg
+value: 29.25
+label: tsp
+value: 0.35
+label: tbsp
+value: 0.97
+
+
+name: Magnesium, Mg
+unit: mg
+value: 220.0
+label: tsp
+value: 3.0
+label: tbsp
+value: 7.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 70.0
+label: tsp
+value: 1.0
+label: tbsp
+value: 2.0
+
+
+name: Potassium, K
+unit: mg
+value: 955.0
+label: tsp
+value: 11.0
+label: tbsp
+value: 32.0
+
+
+name: Sodium, Na
+unit: mg
+value: 50.0
+label: tsp
+value: 1.0
+label: tbsp
+value: 2.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 3.23
+label: tsp
+value: 0.04
+label: tbsp
+value: 0.11
+
+
+name: Copper, Cu
+unit: mg
+value: 0.55
+label: tsp
+value: 0.007
+label: tbsp
+value: 0.018
+
+
+name: Manganese, Mn
+unit: mg
+value: 1.867
+label: tsp
+value: 0.022
+label: tbsp
+value: 0.062
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 4.6
+label: tsp
+value: 0.1
+label: tbsp
+value: 0.2
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 61.2
+label: tsp
+value: 0.7
+label: tbsp
+value: 2.0
+
+
+name: Thiamin
+unit: mg
+value: 0.514
+label: tsp
+value: 0.006
+label: tbsp
+value: 0.017
+
+
+name: Riboflavin
+unit: mg
+value: 0.428
+label: tsp
+value: 0.005
+label: tbsp
+value: 0.014
+
+
+name: Niacin
+unit: mg
+value: 1.0
+label: tsp
+value: 0.012
+label: tbsp
+value: 0.033
+
+
+name: Vitamin B-6
+unit: mg
+value: 1.74
+label: tsp
+value: 0.021
+label: tbsp
+value: 0.057
+
+
+name: Folate, total
+unit: \u00B5g
+value: 307.0
+label: tsp
+value: 4.0
+label: tbsp
+value: 10.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: tsp
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 307.0
+label: tsp
+value: 4.0
+label: tbsp
+value: 10.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 307.0
+label: tsp
+value: 4.0
+label: tbsp
+value: 10.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: tsp
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 156.0
+label: tsp
+value: 2.0
+label: tbsp
+value: 5.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: tsp
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 3128.0
+label: tsp
+value: 38.0
+label: tbsp
+value: 103.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: tsp
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: tsp
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 7.371
+label: tsp
+value: 0.088
+label: tbsp
+value: 0.243
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: tsp
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: tsp
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: tsp
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.05
+label: tsp
+value: 0.001
+label: tbsp
+value: 0.002
+
+
+name: 12:0
+unit: g
+value: 0.037
+label: tsp
+value: 0.0
+label: tbsp
+value: 0.001
+
+
+name: 14:0
+unit: g
+value: 0.315
+label: tsp
+value: 0.004
+label: tbsp
+value: 0.01
+
+
+name: 15:0
+unit: g
+value: 0.131
+label: tsp
+value: 0.002
+label: tbsp
+value: 0.004
+
+
+name: 16:0
+unit: g
+value: 4.991
+label: tsp
+value: 0.06
+label: tbsp
+value: 0.165
+
+
+name: 17:0
+unit: g
+value: 0.094
+label: tsp
+value: 0.001
+label: tbsp
+value: 0.003
+
+
+name: 18:0
+unit: g
+value: 0.6
+label: tsp
+value: 0.007
+label: tbsp
+value: 0.02
+
+
+name: 20:0
+unit: g
+value: 0.379
+label: tsp
+value: 0.005
+label: tbsp
+value: 0.013
+
+
+name: 22:0
+unit: g
+value: 0.387
+label: tsp
+value: 0.005
+label: tbsp
+value: 0.013
+
+
+name: 24:0
+unit: g
+value: 0.294
+label: tsp
+value: 0.004
+label: tbsp
+value: 0.01
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 3.014
+label: tsp
+value: 0.036
+label: tbsp
+value: 0.099
+
+
+name: 14:1
+unit: g
+value: 0.059
+label: tsp
+value: 0.001
+label: tbsp
+value: 0.002
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.17
+label: tsp
+value: 0.002
+label: tbsp
+value: 0.006
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 2.66
+label: tsp
+value: 0.032
+label: tbsp
+value: 0.088
+
+
+name: 20:1
+unit: g
+value: 0.125
+label: tsp
+value: 0.002
+label: tbsp
+value: 0.004
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: tsp
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 2.339
+label: tsp
+value: 0.028
+label: tbsp
+value: 0.077
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 1.16
+label: tsp
+value: 0.014
+label: tbsp
+value: 0.038
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 1.076
+label: tsp
+value: 0.013
+label: tbsp
+value: 0.036
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: tsp
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: tsp
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: tsp
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: tsp
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: tsp
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: tsp
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: Phytosterols
+unit: mg
+value: 58.0
+label: tsp
+value: 1.0
+label: tbsp
+value: 2.0
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: tsp
+value: 0.0
+label: tbsp
+value: 0.0
+

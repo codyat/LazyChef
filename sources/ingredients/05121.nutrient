@@ -1,0 +1,672 @@
+ndbno: 05121
+
+
+name: Chicken, stewing, meat and skin, and giblets and neck, raw
+
+
+name: Water
+unit: g
+value: 62.5
+label: oz
+value: 53.12
+label: chicken
+value: 565.62
+
+
+name: Energy
+unit: kcal
+value: 251.0
+label: oz
+value: 213.0
+label: chicken
+value: 2272.0
+
+
+name: Energy
+unit: kJ
+value: 1050.0
+label: oz
+value: 892.0
+label: chicken
+value: 9502.0
+
+
+name: Protein
+unit: g
+value: 17.48
+label: oz
+value: 14.86
+label: chicken
+value: 158.19
+
+
+name: Total lipid (fat)
+unit: g
+value: 19.52
+label: oz
+value: 16.59
+label: chicken
+value: 176.66
+
+
+name: Ash
+unit: g
+value: 1.02
+label: oz
+value: 0.87
+label: chicken
+value: 9.23
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 0.19
+label: oz
+value: 0.16
+label: chicken
+value: 1.72
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: chicken
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 10.0
+label: oz
+value: 8.0
+label: chicken
+value: 90.0
+
+
+name: Iron, Fe
+unit: mg
+value: 1.51
+label: oz
+value: 1.28
+label: chicken
+value: 13.67
+
+
+name: Magnesium, Mg
+unit: mg
+value: 20.0
+label: oz
+value: 17.0
+label: chicken
+value: 181.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 173.0
+label: oz
+value: 147.0
+label: chicken
+value: 1566.0
+
+
+name: Potassium, K
+unit: mg
+value: 204.0
+label: oz
+value: 173.0
+label: chicken
+value: 1846.0
+
+
+name: Sodium, Na
+unit: mg
+value: 71.0
+label: oz
+value: 60.0
+label: chicken
+value: 643.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 1.37
+label: oz
+value: 1.16
+label: chicken
+value: 12.4
+
+
+name: Copper, Cu
+unit: mg
+value: 0.092
+label: oz
+value: 0.078
+label: chicken
+value: 0.833
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.031
+label: oz
+value: 0.026
+label: chicken
+value: 0.281
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 12.5
+label: oz
+value: 10.6
+label: chicken
+value: 113.1
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 3.1
+label: oz
+value: 2.6
+label: chicken
+value: 28.1
+
+
+name: Thiamin
+unit: mg
+value: 0.111
+label: oz
+value: 0.094
+label: chicken
+value: 1.005
+
+
+name: Riboflavin
+unit: mg
+value: 0.251
+label: oz
+value: 0.213
+label: chicken
+value: 2.272
+
+
+name: Niacin
+unit: mg
+value: 6.383
+label: oz
+value: 5.426
+label: chicken
+value: 57.766
+
+
+name: Pantothenic acid
+unit: mg
+value: 1.129
+label: oz
+value: 0.96
+label: chicken
+value: 10.217
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.35
+label: oz
+value: 0.298
+label: chicken
+value: 3.168
+
+
+name: Folate, total
+unit: \u00B5g
+value: 37.0
+label: oz
+value: 31.0
+label: chicken
+value: 335.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: chicken
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 37.0
+label: oz
+value: 31.0
+label: chicken
+value: 335.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 37.0
+label: oz
+value: 31.0
+label: chicken
+value: 335.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 1.26
+label: oz
+value: 1.07
+label: chicken
+value: 11.4
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 331.0
+label: oz
+value: 281.0
+label: chicken
+value: 2996.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 331.0
+label: oz
+value: 281.0
+label: chicken
+value: 2996.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 1102.0
+label: oz
+value: 937.0
+label: chicken
+value: 9973.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 5.48
+label: oz
+value: 4.658
+label: chicken
+value: 49.594
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: chicken
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: chicken
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: chicken
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: chicken
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.03
+label: oz
+value: 0.026
+label: chicken
+value: 0.271
+
+
+name: 14:0
+unit: g
+value: 0.15
+label: oz
+value: 0.128
+label: chicken
+value: 1.358
+
+
+name: 16:0
+unit: g
+value: 3.97
+label: oz
+value: 3.374
+label: chicken
+value: 35.929
+
+
+name: 18:0
+unit: g
+value: 1.14
+label: oz
+value: 0.969
+label: chicken
+value: 10.317
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 7.82
+label: oz
+value: 6.647
+label: chicken
+value: 70.771
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 1.05
+label: oz
+value: 0.892
+label: chicken
+value: 9.502
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 6.48
+label: oz
+value: 5.508
+label: chicken
+value: 58.644
+
+
+name: 20:1
+unit: g
+value: 0.18
+label: oz
+value: 0.153
+label: chicken
+value: 1.629
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: chicken
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 4.27
+label: oz
+value: 3.629
+label: chicken
+value: 38.643
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 3.69
+label: oz
+value: 3.136
+label: chicken
+value: 33.394
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.17
+label: oz
+value: 0.145
+label: chicken
+value: 1.539
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: chicken
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.2
+label: oz
+value: 0.17
+label: chicken
+value: 1.81
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.01
+label: oz
+value: 0.008
+label: chicken
+value: 0.091
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.02
+label: oz
+value: 0.017
+label: chicken
+value: 0.181
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.05
+label: oz
+value: 0.042
+label: chicken
+value: 0.452
+
+
+name: Cholesterol
+unit: mg
+value: 87.0
+label: oz
+value: 74.0
+label: chicken
+value: 787.0
+
+
+name: Tryptophan
+unit: g
+value: 0.195
+label: oz
+value: 0.166
+label: chicken
+value: 1.765
+
+
+name: Threonine
+unit: g
+value: 0.728
+label: oz
+value: 0.619
+label: chicken
+value: 6.588
+
+
+name: Isoleucine
+unit: g
+value: 0.87
+label: oz
+value: 0.74
+label: chicken
+value: 7.874
+
+
+name: Leucine
+unit: g
+value: 1.281
+label: oz
+value: 1.089
+label: chicken
+value: 11.593
+
+
+name: Lysine
+unit: g
+value: 1.407
+label: oz
+value: 1.196
+label: chicken
+value: 12.733
+
+
+name: Methionine
+unit: g
+value: 0.461
+label: oz
+value: 0.392
+label: chicken
+value: 4.172
+
+
+name: Cystine
+unit: g
+value: 0.234
+label: oz
+value: 0.199
+label: chicken
+value: 2.118
+
+
+name: Phenylalanine
+unit: g
+value: 0.688
+label: oz
+value: 0.585
+label: chicken
+value: 6.226
+
+
+name: Tyrosine
+unit: g
+value: 0.563
+label: oz
+value: 0.479
+label: chicken
+value: 5.095
+
+
+name: Valine
+unit: g
+value: 0.855
+label: oz
+value: 0.727
+label: chicken
+value: 7.738
+
+
+name: Arginine
+unit: g
+value: 1.104
+label: oz
+value: 0.938
+label: chicken
+value: 9.991
+
+
+name: Histidine
+unit: g
+value: 0.502
+label: oz
+value: 0.427
+label: chicken
+value: 4.543
+
+
+name: Alanine
+unit: g
+value: 1.006
+label: oz
+value: 0.855
+label: chicken
+value: 9.104
+
+
+name: Aspartic acid
+unit: g
+value: 1.566
+label: oz
+value: 1.331
+label: chicken
+value: 14.172
+
+
+name: Glutamic acid
+unit: g
+value: 2.563
+label: oz
+value: 2.179
+label: chicken
+value: 23.195
+
+
+name: Glycine
+unit: g
+value: 1.125
+label: oz
+value: 0.956
+label: chicken
+value: 10.181
+
+
+name: Proline
+unit: g
+value: 0.856
+label: oz
+value: 0.728
+label: chicken
+value: 7.747
+
+
+name: Serine
+unit: g
+value: 0.631
+label: oz
+value: 0.536
+label: chicken
+value: 5.711
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: chicken
+value: 0.0
+
+

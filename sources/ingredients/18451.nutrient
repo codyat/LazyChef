@@ -1,0 +1,808 @@
+ndbno: 18451
+
+
+name: Cake, pound, commercially prepared, fat-free
+
+
+name: Water
+unit: g
+value: 31.0
+label: oz
+value: 8.79
+label: cake
+value: 105.4
+
+
+name: Energy
+unit: kcal
+value: 283.0
+label: oz
+value: 80.0
+label: cake
+value: 962.0
+
+
+name: Energy
+unit: kJ
+value: 1184.0
+label: oz
+value: 336.0
+label: cake
+value: 4026.0
+
+
+name: Protein
+unit: g
+value: 5.4
+label: oz
+value: 1.53
+label: cake
+value: 18.36
+
+
+name: Total lipid (fat)
+unit: g
+value: 1.2
+label: oz
+value: 0.34
+label: cake
+value: 4.08
+
+
+name: Ash
+unit: g
+value: 1.5
+label: oz
+value: 0.43
+label: cake
+value: 5.1
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 61.0
+label: oz
+value: 17.29
+label: cake
+value: 207.4
+
+
+name: Fiber, total dietary
+unit: g
+value: 1.1
+label: oz
+value: 0.3
+label: cake
+value: 3.7
+
+
+name: Sugars, total
+unit: g
+value: 34.34
+label: oz
+value: 9.74
+label: cake
+value: 116.76
+
+
+name: Calcium, Ca
+unit: mg
+value: 43.0
+label: oz
+value: 12.0
+label: cake
+value: 146.0
+
+
+name: Iron, Fe
+unit: mg
+value: 2.06
+label: oz
+value: 0.58
+label: cake
+value: 7.0
+
+
+name: Magnesium, Mg
+unit: mg
+value: 10.0
+label: oz
+value: 3.0
+label: cake
+value: 34.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 146.0
+label: oz
+value: 41.0
+label: cake
+value: 496.0
+
+
+name: Potassium, K
+unit: mg
+value: 110.0
+label: oz
+value: 31.0
+label: cake
+value: 374.0
+
+
+name: Sodium, Na
+unit: mg
+value: 341.0
+label: oz
+value: 97.0
+label: cake
+value: 1159.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.31
+label: oz
+value: 0.09
+label: cake
+value: 1.05
+
+
+name: Copper, Cu
+unit: mg
+value: 0.058
+label: oz
+value: 0.016
+label: cake
+value: 0.197
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.137
+label: oz
+value: 0.039
+label: cake
+value: 0.466
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 5.3
+label: oz
+value: 1.5
+label: cake
+value: 18.0
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: cake
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.125
+label: oz
+value: 0.035
+label: cake
+value: 0.425
+
+
+name: Riboflavin
+unit: mg
+value: 0.302
+label: oz
+value: 0.086
+label: cake
+value: 1.027
+
+
+name: Niacin
+unit: mg
+value: 0.686
+label: oz
+value: 0.194
+label: cake
+value: 2.332
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.346
+label: oz
+value: 0.098
+label: cake
+value: 1.176
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.012
+label: oz
+value: 0.003
+label: cake
+value: 0.041
+
+
+name: Folate, total
+unit: \u00B5g
+value: 43.0
+label: oz
+value: 12.0
+label: cake
+value: 146.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 39.0
+label: oz
+value: 11.0
+label: cake
+value: 133.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 4.0
+label: oz
+value: 1.0
+label: cake
+value: 14.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 70.0
+label: oz
+value: 20.0
+label: cake
+value: 238.0
+
+
+name: Choline, total
+unit: mg
+value: 6.8
+label: oz
+value: 1.9
+label: cake
+value: 23.1
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: cake
+value: 0.0
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: cake
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 29.0
+label: oz
+value: 8.0
+label: cake
+value: 99.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 29.0
+label: oz
+value: 8.0
+label: cake
+value: 99.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: cake
+value: 0.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: cake
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: cake
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 95.0
+label: oz
+value: 27.0
+label: cake
+value: 323.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: cake
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 2.0
+label: oz
+value: 1.0
+label: cake
+value: 7.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.01
+label: oz
+value: 0.0
+label: cake
+value: 0.03
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: cake
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: cake
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: oz
+value: 0.0
+label: cake
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 0.1
+label: oz
+value: 0.0
+label: cake
+value: 0.3
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.259
+label: oz
+value: 0.073
+label: cake
+value: 0.881
+
+
+name: 4:0
+unit: g
+value: 0.006
+label: oz
+value: 0.002
+label: cake
+value: 0.02
+
+
+name: 6:0
+unit: g
+value: 0.004
+label: oz
+value: 0.001
+label: cake
+value: 0.014
+
+
+name: 8:0
+unit: g
+value: 0.002
+label: oz
+value: 0.001
+label: cake
+value: 0.007
+
+
+name: 10:0
+unit: g
+value: 0.005
+label: oz
+value: 0.001
+label: cake
+value: 0.017
+
+
+name: 12:0
+unit: g
+value: 0.006
+label: oz
+value: 0.002
+label: cake
+value: 0.02
+
+
+name: 14:0
+unit: g
+value: 0.02
+label: oz
+value: 0.006
+label: cake
+value: 0.068
+
+
+name: 16:0
+unit: g
+value: 0.18
+label: oz
+value: 0.051
+label: cake
+value: 0.612
+
+
+name: 18:0
+unit: g
+value: 0.029
+label: oz
+value: 0.008
+label: cake
+value: 0.099
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.166
+label: oz
+value: 0.047
+label: cake
+value: 0.564
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.007
+label: oz
+value: 0.002
+label: cake
+value: 0.024
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.159
+label: oz
+value: 0.045
+label: cake
+value: 0.541
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: cake
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: cake
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.424
+label: oz
+value: 0.12
+label: cake
+value: 1.442
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.398
+label: oz
+value: 0.113
+label: cake
+value: 1.353
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.026
+label: oz
+value: 0.007
+label: cake
+value: 0.088
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: cake
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: cake
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: cake
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: cake
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: cake
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: cake
+value: 0.0
+
+
+name: Tryptophan
+unit: g
+value: 0.07
+label: oz
+value: 0.02
+label: cake
+value: 0.238
+
+
+name: Threonine
+unit: g
+value: 0.214
+label: oz
+value: 0.061
+label: cake
+value: 0.728
+
+
+name: Isoleucine
+unit: g
+value: 0.275
+label: oz
+value: 0.078
+label: cake
+value: 0.935
+
+
+name: Leucine
+unit: g
+value: 0.434
+label: oz
+value: 0.123
+label: cake
+value: 1.476
+
+
+name: Lysine
+unit: g
+value: 0.318
+label: oz
+value: 0.09
+label: cake
+value: 1.081
+
+
+name: Methionine
+unit: g
+value: 0.149
+label: oz
+value: 0.042
+label: cake
+value: 0.507
+
+
+name: Cystine
+unit: g
+value: 0.122
+label: oz
+value: 0.035
+label: cake
+value: 0.415
+
+
+name: Phenylalanine
+unit: g
+value: 0.288
+label: oz
+value: 0.082
+label: cake
+value: 0.979
+
+
+name: Tyrosine
+unit: g
+value: 0.197
+label: oz
+value: 0.056
+label: cake
+value: 0.67
+
+
+name: Valine
+unit: g
+value: 0.312
+label: oz
+value: 0.088
+label: cake
+value: 1.061
+
+
+name: Arginine
+unit: g
+value: 0.256
+label: oz
+value: 0.073
+label: cake
+value: 0.87
+
+
+name: Histidine
+unit: g
+value: 0.12
+label: oz
+value: 0.034
+label: cake
+value: 0.408
+
+
+name: Alanine
+unit: g
+value: 0.251
+label: oz
+value: 0.071
+label: cake
+value: 0.853
+
+
+name: Aspartic acid
+unit: g
+value: 0.434
+label: oz
+value: 0.123
+label: cake
+value: 1.476
+
+
+name: Glutamic acid
+unit: g
+value: 1.069
+label: oz
+value: 0.303
+label: cake
+value: 3.635
+
+
+name: Glycine
+unit: g
+value: 0.178
+label: oz
+value: 0.05
+label: cake
+value: 0.605
+
+
+name: Proline
+unit: g
+value: 0.358
+label: oz
+value: 0.101
+label: cake
+value: 1.217
+
+
+name: Serine
+unit: g
+value: 0.333
+label: oz
+value: 0.094
+label: cake
+value: 1.132
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: cake
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: cake
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: cake
+value: 0.0
+
+
+

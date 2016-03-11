@@ -1,0 +1,808 @@
+ndbno: 18097
+
+
+name: Cake, pudding-type, chocolate, dry mix
+
+
+name: Water
+unit: g
+value: 3.9
+label: oz
+value: 1.11
+label: package (18.25 oz)
+value: 20.16
+
+
+name: Energy
+unit: kcal
+value: 391.0
+label: oz
+value: 111.0
+label: package (18.25 oz)
+value: 2021.0
+
+
+name: Energy
+unit: kJ
+value: 1634.0
+label: oz
+value: 463.0
+label: package (18.25 oz)
+value: 8448.0
+
+
+name: Protein
+unit: g
+value: 4.6
+label: oz
+value: 1.3
+label: package (18.25 oz)
+value: 23.78
+
+
+name: Total lipid (fat)
+unit: g
+value: 8.14
+label: oz
+value: 2.31
+label: package (18.25 oz)
+value: 42.08
+
+
+name: Ash
+unit: g
+value: 3.2
+label: oz
+value: 0.91
+label: package (18.25 oz)
+value: 16.54
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 80.16
+label: oz
+value: 22.73
+label: package (18.25 oz)
+value: 414.43
+
+
+name: Fiber, total dietary
+unit: g
+value: 2.3
+label: oz
+value: 0.7
+label: package (18.25 oz)
+value: 11.9
+
+
+name: Sugars, total
+unit: g
+value: 39.53
+label: oz
+value: 11.21
+label: package (18.25 oz)
+value: 204.37
+
+
+name: Calcium, Ca
+unit: mg
+value: 133.0
+label: oz
+value: 38.0
+label: package (18.25 oz)
+value: 688.0
+
+
+name: Iron, Fe
+unit: mg
+value: 2.92
+label: oz
+value: 0.83
+label: package (18.25 oz)
+value: 15.1
+
+
+name: Magnesium, Mg
+unit: mg
+value: 41.0
+label: oz
+value: 12.0
+label: package (18.25 oz)
+value: 212.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 286.0
+label: oz
+value: 81.0
+label: package (18.25 oz)
+value: 1479.0
+
+
+name: Potassium, K
+unit: mg
+value: 337.0
+label: oz
+value: 96.0
+label: package (18.25 oz)
+value: 1742.0
+
+
+name: Sodium, Na
+unit: mg
+value: 767.0
+label: oz
+value: 217.0
+label: package (18.25 oz)
+value: 3965.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.78
+label: oz
+value: 0.22
+label: package (18.25 oz)
+value: 4.03
+
+
+name: Copper, Cu
+unit: mg
+value: 0.272
+label: oz
+value: 0.077
+label: package (18.25 oz)
+value: 1.406
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.213
+label: oz
+value: 0.06
+label: package (18.25 oz)
+value: 1.101
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 3.3
+label: oz
+value: 0.9
+label: package (18.25 oz)
+value: 17.1
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.1
+label: oz
+value: 0.0
+label: package (18.25 oz)
+value: 0.5
+
+
+name: Thiamin
+unit: mg
+value: 0.21
+label: oz
+value: 0.06
+label: package (18.25 oz)
+value: 1.086
+
+
+name: Riboflavin
+unit: mg
+value: 0.17
+label: oz
+value: 0.048
+label: package (18.25 oz)
+value: 0.879
+
+
+name: Niacin
+unit: mg
+value: 2.417
+label: oz
+value: 0.685
+label: package (18.25 oz)
+value: 12.496
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.211
+label: oz
+value: 0.06
+label: package (18.25 oz)
+value: 1.091
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.031
+label: oz
+value: 0.009
+label: package (18.25 oz)
+value: 0.16
+
+
+name: Folate, total
+unit: \u00B5g
+value: 54.0
+label: oz
+value: 15.0
+label: package (18.25 oz)
+value: 279.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 44.0
+label: oz
+value: 12.0
+label: package (18.25 oz)
+value: 227.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 10.0
+label: oz
+value: 3.0
+label: package (18.25 oz)
+value: 52.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 85.0
+label: oz
+value: 24.0
+label: package (18.25 oz)
+value: 439.0
+
+
+name: Choline, total
+unit: mg
+value: 3.3
+label: oz
+value: 0.9
+label: package (18.25 oz)
+value: 17.1
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.5
+label: oz
+value: 0.14
+label: package (18.25 oz)
+value: 2.58
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: package (18.25 oz)
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 1.0
+label: oz
+value: 0.0
+label: package (18.25 oz)
+value: 5.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 1.0
+label: oz
+value: 0.0
+label: package (18.25 oz)
+value: 5.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: package (18.25 oz)
+value: 0.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: package (18.25 oz)
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: package (18.25 oz)
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 2.0
+label: oz
+value: 1.0
+label: package (18.25 oz)
+value: 10.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: package (18.25 oz)
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 4.0
+label: oz
+value: 1.0
+label: package (18.25 oz)
+value: 21.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.65
+label: oz
+value: 0.18
+label: package (18.25 oz)
+value: 3.36
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: package (18.25 oz)
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: package (18.25 oz)
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: oz
+value: 0.0
+label: package (18.25 oz)
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 2.2
+label: oz
+value: 0.6
+label: package (18.25 oz)
+value: 11.4
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 2.022
+label: oz
+value: 0.573
+label: package (18.25 oz)
+value: 10.454
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: package (18.25 oz)
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: package (18.25 oz)
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: package (18.25 oz)
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: package (18.25 oz)
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: package (18.25 oz)
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.012
+label: oz
+value: 0.003
+label: package (18.25 oz)
+value: 0.062
+
+
+name: 16:0
+unit: g
+value: 1.187
+label: oz
+value: 0.337
+label: package (18.25 oz)
+value: 6.137
+
+
+name: 18:0
+unit: g
+value: 0.824
+label: oz
+value: 0.234
+label: package (18.25 oz)
+value: 4.26
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 2.803
+label: oz
+value: 0.795
+label: package (18.25 oz)
+value: 14.492
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.024
+label: oz
+value: 0.007
+label: package (18.25 oz)
+value: 0.124
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 2.78
+label: oz
+value: 0.788
+label: package (18.25 oz)
+value: 14.373
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: package (18.25 oz)
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: package (18.25 oz)
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 2.269
+label: oz
+value: 0.643
+label: package (18.25 oz)
+value: 11.731
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 2.115
+label: oz
+value: 0.6
+label: package (18.25 oz)
+value: 10.935
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.154
+label: oz
+value: 0.044
+label: package (18.25 oz)
+value: 0.796
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: package (18.25 oz)
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: package (18.25 oz)
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: package (18.25 oz)
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: package (18.25 oz)
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: package (18.25 oz)
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: package (18.25 oz)
+value: 0.0
+
+
+name: Tryptophan
+unit: g
+value: 0.066
+label: oz
+value: 0.019
+label: package (18.25 oz)
+value: 0.341
+
+
+name: Threonine
+unit: g
+value: 0.156
+label: oz
+value: 0.044
+label: package (18.25 oz)
+value: 0.807
+
+
+name: Isoleucine
+unit: g
+value: 0.188
+label: oz
+value: 0.053
+label: package (18.25 oz)
+value: 0.972
+
+
+name: Leucine
+unit: g
+value: 0.315
+label: oz
+value: 0.089
+label: package (18.25 oz)
+value: 1.629
+
+
+name: Lysine
+unit: g
+value: 0.208
+label: oz
+value: 0.059
+label: package (18.25 oz)
+value: 1.075
+
+
+name: Methionine
+unit: g
+value: 0.071
+label: oz
+value: 0.02
+label: package (18.25 oz)
+value: 0.367
+
+
+name: Cystine
+unit: g
+value: 0.077
+label: oz
+value: 0.022
+label: package (18.25 oz)
+value: 0.398
+
+
+name: Phenylalanine
+unit: g
+value: 0.218
+label: oz
+value: 0.062
+label: package (18.25 oz)
+value: 1.127
+
+
+name: Tyrosine
+unit: g
+value: 0.156
+label: oz
+value: 0.044
+label: package (18.25 oz)
+value: 0.807
+
+
+name: Valine
+unit: g
+value: 0.24
+label: oz
+value: 0.068
+label: package (18.25 oz)
+value: 1.241
+
+
+name: Arginine
+unit: g
+value: 0.204
+label: oz
+value: 0.058
+label: package (18.25 oz)
+value: 1.055
+
+
+name: Histidine
+unit: g
+value: 0.092
+label: oz
+value: 0.026
+label: package (18.25 oz)
+value: 0.476
+
+
+name: Alanine
+unit: g
+value: 0.167
+label: oz
+value: 0.047
+label: package (18.25 oz)
+value: 0.863
+
+
+name: Aspartic acid
+unit: g
+value: 0.303
+label: oz
+value: 0.086
+label: package (18.25 oz)
+value: 1.567
+
+
+name: Glutamic acid
+unit: g
+value: 1.151
+label: oz
+value: 0.326
+label: package (18.25 oz)
+value: 5.951
+
+
+name: Glycine
+unit: g
+value: 0.165
+label: oz
+value: 0.047
+label: package (18.25 oz)
+value: 0.853
+
+
+name: Proline
+unit: g
+value: 0.39
+label: oz
+value: 0.111
+label: package (18.25 oz)
+value: 2.016
+
+
+name: Serine
+unit: g
+value: 0.227
+label: oz
+value: 0.064
+label: package (18.25 oz)
+value: 1.174
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: package (18.25 oz)
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 6.0
+label: oz
+value: 2.0
+label: package (18.25 oz)
+value: 31.0
+
+
+name: Theobromine
+unit: mg
+value: 207.0
+label: oz
+value: 59.0
+label: package (18.25 oz)
+value: 1070.0
+
+
+

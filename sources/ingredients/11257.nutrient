@@ -1,0 +1,1881 @@
+ndbno: 11257
+
+
+name: Lettuce, red leaf, raw
+
+
+name: Water
+unit: g
+value: 95.64
+label: cup shredded
+value: 26.78
+label: leaf inner
+value: 2.49
+label: leaf outer
+value: 16.26
+label: head
+value: 295.53
+label: NLEA serving
+value: 81.29
+
+
+name: Energy
+unit: kcal
+value: 16.0
+label: cup shredded
+value: 4.0
+label: leaf inner
+value: 0.0
+label: leaf outer
+value: 3.0
+label: head
+value: 49.0
+label: NLEA serving
+value: 14.0
+
+
+name: Energy
+unit: kJ
+value: 68.0
+label: cup shredded
+value: 19.0
+label: leaf inner
+value: 2.0
+label: leaf outer
+value: 12.0
+label: head
+value: 210.0
+label: NLEA serving
+value: 58.0
+
+
+name: Protein
+unit: g
+value: 1.33
+label: cup shredded
+value: 0.37
+label: leaf inner
+value: 0.03
+label: leaf outer
+value: 0.23
+label: head
+value: 4.11
+label: NLEA serving
+value: 1.13
+
+
+name: Total lipid (fat)
+unit: g
+value: 0.22
+label: cup shredded
+value: 0.06
+label: leaf inner
+value: 0.01
+label: leaf outer
+value: 0.04
+label: head
+value: 0.68
+label: NLEA serving
+value: 0.19
+
+
+name: Ash
+unit: g
+value: 0.55
+label: cup shredded
+value: 0.15
+label: leaf inner
+value: 0.01
+label: leaf outer
+value: 0.09
+label: head
+value: 1.7
+label: NLEA serving
+value: 0.47
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 2.26
+label: cup shredded
+value: 0.63
+label: leaf inner
+value: 0.06
+label: leaf outer
+value: 0.38
+label: head
+value: 6.98
+label: NLEA serving
+value: 1.92
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.9
+label: cup shredded
+value: 0.3
+label: leaf inner
+value: 0.0
+label: leaf outer
+value: 0.2
+label: head
+value: 2.8
+label: NLEA serving
+value: 0.8
+
+
+name: Sugars, total
+unit: g
+value: 0.48
+label: cup shredded
+value: 0.13
+label: leaf inner
+value: 0.01
+label: leaf outer
+value: 0.08
+label: head
+value: 1.48
+label: NLEA serving
+value: 0.41
+
+
+name: Sucrose
+unit: g
+value: 0.0
+label: cup shredded
+value: 0.0
+label: leaf inner
+value: 0.0
+label: leaf outer
+value: 0.0
+label: head
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: Glucose (dextrose)
+unit: g
+value: 0.2
+label: cup shredded
+value: 0.06
+label: leaf inner
+value: 0.01
+label: leaf outer
+value: 0.03
+label: head
+value: 0.62
+label: NLEA serving
+value: 0.17
+
+
+name: Fructose
+unit: g
+value: 0.28
+label: cup shredded
+value: 0.08
+label: leaf inner
+value: 0.01
+label: leaf outer
+value: 0.05
+label: head
+value: 0.87
+label: NLEA serving
+value: 0.24
+
+
+name: Lactose
+unit: g
+value: 0.0
+label: cup shredded
+value: 0.0
+label: leaf inner
+value: 0.0
+label: leaf outer
+value: 0.0
+label: head
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: Maltose
+unit: g
+value: 0.0
+label: cup shredded
+value: 0.0
+label: leaf inner
+value: 0.0
+label: leaf outer
+value: 0.0
+label: head
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: Galactose
+unit: g
+value: 0.0
+label: cup shredded
+value: 0.0
+label: leaf inner
+value: 0.0
+label: leaf outer
+value: 0.0
+label: head
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: Starch
+unit: g
+value: 0.0
+label: cup shredded
+value: 0.0
+label: leaf inner
+value: 0.0
+label: leaf outer
+value: 0.0
+label: head
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 33.0
+label: cup shredded
+value: 9.0
+label: leaf inner
+value: 1.0
+label: leaf outer
+value: 6.0
+label: head
+value: 102.0
+label: NLEA serving
+value: 28.0
+
+
+name: Iron, Fe
+unit: mg
+value: 1.2
+label: cup shredded
+value: 0.34
+label: leaf inner
+value: 0.03
+label: leaf outer
+value: 0.2
+label: head
+value: 3.71
+label: NLEA serving
+value: 1.02
+
+
+name: Magnesium, Mg
+unit: mg
+value: 12.0
+label: cup shredded
+value: 3.0
+label: leaf inner
+value: 0.0
+label: leaf outer
+value: 2.0
+label: head
+value: 37.0
+label: NLEA serving
+value: 10.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 28.0
+label: cup shredded
+value: 8.0
+label: leaf inner
+value: 1.0
+label: leaf outer
+value: 5.0
+label: head
+value: 87.0
+label: NLEA serving
+value: 24.0
+
+
+name: Potassium, K
+unit: mg
+value: 187.0
+label: cup shredded
+value: 52.0
+label: leaf inner
+value: 5.0
+label: leaf outer
+value: 32.0
+label: head
+value: 578.0
+label: NLEA serving
+value: 159.0
+
+
+name: Sodium, Na
+unit: mg
+value: 25.0
+label: cup shredded
+value: 7.0
+label: leaf inner
+value: 1.0
+label: leaf outer
+value: 4.0
+label: head
+value: 77.0
+label: NLEA serving
+value: 21.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.2
+label: cup shredded
+value: 0.06
+label: leaf inner
+value: 0.01
+label: leaf outer
+value: 0.03
+label: head
+value: 0.62
+label: NLEA serving
+value: 0.17
+
+
+name: Copper, Cu
+unit: mg
+value: 0.028
+label: cup shredded
+value: 0.008
+label: leaf inner
+value: 0.001
+label: leaf outer
+value: 0.005
+label: head
+value: 0.087
+label: NLEA serving
+value: 0.024
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.203
+label: cup shredded
+value: 0.057
+label: leaf inner
+value: 0.005
+label: leaf outer
+value: 0.035
+label: head
+value: 0.627
+label: NLEA serving
+value: 0.173
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 1.5
+label: cup shredded
+value: 0.4
+label: leaf inner
+value: 0.0
+label: leaf outer
+value: 0.3
+label: head
+value: 4.6
+label: NLEA serving
+value: 1.3
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 3.7
+label: cup shredded
+value: 1.0
+label: leaf inner
+value: 0.1
+label: leaf outer
+value: 0.6
+label: head
+value: 11.4
+label: NLEA serving
+value: 3.1
+
+
+name: Thiamin
+unit: mg
+value: 0.064
+label: cup shredded
+value: 0.018
+label: leaf inner
+value: 0.002
+label: leaf outer
+value: 0.011
+label: head
+value: 0.198
+label: NLEA serving
+value: 0.054
+
+
+name: Riboflavin
+unit: mg
+value: 0.077
+label: cup shredded
+value: 0.022
+label: leaf inner
+value: 0.002
+label: leaf outer
+value: 0.013
+label: head
+value: 0.238
+label: NLEA serving
+value: 0.065
+
+
+name: Niacin
+unit: mg
+value: 0.321
+label: cup shredded
+value: 0.09
+label: leaf inner
+value: 0.008
+label: leaf outer
+value: 0.055
+label: head
+value: 0.992
+label: NLEA serving
+value: 0.273
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.144
+label: cup shredded
+value: 0.04
+label: leaf inner
+value: 0.004
+label: leaf outer
+value: 0.024
+label: head
+value: 0.445
+label: NLEA serving
+value: 0.122
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.1
+label: cup shredded
+value: 0.028
+label: leaf inner
+value: 0.003
+label: leaf outer
+value: 0.017
+label: head
+value: 0.309
+label: NLEA serving
+value: 0.085
+
+
+name: Folate, total
+unit: \u00B5g
+value: 36.0
+label: cup shredded
+value: 10.0
+label: leaf inner
+value: 1.0
+label: leaf outer
+value: 6.0
+label: head
+value: 111.0
+label: NLEA serving
+value: 31.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: cup shredded
+value: 0.0
+label: leaf inner
+value: 0.0
+label: leaf outer
+value: 0.0
+label: head
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 36.0
+label: cup shredded
+value: 10.0
+label: leaf inner
+value: 1.0
+label: leaf outer
+value: 6.0
+label: head
+value: 111.0
+label: NLEA serving
+value: 31.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 36.0
+label: cup shredded
+value: 10.0
+label: leaf inner
+value: 1.0
+label: leaf outer
+value: 6.0
+label: head
+value: 111.0
+label: NLEA serving
+value: 31.0
+
+
+name: Choline, total
+unit: mg
+value: 11.8
+label: cup shredded
+value: 3.3
+label: leaf inner
+value: 0.3
+label: leaf outer
+value: 2.0
+label: head
+value: 36.5
+label: NLEA serving
+value: 10.0
+
+
+name: Betaine
+unit: mg
+value: 0.2
+label: cup shredded
+value: 0.1
+label: leaf inner
+value: 0.0
+label: leaf outer
+value: 0.0
+label: head
+value: 0.6
+label: NLEA serving
+value: 0.2
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: cup shredded
+value: 0.0
+label: leaf inner
+value: 0.0
+label: leaf outer
+value: 0.0
+label: head
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: cup shredded
+value: 0.0
+label: leaf inner
+value: 0.0
+label: leaf outer
+value: 0.0
+label: head
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 375.0
+label: cup shredded
+value: 105.0
+label: leaf inner
+value: 10.0
+label: leaf outer
+value: 64.0
+label: head
+value: 1159.0
+label: NLEA serving
+value: 319.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: cup shredded
+value: 0.0
+label: leaf inner
+value: 0.0
+label: leaf outer
+value: 0.0
+label: head
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 4495.0
+label: cup shredded
+value: 1259.0
+label: leaf inner
+value: 117.0
+label: leaf outer
+value: 764.0
+label: head
+value: 13890.0
+label: NLEA serving
+value: 3821.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: cup shredded
+value: 0.0
+label: leaf inner
+value: 0.0
+label: leaf outer
+value: 0.0
+label: head
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: cup shredded
+value: 0.0
+label: leaf inner
+value: 0.0
+label: leaf outer
+value: 0.0
+label: head
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 7492.0
+label: cup shredded
+value: 2098.0
+label: leaf inner
+value: 195.0
+label: leaf outer
+value: 1274.0
+label: head
+value: 23150.0
+label: NLEA serving
+value: 6368.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: cup shredded
+value: 0.0
+label: leaf inner
+value: 0.0
+label: leaf outer
+value: 0.0
+label: head
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 1724.0
+label: cup shredded
+value: 483.0
+label: leaf inner
+value: 45.0
+label: leaf outer
+value: 293.0
+label: head
+value: 5327.0
+label: NLEA serving
+value: 1465.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.15
+label: cup shredded
+value: 0.04
+label: leaf inner
+value: 0.0
+label: leaf outer
+value: 0.03
+label: head
+value: 0.46
+label: NLEA serving
+value: 0.13
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: cup shredded
+value: 0.0
+label: leaf inner
+value: 0.0
+label: leaf outer
+value: 0.0
+label: head
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: Tocopherol, beta
+unit: mg
+value: 0.0
+label: cup shredded
+value: 0.0
+label: leaf inner
+value: 0.0
+label: leaf outer
+value: 0.0
+label: head
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: Tocopherol, gamma
+unit: mg
+value: 0.24
+label: cup shredded
+value: 0.07
+label: leaf inner
+value: 0.01
+label: leaf outer
+value: 0.04
+label: head
+value: 0.74
+label: NLEA serving
+value: 0.2
+
+
+name: Tocopherol, delta
+unit: mg
+value: 0.0
+label: cup shredded
+value: 0.0
+label: leaf inner
+value: 0.0
+label: leaf outer
+value: 0.0
+label: head
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: cup shredded
+value: 0.0
+label: leaf inner
+value: 0.0
+label: leaf outer
+value: 0.0
+label: head
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: cup shredded
+value: 0.0
+label: leaf inner
+value: 0.0
+label: leaf outer
+value: 0.0
+label: head
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 140.3
+label: cup shredded
+value: 39.3
+label: leaf inner
+value: 3.6
+label: leaf outer
+value: 23.9
+label: head
+value: 433.5
+label: NLEA serving
+value: 119.3
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.017
+label: cup shredded
+value: 0.005
+label: leaf inner
+value: 0.0
+label: leaf outer
+value: 0.003
+label: head
+value: 0.053
+label: NLEA serving
+value: 0.014
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: cup shredded
+value: 0.0
+label: leaf inner
+value: 0.0
+label: leaf outer
+value: 0.0
+label: head
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: cup shredded
+value: 0.0
+label: leaf inner
+value: 0.0
+label: leaf outer
+value: 0.0
+label: head
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: cup shredded
+value: 0.0
+label: leaf inner
+value: 0.0
+label: leaf outer
+value: 0.0
+label: head
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: cup shredded
+value: 0.0
+label: leaf inner
+value: 0.0
+label: leaf outer
+value: 0.0
+label: head
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: cup shredded
+value: 0.0
+label: leaf inner
+value: 0.0
+label: leaf outer
+value: 0.0
+label: head
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.0
+label: cup shredded
+value: 0.0
+label: leaf inner
+value: 0.0
+label: leaf outer
+value: 0.0
+label: head
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: 16:0
+unit: g
+value: 0.016
+label: cup shredded
+value: 0.004
+label: leaf inner
+value: 0.0
+label: leaf outer
+value: 0.003
+label: head
+value: 0.049
+label: NLEA serving
+value: 0.014
+
+
+name: 18:0
+unit: g
+value: 0.002
+label: cup shredded
+value: 0.001
+label: leaf inner
+value: 0.0
+label: leaf outer
+value: 0.0
+label: head
+value: 0.006
+label: NLEA serving
+value: 0.002
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.005
+label: cup shredded
+value: 0.001
+label: leaf inner
+value: 0.0
+label: leaf outer
+value: 0.001
+label: head
+value: 0.015
+label: NLEA serving
+value: 0.004
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.001
+label: cup shredded
+value: 0.0
+label: leaf inner
+value: 0.0
+label: leaf outer
+value: 0.0
+label: head
+value: 0.003
+label: NLEA serving
+value: 0.001
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.004
+label: cup shredded
+value: 0.001
+label: leaf inner
+value: 0.0
+label: leaf outer
+value: 0.001
+label: head
+value: 0.012
+label: NLEA serving
+value: 0.003
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: cup shredded
+value: 0.0
+label: leaf inner
+value: 0.0
+label: leaf outer
+value: 0.0
+label: head
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: cup shredded
+value: 0.0
+label: leaf inner
+value: 0.0
+label: leaf outer
+value: 0.0
+label: head
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.072
+label: cup shredded
+value: 0.02
+label: leaf inner
+value: 0.002
+label: leaf outer
+value: 0.012
+label: head
+value: 0.222
+label: NLEA serving
+value: 0.061
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.021
+label: cup shredded
+value: 0.006
+label: leaf inner
+value: 0.001
+label: leaf outer
+value: 0.004
+label: head
+value: 0.065
+label: NLEA serving
+value: 0.018
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.051
+label: cup shredded
+value: 0.014
+label: leaf inner
+value: 0.001
+label: leaf outer
+value: 0.009
+label: head
+value: 0.158
+label: NLEA serving
+value: 0.043
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: cup shredded
+value: 0.0
+label: leaf inner
+value: 0.0
+label: leaf outer
+value: 0.0
+label: head
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: cup shredded
+value: 0.0
+label: leaf inner
+value: 0.0
+label: leaf outer
+value: 0.0
+label: head
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: cup shredded
+value: 0.0
+label: leaf inner
+value: 0.0
+label: leaf outer
+value: 0.0
+label: head
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: cup shredded
+value: 0.0
+label: leaf inner
+value: 0.0
+label: leaf outer
+value: 0.0
+label: head
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: cup shredded
+value: 0.0
+label: leaf inner
+value: 0.0
+label: leaf outer
+value: 0.0
+label: head
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.0
+label: cup shredded
+value: 0.0
+label: leaf inner
+value: 0.0
+label: leaf outer
+value: 0.0
+label: head
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: cup shredded
+value: 0.0
+label: leaf inner
+value: 0.0
+label: leaf outer
+value: 0.0
+label: head
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: Tryptophan
+unit: g
+value: 0.022
+label: cup shredded
+value: 0.006
+label: leaf inner
+value: 0.001
+label: leaf outer
+value: 0.004
+label: head
+value: 0.068
+label: NLEA serving
+value: 0.019
+
+
+name: Threonine
+unit: g
+value: 0.048
+label: cup shredded
+value: 0.013
+label: leaf inner
+value: 0.001
+label: leaf outer
+value: 0.008
+label: head
+value: 0.148
+label: NLEA serving
+value: 0.041
+
+
+name: Isoleucine
+unit: g
+value: 0.038
+label: cup shredded
+value: 0.011
+label: leaf inner
+value: 0.001
+label: leaf outer
+value: 0.006
+label: head
+value: 0.117
+label: NLEA serving
+value: 0.032
+
+
+name: Leucine
+unit: g
+value: 0.07
+label: cup shredded
+value: 0.02
+label: leaf inner
+value: 0.002
+label: leaf outer
+value: 0.012
+label: head
+value: 0.216
+label: NLEA serving
+value: 0.06
+
+
+name: Lysine
+unit: g
+value: 0.045
+label: cup shredded
+value: 0.013
+label: leaf inner
+value: 0.001
+label: leaf outer
+value: 0.008
+label: head
+value: 0.139
+label: NLEA serving
+value: 0.038
+
+
+name: Methionine
+unit: g
+value: 0.016
+label: cup shredded
+value: 0.004
+label: leaf inner
+value: 0.0
+label: leaf outer
+value: 0.003
+label: head
+value: 0.049
+label: NLEA serving
+value: 0.014
+
+
+name: Cystine
+unit: g
+value: 0.009
+label: cup shredded
+value: 0.003
+label: leaf inner
+value: 0.0
+label: leaf outer
+value: 0.002
+label: head
+value: 0.028
+label: NLEA serving
+value: 0.008
+
+
+name: Phenylalanine
+unit: g
+value: 0.067
+label: cup shredded
+value: 0.019
+label: leaf inner
+value: 0.002
+label: leaf outer
+value: 0.011
+label: head
+value: 0.207
+label: NLEA serving
+value: 0.057
+
+
+name: Tyrosine
+unit: g
+value: 0.029
+label: cup shredded
+value: 0.008
+label: leaf inner
+value: 0.001
+label: leaf outer
+value: 0.005
+label: head
+value: 0.09
+label: NLEA serving
+value: 0.025
+
+
+name: Valine
+unit: g
+value: 0.048
+label: cup shredded
+value: 0.013
+label: leaf inner
+value: 0.001
+label: leaf outer
+value: 0.008
+label: head
+value: 0.148
+label: NLEA serving
+value: 0.041
+
+
+name: Arginine
+unit: g
+value: 0.041
+label: cup shredded
+value: 0.011
+label: leaf inner
+value: 0.001
+label: leaf outer
+value: 0.007
+label: head
+value: 0.127
+label: NLEA serving
+value: 0.035
+
+
+name: Histidine
+unit: g
+value: 0.019
+label: cup shredded
+value: 0.005
+label: leaf inner
+value: 0.0
+label: leaf outer
+value: 0.003
+label: head
+value: 0.059
+label: NLEA serving
+value: 0.016
+
+
+name: Alanine
+unit: g
+value: 0.051
+label: cup shredded
+value: 0.014
+label: leaf inner
+value: 0.001
+label: leaf outer
+value: 0.009
+label: head
+value: 0.158
+label: NLEA serving
+value: 0.043
+
+
+name: Aspartic acid
+unit: g
+value: 0.14
+label: cup shredded
+value: 0.039
+label: leaf inner
+value: 0.004
+label: leaf outer
+value: 0.024
+label: head
+value: 0.433
+label: NLEA serving
+value: 0.119
+
+
+name: Glutamic acid
+unit: g
+value: 0.155
+label: cup shredded
+value: 0.043
+label: leaf inner
+value: 0.004
+label: leaf outer
+value: 0.026
+label: head
+value: 0.479
+label: NLEA serving
+value: 0.132
+
+
+name: Glycine
+unit: g
+value: 0.048
+label: cup shredded
+value: 0.013
+label: leaf inner
+value: 0.001
+label: leaf outer
+value: 0.008
+label: head
+value: 0.148
+label: NLEA serving
+value: 0.041
+
+
+name: Proline
+unit: g
+value: 0.038
+label: cup shredded
+value: 0.011
+label: leaf inner
+value: 0.001
+label: leaf outer
+value: 0.006
+label: head
+value: 0.117
+label: NLEA serving
+value: 0.032
+
+
+name: Serine
+unit: g
+value: 0.044
+label: cup shredded
+value: 0.012
+label: leaf inner
+value: 0.001
+label: leaf outer
+value: 0.007
+label: head
+value: 0.136
+label: NLEA serving
+value: 0.037
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: cup shredded
+value: 0.0
+label: leaf inner
+value: 0.0
+label: leaf outer
+value: 0.0
+label: head
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: cup shredded
+value: 0.0
+label: leaf inner
+value: 0.0
+label: leaf outer
+value: 0.0
+label: head
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: cup shredded
+value: 0.0
+label: leaf inner
+value: 0.0
+label: leaf outer
+value: 0.0
+label: head
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: Cyanidin
+unit: mg
+value: 3.14
+label: cup shredded
+value: 0.88
+label: leaf inner
+value: 0.08
+label: leaf outer
+value: 0.53
+label: head
+value: 9.7
+label: NLEA serving
+value: 2.67
+
+
+name: Petunidin
+unit: mg
+value: 0.0
+label: cup shredded
+value: 0.0
+label: leaf inner
+value: 0.0
+label: leaf outer
+value: 0.0
+label: head
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: Delphinidin
+unit: mg
+value: 0.0
+label: cup shredded
+value: 0.0
+label: leaf inner
+value: 0.0
+label: leaf outer
+value: 0.0
+label: head
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: Malvidin
+unit: mg
+value: 0.0
+label: cup shredded
+value: 0.0
+label: leaf inner
+value: 0.0
+label: leaf outer
+value: 0.0
+label: head
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: Pelargonidin
+unit: mg
+value: 0.0
+label: cup shredded
+value: 0.0
+label: leaf inner
+value: 0.0
+label: leaf outer
+value: 0.0
+label: head
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: Peonidin
+unit: mg
+value: 0.0
+label: cup shredded
+value: 0.0
+label: leaf inner
+value: 0.0
+label: leaf outer
+value: 0.0
+label: head
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: (+)-Catechin
+unit: mg
+value: 0.0
+label: cup shredded
+value: 0.0
+label: leaf inner
+value: 0.0
+label: leaf outer
+value: 0.0
+label: head
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: (-)-Epigallocatechin
+unit: mg
+value: 0.0
+label: cup shredded
+value: 0.0
+label: leaf inner
+value: 0.0
+label: leaf outer
+value: 0.0
+label: head
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: (-)-Epicatechin
+unit: mg
+value: 0.0
+label: cup shredded
+value: 0.0
+label: leaf inner
+value: 0.0
+label: leaf outer
+value: 0.0
+label: head
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: (-)-Epicatechin 3-gallate
+unit: mg
+value: 0.0
+label: cup shredded
+value: 0.0
+label: leaf inner
+value: 0.0
+label: leaf outer
+value: 0.0
+label: head
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: (-)-Epigallocatechin 3-gallate
+unit: mg
+value: 0.0
+label: cup shredded
+value: 0.0
+label: leaf inner
+value: 0.0
+label: leaf outer
+value: 0.0
+label: head
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: (+)-Gallocatechin
+unit: mg
+value: 0.0
+label: cup shredded
+value: 0.0
+label: leaf inner
+value: 0.0
+label: leaf outer
+value: 0.0
+label: head
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: Hesperetin
+unit: mg
+value: 0.0
+label: cup shredded
+value: 0.0
+label: leaf inner
+value: 0.0
+label: leaf outer
+value: 0.0
+label: head
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: Naringenin
+unit: mg
+value: 0.0
+label: cup shredded
+value: 0.0
+label: leaf inner
+value: 0.0
+label: leaf outer
+value: 0.0
+label: head
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: Apigenin
+unit: mg
+value: 0.0
+label: cup shredded
+value: 0.0
+label: leaf inner
+value: 0.0
+label: leaf outer
+value: 0.0
+label: head
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: Luteolin
+unit: mg
+value: 1.0
+label: cup shredded
+value: 0.3
+label: leaf inner
+value: 0.0
+label: leaf outer
+value: 0.2
+label: head
+value: 2.9
+label: NLEA serving
+value: 0.8
+
+
+name: Kaempferol
+unit: mg
+value: 0.0
+label: cup shredded
+value: 0.0
+label: leaf inner
+value: 0.0
+label: leaf outer
+value: 0.0
+label: head
+value: 0.1
+label: NLEA serving
+value: 0.0
+
+
+name: Myricetin
+unit: mg
+value: 0.0
+label: cup shredded
+value: 0.0
+label: leaf inner
+value: 0.0
+label: leaf outer
+value: 0.0
+label: head
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: Quercetin
+unit: mg
+value: 7.6
+label: cup shredded
+value: 2.1
+label: leaf inner
+value: 0.2
+label: leaf outer
+value: 1.3
+label: head
+value: 23.5
+label: NLEA serving
+value: 6.5
+
+
+name: Proanthocyanidin dimers
+unit: mg
+value: 0.0
+label: cup shredded
+value: 0.0
+label: leaf inner
+value: 0.0
+label: leaf outer
+value: 0.0
+label: head
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: Proanthocyanidin trimers
+unit: mg
+value: 0.0
+label: cup shredded
+value: 0.0
+label: leaf inner
+value: 0.0
+label: leaf outer
+value: 0.0
+label: head
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: Proanthocyanidin 4-6mers
+unit: mg
+value: 0.0
+label: cup shredded
+value: 0.0
+label: leaf inner
+value: 0.0
+label: leaf outer
+value: 0.0
+label: head
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: Proanthocyanidin 7-10mers
+unit: mg
+value: 0.0
+label: cup shredded
+value: 0.0
+label: leaf inner
+value: 0.0
+label: leaf outer
+value: 0.0
+label: head
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+
+name: Proanthocyanidin polymers (>10mers)
+unit: mg
+value: 0.0
+label: cup shredded
+value: 0.0
+label: leaf inner
+value: 0.0
+label: leaf outer
+value: 0.0
+label: head
+value: 0.0
+label: NLEA serving
+value: 0.0
+
+

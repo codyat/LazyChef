@@ -1,0 +1,917 @@
+ndbno: 42155
+
+
+name: Cheese, monterey, low fat
+
+
+name: Water
+unit: g
+value: 46.0
+label: cup, diced
+value: 60.72
+label: cup, shredded
+value: 51.98
+label: cubic inch
+value: 7.82
+label: slice (1 oz)
+value: 12.88
+
+
+name: Energy
+unit: kcal
+value: 313.0
+label: cup, diced
+value: 413.0
+label: cup, shredded
+value: 354.0
+label: cubic inch
+value: 53.0
+label: slice (1 oz)
+value: 88.0
+
+
+name: Energy
+unit: kJ
+value: 1310.0
+label: cup, diced
+value: 1729.0
+label: cup, shredded
+value: 1480.0
+label: cubic inch
+value: 223.0
+label: slice (1 oz)
+value: 367.0
+
+
+name: Protein
+unit: g
+value: 28.2
+label: cup, diced
+value: 37.22
+label: cup, shredded
+value: 31.87
+label: cubic inch
+value: 4.79
+label: slice (1 oz)
+value: 7.9
+
+
+name: Total lipid (fat)
+unit: g
+value: 21.6
+label: cup, diced
+value: 28.51
+label: cup, shredded
+value: 24.41
+label: cubic inch
+value: 3.67
+label: slice (1 oz)
+value: 6.05
+
+
+name: Ash
+unit: g
+value: 3.5
+label: cup, diced
+value: 4.62
+label: cup, shredded
+value: 3.96
+label: cubic inch
+value: 0.6
+label: slice (1 oz)
+value: 0.98
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 0.7
+label: cup, diced
+value: 0.92
+label: cup, shredded
+value: 0.79
+label: cubic inch
+value: 0.12
+label: slice (1 oz)
+value: 0.2
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: cup, diced
+value: 0.0
+label: cup, shredded
+value: 0.0
+label: cubic inch
+value: 0.0
+label: slice (1 oz)
+value: 0.0
+
+
+name: Sugars, total
+unit: g
+value: 0.56
+label: cup, diced
+value: 0.74
+label: cup, shredded
+value: 0.63
+label: cubic inch
+value: 0.1
+label: slice (1 oz)
+value: 0.16
+
+
+name: Calcium, Ca
+unit: mg
+value: 705.0
+label: cup, diced
+value: 931.0
+label: cup, shredded
+value: 797.0
+label: cubic inch
+value: 120.0
+label: slice (1 oz)
+value: 197.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.72
+label: cup, diced
+value: 0.95
+label: cup, shredded
+value: 0.81
+label: cubic inch
+value: 0.12
+label: slice (1 oz)
+value: 0.2
+
+
+name: Magnesium, Mg
+unit: mg
+value: 27.0
+label: cup, diced
+value: 36.0
+label: cup, shredded
+value: 31.0
+label: cubic inch
+value: 5.0
+label: slice (1 oz)
+value: 8.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 444.0
+label: cup, diced
+value: 586.0
+label: cup, shredded
+value: 502.0
+label: cubic inch
+value: 75.0
+label: slice (1 oz)
+value: 124.0
+
+
+name: Potassium, K
+unit: mg
+value: 81.0
+label: cup, diced
+value: 107.0
+label: cup, shredded
+value: 92.0
+label: cubic inch
+value: 14.0
+label: slice (1 oz)
+value: 23.0
+
+
+name: Sodium, Na
+unit: mg
+value: 781.0
+label: cup, diced
+value: 1031.0
+label: cup, shredded
+value: 883.0
+label: cubic inch
+value: 133.0
+label: slice (1 oz)
+value: 219.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 3.0
+label: cup, diced
+value: 3.96
+label: cup, shredded
+value: 3.39
+label: cubic inch
+value: 0.51
+label: slice (1 oz)
+value: 0.84
+
+
+name: Copper, Cu
+unit: mg
+value: 0.032
+label: cup, diced
+value: 0.042
+label: cup, shredded
+value: 0.036
+label: cubic inch
+value: 0.005
+label: slice (1 oz)
+value: 0.009
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 14.5
+label: cup, diced
+value: 19.1
+label: cup, shredded
+value: 16.4
+label: cubic inch
+value: 2.5
+label: slice (1 oz)
+value: 4.1
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: cup, diced
+value: 0.0
+label: cup, shredded
+value: 0.0
+label: cubic inch
+value: 0.0
+label: slice (1 oz)
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.02
+label: cup, diced
+value: 0.026
+label: cup, shredded
+value: 0.023
+label: cubic inch
+value: 0.003
+label: slice (1 oz)
+value: 0.006
+
+
+name: Riboflavin
+unit: mg
+value: 0.36
+label: cup, diced
+value: 0.475
+label: cup, shredded
+value: 0.407
+label: cubic inch
+value: 0.061
+label: slice (1 oz)
+value: 0.101
+
+
+name: Niacin
+unit: mg
+value: 0.09
+label: cup, diced
+value: 0.119
+label: cup, shredded
+value: 0.102
+label: cubic inch
+value: 0.015
+label: slice (1 oz)
+value: 0.025
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.08
+label: cup, diced
+value: 0.106
+label: cup, shredded
+value: 0.09
+label: cubic inch
+value: 0.014
+label: slice (1 oz)
+value: 0.022
+
+
+name: Folate, total
+unit: \u00B5g
+value: 18.0
+label: cup, diced
+value: 24.0
+label: cup, shredded
+value: 20.0
+label: cubic inch
+value: 3.0
+label: slice (1 oz)
+value: 5.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: cup, diced
+value: 0.0
+label: cup, shredded
+value: 0.0
+label: cubic inch
+value: 0.0
+label: slice (1 oz)
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 18.0
+label: cup, diced
+value: 24.0
+label: cup, shredded
+value: 20.0
+label: cubic inch
+value: 3.0
+label: slice (1 oz)
+value: 5.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 18.0
+label: cup, diced
+value: 24.0
+label: cup, shredded
+value: 20.0
+label: cubic inch
+value: 3.0
+label: slice (1 oz)
+value: 5.0
+
+
+name: Choline, total
+unit: mg
+value: 15.4
+label: cup, diced
+value: 20.3
+label: cup, shredded
+value: 17.4
+label: cubic inch
+value: 2.6
+label: slice (1 oz)
+value: 4.3
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.83
+label: cup, diced
+value: 1.1
+label: cup, shredded
+value: 0.94
+label: cubic inch
+value: 0.14
+label: slice (1 oz)
+value: 0.23
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: cup, diced
+value: 0.0
+label: cup, shredded
+value: 0.0
+label: cubic inch
+value: 0.0
+label: slice (1 oz)
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 142.0
+label: cup, diced
+value: 187.0
+label: cup, shredded
+value: 160.0
+label: cubic inch
+value: 24.0
+label: slice (1 oz)
+value: 40.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 137.0
+label: cup, diced
+value: 181.0
+label: cup, shredded
+value: 155.0
+label: cubic inch
+value: 23.0
+label: slice (1 oz)
+value: 38.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 55.0
+label: cup, diced
+value: 73.0
+label: cup, shredded
+value: 62.0
+label: cubic inch
+value: 9.0
+label: slice (1 oz)
+value: 15.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: cup, diced
+value: 0.0
+label: cup, shredded
+value: 0.0
+label: cubic inch
+value: 0.0
+label: slice (1 oz)
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: cup, diced
+value: 0.0
+label: cup, shredded
+value: 0.0
+label: cubic inch
+value: 0.0
+label: slice (1 oz)
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 549.0
+label: cup, diced
+value: 725.0
+label: cup, shredded
+value: 620.0
+label: cubic inch
+value: 93.0
+label: slice (1 oz)
+value: 154.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: cup, diced
+value: 0.0
+label: cup, shredded
+value: 0.0
+label: cubic inch
+value: 0.0
+label: slice (1 oz)
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 0.0
+label: cup, diced
+value: 0.0
+label: cup, shredded
+value: 0.0
+label: cubic inch
+value: 0.0
+label: slice (1 oz)
+value: 0.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.19
+label: cup, diced
+value: 0.25
+label: cup, shredded
+value: 0.21
+label: cubic inch
+value: 0.03
+label: slice (1 oz)
+value: 0.05
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: cup, diced
+value: 0.0
+label: cup, shredded
+value: 0.0
+label: cubic inch
+value: 0.0
+label: slice (1 oz)
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.4
+label: cup, diced
+value: 0.5
+label: cup, shredded
+value: 0.5
+label: cubic inch
+value: 0.1
+label: slice (1 oz)
+value: 0.1
+
+
+name: Vitamin D3 (cholecalciferol)
+unit: \u00B5g
+value: 0.4
+label: cup, diced
+value: 0.5
+label: cup, shredded
+value: 0.5
+label: cubic inch
+value: 0.1
+label: slice (1 oz)
+value: 0.1
+
+
+name: Vitamin D
+unit: IU
+value: 16.0
+label: cup, diced
+value: 21.0
+label: cup, shredded
+value: 18.0
+label: cubic inch
+value: 3.0
+label: slice (1 oz)
+value: 4.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 1.8
+label: cup, diced
+value: 2.4
+label: cup, shredded
+value: 2.0
+label: cubic inch
+value: 0.3
+label: slice (1 oz)
+value: 0.5
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 14.04
+label: cup, diced
+value: 18.533
+label: cup, shredded
+value: 15.865
+label: cubic inch
+value: 2.387
+label: slice (1 oz)
+value: 3.931
+
+
+name: 4:0
+unit: g
+value: 1.08
+label: cup, diced
+value: 1.426
+label: cup, shredded
+value: 1.22
+label: cubic inch
+value: 0.184
+label: slice (1 oz)
+value: 0.302
+
+
+name: 6:0
+unit: g
+value: 0.12
+label: cup, diced
+value: 0.158
+label: cup, shredded
+value: 0.136
+label: cubic inch
+value: 0.02
+label: slice (1 oz)
+value: 0.034
+
+
+name: 8:0
+unit: g
+value: 0.24
+label: cup, diced
+value: 0.317
+label: cup, shredded
+value: 0.271
+label: cubic inch
+value: 0.041
+label: slice (1 oz)
+value: 0.067
+
+
+name: 10:0
+unit: g
+value: 0.48
+label: cup, diced
+value: 0.634
+label: cup, shredded
+value: 0.542
+label: cubic inch
+value: 0.082
+label: slice (1 oz)
+value: 0.134
+
+
+name: 12:0
+unit: g
+value: 0.36
+label: cup, diced
+value: 0.475
+label: cup, shredded
+value: 0.407
+label: cubic inch
+value: 0.061
+label: slice (1 oz)
+value: 0.101
+
+
+name: 14:0
+unit: g
+value: 2.04
+label: cup, diced
+value: 2.693
+label: cup, shredded
+value: 2.305
+label: cubic inch
+value: 0.347
+label: slice (1 oz)
+value: 0.571
+
+
+name: 16:0
+unit: g
+value: 6.36
+label: cup, diced
+value: 8.395
+label: cup, shredded
+value: 7.187
+label: cubic inch
+value: 1.081
+label: slice (1 oz)
+value: 1.781
+
+
+name: 18:0
+unit: g
+value: 2.28
+label: cup, diced
+value: 3.01
+label: cup, shredded
+value: 2.576
+label: cubic inch
+value: 0.388
+label: slice (1 oz)
+value: 0.638
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 5.64
+label: cup, diced
+value: 7.445
+label: cup, shredded
+value: 6.373
+label: cubic inch
+value: 0.959
+label: slice (1 oz)
+value: 1.579
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.84
+label: cup, diced
+value: 1.109
+label: cup, shredded
+value: 0.949
+label: cubic inch
+value: 0.143
+label: slice (1 oz)
+value: 0.235
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 4.56
+label: cup, diced
+value: 6.019
+label: cup, shredded
+value: 5.153
+label: cubic inch
+value: 0.775
+label: slice (1 oz)
+value: 1.277
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: cup, diced
+value: 0.0
+label: cup, shredded
+value: 0.0
+label: cubic inch
+value: 0.0
+label: slice (1 oz)
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: cup, diced
+value: 0.0
+label: cup, shredded
+value: 0.0
+label: cubic inch
+value: 0.0
+label: slice (1 oz)
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.84
+label: cup, diced
+value: 1.109
+label: cup, shredded
+value: 0.949
+label: cubic inch
+value: 0.143
+label: slice (1 oz)
+value: 0.235
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.6
+label: cup, diced
+value: 0.792
+label: cup, shredded
+value: 0.678
+label: cubic inch
+value: 0.102
+label: slice (1 oz)
+value: 0.168
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.24
+label: cup, diced
+value: 0.317
+label: cup, shredded
+value: 0.271
+label: cubic inch
+value: 0.041
+label: slice (1 oz)
+value: 0.067
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: cup, diced
+value: 0.0
+label: cup, shredded
+value: 0.0
+label: cubic inch
+value: 0.0
+label: slice (1 oz)
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: cup, diced
+value: 0.0
+label: cup, shredded
+value: 0.0
+label: cubic inch
+value: 0.0
+label: slice (1 oz)
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: cup, diced
+value: 0.0
+label: cup, shredded
+value: 0.0
+label: cubic inch
+value: 0.0
+label: slice (1 oz)
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: cup, diced
+value: 0.0
+label: cup, shredded
+value: 0.0
+label: cubic inch
+value: 0.0
+label: slice (1 oz)
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: cup, diced
+value: 0.0
+label: cup, shredded
+value: 0.0
+label: cubic inch
+value: 0.0
+label: slice (1 oz)
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 65.0
+label: cup, diced
+value: 86.0
+label: cup, shredded
+value: 73.0
+label: cubic inch
+value: 11.0
+label: slice (1 oz)
+value: 18.0
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: cup, diced
+value: 0.0
+label: cup, shredded
+value: 0.0
+label: cubic inch
+value: 0.0
+label: slice (1 oz)
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: cup, diced
+value: 0.0
+label: cup, shredded
+value: 0.0
+label: cubic inch
+value: 0.0
+label: slice (1 oz)
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: cup, diced
+value: 0.0
+label: cup, shredded
+value: 0.0
+label: cubic inch
+value: 0.0
+label: slice (1 oz)
+value: 0.0
+
+
+

@@ -1,0 +1,790 @@
+ndbno: 10067
+
+
+name: Pork, fresh, loin, top loin (chops), boneless, separable lean only, cooked, braised
+
+
+name: Water
+unit: g
+value: 65.14
+label: chop
+value: 87.94
+
+
+name: Energy
+unit: kcal
+value: 170.0
+label: chop
+value: 230.0
+
+
+name: Energy
+unit: kJ
+value: 709.0
+label: chop
+value: 957.0
+
+
+name: Protein
+unit: g
+value: 30.54
+label: chop
+value: 41.23
+
+
+name: Total lipid (fat)
+unit: g
+value: 4.34
+label: chop
+value: 5.86
+
+
+name: Ash
+unit: g
+value: 1.36
+label: chop
+value: 1.84
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 0.0
+label: chop
+value: 0.0
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: chop
+value: 0.0
+
+
+name: Sugars, total
+unit: g
+value: 0.0
+label: chop
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 8.0
+label: chop
+value: 11.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.91
+label: chop
+value: 1.23
+
+
+name: Magnesium, Mg
+unit: mg
+value: 23.0
+label: chop
+value: 31.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 230.0
+label: chop
+value: 310.0
+
+
+name: Potassium, K
+unit: mg
+value: 269.0
+label: chop
+value: 363.0
+
+
+name: Sodium, Na
+unit: mg
+value: 67.0
+label: chop
+value: 90.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 2.37
+label: chop
+value: 3.2
+
+
+name: Copper, Cu
+unit: mg
+value: 0.087
+label: chop
+value: 0.117
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.01
+label: chop
+value: 0.014
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 42.1
+label: chop
+value: 56.8
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: chop
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.545
+label: chop
+value: 0.736
+
+
+name: Riboflavin
+unit: mg
+value: 0.245
+label: chop
+value: 0.331
+
+
+name: Niacin
+unit: mg
+value: 10.263
+label: chop
+value: 13.855
+
+
+name: Pantothenic acid
+unit: mg
+value: 1.054
+label: chop
+value: 1.423
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.561
+label: chop
+value: 0.757
+
+
+name: Folate, total
+unit: \u00B5g
+value: 0.0
+label: chop
+value: 0.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: chop
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 0.0
+label: chop
+value: 0.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 0.0
+label: chop
+value: 0.0
+
+
+name: Choline, total
+unit: mg
+value: 104.9
+label: chop
+value: 141.6
+
+
+name: Betaine
+unit: mg
+value: 4.1
+label: chop
+value: 5.5
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.66
+label: chop
+value: 0.89
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: chop
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 2.0
+label: chop
+value: 3.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 2.0
+label: chop
+value: 3.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 0.0
+label: chop
+value: 0.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: chop
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: chop
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 6.0
+label: chop
+value: 8.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: chop
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 0.0
+label: chop
+value: 0.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.25
+label: chop
+value: 0.34
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: chop
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.9
+label: chop
+value: 1.2
+
+
+name: Vitamin D3 (cholecalciferol)
+unit: \u00B5g
+value: 0.9
+label: chop
+value: 1.2
+
+
+name: Vitamin D
+unit: IU
+value: 36.0
+label: chop
+value: 49.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 0.0
+label: chop
+value: 0.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 1.657
+label: chop
+value: 2.237
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: chop
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: chop
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.001
+label: chop
+value: 0.001
+
+
+name: 10:0
+unit: g
+value: 0.005
+label: chop
+value: 0.007
+
+
+name: 12:0
+unit: g
+value: 0.004
+label: chop
+value: 0.005
+
+
+name: 14:0
+unit: g
+value: 0.059
+label: chop
+value: 0.08
+
+
+name: 15:0
+unit: g
+value: 0.002
+label: chop
+value: 0.003
+
+
+name: 16:0
+unit: g
+value: 1.015
+label: chop
+value: 1.37
+
+
+name: 17:0
+unit: g
+value: 0.011
+label: chop
+value: 0.015
+
+
+name: 18:0
+unit: g
+value: 0.552
+label: chop
+value: 0.745
+
+
+name: 20:0
+unit: g
+value: 0.008
+label: chop
+value: 0.011
+
+
+name: 22:0
+unit: g
+value: 0.0
+label: chop
+value: 0.0
+
+
+name: 24:0
+unit: g
+value: 0.0
+label: chop
+value: 0.0
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 1.934
+label: chop
+value: 2.611
+
+
+name: 14:1
+unit: g
+value: 0.0
+label: chop
+value: 0.0
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: chop
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.12
+label: chop
+value: 0.162
+
+
+name: 17:1
+unit: g
+value: 0.0
+label: chop
+value: 0.0
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 1.785
+label: chop
+value: 2.41
+
+
+name: 18:1 c
+unit: g
+value: 1.77
+label: chop
+value: 2.39
+
+
+name: 18:1 t
+unit: g
+value: 0.015
+label: chop
+value: 0.02
+
+
+name: 20:1
+unit: g
+value: 0.029
+label: chop
+value: 0.039
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: chop
+value: 0.0
+
+
+name: 22:1 c
+unit: g
+value: 0.0
+label: chop
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.551
+label: chop
+value: 0.744
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.468
+label: chop
+value: 0.632
+
+
+name: 18:2 n-6 c,c
+unit: g
+value: 0.468
+label: chop
+value: 0.632
+
+
+name: 18:2 t not further defined
+unit: g
+value: 0.0
+label: chop
+value: 0.0
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.017
+label: chop
+value: 0.023
+
+
+name: 18:3 n-3 c,c,c (ALA)
+unit: g
+value: 0.016
+label: chop
+value: 0.022
+
+
+name: 18:3 n-6 c,c,c
+unit: g
+value: 0.001
+label: chop
+value: 0.001
+
+
+name: 18:3i
+unit: g
+value: 0.001
+label: chop
+value: 0.001
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: chop
+value: 0.0
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.018
+label: chop
+value: 0.024
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.0
+label: chop
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.044
+label: chop
+value: 0.059
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: chop
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.003
+label: chop
+value: 0.004
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: chop
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.015
+label: chop
+value: 0.02
+
+
+name: Fatty acids, total trans-monoenoic
+unit: g
+value: 0.015
+label: chop
+value: 0.02
+
+
+name: Cholesterol
+unit: mg
+value: 71.0
+label: chop
+value: 96.0
+
+
+name: Tryptophan
+unit: g
+value: 0.363
+label: chop
+value: 0.49
+
+
+name: Threonine
+unit: g
+value: 1.343
+label: chop
+value: 1.813
+
+
+name: Isoleucine
+unit: g
+value: 1.446
+label: chop
+value: 1.952
+
+
+name: Leucine
+unit: g
+value: 2.513
+label: chop
+value: 3.393
+
+
+name: Lysine
+unit: g
+value: 2.716
+label: chop
+value: 3.667
+
+
+name: Methionine
+unit: g
+value: 0.837
+label: chop
+value: 1.13
+
+
+name: Cystine
+unit: g
+value: 0.344
+label: chop
+value: 0.464
+
+
+name: Phenylalanine
+unit: g
+value: 1.269
+label: chop
+value: 1.713
+
+
+name: Tyrosine
+unit: g
+value: 1.21
+label: chop
+value: 1.634
+
+
+name: Valine
+unit: g
+value: 1.545
+label: chop
+value: 2.086
+
+
+name: Arginine
+unit: g
+value: 1.968
+label: chop
+value: 2.657
+
+
+name: Histidine
+unit: g
+value: 1.242
+label: chop
+value: 1.677
+
+
+name: Alanine
+unit: g
+value: 1.749
+label: chop
+value: 2.361
+
+
+name: Aspartic acid
+unit: g
+value: 2.856
+label: chop
+value: 3.856
+
+
+name: Glutamic acid
+unit: g
+value: 4.665
+label: chop
+value: 6.298
+
+
+name: Glycine
+unit: g
+value: 1.38
+label: chop
+value: 1.863
+
+
+name: Proline
+unit: g
+value: 1.235
+label: chop
+value: 1.667
+
+
+name: Serine
+unit: g
+value: 1.275
+label: chop
+value: 1.721
+
+
+name: Hydroxyproline
+unit: g
+value: 0.107
+label: chop
+value: 0.144
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: chop
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: chop
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: chop
+value: 0.0
+
+

@@ -1,0 +1,809 @@
+ndbno: 05653
+
+
+name: Ostrich, round, raw
+
+
+name: Water
+unit: g
+value: 75.68
+label: serving (cooked from 4 oz raw)
+value: 64.33
+label: oz
+value: 21.46
+label: lb
+value: 342.83
+
+
+name: Energy
+unit: kcal
+value: 116.0
+label: serving (cooked from 4 oz raw)
+value: 99.0
+label: oz
+value: 33.0
+label: lb
+value: 525.0
+
+
+name: Energy
+unit: kJ
+value: 483.0
+label: serving (cooked from 4 oz raw)
+value: 411.0
+label: oz
+value: 137.0
+label: lb
+value: 2188.0
+
+
+name: Protein
+unit: g
+value: 21.99
+label: serving (cooked from 4 oz raw)
+value: 18.69
+label: oz
+value: 6.23
+label: lb
+value: 99.61
+
+
+name: Total lipid (fat)
+unit: g
+value: 2.4
+label: serving (cooked from 4 oz raw)
+value: 2.04
+label: oz
+value: 0.68
+label: lb
+value: 10.87
+
+
+name: Ash
+unit: g
+value: 0.62
+label: serving (cooked from 4 oz raw)
+value: 0.53
+label: oz
+value: 0.18
+label: lb
+value: 2.81
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 0.0
+label: serving (cooked from 4 oz raw)
+value: 0.0
+label: oz
+value: 0.0
+label: lb
+value: 0.0
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: serving (cooked from 4 oz raw)
+value: 0.0
+label: oz
+value: 0.0
+label: lb
+value: 0.0
+
+
+name: Sugars, total
+unit: g
+value: 0.0
+label: serving (cooked from 4 oz raw)
+value: 0.0
+label: oz
+value: 0.0
+label: lb
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 5.0
+label: serving (cooked from 4 oz raw)
+value: 4.0
+label: oz
+value: 1.0
+label: lb
+value: 23.0
+
+
+name: Iron, Fe
+unit: mg
+value: 3.54
+label: serving (cooked from 4 oz raw)
+value: 3.01
+label: oz
+value: 1.0
+label: lb
+value: 16.04
+
+
+name: Magnesium, Mg
+unit: mg
+value: 22.0
+label: serving (cooked from 4 oz raw)
+value: 19.0
+label: oz
+value: 6.0
+label: lb
+value: 100.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 216.0
+label: serving (cooked from 4 oz raw)
+value: 184.0
+label: oz
+value: 61.0
+label: lb
+value: 978.0
+
+
+name: Potassium, K
+unit: mg
+value: 315.0
+label: serving (cooked from 4 oz raw)
+value: 268.0
+label: oz
+value: 89.0
+label: lb
+value: 1427.0
+
+
+name: Sodium, Na
+unit: mg
+value: 72.0
+label: serving (cooked from 4 oz raw)
+value: 61.0
+label: oz
+value: 20.0
+label: lb
+value: 326.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 3.8
+label: serving (cooked from 4 oz raw)
+value: 3.23
+label: oz
+value: 1.08
+label: lb
+value: 17.21
+
+
+name: Copper, Cu
+unit: mg
+value: 0.139
+label: serving (cooked from 4 oz raw)
+value: 0.118
+label: oz
+value: 0.039
+label: lb
+value: 0.63
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.018
+label: serving (cooked from 4 oz raw)
+value: 0.015
+label: oz
+value: 0.005
+label: lb
+value: 0.082
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 35.8
+label: serving (cooked from 4 oz raw)
+value: 30.4
+label: oz
+value: 10.1
+label: lb
+value: 162.2
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: serving (cooked from 4 oz raw)
+value: 0.0
+label: oz
+value: 0.0
+label: lb
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.198
+label: serving (cooked from 4 oz raw)
+value: 0.168
+label: oz
+value: 0.056
+label: lb
+value: 0.897
+
+
+name: Riboflavin
+unit: mg
+value: 0.29
+label: serving (cooked from 4 oz raw)
+value: 0.246
+label: oz
+value: 0.082
+label: lb
+value: 1.314
+
+
+name: Niacin
+unit: mg
+value: 4.761
+label: serving (cooked from 4 oz raw)
+value: 4.047
+label: oz
+value: 1.35
+label: lb
+value: 21.567
+
+
+name: Pantothenic acid
+unit: mg
+value: 1.175
+label: serving (cooked from 4 oz raw)
+value: 0.999
+label: oz
+value: 0.333
+label: lb
+value: 5.323
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.517
+label: serving (cooked from 4 oz raw)
+value: 0.439
+label: oz
+value: 0.147
+label: lb
+value: 2.342
+
+
+name: Folate, total
+unit: \u00B5g
+value: 8.0
+label: serving (cooked from 4 oz raw)
+value: 7.0
+label: oz
+value: 2.0
+label: lb
+value: 36.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: serving (cooked from 4 oz raw)
+value: 0.0
+label: oz
+value: 0.0
+label: lb
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 8.0
+label: serving (cooked from 4 oz raw)
+value: 7.0
+label: oz
+value: 2.0
+label: lb
+value: 36.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 8.0
+label: serving (cooked from 4 oz raw)
+value: 7.0
+label: oz
+value: 2.0
+label: lb
+value: 36.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 5.01
+label: serving (cooked from 4 oz raw)
+value: 4.26
+label: oz
+value: 1.42
+label: lb
+value: 22.7
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 0.0
+label: serving (cooked from 4 oz raw)
+value: 0.0
+label: oz
+value: 0.0
+label: lb
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: serving (cooked from 4 oz raw)
+value: 0.0
+label: oz
+value: 0.0
+label: lb
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 0.0
+label: serving (cooked from 4 oz raw)
+value: 0.0
+label: oz
+value: 0.0
+label: lb
+value: 0.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: serving (cooked from 4 oz raw)
+value: 0.0
+label: oz
+value: 0.0
+label: lb
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: serving (cooked from 4 oz raw)
+value: 0.0
+label: oz
+value: 0.0
+label: lb
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 0.0
+label: serving (cooked from 4 oz raw)
+value: 0.0
+label: oz
+value: 0.0
+label: lb
+value: 0.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: serving (cooked from 4 oz raw)
+value: 0.0
+label: oz
+value: 0.0
+label: lb
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 0.0
+label: serving (cooked from 4 oz raw)
+value: 0.0
+label: oz
+value: 0.0
+label: lb
+value: 0.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.2
+label: serving (cooked from 4 oz raw)
+value: 0.17
+label: oz
+value: 0.06
+label: lb
+value: 0.91
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.81
+label: serving (cooked from 4 oz raw)
+value: 0.689
+label: oz
+value: 0.23
+label: lb
+value: 3.669
+
+
+name: 14:0
+unit: g
+value: 0.01
+label: serving (cooked from 4 oz raw)
+value: 0.008
+label: oz
+value: 0.003
+label: lb
+value: 0.045
+
+
+name: 16:0
+unit: g
+value: 0.55
+label: serving (cooked from 4 oz raw)
+value: 0.468
+label: oz
+value: 0.156
+label: lb
+value: 2.492
+
+
+name: 18:0
+unit: g
+value: 0.25
+label: serving (cooked from 4 oz raw)
+value: 0.212
+label: oz
+value: 0.071
+label: lb
+value: 1.132
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.85
+label: serving (cooked from 4 oz raw)
+value: 0.722
+label: oz
+value: 0.241
+label: lb
+value: 3.851
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.17
+label: serving (cooked from 4 oz raw)
+value: 0.145
+label: oz
+value: 0.048
+label: lb
+value: 0.77
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.68
+label: serving (cooked from 4 oz raw)
+value: 0.578
+label: oz
+value: 0.193
+label: lb
+value: 3.08
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.52
+label: serving (cooked from 4 oz raw)
+value: 0.442
+label: oz
+value: 0.147
+label: lb
+value: 2.356
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.33
+label: serving (cooked from 4 oz raw)
+value: 0.28
+label: oz
+value: 0.094
+label: lb
+value: 1.495
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.02
+label: serving (cooked from 4 oz raw)
+value: 0.017
+label: oz
+value: 0.006
+label: lb
+value: 0.091
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.17
+label: serving (cooked from 4 oz raw)
+value: 0.145
+label: oz
+value: 0.048
+label: lb
+value: 0.77
+
+
+name: Cholesterol
+unit: mg
+value: 71.0
+label: serving (cooked from 4 oz raw)
+value: 60.0
+label: oz
+value: 20.0
+label: lb
+value: 322.0
+
+
+name: Tryptophan
+unit: g
+value: 0.196
+label: serving (cooked from 4 oz raw)
+value: 0.167
+label: oz
+value: 0.056
+label: lb
+value: 0.888
+
+
+name: Threonine
+unit: g
+value: 0.965
+label: serving (cooked from 4 oz raw)
+value: 0.82
+label: oz
+value: 0.274
+label: lb
+value: 4.371
+
+
+name: Isoleucine
+unit: g
+value: 1.045
+label: serving (cooked from 4 oz raw)
+value: 0.888
+label: oz
+value: 0.296
+label: lb
+value: 4.734
+
+
+name: Leucine
+unit: g
+value: 1.787
+label: serving (cooked from 4 oz raw)
+value: 1.519
+label: oz
+value: 0.507
+label: lb
+value: 8.095
+
+
+name: Lysine
+unit: g
+value: 1.942
+label: serving (cooked from 4 oz raw)
+value: 1.651
+label: oz
+value: 0.551
+label: lb
+value: 8.797
+
+
+name: Methionine
+unit: g
+value: 0.615
+label: serving (cooked from 4 oz raw)
+value: 0.523
+label: oz
+value: 0.174
+label: lb
+value: 2.786
+
+
+name: Cystine
+unit: g
+value: 0.226
+label: serving (cooked from 4 oz raw)
+value: 0.192
+label: oz
+value: 0.064
+label: lb
+value: 1.024
+
+
+name: Phenylalanine
+unit: g
+value: 0.908
+label: serving (cooked from 4 oz raw)
+value: 0.772
+label: oz
+value: 0.257
+label: lb
+value: 4.113
+
+
+name: Tyrosine
+unit: g
+value: 0.715
+label: serving (cooked from 4 oz raw)
+value: 0.608
+label: oz
+value: 0.203
+label: lb
+value: 3.239
+
+
+name: Valine
+unit: g
+value: 1.086
+label: serving (cooked from 4 oz raw)
+value: 0.923
+label: oz
+value: 0.308
+label: lb
+value: 4.92
+
+
+name: Arginine
+unit: g
+value: 1.504
+label: serving (cooked from 4 oz raw)
+value: 1.278
+label: oz
+value: 0.426
+label: lb
+value: 6.813
+
+
+name: Histidine
+unit: g
+value: 0.552
+label: serving (cooked from 4 oz raw)
+value: 0.469
+label: oz
+value: 0.156
+label: lb
+value: 2.501
+
+
+name: Alanine
+unit: g
+value: 1.411
+label: serving (cooked from 4 oz raw)
+value: 1.199
+label: oz
+value: 0.4
+label: lb
+value: 6.392
+
+
+name: Aspartic acid
+unit: g
+value: 2.057
+label: serving (cooked from 4 oz raw)
+value: 1.748
+label: oz
+value: 0.583
+label: lb
+value: 9.318
+
+
+name: Glutamic acid
+unit: g
+value: 3.371
+label: serving (cooked from 4 oz raw)
+value: 2.865
+label: oz
+value: 0.956
+label: lb
+value: 15.271
+
+
+name: Glycine
+unit: g
+value: 1.47
+label: serving (cooked from 4 oz raw)
+value: 1.25
+label: oz
+value: 0.417
+label: lb
+value: 6.659
+
+
+name: Proline
+unit: g
+value: 1.146
+label: serving (cooked from 4 oz raw)
+value: 0.974
+label: oz
+value: 0.325
+label: lb
+value: 5.191
+
+
+name: Serine
+unit: g
+value: 0.88
+label: serving (cooked from 4 oz raw)
+value: 0.748
+label: oz
+value: 0.249
+label: lb
+value: 3.986
+
+
+name: Hydroxyproline
+unit: g
+value: 0.392
+label: serving (cooked from 4 oz raw)
+value: 0.333
+label: oz
+value: 0.111
+label: lb
+value: 1.776
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: serving (cooked from 4 oz raw)
+value: 0.0
+label: oz
+value: 0.0
+label: lb
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: serving (cooked from 4 oz raw)
+value: 0.0
+label: oz
+value: 0.0
+label: lb
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: serving (cooked from 4 oz raw)
+value: 0.0
+label: oz
+value: 0.0
+label: lb
+value: 0.0
+
+

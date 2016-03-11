@@ -1,0 +1,955 @@
+ndbno: 19370
+
+
+name: Candies, MARS SNACKFOOD US, SKITTLES Original Bite Size Candies
+
+
+name: Water
+unit: g
+value: 3.83
+label: serving 2.17 oz pack
+value: 2.37
+label: cup
+value: 7.85
+label: pieces
+value: 0.41
+label: package fun size
+value: 0.77
+
+
+name: Energy
+unit: kcal
+value: 405.0
+label: serving 2.17 oz pack
+value: 251.0
+label: cup
+value: 830.0
+label: pieces
+value: 43.0
+label: package fun size
+value: 81.0
+
+
+name: Energy
+unit: kJ
+value: 1695.0
+label: serving 2.17 oz pack
+value: 1051.0
+label: cup
+value: 3475.0
+label: pieces
+value: 181.0
+label: package fun size
+value: 339.0
+
+
+name: Protein
+unit: g
+value: 0.19
+label: serving 2.17 oz pack
+value: 0.12
+label: cup
+value: 0.39
+label: pieces
+value: 0.02
+label: package fun size
+value: 0.04
+
+
+name: Total lipid (fat)
+unit: g
+value: 4.37
+label: serving 2.17 oz pack
+value: 2.71
+label: cup
+value: 8.96
+label: pieces
+value: 0.47
+label: package fun size
+value: 0.87
+
+
+name: Ash
+unit: g
+value: 0.97
+label: serving 2.17 oz pack
+value: 0.6
+label: cup
+value: 1.99
+label: pieces
+value: 0.1
+label: package fun size
+value: 0.19
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 90.78
+label: serving 2.17 oz pack
+value: 56.28
+label: cup
+value: 186.1
+label: pieces
+value: 9.71
+label: package fun size
+value: 18.16
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: serving 2.17 oz pack
+value: 0.0
+label: cup
+value: 0.0
+label: pieces
+value: 0.0
+label: package fun size
+value: 0.0
+
+
+name: Sugars, total
+unit: g
+value: 75.84
+label: serving 2.17 oz pack
+value: 47.02
+label: cup
+value: 155.47
+label: pieces
+value: 8.11
+label: package fun size
+value: 15.17
+
+
+name: Calcium, Ca
+unit: mg
+value: 0.0
+label: serving 2.17 oz pack
+value: 0.0
+label: cup
+value: 0.0
+label: pieces
+value: 0.0
+label: package fun size
+value: 0.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.0
+label: serving 2.17 oz pack
+value: 0.0
+label: cup
+value: 0.0
+label: pieces
+value: 0.0
+label: package fun size
+value: 0.0
+
+
+name: Magnesium, Mg
+unit: mg
+value: 1.0
+label: serving 2.17 oz pack
+value: 1.0
+label: cup
+value: 2.0
+label: pieces
+value: 0.0
+label: package fun size
+value: 0.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 1.0
+label: serving 2.17 oz pack
+value: 1.0
+label: cup
+value: 2.0
+label: pieces
+value: 0.0
+label: package fun size
+value: 0.0
+
+
+name: Potassium, K
+unit: mg
+value: 12.0
+label: serving 2.17 oz pack
+value: 7.0
+label: cup
+value: 25.0
+label: pieces
+value: 1.0
+label: package fun size
+value: 2.0
+
+
+name: Sodium, Na
+unit: mg
+value: 15.0
+label: serving 2.17 oz pack
+value: 9.0
+label: cup
+value: 31.0
+label: pieces
+value: 2.0
+label: package fun size
+value: 3.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.02
+label: serving 2.17 oz pack
+value: 0.01
+label: cup
+value: 0.04
+label: pieces
+value: 0.0
+label: package fun size
+value: 0.0
+
+
+name: Copper, Cu
+unit: mg
+value: 0.036
+label: serving 2.17 oz pack
+value: 0.022
+label: cup
+value: 0.074
+label: pieces
+value: 0.004
+label: package fun size
+value: 0.007
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.063
+label: serving 2.17 oz pack
+value: 0.039
+label: cup
+value: 0.129
+label: pieces
+value: 0.007
+label: package fun size
+value: 0.013
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 1.0
+label: serving 2.17 oz pack
+value: 0.6
+label: cup
+value: 2.0
+label: pieces
+value: 0.1
+label: package fun size
+value: 0.2
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 66.8
+label: serving 2.17 oz pack
+value: 41.4
+label: cup
+value: 136.9
+label: pieces
+value: 7.1
+label: package fun size
+value: 13.4
+
+
+name: Thiamin
+unit: mg
+value: 0.0
+label: serving 2.17 oz pack
+value: 0.0
+label: cup
+value: 0.0
+label: pieces
+value: 0.0
+label: package fun size
+value: 0.0
+
+
+name: Riboflavin
+unit: mg
+value: 0.023
+label: serving 2.17 oz pack
+value: 0.014
+label: cup
+value: 0.047
+label: pieces
+value: 0.002
+label: package fun size
+value: 0.005
+
+
+name: Niacin
+unit: mg
+value: 0.007
+label: serving 2.17 oz pack
+value: 0.004
+label: cup
+value: 0.014
+label: pieces
+value: 0.001
+label: package fun size
+value: 0.001
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.014
+label: serving 2.17 oz pack
+value: 0.009
+label: cup
+value: 0.029
+label: pieces
+value: 0.001
+label: package fun size
+value: 0.003
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.003
+label: serving 2.17 oz pack
+value: 0.002
+label: cup
+value: 0.006
+label: pieces
+value: 0.0
+label: package fun size
+value: 0.001
+
+
+name: Folate, total
+unit: \u00B5g
+value: 0.0
+label: serving 2.17 oz pack
+value: 0.0
+label: cup
+value: 0.0
+label: pieces
+value: 0.0
+label: package fun size
+value: 0.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: serving 2.17 oz pack
+value: 0.0
+label: cup
+value: 0.0
+label: pieces
+value: 0.0
+label: package fun size
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 0.0
+label: serving 2.17 oz pack
+value: 0.0
+label: cup
+value: 0.0
+label: pieces
+value: 0.0
+label: package fun size
+value: 0.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 0.0
+label: serving 2.17 oz pack
+value: 0.0
+label: cup
+value: 0.0
+label: pieces
+value: 0.0
+label: package fun size
+value: 0.0
+
+
+name: Choline, total
+unit: mg
+value: 0.0
+label: serving 2.17 oz pack
+value: 0.0
+label: cup
+value: 0.0
+label: pieces
+value: 0.0
+label: package fun size
+value: 0.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: serving 2.17 oz pack
+value: 0.0
+label: cup
+value: 0.0
+label: pieces
+value: 0.0
+label: package fun size
+value: 0.0
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: serving 2.17 oz pack
+value: 0.0
+label: cup
+value: 0.0
+label: pieces
+value: 0.0
+label: package fun size
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 0.0
+label: serving 2.17 oz pack
+value: 0.0
+label: cup
+value: 0.0
+label: pieces
+value: 0.0
+label: package fun size
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: serving 2.17 oz pack
+value: 0.0
+label: cup
+value: 0.0
+label: pieces
+value: 0.0
+label: package fun size
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 0.0
+label: serving 2.17 oz pack
+value: 0.0
+label: cup
+value: 0.0
+label: pieces
+value: 0.0
+label: package fun size
+value: 0.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: serving 2.17 oz pack
+value: 0.0
+label: cup
+value: 0.0
+label: pieces
+value: 0.0
+label: package fun size
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: serving 2.17 oz pack
+value: 0.0
+label: cup
+value: 0.0
+label: pieces
+value: 0.0
+label: package fun size
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 0.0
+label: serving 2.17 oz pack
+value: 0.0
+label: cup
+value: 0.0
+label: pieces
+value: 0.0
+label: package fun size
+value: 0.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: serving 2.17 oz pack
+value: 0.0
+label: cup
+value: 0.0
+label: pieces
+value: 0.0
+label: package fun size
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 1.0
+label: serving 2.17 oz pack
+value: 1.0
+label: cup
+value: 2.0
+label: pieces
+value: 0.0
+label: package fun size
+value: 0.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.17
+label: serving 2.17 oz pack
+value: 0.11
+label: cup
+value: 0.35
+label: pieces
+value: 0.02
+label: package fun size
+value: 0.03
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: serving 2.17 oz pack
+value: 0.0
+label: cup
+value: 0.0
+label: pieces
+value: 0.0
+label: package fun size
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: serving 2.17 oz pack
+value: 0.0
+label: cup
+value: 0.0
+label: pieces
+value: 0.0
+label: package fun size
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: serving 2.17 oz pack
+value: 0.0
+label: cup
+value: 0.0
+label: pieces
+value: 0.0
+label: package fun size
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 1.1
+label: serving 2.17 oz pack
+value: 0.7
+label: cup
+value: 2.3
+label: pieces
+value: 0.1
+label: package fun size
+value: 0.2
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 4.115
+label: serving 2.17 oz pack
+value: 2.551
+label: cup
+value: 8.436
+label: pieces
+value: 0.44
+label: package fun size
+value: 0.823
+
+
+name: 4:0
+unit: g
+value: 0.003
+label: serving 2.17 oz pack
+value: 0.002
+label: cup
+value: 0.006
+label: pieces
+value: 0.0
+label: package fun size
+value: 0.001
+
+
+name: 6:0
+unit: g
+value: 0.011
+label: serving 2.17 oz pack
+value: 0.007
+label: cup
+value: 0.023
+label: pieces
+value: 0.001
+label: package fun size
+value: 0.002
+
+
+name: 8:0
+unit: g
+value: 0.145
+label: serving 2.17 oz pack
+value: 0.09
+label: cup
+value: 0.297
+label: pieces
+value: 0.016
+label: package fun size
+value: 0.029
+
+
+name: 10:0
+unit: g
+value: 0.14
+label: serving 2.17 oz pack
+value: 0.087
+label: cup
+value: 0.287
+label: pieces
+value: 0.015
+label: package fun size
+value: 0.028
+
+
+name: 12:0
+unit: g
+value: 2.151
+label: serving 2.17 oz pack
+value: 1.334
+label: cup
+value: 4.41
+label: pieces
+value: 0.23
+label: package fun size
+value: 0.43
+
+
+name: 14:0
+unit: g
+value: 0.72
+label: serving 2.17 oz pack
+value: 0.446
+label: cup
+value: 1.476
+label: pieces
+value: 0.077
+label: package fun size
+value: 0.144
+
+
+name: 16:0
+unit: g
+value: 0.344
+label: serving 2.17 oz pack
+value: 0.213
+label: cup
+value: 0.705
+label: pieces
+value: 0.037
+label: package fun size
+value: 0.069
+
+
+name: 18:0
+unit: g
+value: 0.599
+label: serving 2.17 oz pack
+value: 0.371
+label: cup
+value: 1.228
+label: pieces
+value: 0.064
+label: package fun size
+value: 0.12
+
+
+name: 20:0
+unit: g
+value: 0.002
+label: serving 2.17 oz pack
+value: 0.001
+label: cup
+value: 0.004
+label: pieces
+value: 0.0
+label: package fun size
+value: 0.0
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.0
+label: serving 2.17 oz pack
+value: 0.0
+label: cup
+value: 0.0
+label: pieces
+value: 0.0
+label: package fun size
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.0
+label: serving 2.17 oz pack
+value: 0.0
+label: cup
+value: 0.0
+label: pieces
+value: 0.0
+label: package fun size
+value: 0.0
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.0
+label: serving 2.17 oz pack
+value: 0.0
+label: cup
+value: 0.0
+label: pieces
+value: 0.0
+label: package fun size
+value: 0.0
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: serving 2.17 oz pack
+value: 0.0
+label: cup
+value: 0.0
+label: pieces
+value: 0.0
+label: package fun size
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: serving 2.17 oz pack
+value: 0.0
+label: cup
+value: 0.0
+label: pieces
+value: 0.0
+label: package fun size
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.0
+label: serving 2.17 oz pack
+value: 0.0
+label: cup
+value: 0.0
+label: pieces
+value: 0.0
+label: package fun size
+value: 0.0
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.0
+label: serving 2.17 oz pack
+value: 0.0
+label: cup
+value: 0.0
+label: pieces
+value: 0.0
+label: package fun size
+value: 0.0
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.0
+label: serving 2.17 oz pack
+value: 0.0
+label: cup
+value: 0.0
+label: pieces
+value: 0.0
+label: package fun size
+value: 0.0
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: serving 2.17 oz pack
+value: 0.0
+label: cup
+value: 0.0
+label: pieces
+value: 0.0
+label: package fun size
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: serving 2.17 oz pack
+value: 0.0
+label: cup
+value: 0.0
+label: pieces
+value: 0.0
+label: package fun size
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: serving 2.17 oz pack
+value: 0.0
+label: cup
+value: 0.0
+label: pieces
+value: 0.0
+label: package fun size
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: serving 2.17 oz pack
+value: 0.0
+label: cup
+value: 0.0
+label: pieces
+value: 0.0
+label: package fun size
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: serving 2.17 oz pack
+value: 0.0
+label: cup
+value: 0.0
+label: pieces
+value: 0.0
+label: package fun size
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.074
+label: serving 2.17 oz pack
+value: 0.046
+label: cup
+value: 0.152
+label: pieces
+value: 0.008
+label: package fun size
+value: 0.015
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: serving 2.17 oz pack
+value: 0.0
+label: cup
+value: 0.0
+label: pieces
+value: 0.0
+label: package fun size
+value: 0.0
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: serving 2.17 oz pack
+value: 0.0
+label: cup
+value: 0.0
+label: pieces
+value: 0.0
+label: package fun size
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: serving 2.17 oz pack
+value: 0.0
+label: cup
+value: 0.0
+label: pieces
+value: 0.0
+label: package fun size
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: serving 2.17 oz pack
+value: 0.0
+label: cup
+value: 0.0
+label: pieces
+value: 0.0
+label: package fun size
+value: 0.0
+
+

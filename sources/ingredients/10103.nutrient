@@ -1,0 +1,781 @@
+ndbno: 10103
+
+
+name: Pork, fresh, variety meats and by-products, heart, raw
+
+
+name: Water
+unit: g
+value: 76.21
+label: oz
+value: 21.61
+label: heart
+value: 172.23
+
+
+name: Energy
+unit: kcal
+value: 118.0
+label: oz
+value: 33.0
+label: heart
+value: 267.0
+
+
+name: Energy
+unit: kJ
+value: 494.0
+label: oz
+value: 140.0
+label: heart
+value: 1116.0
+
+
+name: Protein
+unit: g
+value: 17.27
+label: oz
+value: 4.9
+label: heart
+value: 39.03
+
+
+name: Total lipid (fat)
+unit: g
+value: 4.36
+label: oz
+value: 1.24
+label: heart
+value: 9.85
+
+
+name: Ash
+unit: g
+value: 0.84
+label: oz
+value: 0.24
+label: heart
+value: 1.9
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 1.33
+label: oz
+value: 0.38
+label: heart
+value: 3.01
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: heart
+value: 0.0
+
+
+name: Sugars, total
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: heart
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 5.0
+label: oz
+value: 1.0
+label: heart
+value: 11.0
+
+
+name: Iron, Fe
+unit: mg
+value: 4.68
+label: oz
+value: 1.33
+label: heart
+value: 10.58
+
+
+name: Magnesium, Mg
+unit: mg
+value: 19.0
+label: oz
+value: 5.0
+label: heart
+value: 43.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 169.0
+label: oz
+value: 48.0
+label: heart
+value: 382.0
+
+
+name: Potassium, K
+unit: mg
+value: 294.0
+label: oz
+value: 83.0
+label: heart
+value: 664.0
+
+
+name: Sodium, Na
+unit: mg
+value: 56.0
+label: oz
+value: 16.0
+label: heart
+value: 127.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 2.8
+label: oz
+value: 0.79
+label: heart
+value: 6.33
+
+
+name: Copper, Cu
+unit: mg
+value: 0.408
+label: oz
+value: 0.116
+label: heart
+value: 0.922
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.063
+label: oz
+value: 0.018
+label: heart
+value: 0.142
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 10.4
+label: oz
+value: 2.9
+label: heart
+value: 23.5
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 5.3
+label: oz
+value: 1.5
+label: heart
+value: 12.0
+
+
+name: Thiamin
+unit: mg
+value: 0.613
+label: oz
+value: 0.174
+label: heart
+value: 1.385
+
+
+name: Riboflavin
+unit: mg
+value: 1.185
+label: oz
+value: 0.336
+label: heart
+value: 2.678
+
+
+name: Niacin
+unit: mg
+value: 6.765
+label: oz
+value: 1.918
+label: heart
+value: 15.289
+
+
+name: Pantothenic acid
+unit: mg
+value: 2.515
+label: oz
+value: 0.713
+label: heart
+value: 5.684
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.39
+label: oz
+value: 0.111
+label: heart
+value: 0.881
+
+
+name: Folate, total
+unit: \u00B5g
+value: 4.0
+label: oz
+value: 1.0
+label: heart
+value: 9.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: heart
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 4.0
+label: oz
+value: 1.0
+label: heart
+value: 9.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 4.0
+label: oz
+value: 1.0
+label: heart
+value: 9.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 3.79
+label: oz
+value: 1.07
+label: heart
+value: 8.57
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: heart
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 8.0
+label: oz
+value: 2.0
+label: heart
+value: 18.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 8.0
+label: oz
+value: 2.0
+label: heart
+value: 18.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: heart
+value: 0.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: heart
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: heart
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 25.0
+label: oz
+value: 7.0
+label: heart
+value: 56.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: heart
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: heart
+value: 0.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.63
+label: oz
+value: 0.18
+label: heart
+value: 1.42
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: heart
+value: 0.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 1.16
+label: oz
+value: 0.329
+label: heart
+value: 2.622
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: heart
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: heart
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: heart
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: heart
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.01
+label: oz
+value: 0.003
+label: heart
+value: 0.023
+
+
+name: 14:0
+unit: g
+value: 0.08
+label: oz
+value: 0.023
+label: heart
+value: 0.181
+
+
+name: 16:0
+unit: g
+value: 0.59
+label: oz
+value: 0.167
+label: heart
+value: 1.333
+
+
+name: 18:0
+unit: g
+value: 0.45
+label: oz
+value: 0.128
+label: heart
+value: 1.017
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 1.02
+label: oz
+value: 0.289
+label: heart
+value: 2.305
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.1
+label: oz
+value: 0.028
+label: heart
+value: 0.226
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.9
+label: oz
+value: 0.255
+label: heart
+value: 2.034
+
+
+name: 20:1
+unit: g
+value: 0.018
+label: oz
+value: 0.005
+label: heart
+value: 0.041
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: heart
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 1.12
+label: oz
+value: 0.318
+label: heart
+value: 2.531
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.77
+label: oz
+value: 0.218
+label: heart
+value: 1.74
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.08
+label: oz
+value: 0.023
+label: heart
+value: 0.181
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: heart
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.27
+label: oz
+value: 0.077
+label: heart
+value: 0.61
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: heart
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: heart
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: heart
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 131.0
+label: oz
+value: 37.0
+label: heart
+value: 296.0
+
+
+name: Phytosterols
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: heart
+value: 0.0
+
+
+name: Tryptophan
+unit: g
+value: 0.199
+label: oz
+value: 0.056
+label: heart
+value: 0.45
+
+
+name: Threonine
+unit: g
+value: 0.757
+label: oz
+value: 0.215
+label: heart
+value: 1.711
+
+
+name: Isoleucine
+unit: g
+value: 0.831
+label: oz
+value: 0.236
+label: heart
+value: 1.878
+
+
+name: Leucine
+unit: g
+value: 1.558
+label: oz
+value: 0.442
+label: heart
+value: 3.521
+
+
+name: Lysine
+unit: g
+value: 1.428
+label: oz
+value: 0.405
+label: heart
+value: 3.227
+
+
+name: Methionine
+unit: g
+value: 0.442
+label: oz
+value: 0.125
+label: heart
+value: 0.999
+
+
+name: Cystine
+unit: g
+value: 0.309
+label: oz
+value: 0.088
+label: heart
+value: 0.698
+
+
+name: Phenylalanine
+unit: g
+value: 0.762
+label: oz
+value: 0.216
+label: heart
+value: 1.722
+
+
+name: Tyrosine
+unit: g
+value: 0.591
+label: oz
+value: 0.168
+label: heart
+value: 1.336
+
+
+name: Valine
+unit: g
+value: 0.914
+label: oz
+value: 0.259
+label: heart
+value: 2.066
+
+
+name: Arginine
+unit: g
+value: 1.16
+label: oz
+value: 0.329
+label: heart
+value: 2.622
+
+
+name: Histidine
+unit: g
+value: 0.439
+label: oz
+value: 0.124
+label: heart
+value: 0.992
+
+
+name: Alanine
+unit: g
+value: 1.108
+label: oz
+value: 0.314
+label: heart
+value: 2.504
+
+
+name: Aspartic acid
+unit: g
+value: 1.563
+label: oz
+value: 0.443
+label: heart
+value: 3.532
+
+
+name: Glutamic acid
+unit: g
+value: 2.77
+label: oz
+value: 0.785
+label: heart
+value: 6.26
+
+
+name: Glycine
+unit: g
+value: 0.939
+label: oz
+value: 0.266
+label: heart
+value: 2.122
+
+
+name: Proline
+unit: g
+value: 0.795
+label: oz
+value: 0.225
+label: heart
+value: 1.797
+
+
+name: Serine
+unit: g
+value: 0.812
+label: oz
+value: 0.23
+label: heart
+value: 1.835
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: heart
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: heart
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: heart
+value: 0.0
+
+
+

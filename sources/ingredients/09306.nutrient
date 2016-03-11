@@ -1,0 +1,655 @@
+ndbno: 09306
+
+
+name: Raspberries, frozen, red, sweetened
+
+
+name: Water
+unit: g
+value: 72.75
+label: cup, thawed
+value: 181.88
+label: package (10 oz)
+value: 206.61
+
+
+name: Energy
+unit: kcal
+value: 103.0
+label: cup, thawed
+value: 258.0
+label: package (10 oz)
+value: 293.0
+
+
+name: Energy
+unit: kJ
+value: 431.0
+label: cup, thawed
+value: 1078.0
+label: package (10 oz)
+value: 1224.0
+
+
+name: Protein
+unit: g
+value: 0.7
+label: cup, thawed
+value: 1.75
+label: package (10 oz)
+value: 1.99
+
+
+name: Total lipid (fat)
+unit: g
+value: 0.16
+label: cup, thawed
+value: 0.4
+label: package (10 oz)
+value: 0.45
+
+
+name: Ash
+unit: g
+value: 0.24
+label: cup, thawed
+value: 0.6
+label: package (10 oz)
+value: 0.68
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 26.16
+label: cup, thawed
+value: 65.4
+label: package (10 oz)
+value: 74.29
+
+
+name: Fiber, total dietary
+unit: g
+value: 4.4
+label: cup, thawed
+value: 11.0
+label: package (10 oz)
+value: 12.5
+
+
+name: Sugars, total
+unit: g
+value: 21.76
+label: cup, thawed
+value: 54.4
+label: package (10 oz)
+value: 61.8
+
+
+name: Calcium, Ca
+unit: mg
+value: 15.0
+label: cup, thawed
+value: 38.0
+label: package (10 oz)
+value: 43.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.65
+label: cup, thawed
+value: 1.62
+label: package (10 oz)
+value: 1.85
+
+
+name: Magnesium, Mg
+unit: mg
+value: 13.0
+label: cup, thawed
+value: 32.0
+label: package (10 oz)
+value: 37.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 17.0
+label: cup, thawed
+value: 42.0
+label: package (10 oz)
+value: 48.0
+
+
+name: Potassium, K
+unit: mg
+value: 114.0
+label: cup, thawed
+value: 285.0
+label: package (10 oz)
+value: 324.0
+
+
+name: Sodium, Na
+unit: mg
+value: 1.0
+label: cup, thawed
+value: 2.0
+label: package (10 oz)
+value: 3.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.18
+label: cup, thawed
+value: 0.45
+label: package (10 oz)
+value: 0.51
+
+
+name: Copper, Cu
+unit: mg
+value: 0.105
+label: cup, thawed
+value: 0.262
+label: package (10 oz)
+value: 0.298
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.65
+label: cup, thawed
+value: 1.625
+label: package (10 oz)
+value: 1.846
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 0.3
+label: cup, thawed
+value: 0.8
+label: package (10 oz)
+value: 0.9
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 16.5
+label: cup, thawed
+value: 41.2
+label: package (10 oz)
+value: 46.9
+
+
+name: Thiamin
+unit: mg
+value: 0.019
+label: cup, thawed
+value: 0.048
+label: package (10 oz)
+value: 0.054
+
+
+name: Riboflavin
+unit: mg
+value: 0.045
+label: cup, thawed
+value: 0.112
+label: package (10 oz)
+value: 0.128
+
+
+name: Niacin
+unit: mg
+value: 0.23
+label: cup, thawed
+value: 0.575
+label: package (10 oz)
+value: 0.653
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.15
+label: cup, thawed
+value: 0.375
+label: package (10 oz)
+value: 0.426
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.034
+label: cup, thawed
+value: 0.085
+label: package (10 oz)
+value: 0.097
+
+
+name: Folate, total
+unit: \u00B5g
+value: 26.0
+label: cup, thawed
+value: 65.0
+label: package (10 oz)
+value: 74.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: cup, thawed
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 26.0
+label: cup, thawed
+value: 65.0
+label: package (10 oz)
+value: 74.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 26.0
+label: cup, thawed
+value: 65.0
+label: package (10 oz)
+value: 74.0
+
+
+name: Choline, total
+unit: mg
+value: 10.2
+label: cup, thawed
+value: 25.5
+label: package (10 oz)
+value: 29.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: cup, thawed
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: cup, thawed
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 3.0
+label: cup, thawed
+value: 8.0
+label: package (10 oz)
+value: 9.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: cup, thawed
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 21.0
+label: cup, thawed
+value: 52.0
+label: package (10 oz)
+value: 60.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 29.0
+label: cup, thawed
+value: 72.0
+label: package (10 oz)
+value: 82.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: cup, thawed
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 60.0
+label: cup, thawed
+value: 150.0
+label: package (10 oz)
+value: 170.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: cup, thawed
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 113.0
+label: cup, thawed
+value: 282.0
+label: package (10 oz)
+value: 321.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.72
+label: cup, thawed
+value: 1.8
+label: package (10 oz)
+value: 2.04
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: cup, thawed
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: cup, thawed
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: cup, thawed
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 6.5
+label: cup, thawed
+value: 16.2
+label: package (10 oz)
+value: 18.5
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.005
+label: cup, thawed
+value: 0.012
+label: package (10 oz)
+value: 0.014
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: cup, thawed
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: cup, thawed
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: cup, thawed
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: cup, thawed
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: cup, thawed
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.0
+label: cup, thawed
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: 16:0
+unit: g
+value: 0.004
+label: cup, thawed
+value: 0.01
+label: package (10 oz)
+value: 0.011
+
+
+name: 18:0
+unit: g
+value: 0.001
+label: cup, thawed
+value: 0.002
+label: package (10 oz)
+value: 0.003
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.015
+label: cup, thawed
+value: 0.038
+label: package (10 oz)
+value: 0.043
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.0
+label: cup, thawed
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.014
+label: cup, thawed
+value: 0.035
+label: package (10 oz)
+value: 0.04
+
+
+name: 20:1
+unit: g
+value: 0.001
+label: cup, thawed
+value: 0.002
+label: package (10 oz)
+value: 0.003
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: cup, thawed
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.089
+label: cup, thawed
+value: 0.222
+label: package (10 oz)
+value: 0.253
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.059
+label: cup, thawed
+value: 0.148
+label: package (10 oz)
+value: 0.168
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.03
+label: cup, thawed
+value: 0.075
+label: package (10 oz)
+value: 0.085
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: cup, thawed
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: cup, thawed
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: cup, thawed
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: cup, thawed
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: cup, thawed
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.0
+label: cup, thawed
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: cup, thawed
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: cup, thawed
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: cup, thawed
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: cup, thawed
+value: 0.0
+label: package (10 oz)
+value: 0.0
+
+
+

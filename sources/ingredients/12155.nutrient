@@ -1,0 +1,2402 @@
+ndbno: 12155
+
+
+name: Nuts, walnuts, english
+
+
+name: Water
+unit: g
+value: 4.07
+label: cup, chopped
+value: 4.76
+label: cup, ground
+value: 3.26
+label: cup, in shell, edible yield (7 nuts)
+value: 1.14
+label: cup shelled (50 halves)
+value: 4.07
+label: cup pieces or chips
+value: 4.88
+label: oz (14 halves)
+value: 1.15
+
+
+name: Energy
+unit: kcal
+value: 654.0
+label: cup, chopped
+value: 765.0
+label: cup, ground
+value: 523.0
+label: cup, in shell, edible yield (7 nuts)
+value: 183.0
+label: cup shelled (50 halves)
+value: 654.0
+label: cup pieces or chips
+value: 785.0
+label: oz (14 halves)
+value: 185.0
+
+
+name: Energy
+unit: kJ
+value: 2738.0
+label: cup, chopped
+value: 3203.0
+label: cup, ground
+value: 2190.0
+label: cup, in shell, edible yield (7 nuts)
+value: 767.0
+label: cup shelled (50 halves)
+value: 2738.0
+label: cup pieces or chips
+value: 3286.0
+label: oz (14 halves)
+value: 776.0
+
+
+name: Protein
+unit: g
+value: 15.23
+label: cup, chopped
+value: 17.82
+label: cup, ground
+value: 12.18
+label: cup, in shell, edible yield (7 nuts)
+value: 4.26
+label: cup shelled (50 halves)
+value: 15.23
+label: cup pieces or chips
+value: 18.28
+label: oz (14 halves)
+value: 4.32
+
+
+name: Total lipid (fat)
+unit: g
+value: 65.21
+label: cup, chopped
+value: 76.3
+label: cup, ground
+value: 52.17
+label: cup, in shell, edible yield (7 nuts)
+value: 18.26
+label: cup shelled (50 halves)
+value: 65.21
+label: cup pieces or chips
+value: 78.25
+label: oz (14 halves)
+value: 18.49
+
+
+name: Ash
+unit: g
+value: 1.78
+label: cup, chopped
+value: 2.08
+label: cup, ground
+value: 1.42
+label: cup, in shell, edible yield (7 nuts)
+value: 0.5
+label: cup shelled (50 halves)
+value: 1.78
+label: cup pieces or chips
+value: 2.14
+label: oz (14 halves)
+value: 0.5
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 13.71
+label: cup, chopped
+value: 16.04
+label: cup, ground
+value: 10.97
+label: cup, in shell, edible yield (7 nuts)
+value: 3.84
+label: cup shelled (50 halves)
+value: 13.71
+label: cup pieces or chips
+value: 16.45
+label: oz (14 halves)
+value: 3.89
+
+
+name: Fiber, total dietary
+unit: g
+value: 6.7
+label: cup, chopped
+value: 7.8
+label: cup, ground
+value: 5.4
+label: cup, in shell, edible yield (7 nuts)
+value: 1.9
+label: cup shelled (50 halves)
+value: 6.7
+label: cup pieces or chips
+value: 8.0
+label: oz (14 halves)
+value: 1.9
+
+
+name: Sugars, total
+unit: g
+value: 2.61
+label: cup, chopped
+value: 3.05
+label: cup, ground
+value: 2.09
+label: cup, in shell, edible yield (7 nuts)
+value: 0.73
+label: cup shelled (50 halves)
+value: 2.61
+label: cup pieces or chips
+value: 3.13
+label: oz (14 halves)
+value: 0.74
+
+
+name: Sucrose
+unit: g
+value: 2.43
+label: cup, chopped
+value: 2.84
+label: cup, ground
+value: 1.94
+label: cup, in shell, edible yield (7 nuts)
+value: 0.68
+label: cup shelled (50 halves)
+value: 2.43
+label: cup pieces or chips
+value: 2.92
+label: oz (14 halves)
+value: 0.69
+
+
+name: Glucose (dextrose)
+unit: g
+value: 0.08
+label: cup, chopped
+value: 0.09
+label: cup, ground
+value: 0.06
+label: cup, in shell, edible yield (7 nuts)
+value: 0.02
+label: cup shelled (50 halves)
+value: 0.08
+label: cup pieces or chips
+value: 0.1
+label: oz (14 halves)
+value: 0.02
+
+
+name: Fructose
+unit: g
+value: 0.09
+label: cup, chopped
+value: 0.11
+label: cup, ground
+value: 0.07
+label: cup, in shell, edible yield (7 nuts)
+value: 0.03
+label: cup shelled (50 halves)
+value: 0.09
+label: cup pieces or chips
+value: 0.11
+label: oz (14 halves)
+value: 0.03
+
+
+name: Lactose
+unit: g
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: cup, ground
+value: 0.0
+label: cup, in shell, edible yield (7 nuts)
+value: 0.0
+label: cup shelled (50 halves)
+value: 0.0
+label: cup pieces or chips
+value: 0.0
+label: oz (14 halves)
+value: 0.0
+
+
+name: Maltose
+unit: g
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: cup, ground
+value: 0.0
+label: cup, in shell, edible yield (7 nuts)
+value: 0.0
+label: cup shelled (50 halves)
+value: 0.0
+label: cup pieces or chips
+value: 0.0
+label: oz (14 halves)
+value: 0.0
+
+
+name: Starch
+unit: g
+value: 0.06
+label: cup, chopped
+value: 0.07
+label: cup, ground
+value: 0.05
+label: cup, in shell, edible yield (7 nuts)
+value: 0.02
+label: cup shelled (50 halves)
+value: 0.06
+label: cup pieces or chips
+value: 0.07
+label: oz (14 halves)
+value: 0.02
+
+
+name: Calcium, Ca
+unit: mg
+value: 98.0
+label: cup, chopped
+value: 115.0
+label: cup, ground
+value: 78.0
+label: cup, in shell, edible yield (7 nuts)
+value: 27.0
+label: cup shelled (50 halves)
+value: 98.0
+label: cup pieces or chips
+value: 118.0
+label: oz (14 halves)
+value: 28.0
+
+
+name: Iron, Fe
+unit: mg
+value: 2.91
+label: cup, chopped
+value: 3.4
+label: cup, ground
+value: 2.33
+label: cup, in shell, edible yield (7 nuts)
+value: 0.81
+label: cup shelled (50 halves)
+value: 2.91
+label: cup pieces or chips
+value: 3.49
+label: oz (14 halves)
+value: 0.82
+
+
+name: Magnesium, Mg
+unit: mg
+value: 158.0
+label: cup, chopped
+value: 185.0
+label: cup, ground
+value: 126.0
+label: cup, in shell, edible yield (7 nuts)
+value: 44.0
+label: cup shelled (50 halves)
+value: 158.0
+label: cup pieces or chips
+value: 190.0
+label: oz (14 halves)
+value: 45.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 346.0
+label: cup, chopped
+value: 405.0
+label: cup, ground
+value: 277.0
+label: cup, in shell, edible yield (7 nuts)
+value: 97.0
+label: cup shelled (50 halves)
+value: 346.0
+label: cup pieces or chips
+value: 415.0
+label: oz (14 halves)
+value: 98.0
+
+
+name: Potassium, K
+unit: mg
+value: 441.0
+label: cup, chopped
+value: 516.0
+label: cup, ground
+value: 353.0
+label: cup, in shell, edible yield (7 nuts)
+value: 123.0
+label: cup shelled (50 halves)
+value: 441.0
+label: cup pieces or chips
+value: 529.0
+label: oz (14 halves)
+value: 125.0
+
+
+name: Sodium, Na
+unit: mg
+value: 2.0
+label: cup, chopped
+value: 2.0
+label: cup, ground
+value: 2.0
+label: cup, in shell, edible yield (7 nuts)
+value: 1.0
+label: cup shelled (50 halves)
+value: 2.0
+label: cup pieces or chips
+value: 2.0
+label: oz (14 halves)
+value: 1.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 3.09
+label: cup, chopped
+value: 3.62
+label: cup, ground
+value: 2.47
+label: cup, in shell, edible yield (7 nuts)
+value: 0.87
+label: cup shelled (50 halves)
+value: 3.09
+label: cup pieces or chips
+value: 3.71
+label: oz (14 halves)
+value: 0.88
+
+
+name: Copper, Cu
+unit: mg
+value: 1.586
+label: cup, chopped
+value: 1.856
+label: cup, ground
+value: 1.269
+label: cup, in shell, edible yield (7 nuts)
+value: 0.444
+label: cup shelled (50 halves)
+value: 1.586
+label: cup pieces or chips
+value: 1.903
+label: oz (14 halves)
+value: 0.45
+
+
+name: Manganese, Mn
+unit: mg
+value: 3.414
+label: cup, chopped
+value: 3.994
+label: cup, ground
+value: 2.731
+label: cup, in shell, edible yield (7 nuts)
+value: 0.956
+label: cup shelled (50 halves)
+value: 3.414
+label: cup pieces or chips
+value: 4.097
+label: oz (14 halves)
+value: 0.968
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 4.9
+label: cup, chopped
+value: 5.7
+label: cup, ground
+value: 3.9
+label: cup, in shell, edible yield (7 nuts)
+value: 1.4
+label: cup shelled (50 halves)
+value: 4.9
+label: cup pieces or chips
+value: 5.9
+label: oz (14 halves)
+value: 1.4
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 1.3
+label: cup, chopped
+value: 1.5
+label: cup, ground
+value: 1.0
+label: cup, in shell, edible yield (7 nuts)
+value: 0.4
+label: cup shelled (50 halves)
+value: 1.3
+label: cup pieces or chips
+value: 1.6
+label: oz (14 halves)
+value: 0.4
+
+
+name: Thiamin
+unit: mg
+value: 0.341
+label: cup, chopped
+value: 0.399
+label: cup, ground
+value: 0.273
+label: cup, in shell, edible yield (7 nuts)
+value: 0.095
+label: cup shelled (50 halves)
+value: 0.341
+label: cup pieces or chips
+value: 0.409
+label: oz (14 halves)
+value: 0.097
+
+
+name: Riboflavin
+unit: mg
+value: 0.15
+label: cup, chopped
+value: 0.176
+label: cup, ground
+value: 0.12
+label: cup, in shell, edible yield (7 nuts)
+value: 0.042
+label: cup shelled (50 halves)
+value: 0.15
+label: cup pieces or chips
+value: 0.18
+label: oz (14 halves)
+value: 0.043
+
+
+name: Niacin
+unit: mg
+value: 1.125
+label: cup, chopped
+value: 1.316
+label: cup, ground
+value: 0.9
+label: cup, in shell, edible yield (7 nuts)
+value: 0.315
+label: cup shelled (50 halves)
+value: 1.125
+label: cup pieces or chips
+value: 1.35
+label: oz (14 halves)
+value: 0.319
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.57
+label: cup, chopped
+value: 0.667
+label: cup, ground
+value: 0.456
+label: cup, in shell, edible yield (7 nuts)
+value: 0.16
+label: cup shelled (50 halves)
+value: 0.57
+label: cup pieces or chips
+value: 0.684
+label: oz (14 halves)
+value: 0.162
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.537
+label: cup, chopped
+value: 0.628
+label: cup, ground
+value: 0.43
+label: cup, in shell, edible yield (7 nuts)
+value: 0.15
+label: cup shelled (50 halves)
+value: 0.537
+label: cup pieces or chips
+value: 0.644
+label: oz (14 halves)
+value: 0.152
+
+
+name: Folate, total
+unit: \u00B5g
+value: 98.0
+label: cup, chopped
+value: 115.0
+label: cup, ground
+value: 78.0
+label: cup, in shell, edible yield (7 nuts)
+value: 27.0
+label: cup shelled (50 halves)
+value: 98.0
+label: cup pieces or chips
+value: 118.0
+label: oz (14 halves)
+value: 28.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: cup, ground
+value: 0.0
+label: cup, in shell, edible yield (7 nuts)
+value: 0.0
+label: cup shelled (50 halves)
+value: 0.0
+label: cup pieces or chips
+value: 0.0
+label: oz (14 halves)
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 98.0
+label: cup, chopped
+value: 115.0
+label: cup, ground
+value: 78.0
+label: cup, in shell, edible yield (7 nuts)
+value: 27.0
+label: cup shelled (50 halves)
+value: 98.0
+label: cup pieces or chips
+value: 118.0
+label: oz (14 halves)
+value: 28.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 98.0
+label: cup, chopped
+value: 115.0
+label: cup, ground
+value: 78.0
+label: cup, in shell, edible yield (7 nuts)
+value: 27.0
+label: cup shelled (50 halves)
+value: 98.0
+label: cup pieces or chips
+value: 118.0
+label: oz (14 halves)
+value: 28.0
+
+
+name: Choline, total
+unit: mg
+value: 39.2
+label: cup, chopped
+value: 45.9
+label: cup, ground
+value: 31.4
+label: cup, in shell, edible yield (7 nuts)
+value: 11.0
+label: cup shelled (50 halves)
+value: 39.2
+label: cup pieces or chips
+value: 47.0
+label: oz (14 halves)
+value: 11.1
+
+
+name: Betaine
+unit: mg
+value: 0.3
+label: cup, chopped
+value: 0.4
+label: cup, ground
+value: 0.2
+label: cup, in shell, edible yield (7 nuts)
+value: 0.1
+label: cup shelled (50 halves)
+value: 0.3
+label: cup pieces or chips
+value: 0.4
+label: oz (14 halves)
+value: 0.1
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: cup, ground
+value: 0.0
+label: cup, in shell, edible yield (7 nuts)
+value: 0.0
+label: cup shelled (50 halves)
+value: 0.0
+label: cup pieces or chips
+value: 0.0
+label: oz (14 halves)
+value: 0.0
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: cup, ground
+value: 0.0
+label: cup, in shell, edible yield (7 nuts)
+value: 0.0
+label: cup shelled (50 halves)
+value: 0.0
+label: cup pieces or chips
+value: 0.0
+label: oz (14 halves)
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 1.0
+label: cup, chopped
+value: 1.0
+label: cup, ground
+value: 1.0
+label: cup, in shell, edible yield (7 nuts)
+value: 0.0
+label: cup shelled (50 halves)
+value: 1.0
+label: cup pieces or chips
+value: 1.0
+label: oz (14 halves)
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: cup, ground
+value: 0.0
+label: cup, in shell, edible yield (7 nuts)
+value: 0.0
+label: cup shelled (50 halves)
+value: 0.0
+label: cup pieces or chips
+value: 0.0
+label: oz (14 halves)
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 12.0
+label: cup, chopped
+value: 14.0
+label: cup, ground
+value: 10.0
+label: cup, in shell, edible yield (7 nuts)
+value: 3.0
+label: cup shelled (50 halves)
+value: 12.0
+label: cup pieces or chips
+value: 14.0
+label: oz (14 halves)
+value: 3.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: cup, ground
+value: 0.0
+label: cup, in shell, edible yield (7 nuts)
+value: 0.0
+label: cup shelled (50 halves)
+value: 0.0
+label: cup pieces or chips
+value: 0.0
+label: oz (14 halves)
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: cup, ground
+value: 0.0
+label: cup, in shell, edible yield (7 nuts)
+value: 0.0
+label: cup shelled (50 halves)
+value: 0.0
+label: cup pieces or chips
+value: 0.0
+label: oz (14 halves)
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 20.0
+label: cup, chopped
+value: 23.0
+label: cup, ground
+value: 16.0
+label: cup, in shell, edible yield (7 nuts)
+value: 6.0
+label: cup shelled (50 halves)
+value: 20.0
+label: cup pieces or chips
+value: 24.0
+label: oz (14 halves)
+value: 6.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: cup, ground
+value: 0.0
+label: cup, in shell, edible yield (7 nuts)
+value: 0.0
+label: cup shelled (50 halves)
+value: 0.0
+label: cup pieces or chips
+value: 0.0
+label: oz (14 halves)
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 9.0
+label: cup, chopped
+value: 11.0
+label: cup, ground
+value: 7.0
+label: cup, in shell, edible yield (7 nuts)
+value: 3.0
+label: cup shelled (50 halves)
+value: 9.0
+label: cup pieces or chips
+value: 11.0
+label: oz (14 halves)
+value: 3.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.7
+label: cup, chopped
+value: 0.82
+label: cup, ground
+value: 0.56
+label: cup, in shell, edible yield (7 nuts)
+value: 0.2
+label: cup shelled (50 halves)
+value: 0.7
+label: cup pieces or chips
+value: 0.84
+label: oz (14 halves)
+value: 0.2
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: cup, ground
+value: 0.0
+label: cup, in shell, edible yield (7 nuts)
+value: 0.0
+label: cup shelled (50 halves)
+value: 0.0
+label: cup pieces or chips
+value: 0.0
+label: oz (14 halves)
+value: 0.0
+
+
+name: Tocopherol, beta
+unit: mg
+value: 0.15
+label: cup, chopped
+value: 0.18
+label: cup, ground
+value: 0.12
+label: cup, in shell, edible yield (7 nuts)
+value: 0.04
+label: cup shelled (50 halves)
+value: 0.15
+label: cup pieces or chips
+value: 0.18
+label: oz (14 halves)
+value: 0.04
+
+
+name: Tocopherol, gamma
+unit: mg
+value: 20.83
+label: cup, chopped
+value: 24.37
+label: cup, ground
+value: 16.66
+label: cup, in shell, edible yield (7 nuts)
+value: 5.83
+label: cup shelled (50 halves)
+value: 20.83
+label: cup pieces or chips
+value: 25.0
+label: oz (14 halves)
+value: 5.91
+
+
+name: Tocopherol, delta
+unit: mg
+value: 1.89
+label: cup, chopped
+value: 2.21
+label: cup, ground
+value: 1.51
+label: cup, in shell, edible yield (7 nuts)
+value: 0.53
+label: cup shelled (50 halves)
+value: 1.89
+label: cup pieces or chips
+value: 2.27
+label: oz (14 halves)
+value: 0.54
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: cup, ground
+value: 0.0
+label: cup, in shell, edible yield (7 nuts)
+value: 0.0
+label: cup shelled (50 halves)
+value: 0.0
+label: cup pieces or chips
+value: 0.0
+label: oz (14 halves)
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: cup, ground
+value: 0.0
+label: cup, in shell, edible yield (7 nuts)
+value: 0.0
+label: cup shelled (50 halves)
+value: 0.0
+label: cup pieces or chips
+value: 0.0
+label: oz (14 halves)
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 2.7
+label: cup, chopped
+value: 3.2
+label: cup, ground
+value: 2.2
+label: cup, in shell, edible yield (7 nuts)
+value: 0.8
+label: cup shelled (50 halves)
+value: 2.7
+label: cup pieces or chips
+value: 3.2
+label: oz (14 halves)
+value: 0.8
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 6.126
+label: cup, chopped
+value: 7.167
+label: cup, ground
+value: 4.901
+label: cup, in shell, edible yield (7 nuts)
+value: 1.715
+label: cup shelled (50 halves)
+value: 6.126
+label: cup pieces or chips
+value: 7.351
+label: oz (14 halves)
+value: 1.737
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: cup, ground
+value: 0.0
+label: cup, in shell, edible yield (7 nuts)
+value: 0.0
+label: cup shelled (50 halves)
+value: 0.0
+label: cup pieces or chips
+value: 0.0
+label: oz (14 halves)
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: cup, ground
+value: 0.0
+label: cup, in shell, edible yield (7 nuts)
+value: 0.0
+label: cup shelled (50 halves)
+value: 0.0
+label: cup pieces or chips
+value: 0.0
+label: oz (14 halves)
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: cup, ground
+value: 0.0
+label: cup, in shell, edible yield (7 nuts)
+value: 0.0
+label: cup shelled (50 halves)
+value: 0.0
+label: cup pieces or chips
+value: 0.0
+label: oz (14 halves)
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: cup, ground
+value: 0.0
+label: cup, in shell, edible yield (7 nuts)
+value: 0.0
+label: cup shelled (50 halves)
+value: 0.0
+label: cup pieces or chips
+value: 0.0
+label: oz (14 halves)
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: cup, ground
+value: 0.0
+label: cup, in shell, edible yield (7 nuts)
+value: 0.0
+label: cup shelled (50 halves)
+value: 0.0
+label: cup pieces or chips
+value: 0.0
+label: oz (14 halves)
+value: 0.0
+
+
+name: 13:0
+unit: g
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: cup, ground
+value: 0.0
+label: cup, in shell, edible yield (7 nuts)
+value: 0.0
+label: cup shelled (50 halves)
+value: 0.0
+label: cup pieces or chips
+value: 0.0
+label: oz (14 halves)
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: cup, ground
+value: 0.0
+label: cup, in shell, edible yield (7 nuts)
+value: 0.0
+label: cup shelled (50 halves)
+value: 0.0
+label: cup pieces or chips
+value: 0.0
+label: oz (14 halves)
+value: 0.0
+
+
+name: 15:0
+unit: g
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: cup, ground
+value: 0.0
+label: cup, in shell, edible yield (7 nuts)
+value: 0.0
+label: cup shelled (50 halves)
+value: 0.0
+label: cup pieces or chips
+value: 0.0
+label: oz (14 halves)
+value: 0.0
+
+
+name: 16:0
+unit: g
+value: 4.404
+label: cup, chopped
+value: 5.153
+label: cup, ground
+value: 3.523
+label: cup, in shell, edible yield (7 nuts)
+value: 1.233
+label: cup shelled (50 halves)
+value: 4.404
+label: cup pieces or chips
+value: 5.285
+label: oz (14 halves)
+value: 1.249
+
+
+name: 17:0
+unit: g
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: cup, ground
+value: 0.0
+label: cup, in shell, edible yield (7 nuts)
+value: 0.0
+label: cup shelled (50 halves)
+value: 0.0
+label: cup pieces or chips
+value: 0.0
+label: oz (14 halves)
+value: 0.0
+
+
+name: 18:0
+unit: g
+value: 1.659
+label: cup, chopped
+value: 1.941
+label: cup, ground
+value: 1.327
+label: cup, in shell, edible yield (7 nuts)
+value: 0.465
+label: cup shelled (50 halves)
+value: 1.659
+label: cup pieces or chips
+value: 1.991
+label: oz (14 halves)
+value: 0.47
+
+
+name: 20:0
+unit: g
+value: 0.063
+label: cup, chopped
+value: 0.074
+label: cup, ground
+value: 0.05
+label: cup, in shell, edible yield (7 nuts)
+value: 0.018
+label: cup shelled (50 halves)
+value: 0.063
+label: cup pieces or chips
+value: 0.076
+label: oz (14 halves)
+value: 0.018
+
+
+name: 22:0
+unit: g
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: cup, ground
+value: 0.0
+label: cup, in shell, edible yield (7 nuts)
+value: 0.0
+label: cup shelled (50 halves)
+value: 0.0
+label: cup pieces or chips
+value: 0.0
+label: oz (14 halves)
+value: 0.0
+
+
+name: 24:0
+unit: g
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: cup, ground
+value: 0.0
+label: cup, in shell, edible yield (7 nuts)
+value: 0.0
+label: cup shelled (50 halves)
+value: 0.0
+label: cup pieces or chips
+value: 0.0
+label: oz (14 halves)
+value: 0.0
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 8.933
+label: cup, chopped
+value: 10.452
+label: cup, ground
+value: 7.146
+label: cup, in shell, edible yield (7 nuts)
+value: 2.501
+label: cup shelled (50 halves)
+value: 8.933
+label: cup pieces or chips
+value: 10.72
+label: oz (14 halves)
+value: 2.533
+
+
+name: 14:1
+unit: g
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: cup, ground
+value: 0.0
+label: cup, in shell, edible yield (7 nuts)
+value: 0.0
+label: cup shelled (50 halves)
+value: 0.0
+label: cup pieces or chips
+value: 0.0
+label: oz (14 halves)
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: cup, ground
+value: 0.0
+label: cup, in shell, edible yield (7 nuts)
+value: 0.0
+label: cup shelled (50 halves)
+value: 0.0
+label: cup pieces or chips
+value: 0.0
+label: oz (14 halves)
+value: 0.0
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 8.799
+label: cup, chopped
+value: 10.295
+label: cup, ground
+value: 7.039
+label: cup, in shell, edible yield (7 nuts)
+value: 2.464
+label: cup shelled (50 halves)
+value: 8.799
+label: cup pieces or chips
+value: 10.559
+label: oz (14 halves)
+value: 2.495
+
+
+name: 20:1
+unit: g
+value: 0.134
+label: cup, chopped
+value: 0.157
+label: cup, ground
+value: 0.107
+label: cup, in shell, edible yield (7 nuts)
+value: 0.038
+label: cup shelled (50 halves)
+value: 0.134
+label: cup pieces or chips
+value: 0.161
+label: oz (14 halves)
+value: 0.038
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: cup, ground
+value: 0.0
+label: cup, in shell, edible yield (7 nuts)
+value: 0.0
+label: cup shelled (50 halves)
+value: 0.0
+label: cup pieces or chips
+value: 0.0
+label: oz (14 halves)
+value: 0.0
+
+
+name: 24:1 c
+unit: g
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: cup, ground
+value: 0.0
+label: cup, in shell, edible yield (7 nuts)
+value: 0.0
+label: cup shelled (50 halves)
+value: 0.0
+label: cup pieces or chips
+value: 0.0
+label: oz (14 halves)
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 47.174
+label: cup, chopped
+value: 55.194
+label: cup, ground
+value: 37.739
+label: cup, in shell, edible yield (7 nuts)
+value: 13.209
+label: cup shelled (50 halves)
+value: 47.174
+label: cup pieces or chips
+value: 56.609
+label: oz (14 halves)
+value: 13.374
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 38.093
+label: cup, chopped
+value: 44.569
+label: cup, ground
+value: 30.474
+label: cup, in shell, edible yield (7 nuts)
+value: 10.666
+label: cup shelled (50 halves)
+value: 38.093
+label: cup pieces or chips
+value: 45.712
+label: oz (14 halves)
+value: 10.799
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 9.08
+label: cup, chopped
+value: 10.624
+label: cup, ground
+value: 7.264
+label: cup, in shell, edible yield (7 nuts)
+value: 2.542
+label: cup shelled (50 halves)
+value: 9.08
+label: cup pieces or chips
+value: 10.896
+label: oz (14 halves)
+value: 2.574
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: cup, ground
+value: 0.0
+label: cup, in shell, edible yield (7 nuts)
+value: 0.0
+label: cup shelled (50 halves)
+value: 0.0
+label: cup pieces or chips
+value: 0.0
+label: oz (14 halves)
+value: 0.0
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: cup, ground
+value: 0.0
+label: cup, in shell, edible yield (7 nuts)
+value: 0.0
+label: cup shelled (50 halves)
+value: 0.0
+label: cup pieces or chips
+value: 0.0
+label: oz (14 halves)
+value: 0.0
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: cup, ground
+value: 0.0
+label: cup, in shell, edible yield (7 nuts)
+value: 0.0
+label: cup shelled (50 halves)
+value: 0.0
+label: cup pieces or chips
+value: 0.0
+label: oz (14 halves)
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: cup, ground
+value: 0.0
+label: cup, in shell, edible yield (7 nuts)
+value: 0.0
+label: cup shelled (50 halves)
+value: 0.0
+label: cup pieces or chips
+value: 0.0
+label: oz (14 halves)
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: cup, ground
+value: 0.0
+label: cup, in shell, edible yield (7 nuts)
+value: 0.0
+label: cup shelled (50 halves)
+value: 0.0
+label: cup pieces or chips
+value: 0.0
+label: oz (14 halves)
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: cup, ground
+value: 0.0
+label: cup, in shell, edible yield (7 nuts)
+value: 0.0
+label: cup shelled (50 halves)
+value: 0.0
+label: cup pieces or chips
+value: 0.0
+label: oz (14 halves)
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: cup, ground
+value: 0.0
+label: cup, in shell, edible yield (7 nuts)
+value: 0.0
+label: cup shelled (50 halves)
+value: 0.0
+label: cup pieces or chips
+value: 0.0
+label: oz (14 halves)
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: cup, ground
+value: 0.0
+label: cup, in shell, edible yield (7 nuts)
+value: 0.0
+label: cup shelled (50 halves)
+value: 0.0
+label: cup pieces or chips
+value: 0.0
+label: oz (14 halves)
+value: 0.0
+
+
+name: Stigmasterol
+unit: mg
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: cup, ground
+value: 0.0
+label: cup, in shell, edible yield (7 nuts)
+value: 0.0
+label: cup shelled (50 halves)
+value: 0.0
+label: cup pieces or chips
+value: 0.0
+label: oz (14 halves)
+value: 0.0
+
+
+name: Campesterol
+unit: mg
+value: 5.0
+label: cup, chopped
+value: 6.0
+label: cup, ground
+value: 4.0
+label: cup, in shell, edible yield (7 nuts)
+value: 1.0
+label: cup shelled (50 halves)
+value: 5.0
+label: cup pieces or chips
+value: 6.0
+label: oz (14 halves)
+value: 1.0
+
+
+name: Beta-sitosterol
+unit: mg
+value: 87.0
+label: cup, chopped
+value: 102.0
+label: cup, ground
+value: 70.0
+label: cup, in shell, edible yield (7 nuts)
+value: 24.0
+label: cup shelled (50 halves)
+value: 87.0
+label: cup pieces or chips
+value: 104.0
+label: oz (14 halves)
+value: 25.0
+
+
+name: Tryptophan
+unit: g
+value: 0.17
+label: cup, chopped
+value: 0.199
+label: cup, ground
+value: 0.136
+label: cup, in shell, edible yield (7 nuts)
+value: 0.048
+label: cup shelled (50 halves)
+value: 0.17
+label: cup pieces or chips
+value: 0.204
+label: oz (14 halves)
+value: 0.048
+
+
+name: Threonine
+unit: g
+value: 0.596
+label: cup, chopped
+value: 0.697
+label: cup, ground
+value: 0.477
+label: cup, in shell, edible yield (7 nuts)
+value: 0.167
+label: cup shelled (50 halves)
+value: 0.596
+label: cup pieces or chips
+value: 0.715
+label: oz (14 halves)
+value: 0.169
+
+
+name: Isoleucine
+unit: g
+value: 0.625
+label: cup, chopped
+value: 0.731
+label: cup, ground
+value: 0.5
+label: cup, in shell, edible yield (7 nuts)
+value: 0.175
+label: cup shelled (50 halves)
+value: 0.625
+label: cup pieces or chips
+value: 0.75
+label: oz (14 halves)
+value: 0.177
+
+
+name: Leucine
+unit: g
+value: 1.17
+label: cup, chopped
+value: 1.369
+label: cup, ground
+value: 0.936
+label: cup, in shell, edible yield (7 nuts)
+value: 0.328
+label: cup shelled (50 halves)
+value: 1.17
+label: cup pieces or chips
+value: 1.404
+label: oz (14 halves)
+value: 0.332
+
+
+name: Lysine
+unit: g
+value: 0.424
+label: cup, chopped
+value: 0.496
+label: cup, ground
+value: 0.339
+label: cup, in shell, edible yield (7 nuts)
+value: 0.119
+label: cup shelled (50 halves)
+value: 0.424
+label: cup pieces or chips
+value: 0.509
+label: oz (14 halves)
+value: 0.12
+
+
+name: Methionine
+unit: g
+value: 0.236
+label: cup, chopped
+value: 0.276
+label: cup, ground
+value: 0.189
+label: cup, in shell, edible yield (7 nuts)
+value: 0.066
+label: cup shelled (50 halves)
+value: 0.236
+label: cup pieces or chips
+value: 0.283
+label: oz (14 halves)
+value: 0.067
+
+
+name: Cystine
+unit: g
+value: 0.208
+label: cup, chopped
+value: 0.243
+label: cup, ground
+value: 0.166
+label: cup, in shell, edible yield (7 nuts)
+value: 0.058
+label: cup shelled (50 halves)
+value: 0.208
+label: cup pieces or chips
+value: 0.25
+label: oz (14 halves)
+value: 0.059
+
+
+name: Phenylalanine
+unit: g
+value: 0.711
+label: cup, chopped
+value: 0.832
+label: cup, ground
+value: 0.569
+label: cup, in shell, edible yield (7 nuts)
+value: 0.199
+label: cup shelled (50 halves)
+value: 0.711
+label: cup pieces or chips
+value: 0.853
+label: oz (14 halves)
+value: 0.202
+
+
+name: Tyrosine
+unit: g
+value: 0.406
+label: cup, chopped
+value: 0.475
+label: cup, ground
+value: 0.325
+label: cup, in shell, edible yield (7 nuts)
+value: 0.114
+label: cup shelled (50 halves)
+value: 0.406
+label: cup pieces or chips
+value: 0.487
+label: oz (14 halves)
+value: 0.115
+
+
+name: Valine
+unit: g
+value: 0.753
+label: cup, chopped
+value: 0.881
+label: cup, ground
+value: 0.602
+label: cup, in shell, edible yield (7 nuts)
+value: 0.211
+label: cup shelled (50 halves)
+value: 0.753
+label: cup pieces or chips
+value: 0.904
+label: oz (14 halves)
+value: 0.213
+
+
+name: Arginine
+unit: g
+value: 2.278
+label: cup, chopped
+value: 2.665
+label: cup, ground
+value: 1.822
+label: cup, in shell, edible yield (7 nuts)
+value: 0.638
+label: cup shelled (50 halves)
+value: 2.278
+label: cup pieces or chips
+value: 2.734
+label: oz (14 halves)
+value: 0.646
+
+
+name: Histidine
+unit: g
+value: 0.391
+label: cup, chopped
+value: 0.457
+label: cup, ground
+value: 0.313
+label: cup, in shell, edible yield (7 nuts)
+value: 0.109
+label: cup shelled (50 halves)
+value: 0.391
+label: cup pieces or chips
+value: 0.469
+label: oz (14 halves)
+value: 0.111
+
+
+name: Alanine
+unit: g
+value: 0.696
+label: cup, chopped
+value: 0.814
+label: cup, ground
+value: 0.557
+label: cup, in shell, edible yield (7 nuts)
+value: 0.195
+label: cup shelled (50 halves)
+value: 0.696
+label: cup pieces or chips
+value: 0.835
+label: oz (14 halves)
+value: 0.197
+
+
+name: Aspartic acid
+unit: g
+value: 1.829
+label: cup, chopped
+value: 2.14
+label: cup, ground
+value: 1.463
+label: cup, in shell, edible yield (7 nuts)
+value: 0.512
+label: cup shelled (50 halves)
+value: 1.829
+label: cup pieces or chips
+value: 2.195
+label: oz (14 halves)
+value: 0.519
+
+
+name: Glutamic acid
+unit: g
+value: 2.816
+label: cup, chopped
+value: 3.295
+label: cup, ground
+value: 2.253
+label: cup, in shell, edible yield (7 nuts)
+value: 0.788
+label: cup shelled (50 halves)
+value: 2.816
+label: cup pieces or chips
+value: 3.379
+label: oz (14 halves)
+value: 0.798
+
+
+name: Glycine
+unit: g
+value: 0.816
+label: cup, chopped
+value: 0.955
+label: cup, ground
+value: 0.653
+label: cup, in shell, edible yield (7 nuts)
+value: 0.228
+label: cup shelled (50 halves)
+value: 0.816
+label: cup pieces or chips
+value: 0.979
+label: oz (14 halves)
+value: 0.231
+
+
+name: Proline
+unit: g
+value: 0.706
+label: cup, chopped
+value: 0.826
+label: cup, ground
+value: 0.565
+label: cup, in shell, edible yield (7 nuts)
+value: 0.198
+label: cup shelled (50 halves)
+value: 0.706
+label: cup pieces or chips
+value: 0.847
+label: oz (14 halves)
+value: 0.2
+
+
+name: Serine
+unit: g
+value: 0.934
+label: cup, chopped
+value: 1.093
+label: cup, ground
+value: 0.747
+label: cup, in shell, edible yield (7 nuts)
+value: 0.262
+label: cup shelled (50 halves)
+value: 0.934
+label: cup pieces or chips
+value: 1.121
+label: oz (14 halves)
+value: 0.265
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: cup, ground
+value: 0.0
+label: cup, in shell, edible yield (7 nuts)
+value: 0.0
+label: cup shelled (50 halves)
+value: 0.0
+label: cup pieces or chips
+value: 0.0
+label: oz (14 halves)
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: cup, ground
+value: 0.0
+label: cup, in shell, edible yield (7 nuts)
+value: 0.0
+label: cup shelled (50 halves)
+value: 0.0
+label: cup pieces or chips
+value: 0.0
+label: oz (14 halves)
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: cup, ground
+value: 0.0
+label: cup, in shell, edible yield (7 nuts)
+value: 0.0
+label: cup shelled (50 halves)
+value: 0.0
+label: cup pieces or chips
+value: 0.0
+label: oz (14 halves)
+value: 0.0
+
+
+name: Cyanidin
+unit: mg
+value: 2.71
+label: cup, chopped
+value: 3.17
+label: cup, ground
+value: 2.17
+label: cup, in shell, edible yield (7 nuts)
+value: 0.76
+label: cup shelled (50 halves)
+value: 2.71
+label: cup pieces or chips
+value: 3.25
+label: oz (14 halves)
+value: 0.77
+
+
+name: Petunidin
+unit: mg
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: cup, ground
+value: 0.0
+label: cup, in shell, edible yield (7 nuts)
+value: 0.0
+label: cup shelled (50 halves)
+value: 0.0
+label: cup pieces or chips
+value: 0.0
+label: oz (14 halves)
+value: 0.0
+
+
+name: Delphinidin
+unit: mg
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: cup, ground
+value: 0.0
+label: cup, in shell, edible yield (7 nuts)
+value: 0.0
+label: cup shelled (50 halves)
+value: 0.0
+label: cup pieces or chips
+value: 0.0
+label: oz (14 halves)
+value: 0.0
+
+
+name: Malvidin
+unit: mg
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: cup, ground
+value: 0.0
+label: cup, in shell, edible yield (7 nuts)
+value: 0.0
+label: cup shelled (50 halves)
+value: 0.0
+label: cup pieces or chips
+value: 0.0
+label: oz (14 halves)
+value: 0.0
+
+
+name: Pelargonidin
+unit: mg
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: cup, ground
+value: 0.0
+label: cup, in shell, edible yield (7 nuts)
+value: 0.0
+label: cup shelled (50 halves)
+value: 0.0
+label: cup pieces or chips
+value: 0.0
+label: oz (14 halves)
+value: 0.0
+
+
+name: Peonidin
+unit: mg
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: cup, ground
+value: 0.0
+label: cup, in shell, edible yield (7 nuts)
+value: 0.0
+label: cup shelled (50 halves)
+value: 0.0
+label: cup pieces or chips
+value: 0.0
+label: oz (14 halves)
+value: 0.0
+
+
+name: (+)-Catechin
+unit: mg
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: cup, ground
+value: 0.0
+label: cup, in shell, edible yield (7 nuts)
+value: 0.0
+label: cup shelled (50 halves)
+value: 0.0
+label: cup pieces or chips
+value: 0.0
+label: oz (14 halves)
+value: 0.0
+
+
+name: (-)-Epigallocatechin
+unit: mg
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: cup, ground
+value: 0.0
+label: cup, in shell, edible yield (7 nuts)
+value: 0.0
+label: cup shelled (50 halves)
+value: 0.0
+label: cup pieces or chips
+value: 0.0
+label: oz (14 halves)
+value: 0.0
+
+
+name: (-)-Epicatechin
+unit: mg
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: cup, ground
+value: 0.0
+label: cup, in shell, edible yield (7 nuts)
+value: 0.0
+label: cup shelled (50 halves)
+value: 0.0
+label: cup pieces or chips
+value: 0.0
+label: oz (14 halves)
+value: 0.0
+
+
+name: (-)-Epicatechin 3-gallate
+unit: mg
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: cup, ground
+value: 0.0
+label: cup, in shell, edible yield (7 nuts)
+value: 0.0
+label: cup shelled (50 halves)
+value: 0.0
+label: cup pieces or chips
+value: 0.0
+label: oz (14 halves)
+value: 0.0
+
+
+name: (-)-Epigallocatechin 3-gallate
+unit: mg
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: cup, ground
+value: 0.0
+label: cup, in shell, edible yield (7 nuts)
+value: 0.0
+label: cup shelled (50 halves)
+value: 0.0
+label: cup pieces or chips
+value: 0.0
+label: oz (14 halves)
+value: 0.0
+
+
+name: (+)-Gallocatechin
+unit: mg
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: cup, ground
+value: 0.0
+label: cup, in shell, edible yield (7 nuts)
+value: 0.0
+label: cup shelled (50 halves)
+value: 0.0
+label: cup pieces or chips
+value: 0.0
+label: oz (14 halves)
+value: 0.0
+
+
+name: Hesperetin
+unit: mg
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: cup, ground
+value: 0.0
+label: cup, in shell, edible yield (7 nuts)
+value: 0.0
+label: cup shelled (50 halves)
+value: 0.0
+label: cup pieces or chips
+value: 0.0
+label: oz (14 halves)
+value: 0.0
+
+
+name: Naringenin
+unit: mg
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: cup, ground
+value: 0.0
+label: cup, in shell, edible yield (7 nuts)
+value: 0.0
+label: cup shelled (50 halves)
+value: 0.0
+label: cup pieces or chips
+value: 0.0
+label: oz (14 halves)
+value: 0.0
+
+
+name: Apigenin
+unit: mg
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: cup, ground
+value: 0.0
+label: cup, in shell, edible yield (7 nuts)
+value: 0.0
+label: cup shelled (50 halves)
+value: 0.0
+label: cup pieces or chips
+value: 0.0
+label: oz (14 halves)
+value: 0.0
+
+
+name: Luteolin
+unit: mg
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: cup, ground
+value: 0.0
+label: cup, in shell, edible yield (7 nuts)
+value: 0.0
+label: cup shelled (50 halves)
+value: 0.0
+label: cup pieces or chips
+value: 0.0
+label: oz (14 halves)
+value: 0.0
+
+
+name: Myricetin
+unit: mg
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: cup, ground
+value: 0.0
+label: cup, in shell, edible yield (7 nuts)
+value: 0.0
+label: cup shelled (50 halves)
+value: 0.0
+label: cup pieces or chips
+value: 0.0
+label: oz (14 halves)
+value: 0.0
+
+
+name: Quercetin
+unit: mg
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: cup, ground
+value: 0.0
+label: cup, in shell, edible yield (7 nuts)
+value: 0.0
+label: cup shelled (50 halves)
+value: 0.0
+label: cup pieces or chips
+value: 0.0
+label: oz (14 halves)
+value: 0.0
+
+
+name: Daidzein
+unit: mg
+value: 0.02
+label: cup, chopped
+value: 0.02
+label: cup, ground
+value: 0.02
+label: cup, in shell, edible yield (7 nuts)
+value: 0.01
+label: cup shelled (50 halves)
+value: 0.02
+label: cup pieces or chips
+value: 0.02
+label: oz (14 halves)
+value: 0.01
+
+
+name: Genistein
+unit: mg
+value: 0.01
+label: cup, chopped
+value: 0.01
+label: cup, ground
+value: 0.01
+label: cup, in shell, edible yield (7 nuts)
+value: 0.0
+label: cup shelled (50 halves)
+value: 0.01
+label: cup pieces or chips
+value: 0.01
+label: oz (14 halves)
+value: 0.0
+
+
+name: Glycitein
+unit: mg
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: cup, ground
+value: 0.0
+label: cup, in shell, edible yield (7 nuts)
+value: 0.0
+label: cup shelled (50 halves)
+value: 0.0
+label: cup pieces or chips
+value: 0.0
+label: oz (14 halves)
+value: 0.0
+
+
+name: Total isoflavones
+unit: mg
+value: 0.02
+label: cup, chopped
+value: 0.03
+label: cup, ground
+value: 0.02
+label: cup, in shell, edible yield (7 nuts)
+value: 0.01
+label: cup shelled (50 halves)
+value: 0.02
+label: cup pieces or chips
+value: 0.03
+label: oz (14 halves)
+value: 0.01
+
+
+name: Formononetin
+unit: mg
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: cup, ground
+value: 0.0
+label: cup, in shell, edible yield (7 nuts)
+value: 0.0
+label: cup shelled (50 halves)
+value: 0.0
+label: cup pieces or chips
+value: 0.0
+label: oz (14 halves)
+value: 0.0
+
+
+name: Coumestrol
+unit: mg
+value: 0.0
+label: cup, chopped
+value: 0.0
+label: cup, ground
+value: 0.0
+label: cup, in shell, edible yield (7 nuts)
+value: 0.0
+label: cup shelled (50 halves)
+value: 0.0
+label: cup pieces or chips
+value: 0.0
+label: oz (14 halves)
+value: 0.0
+
+
+name: Proanthocyanidin dimers
+unit: mg
+value: 5.6
+label: cup, chopped
+value: 6.6
+label: cup, ground
+value: 4.5
+label: cup, in shell, edible yield (7 nuts)
+value: 1.6
+label: cup shelled (50 halves)
+value: 5.6
+label: cup pieces or chips
+value: 6.8
+label: oz (14 halves)
+value: 1.6
+
+
+name: Proanthocyanidin trimers
+unit: mg
+value: 7.2
+label: cup, chopped
+value: 8.4
+label: cup, ground
+value: 5.8
+label: cup, in shell, edible yield (7 nuts)
+value: 2.0
+label: cup shelled (50 halves)
+value: 7.2
+label: cup pieces or chips
+value: 8.6
+label: oz (14 halves)
+value: 2.0
+
+
+name: Proanthocyanidin 4-6mers
+unit: mg
+value: 22.0
+label: cup, chopped
+value: 25.8
+label: cup, ground
+value: 17.6
+label: cup, in shell, edible yield (7 nuts)
+value: 6.2
+label: cup shelled (50 halves)
+value: 22.0
+label: cup pieces or chips
+value: 26.5
+label: oz (14 halves)
+value: 6.3
+
+
+name: Proanthocyanidin 7-10mers
+unit: mg
+value: 5.4
+label: cup, chopped
+value: 6.3
+label: cup, ground
+value: 4.3
+label: cup, in shell, edible yield (7 nuts)
+value: 1.5
+label: cup shelled (50 halves)
+value: 5.4
+label: cup pieces or chips
+value: 6.5
+label: oz (14 halves)
+value: 1.5
+
+
+name: Proanthocyanidin polymers (>10mers)
+unit: mg
+value: 20.0
+label: cup, chopped
+value: 23.4
+label: cup, ground
+value: 16.0
+label: cup, in shell, edible yield (7 nuts)
+value: 5.6
+label: cup shelled (50 halves)
+value: 20.0
+label: cup pieces or chips
+value: 24.0
+label: oz (14 halves)
+value: 5.7
+

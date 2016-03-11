@@ -1,0 +1,2286 @@
+ndbno: 11206
+
+
+name: Cucumber, peeled, raw
+
+
+name: Water
+unit: g
+value: 96.73
+label: cup, pared, chopped
+value: 128.65
+label: cup, sliced
+value: 115.11
+label: large (8-1/4\ long)
+value: 270.84
+label: medium
+value: 194.43
+label: slice
+value: 6.77
+label: small (6-3/8\ long)
+value: 152.83
+label: stick (4\ long)
+value: 8.71
+
+
+name: Energy
+unit: kcal
+value: 12.0
+label: cup, pared, chopped
+value: 16.0
+label: cup, sliced
+value: 14.0
+label: large (8-1/4\ long)
+value: 34.0
+label: medium
+value: 24.0
+label: slice
+value: 1.0
+label: small (6-3/8\ long)
+value: 19.0
+label: stick (4\ long)
+value: 1.0
+
+
+name: Energy
+unit: kJ
+value: 52.0
+label: cup, pared, chopped
+value: 69.0
+label: cup, sliced
+value: 62.0
+label: large (8-1/4\ long)
+value: 146.0
+label: medium
+value: 105.0
+label: slice
+value: 4.0
+label: small (6-3/8\ long)
+value: 82.0
+label: stick (4\ long)
+value: 5.0
+
+
+name: Protein
+unit: g
+value: 0.59
+label: cup, pared, chopped
+value: 0.78
+label: cup, sliced
+value: 0.7
+label: large (8-1/4\ long)
+value: 1.65
+label: medium
+value: 1.19
+label: slice
+value: 0.04
+label: small (6-3/8\ long)
+value: 0.93
+label: stick (4\ long)
+value: 0.05
+
+
+name: Total lipid (fat)
+unit: g
+value: 0.16
+label: cup, pared, chopped
+value: 0.21
+label: cup, sliced
+value: 0.19
+label: large (8-1/4\ long)
+value: 0.45
+label: medium
+value: 0.32
+label: slice
+value: 0.01
+label: small (6-3/8\ long)
+value: 0.25
+label: stick (4\ long)
+value: 0.01
+
+
+name: Ash
+unit: g
+value: 0.36
+label: cup, pared, chopped
+value: 0.48
+label: cup, sliced
+value: 0.43
+label: large (8-1/4\ long)
+value: 1.01
+label: medium
+value: 0.72
+label: slice
+value: 0.03
+label: small (6-3/8\ long)
+value: 0.57
+label: stick (4\ long)
+value: 0.03
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 2.16
+label: cup, pared, chopped
+value: 2.87
+label: cup, sliced
+value: 2.57
+label: large (8-1/4\ long)
+value: 6.05
+label: medium
+value: 4.34
+label: slice
+value: 0.15
+label: small (6-3/8\ long)
+value: 3.41
+label: stick (4\ long)
+value: 0.19
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.7
+label: cup, pared, chopped
+value: 0.9
+label: cup, sliced
+value: 0.8
+label: large (8-1/4\ long)
+value: 2.0
+label: medium
+value: 1.4
+label: slice
+value: 0.0
+label: small (6-3/8\ long)
+value: 1.1
+label: stick (4\ long)
+value: 0.1
+
+
+name: Sugars, total
+unit: g
+value: 1.38
+label: cup, pared, chopped
+value: 1.84
+label: cup, sliced
+value: 1.64
+label: large (8-1/4\ long)
+value: 3.86
+label: medium
+value: 2.77
+label: slice
+value: 0.1
+label: small (6-3/8\ long)
+value: 2.18
+label: stick (4\ long)
+value: 0.12
+
+
+name: Sucrose
+unit: g
+value: 0.0
+label: cup, pared, chopped
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: large (8-1/4\ long)
+value: 0.0
+label: medium
+value: 0.0
+label: slice
+value: 0.0
+label: small (6-3/8\ long)
+value: 0.0
+label: stick (4\ long)
+value: 0.0
+
+
+name: Glucose (dextrose)
+unit: g
+value: 0.63
+label: cup, pared, chopped
+value: 0.84
+label: cup, sliced
+value: 0.75
+label: large (8-1/4\ long)
+value: 1.76
+label: medium
+value: 1.27
+label: slice
+value: 0.04
+label: small (6-3/8\ long)
+value: 1.0
+label: stick (4\ long)
+value: 0.06
+
+
+name: Fructose
+unit: g
+value: 0.75
+label: cup, pared, chopped
+value: 1.0
+label: cup, sliced
+value: 0.89
+label: large (8-1/4\ long)
+value: 2.1
+label: medium
+value: 1.51
+label: slice
+value: 0.05
+label: small (6-3/8\ long)
+value: 1.18
+label: stick (4\ long)
+value: 0.07
+
+
+name: Lactose
+unit: g
+value: 0.0
+label: cup, pared, chopped
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: large (8-1/4\ long)
+value: 0.0
+label: medium
+value: 0.0
+label: slice
+value: 0.0
+label: small (6-3/8\ long)
+value: 0.0
+label: stick (4\ long)
+value: 0.0
+
+
+name: Maltose
+unit: g
+value: 0.0
+label: cup, pared, chopped
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: large (8-1/4\ long)
+value: 0.0
+label: medium
+value: 0.0
+label: slice
+value: 0.0
+label: small (6-3/8\ long)
+value: 0.0
+label: stick (4\ long)
+value: 0.0
+
+
+name: Galactose
+unit: g
+value: 0.0
+label: cup, pared, chopped
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: large (8-1/4\ long)
+value: 0.0
+label: medium
+value: 0.0
+label: slice
+value: 0.0
+label: small (6-3/8\ long)
+value: 0.0
+label: stick (4\ long)
+value: 0.0
+
+
+name: Starch
+unit: g
+value: 0.08
+label: cup, pared, chopped
+value: 0.11
+label: cup, sliced
+value: 0.1
+label: large (8-1/4\ long)
+value: 0.22
+label: medium
+value: 0.16
+label: slice
+value: 0.01
+label: small (6-3/8\ long)
+value: 0.13
+label: stick (4\ long)
+value: 0.01
+
+
+name: Calcium, Ca
+unit: mg
+value: 14.0
+label: cup, pared, chopped
+value: 19.0
+label: cup, sliced
+value: 17.0
+label: large (8-1/4\ long)
+value: 39.0
+label: medium
+value: 28.0
+label: slice
+value: 1.0
+label: small (6-3/8\ long)
+value: 22.0
+label: stick (4\ long)
+value: 1.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.22
+label: cup, pared, chopped
+value: 0.29
+label: cup, sliced
+value: 0.26
+label: large (8-1/4\ long)
+value: 0.62
+label: medium
+value: 0.44
+label: slice
+value: 0.02
+label: small (6-3/8\ long)
+value: 0.35
+label: stick (4\ long)
+value: 0.02
+
+
+name: Magnesium, Mg
+unit: mg
+value: 12.0
+label: cup, pared, chopped
+value: 16.0
+label: cup, sliced
+value: 14.0
+label: large (8-1/4\ long)
+value: 34.0
+label: medium
+value: 24.0
+label: slice
+value: 1.0
+label: small (6-3/8\ long)
+value: 19.0
+label: stick (4\ long)
+value: 1.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 21.0
+label: cup, pared, chopped
+value: 28.0
+label: cup, sliced
+value: 25.0
+label: large (8-1/4\ long)
+value: 59.0
+label: medium
+value: 42.0
+label: slice
+value: 1.0
+label: small (6-3/8\ long)
+value: 33.0
+label: stick (4\ long)
+value: 2.0
+
+
+name: Potassium, K
+unit: mg
+value: 136.0
+label: cup, pared, chopped
+value: 181.0
+label: cup, sliced
+value: 162.0
+label: large (8-1/4\ long)
+value: 381.0
+label: medium
+value: 273.0
+label: slice
+value: 10.0
+label: small (6-3/8\ long)
+value: 215.0
+label: stick (4\ long)
+value: 12.0
+
+
+name: Sodium, Na
+unit: mg
+value: 2.0
+label: cup, pared, chopped
+value: 3.0
+label: cup, sliced
+value: 2.0
+label: large (8-1/4\ long)
+value: 6.0
+label: medium
+value: 4.0
+label: slice
+value: 0.0
+label: small (6-3/8\ long)
+value: 3.0
+label: stick (4\ long)
+value: 0.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.17
+label: cup, pared, chopped
+value: 0.23
+label: cup, sliced
+value: 0.2
+label: large (8-1/4\ long)
+value: 0.48
+label: medium
+value: 0.34
+label: slice
+value: 0.01
+label: small (6-3/8\ long)
+value: 0.27
+label: stick (4\ long)
+value: 0.02
+
+
+name: Copper, Cu
+unit: mg
+value: 0.071
+label: cup, pared, chopped
+value: 0.094
+label: cup, sliced
+value: 0.084
+label: large (8-1/4\ long)
+value: 0.199
+label: medium
+value: 0.143
+label: slice
+value: 0.005
+label: small (6-3/8\ long)
+value: 0.112
+label: stick (4\ long)
+value: 0.006
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.073
+label: cup, pared, chopped
+value: 0.097
+label: cup, sliced
+value: 0.087
+label: large (8-1/4\ long)
+value: 0.204
+label: medium
+value: 0.147
+label: slice
+value: 0.005
+label: small (6-3/8\ long)
+value: 0.115
+label: stick (4\ long)
+value: 0.007
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 0.1
+label: cup, pared, chopped
+value: 0.1
+label: cup, sliced
+value: 0.1
+label: large (8-1/4\ long)
+value: 0.3
+label: medium
+value: 0.2
+label: slice
+value: 0.0
+label: small (6-3/8\ long)
+value: 0.2
+label: stick (4\ long)
+value: 0.0
+
+
+name: Fluoride, F
+unit: \u00B5g
+value: 1.3
+label: cup, pared, chopped
+value: 1.7
+label: cup, sliced
+value: 1.5
+label: large (8-1/4\ long)
+value: 3.6
+label: medium
+value: 2.6
+label: slice
+value: 0.1
+label: small (6-3/8\ long)
+value: 2.1
+label: stick (4\ long)
+value: 0.1
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 3.2
+label: cup, pared, chopped
+value: 4.3
+label: cup, sliced
+value: 3.8
+label: large (8-1/4\ long)
+value: 9.0
+label: medium
+value: 6.4
+label: slice
+value: 0.2
+label: small (6-3/8\ long)
+value: 5.1
+label: stick (4\ long)
+value: 0.3
+
+
+name: Thiamin
+unit: mg
+value: 0.031
+label: cup, pared, chopped
+value: 0.041
+label: cup, sliced
+value: 0.037
+label: large (8-1/4\ long)
+value: 0.087
+label: medium
+value: 0.062
+label: slice
+value: 0.002
+label: small (6-3/8\ long)
+value: 0.049
+label: stick (4\ long)
+value: 0.003
+
+
+name: Riboflavin
+unit: mg
+value: 0.025
+label: cup, pared, chopped
+value: 0.033
+label: cup, sliced
+value: 0.03
+label: large (8-1/4\ long)
+value: 0.07
+label: medium
+value: 0.05
+label: slice
+value: 0.002
+label: small (6-3/8\ long)
+value: 0.04
+label: stick (4\ long)
+value: 0.002
+
+
+name: Niacin
+unit: mg
+value: 0.037
+label: cup, pared, chopped
+value: 0.049
+label: cup, sliced
+value: 0.044
+label: large (8-1/4\ long)
+value: 0.104
+label: medium
+value: 0.074
+label: slice
+value: 0.003
+label: small (6-3/8\ long)
+value: 0.058
+label: stick (4\ long)
+value: 0.003
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.24
+label: cup, pared, chopped
+value: 0.319
+label: cup, sliced
+value: 0.286
+label: large (8-1/4\ long)
+value: 0.672
+label: medium
+value: 0.482
+label: slice
+value: 0.017
+label: small (6-3/8\ long)
+value: 0.379
+label: stick (4\ long)
+value: 0.022
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.051
+label: cup, pared, chopped
+value: 0.068
+label: cup, sliced
+value: 0.061
+label: large (8-1/4\ long)
+value: 0.143
+label: medium
+value: 0.103
+label: slice
+value: 0.004
+label: small (6-3/8\ long)
+value: 0.081
+label: stick (4\ long)
+value: 0.005
+
+
+name: Folate, total
+unit: \u00B5g
+value: 14.0
+label: cup, pared, chopped
+value: 19.0
+label: cup, sliced
+value: 17.0
+label: large (8-1/4\ long)
+value: 39.0
+label: medium
+value: 28.0
+label: slice
+value: 1.0
+label: small (6-3/8\ long)
+value: 22.0
+label: stick (4\ long)
+value: 1.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: cup, pared, chopped
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: large (8-1/4\ long)
+value: 0.0
+label: medium
+value: 0.0
+label: slice
+value: 0.0
+label: small (6-3/8\ long)
+value: 0.0
+label: stick (4\ long)
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 14.0
+label: cup, pared, chopped
+value: 19.0
+label: cup, sliced
+value: 17.0
+label: large (8-1/4\ long)
+value: 39.0
+label: medium
+value: 28.0
+label: slice
+value: 1.0
+label: small (6-3/8\ long)
+value: 22.0
+label: stick (4\ long)
+value: 1.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 14.0
+label: cup, pared, chopped
+value: 19.0
+label: cup, sliced
+value: 17.0
+label: large (8-1/4\ long)
+value: 39.0
+label: medium
+value: 28.0
+label: slice
+value: 1.0
+label: small (6-3/8\ long)
+value: 22.0
+label: stick (4\ long)
+value: 1.0
+
+
+name: Choline, total
+unit: mg
+value: 5.7
+label: cup, pared, chopped
+value: 7.6
+label: cup, sliced
+value: 6.8
+label: large (8-1/4\ long)
+value: 16.0
+label: medium
+value: 11.5
+label: slice
+value: 0.4
+label: small (6-3/8\ long)
+value: 9.0
+label: stick (4\ long)
+value: 0.5
+
+
+name: Betaine
+unit: mg
+value: 0.1
+label: cup, pared, chopped
+value: 0.1
+label: cup, sliced
+value: 0.1
+label: large (8-1/4\ long)
+value: 0.3
+label: medium
+value: 0.2
+label: slice
+value: 0.0
+label: small (6-3/8\ long)
+value: 0.2
+label: stick (4\ long)
+value: 0.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: cup, pared, chopped
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: large (8-1/4\ long)
+value: 0.0
+label: medium
+value: 0.0
+label: slice
+value: 0.0
+label: small (6-3/8\ long)
+value: 0.0
+label: stick (4\ long)
+value: 0.0
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: cup, pared, chopped
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: large (8-1/4\ long)
+value: 0.0
+label: medium
+value: 0.0
+label: slice
+value: 0.0
+label: small (6-3/8\ long)
+value: 0.0
+label: stick (4\ long)
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 4.0
+label: cup, pared, chopped
+value: 5.0
+label: cup, sliced
+value: 5.0
+label: large (8-1/4\ long)
+value: 11.0
+label: medium
+value: 8.0
+label: slice
+value: 0.0
+label: small (6-3/8\ long)
+value: 6.0
+label: stick (4\ long)
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: cup, pared, chopped
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: large (8-1/4\ long)
+value: 0.0
+label: medium
+value: 0.0
+label: slice
+value: 0.0
+label: small (6-3/8\ long)
+value: 0.0
+label: stick (4\ long)
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 31.0
+label: cup, pared, chopped
+value: 41.0
+label: cup, sliced
+value: 37.0
+label: large (8-1/4\ long)
+value: 87.0
+label: medium
+value: 62.0
+label: slice
+value: 2.0
+label: small (6-3/8\ long)
+value: 49.0
+label: stick (4\ long)
+value: 3.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 8.0
+label: cup, pared, chopped
+value: 11.0
+label: cup, sliced
+value: 10.0
+label: large (8-1/4\ long)
+value: 22.0
+label: medium
+value: 16.0
+label: slice
+value: 1.0
+label: small (6-3/8\ long)
+value: 13.0
+label: stick (4\ long)
+value: 1.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 18.0
+label: cup, pared, chopped
+value: 24.0
+label: cup, sliced
+value: 21.0
+label: large (8-1/4\ long)
+value: 50.0
+label: medium
+value: 36.0
+label: slice
+value: 1.0
+label: small (6-3/8\ long)
+value: 28.0
+label: stick (4\ long)
+value: 2.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 72.0
+label: cup, pared, chopped
+value: 96.0
+label: cup, sliced
+value: 86.0
+label: large (8-1/4\ long)
+value: 202.0
+label: medium
+value: 145.0
+label: slice
+value: 5.0
+label: small (6-3/8\ long)
+value: 114.0
+label: stick (4\ long)
+value: 6.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: cup, pared, chopped
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: large (8-1/4\ long)
+value: 0.0
+label: medium
+value: 0.0
+label: slice
+value: 0.0
+label: small (6-3/8\ long)
+value: 0.0
+label: stick (4\ long)
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 16.0
+label: cup, pared, chopped
+value: 21.0
+label: cup, sliced
+value: 19.0
+label: large (8-1/4\ long)
+value: 45.0
+label: medium
+value: 32.0
+label: slice
+value: 1.0
+label: small (6-3/8\ long)
+value: 25.0
+label: stick (4\ long)
+value: 1.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.03
+label: cup, pared, chopped
+value: 0.04
+label: cup, sliced
+value: 0.04
+label: large (8-1/4\ long)
+value: 0.08
+label: medium
+value: 0.06
+label: slice
+value: 0.0
+label: small (6-3/8\ long)
+value: 0.05
+label: stick (4\ long)
+value: 0.0
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: cup, pared, chopped
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: large (8-1/4\ long)
+value: 0.0
+label: medium
+value: 0.0
+label: slice
+value: 0.0
+label: small (6-3/8\ long)
+value: 0.0
+label: stick (4\ long)
+value: 0.0
+
+
+name: Tocopherol, beta
+unit: mg
+value: 0.0
+label: cup, pared, chopped
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: large (8-1/4\ long)
+value: 0.0
+label: medium
+value: 0.0
+label: slice
+value: 0.0
+label: small (6-3/8\ long)
+value: 0.0
+label: stick (4\ long)
+value: 0.0
+
+
+name: Tocopherol, gamma
+unit: mg
+value: 0.02
+label: cup, pared, chopped
+value: 0.03
+label: cup, sliced
+value: 0.02
+label: large (8-1/4\ long)
+value: 0.06
+label: medium
+value: 0.04
+label: slice
+value: 0.0
+label: small (6-3/8\ long)
+value: 0.03
+label: stick (4\ long)
+value: 0.0
+
+
+name: Tocopherol, delta
+unit: mg
+value: 0.0
+label: cup, pared, chopped
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: large (8-1/4\ long)
+value: 0.0
+label: medium
+value: 0.0
+label: slice
+value: 0.0
+label: small (6-3/8\ long)
+value: 0.0
+label: stick (4\ long)
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: cup, pared, chopped
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: large (8-1/4\ long)
+value: 0.0
+label: medium
+value: 0.0
+label: slice
+value: 0.0
+label: small (6-3/8\ long)
+value: 0.0
+label: stick (4\ long)
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: cup, pared, chopped
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: large (8-1/4\ long)
+value: 0.0
+label: medium
+value: 0.0
+label: slice
+value: 0.0
+label: small (6-3/8\ long)
+value: 0.0
+label: stick (4\ long)
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 7.2
+label: cup, pared, chopped
+value: 9.6
+label: cup, sliced
+value: 8.6
+label: large (8-1/4\ long)
+value: 20.2
+label: medium
+value: 14.5
+label: slice
+value: 0.5
+label: small (6-3/8\ long)
+value: 11.4
+label: stick (4\ long)
+value: 0.6
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.013
+label: cup, pared, chopped
+value: 0.017
+label: cup, sliced
+value: 0.015
+label: large (8-1/4\ long)
+value: 0.036
+label: medium
+value: 0.026
+label: slice
+value: 0.001
+label: small (6-3/8\ long)
+value: 0.021
+label: stick (4\ long)
+value: 0.001
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: cup, pared, chopped
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: large (8-1/4\ long)
+value: 0.0
+label: medium
+value: 0.0
+label: slice
+value: 0.0
+label: small (6-3/8\ long)
+value: 0.0
+label: stick (4\ long)
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: cup, pared, chopped
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: large (8-1/4\ long)
+value: 0.0
+label: medium
+value: 0.0
+label: slice
+value: 0.0
+label: small (6-3/8\ long)
+value: 0.0
+label: stick (4\ long)
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: cup, pared, chopped
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: large (8-1/4\ long)
+value: 0.0
+label: medium
+value: 0.0
+label: slice
+value: 0.0
+label: small (6-3/8\ long)
+value: 0.0
+label: stick (4\ long)
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: cup, pared, chopped
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: large (8-1/4\ long)
+value: 0.0
+label: medium
+value: 0.0
+label: slice
+value: 0.0
+label: small (6-3/8\ long)
+value: 0.0
+label: stick (4\ long)
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: cup, pared, chopped
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: large (8-1/4\ long)
+value: 0.0
+label: medium
+value: 0.0
+label: slice
+value: 0.0
+label: small (6-3/8\ long)
+value: 0.0
+label: stick (4\ long)
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.002
+label: cup, pared, chopped
+value: 0.003
+label: cup, sliced
+value: 0.002
+label: large (8-1/4\ long)
+value: 0.006
+label: medium
+value: 0.004
+label: slice
+value: 0.0
+label: small (6-3/8\ long)
+value: 0.003
+label: stick (4\ long)
+value: 0.0
+
+
+name: 15:0
+unit: g
+value: 0.0
+label: cup, pared, chopped
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: large (8-1/4\ long)
+value: 0.0
+label: medium
+value: 0.0
+label: slice
+value: 0.0
+label: small (6-3/8\ long)
+value: 0.0
+label: stick (4\ long)
+value: 0.0
+
+
+name: 16:0
+unit: g
+value: 0.01
+label: cup, pared, chopped
+value: 0.013
+label: cup, sliced
+value: 0.012
+label: large (8-1/4\ long)
+value: 0.028
+label: medium
+value: 0.02
+label: slice
+value: 0.001
+label: small (6-3/8\ long)
+value: 0.016
+label: stick (4\ long)
+value: 0.001
+
+
+name: 17:0
+unit: g
+value: 0.0
+label: cup, pared, chopped
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: large (8-1/4\ long)
+value: 0.0
+label: medium
+value: 0.0
+label: slice
+value: 0.0
+label: small (6-3/8\ long)
+value: 0.0
+label: stick (4\ long)
+value: 0.0
+
+
+name: 18:0
+unit: g
+value: 0.002
+label: cup, pared, chopped
+value: 0.003
+label: cup, sliced
+value: 0.002
+label: large (8-1/4\ long)
+value: 0.006
+label: medium
+value: 0.004
+label: slice
+value: 0.0
+label: small (6-3/8\ long)
+value: 0.003
+label: stick (4\ long)
+value: 0.0
+
+
+name: 20:0
+unit: g
+value: 0.0
+label: cup, pared, chopped
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: large (8-1/4\ long)
+value: 0.0
+label: medium
+value: 0.0
+label: slice
+value: 0.0
+label: small (6-3/8\ long)
+value: 0.0
+label: stick (4\ long)
+value: 0.0
+
+
+name: 22:0
+unit: g
+value: 0.0
+label: cup, pared, chopped
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: large (8-1/4\ long)
+value: 0.0
+label: medium
+value: 0.0
+label: slice
+value: 0.0
+label: small (6-3/8\ long)
+value: 0.0
+label: stick (4\ long)
+value: 0.0
+
+
+name: 24:0
+unit: g
+value: 0.0
+label: cup, pared, chopped
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: large (8-1/4\ long)
+value: 0.0
+label: medium
+value: 0.0
+label: slice
+value: 0.0
+label: small (6-3/8\ long)
+value: 0.0
+label: stick (4\ long)
+value: 0.0
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.002
+label: cup, pared, chopped
+value: 0.003
+label: cup, sliced
+value: 0.002
+label: large (8-1/4\ long)
+value: 0.006
+label: medium
+value: 0.004
+label: slice
+value: 0.0
+label: small (6-3/8\ long)
+value: 0.003
+label: stick (4\ long)
+value: 0.0
+
+
+name: 14:1
+unit: g
+value: 0.0
+label: cup, pared, chopped
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: large (8-1/4\ long)
+value: 0.0
+label: medium
+value: 0.0
+label: slice
+value: 0.0
+label: small (6-3/8\ long)
+value: 0.0
+label: stick (4\ long)
+value: 0.0
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: cup, pared, chopped
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: large (8-1/4\ long)
+value: 0.0
+label: medium
+value: 0.0
+label: slice
+value: 0.0
+label: small (6-3/8\ long)
+value: 0.0
+label: stick (4\ long)
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.0
+label: cup, pared, chopped
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: large (8-1/4\ long)
+value: 0.0
+label: medium
+value: 0.0
+label: slice
+value: 0.0
+label: small (6-3/8\ long)
+value: 0.0
+label: stick (4\ long)
+value: 0.0
+
+
+name: 17:1
+unit: g
+value: 0.0
+label: cup, pared, chopped
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: large (8-1/4\ long)
+value: 0.0
+label: medium
+value: 0.0
+label: slice
+value: 0.0
+label: small (6-3/8\ long)
+value: 0.0
+label: stick (4\ long)
+value: 0.0
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.002
+label: cup, pared, chopped
+value: 0.003
+label: cup, sliced
+value: 0.002
+label: large (8-1/4\ long)
+value: 0.006
+label: medium
+value: 0.004
+label: slice
+value: 0.0
+label: small (6-3/8\ long)
+value: 0.003
+label: stick (4\ long)
+value: 0.0
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: cup, pared, chopped
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: large (8-1/4\ long)
+value: 0.0
+label: medium
+value: 0.0
+label: slice
+value: 0.0
+label: small (6-3/8\ long)
+value: 0.0
+label: stick (4\ long)
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: cup, pared, chopped
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: large (8-1/4\ long)
+value: 0.0
+label: medium
+value: 0.0
+label: slice
+value: 0.0
+label: small (6-3/8\ long)
+value: 0.0
+label: stick (4\ long)
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.003
+label: cup, pared, chopped
+value: 0.004
+label: cup, sliced
+value: 0.004
+label: large (8-1/4\ long)
+value: 0.008
+label: medium
+value: 0.006
+label: slice
+value: 0.0
+label: small (6-3/8\ long)
+value: 0.005
+label: stick (4\ long)
+value: 0.0
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.002
+label: cup, pared, chopped
+value: 0.003
+label: cup, sliced
+value: 0.002
+label: large (8-1/4\ long)
+value: 0.006
+label: medium
+value: 0.004
+label: slice
+value: 0.0
+label: small (6-3/8\ long)
+value: 0.003
+label: stick (4\ long)
+value: 0.0
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.002
+label: cup, pared, chopped
+value: 0.003
+label: cup, sliced
+value: 0.002
+label: large (8-1/4\ long)
+value: 0.006
+label: medium
+value: 0.004
+label: slice
+value: 0.0
+label: small (6-3/8\ long)
+value: 0.003
+label: stick (4\ long)
+value: 0.0
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: cup, pared, chopped
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: large (8-1/4\ long)
+value: 0.0
+label: medium
+value: 0.0
+label: slice
+value: 0.0
+label: small (6-3/8\ long)
+value: 0.0
+label: stick (4\ long)
+value: 0.0
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.0
+label: cup, pared, chopped
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: large (8-1/4\ long)
+value: 0.0
+label: medium
+value: 0.0
+label: slice
+value: 0.0
+label: small (6-3/8\ long)
+value: 0.0
+label: stick (4\ long)
+value: 0.0
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.0
+label: cup, pared, chopped
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: large (8-1/4\ long)
+value: 0.0
+label: medium
+value: 0.0
+label: slice
+value: 0.0
+label: small (6-3/8\ long)
+value: 0.0
+label: stick (4\ long)
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: cup, pared, chopped
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: large (8-1/4\ long)
+value: 0.0
+label: medium
+value: 0.0
+label: slice
+value: 0.0
+label: small (6-3/8\ long)
+value: 0.0
+label: stick (4\ long)
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: cup, pared, chopped
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: large (8-1/4\ long)
+value: 0.0
+label: medium
+value: 0.0
+label: slice
+value: 0.0
+label: small (6-3/8\ long)
+value: 0.0
+label: stick (4\ long)
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: cup, pared, chopped
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: large (8-1/4\ long)
+value: 0.0
+label: medium
+value: 0.0
+label: slice
+value: 0.0
+label: small (6-3/8\ long)
+value: 0.0
+label: stick (4\ long)
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: cup, pared, chopped
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: large (8-1/4\ long)
+value: 0.0
+label: medium
+value: 0.0
+label: slice
+value: 0.0
+label: small (6-3/8\ long)
+value: 0.0
+label: stick (4\ long)
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.0
+label: cup, pared, chopped
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: large (8-1/4\ long)
+value: 0.0
+label: medium
+value: 0.0
+label: slice
+value: 0.0
+label: small (6-3/8\ long)
+value: 0.0
+label: stick (4\ long)
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: cup, pared, chopped
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: large (8-1/4\ long)
+value: 0.0
+label: medium
+value: 0.0
+label: slice
+value: 0.0
+label: small (6-3/8\ long)
+value: 0.0
+label: stick (4\ long)
+value: 0.0
+
+
+name: Tryptophan
+unit: g
+value: 0.007
+label: cup, pared, chopped
+value: 0.009
+label: cup, sliced
+value: 0.008
+label: large (8-1/4\ long)
+value: 0.02
+label: medium
+value: 0.014
+label: slice
+value: 0.0
+label: small (6-3/8\ long)
+value: 0.011
+label: stick (4\ long)
+value: 0.001
+
+
+name: Threonine
+unit: g
+value: 0.012
+label: cup, pared, chopped
+value: 0.016
+label: cup, sliced
+value: 0.014
+label: large (8-1/4\ long)
+value: 0.034
+label: medium
+value: 0.024
+label: slice
+value: 0.001
+label: small (6-3/8\ long)
+value: 0.019
+label: stick (4\ long)
+value: 0.001
+
+
+name: Isoleucine
+unit: g
+value: 0.012
+label: cup, pared, chopped
+value: 0.016
+label: cup, sliced
+value: 0.014
+label: large (8-1/4\ long)
+value: 0.034
+label: medium
+value: 0.024
+label: slice
+value: 0.001
+label: small (6-3/8\ long)
+value: 0.019
+label: stick (4\ long)
+value: 0.001
+
+
+name: Leucine
+unit: g
+value: 0.025
+label: cup, pared, chopped
+value: 0.033
+label: cup, sliced
+value: 0.03
+label: large (8-1/4\ long)
+value: 0.07
+label: medium
+value: 0.05
+label: slice
+value: 0.002
+label: small (6-3/8\ long)
+value: 0.04
+label: stick (4\ long)
+value: 0.002
+
+
+name: Lysine
+unit: g
+value: 0.025
+label: cup, pared, chopped
+value: 0.033
+label: cup, sliced
+value: 0.03
+label: large (8-1/4\ long)
+value: 0.07
+label: medium
+value: 0.05
+label: slice
+value: 0.002
+label: small (6-3/8\ long)
+value: 0.04
+label: stick (4\ long)
+value: 0.002
+
+
+name: Methionine
+unit: g
+value: 0.012
+label: cup, pared, chopped
+value: 0.016
+label: cup, sliced
+value: 0.014
+label: large (8-1/4\ long)
+value: 0.034
+label: medium
+value: 0.024
+label: slice
+value: 0.001
+label: small (6-3/8\ long)
+value: 0.019
+label: stick (4\ long)
+value: 0.001
+
+
+name: Cystine
+unit: g
+value: 0.007
+label: cup, pared, chopped
+value: 0.009
+label: cup, sliced
+value: 0.008
+label: large (8-1/4\ long)
+value: 0.02
+label: medium
+value: 0.014
+label: slice
+value: 0.0
+label: small (6-3/8\ long)
+value: 0.011
+label: stick (4\ long)
+value: 0.001
+
+
+name: Phenylalanine
+unit: g
+value: 0.031
+label: cup, pared, chopped
+value: 0.041
+label: cup, sliced
+value: 0.037
+label: large (8-1/4\ long)
+value: 0.087
+label: medium
+value: 0.062
+label: slice
+value: 0.002
+label: small (6-3/8\ long)
+value: 0.049
+label: stick (4\ long)
+value: 0.003
+
+
+name: Tyrosine
+unit: g
+value: 0.002
+label: cup, pared, chopped
+value: 0.003
+label: cup, sliced
+value: 0.002
+label: large (8-1/4\ long)
+value: 0.006
+label: medium
+value: 0.004
+label: slice
+value: 0.0
+label: small (6-3/8\ long)
+value: 0.003
+label: stick (4\ long)
+value: 0.0
+
+
+name: Valine
+unit: g
+value: 0.012
+label: cup, pared, chopped
+value: 0.016
+label: cup, sliced
+value: 0.014
+label: large (8-1/4\ long)
+value: 0.034
+label: medium
+value: 0.024
+label: slice
+value: 0.001
+label: small (6-3/8\ long)
+value: 0.019
+label: stick (4\ long)
+value: 0.001
+
+
+name: Arginine
+unit: g
+value: 0.031
+label: cup, pared, chopped
+value: 0.041
+label: cup, sliced
+value: 0.037
+label: large (8-1/4\ long)
+value: 0.087
+label: medium
+value: 0.062
+label: slice
+value: 0.002
+label: small (6-3/8\ long)
+value: 0.049
+label: stick (4\ long)
+value: 0.003
+
+
+name: Histidine
+unit: g
+value: 0.002
+label: cup, pared, chopped
+value: 0.003
+label: cup, sliced
+value: 0.002
+label: large (8-1/4\ long)
+value: 0.006
+label: medium
+value: 0.004
+label: slice
+value: 0.0
+label: small (6-3/8\ long)
+value: 0.003
+label: stick (4\ long)
+value: 0.0
+
+
+name: Alanine
+unit: g
+value: 0.031
+label: cup, pared, chopped
+value: 0.041
+label: cup, sliced
+value: 0.037
+label: large (8-1/4\ long)
+value: 0.087
+label: medium
+value: 0.062
+label: slice
+value: 0.002
+label: small (6-3/8\ long)
+value: 0.049
+label: stick (4\ long)
+value: 0.003
+
+
+name: Aspartic acid
+unit: g
+value: 0.037
+label: cup, pared, chopped
+value: 0.049
+label: cup, sliced
+value: 0.044
+label: large (8-1/4\ long)
+value: 0.104
+label: medium
+value: 0.074
+label: slice
+value: 0.003
+label: small (6-3/8\ long)
+value: 0.058
+label: stick (4\ long)
+value: 0.003
+
+
+name: Glutamic acid
+unit: g
+value: 0.204
+label: cup, pared, chopped
+value: 0.271
+label: cup, sliced
+value: 0.243
+label: large (8-1/4\ long)
+value: 0.571
+label: medium
+value: 0.41
+label: slice
+value: 0.014
+label: small (6-3/8\ long)
+value: 0.322
+label: stick (4\ long)
+value: 0.018
+
+
+name: Glycine
+unit: g
+value: 0.025
+label: cup, pared, chopped
+value: 0.033
+label: cup, sliced
+value: 0.03
+label: large (8-1/4\ long)
+value: 0.07
+label: medium
+value: 0.05
+label: slice
+value: 0.002
+label: small (6-3/8\ long)
+value: 0.04
+label: stick (4\ long)
+value: 0.002
+
+
+name: Proline
+unit: g
+value: 0.012
+label: cup, pared, chopped
+value: 0.016
+label: cup, sliced
+value: 0.014
+label: large (8-1/4\ long)
+value: 0.034
+label: medium
+value: 0.024
+label: slice
+value: 0.001
+label: small (6-3/8\ long)
+value: 0.019
+label: stick (4\ long)
+value: 0.001
+
+
+name: Serine
+unit: g
+value: 0.025
+label: cup, pared, chopped
+value: 0.033
+label: cup, sliced
+value: 0.03
+label: large (8-1/4\ long)
+value: 0.07
+label: medium
+value: 0.05
+label: slice
+value: 0.002
+label: small (6-3/8\ long)
+value: 0.04
+label: stick (4\ long)
+value: 0.002
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: cup, pared, chopped
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: large (8-1/4\ long)
+value: 0.0
+label: medium
+value: 0.0
+label: slice
+value: 0.0
+label: small (6-3/8\ long)
+value: 0.0
+label: stick (4\ long)
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: cup, pared, chopped
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: large (8-1/4\ long)
+value: 0.0
+label: medium
+value: 0.0
+label: slice
+value: 0.0
+label: small (6-3/8\ long)
+value: 0.0
+label: stick (4\ long)
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: cup, pared, chopped
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: large (8-1/4\ long)
+value: 0.0
+label: medium
+value: 0.0
+label: slice
+value: 0.0
+label: small (6-3/8\ long)
+value: 0.0
+label: stick (4\ long)
+value: 0.0
+
+
+name: Daidzein
+unit: mg
+value: 0.0
+label: cup, pared, chopped
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: large (8-1/4\ long)
+value: 0.0
+label: medium
+value: 0.0
+label: slice
+value: 0.0
+label: small (6-3/8\ long)
+value: 0.0
+label: stick (4\ long)
+value: 0.0
+
+
+name: Genistein
+unit: mg
+value: 0.0
+label: cup, pared, chopped
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: large (8-1/4\ long)
+value: 0.0
+label: medium
+value: 0.0
+label: slice
+value: 0.0
+label: small (6-3/8\ long)
+value: 0.0
+label: stick (4\ long)
+value: 0.0
+
+
+name: Total isoflavones
+unit: mg
+value: 0.0
+label: cup, pared, chopped
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: large (8-1/4\ long)
+value: 0.0
+label: medium
+value: 0.0
+label: slice
+value: 0.0
+label: small (6-3/8\ long)
+value: 0.0
+label: stick (4\ long)
+value: 0.0
+
+
+name: Proanthocyanidin dimers
+unit: mg
+value: 0.0
+label: cup, pared, chopped
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: large (8-1/4\ long)
+value: 0.0
+label: medium
+value: 0.0
+label: slice
+value: 0.0
+label: small (6-3/8\ long)
+value: 0.0
+label: stick (4\ long)
+value: 0.0
+
+
+name: Proanthocyanidin trimers
+unit: mg
+value: 0.0
+label: cup, pared, chopped
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: large (8-1/4\ long)
+value: 0.0
+label: medium
+value: 0.0
+label: slice
+value: 0.0
+label: small (6-3/8\ long)
+value: 0.0
+label: stick (4\ long)
+value: 0.0
+
+
+name: Proanthocyanidin 4-6mers
+unit: mg
+value: 0.0
+label: cup, pared, chopped
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: large (8-1/4\ long)
+value: 0.0
+label: medium
+value: 0.0
+label: slice
+value: 0.0
+label: small (6-3/8\ long)
+value: 0.0
+label: stick (4\ long)
+value: 0.0
+
+
+name: Proanthocyanidin 7-10mers
+unit: mg
+value: 0.0
+label: cup, pared, chopped
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: large (8-1/4\ long)
+value: 0.0
+label: medium
+value: 0.0
+label: slice
+value: 0.0
+label: small (6-3/8\ long)
+value: 0.0
+label: stick (4\ long)
+value: 0.0
+
+
+name: Proanthocyanidin polymers (>10mers)
+unit: mg
+value: 0.0
+label: cup, pared, chopped
+value: 0.0
+label: cup, sliced
+value: 0.0
+label: large (8-1/4\ long)
+value: 0.0
+label: medium
+value: 0.0
+label: slice
+value: 0.0
+label: small (6-3/8\ long)
+value: 0.0
+label: stick (4\ long)
+value: 0.0
+
+

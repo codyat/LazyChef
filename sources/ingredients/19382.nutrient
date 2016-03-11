@@ -1,0 +1,553 @@
+ndbno: 19382
+
+
+name: Candies, taffy, prepared-from-recipe
+
+
+name: Water
+unit: g
+value: 4.85
+label: piece
+value: 0.73
+
+
+name: Energy
+unit: kcal
+value: 397.0
+label: piece
+value: 60.0
+
+
+name: Energy
+unit: kJ
+value: 1660.0
+label: piece
+value: 249.0
+
+
+name: Protein
+unit: g
+value: 0.03
+label: piece
+value: 0.0
+
+
+name: Total lipid (fat)
+unit: g
+value: 3.33
+label: piece
+value: 0.5
+
+
+name: Ash
+unit: g
+value: 0.18
+label: piece
+value: 0.03
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 91.56
+label: piece
+value: 13.73
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: Sugars, total
+unit: g
+value: 68.48
+label: piece
+value: 10.27
+
+
+name: Calcium, Ca
+unit: mg
+value: 8.0
+label: piece
+value: 1.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.01
+label: piece
+value: 0.0
+
+
+name: Magnesium, Mg
+unit: mg
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 1.0
+label: piece
+value: 0.0
+
+
+name: Potassium, K
+unit: mg
+value: 3.0
+label: piece
+value: 0.0
+
+
+name: Sodium, Na
+unit: mg
+value: 52.0
+label: piece
+value: 8.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.21
+label: piece
+value: 0.03
+
+
+name: Copper, Cu
+unit: mg
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 0.7
+label: piece
+value: 0.1
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.028
+label: piece
+value: 0.004
+
+
+name: Riboflavin
+unit: mg
+value: 0.012
+label: piece
+value: 0.002
+
+
+name: Niacin
+unit: mg
+value: 0.002
+label: piece
+value: 0.0
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.004
+label: piece
+value: 0.001
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: Folate, total
+unit: \u00B5g
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.01
+label: piece
+value: 0.0
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 27.0
+label: piece
+value: 4.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 27.0
+label: piece
+value: 4.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 6.0
+label: piece
+value: 1.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 100.0
+label: piece
+value: 15.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.09
+label: piece
+value: 0.01
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 0.3
+label: piece
+value: 0.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 2.049
+label: piece
+value: 0.307
+
+
+name: 4:0
+unit: g
+value: 0.129
+label: piece
+value: 0.019
+
+
+name: 6:0
+unit: g
+value: 0.08
+label: piece
+value: 0.012
+
+
+name: 8:0
+unit: g
+value: 0.047
+label: piece
+value: 0.007
+
+
+name: 10:0
+unit: g
+value: 0.101
+label: piece
+value: 0.015
+
+
+name: 12:0
+unit: g
+value: 0.103
+label: piece
+value: 0.015
+
+
+name: 14:0
+unit: g
+value: 0.297
+label: piece
+value: 0.045
+
+
+name: 16:0
+unit: g
+value: 0.865
+label: piece
+value: 0.13
+
+
+name: 17:0
+unit: g
+value: 0.022
+label: piece
+value: 0.003
+
+
+name: 18:0
+unit: g
+value: 0.399
+label: piece
+value: 0.06
+
+
+name: 20:0
+unit: g
+value: 0.005
+label: piece
+value: 0.001
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.838
+label: piece
+value: 0.126
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.038
+label: piece
+value: 0.006
+
+
+name: 16:1 c
+unit: g
+value: 0.038
+label: piece
+value: 0.006
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.796
+label: piece
+value: 0.119
+
+
+name: 18:1 c
+unit: g
+value: 0.677
+label: piece
+value: 0.102
+
+
+name: 18:1 t
+unit: g
+value: 0.119
+label: piece
+value: 0.018
+
+
+name: 20:1
+unit: g
+value: 0.004
+label: piece
+value: 0.001
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.121
+label: piece
+value: 0.018
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.109
+label: piece
+value: 0.016
+
+
+name: 18:2 n-6 c,c
+unit: g
+value: 0.086
+label: piece
+value: 0.013
+
+
+name: 18:2 CLAs
+unit: g
+value: 0.011
+label: piece
+value: 0.002
+
+
+name: 18:2 i
+unit: g
+value: 0.012
+label: piece
+value: 0.002
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.013
+label: piece
+value: 0.002
+
+
+name: 18:3 n-3 c,c,c (ALA)
+unit: g
+value: 0.013
+label: piece
+value: 0.002
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.131
+label: piece
+value: 0.02
+
+
+name: Fatty acids, total trans-monoenoic
+unit: g
+value: 0.119
+label: piece
+value: 0.018
+
+
+name: Cholesterol
+unit: mg
+value: 9.0
+label: piece
+value: 1.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: piece
+value: 0.0
+
+
+

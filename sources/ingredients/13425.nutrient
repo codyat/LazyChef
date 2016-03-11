@@ -1,0 +1,825 @@
+ndbno: 13425
+
+
+name: Beef, round, tip round, roast, separable lean only, trimmed to 0\ fat, choice, cooked, roasted
+
+
+name: Water
+unit: g
+value: 65.62
+label: oz
+value: 55.78
+label: roast (yield from 1405 g raw meat)
+value: 746.76
+
+
+name: Energy
+unit: kcal
+value: 176.0
+label: oz
+value: 150.0
+label: roast (yield from 1405 g raw meat)
+value: 2003.0
+
+
+name: Energy
+unit: kJ
+value: 737.0
+label: oz
+value: 626.0
+label: roast (yield from 1405 g raw meat)
+value: 8387.0
+
+
+name: Protein
+unit: g
+value: 27.68
+label: oz
+value: 23.53
+label: roast (yield from 1405 g raw meat)
+value: 315.0
+
+
+name: Total lipid (fat)
+unit: g
+value: 6.42
+label: oz
+value: 5.46
+label: roast (yield from 1405 g raw meat)
+value: 73.06
+
+
+name: Ash
+unit: g
+value: 1.12
+label: oz
+value: 0.95
+label: roast (yield from 1405 g raw meat)
+value: 12.75
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: roast (yield from 1405 g raw meat)
+value: 0.0
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: roast (yield from 1405 g raw meat)
+value: 0.0
+
+
+name: Sugars, total
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: roast (yield from 1405 g raw meat)
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 6.0
+label: oz
+value: 5.0
+label: roast (yield from 1405 g raw meat)
+value: 68.0
+
+
+name: Iron, Fe
+unit: mg
+value: 2.43
+label: oz
+value: 2.07
+label: roast (yield from 1405 g raw meat)
+value: 27.65
+
+
+name: Magnesium, Mg
+unit: mg
+value: 19.0
+label: oz
+value: 16.0
+label: roast (yield from 1405 g raw meat)
+value: 216.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 174.0
+label: oz
+value: 148.0
+label: roast (yield from 1405 g raw meat)
+value: 1980.0
+
+
+name: Potassium, K
+unit: mg
+value: 225.0
+label: oz
+value: 191.0
+label: roast (yield from 1405 g raw meat)
+value: 2560.0
+
+
+name: Sodium, Na
+unit: mg
+value: 36.0
+label: oz
+value: 31.0
+label: roast (yield from 1405 g raw meat)
+value: 410.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 4.81
+label: oz
+value: 4.09
+label: roast (yield from 1405 g raw meat)
+value: 54.74
+
+
+name: Copper, Cu
+unit: mg
+value: 0.065
+label: oz
+value: 0.055
+label: roast (yield from 1405 g raw meat)
+value: 0.74
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.009
+label: oz
+value: 0.008
+label: roast (yield from 1405 g raw meat)
+value: 0.102
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 31.4
+label: oz
+value: 26.7
+label: roast (yield from 1405 g raw meat)
+value: 357.3
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: roast (yield from 1405 g raw meat)
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.058
+label: oz
+value: 0.049
+label: roast (yield from 1405 g raw meat)
+value: 0.66
+
+
+name: Riboflavin
+unit: mg
+value: 0.173
+label: oz
+value: 0.147
+label: roast (yield from 1405 g raw meat)
+value: 1.969
+
+
+name: Niacin
+unit: mg
+value: 5.319
+label: oz
+value: 4.521
+label: roast (yield from 1405 g raw meat)
+value: 60.53
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.544
+label: oz
+value: 0.462
+label: roast (yield from 1405 g raw meat)
+value: 6.191
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.386
+label: oz
+value: 0.328
+label: roast (yield from 1405 g raw meat)
+value: 4.393
+
+
+name: Folate, total
+unit: \u00B5g
+value: 9.0
+label: oz
+value: 8.0
+label: roast (yield from 1405 g raw meat)
+value: 102.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: roast (yield from 1405 g raw meat)
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 9.0
+label: oz
+value: 8.0
+label: roast (yield from 1405 g raw meat)
+value: 102.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 9.0
+label: oz
+value: 8.0
+label: roast (yield from 1405 g raw meat)
+value: 102.0
+
+
+name: Choline, total
+unit: mg
+value: 105.4
+label: oz
+value: 89.6
+label: roast (yield from 1405 g raw meat)
+value: 1199.5
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 1.63
+label: oz
+value: 1.39
+label: roast (yield from 1405 g raw meat)
+value: 18.55
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: roast (yield from 1405 g raw meat)
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: roast (yield from 1405 g raw meat)
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: roast (yield from 1405 g raw meat)
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: roast (yield from 1405 g raw meat)
+value: 0.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: roast (yield from 1405 g raw meat)
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: roast (yield from 1405 g raw meat)
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 0.0
+label: oz
+value: 0.0
+label: roast (yield from 1405 g raw meat)
+value: 0.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: roast (yield from 1405 g raw meat)
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: roast (yield from 1405 g raw meat)
+value: 0.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.37
+label: oz
+value: 0.31
+label: roast (yield from 1405 g raw meat)
+value: 4.21
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: roast (yield from 1405 g raw meat)
+value: 0.0
+
+
+name: Tocopherol, beta
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: roast (yield from 1405 g raw meat)
+value: 0.0
+
+
+name: Tocopherol, gamma
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: roast (yield from 1405 g raw meat)
+value: 0.0
+
+
+name: Tocopherol, delta
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: roast (yield from 1405 g raw meat)
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 1.3
+label: oz
+value: 1.1
+label: roast (yield from 1405 g raw meat)
+value: 14.8
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 2.288
+label: oz
+value: 1.945
+label: roast (yield from 1405 g raw meat)
+value: 26.037
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: roast (yield from 1405 g raw meat)
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: roast (yield from 1405 g raw meat)
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: roast (yield from 1405 g raw meat)
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: roast (yield from 1405 g raw meat)
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: roast (yield from 1405 g raw meat)
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.163
+label: oz
+value: 0.139
+label: roast (yield from 1405 g raw meat)
+value: 1.855
+
+
+name: 16:0
+unit: g
+value: 1.398
+label: oz
+value: 1.188
+label: roast (yield from 1405 g raw meat)
+value: 15.909
+
+
+name: 18:0
+unit: g
+value: 0.726
+label: oz
+value: 0.617
+label: roast (yield from 1405 g raw meat)
+value: 8.262
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 2.626
+label: oz
+value: 2.232
+label: roast (yield from 1405 g raw meat)
+value: 29.884
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.224
+label: oz
+value: 0.19
+label: roast (yield from 1405 g raw meat)
+value: 2.549
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 2.403
+label: oz
+value: 2.043
+label: roast (yield from 1405 g raw meat)
+value: 27.346
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: roast (yield from 1405 g raw meat)
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: roast (yield from 1405 g raw meat)
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.236
+label: oz
+value: 0.201
+label: roast (yield from 1405 g raw meat)
+value: 2.686
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.188
+label: oz
+value: 0.16
+label: roast (yield from 1405 g raw meat)
+value: 2.139
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.018
+label: oz
+value: 0.015
+label: roast (yield from 1405 g raw meat)
+value: 0.205
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: roast (yield from 1405 g raw meat)
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.03
+label: oz
+value: 0.026
+label: roast (yield from 1405 g raw meat)
+value: 0.341
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: roast (yield from 1405 g raw meat)
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: roast (yield from 1405 g raw meat)
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: roast (yield from 1405 g raw meat)
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 76.0
+label: oz
+value: 65.0
+label: roast (yield from 1405 g raw meat)
+value: 865.0
+
+
+name: Tryptophan
+unit: g
+value: 0.182
+label: oz
+value: 0.155
+label: roast (yield from 1405 g raw meat)
+value: 2.071
+
+
+name: Threonine
+unit: g
+value: 1.106
+label: oz
+value: 0.94
+label: roast (yield from 1405 g raw meat)
+value: 12.586
+
+
+name: Isoleucine
+unit: g
+value: 1.259
+label: oz
+value: 1.07
+label: roast (yield from 1405 g raw meat)
+value: 14.327
+
+
+name: Leucine
+unit: g
+value: 2.202
+label: oz
+value: 1.872
+label: roast (yield from 1405 g raw meat)
+value: 25.059
+
+
+name: Lysine
+unit: g
+value: 2.339
+label: oz
+value: 1.988
+label: roast (yield from 1405 g raw meat)
+value: 26.618
+
+
+name: Methionine
+unit: g
+value: 0.721
+label: oz
+value: 0.613
+label: roast (yield from 1405 g raw meat)
+value: 8.205
+
+
+name: Cystine
+unit: g
+value: 0.357
+label: oz
+value: 0.303
+label: roast (yield from 1405 g raw meat)
+value: 4.063
+
+
+name: Phenylalanine
+unit: g
+value: 1.093
+label: oz
+value: 0.929
+label: roast (yield from 1405 g raw meat)
+value: 12.438
+
+
+name: Tyrosine
+unit: g
+value: 0.882
+label: oz
+value: 0.75
+label: roast (yield from 1405 g raw meat)
+value: 10.037
+
+
+name: Valine
+unit: g
+value: 1.373
+label: oz
+value: 1.167
+label: roast (yield from 1405 g raw meat)
+value: 15.625
+
+
+name: Arginine
+unit: g
+value: 1.79
+label: oz
+value: 1.522
+label: roast (yield from 1405 g raw meat)
+value: 20.37
+
+
+name: Histidine
+unit: g
+value: 0.883
+label: oz
+value: 0.751
+label: roast (yield from 1405 g raw meat)
+value: 10.049
+
+
+name: Alanine
+unit: g
+value: 1.683
+label: oz
+value: 1.431
+label: roast (yield from 1405 g raw meat)
+value: 19.153
+
+
+name: Aspartic acid
+unit: g
+value: 2.521
+label: oz
+value: 2.143
+label: roast (yield from 1405 g raw meat)
+value: 28.689
+
+
+name: Glutamic acid
+unit: g
+value: 4.156
+label: oz
+value: 3.533
+label: roast (yield from 1405 g raw meat)
+value: 47.295
+
+
+name: Glycine
+unit: g
+value: 1.686
+label: oz
+value: 1.433
+label: roast (yield from 1405 g raw meat)
+value: 19.187
+
+
+name: Proline
+unit: g
+value: 1.32
+label: oz
+value: 1.122
+label: roast (yield from 1405 g raw meat)
+value: 15.022
+
+
+name: Serine
+unit: g
+value: 1.09
+label: oz
+value: 0.927
+label: roast (yield from 1405 g raw meat)
+value: 12.404
+
+
+name: Hydroxyproline
+unit: g
+value: 0.291
+label: oz
+value: 0.247
+label: roast (yield from 1405 g raw meat)
+value: 3.312
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: roast (yield from 1405 g raw meat)
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: roast (yield from 1405 g raw meat)
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: roast (yield from 1405 g raw meat)
+value: 0.0
+
+

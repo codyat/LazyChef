@@ -1,0 +1,565 @@
+ndbno: 19416
+
+
+name: Snacks, rice cakes, brown rice, rye
+
+
+name: Water
+unit: g
+value: 6.8
+label: cake
+value: 0.61
+label: cakes
+value: 1.22
+
+
+name: Energy
+unit: kcal
+value: 386.0
+label: cake
+value: 35.0
+label: cakes
+value: 69.0
+
+
+name: Energy
+unit: kJ
+value: 1615.0
+label: cake
+value: 145.0
+label: cakes
+value: 291.0
+
+
+name: Protein
+unit: g
+value: 8.1
+label: cake
+value: 0.73
+label: cakes
+value: 1.46
+
+
+name: Total lipid (fat)
+unit: g
+value: 3.8
+label: cake
+value: 0.34
+label: cakes
+value: 0.68
+
+
+name: Ash
+unit: g
+value: 1.5
+label: cake
+value: 0.14
+label: cakes
+value: 0.27
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 79.9
+label: cake
+value: 7.19
+label: cakes
+value: 14.38
+
+
+name: Fiber, total dietary
+unit: g
+value: 4.0
+label: cake
+value: 0.4
+label: cakes
+value: 0.7
+
+
+name: Calcium, Ca
+unit: mg
+value: 21.0
+label: cake
+value: 2.0
+label: cakes
+value: 4.0
+
+
+name: Iron, Fe
+unit: mg
+value: 1.8
+label: cake
+value: 0.16
+label: cakes
+value: 0.32
+
+
+name: Magnesium, Mg
+unit: mg
+value: 144.0
+label: cake
+value: 13.0
+label: cakes
+value: 26.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 380.0
+label: cake
+value: 34.0
+label: cakes
+value: 68.0
+
+
+name: Potassium, K
+unit: mg
+value: 311.0
+label: cake
+value: 28.0
+label: cakes
+value: 56.0
+
+
+name: Sodium, Na
+unit: mg
+value: 110.0
+label: cake
+value: 10.0
+label: cakes
+value: 20.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 3.0
+label: cake
+value: 0.27
+label: cakes
+value: 0.54
+
+
+name: Copper, Cu
+unit: mg
+value: 0.39
+label: cake
+value: 0.035
+label: cakes
+value: 0.07
+
+
+name: Manganese, Mn
+unit: mg
+value: 2.977
+label: cake
+value: 0.268
+label: cakes
+value: 0.536
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: cake
+value: 0.0
+label: cakes
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.091
+label: cake
+value: 0.008
+label: cakes
+value: 0.016
+
+
+name: Riboflavin
+unit: mg
+value: 0.09
+label: cake
+value: 0.008
+label: cakes
+value: 0.016
+
+
+name: Niacin
+unit: mg
+value: 7.04
+label: cake
+value: 0.634
+label: cakes
+value: 1.267
+
+
+name: Pantothenic acid
+unit: mg
+value: 1.11
+label: cake
+value: 0.1
+label: cakes
+value: 0.2
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.15
+label: cake
+value: 0.013
+label: cakes
+value: 0.027
+
+
+name: Folate, total
+unit: \u00B5g
+value: 5.0
+label: cake
+value: 0.0
+label: cakes
+value: 1.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: cake
+value: 0.0
+label: cakes
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 5.0
+label: cake
+value: 0.0
+label: cakes
+value: 1.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 5.0
+label: cake
+value: 0.0
+label: cakes
+value: 1.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: cake
+value: 0.0
+label: cakes
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 0.0
+label: cake
+value: 0.0
+label: cakes
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: cake
+value: 0.0
+label: cakes
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 3.0
+label: cake
+value: 0.0
+label: cakes
+value: 1.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.58
+label: cake
+value: 0.052
+label: cakes
+value: 0.104
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: cake
+value: 0.0
+label: cakes
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.01
+label: cake
+value: 0.001
+label: cakes
+value: 0.002
+
+
+name: 16:0
+unit: g
+value: 0.45
+label: cake
+value: 0.04
+label: cakes
+value: 0.081
+
+
+name: 18:0
+unit: g
+value: 0.11
+label: cake
+value: 0.01
+label: cakes
+value: 0.02
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 1.31
+label: cake
+value: 0.118
+label: cakes
+value: 0.236
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.01
+label: cake
+value: 0.001
+label: cakes
+value: 0.002
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 1.3
+label: cake
+value: 0.117
+label: cakes
+value: 0.234
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: cake
+value: 0.0
+label: cakes
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 1.55
+label: cake
+value: 0.14
+label: cakes
+value: 0.279
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 1.49
+label: cake
+value: 0.134
+label: cakes
+value: 0.268
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.06
+label: cake
+value: 0.005
+label: cakes
+value: 0.011
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: cake
+value: 0.0
+label: cakes
+value: 0.0
+
+
+name: Tryptophan
+unit: g
+value: 0.097
+label: cake
+value: 0.009
+label: cakes
+value: 0.017
+
+
+name: Threonine
+unit: g
+value: 0.294
+label: cake
+value: 0.026
+label: cakes
+value: 0.053
+
+
+name: Isoleucine
+unit: g
+value: 0.328
+label: cake
+value: 0.03
+label: cakes
+value: 0.059
+
+
+name: Leucine
+unit: g
+value: 0.621
+label: cake
+value: 0.056
+label: cakes
+value: 0.112
+
+
+name: Lysine
+unit: g
+value: 0.316
+label: cake
+value: 0.028
+label: cakes
+value: 0.057
+
+
+name: Methionine
+unit: g
+value: 0.165
+label: cake
+value: 0.015
+label: cakes
+value: 0.03
+
+
+name: Cystine
+unit: g
+value: 0.127
+label: cake
+value: 0.011
+label: cakes
+value: 0.023
+
+
+name: Phenylalanine
+unit: g
+value: 0.399
+label: cake
+value: 0.036
+label: cakes
+value: 0.072
+
+
+name: Tyrosine
+unit: g
+value: 0.261
+label: cake
+value: 0.023
+label: cakes
+value: 0.047
+
+
+name: Valine
+unit: g
+value: 0.451
+label: cake
+value: 0.041
+label: cakes
+value: 0.081
+
+
+name: Arginine
+unit: g
+value: 0.553
+label: cake
+value: 0.05
+label: cakes
+value: 0.1
+
+
+name: Histidine
+unit: g
+value: 0.204
+label: cake
+value: 0.018
+label: cakes
+value: 0.037
+
+
+name: Alanine
+unit: g
+value: 0.443
+label: cake
+value: 0.04
+label: cakes
+value: 0.08
+
+
+name: Aspartic acid
+unit: g
+value: 0.716
+label: cake
+value: 0.064
+label: cakes
+value: 0.129
+
+
+name: Glutamic acid
+unit: g
+value: 1.769
+label: cake
+value: 0.159
+label: cakes
+value: 0.318
+
+
+name: Glycine
+unit: g
+value: 0.392
+label: cake
+value: 0.035
+label: cakes
+value: 0.071
+
+
+name: Proline
+unit: g
+value: 0.531
+label: cake
+value: 0.048
+label: cakes
+value: 0.096
+
+
+name: Serine
+unit: g
+value: 0.402
+label: cake
+value: 0.036
+label: cakes
+value: 0.072
+
+
+

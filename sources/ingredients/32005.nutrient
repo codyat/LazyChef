@@ -1,0 +1,615 @@
+ndbno: 32005
+
+
+name: Macaroni and cheese, box mix with cheese sauce, prepared
+
+
+name: Water
+unit: g
+value: 63.59
+label: cup prepared
+value: 120.19
+
+
+name: Energy
+unit: kcal
+value: 164.0
+label: cup prepared
+value: 310.0
+
+
+name: Energy
+unit: kJ
+value: 686.0
+label: cup prepared
+value: 1297.0
+
+
+name: Protein
+unit: g
+value: 6.68
+label: cup prepared
+value: 12.63
+
+
+name: Total lipid (fat)
+unit: g
+value: 4.99
+label: cup prepared
+value: 9.43
+
+
+name: Ash
+unit: g
+value: 1.64
+label: cup prepared
+value: 3.1
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 23.1
+label: cup prepared
+value: 43.66
+
+
+name: Fiber, total dietary
+unit: g
+value: 1.2
+label: cup prepared
+value: 2.3
+
+
+name: Sugars, total
+unit: g
+value: 1.57
+label: cup prepared
+value: 2.97
+
+
+name: Sucrose
+unit: g
+value: 0.01
+label: cup prepared
+value: 0.02
+
+
+name: Glucose (dextrose)
+unit: g
+value: 0.0
+label: cup prepared
+value: 0.0
+
+
+name: Fructose
+unit: g
+value: 0.0
+label: cup prepared
+value: 0.0
+
+
+name: Lactose
+unit: g
+value: 1.3
+label: cup prepared
+value: 2.46
+
+
+name: Maltose
+unit: g
+value: 0.27
+label: cup prepared
+value: 0.51
+
+
+name: Galactose
+unit: g
+value: 0.0
+label: cup prepared
+value: 0.0
+
+
+name: Starch
+unit: g
+value: 19.38
+label: cup prepared
+value: 36.63
+
+
+name: Calcium, Ca
+unit: mg
+value: 85.0
+label: cup prepared
+value: 161.0
+
+
+name: Iron, Fe
+unit: mg
+value: 1.17
+label: cup prepared
+value: 2.21
+
+
+name: Magnesium, Mg
+unit: mg
+value: 15.0
+label: cup prepared
+value: 28.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 234.0
+label: cup prepared
+value: 442.0
+
+
+name: Potassium, K
+unit: mg
+value: 80.0
+label: cup prepared
+value: 151.0
+
+
+name: Sodium, Na
+unit: mg
+value: 460.0
+label: cup prepared
+value: 869.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.65
+label: cup prepared
+value: 1.23
+
+
+name: Copper, Cu
+unit: mg
+value: 0.067
+label: cup prepared
+value: 0.127
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.224
+label: cup prepared
+value: 0.423
+
+
+name: Thiamin
+unit: mg
+value: 0.155
+label: cup prepared
+value: 0.293
+
+
+name: Riboflavin
+unit: mg
+value: 0.09
+label: cup prepared
+value: 0.17
+
+
+name: Niacin
+unit: mg
+value: 1.15
+label: cup prepared
+value: 2.173
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.415
+label: cup prepared
+value: 0.784
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.025
+label: cup prepared
+value: 0.047
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.27
+label: cup prepared
+value: 0.51
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 22.0
+label: cup prepared
+value: 42.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 22.0
+label: cup prepared
+value: 42.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 72.0
+label: cup prepared
+value: 136.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.54
+label: cup prepared
+value: 1.02
+
+
+name: Tocopherol, beta
+unit: mg
+value: 0.02
+label: cup prepared
+value: 0.04
+
+
+name: Tocopherol, gamma
+unit: mg
+value: 1.05
+label: cup prepared
+value: 1.98
+
+
+name: Tocopherol, delta
+unit: mg
+value: 0.05
+label: cup prepared
+value: 0.09
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 1.636
+label: cup prepared
+value: 3.092
+
+
+name: 4:0
+unit: g
+value: 0.045
+label: cup prepared
+value: 0.085
+
+
+name: 6:0
+unit: g
+value: 0.033
+label: cup prepared
+value: 0.062
+
+
+name: 8:0
+unit: g
+value: 0.028
+label: cup prepared
+value: 0.053
+
+
+name: 10:0
+unit: g
+value: 0.059
+label: cup prepared
+value: 0.112
+
+
+name: 12:0
+unit: g
+value: 0.066
+label: cup prepared
+value: 0.125
+
+
+name: 14:0
+unit: g
+value: 0.218
+label: cup prepared
+value: 0.412
+
+
+name: 15:0
+unit: g
+value: 0.024
+label: cup prepared
+value: 0.045
+
+
+name: 16:0
+unit: g
+value: 0.81
+label: cup prepared
+value: 1.531
+
+
+name: 17:0
+unit: g
+value: 0.016
+label: cup prepared
+value: 0.03
+
+
+name: 18:0
+unit: g
+value: 0.299
+label: cup prepared
+value: 0.565
+
+
+name: 20:0
+unit: g
+value: 0.019
+label: cup prepared
+value: 0.036
+
+
+name: 22:0
+unit: g
+value: 0.011
+label: cup prepared
+value: 0.021
+
+
+name: 24:0
+unit: g
+value: 0.006
+label: cup prepared
+value: 0.011
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 2.216
+label: cup prepared
+value: 4.188
+
+
+name: 14:1
+unit: g
+value: 0.017
+label: cup prepared
+value: 0.032
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: cup prepared
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.043
+label: cup prepared
+value: 0.081
+
+
+name: 16:1 c
+unit: g
+value: 0.035
+label: cup prepared
+value: 0.066
+
+
+name: 16:1 t
+unit: g
+value: 0.008
+label: cup prepared
+value: 0.015
+
+
+name: 17:1
+unit: g
+value: 0.006
+label: cup prepared
+value: 0.011
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 2.089
+label: cup prepared
+value: 3.948
+
+
+name: 18:1 c
+unit: g
+value: 2.028
+label: cup prepared
+value: 3.833
+
+
+name: 18:1 t
+unit: g
+value: 0.061
+label: cup prepared
+value: 0.115
+
+
+name: 20:1
+unit: g
+value: 0.057
+label: cup prepared
+value: 0.108
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.002
+label: cup prepared
+value: 0.004
+
+
+name: 22:1 c
+unit: g
+value: 0.002
+label: cup prepared
+value: 0.004
+
+
+name: 22:1 t
+unit: g
+value: 0.0
+label: cup prepared
+value: 0.0
+
+
+name: 24:1 c
+unit: g
+value: 0.002
+label: cup prepared
+value: 0.004
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 1.044
+label: cup prepared
+value: 1.973
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.786
+label: cup prepared
+value: 1.486
+
+
+name: 18:2 n-6 c,c
+unit: g
+value: 0.749
+label: cup prepared
+value: 1.416
+
+
+name: 18:2 CLAs
+unit: g
+value: 0.015
+label: cup prepared
+value: 0.028
+
+
+name: 18:2 t not further defined
+unit: g
+value: 0.022
+label: cup prepared
+value: 0.042
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.23
+label: cup prepared
+value: 0.435
+
+
+name: 18:3 n-3 c,c,c (ALA)
+unit: g
+value: 0.229
+label: cup prepared
+value: 0.433
+
+
+name: 18:3 n-6 c,c,c
+unit: g
+value: 0.001
+label: cup prepared
+value: 0.002
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: cup prepared
+value: 0.0
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.003
+label: cup prepared
+value: 0.006
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.003
+label: cup prepared
+value: 0.006
+
+
+name: 20:3 n-6
+unit: g
+value: 0.003
+label: cup prepared
+value: 0.006
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.003
+label: cup prepared
+value: 0.006
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.012
+label: cup prepared
+value: 0.023
+
+
+name: 22:4
+unit: g
+value: 0.003
+label: cup prepared
+value: 0.006
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.002
+label: cup prepared
+value: 0.004
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: cup prepared
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.092
+label: cup prepared
+value: 0.174
+
+
+name: Fatty acids, total trans-monoenoic
+unit: g
+value: 0.069
+label: cup prepared
+value: 0.13
+
+
+name: Cholesterol
+unit: mg
+value: 8.0
+label: cup prepared
+value: 15.0
+
+

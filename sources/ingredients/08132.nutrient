@@ -1,0 +1,755 @@
+ndbno: 08132
+
+
+name: Cereals, oats, instant, fortified, with raisins and spice, dry
+
+
+name: Water
+unit: g
+value: 8.44
+label: packet
+value: 3.71
+
+
+name: Energy
+unit: kcal
+value: 360.0
+label: packet
+value: 158.0
+
+
+name: Energy
+unit: kJ
+value: 1507.0
+label: packet
+value: 663.0
+
+
+name: Protein
+unit: g
+value: 8.45
+label: packet
+value: 3.72
+
+
+name: Total lipid (fat)
+unit: g
+value: 4.03
+label: packet
+value: 1.77
+
+
+name: Ash
+unit: g
+value: 2.75
+label: packet
+value: 1.21
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 76.33
+label: packet
+value: 33.59
+
+
+name: Fiber, total dietary
+unit: g
+value: 5.7
+label: packet
+value: 2.5
+
+
+name: Sugars, total
+unit: g
+value: 37.14
+label: packet
+value: 16.34
+
+
+name: Sucrose
+unit: g
+value: 21.41
+label: packet
+value: 9.42
+
+
+name: Glucose (dextrose)
+unit: g
+value: 7.65
+label: packet
+value: 3.37
+
+
+name: Fructose
+unit: g
+value: 7.78
+label: packet
+value: 3.42
+
+
+name: Lactose
+unit: g
+value: 0.1
+label: packet
+value: 0.04
+
+
+name: Maltose
+unit: g
+value: 0.1
+label: packet
+value: 0.04
+
+
+name: Galactose
+unit: g
+value: 0.1
+label: packet
+value: 0.04
+
+
+name: Starch
+unit: g
+value: 30.91
+label: packet
+value: 13.6
+
+
+name: Calcium, Ca
+unit: mg
+value: 228.0
+label: packet
+value: 100.0
+
+
+name: Iron, Fe
+unit: mg
+value: 9.43
+label: packet
+value: 4.15
+
+
+name: Magnesium, Mg
+unit: mg
+value: 79.0
+label: packet
+value: 35.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 273.0
+label: packet
+value: 120.0
+
+
+name: Potassium, K
+unit: mg
+value: 362.0
+label: packet
+value: 159.0
+
+
+name: Sodium, Na
+unit: mg
+value: 462.0
+label: packet
+value: 203.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 1.76
+label: packet
+value: 0.77
+
+
+name: Copper, Cu
+unit: mg
+value: 0.285
+label: packet
+value: 0.125
+
+
+name: Manganese, Mn
+unit: mg
+value: 1.985
+label: packet
+value: 0.873
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 6.9
+label: packet
+value: 3.0
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.7
+label: packet
+value: 0.3
+
+
+name: Thiamin
+unit: mg
+value: 0.846
+label: packet
+value: 0.372
+
+
+name: Riboflavin
+unit: mg
+value: 0.684
+label: packet
+value: 0.301
+
+
+name: Niacin
+unit: mg
+value: 10.513
+label: packet
+value: 4.626
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.803
+label: packet
+value: 0.353
+
+
+name: Vitamin B-6
+unit: mg
+value: 1.079
+label: packet
+value: 0.475
+
+
+name: Folate, total
+unit: \u00B5g
+value: 213.0
+label: packet
+value: 94.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 193.0
+label: packet
+value: 85.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 19.0
+label: packet
+value: 8.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 348.0
+label: packet
+value: 153.0
+
+
+name: Choline, total
+unit: mg
+value: 25.6
+label: packet
+value: 11.3
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: packet
+value: 0.0
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: packet
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 589.0
+label: packet
+value: 259.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 589.0
+label: packet
+value: 259.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 0.0
+label: packet
+value: 0.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: packet
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: packet
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 1962.0
+label: packet
+value: 863.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: packet
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 104.0
+label: packet
+value: 46.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.4
+label: packet
+value: 0.18
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: packet
+value: 0.0
+
+
+name: Tocopherol, beta
+unit: mg
+value: 0.26
+label: packet
+value: 0.11
+
+
+name: Tocopherol, gamma
+unit: mg
+value: 0.0
+label: packet
+value: 0.0
+
+
+name: Tocopherol, delta
+unit: mg
+value: 0.02
+label: packet
+value: 0.01
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: packet
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: packet
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 2.3
+label: packet
+value: 1.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.639
+label: packet
+value: 0.281
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: packet
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: packet
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: packet
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: packet
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: packet
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.013
+label: packet
+value: 0.006
+
+
+name: 15:0
+unit: g
+value: 0.001
+label: packet
+value: 0.0
+
+
+name: 16:0
+unit: g
+value: 0.561
+label: packet
+value: 0.247
+
+
+name: 17:0
+unit: g
+value: 0.003
+label: packet
+value: 0.001
+
+
+name: 18:0
+unit: g
+value: 0.05
+label: packet
+value: 0.022
+
+
+name: 20:0
+unit: g
+value: 0.005
+label: packet
+value: 0.002
+
+
+name: 22:0
+unit: g
+value: 0.003
+label: packet
+value: 0.001
+
+
+name: 24:0
+unit: g
+value: 0.004
+label: packet
+value: 0.002
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 1.207
+label: packet
+value: 0.531
+
+
+name: 14:1
+unit: g
+value: 0.0
+label: packet
+value: 0.0
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: packet
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.007
+label: packet
+value: 0.003
+
+
+name: 16:1 c
+unit: g
+value: 0.007
+label: packet
+value: 0.003
+
+
+name: 16:1 t
+unit: g
+value: 0.0
+label: packet
+value: 0.0
+
+
+name: 17:1
+unit: g
+value: 0.001
+label: packet
+value: 0.0
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 1.174
+label: packet
+value: 0.517
+
+
+name: 18:1 c
+unit: g
+value: 1.147
+label: packet
+value: 0.505
+
+
+name: 18:1 t
+unit: g
+value: 0.027
+label: packet
+value: 0.012
+
+
+name: 20:1
+unit: g
+value: 0.02
+label: packet
+value: 0.009
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.002
+label: packet
+value: 0.001
+
+
+name: 22:1 c
+unit: g
+value: 0.002
+label: packet
+value: 0.001
+
+
+name: 22:1 t
+unit: g
+value: 0.0
+label: packet
+value: 0.0
+
+
+name: 24:1 c
+unit: g
+value: 0.003
+label: packet
+value: 0.001
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 1.274
+label: packet
+value: 0.561
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 1.23
+label: packet
+value: 0.541
+
+
+name: 18:2 n-6 c,c
+unit: g
+value: 1.22
+label: packet
+value: 0.537
+
+
+name: 18:2 CLAs
+unit: g
+value: 0.001
+label: packet
+value: 0.0
+
+
+name: 18:2 t not further defined
+unit: g
+value: 0.009
+label: packet
+value: 0.004
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.038
+label: packet
+value: 0.017
+
+
+name: 18:3 n-3 c,c,c (ALA)
+unit: g
+value: 0.037
+label: packet
+value: 0.016
+
+
+name: 18:3 n-6 c,c,c
+unit: g
+value: 0.002
+label: packet
+value: 0.001
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: packet
+value: 0.0
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.001
+label: packet
+value: 0.0
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.0
+label: packet
+value: 0.0
+
+
+name: 20:3 n-6
+unit: g
+value: 0.0
+label: packet
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.001
+label: packet
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: packet
+value: 0.0
+
+
+name: 22:4
+unit: g
+value: 0.002
+label: packet
+value: 0.001
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: packet
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: packet
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.035
+label: packet
+value: 0.015
+
+
+name: Fatty acids, total trans-monoenoic
+unit: g
+value: 0.027
+label: packet
+value: 0.012
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: packet
+value: 0.0
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: packet
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: packet
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: packet
+value: 0.0
+
+

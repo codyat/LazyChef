@@ -1,0 +1,807 @@
+ndbno: 03016
+
+
+name: Babyfood, meat, turkey, junior
+
+
+name: Water
+unit: g
+value: 80.32
+label: tbsp
+value: 15.26
+label: container
+value: 54.62
+
+
+name: Energy
+unit: kcal
+value: 111.0
+label: tbsp
+value: 21.0
+label: container
+value: 75.0
+
+
+name: Energy
+unit: kJ
+value: 463.0
+label: tbsp
+value: 88.0
+label: container
+value: 315.0
+
+
+name: Protein
+unit: g
+value: 11.5
+label: tbsp
+value: 2.18
+label: container
+value: 7.82
+
+
+name: Total lipid (fat)
+unit: g
+value: 6.2
+label: tbsp
+value: 1.18
+label: container
+value: 4.22
+
+
+name: Ash
+unit: g
+value: 0.58
+label: tbsp
+value: 0.11
+label: container
+value: 0.39
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 1.4
+label: tbsp
+value: 0.27
+label: container
+value: 0.95
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+label: container
+value: 0.0
+
+
+name: Sugars, total
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+label: container
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 41.0
+label: tbsp
+value: 8.0
+label: container
+value: 28.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.7
+label: tbsp
+value: 0.13
+label: container
+value: 0.48
+
+
+name: Magnesium, Mg
+unit: mg
+value: 12.0
+label: tbsp
+value: 2.0
+label: container
+value: 8.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 117.0
+label: tbsp
+value: 22.0
+label: container
+value: 80.0
+
+
+name: Potassium, K
+unit: mg
+value: 135.0
+label: tbsp
+value: 26.0
+label: container
+value: 92.0
+
+
+name: Sodium, Na
+unit: mg
+value: 49.0
+label: tbsp
+value: 9.0
+label: container
+value: 33.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 1.77
+label: tbsp
+value: 0.34
+label: container
+value: 1.2
+
+
+name: Copper, Cu
+unit: mg
+value: 0.148
+label: tbsp
+value: 0.028
+label: container
+value: 0.101
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.037
+label: tbsp
+value: 0.007
+label: container
+value: 0.025
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 12.0
+label: tbsp
+value: 2.3
+label: container
+value: 8.2
+
+
+name: Fluoride, F
+unit: \u00B5g
+value: 43.6
+label: tbsp
+value: 8.3
+label: container
+value: 29.6
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: tbsp
+value: 0.0
+label: container
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.008
+label: tbsp
+value: 0.002
+label: container
+value: 0.005
+
+
+name: Riboflavin
+unit: mg
+value: 0.163
+label: tbsp
+value: 0.031
+label: container
+value: 0.111
+
+
+name: Niacin
+unit: mg
+value: 2.61
+label: tbsp
+value: 0.496
+label: container
+value: 1.775
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.41
+label: tbsp
+value: 0.078
+label: container
+value: 0.279
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.029
+label: tbsp
+value: 0.006
+label: container
+value: 0.02
+
+
+name: Folate, total
+unit: \u00B5g
+value: 8.0
+label: tbsp
+value: 2.0
+label: container
+value: 5.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: tbsp
+value: 0.0
+label: container
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 8.0
+label: tbsp
+value: 2.0
+label: container
+value: 5.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 8.0
+label: tbsp
+value: 2.0
+label: container
+value: 5.0
+
+
+name: Choline, total
+unit: mg
+value: 39.8
+label: tbsp
+value: 7.6
+label: container
+value: 27.1
+
+
+name: Betaine
+unit: mg
+value: 4.7
+label: tbsp
+value: 0.9
+label: container
+value: 3.2
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 1.11
+label: tbsp
+value: 0.21
+label: container
+value: 0.75
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: tbsp
+value: 0.0
+label: container
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 0.0
+label: tbsp
+value: 0.0
+label: container
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: tbsp
+value: 0.0
+label: container
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 0.0
+label: tbsp
+value: 0.0
+label: container
+value: 0.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: tbsp
+value: 0.0
+label: container
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: tbsp
+value: 0.0
+label: container
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 0.0
+label: tbsp
+value: 0.0
+label: container
+value: 0.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: tbsp
+value: 0.0
+label: container
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 0.0
+label: tbsp
+value: 0.0
+label: container
+value: 0.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.08
+label: tbsp
+value: 0.02
+label: container
+value: 0.05
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: tbsp
+value: 0.0
+label: container
+value: 0.0
+
+
+name: Tocopherol, beta
+unit: mg
+value: 0.0
+label: tbsp
+value: 0.0
+label: container
+value: 0.0
+
+
+name: Tocopherol, gamma
+unit: mg
+value: 0.03
+label: tbsp
+value: 0.01
+label: container
+value: 0.02
+
+
+name: Tocopherol, delta
+unit: mg
+value: 0.0
+label: tbsp
+value: 0.0
+label: container
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.8
+label: tbsp
+value: 0.2
+label: container
+value: 0.5
+
+
+name: Vitamin D
+unit: IU
+value: 34.0
+label: tbsp
+value: 6.0
+label: container
+value: 23.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 0.0
+label: tbsp
+value: 0.0
+label: container
+value: 0.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 1.641
+label: tbsp
+value: 0.312
+label: container
+value: 1.116
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+label: container
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+label: container
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+label: container
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+label: container
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+label: container
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.04
+label: tbsp
+value: 0.008
+label: container
+value: 0.027
+
+
+name: 15:0
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+label: container
+value: 0.0
+
+
+name: 16:0
+unit: g
+value: 0.77
+label: tbsp
+value: 0.146
+label: container
+value: 0.524
+
+
+name: 17:0
+unit: g
+value: 0.01
+label: tbsp
+value: 0.002
+label: container
+value: 0.007
+
+
+name: 18:0
+unit: g
+value: 0.33
+label: tbsp
+value: 0.063
+label: container
+value: 0.224
+
+
+name: 20:0
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+label: container
+value: 0.0
+
+
+name: 22:0
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+label: container
+value: 0.0
+
+
+name: 24:0
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+label: container
+value: 0.0
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 2.384
+label: tbsp
+value: 0.453
+label: container
+value: 1.621
+
+
+name: 14:1
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+label: container
+value: 0.0
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+label: container
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.14
+label: tbsp
+value: 0.027
+label: container
+value: 0.095
+
+
+name: 17:1
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+label: container
+value: 0.0
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 1.52
+label: tbsp
+value: 0.289
+label: container
+value: 1.034
+
+
+name: 20:1
+unit: g
+value: 0.01
+label: tbsp
+value: 0.002
+label: container
+value: 0.007
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+label: container
+value: 0.0
+
+
+name: 24:1 c
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+label: container
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 1.741
+label: tbsp
+value: 0.331
+label: container
+value: 1.184
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 1.04
+label: tbsp
+value: 0.198
+label: container
+value: 0.707
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.06
+label: tbsp
+value: 0.011
+label: container
+value: 0.041
+
+
+name: 18:4
+unit: g
+value: 0.02
+label: tbsp
+value: 0.004
+label: container
+value: 0.014
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+label: container
+value: 0.0
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+label: container
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.05
+label: tbsp
+value: 0.01
+label: container
+value: 0.034
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+label: container
+value: 0.0
+
+
+name: 21:5
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+label: container
+value: 0.0
+
+
+name: 22:4
+unit: g
+value: 0.01
+label: tbsp
+value: 0.002
+label: container
+value: 0.007
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.04
+label: tbsp
+value: 0.008
+label: container
+value: 0.027
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+label: container
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 58.0
+label: tbsp
+value: 11.0
+label: container
+value: 39.0
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+label: container
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: tbsp
+value: 0.0
+label: container
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: tbsp
+value: 0.0
+label: container
+value: 0.0
+
+

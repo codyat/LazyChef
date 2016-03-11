@@ -1,0 +1,1217 @@
+ndbno: 05347
+
+
+name: Chicken, broilers or fryers, back, meat and skin, cooked, rotisserie, original seasoning
+
+
+name: Water
+unit: g
+value: 56.44
+label: back
+value: 57.57
+label: serving (3 oz)
+value: 47.97
+label: oz
+value: 16.0
+
+
+name: Energy
+unit: kcal
+value: 260.0
+label: back
+value: 265.0
+label: serving (3 oz)
+value: 221.0
+label: oz
+value: 74.0
+
+
+name: Energy
+unit: kJ
+value: 1089.0
+label: back
+value: 1111.0
+label: serving (3 oz)
+value: 926.0
+label: oz
+value: 309.0
+
+
+name: Protein
+unit: g
+value: 23.23
+label: back
+value: 23.69
+label: serving (3 oz)
+value: 19.75
+label: oz
+value: 6.59
+
+
+name: Total lipid (fat)
+unit: g
+value: 18.59
+label: back
+value: 18.96
+label: serving (3 oz)
+value: 15.8
+label: oz
+value: 5.27
+
+
+name: Ash
+unit: g
+value: 2.36
+label: back
+value: 2.41
+label: serving (3 oz)
+value: 2.01
+label: oz
+value: 0.67
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 0.03
+label: back
+value: 0.03
+label: serving (3 oz)
+value: 0.03
+label: oz
+value: 0.01
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: back
+value: 0.0
+label: serving (3 oz)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Sugars, total
+unit: g
+value: 0.03
+label: back
+value: 0.03
+label: serving (3 oz)
+value: 0.03
+label: oz
+value: 0.01
+
+
+name: Sucrose
+unit: g
+value: 0.03
+label: back
+value: 0.03
+label: serving (3 oz)
+value: 0.03
+label: oz
+value: 0.01
+
+
+name: Glucose (dextrose)
+unit: g
+value: 0.0
+label: back
+value: 0.0
+label: serving (3 oz)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Fructose
+unit: g
+value: 0.0
+label: back
+value: 0.0
+label: serving (3 oz)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Lactose
+unit: g
+value: 0.0
+label: back
+value: 0.0
+label: serving (3 oz)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Maltose
+unit: g
+value: 0.0
+label: back
+value: 0.0
+label: serving (3 oz)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Galactose
+unit: g
+value: 0.0
+label: back
+value: 0.0
+label: serving (3 oz)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Starch
+unit: g
+value: 0.0
+label: back
+value: 0.0
+label: serving (3 oz)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 35.0
+label: back
+value: 36.0
+label: serving (3 oz)
+value: 30.0
+label: oz
+value: 10.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.97
+label: back
+value: 0.99
+label: serving (3 oz)
+value: 0.82
+label: oz
+value: 0.27
+
+
+name: Magnesium, Mg
+unit: mg
+value: 23.0
+label: back
+value: 23.0
+label: serving (3 oz)
+value: 20.0
+label: oz
+value: 7.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 249.0
+label: back
+value: 254.0
+label: serving (3 oz)
+value: 212.0
+label: oz
+value: 71.0
+
+
+name: Potassium, K
+unit: mg
+value: 291.0
+label: back
+value: 297.0
+label: serving (3 oz)
+value: 247.0
+label: oz
+value: 82.0
+
+
+name: Sodium, Na
+unit: mg
+value: 584.0
+label: back
+value: 596.0
+label: serving (3 oz)
+value: 496.0
+label: oz
+value: 166.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 1.77
+label: back
+value: 1.81
+label: serving (3 oz)
+value: 1.5
+label: oz
+value: 0.5
+
+
+name: Copper, Cu
+unit: mg
+value: 0.069
+label: back
+value: 0.07
+label: serving (3 oz)
+value: 0.059
+label: oz
+value: 0.02
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.026
+label: back
+value: 0.027
+label: serving (3 oz)
+value: 0.022
+label: oz
+value: 0.007
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 40.1
+label: back
+value: 40.9
+label: serving (3 oz)
+value: 34.1
+label: oz
+value: 11.4
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: back
+value: 0.0
+label: serving (3 oz)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.068
+label: back
+value: 0.069
+label: serving (3 oz)
+value: 0.058
+label: oz
+value: 0.019
+
+
+name: Riboflavin
+unit: mg
+value: 0.185
+label: back
+value: 0.189
+label: serving (3 oz)
+value: 0.157
+label: oz
+value: 0.052
+
+
+name: Niacin
+unit: mg
+value: 5.928
+label: back
+value: 6.047
+label: serving (3 oz)
+value: 5.039
+label: oz
+value: 1.681
+
+
+name: Pantothenic acid
+unit: mg
+value: 1.2
+label: back
+value: 1.224
+label: serving (3 oz)
+value: 1.02
+label: oz
+value: 0.34
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.139
+label: back
+value: 0.142
+label: serving (3 oz)
+value: 0.118
+label: oz
+value: 0.039
+
+
+name: Folate, total
+unit: \u00B5g
+value: 9.0
+label: back
+value: 9.0
+label: serving (3 oz)
+value: 8.0
+label: oz
+value: 3.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: back
+value: 0.0
+label: serving (3 oz)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 9.0
+label: back
+value: 9.0
+label: serving (3 oz)
+value: 8.0
+label: oz
+value: 3.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 9.0
+label: back
+value: 9.0
+label: serving (3 oz)
+value: 8.0
+label: oz
+value: 3.0
+
+
+name: Choline, total
+unit: mg
+value: 58.9
+label: back
+value: 60.1
+label: serving (3 oz)
+value: 50.1
+label: oz
+value: 16.7
+
+
+name: Betaine
+unit: mg
+value: 6.7
+label: back
+value: 6.8
+label: serving (3 oz)
+value: 5.7
+label: oz
+value: 1.9
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.68
+label: back
+value: 0.69
+label: serving (3 oz)
+value: 0.58
+label: oz
+value: 0.19
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: back
+value: 0.0
+label: serving (3 oz)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 28.0
+label: back
+value: 29.0
+label: serving (3 oz)
+value: 24.0
+label: oz
+value: 8.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 28.0
+label: back
+value: 29.0
+label: serving (3 oz)
+value: 24.0
+label: oz
+value: 8.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 0.0
+label: back
+value: 0.0
+label: serving (3 oz)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: back
+value: 0.0
+label: serving (3 oz)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: back
+value: 0.0
+label: serving (3 oz)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 92.0
+label: back
+value: 94.0
+label: serving (3 oz)
+value: 78.0
+label: oz
+value: 26.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: back
+value: 0.0
+label: serving (3 oz)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 0.0
+label: back
+value: 0.0
+label: serving (3 oz)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.28
+label: back
+value: 0.29
+label: serving (3 oz)
+value: 0.24
+label: oz
+value: 0.08
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: back
+value: 0.0
+label: serving (3 oz)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Tocopherol, beta
+unit: mg
+value: 0.0
+label: back
+value: 0.0
+label: serving (3 oz)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Tocopherol, gamma
+unit: mg
+value: 0.05
+label: back
+value: 0.05
+label: serving (3 oz)
+value: 0.04
+label: oz
+value: 0.01
+
+
+name: Tocopherol, delta
+unit: mg
+value: 0.0
+label: back
+value: 0.0
+label: serving (3 oz)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 0.0
+label: back
+value: 0.0
+label: serving (3 oz)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 4.924
+label: back
+value: 5.022
+label: serving (3 oz)
+value: 4.185
+label: oz
+value: 1.396
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: back
+value: 0.0
+label: serving (3 oz)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: back
+value: 0.0
+label: serving (3 oz)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: back
+value: 0.0
+label: serving (3 oz)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: back
+value: 0.0
+label: serving (3 oz)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.001
+label: back
+value: 0.001
+label: serving (3 oz)
+value: 0.001
+label: oz
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.104
+label: back
+value: 0.106
+label: serving (3 oz)
+value: 0.088
+label: oz
+value: 0.029
+
+
+name: 15:0
+unit: g
+value: 0.019
+label: back
+value: 0.019
+label: serving (3 oz)
+value: 0.016
+label: oz
+value: 0.005
+
+
+name: 16:0
+unit: g
+value: 3.913
+label: back
+value: 3.991
+label: serving (3 oz)
+value: 3.326
+label: oz
+value: 1.109
+
+
+name: 17:0
+unit: g
+value: 0.014
+label: back
+value: 0.014
+label: serving (3 oz)
+value: 0.012
+label: oz
+value: 0.004
+
+
+name: 18:0
+unit: g
+value: 0.874
+label: back
+value: 0.891
+label: serving (3 oz)
+value: 0.743
+label: oz
+value: 0.248
+
+
+name: 20:0
+unit: g
+value: 0.0
+label: back
+value: 0.0
+label: serving (3 oz)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 22:0
+unit: g
+value: 0.0
+label: back
+value: 0.0
+label: serving (3 oz)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 24:0
+unit: g
+value: 0.0
+label: back
+value: 0.0
+label: serving (3 oz)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 8.162
+label: back
+value: 8.325
+label: serving (3 oz)
+value: 6.938
+label: oz
+value: 2.314
+
+
+name: 14:1
+unit: g
+value: 0.029
+label: back
+value: 0.03
+label: serving (3 oz)
+value: 0.025
+label: oz
+value: 0.008
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: back
+value: 0.0
+label: serving (3 oz)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 1.314
+label: back
+value: 1.34
+label: serving (3 oz)
+value: 1.117
+label: oz
+value: 0.373
+
+
+name: 17:1
+unit: g
+value: 0.0
+label: back
+value: 0.0
+label: serving (3 oz)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 6.769
+label: back
+value: 6.904
+label: serving (3 oz)
+value: 5.754
+label: oz
+value: 1.919
+
+
+name: 20:1
+unit: g
+value: 0.049
+label: back
+value: 0.05
+label: serving (3 oz)
+value: 0.042
+label: oz
+value: 0.014
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: back
+value: 0.0
+label: serving (3 oz)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 2.723
+label: back
+value: 2.777
+label: serving (3 oz)
+value: 2.315
+label: oz
+value: 0.772
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 2.514
+label: back
+value: 2.564
+label: serving (3 oz)
+value: 2.137
+label: oz
+value: 0.713
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.148
+label: back
+value: 0.151
+label: serving (3 oz)
+value: 0.126
+label: oz
+value: 0.042
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: back
+value: 0.0
+label: serving (3 oz)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.022
+label: back
+value: 0.022
+label: serving (3 oz)
+value: 0.019
+label: oz
+value: 0.006
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.0
+label: back
+value: 0.0
+label: serving (3 oz)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.039
+label: back
+value: 0.04
+label: serving (3 oz)
+value: 0.033
+label: oz
+value: 0.011
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: back
+value: 0.0
+label: serving (3 oz)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: back
+value: 0.0
+label: serving (3 oz)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: back
+value: 0.0
+label: serving (3 oz)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.231
+label: back
+value: 0.236
+label: serving (3 oz)
+value: 0.196
+label: oz
+value: 0.065
+
+
+name: Cholesterol
+unit: mg
+value: 128.0
+label: back
+value: 131.0
+label: serving (3 oz)
+value: 109.0
+label: oz
+value: 36.0
+
+
+name: Tryptophan
+unit: g
+value: 0.227
+label: back
+value: 0.232
+label: serving (3 oz)
+value: 0.193
+label: oz
+value: 0.064
+
+
+name: Threonine
+unit: g
+value: 0.669
+label: back
+value: 0.682
+label: serving (3 oz)
+value: 0.569
+label: oz
+value: 0.19
+
+
+name: Isoleucine
+unit: g
+value: 1.042
+label: back
+value: 1.063
+label: serving (3 oz)
+value: 0.886
+label: oz
+value: 0.295
+
+
+name: Leucine
+unit: g
+value: 1.808
+label: back
+value: 1.844
+label: serving (3 oz)
+value: 1.537
+label: oz
+value: 0.513
+
+
+name: Lysine
+unit: g
+value: 1.895
+label: back
+value: 1.933
+label: serving (3 oz)
+value: 1.611
+label: oz
+value: 0.537
+
+
+name: Methionine
+unit: g
+value: 0.718
+label: back
+value: 0.732
+label: serving (3 oz)
+value: 0.61
+label: oz
+value: 0.204
+
+
+name: Cystine
+unit: g
+value: 0.256
+label: back
+value: 0.261
+label: serving (3 oz)
+value: 0.218
+label: oz
+value: 0.073
+
+
+name: Phenylalanine
+unit: g
+value: 0.861
+label: back
+value: 0.878
+label: serving (3 oz)
+value: 0.732
+label: oz
+value: 0.244
+
+
+name: Tyrosine
+unit: g
+value: 0.656
+label: back
+value: 0.669
+label: serving (3 oz)
+value: 0.558
+label: oz
+value: 0.186
+
+
+name: Valine
+unit: g
+value: 1.185
+label: back
+value: 1.209
+label: serving (3 oz)
+value: 1.007
+label: oz
+value: 0.336
+
+
+name: Arginine
+unit: g
+value: 1.466
+label: back
+value: 1.495
+label: serving (3 oz)
+value: 1.246
+label: oz
+value: 0.416
+
+
+name: Histidine
+unit: g
+value: 0.71
+label: back
+value: 0.724
+label: serving (3 oz)
+value: 0.603
+label: oz
+value: 0.201
+
+
+name: Alanine
+unit: g
+value: 1.395
+label: back
+value: 1.423
+label: serving (3 oz)
+value: 1.186
+label: oz
+value: 0.395
+
+
+name: Aspartic acid
+unit: g
+value: 2.152
+label: back
+value: 2.195
+label: serving (3 oz)
+value: 1.829
+label: oz
+value: 0.61
+
+
+name: Glutamic acid
+unit: g
+value: 3.453
+label: back
+value: 3.522
+label: serving (3 oz)
+value: 2.935
+label: oz
+value: 0.979
+
+
+name: Glycine
+unit: g
+value: 1.534
+label: back
+value: 1.565
+label: serving (3 oz)
+value: 1.304
+label: oz
+value: 0.435
+
+
+name: Proline
+unit: g
+value: 1.332
+label: back
+value: 1.359
+label: serving (3 oz)
+value: 1.132
+label: oz
+value: 0.378
+
+
+name: Serine
+unit: g
+value: 0.716
+label: back
+value: 0.73
+label: serving (3 oz)
+value: 0.609
+label: oz
+value: 0.203
+
+
+name: Hydroxyproline
+unit: g
+value: 0.257
+label: back
+value: 0.262
+label: serving (3 oz)
+value: 0.218
+label: oz
+value: 0.073
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: back
+value: 0.0
+label: serving (3 oz)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: back
+value: 0.0
+label: serving (3 oz)
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: back
+value: 0.0
+label: serving (3 oz)
+value: 0.0
+label: oz
+value: 0.0
+
+
+

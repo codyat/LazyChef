@@ -1,0 +1,825 @@
+ndbno: 05196
+
+
+name: Turkey, all classes, wing, meat and skin, cooked, roasted
+
+
+name: Water
+unit: g
+value: 59.49
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 14.28
+label: wing, bone removed
+value: 110.65
+
+
+name: Energy
+unit: kcal
+value: 229.0
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 55.0
+label: wing, bone removed
+value: 426.0
+
+
+name: Energy
+unit: kJ
+value: 958.0
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 230.0
+label: wing, bone removed
+value: 1782.0
+
+
+name: Protein
+unit: g
+value: 27.38
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 6.57
+label: wing, bone removed
+value: 50.93
+
+
+name: Total lipid (fat)
+unit: g
+value: 12.43
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 2.98
+label: wing, bone removed
+value: 23.12
+
+
+name: Ash
+unit: g
+value: 0.97
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 0.23
+label: wing, bone removed
+value: 1.8
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 0.0
+label: wing, bone removed
+value: 0.0
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 0.0
+label: wing, bone removed
+value: 0.0
+
+
+name: Sugars, total
+unit: g
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 0.0
+label: wing, bone removed
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 24.0
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 6.0
+label: wing, bone removed
+value: 45.0
+
+
+name: Iron, Fe
+unit: mg
+value: 1.46
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 0.35
+label: wing, bone removed
+value: 2.72
+
+
+name: Magnesium, Mg
+unit: mg
+value: 25.0
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 6.0
+label: wing, bone removed
+value: 46.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 197.0
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 47.0
+label: wing, bone removed
+value: 366.0
+
+
+name: Potassium, K
+unit: mg
+value: 266.0
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 64.0
+label: wing, bone removed
+value: 495.0
+
+
+name: Sodium, Na
+unit: mg
+value: 61.0
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 15.0
+label: wing, bone removed
+value: 113.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 2.1
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 0.5
+label: wing, bone removed
+value: 3.91
+
+
+name: Copper, Cu
+unit: mg
+value: 0.056
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 0.013
+label: wing, bone removed
+value: 0.104
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.02
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 0.005
+label: wing, bone removed
+value: 0.037
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 29.9
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 7.2
+label: wing, bone removed
+value: 55.6
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 0.0
+label: wing, bone removed
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.05
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 0.012
+label: wing, bone removed
+value: 0.093
+
+
+name: Riboflavin
+unit: mg
+value: 0.134
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 0.032
+label: wing, bone removed
+value: 0.249
+
+
+name: Niacin
+unit: mg
+value: 5.732
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 1.376
+label: wing, bone removed
+value: 10.662
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.584
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 0.14
+label: wing, bone removed
+value: 1.086
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.42
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 0.101
+label: wing, bone removed
+value: 0.781
+
+
+name: Folate, total
+unit: \u00B5g
+value: 6.0
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 1.0
+label: wing, bone removed
+value: 11.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 0.0
+label: wing, bone removed
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 6.0
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 1.0
+label: wing, bone removed
+value: 11.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 6.0
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 1.0
+label: wing, bone removed
+value: 11.0
+
+
+name: Choline, total
+unit: mg
+value: 68.6
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 16.5
+label: wing, bone removed
+value: 127.6
+
+
+name: Betaine
+unit: mg
+value: 5.8
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 1.4
+label: wing, bone removed
+value: 10.8
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.34
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 0.08
+label: wing, bone removed
+value: 0.63
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 0.0
+label: wing, bone removed
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 0.0
+label: wing, bone removed
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 0.0
+label: wing, bone removed
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 0.0
+label: wing, bone removed
+value: 0.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 0.0
+label: wing, bone removed
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 0.0
+label: wing, bone removed
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 0.0
+label: wing, bone removed
+value: 0.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 0.0
+label: wing, bone removed
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 0.0
+label: wing, bone removed
+value: 0.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.17
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 0.04
+label: wing, bone removed
+value: 0.32
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 0.0
+label: wing, bone removed
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.1
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 0.0
+label: wing, bone removed
+value: 0.2
+
+
+name: Vitamin D3 (cholecalciferol)
+unit: \u00B5g
+value: 0.1
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 0.0
+label: wing, bone removed
+value: 0.2
+
+
+name: Vitamin D
+unit: IU
+value: 4.0
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 1.0
+label: wing, bone removed
+value: 7.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 0.0
+label: wing, bone removed
+value: 0.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 3.39
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 0.814
+label: wing, bone removed
+value: 6.305
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 0.0
+label: wing, bone removed
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 0.0
+label: wing, bone removed
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 0.0
+label: wing, bone removed
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 0.0
+label: wing, bone removed
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.01
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 0.002
+label: wing, bone removed
+value: 0.019
+
+
+name: 14:0
+unit: g
+value: 0.09
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 0.022
+label: wing, bone removed
+value: 0.167
+
+
+name: 16:0
+unit: g
+value: 2.23
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 0.535
+label: wing, bone removed
+value: 4.148
+
+
+name: 18:0
+unit: g
+value: 0.74
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 0.178
+label: wing, bone removed
+value: 1.376
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 4.66
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 1.118
+label: wing, bone removed
+value: 8.668
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.79
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 0.19
+label: wing, bone removed
+value: 1.469
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 3.76
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 0.902
+label: wing, bone removed
+value: 6.994
+
+
+name: 20:1
+unit: g
+value: 0.01
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 0.002
+label: wing, bone removed
+value: 0.019
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.01
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 0.002
+label: wing, bone removed
+value: 0.019
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 2.94
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 0.706
+label: wing, bone removed
+value: 5.468
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 2.49
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 0.598
+label: wing, bone removed
+value: 4.631
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.16
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 0.038
+label: wing, bone removed
+value: 0.298
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 0.0
+label: wing, bone removed
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.16
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 0.038
+label: wing, bone removed
+value: 0.298
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 0.0
+label: wing, bone removed
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.02
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 0.005
+label: wing, bone removed
+value: 0.037
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.03
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 0.007
+label: wing, bone removed
+value: 0.056
+
+
+name: Cholesterol
+unit: mg
+value: 81.0
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 19.0
+label: wing, bone removed
+value: 151.0
+
+
+name: Tryptophan
+unit: g
+value: 0.295
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 0.071
+label: wing, bone removed
+value: 0.549
+
+
+name: Threonine
+unit: g
+value: 1.175
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 0.282
+label: wing, bone removed
+value: 2.186
+
+
+name: Isoleucine
+unit: g
+value: 1.327
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 0.318
+label: wing, bone removed
+value: 2.468
+
+
+name: Leucine
+unit: g
+value: 2.08
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 0.499
+label: wing, bone removed
+value: 3.869
+
+
+name: Lysine
+unit: g
+value: 2.412
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 0.579
+label: wing, bone removed
+value: 4.486
+
+
+name: Methionine
+unit: g
+value: 0.749
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 0.18
+label: wing, bone removed
+value: 1.393
+
+
+name: Cystine
+unit: g
+value: 0.315
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 0.076
+label: wing, bone removed
+value: 0.586
+
+
+name: Phenylalanine
+unit: g
+value: 1.058
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 0.254
+label: wing, bone removed
+value: 1.968
+
+
+name: Tyrosine
+unit: g
+value: 1.0
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 0.24
+label: wing, bone removed
+value: 1.86
+
+
+name: Valine
+unit: g
+value: 1.401
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 0.336
+label: wing, bone removed
+value: 2.606
+
+
+name: Arginine
+unit: g
+value: 1.946
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 0.467
+label: wing, bone removed
+value: 3.62
+
+
+name: Histidine
+unit: g
+value: 0.796
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 0.191
+label: wing, bone removed
+value: 1.481
+
+
+name: Alanine
+unit: g
+value: 1.789
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 0.429
+label: wing, bone removed
+value: 3.328
+
+
+name: Aspartic acid
+unit: g
+value: 2.622
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 0.629
+label: wing, bone removed
+value: 4.877
+
+
+name: Glutamic acid
+unit: g
+value: 4.279
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 1.027
+label: wing, bone removed
+value: 7.959
+
+
+name: Glycine
+unit: g
+value: 1.894
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 0.455
+label: wing, bone removed
+value: 3.523
+
+
+name: Proline
+unit: g
+value: 1.391
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 0.334
+label: wing, bone removed
+value: 2.587
+
+
+name: Serine
+unit: g
+value: 1.199
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 0.288
+label: wing, bone removed
+value: 2.23
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 0.0
+label: wing, bone removed
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 0.0
+label: wing, bone removed
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook turkey)
+value: 0.0
+label: wing, bone removed
+value: 0.0
+
+

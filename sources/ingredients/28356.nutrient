@@ -1,0 +1,580 @@
+ndbno: 28356
+
+
+name: GLUTINO, Gluten Free Cookies, Chocolate Vanilla Creme
+
+
+name: Water
+unit: g
+value: 2.84
+label: cookies
+value: 1.25
+
+
+name: Energy
+unit: kcal
+value: 474.0
+label: cookies
+value: 209.0
+
+
+name: Energy
+unit: kJ
+value: 1983.0
+label: cookies
+value: 873.0
+
+
+name: Protein
+unit: g
+value: 2.19
+label: cookies
+value: 0.96
+
+
+name: Total lipid (fat)
+unit: g
+value: 17.89
+label: cookies
+value: 7.87
+
+
+name: Ash
+unit: g
+value: 1.06
+label: cookies
+value: 0.47
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 76.03
+label: cookies
+value: 33.45
+
+
+name: Fiber, total dietary
+unit: g
+value: 2.5
+label: cookies
+value: 1.1
+
+
+name: Sugars, total
+unit: g
+value: 49.0
+label: cookies
+value: 21.56
+
+
+name: Sucrose
+unit: g
+value: 47.57
+label: cookies
+value: 20.93
+
+
+name: Glucose (dextrose)
+unit: g
+value: 1.0
+label: cookies
+value: 0.44
+
+
+name: Fructose
+unit: g
+value: 0.0
+label: cookies
+value: 0.0
+
+
+name: Lactose
+unit: g
+value: 0.0
+label: cookies
+value: 0.0
+
+
+name: Maltose
+unit: g
+value: 0.42
+label: cookies
+value: 0.18
+
+
+name: Galactose
+unit: g
+value: 0.0
+label: cookies
+value: 0.0
+
+
+name: Starch
+unit: g
+value: 24.3
+label: cookies
+value: 10.69
+
+
+name: Calcium, Ca
+unit: mg
+value: 19.0
+label: cookies
+value: 8.0
+
+
+name: Iron, Fe
+unit: mg
+value: 2.81
+label: cookies
+value: 1.24
+
+
+name: Magnesium, Mg
+unit: mg
+value: 40.0
+label: cookies
+value: 18.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 70.0
+label: cookies
+value: 31.0
+
+
+name: Potassium, K
+unit: mg
+value: 157.0
+label: cookies
+value: 69.0
+
+
+name: Sodium, Na
+unit: mg
+value: 275.0
+label: cookies
+value: 121.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.66
+label: cookies
+value: 0.29
+
+
+name: Copper, Cu
+unit: mg
+value: 0.261
+label: cookies
+value: 0.115
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.515
+label: cookies
+value: 0.227
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 0.0
+label: cookies
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.05
+label: cookies
+value: 0.022
+
+
+name: Riboflavin
+unit: mg
+value: 0.076
+label: cookies
+value: 0.033
+
+
+name: Niacin
+unit: mg
+value: 0.39
+label: cookies
+value: 0.172
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.15
+label: cookies
+value: 0.066
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.0
+label: cookies
+value: 0.0
+
+
+name: Folate, total
+unit: \u00B5g
+value: 0.0
+label: cookies
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 0.0
+label: cookies
+value: 0.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 7.905
+label: cookies
+value: 3.478
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: cookies
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: cookies
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.003
+label: cookies
+value: 0.001
+
+
+name: 10:0
+unit: g
+value: 0.001
+label: cookies
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.03
+label: cookies
+value: 0.013
+
+
+name: 14:0
+unit: g
+value: 0.155
+label: cookies
+value: 0.068
+
+
+name: 15:0
+unit: g
+value: 0.009
+label: cookies
+value: 0.004
+
+
+name: 16:0
+unit: g
+value: 6.65
+label: cookies
+value: 2.926
+
+
+name: 17:0
+unit: g
+value: 0.017
+label: cookies
+value: 0.007
+
+
+name: 18:0
+unit: g
+value: 0.95
+label: cookies
+value: 0.418
+
+
+name: 20:0
+unit: g
+value: 0.063
+label: cookies
+value: 0.028
+
+
+name: 22:0
+unit: g
+value: 0.014
+label: cookies
+value: 0.006
+
+
+name: 24:0
+unit: g
+value: 0.014
+label: cookies
+value: 0.006
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 6.142
+label: cookies
+value: 2.702
+
+
+name: 14:1
+unit: g
+value: 0.002
+label: cookies
+value: 0.001
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: cookies
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.025
+label: cookies
+value: 0.011
+
+
+name: 16:1 c
+unit: g
+value: 0.025
+label: cookies
+value: 0.011
+
+
+name: 16:1 t
+unit: g
+value: 0.0
+label: cookies
+value: 0.0
+
+
+name: 17:1
+unit: g
+value: 0.005
+label: cookies
+value: 0.002
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 6.082
+label: cookies
+value: 2.676
+
+
+name: 18:1 c
+unit: g
+value: 6.02
+label: cookies
+value: 2.649
+
+
+name: 18:1 t
+unit: g
+value: 0.061
+label: cookies
+value: 0.027
+
+
+name: 20:1
+unit: g
+value: 0.029
+label: cookies
+value: 0.013
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: cookies
+value: 0.0
+
+
+name: 22:1 c
+unit: g
+value: 0.0
+label: cookies
+value: 0.0
+
+
+name: 22:1 t
+unit: g
+value: 0.0
+label: cookies
+value: 0.0
+
+
+name: 24:1 c
+unit: g
+value: 0.0
+label: cookies
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 1.807
+label: cookies
+value: 0.795
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 1.746
+label: cookies
+value: 0.768
+
+
+name: 18:2 n-6 c,c
+unit: g
+value: 1.702
+label: cookies
+value: 0.749
+
+
+name: 18:2 CLAs
+unit: g
+value: 0.006
+label: cookies
+value: 0.003
+
+
+name: 18:2 t not further defined
+unit: g
+value: 0.038
+label: cookies
+value: 0.017
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.056
+label: cookies
+value: 0.025
+
+
+name: 18:3 n-3 c,c,c (ALA)
+unit: g
+value: 0.048
+label: cookies
+value: 0.021
+
+
+name: 18:3 n-6 c,c,c
+unit: g
+value: 0.008
+label: cookies
+value: 0.004
+
+
+name: 18:3i
+unit: g
+value: 0.0
+label: cookies
+value: 0.0
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: cookies
+value: 0.0
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.0
+label: cookies
+value: 0.0
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.0
+label: cookies
+value: 0.0
+
+
+name: 20:3 n-6
+unit: g
+value: 0.0
+label: cookies
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.004
+label: cookies
+value: 0.002
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.002
+label: cookies
+value: 0.001
+
+
+name: 22:4
+unit: g
+value: 0.0
+label: cookies
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: cookies
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: cookies
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.099
+label: cookies
+value: 0.044
+
+
+name: Fatty acids, total trans-monoenoic
+unit: g
+value: 0.061
+label: cookies
+value: 0.027
+
+

@@ -1,0 +1,727 @@
+ndbno: 21488
+
+
+name: Fast foods, quesadilla, with chicken
+
+
+name: Water
+unit: g
+value: 42.62
+label: each quesadilla
+value: 76.72
+
+
+name: Energy
+unit: kcal
+value: 294.0
+label: each quesadilla
+value: 529.0
+
+
+name: Energy
+unit: kJ
+value: 1228.0
+label: each quesadilla
+value: 2210.0
+
+
+name: Protein
+unit: g
+value: 15.05
+label: each quesadilla
+value: 27.09
+
+
+name: Total lipid (fat)
+unit: g
+value: 15.25
+label: each quesadilla
+value: 27.45
+
+
+name: Ash
+unit: g
+value: 3.05
+label: each quesadilla
+value: 5.49
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 24.04
+label: each quesadilla
+value: 43.27
+
+
+name: Fiber, total dietary
+unit: g
+value: 1.7
+label: each quesadilla
+value: 3.1
+
+
+name: Sugars, total
+unit: g
+value: 1.88
+label: each quesadilla
+value: 3.38
+
+
+name: Sucrose
+unit: g
+value: 0.0
+label: each quesadilla
+value: 0.0
+
+
+name: Glucose (dextrose)
+unit: g
+value: 0.43
+label: each quesadilla
+value: 0.77
+
+
+name: Fructose
+unit: g
+value: 0.4
+label: each quesadilla
+value: 0.72
+
+
+name: Lactose
+unit: g
+value: 0.53
+label: each quesadilla
+value: 0.95
+
+
+name: Maltose
+unit: g
+value: 0.43
+label: each quesadilla
+value: 0.77
+
+
+name: Galactose
+unit: g
+value: 0.08
+label: each quesadilla
+value: 0.14
+
+
+name: Starch
+unit: g
+value: 17.1
+label: each quesadilla
+value: 30.78
+
+
+name: Calcium, Ca
+unit: mg
+value: 269.0
+label: each quesadilla
+value: 484.0
+
+
+name: Iron, Fe
+unit: mg
+value: 1.77
+label: each quesadilla
+value: 3.19
+
+
+name: Magnesium, Mg
+unit: mg
+value: 25.0
+label: each quesadilla
+value: 45.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 313.0
+label: each quesadilla
+value: 563.0
+
+
+name: Potassium, K
+unit: mg
+value: 183.0
+label: each quesadilla
+value: 329.0
+
+
+name: Sodium, Na
+unit: mg
+value: 745.0
+label: each quesadilla
+value: 1341.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 1.42
+label: each quesadilla
+value: 2.56
+
+
+name: Copper, Cu
+unit: mg
+value: 0.076
+label: each quesadilla
+value: 0.137
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.266
+label: each quesadilla
+value: 0.479
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 20.8
+label: each quesadilla
+value: 37.4
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.1
+label: each quesadilla
+value: 0.2
+
+
+name: Thiamin
+unit: mg
+value: 0.2
+label: each quesadilla
+value: 0.36
+
+
+name: Riboflavin
+unit: mg
+value: 0.18
+label: each quesadilla
+value: 0.324
+
+
+name: Niacin
+unit: mg
+value: 4.2
+label: each quesadilla
+value: 7.56
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.08
+label: each quesadilla
+value: 0.144
+
+
+name: Folate, total
+unit: \u00B5g
+value: 52.0
+label: each quesadilla
+value: 94.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 41.0
+label: each quesadilla
+value: 74.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 11.0
+label: each quesadilla
+value: 20.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 81.0
+label: each quesadilla
+value: 146.0
+
+
+name: Choline, total
+unit: mg
+value: 29.8
+label: each quesadilla
+value: 53.6
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.19
+label: each quesadilla
+value: 0.34
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: each quesadilla
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 72.0
+label: each quesadilla
+value: 130.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 70.0
+label: each quesadilla
+value: 126.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 23.0
+label: each quesadilla
+value: 41.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: each quesadilla
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: each quesadilla
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 271.0
+label: each quesadilla
+value: 488.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: each quesadilla
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 5.0
+label: each quesadilla
+value: 9.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.29
+label: each quesadilla
+value: 0.52
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: each quesadilla
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.2
+label: each quesadilla
+value: 0.4
+
+
+name: Vitamin D
+unit: IU
+value: 8.0
+label: each quesadilla
+value: 14.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 2.4
+label: each quesadilla
+value: 4.3
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 6.154
+label: each quesadilla
+value: 11.077
+
+
+name: 4:0
+unit: g
+value: 0.14
+label: each quesadilla
+value: 0.252
+
+
+name: 6:0
+unit: g
+value: 0.111
+label: each quesadilla
+value: 0.2
+
+
+name: 8:0
+unit: g
+value: 0.073
+label: each quesadilla
+value: 0.131
+
+
+name: 10:0
+unit: g
+value: 0.178
+label: each quesadilla
+value: 0.32
+
+
+name: 12:0
+unit: g
+value: 0.211
+label: each quesadilla
+value: 0.38
+
+
+name: 14:0
+unit: g
+value: 0.714
+label: each quesadilla
+value: 1.285
+
+
+name: 15:0
+unit: g
+value: 0.077
+label: each quesadilla
+value: 0.139
+
+
+name: 16:0
+unit: g
+value: 2.903
+label: each quesadilla
+value: 5.225
+
+
+name: 17:0
+unit: g
+value: 0.056
+label: each quesadilla
+value: 0.101
+
+
+name: 18:0
+unit: g
+value: 1.609
+label: each quesadilla
+value: 2.896
+
+
+name: 20:0
+unit: g
+value: 0.035
+label: each quesadilla
+value: 0.063
+
+
+name: 22:0
+unit: g
+value: 0.029
+label: each quesadilla
+value: 0.052
+
+
+name: 24:0
+unit: g
+value: 0.012
+label: each quesadilla
+value: 0.022
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 3.765
+label: each quesadilla
+value: 6.777
+
+
+name: 14:1
+unit: g
+value: 0.054
+label: each quesadilla
+value: 0.097
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: each quesadilla
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.171
+label: each quesadilla
+value: 0.308
+
+
+name: 16:1 c
+unit: g
+value: 0.144
+label: each quesadilla
+value: 0.259
+
+
+name: 16:1 t
+unit: g
+value: 0.026
+label: each quesadilla
+value: 0.047
+
+
+name: 17:1
+unit: g
+value: 0.02
+label: each quesadilla
+value: 0.036
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 3.447
+label: each quesadilla
+value: 6.205
+
+
+name: 18:1 c
+unit: g
+value: 3.232
+label: each quesadilla
+value: 5.818
+
+
+name: 18:1 t
+unit: g
+value: 0.215
+label: each quesadilla
+value: 0.387
+
+
+name: 20:1
+unit: g
+value: 0.069
+label: each quesadilla
+value: 0.124
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.002
+label: each quesadilla
+value: 0.004
+
+
+name: 22:1 c
+unit: g
+value: 0.002
+label: each quesadilla
+value: 0.004
+
+
+name: 22:1 t
+unit: g
+value: 0.0
+label: each quesadilla
+value: 0.0
+
+
+name: 24:1 c
+unit: g
+value: 0.001
+label: each quesadilla
+value: 0.002
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 4.094
+label: each quesadilla
+value: 7.369
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 3.556
+label: each quesadilla
+value: 6.401
+
+
+name: 18:2 n-6 c,c
+unit: g
+value: 3.427
+label: each quesadilla
+value: 6.169
+
+
+name: 18:2 CLAs
+unit: g
+value: 0.049
+label: each quesadilla
+value: 0.088
+
+
+name: 18:2 t not further defined
+unit: g
+value: 0.081
+label: each quesadilla
+value: 0.146
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.459
+label: each quesadilla
+value: 0.826
+
+
+name: 18:3 n-3 c,c,c (ALA)
+unit: g
+value: 0.454
+label: each quesadilla
+value: 0.817
+
+
+name: 18:3 n-6 c,c,c
+unit: g
+value: 0.004
+label: each quesadilla
+value: 0.007
+
+
+name: 18:4
+unit: g
+value: 0.002
+label: each quesadilla
+value: 0.004
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.007
+label: each quesadilla
+value: 0.013
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.015
+label: each quesadilla
+value: 0.027
+
+
+name: 20:3 n-6
+unit: g
+value: 0.014
+label: each quesadilla
+value: 0.025
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.032
+label: each quesadilla
+value: 0.058
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.006
+label: each quesadilla
+value: 0.011
+
+
+name: 22:4
+unit: g
+value: 0.008
+label: each quesadilla
+value: 0.014
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.006
+label: each quesadilla
+value: 0.011
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.002
+label: each quesadilla
+value: 0.004
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.322
+label: each quesadilla
+value: 0.58
+
+
+name: Fatty acids, total trans-monoenoic
+unit: g
+value: 0.241
+label: each quesadilla
+value: 0.434
+
+
+name: Cholesterol
+unit: mg
+value: 37.0
+label: each quesadilla
+value: 67.0
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: each quesadilla
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: each quesadilla
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: each quesadilla
+value: 0.0
+
+

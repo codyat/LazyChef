@@ -1,0 +1,897 @@
+ndbno: 08504
+
+
+name: Cereals ready-to-eat, RALSTON Enriched Wheat Bran flakes
+
+
+name: Water
+unit: g
+value: 2.53
+label: serving (NLEA serving size = 0.75 cup)
+value: 0.73
+label: cup
+value: 1.06
+
+
+name: Energy
+unit: kcal
+value: 310.0
+label: serving (NLEA serving size = 0.75 cup)
+value: 90.0
+label: cup
+value: 130.0
+
+
+name: Energy
+unit: kJ
+value: 1298.0
+label: serving (NLEA serving size = 0.75 cup)
+value: 376.0
+label: cup
+value: 545.0
+
+
+name: Protein
+unit: g
+value: 10.21
+label: serving (NLEA serving size = 0.75 cup)
+value: 2.96
+label: cup
+value: 4.29
+
+
+name: Total lipid (fat)
+unit: g
+value: 3.36
+label: serving (NLEA serving size = 0.75 cup)
+value: 0.97
+label: cup
+value: 1.41
+
+
+name: Ash
+unit: g
+value: 4.13
+label: serving (NLEA serving size = 0.75 cup)
+value: 1.2
+label: cup
+value: 1.73
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 79.77
+label: serving (NLEA serving size = 0.75 cup)
+value: 23.13
+label: cup
+value: 33.5
+
+
+name: Fiber, total dietary
+unit: g
+value: 16.9
+label: serving (NLEA serving size = 0.75 cup)
+value: 4.9
+label: cup
+value: 7.1
+
+
+name: Sugars, total
+unit: g
+value: 17.17
+label: serving (NLEA serving size = 0.75 cup)
+value: 4.98
+label: cup
+value: 7.21
+
+
+name: Sucrose
+unit: g
+value: 12.51
+label: serving (NLEA serving size = 0.75 cup)
+value: 3.63
+label: cup
+value: 5.25
+
+
+name: Glucose (dextrose)
+unit: g
+value: 2.02
+label: serving (NLEA serving size = 0.75 cup)
+value: 0.59
+label: cup
+value: 0.85
+
+
+name: Fructose
+unit: g
+value: 2.27
+label: serving (NLEA serving size = 0.75 cup)
+value: 0.66
+label: cup
+value: 0.95
+
+
+name: Lactose
+unit: g
+value: 0.0
+label: serving (NLEA serving size = 0.75 cup)
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Maltose
+unit: g
+value: 0.37
+label: serving (NLEA serving size = 0.75 cup)
+value: 0.11
+label: cup
+value: 0.16
+
+
+name: Galactose
+unit: g
+value: 0.0
+label: serving (NLEA serving size = 0.75 cup)
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 45.0
+label: serving (NLEA serving size = 0.75 cup)
+value: 13.0
+label: cup
+value: 19.0
+
+
+name: Iron, Fe
+unit: mg
+value: 67.67
+label: serving (NLEA serving size = 0.75 cup)
+value: 19.62
+label: cup
+value: 28.42
+
+
+name: Magnesium, Mg
+unit: mg
+value: 190.0
+label: serving (NLEA serving size = 0.75 cup)
+value: 55.0
+label: cup
+value: 80.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 533.0
+label: serving (NLEA serving size = 0.75 cup)
+value: 155.0
+label: cup
+value: 224.0
+
+
+name: Potassium, K
+unit: mg
+value: 630.0
+label: serving (NLEA serving size = 0.75 cup)
+value: 183.0
+label: cup
+value: 265.0
+
+
+name: Sodium, Na
+unit: mg
+value: 586.0
+label: serving (NLEA serving size = 0.75 cup)
+value: 170.0
+label: cup
+value: 246.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 64.33
+label: serving (NLEA serving size = 0.75 cup)
+value: 18.66
+label: cup
+value: 27.02
+
+
+name: Copper, Cu
+unit: mg
+value: 0.345
+label: serving (NLEA serving size = 0.75 cup)
+value: 0.1
+label: cup
+value: 0.145
+
+
+name: Manganese, Mn
+unit: mg
+value: 3.467
+label: serving (NLEA serving size = 0.75 cup)
+value: 1.005
+label: cup
+value: 1.456
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 9.2
+label: serving (NLEA serving size = 0.75 cup)
+value: 2.7
+label: cup
+value: 3.9
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 239.7
+label: serving (NLEA serving size = 0.75 cup)
+value: 69.5
+label: cup
+value: 100.7
+
+
+name: Thiamin
+unit: mg
+value: 4.713
+label: serving (NLEA serving size = 0.75 cup)
+value: 1.367
+label: cup
+value: 1.979
+
+
+name: Riboflavin
+unit: mg
+value: 7.29
+label: serving (NLEA serving size = 0.75 cup)
+value: 2.114
+label: cup
+value: 3.062
+
+
+name: Niacin
+unit: mg
+value: 90.567
+label: serving (NLEA serving size = 0.75 cup)
+value: 26.264
+label: cup
+value: 38.038
+
+
+name: Pantothenic acid
+unit: mg
+value: 29.8
+label: serving (NLEA serving size = 0.75 cup)
+value: 8.642
+label: cup
+value: 12.516
+
+
+name: Vitamin B-6
+unit: mg
+value: 6.8
+label: serving (NLEA serving size = 0.75 cup)
+value: 1.972
+label: cup
+value: 2.856
+
+
+name: Folate, total
+unit: \u00B5g
+value: 1379.0
+label: serving (NLEA serving size = 0.75 cup)
+value: 400.0
+label: cup
+value: 579.0
+
+
+name: Choline, total
+unit: mg
+value: 31.2
+label: serving (NLEA serving size = 0.75 cup)
+value: 9.0
+label: cup
+value: 13.1
+
+
+name: Betaine
+unit: mg
+value: 123.9
+label: serving (NLEA serving size = 0.75 cup)
+value: 35.9
+label: cup
+value: 52.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 20.69
+label: serving (NLEA serving size = 0.75 cup)
+value: 6.0
+label: cup
+value: 8.69
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 531.0
+label: serving (NLEA serving size = 0.75 cup)
+value: 154.0
+label: cup
+value: 223.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 531.0
+label: serving (NLEA serving size = 0.75 cup)
+value: 154.0
+label: cup
+value: 223.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 1771.0
+label: serving (NLEA serving size = 0.75 cup)
+value: 514.0
+label: cup
+value: 744.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 80.46
+label: serving (NLEA serving size = 0.75 cup)
+value: 23.33
+label: cup
+value: 33.79
+
+
+name: Tocopherol, beta
+unit: mg
+value: 0.16
+label: serving (NLEA serving size = 0.75 cup)
+value: 0.05
+label: cup
+value: 0.07
+
+
+name: Tocopherol, gamma
+unit: mg
+value: 2.43
+label: serving (NLEA serving size = 0.75 cup)
+value: 0.7
+label: cup
+value: 1.02
+
+
+name: Tocopherol, delta
+unit: mg
+value: 0.0
+label: serving (NLEA serving size = 0.75 cup)
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 8.6
+label: serving (NLEA serving size = 0.75 cup)
+value: 2.5
+label: cup
+value: 3.6
+
+
+name: Vitamin D3 (cholecalciferol)
+unit: \u00B5g
+value: 8.6
+label: serving (NLEA serving size = 0.75 cup)
+value: 2.5
+label: cup
+value: 3.6
+
+
+name: Vitamin D
+unit: IU
+value: 345.0
+label: serving (NLEA serving size = 0.75 cup)
+value: 100.0
+label: cup
+value: 145.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 2.7
+label: serving (NLEA serving size = 0.75 cup)
+value: 0.8
+label: cup
+value: 1.1
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.433
+label: serving (NLEA serving size = 0.75 cup)
+value: 0.126
+label: cup
+value: 0.182
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: serving (NLEA serving size = 0.75 cup)
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: serving (NLEA serving size = 0.75 cup)
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: serving (NLEA serving size = 0.75 cup)
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.0
+label: serving (NLEA serving size = 0.75 cup)
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 15:0
+unit: g
+value: 0.0
+label: serving (NLEA serving size = 0.75 cup)
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 16:0
+unit: g
+value: 0.41
+label: serving (NLEA serving size = 0.75 cup)
+value: 0.119
+label: cup
+value: 0.172
+
+
+name: 17:0
+unit: g
+value: 0.0
+label: serving (NLEA serving size = 0.75 cup)
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 18:0
+unit: g
+value: 0.023
+label: serving (NLEA serving size = 0.75 cup)
+value: 0.007
+label: cup
+value: 0.01
+
+
+name: 20:0
+unit: g
+value: 0.0
+label: serving (NLEA serving size = 0.75 cup)
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 22:0
+unit: g
+value: 0.0
+label: serving (NLEA serving size = 0.75 cup)
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 24:0
+unit: g
+value: 0.0
+label: serving (NLEA serving size = 0.75 cup)
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.443
+label: serving (NLEA serving size = 0.75 cup)
+value: 0.128
+label: cup
+value: 0.186
+
+
+name: 14:1
+unit: g
+value: 0.0
+label: serving (NLEA serving size = 0.75 cup)
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: serving (NLEA serving size = 0.75 cup)
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.0
+label: serving (NLEA serving size = 0.75 cup)
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 17:1
+unit: g
+value: 0.0
+label: serving (NLEA serving size = 0.75 cup)
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.423
+label: serving (NLEA serving size = 0.75 cup)
+value: 0.123
+label: cup
+value: 0.178
+
+
+name: 20:1
+unit: g
+value: 0.02
+label: serving (NLEA serving size = 0.75 cup)
+value: 0.006
+label: cup
+value: 0.008
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: serving (NLEA serving size = 0.75 cup)
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 24:1 c
+unit: g
+value: 0.0
+label: serving (NLEA serving size = 0.75 cup)
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 1.383
+label: serving (NLEA serving size = 0.75 cup)
+value: 0.401
+label: cup
+value: 0.581
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 1.297
+label: serving (NLEA serving size = 0.75 cup)
+value: 0.376
+label: cup
+value: 0.545
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.087
+label: serving (NLEA serving size = 0.75 cup)
+value: 0.025
+label: cup
+value: 0.037
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: serving (NLEA serving size = 0.75 cup)
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.0
+label: serving (NLEA serving size = 0.75 cup)
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.0
+label: serving (NLEA serving size = 0.75 cup)
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: serving (NLEA serving size = 0.75 cup)
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: serving (NLEA serving size = 0.75 cup)
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 21:5
+unit: g
+value: 0.0
+label: serving (NLEA serving size = 0.75 cup)
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 22:4
+unit: g
+value: 0.0
+label: serving (NLEA serving size = 0.75 cup)
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: serving (NLEA serving size = 0.75 cup)
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: serving (NLEA serving size = 0.75 cup)
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.0
+label: serving (NLEA serving size = 0.75 cup)
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: serving (NLEA serving size = 0.75 cup)
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Tryptophan
+unit: g
+value: 0.137
+label: serving (NLEA serving size = 0.75 cup)
+value: 0.04
+label: cup
+value: 0.058
+
+
+name: Threonine
+unit: g
+value: 0.37
+label: serving (NLEA serving size = 0.75 cup)
+value: 0.107
+label: cup
+value: 0.155
+
+
+name: Isoleucine
+unit: g
+value: 0.343
+label: serving (NLEA serving size = 0.75 cup)
+value: 0.099
+label: cup
+value: 0.144
+
+
+name: Leucine
+unit: g
+value: 0.677
+label: serving (NLEA serving size = 0.75 cup)
+value: 0.196
+label: cup
+value: 0.284
+
+
+name: Lysine
+unit: g
+value: 0.15
+label: serving (NLEA serving size = 0.75 cup)
+value: 0.044
+label: cup
+value: 0.063
+
+
+name: Methionine
+unit: g
+value: 0.127
+label: serving (NLEA serving size = 0.75 cup)
+value: 0.037
+label: cup
+value: 0.053
+
+
+name: Cystine
+unit: g
+value: 0.2
+label: serving (NLEA serving size = 0.75 cup)
+value: 0.058
+label: cup
+value: 0.084
+
+
+name: Phenylalanine
+unit: g
+value: 0.457
+label: serving (NLEA serving size = 0.75 cup)
+value: 0.133
+label: cup
+value: 0.192
+
+
+name: Tyrosine
+unit: g
+value: 0.197
+label: serving (NLEA serving size = 0.75 cup)
+value: 0.057
+label: cup
+value: 0.083
+
+
+name: Valine
+unit: g
+value: 0.467
+label: serving (NLEA serving size = 0.75 cup)
+value: 0.135
+label: cup
+value: 0.196
+
+
+name: Arginine
+unit: g
+value: 0.393
+label: serving (NLEA serving size = 0.75 cup)
+value: 0.114
+label: cup
+value: 0.165
+
+
+name: Histidine
+unit: g
+value: 0.237
+label: serving (NLEA serving size = 0.75 cup)
+value: 0.069
+label: cup
+value: 0.1
+
+
+name: Alanine
+unit: g
+value: 0.447
+label: serving (NLEA serving size = 0.75 cup)
+value: 0.13
+label: cup
+value: 0.188
+
+
+name: Aspartic acid
+unit: g
+value: 0.97
+label: serving (NLEA serving size = 0.75 cup)
+value: 0.281
+label: cup
+value: 0.407
+
+
+name: Glutamic acid
+unit: g
+value: 2.836
+label: serving (NLEA serving size = 0.75 cup)
+value: 0.822
+label: cup
+value: 1.191
+
+
+name: Glycine
+unit: g
+value: 0.49
+label: serving (NLEA serving size = 0.75 cup)
+value: 0.142
+label: cup
+value: 0.206
+
+
+name: Proline
+unit: g
+value: 1.043
+label: serving (NLEA serving size = 0.75 cup)
+value: 0.302
+label: cup
+value: 0.438
+
+
+name: Serine
+unit: g
+value: 0.483
+label: serving (NLEA serving size = 0.75 cup)
+value: 0.14
+label: cup
+value: 0.203
+
+

@@ -1,0 +1,734 @@
+ndbno: 36416
+
+
+name: Restaurant, Latino, bunuelos (fried yeast bread)
+
+
+name: Water
+unit: g
+value: 15.3
+label: piece
+value: 10.71
+
+
+name: Energy
+unit: kcal
+value: 462.0
+label: piece
+value: 323.0
+
+
+name: Energy
+unit: kJ
+value: 1935.0
+label: piece
+value: 1354.0
+
+
+name: Protein
+unit: g
+value: 8.02
+label: piece
+value: 5.61
+
+
+name: Total lipid (fat)
+unit: g
+value: 26.24
+label: piece
+value: 18.37
+
+
+name: Ash
+unit: g
+value: 1.87
+label: piece
+value: 1.31
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 48.57
+label: piece
+value: 34.0
+
+
+name: Fiber, total dietary
+unit: g
+value: 1.5
+label: piece
+value: 1.0
+
+
+name: Sugars, total
+unit: g
+value: 12.24
+label: piece
+value: 8.57
+
+
+name: Sucrose
+unit: g
+value: 7.33
+label: piece
+value: 5.13
+
+
+name: Glucose (dextrose)
+unit: g
+value: 2.2
+label: piece
+value: 1.54
+
+
+name: Fructose
+unit: g
+value: 2.38
+label: piece
+value: 1.67
+
+
+name: Lactose
+unit: g
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: Maltose
+unit: g
+value: 0.34
+label: piece
+value: 0.24
+
+
+name: Galactose
+unit: g
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: Starch
+unit: g
+value: 32.4
+label: piece
+value: 22.68
+
+
+name: Calcium, Ca
+unit: mg
+value: 215.0
+label: piece
+value: 150.0
+
+
+name: Iron, Fe
+unit: mg
+value: 1.78
+label: piece
+value: 1.25
+
+
+name: Magnesium, Mg
+unit: mg
+value: 19.0
+label: piece
+value: 13.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 157.0
+label: piece
+value: 110.0
+
+
+name: Potassium, K
+unit: mg
+value: 104.0
+label: piece
+value: 73.0
+
+
+name: Sodium, Na
+unit: mg
+value: 418.0
+label: piece
+value: 293.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.91
+label: piece
+value: 0.64
+
+
+name: Copper, Cu
+unit: mg
+value: 0.041
+label: piece
+value: 0.029
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.391
+label: piece
+value: 0.274
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 10.7
+label: piece
+value: 7.5
+
+
+name: Thiamin
+unit: mg
+value: 0.113
+label: piece
+value: 0.079
+
+
+name: Riboflavin
+unit: mg
+value: 0.143
+label: piece
+value: 0.1
+
+
+name: Niacin
+unit: mg
+value: 1.967
+label: piece
+value: 1.377
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.343
+label: piece
+value: 0.24
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.063
+label: piece
+value: 0.044
+
+
+name: Choline, total
+unit: mg
+value: 43.8
+label: piece
+value: 30.7
+
+
+name: Betaine
+unit: mg
+value: 15.9
+label: piece
+value: 11.1
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.98
+label: piece
+value: 0.69
+
+
+name: Tocopherol, beta
+unit: mg
+value: 0.11
+label: piece
+value: 0.08
+
+
+name: Tocopherol, gamma
+unit: mg
+value: 5.62
+label: piece
+value: 3.93
+
+
+name: Tocopherol, delta
+unit: mg
+value: 2.07
+label: piece
+value: 1.45
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 25.8
+label: piece
+value: 18.1
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 6.834
+label: piece
+value: 4.784
+
+
+name: 4:0
+unit: g
+value: 0.067
+label: piece
+value: 0.047
+
+
+name: 6:0
+unit: g
+value: 0.048
+label: piece
+value: 0.034
+
+
+name: 8:0
+unit: g
+value: 0.042
+label: piece
+value: 0.029
+
+
+name: 10:0
+unit: g
+value: 0.076
+label: piece
+value: 0.053
+
+
+name: 12:0
+unit: g
+value: 0.082
+label: piece
+value: 0.057
+
+
+name: 14:0
+unit: g
+value: 0.366
+label: piece
+value: 0.256
+
+
+name: 15:0
+unit: g
+value: 0.036
+label: piece
+value: 0.025
+
+
+name: 16:0
+unit: g
+value: 3.888
+label: piece
+value: 2.722
+
+
+name: 17:0
+unit: g
+value: 0.062
+label: piece
+value: 0.043
+
+
+name: 18:0
+unit: g
+value: 2.017
+label: piece
+value: 1.412
+
+
+name: 20:0
+unit: g
+value: 0.078
+label: piece
+value: 0.055
+
+
+name: 22:0
+unit: g
+value: 0.05
+label: piece
+value: 0.035
+
+
+name: 24:0
+unit: g
+value: 0.02
+label: piece
+value: 0.014
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 9.415
+label: piece
+value: 6.59
+
+
+name: 14:1
+unit: g
+value: 0.024
+label: piece
+value: 0.017
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.232
+label: piece
+value: 0.162
+
+
+name: 16:1 c
+unit: g
+value: 0.219
+label: piece
+value: 0.153
+
+
+name: 16:1 t
+unit: g
+value: 0.014
+label: piece
+value: 0.01
+
+
+name: 17:1
+unit: g
+value: 0.038
+label: piece
+value: 0.027
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 8.952
+label: piece
+value: 6.266
+
+
+name: 18:1 c
+unit: g
+value: 8.39
+label: piece
+value: 5.873
+
+
+name: 18:1 t
+unit: g
+value: 0.562
+label: piece
+value: 0.393
+
+
+name: 20:1
+unit: g
+value: 0.157
+label: piece
+value: 0.11
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.007
+label: piece
+value: 0.005
+
+
+name: 22:1 c
+unit: g
+value: 0.005
+label: piece
+value: 0.004
+
+
+name: 22:1 t
+unit: g
+value: 0.002
+label: piece
+value: 0.001
+
+
+name: 24:1 c
+unit: g
+value: 0.004
+label: piece
+value: 0.003
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 7.09
+label: piece
+value: 4.963
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 6.301
+label: piece
+value: 4.411
+
+
+name: 18:2 n-6 c,c
+unit: g
+value: 6.063
+label: piece
+value: 4.244
+
+
+name: 18:2 CLAs
+unit: g
+value: 0.037
+label: piece
+value: 0.026
+
+
+name: 18:2 t not further defined
+unit: g
+value: 0.2
+label: piece
+value: 0.14
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.677
+label: piece
+value: 0.474
+
+
+name: 18:3 n-3 c,c,c (ALA)
+unit: g
+value: 0.673
+label: piece
+value: 0.471
+
+
+name: 18:3 n-6 c,c,c
+unit: g
+value: 0.004
+label: piece
+value: 0.003
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: piece
+value: 0.0
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.047
+label: piece
+value: 0.033
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.015
+label: piece
+value: 0.01
+
+
+name: 20:3 n-6
+unit: g
+value: 0.01
+label: piece
+value: 0.007
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.025
+label: piece
+value: 0.018
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.007
+label: piece
+value: 0.005
+
+
+name: 22:4
+unit: g
+value: 0.007
+label: piece
+value: 0.005
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.005
+label: piece
+value: 0.004
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.006
+label: piece
+value: 0.004
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.778
+label: piece
+value: 0.545
+
+
+name: Fatty acids, total trans-monoenoic
+unit: g
+value: 0.578
+label: piece
+value: 0.405
+
+
+name: Tryptophan
+unit: g
+value: 0.091
+label: piece
+value: 0.064
+
+
+name: Threonine
+unit: g
+value: 0.251
+label: piece
+value: 0.176
+
+
+name: Isoleucine
+unit: g
+value: 0.311
+label: piece
+value: 0.218
+
+
+name: Leucine
+unit: g
+value: 0.632
+label: piece
+value: 0.442
+
+
+name: Lysine
+unit: g
+value: 0.332
+label: piece
+value: 0.232
+
+
+name: Methionine
+unit: g
+value: 0.162
+label: piece
+value: 0.113
+
+
+name: Cystine
+unit: g
+value: 0.121
+label: piece
+value: 0.085
+
+
+name: Phenylalanine
+unit: g
+value: 0.381
+label: piece
+value: 0.267
+
+
+name: Tyrosine
+unit: g
+value: 0.223
+label: piece
+value: 0.156
+
+
+name: Valine
+unit: g
+value: 0.385
+label: piece
+value: 0.27
+
+
+name: Arginine
+unit: g
+value: 0.302
+label: piece
+value: 0.211
+
+
+name: Histidine
+unit: g
+value: 0.19
+label: piece
+value: 0.133
+
+
+name: Alanine
+unit: g
+value: 0.251
+label: piece
+value: 0.176
+
+
+name: Aspartic acid
+unit: g
+value: 0.451
+label: piece
+value: 0.316
+
+
+name: Glutamic acid
+unit: g
+value: 2.295
+label: piece
+value: 1.606
+
+
+name: Glycine
+unit: g
+value: 0.224
+label: piece
+value: 0.157
+
+
+name: Proline
+unit: g
+value: 0.824
+label: piece
+value: 0.577
+
+
+name: Serine
+unit: g
+value: 0.418
+label: piece
+value: 0.293
+
+

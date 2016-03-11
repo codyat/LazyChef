@@ -1,0 +1,427 @@
+ndbno: 21333
+
+
+name: McDONALD'S, Vanilla Reduced Fat Ice Cream Cone
+
+
+name: Water
+unit: g
+value: 63.64
+label: item (3.2 oz)
+value: 57.28
+
+
+name: Energy
+unit: kcal
+value: 162.0
+label: item (3.2 oz)
+value: 146.0
+
+
+name: Energy
+unit: kJ
+value: 678.0
+label: item (3.2 oz)
+value: 610.0
+
+
+name: Protein
+unit: g
+value: 4.24
+label: item (3.2 oz)
+value: 3.82
+
+
+name: Total lipid (fat)
+unit: g
+value: 4.86
+label: item (3.2 oz)
+value: 4.37
+
+
+name: Ash
+unit: g
+value: 0.9
+label: item (3.2 oz)
+value: 0.81
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 26.36
+label: item (3.2 oz)
+value: 23.72
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.1
+label: item (3.2 oz)
+value: 0.1
+
+
+name: Sugars, total
+unit: g
+value: 19.49
+label: item (3.2 oz)
+value: 17.54
+
+
+name: Sucrose
+unit: g
+value: 12.76
+label: item (3.2 oz)
+value: 11.48
+
+
+name: Glucose (dextrose)
+unit: g
+value: 0.69
+label: item (3.2 oz)
+value: 0.62
+
+
+name: Fructose
+unit: g
+value: 0.16
+label: item (3.2 oz)
+value: 0.14
+
+
+name: Lactose
+unit: g
+value: 5.59
+label: item (3.2 oz)
+value: 5.03
+
+
+name: Maltose
+unit: g
+value: 0.29
+label: item (3.2 oz)
+value: 0.26
+
+
+name: Galactose
+unit: g
+value: 0.0
+label: item (3.2 oz)
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 129.0
+label: item (3.2 oz)
+value: 116.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.35
+label: item (3.2 oz)
+value: 0.31
+
+
+name: Magnesium, Mg
+unit: mg
+value: 13.0
+label: item (3.2 oz)
+value: 12.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 111.0
+label: item (3.2 oz)
+value: 100.0
+
+
+name: Potassium, K
+unit: mg
+value: 193.0
+label: item (3.2 oz)
+value: 174.0
+
+
+name: Sodium, Na
+unit: mg
+value: 67.0
+label: item (3.2 oz)
+value: 60.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.5
+label: item (3.2 oz)
+value: 0.45
+
+
+name: Copper, Cu
+unit: mg
+value: 0.023
+label: item (3.2 oz)
+value: 0.021
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.038
+label: item (3.2 oz)
+value: 0.034
+
+
+name: Thiamin
+unit: mg
+value: 0.043
+label: item (3.2 oz)
+value: 0.039
+
+
+name: Riboflavin
+unit: mg
+value: 0.246
+label: item (3.2 oz)
+value: 0.221
+
+
+name: Niacin
+unit: mg
+value: 0.498
+label: item (3.2 oz)
+value: 0.448
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.728
+label: item (3.2 oz)
+value: 0.655
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.054
+label: item (3.2 oz)
+value: 0.049
+
+
+name: Folate, total
+unit: \u00B5g
+value: 9.0
+label: item (3.2 oz)
+value: 8.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 9.0
+label: item (3.2 oz)
+value: 8.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.58
+label: item (3.2 oz)
+value: 0.52
+
+
+name: Vitamin A, IU
+unit: IU
+value: 321.0
+label: item (3.2 oz)
+value: 289.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.03
+label: item (3.2 oz)
+value: 0.03
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 2.41
+label: item (3.2 oz)
+value: 2.169
+
+
+name: 8:0
+unit: g
+value: 0.037
+label: item (3.2 oz)
+value: 0.033
+
+
+name: 10:0
+unit: g
+value: 0.087
+label: item (3.2 oz)
+value: 0.078
+
+
+name: 12:0
+unit: g
+value: 0.101
+label: item (3.2 oz)
+value: 0.091
+
+
+name: 14:0
+unit: g
+value: 0.365
+label: item (3.2 oz)
+value: 0.328
+
+
+name: 15:0
+unit: g
+value: 0.038
+label: item (3.2 oz)
+value: 0.034
+
+
+name: 16:0
+unit: g
+value: 1.171
+label: item (3.2 oz)
+value: 1.054
+
+
+name: 17:0
+unit: g
+value: 0.023
+label: item (3.2 oz)
+value: 0.021
+
+
+name: 18:0
+unit: g
+value: 0.58
+label: item (3.2 oz)
+value: 0.522
+
+
+name: 20:0
+unit: g
+value: 0.007
+label: item (3.2 oz)
+value: 0.006
+
+
+name: 22:0
+unit: g
+value: 0.001
+label: item (3.2 oz)
+value: 0.001
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 1.206
+label: item (3.2 oz)
+value: 1.085
+
+
+name: 14:1
+unit: g
+value: 0.025
+label: item (3.2 oz)
+value: 0.022
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: item (3.2 oz)
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.042
+label: item (3.2 oz)
+value: 0.038
+
+
+name: 17:1
+unit: g
+value: 0.008
+label: item (3.2 oz)
+value: 0.007
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 1.13
+label: item (3.2 oz)
+value: 1.017
+
+
+name: 20:1
+unit: g
+value: 0.001
+label: item (3.2 oz)
+value: 0.001
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.297
+label: item (3.2 oz)
+value: 0.267
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.269
+label: item (3.2 oz)
+value: 0.242
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.022
+label: item (3.2 oz)
+value: 0.02
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.0
+label: item (3.2 oz)
+value: 0.0
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.0
+label: item (3.2 oz)
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.005
+label: item (3.2 oz)
+value: 0.005
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.28
+label: item (3.2 oz)
+value: 0.252
+
+
+name: Cholesterol
+unit: mg
+value: 15.0
+label: item (3.2 oz)
+value: 14.0
+
+
+

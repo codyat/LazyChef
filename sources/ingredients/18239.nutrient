@@ -1,0 +1,1342 @@
+ndbno: 18239
+
+
+name: Croissants, butter
+
+
+name: Water
+unit: g
+value: 23.2
+label: oz
+value: 6.58
+label: croissant, mini
+value: 6.5
+label: croissant, small
+value: 9.74
+label: croissant, medium
+value: 13.22
+label: croissant, large
+value: 15.54
+
+
+name: Energy
+unit: kcal
+value: 406.0
+label: oz
+value: 115.0
+label: croissant, mini
+value: 114.0
+label: croissant, small
+value: 171.0
+label: croissant, medium
+value: 231.0
+label: croissant, large
+value: 272.0
+
+
+name: Energy
+unit: kJ
+value: 1699.0
+label: oz
+value: 482.0
+label: croissant, mini
+value: 476.0
+label: croissant, small
+value: 714.0
+label: croissant, medium
+value: 968.0
+label: croissant, large
+value: 1138.0
+
+
+name: Protein
+unit: g
+value: 8.2
+label: oz
+value: 2.32
+label: croissant, mini
+value: 2.3
+label: croissant, small
+value: 3.44
+label: croissant, medium
+value: 4.67
+label: croissant, large
+value: 5.49
+
+
+name: Total lipid (fat)
+unit: g
+value: 21.0
+label: oz
+value: 5.95
+label: croissant, mini
+value: 5.88
+label: croissant, small
+value: 8.82
+label: croissant, medium
+value: 11.97
+label: croissant, large
+value: 14.07
+
+
+name: Ash
+unit: g
+value: 1.6
+label: oz
+value: 0.45
+label: croissant, mini
+value: 0.45
+label: croissant, small
+value: 0.67
+label: croissant, medium
+value: 0.91
+label: croissant, large
+value: 1.07
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 45.8
+label: oz
+value: 12.98
+label: croissant, mini
+value: 12.82
+label: croissant, small
+value: 19.24
+label: croissant, medium
+value: 26.11
+label: croissant, large
+value: 30.69
+
+
+name: Fiber, total dietary
+unit: g
+value: 2.6
+label: oz
+value: 0.7
+label: croissant, mini
+value: 0.7
+label: croissant, small
+value: 1.1
+label: croissant, medium
+value: 1.5
+label: croissant, large
+value: 1.7
+
+
+name: Sugars, total
+unit: g
+value: 11.26
+label: oz
+value: 3.19
+label: croissant, mini
+value: 3.15
+label: croissant, small
+value: 4.73
+label: croissant, medium
+value: 6.42
+label: croissant, large
+value: 7.54
+
+
+name: Calcium, Ca
+unit: mg
+value: 37.0
+label: oz
+value: 10.0
+label: croissant, mini
+value: 10.0
+label: croissant, small
+value: 16.0
+label: croissant, medium
+value: 21.0
+label: croissant, large
+value: 25.0
+
+
+name: Iron, Fe
+unit: mg
+value: 2.03
+label: oz
+value: 0.58
+label: croissant, mini
+value: 0.57
+label: croissant, small
+value: 0.85
+label: croissant, medium
+value: 1.16
+label: croissant, large
+value: 1.36
+
+
+name: Magnesium, Mg
+unit: mg
+value: 16.0
+label: oz
+value: 5.0
+label: croissant, mini
+value: 4.0
+label: croissant, small
+value: 7.0
+label: croissant, medium
+value: 9.0
+label: croissant, large
+value: 11.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 105.0
+label: oz
+value: 30.0
+label: croissant, mini
+value: 29.0
+label: croissant, small
+value: 44.0
+label: croissant, medium
+value: 60.0
+label: croissant, large
+value: 70.0
+
+
+name: Potassium, K
+unit: mg
+value: 118.0
+label: oz
+value: 33.0
+label: croissant, mini
+value: 33.0
+label: croissant, small
+value: 50.0
+label: croissant, medium
+value: 67.0
+label: croissant, large
+value: 79.0
+
+
+name: Sodium, Na
+unit: mg
+value: 467.0
+label: oz
+value: 132.0
+label: croissant, mini
+value: 131.0
+label: croissant, small
+value: 196.0
+label: croissant, medium
+value: 266.0
+label: croissant, large
+value: 313.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.75
+label: oz
+value: 0.21
+label: croissant, mini
+value: 0.21
+label: croissant, small
+value: 0.32
+label: croissant, medium
+value: 0.43
+label: croissant, large
+value: 0.5
+
+
+name: Copper, Cu
+unit: mg
+value: 0.08
+label: oz
+value: 0.023
+label: croissant, mini
+value: 0.022
+label: croissant, small
+value: 0.034
+label: croissant, medium
+value: 0.046
+label: croissant, large
+value: 0.054
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.33
+label: oz
+value: 0.094
+label: croissant, mini
+value: 0.092
+label: croissant, small
+value: 0.139
+label: croissant, medium
+value: 0.188
+label: croissant, large
+value: 0.221
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 22.7
+label: oz
+value: 6.4
+label: croissant, mini
+value: 6.4
+label: croissant, small
+value: 9.5
+label: croissant, medium
+value: 12.9
+label: croissant, large
+value: 15.2
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.2
+label: oz
+value: 0.1
+label: croissant, mini
+value: 0.1
+label: croissant, small
+value: 0.1
+label: croissant, medium
+value: 0.1
+label: croissant, large
+value: 0.1
+
+
+name: Thiamin
+unit: mg
+value: 0.388
+label: oz
+value: 0.11
+label: croissant, mini
+value: 0.109
+label: croissant, small
+value: 0.163
+label: croissant, medium
+value: 0.221
+label: croissant, large
+value: 0.26
+
+
+name: Riboflavin
+unit: mg
+value: 0.241
+label: oz
+value: 0.068
+label: croissant, mini
+value: 0.067
+label: croissant, small
+value: 0.101
+label: croissant, medium
+value: 0.137
+label: croissant, large
+value: 0.161
+
+
+name: Niacin
+unit: mg
+value: 2.188
+label: oz
+value: 0.62
+label: croissant, mini
+value: 0.613
+label: croissant, small
+value: 0.919
+label: croissant, medium
+value: 1.247
+label: croissant, large
+value: 1.466
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.861
+label: oz
+value: 0.244
+label: croissant, mini
+value: 0.241
+label: croissant, small
+value: 0.362
+label: croissant, medium
+value: 0.491
+label: croissant, large
+value: 0.577
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.058
+label: oz
+value: 0.016
+label: croissant, mini
+value: 0.016
+label: croissant, small
+value: 0.024
+label: croissant, medium
+value: 0.033
+label: croissant, large
+value: 0.039
+
+
+name: Folate, total
+unit: \u00B5g
+value: 88.0
+label: oz
+value: 25.0
+label: croissant, mini
+value: 25.0
+label: croissant, small
+value: 37.0
+label: croissant, medium
+value: 50.0
+label: croissant, large
+value: 59.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 60.0
+label: oz
+value: 17.0
+label: croissant, mini
+value: 17.0
+label: croissant, small
+value: 25.0
+label: croissant, medium
+value: 34.0
+label: croissant, large
+value: 40.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 28.0
+label: oz
+value: 8.0
+label: croissant, mini
+value: 8.0
+label: croissant, small
+value: 12.0
+label: croissant, medium
+value: 16.0
+label: croissant, large
+value: 19.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 130.0
+label: oz
+value: 37.0
+label: croissant, mini
+value: 36.0
+label: croissant, small
+value: 55.0
+label: croissant, medium
+value: 74.0
+label: croissant, large
+value: 87.0
+
+
+name: Choline, total
+unit: mg
+value: 38.8
+label: oz
+value: 11.0
+label: croissant, mini
+value: 10.9
+label: croissant, small
+value: 16.3
+label: croissant, medium
+value: 22.1
+label: croissant, large
+value: 26.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.16
+label: oz
+value: 0.05
+label: croissant, mini
+value: 0.04
+label: croissant, small
+value: 0.07
+label: croissant, medium
+value: 0.09
+label: croissant, large
+value: 0.11
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: croissant, mini
+value: 0.0
+label: croissant, small
+value: 0.0
+label: croissant, medium
+value: 0.0
+label: croissant, large
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 206.0
+label: oz
+value: 58.0
+label: croissant, mini
+value: 58.0
+label: croissant, small
+value: 87.0
+label: croissant, medium
+value: 117.0
+label: croissant, large
+value: 138.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 202.0
+label: oz
+value: 57.0
+label: croissant, mini
+value: 57.0
+label: croissant, small
+value: 85.0
+label: croissant, medium
+value: 115.0
+label: croissant, large
+value: 135.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 38.0
+label: oz
+value: 11.0
+label: croissant, mini
+value: 11.0
+label: croissant, small
+value: 16.0
+label: croissant, medium
+value: 22.0
+label: croissant, large
+value: 25.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: croissant, mini
+value: 0.0
+label: croissant, small
+value: 0.0
+label: croissant, medium
+value: 0.0
+label: croissant, large
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 1.0
+label: oz
+value: 0.0
+label: croissant, mini
+value: 0.0
+label: croissant, small
+value: 0.0
+label: croissant, medium
+value: 1.0
+label: croissant, large
+value: 1.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 744.0
+label: oz
+value: 211.0
+label: croissant, mini
+value: 208.0
+label: croissant, small
+value: 312.0
+label: croissant, medium
+value: 424.0
+label: croissant, large
+value: 498.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: croissant, mini
+value: 0.0
+label: croissant, small
+value: 0.0
+label: croissant, medium
+value: 0.0
+label: croissant, large
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 74.0
+label: oz
+value: 21.0
+label: croissant, mini
+value: 21.0
+label: croissant, small
+value: 31.0
+label: croissant, medium
+value: 42.0
+label: croissant, large
+value: 50.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.84
+label: oz
+value: 0.24
+label: croissant, mini
+value: 0.24
+label: croissant, small
+value: 0.35
+label: croissant, medium
+value: 0.48
+label: croissant, large
+value: 0.56
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: croissant, mini
+value: 0.0
+label: croissant, small
+value: 0.0
+label: croissant, medium
+value: 0.0
+label: croissant, large
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: croissant, mini
+value: 0.0
+label: croissant, small
+value: 0.0
+label: croissant, medium
+value: 0.0
+label: croissant, large
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: oz
+value: 0.0
+label: croissant, mini
+value: 0.0
+label: croissant, small
+value: 0.0
+label: croissant, medium
+value: 0.0
+label: croissant, large
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 1.8
+label: oz
+value: 0.5
+label: croissant, mini
+value: 0.5
+label: croissant, small
+value: 0.8
+label: croissant, medium
+value: 1.0
+label: croissant, large
+value: 1.2
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 11.659
+label: oz
+value: 3.305
+label: croissant, mini
+value: 3.265
+label: croissant, small
+value: 4.897
+label: croissant, medium
+value: 6.646
+label: croissant, large
+value: 7.812
+
+
+name: 4:0
+unit: g
+value: 0.595
+label: oz
+value: 0.169
+label: croissant, mini
+value: 0.167
+label: croissant, small
+value: 0.25
+label: croissant, medium
+value: 0.339
+label: croissant, large
+value: 0.399
+
+
+name: 6:0
+unit: g
+value: 0.351
+label: oz
+value: 0.1
+label: croissant, mini
+value: 0.098
+label: croissant, small
+value: 0.147
+label: croissant, medium
+value: 0.2
+label: croissant, large
+value: 0.235
+
+
+name: 8:0
+unit: g
+value: 0.205
+label: oz
+value: 0.058
+label: croissant, mini
+value: 0.057
+label: croissant, small
+value: 0.086
+label: croissant, medium
+value: 0.117
+label: croissant, large
+value: 0.137
+
+
+name: 10:0
+unit: g
+value: 0.459
+label: oz
+value: 0.13
+label: croissant, mini
+value: 0.129
+label: croissant, small
+value: 0.193
+label: croissant, medium
+value: 0.262
+label: croissant, large
+value: 0.308
+
+
+name: 12:0
+unit: g
+value: 0.514
+label: oz
+value: 0.146
+label: croissant, mini
+value: 0.144
+label: croissant, small
+value: 0.216
+label: croissant, medium
+value: 0.293
+label: croissant, large
+value: 0.344
+
+
+name: 14:0
+unit: g
+value: 1.845
+label: oz
+value: 0.523
+label: croissant, mini
+value: 0.517
+label: croissant, small
+value: 0.775
+label: croissant, medium
+value: 1.052
+label: croissant, large
+value: 1.236
+
+
+name: 16:0
+unit: g
+value: 5.023
+label: oz
+value: 1.424
+label: croissant, mini
+value: 1.406
+label: croissant, small
+value: 2.11
+label: croissant, medium
+value: 2.863
+label: croissant, large
+value: 3.365
+
+
+name: 18:0
+unit: g
+value: 2.259
+label: oz
+value: 0.64
+label: croissant, mini
+value: 0.633
+label: croissant, small
+value: 0.949
+label: croissant, medium
+value: 1.288
+label: croissant, large
+value: 1.514
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 5.525
+label: oz
+value: 1.566
+label: croissant, mini
+value: 1.547
+label: croissant, small
+value: 2.32
+label: croissant, medium
+value: 3.149
+label: croissant, large
+value: 3.702
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.429
+label: oz
+value: 0.122
+label: croissant, mini
+value: 0.12
+label: croissant, small
+value: 0.18
+label: croissant, medium
+value: 0.245
+label: croissant, large
+value: 0.287
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 4.822
+label: oz
+value: 1.367
+label: croissant, mini
+value: 1.35
+label: croissant, small
+value: 2.025
+label: croissant, medium
+value: 2.749
+label: croissant, large
+value: 3.231
+
+
+name: 20:1
+unit: g
+value: 0.001
+label: oz
+value: 0.0
+label: croissant, mini
+value: 0.0
+label: croissant, small
+value: 0.0
+label: croissant, medium
+value: 0.001
+label: croissant, large
+value: 0.001
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: croissant, mini
+value: 0.0
+label: croissant, small
+value: 0.0
+label: croissant, medium
+value: 0.0
+label: croissant, large
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 1.094
+label: oz
+value: 0.31
+label: croissant, mini
+value: 0.306
+label: croissant, small
+value: 0.459
+label: croissant, medium
+value: 0.624
+label: croissant, large
+value: 0.733
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.795
+label: oz
+value: 0.225
+label: croissant, mini
+value: 0.223
+label: croissant, small
+value: 0.334
+label: croissant, medium
+value: 0.453
+label: croissant, large
+value: 0.533
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.289
+label: oz
+value: 0.082
+label: croissant, mini
+value: 0.081
+label: croissant, small
+value: 0.121
+label: croissant, medium
+value: 0.165
+label: croissant, large
+value: 0.194
+
+
+name: 18:4
+unit: g
+value: 0.001
+label: oz
+value: 0.0
+label: croissant, mini
+value: 0.0
+label: croissant, small
+value: 0.0
+label: croissant, medium
+value: 0.001
+label: croissant, large
+value: 0.001
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.006
+label: oz
+value: 0.002
+label: croissant, mini
+value: 0.002
+label: croissant, small
+value: 0.003
+label: croissant, medium
+value: 0.003
+label: croissant, large
+value: 0.004
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.003
+label: oz
+value: 0.001
+label: croissant, mini
+value: 0.001
+label: croissant, small
+value: 0.001
+label: croissant, medium
+value: 0.002
+label: croissant, large
+value: 0.002
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: croissant, mini
+value: 0.0
+label: croissant, small
+value: 0.0
+label: croissant, medium
+value: 0.0
+label: croissant, large
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.002
+label: oz
+value: 0.001
+label: croissant, mini
+value: 0.001
+label: croissant, small
+value: 0.001
+label: croissant, medium
+value: 0.001
+label: croissant, large
+value: 0.001
+
+
+name: Cholesterol
+unit: mg
+value: 67.0
+label: oz
+value: 19.0
+label: croissant, mini
+value: 19.0
+label: croissant, small
+value: 28.0
+label: croissant, medium
+value: 38.0
+label: croissant, large
+value: 45.0
+
+
+name: Tryptophan
+unit: g
+value: 0.099
+label: oz
+value: 0.028
+label: croissant, mini
+value: 0.028
+label: croissant, small
+value: 0.042
+label: croissant, medium
+value: 0.056
+label: croissant, large
+value: 0.066
+
+
+name: Threonine
+unit: g
+value: 0.284
+label: oz
+value: 0.081
+label: croissant, mini
+value: 0.08
+label: croissant, small
+value: 0.119
+label: croissant, medium
+value: 0.162
+label: croissant, large
+value: 0.19
+
+
+name: Isoleucine
+unit: g
+value: 0.365
+label: oz
+value: 0.103
+label: croissant, mini
+value: 0.102
+label: croissant, small
+value: 0.153
+label: croissant, medium
+value: 0.208
+label: croissant, large
+value: 0.245
+
+
+name: Leucine
+unit: g
+value: 0.623
+label: oz
+value: 0.177
+label: croissant, mini
+value: 0.174
+label: croissant, small
+value: 0.262
+label: croissant, medium
+value: 0.355
+label: croissant, large
+value: 0.417
+
+
+name: Lysine
+unit: g
+value: 0.329
+label: oz
+value: 0.093
+label: croissant, mini
+value: 0.092
+label: croissant, small
+value: 0.138
+label: croissant, medium
+value: 0.188
+label: croissant, large
+value: 0.22
+
+
+name: Methionine
+unit: g
+value: 0.175
+label: oz
+value: 0.05
+label: croissant, mini
+value: 0.049
+label: croissant, small
+value: 0.074
+label: croissant, medium
+value: 0.1
+label: croissant, large
+value: 0.117
+
+
+name: Cystine
+unit: g
+value: 0.172
+label: oz
+value: 0.049
+label: croissant, mini
+value: 0.048
+label: croissant, small
+value: 0.072
+label: croissant, medium
+value: 0.098
+label: croissant, large
+value: 0.115
+
+
+name: Phenylalanine
+unit: g
+value: 0.416
+label: oz
+value: 0.118
+label: croissant, mini
+value: 0.116
+label: croissant, small
+value: 0.175
+label: croissant, medium
+value: 0.237
+label: croissant, large
+value: 0.279
+
+
+name: Tyrosine
+unit: g
+value: 0.271
+label: oz
+value: 0.077
+label: croissant, mini
+value: 0.076
+label: croissant, small
+value: 0.114
+label: croissant, medium
+value: 0.154
+label: croissant, large
+value: 0.182
+
+
+name: Valine
+unit: g
+value: 0.41
+label: oz
+value: 0.116
+label: croissant, mini
+value: 0.115
+label: croissant, small
+value: 0.172
+label: croissant, medium
+value: 0.234
+label: croissant, large
+value: 0.275
+
+
+name: Arginine
+unit: g
+value: 0.339
+label: oz
+value: 0.096
+label: croissant, mini
+value: 0.095
+label: croissant, small
+value: 0.142
+label: croissant, medium
+value: 0.193
+label: croissant, large
+value: 0.227
+
+
+name: Histidine
+unit: g
+value: 0.187
+label: oz
+value: 0.053
+label: croissant, mini
+value: 0.052
+label: croissant, small
+value: 0.079
+label: croissant, medium
+value: 0.107
+label: croissant, large
+value: 0.125
+
+
+name: Alanine
+unit: g
+value: 0.325
+label: oz
+value: 0.092
+label: croissant, mini
+value: 0.091
+label: croissant, small
+value: 0.136
+label: croissant, medium
+value: 0.185
+label: croissant, large
+value: 0.218
+
+
+name: Aspartic acid
+unit: g
+value: 0.501
+label: oz
+value: 0.142
+label: croissant, mini
+value: 0.14
+label: croissant, small
+value: 0.21
+label: croissant, medium
+value: 0.286
+label: croissant, large
+value: 0.336
+
+
+name: Glutamic acid
+unit: g
+value: 2.3
+label: oz
+value: 0.652
+label: croissant, mini
+value: 0.644
+label: croissant, small
+value: 0.966
+label: croissant, medium
+value: 1.311
+label: croissant, large
+value: 1.541
+
+
+name: Glycine
+unit: g
+value: 0.288
+label: oz
+value: 0.082
+label: croissant, mini
+value: 0.081
+label: croissant, small
+value: 0.121
+label: croissant, medium
+value: 0.164
+label: croissant, large
+value: 0.193
+
+
+name: Proline
+unit: g
+value: 0.778
+label: oz
+value: 0.221
+label: croissant, mini
+value: 0.218
+label: croissant, small
+value: 0.327
+label: croissant, medium
+value: 0.443
+label: croissant, large
+value: 0.521
+
+
+name: Serine
+unit: g
+value: 0.44
+label: oz
+value: 0.125
+label: croissant, mini
+value: 0.123
+label: croissant, small
+value: 0.185
+label: croissant, medium
+value: 0.251
+label: croissant, large
+value: 0.295
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: croissant, mini
+value: 0.0
+label: croissant, small
+value: 0.0
+label: croissant, medium
+value: 0.0
+label: croissant, large
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: croissant, mini
+value: 0.0
+label: croissant, small
+value: 0.0
+label: croissant, medium
+value: 0.0
+label: croissant, large
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: croissant, mini
+value: 0.0
+label: croissant, small
+value: 0.0
+label: croissant, medium
+value: 0.0
+label: croissant, large
+value: 0.0
+
+
+

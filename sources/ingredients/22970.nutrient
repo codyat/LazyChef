@@ -1,0 +1,969 @@
+ndbno: 22970
+
+
+name: Macaroni and cheese, frozen entree
+
+
+name: Water
+unit: g
+value: 69.39
+label: cup
+value: 95.06
+label: container (mean weight over brands)
+value: 196.37
+
+
+name: Energy
+unit: kcal
+value: 149.0
+label: cup
+value: 204.0
+label: container (mean weight over brands)
+value: 422.0
+
+
+name: Energy
+unit: kJ
+value: 624.0
+label: cup
+value: 855.0
+label: container (mean weight over brands)
+value: 1766.0
+
+
+name: Protein
+unit: g
+value: 5.6
+label: cup
+value: 7.67
+label: container (mean weight over brands)
+value: 15.85
+
+
+name: Total lipid (fat)
+unit: g
+value: 6.41
+label: cup
+value: 8.78
+label: container (mean weight over brands)
+value: 18.14
+
+
+name: Ash
+unit: g
+value: 1.31
+label: cup
+value: 1.79
+label: container (mean weight over brands)
+value: 3.71
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 17.28
+label: cup
+value: 23.67
+label: container (mean weight over brands)
+value: 48.9
+
+
+name: Fiber, total dietary
+unit: g
+value: 1.1
+label: cup
+value: 1.5
+label: container (mean weight over brands)
+value: 3.1
+
+
+name: Sugars, total
+unit: g
+value: 1.53
+label: cup
+value: 2.1
+label: container (mean weight over brands)
+value: 4.33
+
+
+name: Sucrose
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: container (mean weight over brands)
+value: 0.0
+
+
+name: Glucose (dextrose)
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: container (mean weight over brands)
+value: 0.0
+
+
+name: Fructose
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: container (mean weight over brands)
+value: 0.0
+
+
+name: Lactose
+unit: g
+value: 1.23
+label: cup
+value: 1.69
+label: container (mean weight over brands)
+value: 3.48
+
+
+name: Maltose
+unit: g
+value: 0.3
+label: cup
+value: 0.41
+label: container (mean weight over brands)
+value: 0.85
+
+
+name: Galactose
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: container (mean weight over brands)
+value: 0.0
+
+
+name: Starch
+unit: g
+value: 13.71
+label: cup
+value: 18.78
+label: container (mean weight over brands)
+value: 38.8
+
+
+name: Calcium, Ca
+unit: mg
+value: 114.0
+label: cup
+value: 156.0
+label: container (mean weight over brands)
+value: 323.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.57
+label: cup
+value: 0.78
+label: container (mean weight over brands)
+value: 1.61
+
+
+name: Magnesium, Mg
+unit: mg
+value: 17.0
+label: cup
+value: 23.0
+label: container (mean weight over brands)
+value: 48.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 119.0
+label: cup
+value: 163.0
+label: container (mean weight over brands)
+value: 337.0
+
+
+name: Potassium, K
+unit: mg
+value: 95.0
+label: cup
+value: 130.0
+label: container (mean weight over brands)
+value: 269.0
+
+
+name: Sodium, Na
+unit: mg
+value: 290.0
+label: cup
+value: 397.0
+label: container (mean weight over brands)
+value: 821.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.8
+label: cup
+value: 1.1
+label: container (mean weight over brands)
+value: 2.26
+
+
+name: Copper, Cu
+unit: mg
+value: 0.051
+label: cup
+value: 0.07
+label: container (mean weight over brands)
+value: 0.144
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.216
+label: cup
+value: 0.296
+label: container (mean weight over brands)
+value: 0.611
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 18.5
+label: cup
+value: 25.3
+label: container (mean weight over brands)
+value: 52.4
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: container (mean weight over brands)
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.054
+label: cup
+value: 0.074
+label: container (mean weight over brands)
+value: 0.153
+
+
+name: Riboflavin
+unit: mg
+value: 0.057
+label: cup
+value: 0.078
+label: container (mean weight over brands)
+value: 0.161
+
+
+name: Niacin
+unit: mg
+value: 0.739
+label: cup
+value: 1.012
+label: container (mean weight over brands)
+value: 2.091
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.388
+label: cup
+value: 0.532
+label: container (mean weight over brands)
+value: 1.098
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.042
+label: cup
+value: 0.058
+label: container (mean weight over brands)
+value: 0.119
+
+
+name: Folate, total
+unit: \u00B5g
+value: 7.0
+label: cup
+value: 10.0
+label: container (mean weight over brands)
+value: 20.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: container (mean weight over brands)
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 7.0
+label: cup
+value: 10.0
+label: container (mean weight over brands)
+value: 20.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 7.0
+label: cup
+value: 10.0
+label: container (mean weight over brands)
+value: 20.0
+
+
+name: Choline, total
+unit: mg
+value: 8.3
+label: cup
+value: 11.4
+label: container (mean weight over brands)
+value: 23.5
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.12
+label: cup
+value: 0.16
+label: container (mean weight over brands)
+value: 0.34
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: container (mean weight over brands)
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 47.0
+label: cup
+value: 64.0
+label: container (mean weight over brands)
+value: 133.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 45.0
+label: cup
+value: 62.0
+label: container (mean weight over brands)
+value: 127.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 20.0
+label: cup
+value: 27.0
+label: container (mean weight over brands)
+value: 57.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: container (mean weight over brands)
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: container (mean weight over brands)
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 182.0
+label: cup
+value: 249.0
+label: container (mean weight over brands)
+value: 515.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: container (mean weight over brands)
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 4.0
+label: cup
+value: 5.0
+label: container (mean weight over brands)
+value: 11.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.25
+label: cup
+value: 0.34
+label: container (mean weight over brands)
+value: 0.71
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: container (mean weight over brands)
+value: 0.0
+
+
+name: Tocopherol, beta
+unit: mg
+value: 0.04
+label: cup
+value: 0.05
+label: container (mean weight over brands)
+value: 0.11
+
+
+name: Tocopherol, gamma
+unit: mg
+value: 1.04
+label: cup
+value: 1.42
+label: container (mean weight over brands)
+value: 2.94
+
+
+name: Tocopherol, delta
+unit: mg
+value: 0.4
+label: cup
+value: 0.55
+label: container (mean weight over brands)
+value: 1.13
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: container (mean weight over brands)
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: cup
+value: 0.0
+label: container (mean weight over brands)
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 5.1
+label: cup
+value: 7.0
+label: container (mean weight over brands)
+value: 14.4
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 2.608
+label: cup
+value: 3.573
+label: container (mean weight over brands)
+value: 7.381
+
+
+name: 4:0
+unit: g
+value: 0.069
+label: cup
+value: 0.095
+label: container (mean weight over brands)
+value: 0.195
+
+
+name: 6:0
+unit: g
+value: 0.065
+label: cup
+value: 0.089
+label: container (mean weight over brands)
+value: 0.184
+
+
+name: 8:0
+unit: g
+value: 0.043
+label: cup
+value: 0.059
+label: container (mean weight over brands)
+value: 0.122
+
+
+name: 10:0
+unit: g
+value: 0.1
+label: cup
+value: 0.137
+label: container (mean weight over brands)
+value: 0.283
+
+
+name: 12:0
+unit: g
+value: 0.117
+label: cup
+value: 0.16
+label: container (mean weight over brands)
+value: 0.331
+
+
+name: 14:0
+unit: g
+value: 0.378
+label: cup
+value: 0.518
+label: container (mean weight over brands)
+value: 1.07
+
+
+name: 15:0
+unit: g
+value: 0.041
+label: cup
+value: 0.056
+label: container (mean weight over brands)
+value: 0.116
+
+
+name: 16:0
+unit: g
+value: 1.275
+label: cup
+value: 1.747
+label: container (mean weight over brands)
+value: 3.608
+
+
+name: 17:0
+unit: g
+value: 0.026
+label: cup
+value: 0.036
+label: container (mean weight over brands)
+value: 0.074
+
+
+name: 18:0
+unit: g
+value: 0.468
+label: cup
+value: 0.641
+label: container (mean weight over brands)
+value: 1.324
+
+
+name: 20:0
+unit: g
+value: 0.011
+label: cup
+value: 0.015
+label: container (mean weight over brands)
+value: 0.031
+
+
+name: 22:0
+unit: g
+value: 0.008
+label: cup
+value: 0.011
+label: container (mean weight over brands)
+value: 0.023
+
+
+name: 24:0
+unit: g
+value: 0.004
+label: cup
+value: 0.005
+label: container (mean weight over brands)
+value: 0.011
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 1.433
+label: cup
+value: 1.963
+label: container (mean weight over brands)
+value: 4.055
+
+
+name: 14:1
+unit: g
+value: 0.032
+label: cup
+value: 0.044
+label: container (mean weight over brands)
+value: 0.091
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: container (mean weight over brands)
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.07
+label: cup
+value: 0.096
+label: container (mean weight over brands)
+value: 0.198
+
+
+name: 16:1 c
+unit: g
+value: 0.056
+label: cup
+value: 0.077
+label: container (mean weight over brands)
+value: 0.158
+
+
+name: 16:1 t
+unit: g
+value: 0.014
+label: cup
+value: 0.019
+label: container (mean weight over brands)
+value: 0.04
+
+
+name: 17:1
+unit: g
+value: 0.009
+label: cup
+value: 0.012
+label: container (mean weight over brands)
+value: 0.025
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 1.305
+label: cup
+value: 1.788
+label: container (mean weight over brands)
+value: 3.693
+
+
+name: 18:1 c
+unit: g
+value: 1.199
+label: cup
+value: 1.643
+label: container (mean weight over brands)
+value: 3.393
+
+
+name: 18:1 t
+unit: g
+value: 0.106
+label: cup
+value: 0.145
+label: container (mean weight over brands)
+value: 0.3
+
+
+name: 20:1
+unit: g
+value: 0.016
+label: cup
+value: 0.022
+label: container (mean weight over brands)
+value: 0.045
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.001
+label: cup
+value: 0.001
+label: container (mean weight over brands)
+value: 0.003
+
+
+name: 22:1 c
+unit: g
+value: 0.001
+label: cup
+value: 0.001
+label: container (mean weight over brands)
+value: 0.003
+
+
+name: 22:1 t
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: container (mean weight over brands)
+value: 0.0
+
+
+name: 24:1 c
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: container (mean weight over brands)
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 1.363
+label: cup
+value: 1.867
+label: container (mean weight over brands)
+value: 3.857
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 1.195
+label: cup
+value: 1.637
+label: container (mean weight over brands)
+value: 3.382
+
+
+name: 18:2 n-6 c,c
+unit: g
+value: 1.138
+label: cup
+value: 1.559
+label: container (mean weight over brands)
+value: 3.221
+
+
+name: 18:2 CLAs
+unit: g
+value: 0.023
+label: cup
+value: 0.032
+label: container (mean weight over brands)
+value: 0.065
+
+
+name: 18:2 t not further defined
+unit: g
+value: 0.034
+label: cup
+value: 0.047
+label: container (mean weight over brands)
+value: 0.096
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.147
+label: cup
+value: 0.201
+label: container (mean weight over brands)
+value: 0.416
+
+
+name: 18:3 n-3 c,c,c (ALA)
+unit: g
+value: 0.146
+label: cup
+value: 0.2
+label: container (mean weight over brands)
+value: 0.413
+
+
+name: 18:3 n-6 c,c,c
+unit: g
+value: 0.001
+label: cup
+value: 0.001
+label: container (mean weight over brands)
+value: 0.003
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: container (mean weight over brands)
+value: 0.0
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.002
+label: cup
+value: 0.003
+label: container (mean weight over brands)
+value: 0.006
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.004
+label: cup
+value: 0.005
+label: container (mean weight over brands)
+value: 0.011
+
+
+name: 20:3 n-6
+unit: g
+value: 0.004
+label: cup
+value: 0.005
+label: container (mean weight over brands)
+value: 0.011
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.006
+label: cup
+value: 0.008
+label: container (mean weight over brands)
+value: 0.017
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.002
+label: cup
+value: 0.003
+label: container (mean weight over brands)
+value: 0.006
+
+
+name: 22:4
+unit: g
+value: 0.001
+label: cup
+value: 0.001
+label: container (mean weight over brands)
+value: 0.003
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.003
+label: cup
+value: 0.004
+label: container (mean weight over brands)
+value: 0.008
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: container (mean weight over brands)
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.153
+label: cup
+value: 0.21
+label: container (mean weight over brands)
+value: 0.433
+
+
+name: Fatty acids, total trans-monoenoic
+unit: g
+value: 0.119
+label: cup
+value: 0.163
+label: container (mean weight over brands)
+value: 0.337
+
+
+name: Cholesterol
+unit: mg
+value: 10.0
+label: cup
+value: 14.0
+label: container (mean weight over brands)
+value: 28.0
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: container (mean weight over brands)
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: container (mean weight over brands)
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: container (mean weight over brands)
+value: 0.0
+
+

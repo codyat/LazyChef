@@ -1,0 +1,808 @@
+ndbno: 09284
+
+
+name: Plums, canned, purple, heavy syrup pack, solids and liquids
+
+
+name: Water
+unit: g
+value: 76.06
+label: cup, pitted
+value: 196.23
+label: plum with liquid
+value: 34.99
+
+
+name: Energy
+unit: kcal
+value: 89.0
+label: cup, pitted
+value: 230.0
+label: plum with liquid
+value: 41.0
+
+
+name: Energy
+unit: kJ
+value: 372.0
+label: cup, pitted
+value: 960.0
+label: plum with liquid
+value: 171.0
+
+
+name: Protein
+unit: g
+value: 0.36
+label: cup, pitted
+value: 0.93
+label: plum with liquid
+value: 0.17
+
+
+name: Total lipid (fat)
+unit: g
+value: 0.1
+label: cup, pitted
+value: 0.26
+label: plum with liquid
+value: 0.05
+
+
+name: Ash
+unit: g
+value: 0.24
+label: cup, pitted
+value: 0.62
+label: plum with liquid
+value: 0.11
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 23.24
+label: cup, pitted
+value: 59.96
+label: plum with liquid
+value: 10.69
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.9
+label: cup, pitted
+value: 2.3
+label: plum with liquid
+value: 0.4
+
+
+name: Sugars, total
+unit: g
+value: 22.31
+label: cup, pitted
+value: 57.56
+label: plum with liquid
+value: 10.26
+
+
+name: Calcium, Ca
+unit: mg
+value: 9.0
+label: cup, pitted
+value: 23.0
+label: plum with liquid
+value: 4.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.84
+label: cup, pitted
+value: 2.17
+label: plum with liquid
+value: 0.39
+
+
+name: Magnesium, Mg
+unit: mg
+value: 5.0
+label: cup, pitted
+value: 13.0
+label: plum with liquid
+value: 2.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 13.0
+label: cup, pitted
+value: 34.0
+label: plum with liquid
+value: 6.0
+
+
+name: Potassium, K
+unit: mg
+value: 91.0
+label: cup, pitted
+value: 235.0
+label: plum with liquid
+value: 42.0
+
+
+name: Sodium, Na
+unit: mg
+value: 19.0
+label: cup, pitted
+value: 49.0
+label: plum with liquid
+value: 9.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.07
+label: cup, pitted
+value: 0.18
+label: plum with liquid
+value: 0.03
+
+
+name: Copper, Cu
+unit: mg
+value: 0.037
+label: cup, pitted
+value: 0.095
+label: plum with liquid
+value: 0.017
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.031
+label: cup, pitted
+value: 0.08
+label: plum with liquid
+value: 0.014
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 0.0
+label: cup, pitted
+value: 0.0
+label: plum with liquid
+value: 0.0
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.4
+label: cup, pitted
+value: 1.0
+label: plum with liquid
+value: 0.2
+
+
+name: Thiamin
+unit: mg
+value: 0.016
+label: cup, pitted
+value: 0.041
+label: plum with liquid
+value: 0.007
+
+
+name: Riboflavin
+unit: mg
+value: 0.038
+label: cup, pitted
+value: 0.098
+label: plum with liquid
+value: 0.017
+
+
+name: Niacin
+unit: mg
+value: 0.291
+label: cup, pitted
+value: 0.751
+label: plum with liquid
+value: 0.134
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.072
+label: cup, pitted
+value: 0.186
+label: plum with liquid
+value: 0.033
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.027
+label: cup, pitted
+value: 0.07
+label: plum with liquid
+value: 0.012
+
+
+name: Folate, total
+unit: \u00B5g
+value: 3.0
+label: cup, pitted
+value: 8.0
+label: plum with liquid
+value: 1.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: cup, pitted
+value: 0.0
+label: plum with liquid
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 3.0
+label: cup, pitted
+value: 8.0
+label: plum with liquid
+value: 1.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 3.0
+label: cup, pitted
+value: 8.0
+label: plum with liquid
+value: 1.0
+
+
+name: Choline, total
+unit: mg
+value: 1.3
+label: cup, pitted
+value: 3.4
+label: plum with liquid
+value: 0.6
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: cup, pitted
+value: 0.0
+label: plum with liquid
+value: 0.0
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: cup, pitted
+value: 0.0
+label: plum with liquid
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 13.0
+label: cup, pitted
+value: 34.0
+label: plum with liquid
+value: 6.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: cup, pitted
+value: 0.0
+label: plum with liquid
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 142.0
+label: cup, pitted
+value: 366.0
+label: plum with liquid
+value: 65.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: cup, pitted
+value: 0.0
+label: plum with liquid
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 26.0
+label: cup, pitted
+value: 67.0
+label: plum with liquid
+value: 12.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 259.0
+label: cup, pitted
+value: 668.0
+label: plum with liquid
+value: 119.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: cup, pitted
+value: 0.0
+label: plum with liquid
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 49.0
+label: cup, pitted
+value: 126.0
+label: plum with liquid
+value: 23.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.18
+label: cup, pitted
+value: 0.46
+label: plum with liquid
+value: 0.08
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: cup, pitted
+value: 0.0
+label: plum with liquid
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: cup, pitted
+value: 0.0
+label: plum with liquid
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: cup, pitted
+value: 0.0
+label: plum with liquid
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 4.3
+label: cup, pitted
+value: 11.1
+label: plum with liquid
+value: 2.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.008
+label: cup, pitted
+value: 0.021
+label: plum with liquid
+value: 0.004
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: cup, pitted
+value: 0.0
+label: plum with liquid
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: cup, pitted
+value: 0.0
+label: plum with liquid
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: cup, pitted
+value: 0.0
+label: plum with liquid
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: cup, pitted
+value: 0.0
+label: plum with liquid
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: cup, pitted
+value: 0.0
+label: plum with liquid
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.0
+label: cup, pitted
+value: 0.0
+label: plum with liquid
+value: 0.0
+
+
+name: 16:0
+unit: g
+value: 0.007
+label: cup, pitted
+value: 0.018
+label: plum with liquid
+value: 0.003
+
+
+name: 18:0
+unit: g
+value: 0.001
+label: cup, pitted
+value: 0.003
+label: plum with liquid
+value: 0.0
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.066
+label: cup, pitted
+value: 0.17
+label: plum with liquid
+value: 0.03
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.001
+label: cup, pitted
+value: 0.003
+label: plum with liquid
+value: 0.0
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.065
+label: cup, pitted
+value: 0.168
+label: plum with liquid
+value: 0.03
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: cup, pitted
+value: 0.0
+label: plum with liquid
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: cup, pitted
+value: 0.0
+label: plum with liquid
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.022
+label: cup, pitted
+value: 0.057
+label: plum with liquid
+value: 0.01
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.022
+label: cup, pitted
+value: 0.057
+label: plum with liquid
+value: 0.01
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.0
+label: cup, pitted
+value: 0.0
+label: plum with liquid
+value: 0.0
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: cup, pitted
+value: 0.0
+label: plum with liquid
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: cup, pitted
+value: 0.0
+label: plum with liquid
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: cup, pitted
+value: 0.0
+label: plum with liquid
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: cup, pitted
+value: 0.0
+label: plum with liquid
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: cup, pitted
+value: 0.0
+label: plum with liquid
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.0
+label: cup, pitted
+value: 0.0
+label: plum with liquid
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: cup, pitted
+value: 0.0
+label: plum with liquid
+value: 0.0
+
+
+name: Threonine
+unit: g
+value: 0.008
+label: cup, pitted
+value: 0.021
+label: plum with liquid
+value: 0.004
+
+
+name: Isoleucine
+unit: g
+value: 0.007
+label: cup, pitted
+value: 0.018
+label: plum with liquid
+value: 0.003
+
+
+name: Leucine
+unit: g
+value: 0.01
+label: cup, pitted
+value: 0.026
+label: plum with liquid
+value: 0.005
+
+
+name: Lysine
+unit: g
+value: 0.008
+label: cup, pitted
+value: 0.021
+label: plum with liquid
+value: 0.004
+
+
+name: Methionine
+unit: g
+value: 0.003
+label: cup, pitted
+value: 0.008
+label: plum with liquid
+value: 0.001
+
+
+name: Cystine
+unit: g
+value: 0.002
+label: cup, pitted
+value: 0.005
+label: plum with liquid
+value: 0.001
+
+
+name: Phenylalanine
+unit: g
+value: 0.008
+label: cup, pitted
+value: 0.021
+label: plum with liquid
+value: 0.004
+
+
+name: Tyrosine
+unit: g
+value: 0.003
+label: cup, pitted
+value: 0.008
+label: plum with liquid
+value: 0.001
+
+
+name: Valine
+unit: g
+value: 0.009
+label: cup, pitted
+value: 0.023
+label: plum with liquid
+value: 0.004
+
+
+name: Arginine
+unit: g
+value: 0.006
+label: cup, pitted
+value: 0.015
+label: plum with liquid
+value: 0.003
+
+
+name: Histidine
+unit: g
+value: 0.006
+label: cup, pitted
+value: 0.015
+label: plum with liquid
+value: 0.003
+
+
+name: Alanine
+unit: g
+value: 0.013
+label: cup, pitted
+value: 0.034
+label: plum with liquid
+value: 0.006
+
+
+name: Aspartic acid
+unit: g
+value: 0.114
+label: cup, pitted
+value: 0.294
+label: plum with liquid
+value: 0.052
+
+
+name: Glutamic acid
+unit: g
+value: 0.017
+label: cup, pitted
+value: 0.044
+label: plum with liquid
+value: 0.008
+
+
+name: Glycine
+unit: g
+value: 0.006
+label: cup, pitted
+value: 0.015
+label: plum with liquid
+value: 0.003
+
+
+name: Proline
+unit: g
+value: 0.016
+label: cup, pitted
+value: 0.041
+label: plum with liquid
+value: 0.007
+
+
+name: Serine
+unit: g
+value: 0.009
+label: cup, pitted
+value: 0.023
+label: plum with liquid
+value: 0.004
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: cup, pitted
+value: 0.0
+label: plum with liquid
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: cup, pitted
+value: 0.0
+label: plum with liquid
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: cup, pitted
+value: 0.0
+label: plum with liquid
+value: 0.0
+
+
+

@@ -1,0 +1,771 @@
+ndbno: 11008
+
+
+name: Artichokes, (globe or french), cooked, boiled, drained, without salt
+
+
+name: Water
+unit: g
+value: 84.08
+label: artichoke, medium
+value: 100.9
+label: cup hearts
+value: 70.63
+
+
+name: Energy
+unit: kcal
+value: 53.0
+label: artichoke, medium
+value: 64.0
+label: cup hearts
+value: 45.0
+
+
+name: Energy
+unit: kJ
+value: 220.0
+label: artichoke, medium
+value: 264.0
+label: cup hearts
+value: 185.0
+
+
+name: Protein
+unit: g
+value: 2.89
+label: artichoke, medium
+value: 3.47
+label: cup hearts
+value: 2.43
+
+
+name: Total lipid (fat)
+unit: g
+value: 0.34
+label: artichoke, medium
+value: 0.41
+label: cup hearts
+value: 0.29
+
+
+name: Ash
+unit: g
+value: 0.74
+label: artichoke, medium
+value: 0.89
+label: cup hearts
+value: 0.62
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 11.95
+label: artichoke, medium
+value: 14.34
+label: cup hearts
+value: 10.04
+
+
+name: Fiber, total dietary
+unit: g
+value: 5.7
+label: artichoke, medium
+value: 6.8
+label: cup hearts
+value: 4.8
+
+
+name: Sugars, total
+unit: g
+value: 0.99
+label: artichoke, medium
+value: 1.19
+label: cup hearts
+value: 0.83
+
+
+name: Sucrose
+unit: g
+value: 0.73
+label: artichoke, medium
+value: 0.88
+label: cup hearts
+value: 0.61
+
+
+name: Glucose (dextrose)
+unit: g
+value: 0.24
+label: artichoke, medium
+value: 0.29
+label: cup hearts
+value: 0.2
+
+
+name: Fructose
+unit: g
+value: 0.02
+label: artichoke, medium
+value: 0.02
+label: cup hearts
+value: 0.02
+
+
+name: Lactose
+unit: g
+value: 0.0
+label: artichoke, medium
+value: 0.0
+label: cup hearts
+value: 0.0
+
+
+name: Maltose
+unit: g
+value: 0.0
+label: artichoke, medium
+value: 0.0
+label: cup hearts
+value: 0.0
+
+
+name: Galactose
+unit: g
+value: 0.0
+label: artichoke, medium
+value: 0.0
+label: cup hearts
+value: 0.0
+
+
+name: Starch
+unit: g
+value: 0.0
+label: artichoke, medium
+value: 0.0
+label: cup hearts
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 21.0
+label: artichoke, medium
+value: 25.0
+label: cup hearts
+value: 18.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.61
+label: artichoke, medium
+value: 0.73
+label: cup hearts
+value: 0.51
+
+
+name: Magnesium, Mg
+unit: mg
+value: 42.0
+label: artichoke, medium
+value: 50.0
+label: cup hearts
+value: 35.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 73.0
+label: artichoke, medium
+value: 88.0
+label: cup hearts
+value: 61.0
+
+
+name: Potassium, K
+unit: mg
+value: 286.0
+label: artichoke, medium
+value: 343.0
+label: cup hearts
+value: 240.0
+
+
+name: Sodium, Na
+unit: mg
+value: 60.0
+label: artichoke, medium
+value: 72.0
+label: cup hearts
+value: 50.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.4
+label: artichoke, medium
+value: 0.48
+label: cup hearts
+value: 0.34
+
+
+name: Copper, Cu
+unit: mg
+value: 0.127
+label: artichoke, medium
+value: 0.152
+label: cup hearts
+value: 0.107
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.225
+label: artichoke, medium
+value: 0.27
+label: cup hearts
+value: 0.189
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 0.2
+label: artichoke, medium
+value: 0.2
+label: cup hearts
+value: 0.2
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 7.4
+label: artichoke, medium
+value: 8.9
+label: cup hearts
+value: 6.2
+
+
+name: Thiamin
+unit: mg
+value: 0.05
+label: artichoke, medium
+value: 0.06
+label: cup hearts
+value: 0.042
+
+
+name: Riboflavin
+unit: mg
+value: 0.089
+label: artichoke, medium
+value: 0.107
+label: cup hearts
+value: 0.075
+
+
+name: Niacin
+unit: mg
+value: 1.11
+label: artichoke, medium
+value: 1.332
+label: cup hearts
+value: 0.932
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.24
+label: artichoke, medium
+value: 0.288
+label: cup hearts
+value: 0.202
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.081
+label: artichoke, medium
+value: 0.097
+label: cup hearts
+value: 0.068
+
+
+name: Folate, total
+unit: \u00B5g
+value: 89.0
+label: artichoke, medium
+value: 107.0
+label: cup hearts
+value: 75.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: artichoke, medium
+value: 0.0
+label: cup hearts
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 89.0
+label: artichoke, medium
+value: 107.0
+label: cup hearts
+value: 75.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 89.0
+label: artichoke, medium
+value: 107.0
+label: cup hearts
+value: 75.0
+
+
+name: Choline, total
+unit: mg
+value: 34.4
+label: artichoke, medium
+value: 41.3
+label: cup hearts
+value: 28.9
+
+
+name: Betaine
+unit: mg
+value: 0.2
+label: artichoke, medium
+value: 0.2
+label: cup hearts
+value: 0.2
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: artichoke, medium
+value: 0.0
+label: cup hearts
+value: 0.0
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: artichoke, medium
+value: 0.0
+label: cup hearts
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 1.0
+label: artichoke, medium
+value: 1.0
+label: cup hearts
+value: 1.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: artichoke, medium
+value: 0.0
+label: cup hearts
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 8.0
+label: artichoke, medium
+value: 10.0
+label: cup hearts
+value: 7.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: artichoke, medium
+value: 0.0
+label: cup hearts
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: artichoke, medium
+value: 0.0
+label: cup hearts
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 13.0
+label: artichoke, medium
+value: 16.0
+label: cup hearts
+value: 11.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: artichoke, medium
+value: 0.0
+label: cup hearts
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 464.0
+label: artichoke, medium
+value: 557.0
+label: cup hearts
+value: 390.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.19
+label: artichoke, medium
+value: 0.23
+label: cup hearts
+value: 0.16
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: artichoke, medium
+value: 0.0
+label: cup hearts
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: artichoke, medium
+value: 0.0
+label: cup hearts
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: artichoke, medium
+value: 0.0
+label: cup hearts
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 14.8
+label: artichoke, medium
+value: 17.8
+label: cup hearts
+value: 12.4
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.079
+label: artichoke, medium
+value: 0.095
+label: cup hearts
+value: 0.066
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: artichoke, medium
+value: 0.0
+label: cup hearts
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: artichoke, medium
+value: 0.0
+label: cup hearts
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: artichoke, medium
+value: 0.0
+label: cup hearts
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: artichoke, medium
+value: 0.0
+label: cup hearts
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.004
+label: artichoke, medium
+value: 0.005
+label: cup hearts
+value: 0.003
+
+
+name: 14:0
+unit: g
+value: 0.004
+label: artichoke, medium
+value: 0.005
+label: cup hearts
+value: 0.003
+
+
+name: 16:0
+unit: g
+value: 0.066
+label: artichoke, medium
+value: 0.079
+label: cup hearts
+value: 0.055
+
+
+name: 18:0
+unit: g
+value: 0.006
+label: artichoke, medium
+value: 0.007
+label: cup hearts
+value: 0.005
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.011
+label: artichoke, medium
+value: 0.013
+label: cup hearts
+value: 0.009
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.0
+label: artichoke, medium
+value: 0.0
+label: cup hearts
+value: 0.0
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.011
+label: artichoke, medium
+value: 0.013
+label: cup hearts
+value: 0.009
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: artichoke, medium
+value: 0.0
+label: cup hearts
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: artichoke, medium
+value: 0.0
+label: cup hearts
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.145
+label: artichoke, medium
+value: 0.174
+label: cup hearts
+value: 0.122
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.105
+label: artichoke, medium
+value: 0.126
+label: cup hearts
+value: 0.088
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.038
+label: artichoke, medium
+value: 0.046
+label: cup hearts
+value: 0.032
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: artichoke, medium
+value: 0.0
+label: cup hearts
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: artichoke, medium
+value: 0.0
+label: cup hearts
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: artichoke, medium
+value: 0.0
+label: cup hearts
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: artichoke, medium
+value: 0.0
+label: cup hearts
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: artichoke, medium
+value: 0.0
+label: cup hearts
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.0
+label: artichoke, medium
+value: 0.0
+label: cup hearts
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: artichoke, medium
+value: 0.0
+label: cup hearts
+value: 0.0
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: artichoke, medium
+value: 0.0
+label: cup hearts
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: artichoke, medium
+value: 0.0
+label: cup hearts
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: artichoke, medium
+value: 0.0
+label: cup hearts
+value: 0.0
+
+
+name: Proanthocyanidin dimers
+unit: mg
+value: 0.0
+label: artichoke, medium
+value: 0.0
+label: cup hearts
+value: 0.0
+
+
+name: Proanthocyanidin trimers
+unit: mg
+value: 0.0
+label: artichoke, medium
+value: 0.0
+label: cup hearts
+value: 0.0
+
+
+name: Proanthocyanidin 4-6mers
+unit: mg
+value: 0.0
+label: artichoke, medium
+value: 0.0
+label: cup hearts
+value: 0.0
+
+
+name: Proanthocyanidin 7-10mers
+unit: mg
+value: 0.0
+label: artichoke, medium
+value: 0.0
+label: cup hearts
+value: 0.0
+
+
+name: Proanthocyanidin polymers (>10mers)
+unit: mg
+value: 0.0
+label: artichoke, medium
+value: 0.0
+label: cup hearts
+value: 0.0
+
+

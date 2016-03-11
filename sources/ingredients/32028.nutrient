@@ -1,0 +1,588 @@
+ndbno: 32028
+
+
+name: Turnover, filled with egg, meat and cheese, frozen
+
+
+name: Water
+unit: g
+value: 57.21
+label: piece turnover 1 serving
+value: 72.66
+
+
+name: Energy
+unit: kcal
+value: 228.0
+label: piece turnover 1 serving
+value: 290.0
+
+
+name: Energy
+unit: kJ
+value: 952.0
+label: piece turnover 1 serving
+value: 1209.0
+
+
+name: Protein
+unit: g
+value: 7.87
+label: piece turnover 1 serving
+value: 9.99
+
+
+name: Total lipid (fat)
+unit: g
+value: 12.6
+label: piece turnover 1 serving
+value: 16.0
+
+
+name: Ash
+unit: g
+value: 1.65
+label: piece turnover 1 serving
+value: 2.1
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 20.67
+label: piece turnover 1 serving
+value: 26.25
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.8
+label: piece turnover 1 serving
+value: 1.0
+
+
+name: Sugars, total
+unit: g
+value: 7.87
+label: piece turnover 1 serving
+value: 9.99
+
+
+name: Calcium, Ca
+unit: mg
+value: 79.0
+label: piece turnover 1 serving
+value: 100.0
+
+
+name: Iron, Fe
+unit: mg
+value: 2.13
+label: piece turnover 1 serving
+value: 2.71
+
+
+name: Magnesium, Mg
+unit: mg
+value: 16.0
+label: piece turnover 1 serving
+value: 20.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 111.0
+label: piece turnover 1 serving
+value: 141.0
+
+
+name: Potassium, K
+unit: mg
+value: 177.0
+label: piece turnover 1 serving
+value: 225.0
+
+
+name: Sodium, Na
+unit: mg
+value: 378.0
+label: piece turnover 1 serving
+value: 480.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.99
+label: piece turnover 1 serving
+value: 1.26
+
+
+name: Copper, Cu
+unit: mg
+value: 0.064
+label: piece turnover 1 serving
+value: 0.081
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 14.0
+label: piece turnover 1 serving
+value: 17.8
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: piece turnover 1 serving
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.261
+label: piece turnover 1 serving
+value: 0.331
+
+
+name: Riboflavin
+unit: mg
+value: 0.224
+label: piece turnover 1 serving
+value: 0.284
+
+
+name: Niacin
+unit: mg
+value: 2.726
+label: piece turnover 1 serving
+value: 3.462
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.084
+label: piece turnover 1 serving
+value: 0.107
+
+
+name: Folate, total
+unit: \u00B5g
+value: 46.0
+label: piece turnover 1 serving
+value: 58.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 34.0
+label: piece turnover 1 serving
+value: 43.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 12.0
+label: piece turnover 1 serving
+value: 15.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 70.0
+label: piece turnover 1 serving
+value: 89.0
+
+
+name: Choline, total
+unit: mg
+value: 28.9
+label: piece turnover 1 serving
+value: 36.7
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.33
+label: piece turnover 1 serving
+value: 0.42
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: piece turnover 1 serving
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 39.0
+label: piece turnover 1 serving
+value: 50.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 37.0
+label: piece turnover 1 serving
+value: 47.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 20.0
+label: piece turnover 1 serving
+value: 25.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: piece turnover 1 serving
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: piece turnover 1 serving
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 157.0
+label: piece turnover 1 serving
+value: 199.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: piece turnover 1 serving
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 15.0
+label: piece turnover 1 serving
+value: 19.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.65
+label: piece turnover 1 serving
+value: 0.83
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: piece turnover 1 serving
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.4
+label: piece turnover 1 serving
+value: 0.5
+
+
+name: Vitamin D
+unit: IU
+value: 15.0
+label: piece turnover 1 serving
+value: 19.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 3.8
+label: piece turnover 1 serving
+value: 4.8
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 5.512
+label: piece turnover 1 serving
+value: 7.0
+
+
+name: 4:0
+unit: g
+value: 0.017
+label: piece turnover 1 serving
+value: 0.022
+
+
+name: 6:0
+unit: g
+value: 0.012
+label: piece turnover 1 serving
+value: 0.015
+
+
+name: 8:0
+unit: g
+value: 0.099
+label: piece turnover 1 serving
+value: 0.126
+
+
+name: 10:0
+unit: g
+value: 0.121
+label: piece turnover 1 serving
+value: 0.154
+
+
+name: 12:0
+unit: g
+value: 1.34
+label: piece turnover 1 serving
+value: 1.702
+
+
+name: 13:0
+unit: g
+value: 0.0
+label: piece turnover 1 serving
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.6
+label: piece turnover 1 serving
+value: 0.762
+
+
+name: 15:0
+unit: g
+value: 0.005
+label: piece turnover 1 serving
+value: 0.006
+
+
+name: 16:0
+unit: g
+value: 2.158
+label: piece turnover 1 serving
+value: 2.741
+
+
+name: 17:0
+unit: g
+value: 0.019
+label: piece turnover 1 serving
+value: 0.024
+
+
+name: 18:0
+unit: g
+value: 1.09
+label: piece turnover 1 serving
+value: 1.384
+
+
+name: 20:0
+unit: g
+value: 0.017
+label: piece turnover 1 serving
+value: 0.022
+
+
+name: 22:0
+unit: g
+value: 0.003
+label: piece turnover 1 serving
+value: 0.004
+
+
+name: 24:0
+unit: g
+value: 0.001
+label: piece turnover 1 serving
+value: 0.001
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 4.298
+label: piece turnover 1 serving
+value: 5.458
+
+
+name: 14:1
+unit: g
+value: 0.003
+label: piece turnover 1 serving
+value: 0.004
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: piece turnover 1 serving
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.134
+label: piece turnover 1 serving
+value: 0.17
+
+
+name: 17:1
+unit: g
+value: 0.012
+label: piece turnover 1 serving
+value: 0.015
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 4.074
+label: piece turnover 1 serving
+value: 5.174
+
+
+name: 20:1
+unit: g
+value: 0.073
+label: piece turnover 1 serving
+value: 0.093
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.001
+label: piece turnover 1 serving
+value: 0.001
+
+
+name: 24:1 c
+unit: g
+value: 0.0
+label: piece turnover 1 serving
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 2.019
+label: piece turnover 1 serving
+value: 2.564
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 1.8
+label: piece turnover 1 serving
+value: 2.286
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.103
+label: piece turnover 1 serving
+value: 0.131
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: piece turnover 1 serving
+value: 0.0
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.051
+label: piece turnover 1 serving
+value: 0.065
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.015
+label: piece turnover 1 serving
+value: 0.019
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.029
+label: piece turnover 1 serving
+value: 0.037
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: piece turnover 1 serving
+value: 0.0
+
+
+name: 22:4
+unit: g
+value: 0.011
+label: piece turnover 1 serving
+value: 0.014
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.006
+label: piece turnover 1 serving
+value: 0.008
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.002
+label: piece turnover 1 serving
+value: 0.003
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.0
+label: piece turnover 1 serving
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 31.0
+label: piece turnover 1 serving
+value: 39.0
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: piece turnover 1 serving
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: piece turnover 1 serving
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: piece turnover 1 serving
+value: 0.0
+
+
+

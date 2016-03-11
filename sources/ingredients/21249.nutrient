@@ -1,0 +1,1161 @@
+ndbno: 21249
+
+
+name: BURGER KING, french fries
+
+
+name: Water
+unit: g
+value: 43.95
+label: small serving
+value: 32.52
+label: medium serving
+value: 51.42
+label: large serving
+value: 70.32
+
+
+name: Energy
+unit: kcal
+value: 280.0
+label: small serving
+value: 207.0
+label: medium serving
+value: 328.0
+label: large serving
+value: 448.0
+
+
+name: Energy
+unit: kJ
+value: 1172.0
+label: small serving
+value: 867.0
+label: medium serving
+value: 1371.0
+label: large serving
+value: 1875.0
+
+
+name: Protein
+unit: g
+value: 3.23
+label: small serving
+value: 2.39
+label: medium serving
+value: 3.78
+label: large serving
+value: 5.17
+
+
+name: Total lipid (fat)
+unit: g
+value: 12.48
+label: small serving
+value: 9.24
+label: medium serving
+value: 14.6
+label: large serving
+value: 19.97
+
+
+name: Ash
+unit: g
+value: 1.64
+label: small serving
+value: 1.21
+label: medium serving
+value: 1.92
+label: large serving
+value: 2.62
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 38.7
+label: small serving
+value: 28.64
+label: medium serving
+value: 45.28
+label: large serving
+value: 61.92
+
+
+name: Fiber, total dietary
+unit: g
+value: 2.9
+label: small serving
+value: 2.1
+label: medium serving
+value: 3.4
+label: large serving
+value: 4.6
+
+
+name: Sugars, total
+unit: g
+value: 0.51
+label: small serving
+value: 0.38
+label: medium serving
+value: 0.6
+label: large serving
+value: 0.82
+
+
+name: Sucrose
+unit: g
+value: 0.0
+label: small serving
+value: 0.0
+label: medium serving
+value: 0.0
+label: large serving
+value: 0.0
+
+
+name: Glucose (dextrose)
+unit: g
+value: 0.51
+label: small serving
+value: 0.38
+label: medium serving
+value: 0.6
+label: large serving
+value: 0.82
+
+
+name: Fructose
+unit: g
+value: 0.0
+label: small serving
+value: 0.0
+label: medium serving
+value: 0.0
+label: large serving
+value: 0.0
+
+
+name: Lactose
+unit: g
+value: 0.0
+label: small serving
+value: 0.0
+label: medium serving
+value: 0.0
+label: large serving
+value: 0.0
+
+
+name: Maltose
+unit: g
+value: 0.0
+label: small serving
+value: 0.0
+label: medium serving
+value: 0.0
+label: large serving
+value: 0.0
+
+
+name: Galactose
+unit: g
+value: 0.0
+label: small serving
+value: 0.0
+label: medium serving
+value: 0.0
+label: large serving
+value: 0.0
+
+
+name: Starch
+unit: g
+value: 35.97
+label: small serving
+value: 26.62
+label: medium serving
+value: 42.08
+label: large serving
+value: 57.55
+
+
+name: Calcium, Ca
+unit: mg
+value: 17.0
+label: small serving
+value: 13.0
+label: medium serving
+value: 20.0
+label: large serving
+value: 27.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.73
+label: small serving
+value: 0.54
+label: medium serving
+value: 0.85
+label: large serving
+value: 1.17
+
+
+name: Magnesium, Mg
+unit: mg
+value: 27.0
+label: small serving
+value: 20.0
+label: medium serving
+value: 32.0
+label: large serving
+value: 43.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 119.0
+label: small serving
+value: 88.0
+label: medium serving
+value: 139.0
+label: large serving
+value: 190.0
+
+
+name: Potassium, K
+unit: mg
+value: 467.0
+label: small serving
+value: 346.0
+label: medium serving
+value: 546.0
+label: large serving
+value: 747.0
+
+
+name: Sodium, Na
+unit: mg
+value: 279.0
+label: small serving
+value: 206.0
+label: medium serving
+value: 326.0
+label: large serving
+value: 446.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.44
+label: small serving
+value: 0.33
+label: medium serving
+value: 0.51
+label: large serving
+value: 0.7
+
+
+name: Copper, Cu
+unit: mg
+value: 0.127
+label: small serving
+value: 0.094
+label: medium serving
+value: 0.149
+label: large serving
+value: 0.203
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.213
+label: small serving
+value: 0.158
+label: medium serving
+value: 0.249
+label: large serving
+value: 0.341
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 2.2
+label: small serving
+value: 1.6
+label: medium serving
+value: 2.6
+label: large serving
+value: 3.5
+
+
+name: Thiamin
+unit: mg
+value: 0.143
+label: small serving
+value: 0.106
+label: medium serving
+value: 0.167
+label: large serving
+value: 0.229
+
+
+name: Riboflavin
+unit: mg
+value: 0.033
+label: small serving
+value: 0.024
+label: medium serving
+value: 0.039
+label: large serving
+value: 0.053
+
+
+name: Niacin
+unit: mg
+value: 2.163
+label: small serving
+value: 1.601
+label: medium serving
+value: 2.531
+label: large serving
+value: 3.461
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.49
+label: small serving
+value: 0.363
+label: medium serving
+value: 0.573
+label: large serving
+value: 0.784
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.327
+label: small serving
+value: 0.242
+label: medium serving
+value: 0.383
+label: large serving
+value: 0.523
+
+
+name: Choline, total
+unit: mg
+value: 28.9
+label: small serving
+value: 21.4
+label: medium serving
+value: 33.8
+label: large serving
+value: 46.2
+
+
+name: Betaine
+unit: mg
+value: 0.5
+label: small serving
+value: 0.4
+label: medium serving
+value: 0.6
+label: large serving
+value: 0.8
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 2.45
+label: small serving
+value: 1.81
+label: medium serving
+value: 2.87
+label: large serving
+value: 3.92
+
+
+name: Tocopherol, beta
+unit: mg
+value: 0.06
+label: small serving
+value: 0.04
+label: medium serving
+value: 0.07
+label: large serving
+value: 0.1
+
+
+name: Tocopherol, gamma
+unit: mg
+value: 4.75
+label: small serving
+value: 3.52
+label: medium serving
+value: 5.56
+label: large serving
+value: 7.6
+
+
+name: Tocopherol, delta
+unit: mg
+value: 0.52
+label: small serving
+value: 0.38
+label: medium serving
+value: 0.61
+label: large serving
+value: 0.83
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 11.1
+label: small serving
+value: 8.2
+label: medium serving
+value: 13.0
+label: large serving
+value: 17.8
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 2.137
+label: small serving
+value: 1.581
+label: medium serving
+value: 2.5
+label: large serving
+value: 3.419
+
+
+name: 4:0
+unit: g
+value: 0.005
+label: small serving
+value: 0.004
+label: medium serving
+value: 0.006
+label: large serving
+value: 0.008
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: small serving
+value: 0.0
+label: medium serving
+value: 0.0
+label: large serving
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.009
+label: small serving
+value: 0.007
+label: medium serving
+value: 0.011
+label: large serving
+value: 0.014
+
+
+name: 10:0
+unit: g
+value: 0.01
+label: small serving
+value: 0.007
+label: medium serving
+value: 0.012
+label: large serving
+value: 0.016
+
+
+name: 12:0
+unit: g
+value: 0.004
+label: small serving
+value: 0.003
+label: medium serving
+value: 0.005
+label: large serving
+value: 0.006
+
+
+name: 14:0
+unit: g
+value: 0.031
+label: small serving
+value: 0.023
+label: medium serving
+value: 0.036
+label: large serving
+value: 0.05
+
+
+name: 15:0
+unit: g
+value: 0.004
+label: small serving
+value: 0.003
+label: medium serving
+value: 0.005
+label: large serving
+value: 0.006
+
+
+name: 16:0
+unit: g
+value: 1.676
+label: small serving
+value: 1.24
+label: medium serving
+value: 1.961
+label: large serving
+value: 2.682
+
+
+name: 17:0
+unit: g
+value: 0.01
+label: small serving
+value: 0.007
+label: medium serving
+value: 0.012
+label: large serving
+value: 0.016
+
+
+name: 18:0
+unit: g
+value: 0.313
+label: small serving
+value: 0.232
+label: medium serving
+value: 0.366
+label: large serving
+value: 0.501
+
+
+name: 20:0
+unit: g
+value: 0.038
+label: small serving
+value: 0.028
+label: medium serving
+value: 0.044
+label: large serving
+value: 0.061
+
+
+name: 22:0
+unit: g
+value: 0.021
+label: small serving
+value: 0.016
+label: medium serving
+value: 0.025
+label: large serving
+value: 0.034
+
+
+name: 24:0
+unit: g
+value: 0.017
+label: small serving
+value: 0.013
+label: medium serving
+value: 0.02
+label: large serving
+value: 0.027
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 3.27
+label: small serving
+value: 2.42
+label: medium serving
+value: 3.826
+label: large serving
+value: 5.232
+
+
+name: 14:1
+unit: g
+value: 0.0
+label: small serving
+value: 0.0
+label: medium serving
+value: 0.0
+label: large serving
+value: 0.0
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: small serving
+value: 0.0
+label: medium serving
+value: 0.0
+label: large serving
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.025
+label: small serving
+value: 0.019
+label: medium serving
+value: 0.029
+label: large serving
+value: 0.04
+
+
+name: 16:1 c
+unit: g
+value: 0.025
+label: small serving
+value: 0.019
+label: medium serving
+value: 0.029
+label: large serving
+value: 0.04
+
+
+name: 16:1 t
+unit: g
+value: 0.0
+label: small serving
+value: 0.0
+label: medium serving
+value: 0.0
+label: large serving
+value: 0.0
+
+
+name: 17:1
+unit: g
+value: 0.005
+label: small serving
+value: 0.004
+label: medium serving
+value: 0.006
+label: large serving
+value: 0.008
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 3.199
+label: small serving
+value: 2.367
+label: medium serving
+value: 3.743
+label: large serving
+value: 5.118
+
+
+name: 18:1 c
+unit: g
+value: 3.186
+label: small serving
+value: 2.358
+label: medium serving
+value: 3.728
+label: large serving
+value: 5.098
+
+
+name: 18:1 t
+unit: g
+value: 0.013
+label: small serving
+value: 0.01
+label: medium serving
+value: 0.015
+label: large serving
+value: 0.021
+
+
+name: 20:1
+unit: g
+value: 0.037
+label: small serving
+value: 0.027
+label: medium serving
+value: 0.043
+label: large serving
+value: 0.059
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.001
+label: small serving
+value: 0.001
+label: medium serving
+value: 0.001
+label: large serving
+value: 0.002
+
+
+name: 22:1 c
+unit: g
+value: 0.001
+label: small serving
+value: 0.001
+label: medium serving
+value: 0.001
+label: large serving
+value: 0.002
+
+
+name: 22:1 t
+unit: g
+value: 0.0
+label: small serving
+value: 0.0
+label: medium serving
+value: 0.0
+label: large serving
+value: 0.0
+
+
+name: 24:1 c
+unit: g
+value: 0.003
+label: small serving
+value: 0.002
+label: medium serving
+value: 0.004
+label: large serving
+value: 0.005
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 5.946
+label: small serving
+value: 4.4
+label: medium serving
+value: 6.957
+label: large serving
+value: 9.514
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 5.648
+label: small serving
+value: 4.18
+label: medium serving
+value: 6.608
+label: large serving
+value: 9.037
+
+
+name: 18:2 n-6 c,c
+unit: g
+value: 5.599
+label: small serving
+value: 4.143
+label: medium serving
+value: 6.551
+label: large serving
+value: 8.958
+
+
+name: 18:2 CLAs
+unit: g
+value: 0.015
+label: small serving
+value: 0.011
+label: medium serving
+value: 0.018
+label: large serving
+value: 0.024
+
+
+name: 18:2 t not further defined
+unit: g
+value: 0.033
+label: small serving
+value: 0.024
+label: medium serving
+value: 0.039
+label: large serving
+value: 0.053
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.289
+label: small serving
+value: 0.214
+label: medium serving
+value: 0.338
+label: large serving
+value: 0.462
+
+
+name: 18:3 n-3 c,c,c (ALA)
+unit: g
+value: 0.273
+label: small serving
+value: 0.202
+label: medium serving
+value: 0.319
+label: large serving
+value: 0.437
+
+
+name: 18:3 n-6 c,c,c
+unit: g
+value: 0.016
+label: small serving
+value: 0.012
+label: medium serving
+value: 0.019
+label: large serving
+value: 0.026
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: small serving
+value: 0.0
+label: medium serving
+value: 0.0
+label: large serving
+value: 0.0
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.004
+label: small serving
+value: 0.003
+label: medium serving
+value: 0.005
+label: large serving
+value: 0.006
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.002
+label: small serving
+value: 0.001
+label: medium serving
+value: 0.002
+label: large serving
+value: 0.003
+
+
+name: 20:3 n-6
+unit: g
+value: 0.0
+label: small serving
+value: 0.0
+label: medium serving
+value: 0.0
+label: large serving
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.003
+label: small serving
+value: 0.002
+label: medium serving
+value: 0.004
+label: large serving
+value: 0.005
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: small serving
+value: 0.0
+label: medium serving
+value: 0.0
+label: large serving
+value: 0.0
+
+
+name: 22:4
+unit: g
+value: 0.0
+label: small serving
+value: 0.0
+label: medium serving
+value: 0.0
+label: large serving
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: small serving
+value: 0.0
+label: medium serving
+value: 0.0
+label: large serving
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: small serving
+value: 0.0
+label: medium serving
+value: 0.0
+label: large serving
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.046
+label: small serving
+value: 0.034
+label: medium serving
+value: 0.054
+label: large serving
+value: 0.074
+
+
+name: Fatty acids, total trans-monoenoic
+unit: g
+value: 0.013
+label: small serving
+value: 0.01
+label: medium serving
+value: 0.015
+label: large serving
+value: 0.021
+
+
+name: Tryptophan
+unit: g
+value: 0.028
+label: small serving
+value: 0.021
+label: medium serving
+value: 0.033
+label: large serving
+value: 0.045
+
+
+name: Threonine
+unit: g
+value: 0.11
+label: small serving
+value: 0.081
+label: medium serving
+value: 0.129
+label: large serving
+value: 0.176
+
+
+name: Isoleucine
+unit: g
+value: 0.108
+label: small serving
+value: 0.08
+label: medium serving
+value: 0.126
+label: large serving
+value: 0.173
+
+
+name: Leucine
+unit: g
+value: 0.17
+label: small serving
+value: 0.126
+label: medium serving
+value: 0.199
+label: large serving
+value: 0.272
+
+
+name: Lysine
+unit: g
+value: 0.265
+label: small serving
+value: 0.196
+label: medium serving
+value: 0.31
+label: large serving
+value: 0.424
+
+
+name: Methionine
+unit: g
+value: 0.06
+label: small serving
+value: 0.044
+label: medium serving
+value: 0.07
+label: large serving
+value: 0.096
+
+
+name: Cystine
+unit: g
+value: 0.011
+label: small serving
+value: 0.008
+label: medium serving
+value: 0.013
+label: large serving
+value: 0.018
+
+
+name: Phenylalanine
+unit: g
+value: 0.146
+label: small serving
+value: 0.108
+label: medium serving
+value: 0.171
+label: large serving
+value: 0.234
+
+
+name: Tyrosine
+unit: g
+value: 0.096
+label: small serving
+value: 0.071
+label: medium serving
+value: 0.112
+label: large serving
+value: 0.154
+
+
+name: Valine
+unit: g
+value: 0.164
+label: small serving
+value: 0.121
+label: medium serving
+value: 0.192
+label: large serving
+value: 0.262
+
+
+name: Arginine
+unit: g
+value: 0.182
+label: small serving
+value: 0.135
+label: medium serving
+value: 0.213
+label: large serving
+value: 0.291
+
+
+name: Histidine
+unit: g
+value: 0.065
+label: small serving
+value: 0.048
+label: medium serving
+value: 0.076
+label: large serving
+value: 0.104
+
+
+name: Alanine
+unit: g
+value: 0.104
+label: small serving
+value: 0.077
+label: medium serving
+value: 0.122
+label: large serving
+value: 0.166
+
+
+name: Aspartic acid
+unit: g
+value: 0.677
+label: small serving
+value: 0.501
+label: medium serving
+value: 0.792
+label: large serving
+value: 1.083
+
+
+name: Glutamic acid
+unit: g
+value: 0.504
+label: small serving
+value: 0.373
+label: medium serving
+value: 0.59
+label: large serving
+value: 0.806
+
+
+name: Glycine
+unit: g
+value: 0.095
+label: small serving
+value: 0.07
+label: medium serving
+value: 0.111
+label: large serving
+value: 0.152
+
+
+name: Proline
+unit: g
+value: 0.133
+label: small serving
+value: 0.098
+label: medium serving
+value: 0.156
+label: large serving
+value: 0.213
+
+
+name: Serine
+unit: g
+value: 0.11
+label: small serving
+value: 0.081
+label: medium serving
+value: 0.129
+label: large serving
+value: 0.176
+
+
+name: Hydroxyproline
+unit: g
+value: 0.0
+label: small serving
+value: 0.0
+label: medium serving
+value: 0.0
+label: large serving
+value: 0.0
+
+

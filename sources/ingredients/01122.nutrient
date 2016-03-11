@@ -1,0 +1,732 @@
+ndbno: 01122
+
+
+name: Yogurt, fruit, low fat, 11 grams protein per 8 ounce
+
+
+name: Water
+unit: g
+value: 74.1
+label: container (6 oz)
+value: 125.97
+label: container (4 oz)
+value: 83.73
+label: container (8 oz)
+value: 168.21
+
+
+name: Energy
+unit: kcal
+value: 105.0
+label: container (6 oz)
+value: 178.0
+label: container (4 oz)
+value: 119.0
+label: container (8 oz)
+value: 238.0
+
+
+name: Energy
+unit: kJ
+value: 440.0
+label: container (6 oz)
+value: 748.0
+label: container (4 oz)
+value: 497.0
+label: container (8 oz)
+value: 999.0
+
+
+name: Protein
+unit: g
+value: 4.86
+label: container (6 oz)
+value: 8.26
+label: container (4 oz)
+value: 5.49
+label: container (8 oz)
+value: 11.03
+
+
+name: Total lipid (fat)
+unit: g
+value: 1.41
+label: container (6 oz)
+value: 2.4
+label: container (4 oz)
+value: 1.59
+label: container (8 oz)
+value: 3.2
+
+
+name: Ash
+unit: g
+value: 1.03
+label: container (6 oz)
+value: 1.75
+label: container (4 oz)
+value: 1.16
+label: container (8 oz)
+value: 2.34
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 18.6
+label: container (6 oz)
+value: 31.62
+label: container (4 oz)
+value: 21.02
+label: container (8 oz)
+value: 42.22
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: container (6 oz)
+value: 0.0
+label: container (4 oz)
+value: 0.0
+label: container (8 oz)
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 169.0
+label: container (6 oz)
+value: 287.0
+label: container (4 oz)
+value: 191.0
+label: container (8 oz)
+value: 384.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.07
+label: container (6 oz)
+value: 0.12
+label: container (4 oz)
+value: 0.08
+label: container (8 oz)
+value: 0.16
+
+
+name: Magnesium, Mg
+unit: mg
+value: 16.0
+label: container (6 oz)
+value: 27.0
+label: container (4 oz)
+value: 18.0
+label: container (8 oz)
+value: 36.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 133.0
+label: container (6 oz)
+value: 226.0
+label: container (4 oz)
+value: 150.0
+label: container (8 oz)
+value: 302.0
+
+
+name: Potassium, K
+unit: mg
+value: 216.0
+label: container (6 oz)
+value: 367.0
+label: container (4 oz)
+value: 244.0
+label: container (8 oz)
+value: 490.0
+
+
+name: Sodium, Na
+unit: mg
+value: 65.0
+label: container (6 oz)
+value: 110.0
+label: container (4 oz)
+value: 73.0
+label: container (8 oz)
+value: 148.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.82
+label: container (6 oz)
+value: 1.39
+label: container (4 oz)
+value: 0.93
+label: container (8 oz)
+value: 1.86
+
+
+name: Copper, Cu
+unit: mg
+value: 0.08
+label: container (6 oz)
+value: 0.136
+label: container (4 oz)
+value: 0.09
+label: container (8 oz)
+value: 0.182
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.065
+label: container (6 oz)
+value: 0.11
+label: container (4 oz)
+value: 0.073
+label: container (8 oz)
+value: 0.148
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 3.1
+label: container (6 oz)
+value: 5.3
+label: container (4 oz)
+value: 3.5
+label: container (8 oz)
+value: 7.0
+
+
+name: Fluoride, F
+unit: \u00B5g
+value: 9.0
+label: container (6 oz)
+value: 15.3
+label: container (4 oz)
+value: 10.2
+label: container (8 oz)
+value: 20.4
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.7
+label: container (6 oz)
+value: 1.2
+label: container (4 oz)
+value: 0.8
+label: container (8 oz)
+value: 1.6
+
+
+name: Thiamin
+unit: mg
+value: 0.041
+label: container (6 oz)
+value: 0.07
+label: container (4 oz)
+value: 0.046
+label: container (8 oz)
+value: 0.093
+
+
+name: Riboflavin
+unit: mg
+value: 0.198
+label: container (6 oz)
+value: 0.337
+label: container (4 oz)
+value: 0.224
+label: container (8 oz)
+value: 0.449
+
+
+name: Niacin
+unit: mg
+value: 0.105
+label: container (6 oz)
+value: 0.178
+label: container (4 oz)
+value: 0.119
+label: container (8 oz)
+value: 0.238
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.544
+label: container (6 oz)
+value: 0.925
+label: container (4 oz)
+value: 0.615
+label: container (8 oz)
+value: 1.235
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.045
+label: container (6 oz)
+value: 0.076
+label: container (4 oz)
+value: 0.051
+label: container (8 oz)
+value: 0.102
+
+
+name: Folate, total
+unit: \u00B5g
+value: 10.0
+label: container (6 oz)
+value: 17.0
+label: container (4 oz)
+value: 11.0
+label: container (8 oz)
+value: 23.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: container (6 oz)
+value: 0.0
+label: container (4 oz)
+value: 0.0
+label: container (8 oz)
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 10.0
+label: container (6 oz)
+value: 17.0
+label: container (4 oz)
+value: 11.0
+label: container (8 oz)
+value: 23.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 10.0
+label: container (6 oz)
+value: 17.0
+label: container (4 oz)
+value: 11.0
+label: container (8 oz)
+value: 23.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.52
+label: container (6 oz)
+value: 0.88
+label: container (4 oz)
+value: 0.59
+label: container (8 oz)
+value: 1.18
+
+
+name: Vitamin A, IU
+unit: IU
+value: 60.0
+label: container (6 oz)
+value: 102.0
+label: container (4 oz)
+value: 68.0
+label: container (8 oz)
+value: 136.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.909
+label: container (6 oz)
+value: 1.545
+label: container (4 oz)
+value: 1.027
+label: container (8 oz)
+value: 2.063
+
+
+name: 4:0
+unit: g
+value: 0.042
+label: container (6 oz)
+value: 0.071
+label: container (4 oz)
+value: 0.047
+label: container (8 oz)
+value: 0.095
+
+
+name: 6:0
+unit: g
+value: 0.029
+label: container (6 oz)
+value: 0.049
+label: container (4 oz)
+value: 0.033
+label: container (8 oz)
+value: 0.066
+
+
+name: 8:0
+unit: g
+value: 0.018
+label: container (6 oz)
+value: 0.031
+label: container (4 oz)
+value: 0.02
+label: container (8 oz)
+value: 0.041
+
+
+name: 10:0
+unit: g
+value: 0.04
+label: container (6 oz)
+value: 0.068
+label: container (4 oz)
+value: 0.045
+label: container (8 oz)
+value: 0.091
+
+
+name: 12:0
+unit: g
+value: 0.048
+label: container (6 oz)
+value: 0.082
+label: container (4 oz)
+value: 0.054
+label: container (8 oz)
+value: 0.109
+
+
+name: 14:0
+unit: g
+value: 0.149
+label: container (6 oz)
+value: 0.253
+label: container (4 oz)
+value: 0.168
+label: container (8 oz)
+value: 0.338
+
+
+name: 16:0
+unit: g
+value: 0.384
+label: container (6 oz)
+value: 0.653
+label: container (4 oz)
+value: 0.434
+label: container (8 oz)
+value: 0.872
+
+
+name: 18:0
+unit: g
+value: 0.137
+label: container (6 oz)
+value: 0.233
+label: container (4 oz)
+value: 0.155
+label: container (8 oz)
+value: 0.311
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.387
+label: container (6 oz)
+value: 0.658
+label: container (4 oz)
+value: 0.437
+label: container (8 oz)
+value: 0.878
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.031
+label: container (6 oz)
+value: 0.053
+label: container (4 oz)
+value: 0.035
+label: container (8 oz)
+value: 0.07
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.322
+label: container (6 oz)
+value: 0.547
+label: container (4 oz)
+value: 0.364
+label: container (8 oz)
+value: 0.731
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.04
+label: container (6 oz)
+value: 0.068
+label: container (4 oz)
+value: 0.045
+label: container (8 oz)
+value: 0.091
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.028
+label: container (6 oz)
+value: 0.048
+label: container (4 oz)
+value: 0.032
+label: container (8 oz)
+value: 0.064
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.012
+label: container (6 oz)
+value: 0.02
+label: container (4 oz)
+value: 0.014
+label: container (8 oz)
+value: 0.027
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: container (6 oz)
+value: 0.0
+label: container (4 oz)
+value: 0.0
+label: container (8 oz)
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 6.0
+label: container (6 oz)
+value: 10.0
+label: container (4 oz)
+value: 7.0
+label: container (8 oz)
+value: 14.0
+
+
+name: Tryptophan
+unit: g
+value: 0.027
+label: container (6 oz)
+value: 0.046
+label: container (4 oz)
+value: 0.031
+label: container (8 oz)
+value: 0.061
+
+
+name: Threonine
+unit: g
+value: 0.2
+label: container (6 oz)
+value: 0.34
+label: container (4 oz)
+value: 0.226
+label: container (8 oz)
+value: 0.454
+
+
+name: Isoleucine
+unit: g
+value: 0.265
+label: container (6 oz)
+value: 0.451
+label: container (4 oz)
+value: 0.299
+label: container (8 oz)
+value: 0.602
+
+
+name: Leucine
+unit: g
+value: 0.49
+label: container (6 oz)
+value: 0.833
+label: container (4 oz)
+value: 0.554
+label: container (8 oz)
+value: 1.112
+
+
+name: Lysine
+unit: g
+value: 0.436
+label: container (6 oz)
+value: 0.741
+label: container (4 oz)
+value: 0.493
+label: container (8 oz)
+value: 0.99
+
+
+name: Methionine
+unit: g
+value: 0.143
+label: container (6 oz)
+value: 0.243
+label: container (4 oz)
+value: 0.162
+label: container (8 oz)
+value: 0.325
+
+
+name: Cystine
+unit: g
+value: 0.044
+label: container (6 oz)
+value: 0.075
+label: container (4 oz)
+value: 0.05
+label: container (8 oz)
+value: 0.1
+
+
+name: Phenylalanine
+unit: g
+value: 0.265
+label: container (6 oz)
+value: 0.451
+label: container (4 oz)
+value: 0.299
+label: container (8 oz)
+value: 0.602
+
+
+name: Tyrosine
+unit: g
+value: 0.245
+label: container (6 oz)
+value: 0.416
+label: container (4 oz)
+value: 0.277
+label: container (8 oz)
+value: 0.556
+
+
+name: Valine
+unit: g
+value: 0.402
+label: container (6 oz)
+value: 0.683
+label: container (4 oz)
+value: 0.454
+label: container (8 oz)
+value: 0.913
+
+
+name: Arginine
+unit: g
+value: 0.146
+label: container (6 oz)
+value: 0.248
+label: container (4 oz)
+value: 0.165
+label: container (8 oz)
+value: 0.331
+
+
+name: Histidine
+unit: g
+value: 0.12
+label: container (6 oz)
+value: 0.204
+label: container (4 oz)
+value: 0.136
+label: container (8 oz)
+value: 0.272
+
+
+name: Alanine
+unit: g
+value: 0.208
+label: container (6 oz)
+value: 0.354
+label: container (4 oz)
+value: 0.235
+label: container (8 oz)
+value: 0.472
+
+
+name: Aspartic acid
+unit: g
+value: 0.385
+label: container (6 oz)
+value: 0.655
+label: container (4 oz)
+value: 0.435
+label: container (8 oz)
+value: 0.874
+
+
+name: Glutamic acid
+unit: g
+value: 0.951
+label: container (6 oz)
+value: 1.617
+label: container (4 oz)
+value: 1.075
+label: container (8 oz)
+value: 2.159
+
+
+name: Glycine
+unit: g
+value: 0.117
+label: container (6 oz)
+value: 0.199
+label: container (4 oz)
+value: 0.132
+label: container (8 oz)
+value: 0.266
+
+
+name: Proline
+unit: g
+value: 0.576
+label: container (6 oz)
+value: 0.979
+label: container (4 oz)
+value: 0.651
+label: container (8 oz)
+value: 1.308
+
+
+name: Serine
+unit: g
+value: 0.301
+label: container (6 oz)
+value: 0.512
+label: container (4 oz)
+value: 0.34
+label: container (8 oz)
+value: 0.683
+
+

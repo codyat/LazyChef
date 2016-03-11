@@ -1,0 +1,699 @@
+ndbno: 23311
+
+
+name: Beef, Australian, imported, Wagyu, loin, top loin steak/roast, boneless, separable lean only, Aust. marble score 4/5, raw
+
+
+name: Water
+unit: g
+value: 63.07
+label: oz
+value: 71.9
+label: roast
+value: 219.48
+
+
+name: Energy
+unit: kcal
+value: 223.0
+label: oz
+value: 254.0
+label: roast
+value: 776.0
+
+
+name: Energy
+unit: kJ
+value: 931.0
+label: oz
+value: 1061.0
+label: roast
+value: 3240.0
+
+
+name: Protein
+unit: g
+value: 20.15
+label: oz
+value: 22.97
+label: roast
+value: 70.12
+
+
+name: Total lipid (fat)
+unit: g
+value: 15.69
+label: oz
+value: 17.89
+label: roast
+value: 54.6
+
+
+name: Ash
+unit: g
+value: 0.89
+label: oz
+value: 1.01
+label: roast
+value: 3.1
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 0.2
+label: oz
+value: 0.23
+label: roast
+value: 0.7
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: roast
+value: 0.0
+
+
+name: Sugars, total
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: roast
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 4.0
+label: oz
+value: 5.0
+label: roast
+value: 14.0
+
+
+name: Iron, Fe
+unit: mg
+value: 1.85
+label: oz
+value: 2.11
+label: roast
+value: 6.44
+
+
+name: Sodium, Na
+unit: mg
+value: 61.0
+label: oz
+value: 70.0
+label: roast
+value: 212.0
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: roast
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: roast
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: roast
+value: 0.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: roast
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: roast
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 0.0
+label: oz
+value: 0.0
+label: roast
+value: 0.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: roast
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: roast
+value: 0.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 5.909
+label: oz
+value: 6.736
+label: roast
+value: 20.563
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: roast
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: roast
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: roast
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.006
+label: oz
+value: 0.007
+label: roast
+value: 0.021
+
+
+name: 12:0
+unit: g
+value: 0.011
+label: oz
+value: 0.013
+label: roast
+value: 0.038
+
+
+name: 14:0
+unit: g
+value: 0.444
+label: oz
+value: 0.506
+label: roast
+value: 1.545
+
+
+name: 15:0
+unit: g
+value: 0.06
+label: oz
+value: 0.068
+label: roast
+value: 0.209
+
+
+name: 16:0
+unit: g
+value: 3.534
+label: oz
+value: 4.029
+label: roast
+value: 12.298
+
+
+name: 17:0
+unit: g
+value: 0.18
+label: oz
+value: 0.205
+label: roast
+value: 0.626
+
+
+name: 18:0
+unit: g
+value: 1.659
+label: oz
+value: 1.891
+label: roast
+value: 5.773
+
+
+name: 20:0
+unit: g
+value: 0.009
+label: oz
+value: 0.01
+label: roast
+value: 0.031
+
+
+name: 22:0
+unit: g
+value: 0.005
+label: oz
+value: 0.006
+label: roast
+value: 0.017
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 8.022
+label: oz
+value: 9.145
+label: roast
+value: 27.917
+
+
+name: 14:1
+unit: g
+value: 0.13
+label: oz
+value: 0.148
+label: roast
+value: 0.452
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.593
+label: oz
+value: 0.676
+label: roast
+value: 2.064
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 7.263
+label: oz
+value: 8.28
+label: roast
+value: 25.275
+
+
+name: 18:1 c
+unit: g
+value: 6.817
+label: oz
+value: 7.771
+label: roast
+value: 23.723
+
+
+name: 18:1 t
+unit: g
+value: 0.446
+label: oz
+value: 0.508
+label: roast
+value: 1.552
+
+
+name: 20:1
+unit: g
+value: 0.036
+label: oz
+value: 0.041
+label: roast
+value: 0.125
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.441
+label: oz
+value: 0.503
+label: roast
+value: 1.535
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.362
+label: oz
+value: 0.413
+label: roast
+value: 1.26
+
+
+name: 18:2 n-6 c,c
+unit: g
+value: 0.298
+label: oz
+value: 0.34
+label: roast
+value: 1.037
+
+
+name: 18:2 t not further defined
+unit: g
+value: 0.065
+label: oz
+value: 0.074
+label: roast
+value: 0.226
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.023
+label: oz
+value: 0.026
+label: roast
+value: 0.08
+
+
+name: 18:3 n-3 c,c,c (ALA)
+unit: g
+value: 0.011
+label: oz
+value: 0.013
+label: roast
+value: 0.038
+
+
+name: 18:3i
+unit: g
+value: 0.013
+label: oz
+value: 0.015
+label: roast
+value: 0.045
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: roast
+value: 0.0
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.005
+label: oz
+value: 0.006
+label: roast
+value: 0.017
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.038
+label: oz
+value: 0.043
+label: roast
+value: 0.132
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.005
+label: oz
+value: 0.006
+label: roast
+value: 0.017
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.007
+label: oz
+value: 0.008
+label: roast
+value: 0.024
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.524
+label: oz
+value: 0.597
+label: roast
+value: 1.824
+
+
+name: Fatty acids, total trans-monoenoic
+unit: g
+value: 0.446
+label: oz
+value: 0.508
+label: roast
+value: 1.552
+
+
+name: Cholesterol
+unit: mg
+value: 58.0
+label: oz
+value: 66.0
+label: roast
+value: 202.0
+
+
+name: Tryptophan
+unit: g
+value: 0.231
+label: oz
+value: 0.263
+label: roast
+value: 0.804
+
+
+name: Threonine
+unit: g
+value: 0.912
+label: oz
+value: 1.04
+label: roast
+value: 3.174
+
+
+name: Isoleucine
+unit: g
+value: 0.882
+label: oz
+value: 1.005
+label: roast
+value: 3.069
+
+
+name: Leucine
+unit: g
+value: 1.668
+label: oz
+value: 1.902
+label: roast
+value: 5.805
+
+
+name: Lysine
+unit: g
+value: 1.813
+label: oz
+value: 2.067
+label: roast
+value: 6.309
+
+
+name: Methionine
+unit: g
+value: 0.588
+label: oz
+value: 0.67
+label: roast
+value: 2.046
+
+
+name: Cystine
+unit: g
+value: 0.214
+label: oz
+value: 0.244
+label: roast
+value: 0.745
+
+
+name: Phenylalanine
+unit: g
+value: 0.785
+label: oz
+value: 0.895
+label: roast
+value: 2.732
+
+
+name: Tyrosine
+unit: g
+value: 0.715
+label: oz
+value: 0.815
+label: roast
+value: 2.488
+
+
+name: Valine
+unit: g
+value: 0.932
+label: oz
+value: 1.062
+label: roast
+value: 3.243
+
+
+name: Arginine
+unit: g
+value: 1.355
+label: oz
+value: 1.545
+label: roast
+value: 4.715
+
+
+name: Histidine
+unit: g
+value: 0.665
+label: oz
+value: 0.758
+label: roast
+value: 2.314
+
+
+name: Alanine
+unit: g
+value: 1.165
+label: oz
+value: 1.328
+label: roast
+value: 4.054
+
+
+name: Aspartic acid
+unit: g
+value: 1.855
+label: oz
+value: 2.115
+label: roast
+value: 6.455
+
+
+name: Glutamic acid
+unit: g
+value: 3.281
+label: oz
+value: 3.74
+label: roast
+value: 11.418
+
+
+name: Glycine
+unit: g
+value: 0.897
+label: oz
+value: 1.023
+label: roast
+value: 3.122
+
+
+name: Proline
+unit: g
+value: 0.829
+label: oz
+value: 0.945
+label: roast
+value: 2.885
+
+
+name: Serine
+unit: g
+value: 0.792
+label: oz
+value: 0.903
+label: roast
+value: 2.756
+
+
+name: Hydroxyproline
+unit: g
+value: 0.102
+label: oz
+value: 0.116
+label: roast
+value: 0.355
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: roast
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: roast
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: roast
+value: 0.0
+
+

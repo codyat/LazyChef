@@ -1,0 +1,580 @@
+ndbno: 21523
+
+
+name: McDONALD'S, RANCH SNACK WRAP, Crispy
+
+
+name: Water
+unit: g
+value: 47.88
+label: wrap
+value: 63.68
+
+
+name: Energy
+unit: kcal
+value: 275.0
+label: wrap
+value: 366.0
+
+
+name: Energy
+unit: kJ
+value: 1149.0
+label: wrap
+value: 1528.0
+
+
+name: Protein
+unit: g
+value: 11.48
+label: wrap
+value: 15.27
+
+
+name: Total lipid (fat)
+unit: g
+value: 15.1
+label: wrap
+value: 20.08
+
+
+name: Ash
+unit: g
+value: 2.32
+label: wrap
+value: 3.09
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 23.22
+label: wrap
+value: 30.88
+
+
+name: Fiber, total dietary
+unit: g
+value: 1.3
+label: wrap
+value: 1.7
+
+
+name: Sugars, total
+unit: g
+value: 2.48
+label: wrap
+value: 3.3
+
+
+name: Sucrose
+unit: g
+value: 1.47
+label: wrap
+value: 1.96
+
+
+name: Glucose (dextrose)
+unit: g
+value: 0.33
+label: wrap
+value: 0.44
+
+
+name: Fructose
+unit: g
+value: 0.25
+label: wrap
+value: 0.33
+
+
+name: Lactose
+unit: g
+value: 0.13
+label: wrap
+value: 0.17
+
+
+name: Maltose
+unit: g
+value: 0.29
+label: wrap
+value: 0.39
+
+
+name: Galactose
+unit: g
+value: 0.0
+label: wrap
+value: 0.0
+
+
+name: Starch
+unit: g
+value: 20.33
+label: wrap
+value: 27.04
+
+
+name: Calcium, Ca
+unit: mg
+value: 88.0
+label: wrap
+value: 117.0
+
+
+name: Iron, Fe
+unit: mg
+value: 1.47
+label: wrap
+value: 1.96
+
+
+name: Magnesium, Mg
+unit: mg
+value: 19.0
+label: wrap
+value: 25.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 186.0
+label: wrap
+value: 247.0
+
+
+name: Potassium, K
+unit: mg
+value: 173.0
+label: wrap
+value: 230.0
+
+
+name: Sodium, Na
+unit: mg
+value: 607.0
+label: wrap
+value: 807.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.72
+label: wrap
+value: 0.96
+
+
+name: Copper, Cu
+unit: mg
+value: 0.069
+label: wrap
+value: 0.092
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.269
+label: wrap
+value: 0.358
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 19.2
+label: wrap
+value: 25.5
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.3
+label: wrap
+value: 0.4
+
+
+name: Thiamin
+unit: mg
+value: 0.17
+label: wrap
+value: 0.226
+
+
+name: Riboflavin
+unit: mg
+value: 0.265
+label: wrap
+value: 0.352
+
+
+name: Niacin
+unit: mg
+value: 3.585
+label: wrap
+value: 4.768
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.53
+label: wrap
+value: 0.705
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.166
+label: wrap
+value: 0.221
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.15
+label: wrap
+value: 0.2
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 3.837
+label: wrap
+value: 5.103
+
+
+name: 4:0
+unit: g
+value: 0.035
+label: wrap
+value: 0.047
+
+
+name: 6:0
+unit: g
+value: 0.037
+label: wrap
+value: 0.049
+
+
+name: 8:0
+unit: g
+value: 0.03
+label: wrap
+value: 0.04
+
+
+name: 10:0
+unit: g
+value: 0.066
+label: wrap
+value: 0.088
+
+
+name: 12:0
+unit: g
+value: 0.074
+label: wrap
+value: 0.098
+
+
+name: 14:0
+unit: g
+value: 0.241
+label: wrap
+value: 0.321
+
+
+name: 15:0
+unit: g
+value: 0.026
+label: wrap
+value: 0.035
+
+
+name: 16:0
+unit: g
+value: 1.833
+label: wrap
+value: 2.438
+
+
+name: 17:0
+unit: g
+value: 0.024
+label: wrap
+value: 0.032
+
+
+name: 18:0
+unit: g
+value: 1.373
+label: wrap
+value: 1.826
+
+
+name: 20:0
+unit: g
+value: 0.05
+label: wrap
+value: 0.066
+
+
+name: 22:0
+unit: g
+value: 0.033
+label: wrap
+value: 0.044
+
+
+name: 24:0
+unit: g
+value: 0.016
+label: wrap
+value: 0.021
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 4.407
+label: wrap
+value: 5.861
+
+
+name: 14:1
+unit: g
+value: 0.023
+label: wrap
+value: 0.031
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: wrap
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.071
+label: wrap
+value: 0.094
+
+
+name: 16:1 c
+unit: g
+value: 0.064
+label: wrap
+value: 0.085
+
+
+name: 16:1 t
+unit: g
+value: 0.007
+label: wrap
+value: 0.009
+
+
+name: 17:1
+unit: g
+value: 0.011
+label: wrap
+value: 0.015
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 4.215
+label: wrap
+value: 5.606
+
+
+name: 18:1 c
+unit: g
+value: 4.12
+label: wrap
+value: 5.48
+
+
+name: 18:1 t
+unit: g
+value: 0.095
+label: wrap
+value: 0.126
+
+
+name: 20:1
+unit: g
+value: 0.078
+label: wrap
+value: 0.104
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.005
+label: wrap
+value: 0.007
+
+
+name: 22:1 c
+unit: g
+value: 0.003
+label: wrap
+value: 0.004
+
+
+name: 22:1 t
+unit: g
+value: 0.002
+label: wrap
+value: 0.003
+
+
+name: 24:1 c
+unit: g
+value: 0.004
+label: wrap
+value: 0.005
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 4.926
+label: wrap
+value: 6.552
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 4.38
+label: wrap
+value: 5.825
+
+
+name: 18:2 n-6 c,c
+unit: g
+value: 4.321
+label: wrap
+value: 5.747
+
+
+name: 18:2 CLAs
+unit: g
+value: 0.019
+label: wrap
+value: 0.025
+
+
+name: 18:2 t not further defined
+unit: g
+value: 0.04
+label: wrap
+value: 0.053
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.485
+label: wrap
+value: 0.645
+
+
+name: 18:3 n-3 c,c,c (ALA)
+unit: g
+value: 0.458
+label: wrap
+value: 0.609
+
+
+name: 18:3 n-6 c,c,c
+unit: g
+value: 0.028
+label: wrap
+value: 0.037
+
+
+name: 18:3i
+unit: g
+value: 0.0
+label: wrap
+value: 0.0
+
+
+name: 18:4
+unit: g
+value: 0.001
+label: wrap
+value: 0.001
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.007
+label: wrap
+value: 0.009
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.007
+label: wrap
+value: 0.009
+
+
+name: 20:3 n-6
+unit: g
+value: 0.007
+label: wrap
+value: 0.009
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.028
+label: wrap
+value: 0.037
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.004
+label: wrap
+value: 0.005
+
+
+name: 22:4
+unit: g
+value: 0.007
+label: wrap
+value: 0.009
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.004
+label: wrap
+value: 0.005
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.003
+label: wrap
+value: 0.004
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.144
+label: wrap
+value: 0.192
+
+
+name: Fatty acids, total trans-monoenoic
+unit: g
+value: 0.104
+label: wrap
+value: 0.138
+
+

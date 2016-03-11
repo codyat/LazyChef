@@ -1,0 +1,1357 @@
+ndbno: 01035
+
+
+name: Cheese, provolone
+
+
+name: Water
+unit: g
+value: 40.95
+label: cup, diced
+value: 54.05
+label: oz
+value: 11.61
+label: cubic inch
+value: 6.96
+label: slice (1 oz)
+value: 11.47
+label: package (6 oz)
+value: 69.62
+
+
+name: Energy
+unit: kcal
+value: 351.0
+label: cup, diced
+value: 463.0
+label: oz
+value: 100.0
+label: cubic inch
+value: 60.0
+label: slice (1 oz)
+value: 98.0
+label: package (6 oz)
+value: 597.0
+
+
+name: Energy
+unit: kJ
+value: 1471.0
+label: cup, diced
+value: 1942.0
+label: oz
+value: 417.0
+label: cubic inch
+value: 250.0
+label: slice (1 oz)
+value: 412.0
+label: package (6 oz)
+value: 2501.0
+
+
+name: Protein
+unit: g
+value: 25.58
+label: cup, diced
+value: 33.77
+label: oz
+value: 7.25
+label: cubic inch
+value: 4.35
+label: slice (1 oz)
+value: 7.16
+label: package (6 oz)
+value: 43.49
+
+
+name: Total lipid (fat)
+unit: g
+value: 26.62
+label: cup, diced
+value: 35.14
+label: oz
+value: 7.55
+label: cubic inch
+value: 4.53
+label: slice (1 oz)
+value: 7.45
+label: package (6 oz)
+value: 45.25
+
+
+name: Ash
+unit: g
+value: 4.71
+label: cup, diced
+value: 6.22
+label: oz
+value: 1.34
+label: cubic inch
+value: 0.8
+label: slice (1 oz)
+value: 1.32
+label: package (6 oz)
+value: 8.01
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 2.14
+label: cup, diced
+value: 2.82
+label: oz
+value: 0.61
+label: cubic inch
+value: 0.36
+label: slice (1 oz)
+value: 0.6
+label: package (6 oz)
+value: 3.64
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: cup, diced
+value: 0.0
+label: oz
+value: 0.0
+label: cubic inch
+value: 0.0
+label: slice (1 oz)
+value: 0.0
+label: package (6 oz)
+value: 0.0
+
+
+name: Sugars, total
+unit: g
+value: 0.56
+label: cup, diced
+value: 0.74
+label: oz
+value: 0.16
+label: cubic inch
+value: 0.1
+label: slice (1 oz)
+value: 0.16
+label: package (6 oz)
+value: 0.95
+
+
+name: Calcium, Ca
+unit: mg
+value: 756.0
+label: cup, diced
+value: 998.0
+label: oz
+value: 214.0
+label: cubic inch
+value: 129.0
+label: slice (1 oz)
+value: 212.0
+label: package (6 oz)
+value: 1285.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.52
+label: cup, diced
+value: 0.69
+label: oz
+value: 0.15
+label: cubic inch
+value: 0.09
+label: slice (1 oz)
+value: 0.15
+label: package (6 oz)
+value: 0.88
+
+
+name: Magnesium, Mg
+unit: mg
+value: 28.0
+label: cup, diced
+value: 37.0
+label: oz
+value: 8.0
+label: cubic inch
+value: 5.0
+label: slice (1 oz)
+value: 8.0
+label: package (6 oz)
+value: 48.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 496.0
+label: cup, diced
+value: 655.0
+label: oz
+value: 141.0
+label: cubic inch
+value: 84.0
+label: slice (1 oz)
+value: 139.0
+label: package (6 oz)
+value: 843.0
+
+
+name: Potassium, K
+unit: mg
+value: 138.0
+label: cup, diced
+value: 182.0
+label: oz
+value: 39.0
+label: cubic inch
+value: 23.0
+label: slice (1 oz)
+value: 39.0
+label: package (6 oz)
+value: 235.0
+
+
+name: Sodium, Na
+unit: mg
+value: 876.0
+label: cup, diced
+value: 1156.0
+label: oz
+value: 248.0
+label: cubic inch
+value: 149.0
+label: slice (1 oz)
+value: 245.0
+label: package (6 oz)
+value: 1489.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 3.23
+label: cup, diced
+value: 4.26
+label: oz
+value: 0.92
+label: cubic inch
+value: 0.55
+label: slice (1 oz)
+value: 0.9
+label: package (6 oz)
+value: 5.49
+
+
+name: Copper, Cu
+unit: mg
+value: 0.026
+label: cup, diced
+value: 0.034
+label: oz
+value: 0.007
+label: cubic inch
+value: 0.004
+label: slice (1 oz)
+value: 0.007
+label: package (6 oz)
+value: 0.044
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.01
+label: cup, diced
+value: 0.013
+label: oz
+value: 0.003
+label: cubic inch
+value: 0.002
+label: slice (1 oz)
+value: 0.003
+label: package (6 oz)
+value: 0.017
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 14.5
+label: cup, diced
+value: 19.1
+label: oz
+value: 4.1
+label: cubic inch
+value: 2.5
+label: slice (1 oz)
+value: 4.1
+label: package (6 oz)
+value: 24.6
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: cup, diced
+value: 0.0
+label: oz
+value: 0.0
+label: cubic inch
+value: 0.0
+label: slice (1 oz)
+value: 0.0
+label: package (6 oz)
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.019
+label: cup, diced
+value: 0.025
+label: oz
+value: 0.005
+label: cubic inch
+value: 0.003
+label: slice (1 oz)
+value: 0.005
+label: package (6 oz)
+value: 0.032
+
+
+name: Riboflavin
+unit: mg
+value: 0.321
+label: cup, diced
+value: 0.424
+label: oz
+value: 0.091
+label: cubic inch
+value: 0.055
+label: slice (1 oz)
+value: 0.09
+label: package (6 oz)
+value: 0.546
+
+
+name: Niacin
+unit: mg
+value: 0.156
+label: cup, diced
+value: 0.206
+label: oz
+value: 0.044
+label: cubic inch
+value: 0.027
+label: slice (1 oz)
+value: 0.044
+label: package (6 oz)
+value: 0.265
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.476
+label: cup, diced
+value: 0.628
+label: oz
+value: 0.135
+label: cubic inch
+value: 0.081
+label: slice (1 oz)
+value: 0.133
+label: package (6 oz)
+value: 0.809
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.073
+label: cup, diced
+value: 0.096
+label: oz
+value: 0.021
+label: cubic inch
+value: 0.012
+label: slice (1 oz)
+value: 0.02
+label: package (6 oz)
+value: 0.124
+
+
+name: Folate, total
+unit: \u00B5g
+value: 10.0
+label: cup, diced
+value: 13.0
+label: oz
+value: 3.0
+label: cubic inch
+value: 2.0
+label: slice (1 oz)
+value: 3.0
+label: package (6 oz)
+value: 17.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: cup, diced
+value: 0.0
+label: oz
+value: 0.0
+label: cubic inch
+value: 0.0
+label: slice (1 oz)
+value: 0.0
+label: package (6 oz)
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 10.0
+label: cup, diced
+value: 13.0
+label: oz
+value: 3.0
+label: cubic inch
+value: 2.0
+label: slice (1 oz)
+value: 3.0
+label: package (6 oz)
+value: 17.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 10.0
+label: cup, diced
+value: 13.0
+label: oz
+value: 3.0
+label: cubic inch
+value: 2.0
+label: slice (1 oz)
+value: 3.0
+label: package (6 oz)
+value: 17.0
+
+
+name: Choline, total
+unit: mg
+value: 15.4
+label: cup, diced
+value: 20.3
+label: oz
+value: 4.4
+label: cubic inch
+value: 2.6
+label: slice (1 oz)
+value: 4.3
+label: package (6 oz)
+value: 26.2
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 1.46
+label: cup, diced
+value: 1.93
+label: oz
+value: 0.41
+label: cubic inch
+value: 0.25
+label: slice (1 oz)
+value: 0.41
+label: package (6 oz)
+value: 2.48
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: cup, diced
+value: 0.0
+label: oz
+value: 0.0
+label: cubic inch
+value: 0.0
+label: slice (1 oz)
+value: 0.0
+label: package (6 oz)
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 236.0
+label: cup, diced
+value: 312.0
+label: oz
+value: 67.0
+label: cubic inch
+value: 40.0
+label: slice (1 oz)
+value: 66.0
+label: package (6 oz)
+value: 401.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 230.0
+label: cup, diced
+value: 304.0
+label: oz
+value: 65.0
+label: cubic inch
+value: 39.0
+label: slice (1 oz)
+value: 64.0
+label: package (6 oz)
+value: 391.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 68.0
+label: cup, diced
+value: 90.0
+label: oz
+value: 19.0
+label: cubic inch
+value: 12.0
+label: slice (1 oz)
+value: 19.0
+label: package (6 oz)
+value: 116.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: cup, diced
+value: 0.0
+label: oz
+value: 0.0
+label: cubic inch
+value: 0.0
+label: slice (1 oz)
+value: 0.0
+label: package (6 oz)
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: cup, diced
+value: 0.0
+label: oz
+value: 0.0
+label: cubic inch
+value: 0.0
+label: slice (1 oz)
+value: 0.0
+label: package (6 oz)
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 880.0
+label: cup, diced
+value: 1162.0
+label: oz
+value: 249.0
+label: cubic inch
+value: 150.0
+label: slice (1 oz)
+value: 246.0
+label: package (6 oz)
+value: 1496.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: cup, diced
+value: 0.0
+label: oz
+value: 0.0
+label: cubic inch
+value: 0.0
+label: slice (1 oz)
+value: 0.0
+label: package (6 oz)
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 0.0
+label: cup, diced
+value: 0.0
+label: oz
+value: 0.0
+label: cubic inch
+value: 0.0
+label: slice (1 oz)
+value: 0.0
+label: package (6 oz)
+value: 0.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.23
+label: cup, diced
+value: 0.3
+label: oz
+value: 0.07
+label: cubic inch
+value: 0.04
+label: slice (1 oz)
+value: 0.06
+label: package (6 oz)
+value: 0.39
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: cup, diced
+value: 0.0
+label: oz
+value: 0.0
+label: cubic inch
+value: 0.0
+label: slice (1 oz)
+value: 0.0
+label: package (6 oz)
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.5
+label: cup, diced
+value: 0.7
+label: oz
+value: 0.1
+label: cubic inch
+value: 0.1
+label: slice (1 oz)
+value: 0.1
+label: package (6 oz)
+value: 0.8
+
+
+name: Vitamin D3 (cholecalciferol)
+unit: \u00B5g
+value: 0.5
+label: cup, diced
+value: 0.7
+label: oz
+value: 0.1
+label: cubic inch
+value: 0.1
+label: slice (1 oz)
+value: 0.1
+label: package (6 oz)
+value: 0.8
+
+
+name: Vitamin D
+unit: IU
+value: 20.0
+label: cup, diced
+value: 26.0
+label: oz
+value: 6.0
+label: cubic inch
+value: 3.0
+label: slice (1 oz)
+value: 6.0
+label: package (6 oz)
+value: 34.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 2.2
+label: cup, diced
+value: 2.9
+label: oz
+value: 0.6
+label: cubic inch
+value: 0.4
+label: slice (1 oz)
+value: 0.6
+label: package (6 oz)
+value: 3.7
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 17.078
+label: cup, diced
+value: 22.543
+label: oz
+value: 4.842
+label: cubic inch
+value: 2.903
+label: slice (1 oz)
+value: 4.782
+label: package (6 oz)
+value: 29.033
+
+
+name: 4:0
+unit: g
+value: 0.981
+label: cup, diced
+value: 1.295
+label: oz
+value: 0.278
+label: cubic inch
+value: 0.167
+label: slice (1 oz)
+value: 0.275
+label: package (6 oz)
+value: 1.668
+
+
+name: 6:0
+unit: g
+value: 0.37
+label: cup, diced
+value: 0.488
+label: oz
+value: 0.105
+label: cubic inch
+value: 0.063
+label: slice (1 oz)
+value: 0.104
+label: package (6 oz)
+value: 0.629
+
+
+name: 8:0
+unit: g
+value: 0.256
+label: cup, diced
+value: 0.338
+label: oz
+value: 0.073
+label: cubic inch
+value: 0.044
+label: slice (1 oz)
+value: 0.072
+label: package (6 oz)
+value: 0.435
+
+
+name: 10:0
+unit: g
+value: 0.482
+label: cup, diced
+value: 0.636
+label: oz
+value: 0.137
+label: cubic inch
+value: 0.082
+label: slice (1 oz)
+value: 0.135
+label: package (6 oz)
+value: 0.819
+
+
+name: 12:0
+unit: g
+value: 0.355
+label: cup, diced
+value: 0.469
+label: oz
+value: 0.101
+label: cubic inch
+value: 0.06
+label: slice (1 oz)
+value: 0.099
+label: package (6 oz)
+value: 0.603
+
+
+name: 14:0
+unit: g
+value: 2.748
+label: cup, diced
+value: 3.627
+label: oz
+value: 0.779
+label: cubic inch
+value: 0.467
+label: slice (1 oz)
+value: 0.769
+label: package (6 oz)
+value: 4.672
+
+
+name: 16:0
+unit: g
+value: 8.159
+label: cup, diced
+value: 10.77
+label: oz
+value: 2.313
+label: cubic inch
+value: 1.387
+label: slice (1 oz)
+value: 2.285
+label: package (6 oz)
+value: 13.87
+
+
+name: 18:0
+unit: g
+value: 3.063
+label: cup, diced
+value: 4.043
+label: oz
+value: 0.868
+label: cubic inch
+value: 0.521
+label: slice (1 oz)
+value: 0.858
+label: package (6 oz)
+value: 5.207
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 7.393
+label: cup, diced
+value: 9.759
+label: oz
+value: 2.096
+label: cubic inch
+value: 1.257
+label: slice (1 oz)
+value: 2.07
+label: package (6 oz)
+value: 12.568
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.878
+label: cup, diced
+value: 1.159
+label: oz
+value: 0.249
+label: cubic inch
+value: 0.149
+label: slice (1 oz)
+value: 0.246
+label: package (6 oz)
+value: 1.493
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 6.164
+label: cup, diced
+value: 8.136
+label: oz
+value: 1.747
+label: cubic inch
+value: 1.048
+label: slice (1 oz)
+value: 1.726
+label: package (6 oz)
+value: 10.479
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: cup, diced
+value: 0.0
+label: oz
+value: 0.0
+label: cubic inch
+value: 0.0
+label: slice (1 oz)
+value: 0.0
+label: package (6 oz)
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: cup, diced
+value: 0.0
+label: oz
+value: 0.0
+label: cubic inch
+value: 0.0
+label: slice (1 oz)
+value: 0.0
+label: package (6 oz)
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.769
+label: cup, diced
+value: 1.015
+label: oz
+value: 0.218
+label: cubic inch
+value: 0.131
+label: slice (1 oz)
+value: 0.215
+label: package (6 oz)
+value: 1.307
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.494
+label: cup, diced
+value: 0.652
+label: oz
+value: 0.14
+label: cubic inch
+value: 0.084
+label: slice (1 oz)
+value: 0.138
+label: package (6 oz)
+value: 0.84
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.275
+label: cup, diced
+value: 0.363
+label: oz
+value: 0.078
+label: cubic inch
+value: 0.047
+label: slice (1 oz)
+value: 0.077
+label: package (6 oz)
+value: 0.468
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: cup, diced
+value: 0.0
+label: oz
+value: 0.0
+label: cubic inch
+value: 0.0
+label: slice (1 oz)
+value: 0.0
+label: package (6 oz)
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: cup, diced
+value: 0.0
+label: oz
+value: 0.0
+label: cubic inch
+value: 0.0
+label: slice (1 oz)
+value: 0.0
+label: package (6 oz)
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: cup, diced
+value: 0.0
+label: oz
+value: 0.0
+label: cubic inch
+value: 0.0
+label: slice (1 oz)
+value: 0.0
+label: package (6 oz)
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: cup, diced
+value: 0.0
+label: oz
+value: 0.0
+label: cubic inch
+value: 0.0
+label: slice (1 oz)
+value: 0.0
+label: package (6 oz)
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: cup, diced
+value: 0.0
+label: oz
+value: 0.0
+label: cubic inch
+value: 0.0
+label: slice (1 oz)
+value: 0.0
+label: package (6 oz)
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 69.0
+label: cup, diced
+value: 91.0
+label: oz
+value: 20.0
+label: cubic inch
+value: 12.0
+label: slice (1 oz)
+value: 19.0
+label: package (6 oz)
+value: 117.0
+
+
+name: Tryptophan
+unit: g
+value: 0.345
+label: cup, diced
+value: 0.455
+label: oz
+value: 0.098
+label: cubic inch
+value: 0.059
+label: slice (1 oz)
+value: 0.097
+label: package (6 oz)
+value: 0.586
+
+
+name: Threonine
+unit: g
+value: 0.982
+label: cup, diced
+value: 1.296
+label: oz
+value: 0.278
+label: cubic inch
+value: 0.167
+label: slice (1 oz)
+value: 0.275
+label: package (6 oz)
+value: 1.669
+
+
+name: Isoleucine
+unit: g
+value: 1.091
+label: cup, diced
+value: 1.44
+label: oz
+value: 0.309
+label: cubic inch
+value: 0.185
+label: slice (1 oz)
+value: 0.305
+label: package (6 oz)
+value: 1.855
+
+
+name: Leucine
+unit: g
+value: 2.297
+label: cup, diced
+value: 3.032
+label: oz
+value: 0.651
+label: cubic inch
+value: 0.39
+label: slice (1 oz)
+value: 0.643
+label: package (6 oz)
+value: 3.905
+
+
+name: Lysine
+unit: g
+value: 2.646
+label: cup, diced
+value: 3.493
+label: oz
+value: 0.75
+label: cubic inch
+value: 0.45
+label: slice (1 oz)
+value: 0.741
+label: package (6 oz)
+value: 4.498
+
+
+name: Methionine
+unit: g
+value: 0.686
+label: cup, diced
+value: 0.906
+label: oz
+value: 0.194
+label: cubic inch
+value: 0.117
+label: slice (1 oz)
+value: 0.192
+label: package (6 oz)
+value: 1.166
+
+
+name: Cystine
+unit: g
+value: 0.116
+label: cup, diced
+value: 0.153
+label: oz
+value: 0.033
+label: cubic inch
+value: 0.02
+label: slice (1 oz)
+value: 0.032
+label: package (6 oz)
+value: 0.197
+
+
+name: Phenylalanine
+unit: g
+value: 1.287
+label: cup, diced
+value: 1.699
+label: oz
+value: 0.365
+label: cubic inch
+value: 0.219
+label: slice (1 oz)
+value: 0.36
+label: package (6 oz)
+value: 2.188
+
+
+name: Tyrosine
+unit: g
+value: 1.52
+label: cup, diced
+value: 2.006
+label: oz
+value: 0.431
+label: cubic inch
+value: 0.258
+label: slice (1 oz)
+value: 0.426
+label: package (6 oz)
+value: 2.584
+
+
+name: Valine
+unit: g
+value: 1.64
+label: cup, diced
+value: 2.165
+label: oz
+value: 0.465
+label: cubic inch
+value: 0.279
+label: slice (1 oz)
+value: 0.459
+label: package (6 oz)
+value: 2.788
+
+
+name: Arginine
+unit: g
+value: 1.022
+label: cup, diced
+value: 1.349
+label: oz
+value: 0.29
+label: cubic inch
+value: 0.174
+label: slice (1 oz)
+value: 0.286
+label: package (6 oz)
+value: 1.737
+
+
+name: Histidine
+unit: g
+value: 1.115
+label: cup, diced
+value: 1.472
+label: oz
+value: 0.316
+label: cubic inch
+value: 0.19
+label: slice (1 oz)
+value: 0.312
+label: package (6 oz)
+value: 1.896
+
+
+name: Alanine
+unit: g
+value: 0.706
+label: cup, diced
+value: 0.932
+label: oz
+value: 0.2
+label: cubic inch
+value: 0.12
+label: slice (1 oz)
+value: 0.198
+label: package (6 oz)
+value: 1.2
+
+
+name: Aspartic acid
+unit: g
+value: 1.744
+label: cup, diced
+value: 2.302
+label: oz
+value: 0.494
+label: cubic inch
+value: 0.296
+label: slice (1 oz)
+value: 0.488
+label: package (6 oz)
+value: 2.965
+
+
+name: Glutamic acid
+unit: g
+value: 6.235
+label: cup, diced
+value: 8.23
+label: oz
+value: 1.768
+label: cubic inch
+value: 1.06
+label: slice (1 oz)
+value: 1.746
+label: package (6 oz)
+value: 10.6
+
+
+name: Glycine
+unit: g
+value: 0.433
+label: cup, diced
+value: 0.572
+label: oz
+value: 0.123
+label: cubic inch
+value: 0.074
+label: slice (1 oz)
+value: 0.121
+label: package (6 oz)
+value: 0.736
+
+
+name: Proline
+unit: g
+value: 2.766
+label: cup, diced
+value: 3.651
+label: oz
+value: 0.784
+label: cubic inch
+value: 0.47
+label: slice (1 oz)
+value: 0.774
+label: package (6 oz)
+value: 4.702
+
+
+name: Serine
+unit: g
+value: 1.471
+label: cup, diced
+value: 1.942
+label: oz
+value: 0.417
+label: cubic inch
+value: 0.25
+label: slice (1 oz)
+value: 0.412
+label: package (6 oz)
+value: 2.501
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: cup, diced
+value: 0.0
+label: oz
+value: 0.0
+label: cubic inch
+value: 0.0
+label: slice (1 oz)
+value: 0.0
+label: package (6 oz)
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: cup, diced
+value: 0.0
+label: oz
+value: 0.0
+label: cubic inch
+value: 0.0
+label: slice (1 oz)
+value: 0.0
+label: package (6 oz)
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: cup, diced
+value: 0.0
+label: oz
+value: 0.0
+label: cubic inch
+value: 0.0
+label: slice (1 oz)
+value: 0.0
+label: package (6 oz)
+value: 0.0
+
+
+

@@ -1,0 +1,574 @@
+ndbno: 11027
+
+
+name: Bamboo shoots, cooked, boiled, drained, without salt
+
+
+name: Water
+unit: g
+value: 95.92
+label: cup (1/2\ slices)
+value: 115.1
+label: shoot
+value: 138.12
+
+
+name: Energy
+unit: kcal
+value: 12.0
+label: cup (1/2\ slices)
+value: 14.0
+label: shoot
+value: 17.0
+
+
+name: Energy
+unit: kJ
+value: 50.0
+label: cup (1/2\ slices)
+value: 60.0
+label: shoot
+value: 72.0
+
+
+name: Protein
+unit: g
+value: 1.53
+label: cup (1/2\ slices)
+value: 1.84
+label: shoot
+value: 2.2
+
+
+name: Total lipid (fat)
+unit: g
+value: 0.22
+label: cup (1/2\ slices)
+value: 0.26
+label: shoot
+value: 0.32
+
+
+name: Ash
+unit: g
+value: 0.41
+label: cup (1/2\ slices)
+value: 0.49
+label: shoot
+value: 0.59
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 1.92
+label: cup (1/2\ slices)
+value: 2.3
+label: shoot
+value: 2.76
+
+
+name: Fiber, total dietary
+unit: g
+value: 1.0
+label: cup (1/2\ slices)
+value: 1.2
+label: shoot
+value: 1.4
+
+
+name: Calcium, Ca
+unit: mg
+value: 12.0
+label: cup (1/2\ slices)
+value: 14.0
+label: shoot
+value: 17.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.24
+label: cup (1/2\ slices)
+value: 0.29
+label: shoot
+value: 0.35
+
+
+name: Magnesium, Mg
+unit: mg
+value: 3.0
+label: cup (1/2\ slices)
+value: 4.0
+label: shoot
+value: 4.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 20.0
+label: cup (1/2\ slices)
+value: 24.0
+label: shoot
+value: 29.0
+
+
+name: Potassium, K
+unit: mg
+value: 533.0
+label: cup (1/2\ slices)
+value: 640.0
+label: shoot
+value: 768.0
+
+
+name: Sodium, Na
+unit: mg
+value: 4.0
+label: cup (1/2\ slices)
+value: 5.0
+label: shoot
+value: 6.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.47
+label: cup (1/2\ slices)
+value: 0.56
+label: shoot
+value: 0.68
+
+
+name: Copper, Cu
+unit: mg
+value: 0.082
+label: cup (1/2\ slices)
+value: 0.098
+label: shoot
+value: 0.118
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.113
+label: cup (1/2\ slices)
+value: 0.136
+label: shoot
+value: 0.163
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 0.4
+label: cup (1/2\ slices)
+value: 0.5
+label: shoot
+value: 0.6
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: cup (1/2\ slices)
+value: 0.0
+label: shoot
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.02
+label: cup (1/2\ slices)
+value: 0.024
+label: shoot
+value: 0.029
+
+
+name: Riboflavin
+unit: mg
+value: 0.05
+label: cup (1/2\ slices)
+value: 0.06
+label: shoot
+value: 0.072
+
+
+name: Niacin
+unit: mg
+value: 0.3
+label: cup (1/2\ slices)
+value: 0.36
+label: shoot
+value: 0.432
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.066
+label: cup (1/2\ slices)
+value: 0.079
+label: shoot
+value: 0.095
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.098
+label: cup (1/2\ slices)
+value: 0.118
+label: shoot
+value: 0.141
+
+
+name: Folate, total
+unit: \u00B5g
+value: 2.0
+label: cup (1/2\ slices)
+value: 2.0
+label: shoot
+value: 3.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: cup (1/2\ slices)
+value: 0.0
+label: shoot
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 2.0
+label: cup (1/2\ slices)
+value: 2.0
+label: shoot
+value: 3.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 2.0
+label: cup (1/2\ slices)
+value: 2.0
+label: shoot
+value: 3.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: cup (1/2\ slices)
+value: 0.0
+label: shoot
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 0.0
+label: cup (1/2\ slices)
+value: 0.0
+label: shoot
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: cup (1/2\ slices)
+value: 0.0
+label: shoot
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 0.0
+label: cup (1/2\ slices)
+value: 0.0
+label: shoot
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: cup (1/2\ slices)
+value: 0.0
+label: shoot
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: cup (1/2\ slices)
+value: 0.0
+label: shoot
+value: 0.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.051
+label: cup (1/2\ slices)
+value: 0.061
+label: shoot
+value: 0.073
+
+
+name: 12:0
+unit: g
+value: 0.001
+label: cup (1/2\ slices)
+value: 0.001
+label: shoot
+value: 0.001
+
+
+name: 14:0
+unit: g
+value: 0.002
+label: cup (1/2\ slices)
+value: 0.002
+label: shoot
+value: 0.003
+
+
+name: 16:0
+unit: g
+value: 0.038
+label: cup (1/2\ slices)
+value: 0.046
+label: shoot
+value: 0.055
+
+
+name: 18:0
+unit: g
+value: 0.004
+label: cup (1/2\ slices)
+value: 0.005
+label: shoot
+value: 0.006
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.005
+label: cup (1/2\ slices)
+value: 0.006
+label: shoot
+value: 0.007
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.005
+label: cup (1/2\ slices)
+value: 0.006
+label: shoot
+value: 0.007
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.098
+label: cup (1/2\ slices)
+value: 0.118
+label: shoot
+value: 0.141
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.083
+label: cup (1/2\ slices)
+value: 0.1
+label: shoot
+value: 0.12
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.015
+label: cup (1/2\ slices)
+value: 0.018
+label: shoot
+value: 0.022
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.0
+label: cup (1/2\ slices)
+value: 0.0
+label: shoot
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: cup (1/2\ slices)
+value: 0.0
+label: shoot
+value: 0.0
+
+
+name: Tryptophan
+unit: g
+value: 0.016
+label: cup (1/2\ slices)
+value: 0.019
+label: shoot
+value: 0.023
+
+
+name: Threonine
+unit: g
+value: 0.05
+label: cup (1/2\ slices)
+value: 0.06
+label: shoot
+value: 0.072
+
+
+name: Isoleucine
+unit: g
+value: 0.051
+label: cup (1/2\ slices)
+value: 0.061
+label: shoot
+value: 0.073
+
+
+name: Leucine
+unit: g
+value: 0.082
+label: cup (1/2\ slices)
+value: 0.098
+label: shoot
+value: 0.118
+
+
+name: Lysine
+unit: g
+value: 0.079
+label: cup (1/2\ slices)
+value: 0.095
+label: shoot
+value: 0.114
+
+
+name: Methionine
+unit: g
+value: 0.017
+label: cup (1/2\ slices)
+value: 0.02
+label: shoot
+value: 0.024
+
+
+name: Cystine
+unit: g
+value: 0.013
+label: cup (1/2\ slices)
+value: 0.016
+label: shoot
+value: 0.019
+
+
+name: Phenylalanine
+unit: g
+value: 0.053
+label: cup (1/2\ slices)
+value: 0.064
+label: shoot
+value: 0.076
+
+
+name: Valine
+unit: g
+value: 0.062
+label: cup (1/2\ slices)
+value: 0.074
+label: shoot
+value: 0.089
+
+
+name: Arginine
+unit: g
+value: 0.057
+label: cup (1/2\ slices)
+value: 0.068
+label: shoot
+value: 0.082
+
+
+name: Histidine
+unit: g
+value: 0.025
+label: cup (1/2\ slices)
+value: 0.03
+label: shoot
+value: 0.036
+
+
+name: Alanine
+unit: g
+value: 0.072
+label: cup (1/2\ slices)
+value: 0.086
+label: shoot
+value: 0.104
+
+
+name: Aspartic acid
+unit: g
+value: 0.249
+label: cup (1/2\ slices)
+value: 0.299
+label: shoot
+value: 0.359
+
+
+name: Glutamic acid
+unit: g
+value: 0.145
+label: cup (1/2\ slices)
+value: 0.174
+label: shoot
+value: 0.209
+
+
+name: Glycine
+unit: g
+value: 0.051
+label: cup (1/2\ slices)
+value: 0.061
+label: shoot
+value: 0.073
+
+
+name: Proline
+unit: g
+value: 0.129
+label: cup (1/2\ slices)
+value: 0.155
+label: shoot
+value: 0.186
+
+
+name: Serine
+unit: g
+value: 0.075
+label: cup (1/2\ slices)
+value: 0.09
+label: shoot
+value: 0.108
+
+
+

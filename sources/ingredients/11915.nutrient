@@ -1,0 +1,610 @@
+ndbno: 11915
+
+
+name: Corn, sweet, white, frozen, kernels on cob, cooked, boiled, drained, with salt
+
+
+name: Water
+unit: g
+value: 73.2
+label: cup kernels
+value: 120.78
+label: ear, yields
+value: 46.12
+
+
+name: Energy
+unit: kcal
+value: 94.0
+label: cup kernels
+value: 155.0
+label: ear, yields
+value: 59.0
+
+
+name: Energy
+unit: kJ
+value: 391.0
+label: cup kernels
+value: 645.0
+label: ear, yields
+value: 246.0
+
+
+name: Protein
+unit: g
+value: 3.11
+label: cup kernels
+value: 5.13
+label: ear, yields
+value: 1.96
+
+
+name: Total lipid (fat)
+unit: g
+value: 0.74
+label: cup kernels
+value: 1.22
+label: ear, yields
+value: 0.47
+
+
+name: Ash
+unit: g
+value: 0.62
+label: cup kernels
+value: 1.02
+label: ear, yields
+value: 0.39
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 22.33
+label: cup kernels
+value: 36.84
+label: ear, yields
+value: 14.07
+
+
+name: Fiber, total dietary
+unit: g
+value: 2.8
+label: cup kernels
+value: 4.6
+label: ear, yields
+value: 1.8
+
+
+name: Calcium, Ca
+unit: mg
+value: 3.0
+label: cup kernels
+value: 5.0
+label: ear, yields
+value: 2.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.61
+label: cup kernels
+value: 1.01
+label: ear, yields
+value: 0.38
+
+
+name: Magnesium, Mg
+unit: mg
+value: 29.0
+label: cup kernels
+value: 48.0
+label: ear, yields
+value: 18.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 75.0
+label: cup kernels
+value: 124.0
+label: ear, yields
+value: 47.0
+
+
+name: Potassium, K
+unit: mg
+value: 251.0
+label: cup kernels
+value: 414.0
+label: ear, yields
+value: 158.0
+
+
+name: Sodium, Na
+unit: mg
+value: 240.0
+label: cup kernels
+value: 396.0
+label: ear, yields
+value: 151.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.63
+label: cup kernels
+value: 1.04
+label: ear, yields
+value: 0.4
+
+
+name: Copper, Cu
+unit: mg
+value: 0.046
+label: cup kernels
+value: 0.076
+label: ear, yields
+value: 0.029
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.142
+label: cup kernels
+value: 0.234
+label: ear, yields
+value: 0.089
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 0.7
+label: cup kernels
+value: 1.2
+label: ear, yields
+value: 0.4
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 4.8
+label: cup kernels
+value: 7.9
+label: ear, yields
+value: 3.0
+
+
+name: Thiamin
+unit: mg
+value: 0.174
+label: cup kernels
+value: 0.287
+label: ear, yields
+value: 0.11
+
+
+name: Riboflavin
+unit: mg
+value: 0.069
+label: cup kernels
+value: 0.114
+label: ear, yields
+value: 0.043
+
+
+name: Niacin
+unit: mg
+value: 1.517
+label: cup kernels
+value: 2.503
+label: ear, yields
+value: 0.956
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.25
+label: cup kernels
+value: 0.412
+label: ear, yields
+value: 0.158
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.224
+label: cup kernels
+value: 0.37
+label: ear, yields
+value: 0.141
+
+
+name: Folate, total
+unit: \u00B5g
+value: 31.0
+label: cup kernels
+value: 51.0
+label: ear, yields
+value: 20.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: cup kernels
+value: 0.0
+label: ear, yields
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 31.0
+label: cup kernels
+value: 51.0
+label: ear, yields
+value: 20.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 31.0
+label: cup kernels
+value: 51.0
+label: ear, yields
+value: 20.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: cup kernels
+value: 0.0
+label: ear, yields
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 0.0
+label: cup kernels
+value: 0.0
+label: ear, yields
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: cup kernels
+value: 0.0
+label: ear, yields
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 2.0
+label: cup kernels
+value: 3.0
+label: ear, yields
+value: 1.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: cup kernels
+value: 0.0
+label: ear, yields
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 1.0
+label: cup kernels
+value: 2.0
+label: ear, yields
+value: 1.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 4.0
+label: cup kernels
+value: 7.0
+label: ear, yields
+value: 3.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: cup kernels
+value: 0.0
+label: ear, yields
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 58.0
+label: cup kernels
+value: 96.0
+label: ear, yields
+value: 37.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: cup kernels
+value: 0.0
+label: ear, yields
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: cup kernels
+value: 0.0
+label: ear, yields
+value: 0.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.114
+label: cup kernels
+value: 0.188
+label: ear, yields
+value: 0.072
+
+
+name: 16:0
+unit: g
+value: 0.107
+label: cup kernels
+value: 0.177
+label: ear, yields
+value: 0.067
+
+
+name: 18:0
+unit: g
+value: 0.007
+label: cup kernels
+value: 0.012
+label: ear, yields
+value: 0.004
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.216
+label: cup kernels
+value: 0.356
+label: ear, yields
+value: 0.136
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.216
+label: cup kernels
+value: 0.356
+label: ear, yields
+value: 0.136
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.348
+label: cup kernels
+value: 0.574
+label: ear, yields
+value: 0.219
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.338
+label: cup kernels
+value: 0.558
+label: ear, yields
+value: 0.213
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.01
+label: cup kernels
+value: 0.016
+label: ear, yields
+value: 0.006
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.0
+label: cup kernels
+value: 0.0
+label: ear, yields
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: cup kernels
+value: 0.0
+label: ear, yields
+value: 0.0
+
+
+name: Tryptophan
+unit: g
+value: 0.022
+label: cup kernels
+value: 0.036
+label: ear, yields
+value: 0.014
+
+
+name: Threonine
+unit: g
+value: 0.125
+label: cup kernels
+value: 0.206
+label: ear, yields
+value: 0.079
+
+
+name: Isoleucine
+unit: g
+value: 0.125
+label: cup kernels
+value: 0.206
+label: ear, yields
+value: 0.079
+
+
+name: Leucine
+unit: g
+value: 0.336
+label: cup kernels
+value: 0.554
+label: ear, yields
+value: 0.212
+
+
+name: Lysine
+unit: g
+value: 0.132
+label: cup kernels
+value: 0.218
+label: ear, yields
+value: 0.083
+
+
+name: Methionine
+unit: g
+value: 0.065
+label: cup kernels
+value: 0.107
+label: ear, yields
+value: 0.041
+
+
+name: Cystine
+unit: g
+value: 0.025
+label: cup kernels
+value: 0.041
+label: ear, yields
+value: 0.016
+
+
+name: Phenylalanine
+unit: g
+value: 0.145
+label: cup kernels
+value: 0.239
+label: ear, yields
+value: 0.091
+
+
+name: Tyrosine
+unit: g
+value: 0.119
+label: cup kernels
+value: 0.196
+label: ear, yields
+value: 0.075
+
+
+name: Valine
+unit: g
+value: 0.179
+label: cup kernels
+value: 0.295
+label: ear, yields
+value: 0.113
+
+
+name: Arginine
+unit: g
+value: 0.126
+label: cup kernels
+value: 0.208
+label: ear, yields
+value: 0.079
+
+
+name: Histidine
+unit: g
+value: 0.086
+label: cup kernels
+value: 0.142
+label: ear, yields
+value: 0.054
+
+
+name: Alanine
+unit: g
+value: 0.285
+label: cup kernels
+value: 0.47
+label: ear, yields
+value: 0.18
+
+
+name: Aspartic acid
+unit: g
+value: 0.236
+label: cup kernels
+value: 0.389
+label: ear, yields
+value: 0.149
+
+
+name: Glutamic acid
+unit: g
+value: 0.615
+label: cup kernels
+value: 1.015
+label: ear, yields
+value: 0.387
+
+
+name: Glycine
+unit: g
+value: 0.123
+label: cup kernels
+value: 0.203
+label: ear, yields
+value: 0.077
+
+
+name: Proline
+unit: g
+value: 0.282
+label: cup kernels
+value: 0.465
+label: ear, yields
+value: 0.178
+
+
+name: Serine
+unit: g
+value: 0.148
+label: cup kernels
+value: 0.244
+label: ear, yields
+value: 0.093
+
+
+

@@ -1,0 +1,609 @@
+ndbno: 15159
+
+
+name: Mollusks, clam, mixed species, cooked, moist heat
+
+
+name: Water
+unit: g
+value: 63.64
+label: oz
+value: 54.09
+label: small
+value: 120.92
+
+
+name: Energy
+unit: kcal
+value: 148.0
+label: oz
+value: 126.0
+label: small
+value: 281.0
+
+
+name: Energy
+unit: kJ
+value: 618.0
+label: oz
+value: 525.0
+label: small
+value: 1174.0
+
+
+name: Protein
+unit: g
+value: 25.55
+label: oz
+value: 21.72
+label: small
+value: 48.54
+
+
+name: Total lipid (fat)
+unit: g
+value: 1.95
+label: oz
+value: 1.66
+label: small
+value: 3.7
+
+
+name: Ash
+unit: g
+value: 3.74
+label: oz
+value: 3.18
+label: small
+value: 7.11
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 5.13
+label: oz
+value: 4.36
+label: small
+value: 9.75
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: small
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 92.0
+label: oz
+value: 78.0
+label: small
+value: 175.0
+
+
+name: Iron, Fe
+unit: mg
+value: 2.81
+label: oz
+value: 2.39
+label: small
+value: 5.34
+
+
+name: Magnesium, Mg
+unit: mg
+value: 18.0
+label: oz
+value: 15.0
+label: small
+value: 34.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 338.0
+label: oz
+value: 287.0
+label: small
+value: 642.0
+
+
+name: Potassium, K
+unit: mg
+value: 628.0
+label: oz
+value: 534.0
+label: small
+value: 1193.0
+
+
+name: Sodium, Na
+unit: mg
+value: 1202.0
+label: oz
+value: 1022.0
+label: small
+value: 2284.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 2.73
+label: oz
+value: 2.32
+label: small
+value: 5.19
+
+
+name: Copper, Cu
+unit: mg
+value: 0.688
+label: oz
+value: 0.585
+label: small
+value: 1.307
+
+
+name: Manganese, Mn
+unit: mg
+value: 1.0
+label: oz
+value: 0.85
+label: small
+value: 1.9
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 64.0
+label: oz
+value: 54.4
+label: small
+value: 121.6
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 22.1
+label: oz
+value: 18.8
+label: small
+value: 42.0
+
+
+name: Thiamin
+unit: mg
+value: 0.15
+label: oz
+value: 0.128
+label: small
+value: 0.285
+
+
+name: Riboflavin
+unit: mg
+value: 0.426
+label: oz
+value: 0.362
+label: small
+value: 0.809
+
+
+name: Niacin
+unit: mg
+value: 3.354
+label: oz
+value: 2.851
+label: small
+value: 6.373
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.68
+label: oz
+value: 0.578
+label: small
+value: 1.292
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.11
+label: oz
+value: 0.094
+label: small
+value: 0.209
+
+
+name: Folate, total
+unit: \u00B5g
+value: 29.0
+label: oz
+value: 25.0
+label: small
+value: 55.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: small
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 29.0
+label: oz
+value: 25.0
+label: small
+value: 55.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 29.0
+label: oz
+value: 25.0
+label: small
+value: 55.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 98.89
+label: oz
+value: 84.06
+label: small
+value: 187.89
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 171.0
+label: oz
+value: 145.0
+label: small
+value: 325.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 570.0
+label: oz
+value: 484.0
+label: small
+value: 1083.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.188
+label: oz
+value: 0.16
+label: small
+value: 0.357
+
+
+name: 14:0
+unit: g
+value: 0.026
+label: oz
+value: 0.022
+label: small
+value: 0.049
+
+
+name: 16:0
+unit: g
+value: 0.12
+label: oz
+value: 0.102
+label: small
+value: 0.228
+
+
+name: 18:0
+unit: g
+value: 0.036
+label: oz
+value: 0.031
+label: small
+value: 0.068
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.172
+label: oz
+value: 0.146
+label: small
+value: 0.327
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.044
+label: oz
+value: 0.037
+label: small
+value: 0.084
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.068
+label: oz
+value: 0.058
+label: small
+value: 0.129
+
+
+name: 20:1
+unit: g
+value: 0.036
+label: oz
+value: 0.031
+label: small
+value: 0.068
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.012
+label: oz
+value: 0.01
+label: small
+value: 0.023
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.552
+label: oz
+value: 0.469
+label: small
+value: 1.049
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.032
+label: oz
+value: 0.027
+label: small
+value: 0.061
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.008
+label: oz
+value: 0.007
+label: small
+value: 0.015
+
+
+name: 18:4
+unit: g
+value: 0.032
+label: oz
+value: 0.027
+label: small
+value: 0.061
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.082
+label: oz
+value: 0.07
+label: small
+value: 0.156
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.138
+label: oz
+value: 0.117
+label: small
+value: 0.262
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.104
+label: oz
+value: 0.088
+label: small
+value: 0.198
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.146
+label: oz
+value: 0.124
+label: small
+value: 0.277
+
+
+name: Cholesterol
+unit: mg
+value: 67.0
+label: oz
+value: 57.0
+label: small
+value: 127.0
+
+
+name: Tryptophan
+unit: g
+value: 0.286
+label: oz
+value: 0.243
+label: small
+value: 0.543
+
+
+name: Threonine
+unit: g
+value: 1.099
+label: oz
+value: 0.934
+label: small
+value: 2.088
+
+
+name: Isoleucine
+unit: g
+value: 1.112
+label: oz
+value: 0.945
+label: small
+value: 2.113
+
+
+name: Leucine
+unit: g
+value: 1.798
+label: oz
+value: 1.528
+label: small
+value: 3.416
+
+
+name: Lysine
+unit: g
+value: 1.909
+label: oz
+value: 1.623
+label: small
+value: 3.627
+
+
+name: Methionine
+unit: g
+value: 0.576
+label: oz
+value: 0.49
+label: small
+value: 1.094
+
+
+name: Cystine
+unit: g
+value: 0.335
+label: oz
+value: 0.285
+label: small
+value: 0.637
+
+
+name: Phenylalanine
+unit: g
+value: 0.915
+label: oz
+value: 0.778
+label: small
+value: 1.738
+
+
+name: Tyrosine
+unit: g
+value: 0.817
+label: oz
+value: 0.694
+label: small
+value: 1.552
+
+
+name: Valine
+unit: g
+value: 1.116
+label: oz
+value: 0.949
+label: small
+value: 2.12
+
+
+name: Arginine
+unit: g
+value: 1.864
+label: oz
+value: 1.584
+label: small
+value: 3.542
+
+
+name: Histidine
+unit: g
+value: 0.49
+label: oz
+value: 0.416
+label: small
+value: 0.931
+
+
+name: Alanine
+unit: g
+value: 1.545
+label: oz
+value: 1.313
+label: small
+value: 2.936
+
+
+name: Aspartic acid
+unit: g
+value: 2.464
+label: oz
+value: 2.094
+label: small
+value: 4.682
+
+
+name: Glutamic acid
+unit: g
+value: 3.474
+label: oz
+value: 2.953
+label: small
+value: 6.601
+
+
+name: Glycine
+unit: g
+value: 1.598
+label: oz
+value: 1.358
+label: small
+value: 3.036
+
+
+name: Proline
+unit: g
+value: 1.042
+label: oz
+value: 0.886
+label: small
+value: 1.98
+
+
+name: Serine
+unit: g
+value: 1.144
+label: oz
+value: 0.972
+label: small
+value: 2.174
+
+

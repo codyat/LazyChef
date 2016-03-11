@@ -1,0 +1,672 @@
+ndbno: 05020
+
+
+name: Chicken, broilers or fryers, giblets, raw
+
+
+name: Water
+unit: g
+value: 74.87
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 17.22
+label: giblets
+value: 56.15
+
+
+name: Energy
+unit: kcal
+value: 124.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 29.0
+label: giblets
+value: 93.0
+
+
+name: Energy
+unit: kJ
+value: 519.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 119.0
+label: giblets
+value: 389.0
+
+
+name: Protein
+unit: g
+value: 17.88
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 4.11
+label: giblets
+value: 13.41
+
+
+name: Total lipid (fat)
+unit: g
+value: 4.47
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 1.03
+label: giblets
+value: 3.35
+
+
+name: Ash
+unit: g
+value: 0.99
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.23
+label: giblets
+value: 0.74
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 1.8
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.41
+label: giblets
+value: 1.35
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.0
+label: giblets
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 10.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 2.0
+label: giblets
+value: 8.0
+
+
+name: Iron, Fe
+unit: mg
+value: 5.86
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 1.35
+label: giblets
+value: 4.4
+
+
+name: Magnesium, Mg
+unit: mg
+value: 18.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 4.0
+label: giblets
+value: 14.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 197.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 45.0
+label: giblets
+value: 148.0
+
+
+name: Potassium, K
+unit: mg
+value: 228.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 52.0
+label: giblets
+value: 171.0
+
+
+name: Sodium, Na
+unit: mg
+value: 77.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 18.0
+label: giblets
+value: 58.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 3.32
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.76
+label: giblets
+value: 2.49
+
+
+name: Copper, Cu
+unit: mg
+value: 0.243
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.056
+label: giblets
+value: 0.182
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.149
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.034
+label: giblets
+value: 0.112
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 55.2
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 12.7
+label: giblets
+value: 41.4
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 16.2
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 3.7
+label: giblets
+value: 12.2
+
+
+name: Thiamin
+unit: mg
+value: 0.088
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.02
+label: giblets
+value: 0.066
+
+
+name: Riboflavin
+unit: mg
+value: 0.987
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.227
+label: giblets
+value: 0.74
+
+
+name: Niacin
+unit: mg
+value: 6.662
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 1.532
+label: giblets
+value: 4.996
+
+
+name: Pantothenic acid
+unit: mg
+value: 3.208
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.738
+label: giblets
+value: 2.406
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.42
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.097
+label: giblets
+value: 0.315
+
+
+name: Folate, total
+unit: \u00B5g
+value: 345.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 79.0
+label: giblets
+value: 259.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.0
+label: giblets
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 345.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 79.0
+label: giblets
+value: 259.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 345.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 79.0
+label: giblets
+value: 259.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 11.41
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 2.62
+label: giblets
+value: 8.56
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 2657.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 611.0
+label: giblets
+value: 1993.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 2657.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 611.0
+label: giblets
+value: 1993.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 8847.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 2035.0
+label: giblets
+value: 6635.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 1.36
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.313
+label: giblets
+value: 1.02
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.0
+label: giblets
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.0
+label: giblets
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.0
+label: giblets
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.0
+label: giblets
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.0
+label: giblets
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.02
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.005
+label: giblets
+value: 0.015
+
+
+name: 16:0
+unit: g
+value: 0.75
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.172
+label: giblets
+value: 0.562
+
+
+name: 18:0
+unit: g
+value: 0.47
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.108
+label: giblets
+value: 0.352
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 1.12
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.258
+label: giblets
+value: 0.84
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.16
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.037
+label: giblets
+value: 0.12
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.95
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.218
+label: giblets
+value: 0.712
+
+
+name: 20:1
+unit: g
+value: 0.01
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.002
+label: giblets
+value: 0.008
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.0
+label: giblets
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 1.09
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.251
+label: giblets
+value: 0.818
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.75
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.172
+label: giblets
+value: 0.562
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.03
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.007
+label: giblets
+value: 0.022
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.0
+label: giblets
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.27
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.062
+label: giblets
+value: 0.202
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.01
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.002
+label: giblets
+value: 0.008
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.0
+label: giblets
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.02
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.005
+label: giblets
+value: 0.015
+
+
+name: Cholesterol
+unit: mg
+value: 262.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 60.0
+label: giblets
+value: 196.0
+
+
+name: Tryptophan
+unit: g
+value: 0.204
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.047
+label: giblets
+value: 0.153
+
+
+name: Threonine
+unit: g
+value: 0.811
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.187
+label: giblets
+value: 0.608
+
+
+name: Isoleucine
+unit: g
+value: 0.897
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.206
+label: giblets
+value: 0.673
+
+
+name: Leucine
+unit: g
+value: 1.43
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.329
+label: giblets
+value: 1.072
+
+
+name: Lysine
+unit: g
+value: 1.305
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.3
+label: giblets
+value: 0.979
+
+
+name: Methionine
+unit: g
+value: 0.447
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.103
+label: giblets
+value: 0.335
+
+
+name: Cystine
+unit: g
+value: 0.238
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.055
+label: giblets
+value: 0.178
+
+
+name: Phenylalanine
+unit: g
+value: 0.81
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.186
+label: giblets
+value: 0.608
+
+
+name: Tyrosine
+unit: g
+value: 0.587
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.135
+label: giblets
+value: 0.44
+
+
+name: Valine
+unit: g
+value: 0.955
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.22
+label: giblets
+value: 0.716
+
+
+name: Arginine
+unit: g
+value: 1.194
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.275
+label: giblets
+value: 0.896
+
+
+name: Histidine
+unit: g
+value: 0.417
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.096
+label: giblets
+value: 0.313
+
+
+name: Alanine
+unit: g
+value: 0.877
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.202
+label: giblets
+value: 0.658
+
+
+name: Aspartic acid
+unit: g
+value: 1.675
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.385
+label: giblets
+value: 1.256
+
+
+name: Glutamic acid
+unit: g
+value: 2.712
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.624
+label: giblets
+value: 2.034
+
+
+name: Glycine
+unit: g
+value: 0.985
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.227
+label: giblets
+value: 0.739
+
+
+name: Proline
+unit: g
+value: 0.91
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.209
+label: giblets
+value: 0.682
+
+
+name: Serine
+unit: g
+value: 0.782
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.18
+label: giblets
+value: 0.586
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: unit (yield from 1 lb ready-to-cook chicken)
+value: 0.0
+label: giblets
+value: 0.0
+
+

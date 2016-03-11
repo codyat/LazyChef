@@ -1,0 +1,441 @@
+ndbno: 11225
+
+
+name: Hyacinth-beans, immature seeds, cooked, boiled, drained, without salt
+
+
+name: Water
+unit: g
+value: 86.9
+label: cup
+value: 75.6
+
+
+name: Energy
+unit: kcal
+value: 50.0
+label: cup
+value: 44.0
+
+
+name: Energy
+unit: kJ
+value: 209.0
+label: cup
+value: 182.0
+
+
+name: Protein
+unit: g
+value: 2.95
+label: cup
+value: 2.57
+
+
+name: Total lipid (fat)
+unit: g
+value: 0.27
+label: cup
+value: 0.23
+
+
+name: Ash
+unit: g
+value: 0.68
+label: cup
+value: 0.59
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 9.2
+label: cup
+value: 8.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 41.0
+label: cup
+value: 36.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.76
+label: cup
+value: 0.66
+
+
+name: Magnesium, Mg
+unit: mg
+value: 42.0
+label: cup
+value: 37.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 49.0
+label: cup
+value: 43.0
+
+
+name: Potassium, K
+unit: mg
+value: 262.0
+label: cup
+value: 228.0
+
+
+name: Sodium, Na
+unit: mg
+value: 2.0
+label: cup
+value: 2.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.38
+label: cup
+value: 0.33
+
+
+name: Copper, Cu
+unit: mg
+value: 0.048
+label: cup
+value: 0.042
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.21
+label: cup
+value: 0.183
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 1.6
+label: cup
+value: 1.4
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 5.1
+label: cup
+value: 4.4
+
+
+name: Thiamin
+unit: mg
+value: 0.056
+label: cup
+value: 0.049
+
+
+name: Riboflavin
+unit: mg
+value: 0.088
+label: cup
+value: 0.077
+
+
+name: Niacin
+unit: mg
+value: 0.48
+label: cup
+value: 0.418
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.053
+label: cup
+value: 0.046
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.023
+label: cup
+value: 0.02
+
+
+name: Folate, total
+unit: \u00B5g
+value: 47.0
+label: cup
+value: 41.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 47.0
+label: cup
+value: 41.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 47.0
+label: cup
+value: 41.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 7.0
+label: cup
+value: 6.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 142.0
+label: cup
+value: 124.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.119
+label: cup
+value: 0.104
+
+
+name: 12:0
+unit: g
+value: 0.002
+label: cup
+value: 0.002
+
+
+name: 14:0
+unit: g
+value: 0.004
+label: cup
+value: 0.003
+
+
+name: 16:0
+unit: g
+value: 0.076
+label: cup
+value: 0.066
+
+
+name: 18:0
+unit: g
+value: 0.012
+label: cup
+value: 0.01
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.129
+label: cup
+value: 0.112
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.001
+label: cup
+value: 0.001
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.128
+label: cup
+value: 0.111
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.01
+label: cup
+value: 0.009
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.002
+label: cup
+value: 0.002
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.009
+label: cup
+value: 0.008
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+
+
+name: Threonine
+unit: g
+value: 0.124
+label: cup
+value: 0.108
+
+
+name: Isoleucine
+unit: g
+value: 0.201
+label: cup
+value: 0.175
+
+
+name: Leucine
+unit: g
+value: 0.307
+label: cup
+value: 0.267
+
+
+name: Lysine
+unit: g
+value: 0.203
+label: cup
+value: 0.177
+
+
+name: Methionine
+unit: g
+value: 0.026
+label: cup
+value: 0.023
+
+
+name: Cystine
+unit: g
+value: 0.02
+label: cup
+value: 0.017
+
+
+name: Phenylalanine
+unit: g
+value: 0.065
+label: cup
+value: 0.057
+
+
+name: Tyrosine
+unit: g
+value: 0.053
+label: cup
+value: 0.046
+
+
+name: Valine
+unit: g
+value: 0.218
+label: cup
+value: 0.19
+
+
+name: Arginine
+unit: g
+value: 0.201
+label: cup
+value: 0.175
+
+
+name: Histidine
+unit: g
+value: 0.124
+label: cup
+value: 0.108
+
+
+name: Alanine
+unit: g
+value: 0.153
+label: cup
+value: 0.133
+
+
+name: Aspartic acid
+unit: g
+value: 0.059
+label: cup
+value: 0.051
+
+
+name: Glutamic acid
+unit: g
+value: 0.36
+label: cup
+value: 0.313
+
+
+name: Glycine
+unit: g
+value: 0.242
+label: cup
+value: 0.211
+
+
+name: Serine
+unit: g
+value: 0.15
+label: cup
+value: 0.13
+
+
+

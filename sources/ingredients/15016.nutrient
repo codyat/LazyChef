@@ -1,0 +1,825 @@
+ndbno: 15016
+
+
+name: Fish, cod, Atlantic, cooked, dry heat
+
+
+name: Water
+unit: g
+value: 75.92
+label: oz
+value: 64.53
+label: fillet
+value: 136.66
+
+
+name: Energy
+unit: kcal
+value: 105.0
+label: oz
+value: 89.0
+label: fillet
+value: 189.0
+
+
+name: Energy
+unit: kJ
+value: 440.0
+label: oz
+value: 374.0
+label: fillet
+value: 792.0
+
+
+name: Protein
+unit: g
+value: 22.83
+label: oz
+value: 19.41
+label: fillet
+value: 41.09
+
+
+name: Total lipid (fat)
+unit: g
+value: 0.86
+label: oz
+value: 0.73
+label: fillet
+value: 1.55
+
+
+name: Ash
+unit: g
+value: 1.49
+label: oz
+value: 1.27
+label: fillet
+value: 2.68
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: fillet
+value: 0.0
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: fillet
+value: 0.0
+
+
+name: Sugars, total
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: fillet
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 14.0
+label: oz
+value: 12.0
+label: fillet
+value: 25.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.49
+label: oz
+value: 0.42
+label: fillet
+value: 0.88
+
+
+name: Magnesium, Mg
+unit: mg
+value: 42.0
+label: oz
+value: 36.0
+label: fillet
+value: 76.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 138.0
+label: oz
+value: 117.0
+label: fillet
+value: 248.0
+
+
+name: Potassium, K
+unit: mg
+value: 244.0
+label: oz
+value: 207.0
+label: fillet
+value: 439.0
+
+
+name: Sodium, Na
+unit: mg
+value: 78.0
+label: oz
+value: 66.0
+label: fillet
+value: 140.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.58
+label: oz
+value: 0.49
+label: fillet
+value: 1.04
+
+
+name: Copper, Cu
+unit: mg
+value: 0.036
+label: oz
+value: 0.031
+label: fillet
+value: 0.065
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.02
+label: oz
+value: 0.017
+label: fillet
+value: 0.036
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 37.6
+label: oz
+value: 32.0
+label: fillet
+value: 67.7
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 1.0
+label: oz
+value: 0.8
+label: fillet
+value: 1.8
+
+
+name: Thiamin
+unit: mg
+value: 0.088
+label: oz
+value: 0.075
+label: fillet
+value: 0.158
+
+
+name: Riboflavin
+unit: mg
+value: 0.079
+label: oz
+value: 0.067
+label: fillet
+value: 0.142
+
+
+name: Niacin
+unit: mg
+value: 2.513
+label: oz
+value: 2.136
+label: fillet
+value: 4.523
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.18
+label: oz
+value: 0.153
+label: fillet
+value: 0.324
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.283
+label: oz
+value: 0.241
+label: fillet
+value: 0.509
+
+
+name: Folate, total
+unit: \u00B5g
+value: 8.0
+label: oz
+value: 7.0
+label: fillet
+value: 14.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: fillet
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 8.0
+label: oz
+value: 7.0
+label: fillet
+value: 14.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 8.0
+label: oz
+value: 7.0
+label: fillet
+value: 14.0
+
+
+name: Choline, total
+unit: mg
+value: 83.7
+label: oz
+value: 71.1
+label: fillet
+value: 150.7
+
+
+name: Betaine
+unit: mg
+value: 9.7
+label: oz
+value: 8.2
+label: fillet
+value: 17.5
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 1.05
+label: oz
+value: 0.89
+label: fillet
+value: 1.89
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: fillet
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 14.0
+label: oz
+value: 12.0
+label: fillet
+value: 25.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 14.0
+label: oz
+value: 12.0
+label: fillet
+value: 25.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: fillet
+value: 0.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: fillet
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: fillet
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 47.0
+label: oz
+value: 40.0
+label: fillet
+value: 85.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: fillet
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 0.0
+label: oz
+value: 0.0
+label: fillet
+value: 0.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.81
+label: oz
+value: 0.69
+label: fillet
+value: 1.46
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: fillet
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 1.2
+label: oz
+value: 1.0
+label: fillet
+value: 2.2
+
+
+name: Vitamin D3 (cholecalciferol)
+unit: \u00B5g
+value: 1.2
+label: oz
+value: 1.0
+label: fillet
+value: 2.2
+
+
+name: Vitamin D
+unit: IU
+value: 46.0
+label: oz
+value: 39.0
+label: fillet
+value: 83.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 0.1
+label: oz
+value: 0.1
+label: fillet
+value: 0.2
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.168
+label: oz
+value: 0.143
+label: fillet
+value: 0.302
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: fillet
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: fillet
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: fillet
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: fillet
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: fillet
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.012
+label: oz
+value: 0.01
+label: fillet
+value: 0.022
+
+
+name: 16:0
+unit: g
+value: 0.117
+label: oz
+value: 0.099
+label: fillet
+value: 0.211
+
+
+name: 18:0
+unit: g
+value: 0.038
+label: oz
+value: 0.032
+label: fillet
+value: 0.068
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.124
+label: oz
+value: 0.105
+label: fillet
+value: 0.223
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.021
+label: oz
+value: 0.018
+label: fillet
+value: 0.038
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.078
+label: oz
+value: 0.066
+label: fillet
+value: 0.14
+
+
+name: 20:1
+unit: g
+value: 0.019
+label: oz
+value: 0.016
+label: fillet
+value: 0.034
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.004
+label: oz
+value: 0.003
+label: fillet
+value: 0.007
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.292
+label: oz
+value: 0.248
+label: fillet
+value: 0.526
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.006
+label: oz
+value: 0.005
+label: fillet
+value: 0.011
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.001
+label: oz
+value: 0.001
+label: fillet
+value: 0.002
+
+
+name: 18:4
+unit: g
+value: 0.001
+label: oz
+value: 0.001
+label: fillet
+value: 0.002
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.028
+label: oz
+value: 0.024
+label: fillet
+value: 0.05
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.004
+label: oz
+value: 0.003
+label: fillet
+value: 0.007
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.013
+label: oz
+value: 0.011
+label: fillet
+value: 0.023
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.154
+label: oz
+value: 0.131
+label: fillet
+value: 0.277
+
+
+name: Cholesterol
+unit: mg
+value: 55.0
+label: oz
+value: 47.0
+label: fillet
+value: 99.0
+
+
+name: Tryptophan
+unit: g
+value: 0.256
+label: oz
+value: 0.218
+label: fillet
+value: 0.461
+
+
+name: Threonine
+unit: g
+value: 1.001
+label: oz
+value: 0.851
+label: fillet
+value: 1.802
+
+
+name: Isoleucine
+unit: g
+value: 1.052
+label: oz
+value: 0.894
+label: fillet
+value: 1.894
+
+
+name: Leucine
+unit: g
+value: 1.856
+label: oz
+value: 1.578
+label: fillet
+value: 3.341
+
+
+name: Lysine
+unit: g
+value: 2.097
+label: oz
+value: 1.782
+label: fillet
+value: 3.775
+
+
+name: Methionine
+unit: g
+value: 0.676
+label: oz
+value: 0.575
+label: fillet
+value: 1.217
+
+
+name: Cystine
+unit: g
+value: 0.245
+label: oz
+value: 0.208
+label: fillet
+value: 0.441
+
+
+name: Phenylalanine
+unit: g
+value: 0.891
+label: oz
+value: 0.757
+label: fillet
+value: 1.604
+
+
+name: Tyrosine
+unit: g
+value: 0.771
+label: oz
+value: 0.655
+label: fillet
+value: 1.388
+
+
+name: Valine
+unit: g
+value: 1.176
+label: oz
+value: 1.0
+label: fillet
+value: 2.117
+
+
+name: Arginine
+unit: g
+value: 1.366
+label: oz
+value: 1.161
+label: fillet
+value: 2.459
+
+
+name: Histidine
+unit: g
+value: 0.672
+label: oz
+value: 0.571
+label: fillet
+value: 1.21
+
+
+name: Alanine
+unit: g
+value: 1.381
+label: oz
+value: 1.174
+label: fillet
+value: 2.486
+
+
+name: Aspartic acid
+unit: g
+value: 2.338
+label: oz
+value: 1.987
+label: fillet
+value: 4.208
+
+
+name: Glutamic acid
+unit: g
+value: 3.408
+label: oz
+value: 2.897
+label: fillet
+value: 6.134
+
+
+name: Glycine
+unit: g
+value: 1.096
+label: oz
+value: 0.932
+label: fillet
+value: 1.973
+
+
+name: Proline
+unit: g
+value: 0.807
+label: oz
+value: 0.686
+label: fillet
+value: 1.453
+
+
+name: Serine
+unit: g
+value: 0.932
+label: oz
+value: 0.792
+label: fillet
+value: 1.678
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+label: fillet
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: fillet
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: fillet
+value: 0.0
+
+

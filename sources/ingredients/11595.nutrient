@@ -1,0 +1,430 @@
+ndbno: 11595
+
+
+name: Winged beans, immature seeds, raw
+
+
+name: Water
+unit: g
+value: 87.04
+label: cup slices
+value: 38.3
+label: pod
+value: 13.93
+
+
+name: Energy
+unit: kcal
+value: 49.0
+label: cup slices
+value: 22.0
+label: pod
+value: 8.0
+
+
+name: Energy
+unit: kJ
+value: 205.0
+label: cup slices
+value: 90.0
+label: pod
+value: 33.0
+
+
+name: Protein
+unit: g
+value: 6.95
+label: cup slices
+value: 3.06
+label: pod
+value: 1.11
+
+
+name: Total lipid (fat)
+unit: g
+value: 0.87
+label: cup slices
+value: 0.38
+label: pod
+value: 0.14
+
+
+name: Ash
+unit: g
+value: 0.83
+label: cup slices
+value: 0.37
+label: pod
+value: 0.13
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 4.31
+label: cup slices
+value: 1.9
+label: pod
+value: 0.69
+
+
+name: Calcium, Ca
+unit: mg
+value: 84.0
+label: cup slices
+value: 37.0
+label: pod
+value: 13.0
+
+
+name: Iron, Fe
+unit: mg
+value: 1.5
+label: cup slices
+value: 0.66
+label: pod
+value: 0.24
+
+
+name: Magnesium, Mg
+unit: mg
+value: 34.0
+label: cup slices
+value: 15.0
+label: pod
+value: 5.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 37.0
+label: cup slices
+value: 16.0
+label: pod
+value: 6.0
+
+
+name: Potassium, K
+unit: mg
+value: 223.0
+label: cup slices
+value: 98.0
+label: pod
+value: 36.0
+
+
+name: Sodium, Na
+unit: mg
+value: 4.0
+label: cup slices
+value: 2.0
+label: pod
+value: 1.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.39
+label: cup slices
+value: 0.17
+label: pod
+value: 0.06
+
+
+name: Copper, Cu
+unit: mg
+value: 0.051
+label: cup slices
+value: 0.022
+label: pod
+value: 0.008
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.218
+label: cup slices
+value: 0.096
+label: pod
+value: 0.035
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 1.5
+label: cup slices
+value: 0.7
+label: pod
+value: 0.2
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 18.3
+label: cup slices
+value: 8.1
+label: pod
+value: 2.9
+
+
+name: Thiamin
+unit: mg
+value: 0.14
+label: cup slices
+value: 0.062
+label: pod
+value: 0.022
+
+
+name: Riboflavin
+unit: mg
+value: 0.1
+label: cup slices
+value: 0.044
+label: pod
+value: 0.016
+
+
+name: Niacin
+unit: mg
+value: 0.9
+label: cup slices
+value: 0.396
+label: pod
+value: 0.144
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.059
+label: cup slices
+value: 0.026
+label: pod
+value: 0.009
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.113
+label: cup slices
+value: 0.05
+label: pod
+value: 0.018
+
+
+name: Folate, total
+unit: \u00B5g
+value: 66.0
+label: cup slices
+value: 29.0
+label: pod
+value: 11.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: cup slices
+value: 0.0
+label: pod
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 66.0
+label: cup slices
+value: 29.0
+label: pod
+value: 11.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 66.0
+label: cup slices
+value: 29.0
+label: pod
+value: 11.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: cup slices
+value: 0.0
+label: pod
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: cup slices
+value: 0.0
+label: pod
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 128.0
+label: cup slices
+value: 56.0
+label: pod
+value: 20.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: cup slices
+value: 0.0
+label: pod
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: cup slices
+value: 0.0
+label: pod
+value: 0.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.238
+label: cup slices
+value: 0.105
+label: pod
+value: 0.038
+
+
+name: 14:0
+unit: g
+value: 0.001
+label: cup slices
+value: 0.0
+label: pod
+value: 0.0
+
+
+name: 16:0
+unit: g
+value: 0.066
+label: cup slices
+value: 0.029
+label: pod
+value: 0.011
+
+
+name: 18:0
+unit: g
+value: 0.038
+label: cup slices
+value: 0.017
+label: pod
+value: 0.006
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.25
+label: cup slices
+value: 0.11
+label: pod
+value: 0.04
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.248
+label: cup slices
+value: 0.109
+label: pod
+value: 0.04
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.002
+label: cup slices
+value: 0.001
+label: pod
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.186
+label: cup slices
+value: 0.082
+label: pod
+value: 0.03
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.164
+label: cup slices
+value: 0.072
+label: pod
+value: 0.026
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.023
+label: cup slices
+value: 0.01
+label: pod
+value: 0.004
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.0
+label: cup slices
+value: 0.0
+label: pod
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: cup slices
+value: 0.0
+label: pod
+value: 0.0
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: cup slices
+value: 0.0
+label: pod
+value: 0.0
+
+
+name: Caffeine
+unit: mg
+value: 0.0
+label: cup slices
+value: 0.0
+label: pod
+value: 0.0
+
+
+name: Theobromine
+unit: mg
+value: 0.0
+label: cup slices
+value: 0.0
+label: pod
+value: 0.0
+
+
+

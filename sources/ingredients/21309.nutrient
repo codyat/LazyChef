@@ -1,0 +1,875 @@
+ndbno: 21309
+
+
+name: McDONALD'S, Chicken McNUGGETS
+
+
+name: Water
+unit: g
+value: 47.13
+label: pieces
+value: 30.16
+label: pieces
+value: 44.77
+label: pieces
+value: 74.94
+
+
+name: Energy
+unit: kcal
+value: 302.0
+label: pieces
+value: 193.0
+label: pieces
+value: 287.0
+label: pieces
+value: 480.0
+
+
+name: Energy
+unit: kJ
+value: 1263.0
+label: pieces
+value: 808.0
+label: pieces
+value: 1200.0
+label: pieces
+value: 2008.0
+
+
+name: Protein
+unit: g
+value: 15.79
+label: pieces
+value: 10.11
+label: pieces
+value: 15.0
+label: pieces
+value: 25.11
+
+
+name: Total lipid (fat)
+unit: g
+value: 19.81
+label: pieces
+value: 12.68
+label: pieces
+value: 18.82
+label: pieces
+value: 31.5
+
+
+name: Ash
+unit: g
+value: 2.19
+label: pieces
+value: 1.4
+label: pieces
+value: 2.08
+label: pieces
+value: 3.48
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 15.09
+label: pieces
+value: 9.66
+label: pieces
+value: 14.34
+label: pieces
+value: 23.99
+
+
+name: Sugars, total
+unit: g
+value: 0.08
+label: pieces
+value: 0.05
+label: pieces
+value: 0.08
+label: pieces
+value: 0.13
+
+
+name: Sucrose
+unit: g
+value: 0.08
+label: pieces
+value: 0.05
+label: pieces
+value: 0.08
+label: pieces
+value: 0.13
+
+
+name: Glucose (dextrose)
+unit: g
+value: 0.0
+label: pieces
+value: 0.0
+label: pieces
+value: 0.0
+label: pieces
+value: 0.0
+
+
+name: Fructose
+unit: g
+value: 0.0
+label: pieces
+value: 0.0
+label: pieces
+value: 0.0
+label: pieces
+value: 0.0
+
+
+name: Lactose
+unit: g
+value: 0.0
+label: pieces
+value: 0.0
+label: pieces
+value: 0.0
+label: pieces
+value: 0.0
+
+
+name: Maltose
+unit: g
+value: 0.0
+label: pieces
+value: 0.0
+label: pieces
+value: 0.0
+label: pieces
+value: 0.0
+
+
+name: Galactose
+unit: g
+value: 0.0
+label: pieces
+value: 0.0
+label: pieces
+value: 0.0
+label: pieces
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 11.0
+label: pieces
+value: 7.0
+label: pieces
+value: 10.0
+label: pieces
+value: 17.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.89
+label: pieces
+value: 0.57
+label: pieces
+value: 0.85
+label: pieces
+value: 1.42
+
+
+name: Magnesium, Mg
+unit: mg
+value: 24.0
+label: pieces
+value: 15.0
+label: pieces
+value: 23.0
+label: pieces
+value: 38.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 272.0
+label: pieces
+value: 174.0
+label: pieces
+value: 258.0
+label: pieces
+value: 432.0
+
+
+name: Potassium, K
+unit: mg
+value: 252.0
+label: pieces
+value: 161.0
+label: pieces
+value: 239.0
+label: pieces
+value: 401.0
+
+
+name: Sodium, Na
+unit: mg
+value: 566.0
+label: pieces
+value: 362.0
+label: pieces
+value: 538.0
+label: pieces
+value: 900.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.59
+label: pieces
+value: 0.38
+label: pieces
+value: 0.56
+label: pieces
+value: 0.94
+
+
+name: Copper, Cu
+unit: mg
+value: 0.049
+label: pieces
+value: 0.031
+label: pieces
+value: 0.047
+label: pieces
+value: 0.078
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.14
+label: pieces
+value: 0.09
+label: pieces
+value: 0.133
+label: pieces
+value: 0.223
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 1.2
+label: pieces
+value: 0.8
+label: pieces
+value: 1.1
+label: pieces
+value: 1.9
+
+
+name: Thiamin
+unit: mg
+value: 0.16
+label: pieces
+value: 0.102
+label: pieces
+value: 0.152
+label: pieces
+value: 0.254
+
+
+name: Riboflavin
+unit: mg
+value: 0.11
+label: pieces
+value: 0.07
+label: pieces
+value: 0.104
+label: pieces
+value: 0.175
+
+
+name: Niacin
+unit: mg
+value: 7.4
+label: pieces
+value: 4.736
+label: pieces
+value: 7.03
+label: pieces
+value: 11.766
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.88
+label: pieces
+value: 0.563
+label: pieces
+value: 0.836
+label: pieces
+value: 1.399
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.398
+label: pieces
+value: 0.255
+label: pieces
+value: 0.378
+label: pieces
+value: 0.633
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.33
+label: pieces
+value: 0.21
+label: pieces
+value: 0.31
+label: pieces
+value: 0.52
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 3.261
+label: pieces
+value: 2.087
+label: pieces
+value: 3.098
+label: pieces
+value: 5.185
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: pieces
+value: 0.0
+label: pieces
+value: 0.0
+label: pieces
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: pieces
+value: 0.0
+label: pieces
+value: 0.0
+label: pieces
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.008
+label: pieces
+value: 0.005
+label: pieces
+value: 0.008
+label: pieces
+value: 0.013
+
+
+name: 10:0
+unit: g
+value: 0.006
+label: pieces
+value: 0.004
+label: pieces
+value: 0.006
+label: pieces
+value: 0.01
+
+
+name: 12:0
+unit: g
+value: 0.005
+label: pieces
+value: 0.003
+label: pieces
+value: 0.005
+label: pieces
+value: 0.008
+
+
+name: 14:0
+unit: g
+value: 0.035
+label: pieces
+value: 0.022
+label: pieces
+value: 0.033
+label: pieces
+value: 0.056
+
+
+name: 15:0
+unit: g
+value: 0.006
+label: pieces
+value: 0.004
+label: pieces
+value: 0.006
+label: pieces
+value: 0.01
+
+
+name: 16:0
+unit: g
+value: 2.058
+label: pieces
+value: 1.317
+label: pieces
+value: 1.955
+label: pieces
+value: 3.272
+
+
+name: 17:0
+unit: g
+value: 0.015
+label: pieces
+value: 0.01
+label: pieces
+value: 0.014
+label: pieces
+value: 0.024
+
+
+name: 18:0
+unit: g
+value: 0.991
+label: pieces
+value: 0.634
+label: pieces
+value: 0.941
+label: pieces
+value: 1.576
+
+
+name: 20:0
+unit: g
+value: 0.074
+label: pieces
+value: 0.047
+label: pieces
+value: 0.07
+label: pieces
+value: 0.118
+
+
+name: 22:0
+unit: g
+value: 0.039
+label: pieces
+value: 0.025
+label: pieces
+value: 0.037
+label: pieces
+value: 0.062
+
+
+name: 24:0
+unit: g
+value: 0.025
+label: pieces
+value: 0.016
+label: pieces
+value: 0.024
+label: pieces
+value: 0.04
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 8.134
+label: pieces
+value: 5.206
+label: pieces
+value: 7.727
+label: pieces
+value: 12.933
+
+
+name: 14:1
+unit: g
+value: 0.01
+label: pieces
+value: 0.006
+label: pieces
+value: 0.01
+label: pieces
+value: 0.016
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: pieces
+value: 0.0
+label: pieces
+value: 0.0
+label: pieces
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.281
+label: pieces
+value: 0.18
+label: pieces
+value: 0.267
+label: pieces
+value: 0.447
+
+
+name: 16:1 c
+unit: g
+value: 0.279
+label: pieces
+value: 0.179
+label: pieces
+value: 0.265
+label: pieces
+value: 0.444
+
+
+name: 16:1 t
+unit: g
+value: 0.002
+label: pieces
+value: 0.001
+label: pieces
+value: 0.002
+label: pieces
+value: 0.003
+
+
+name: 17:1
+unit: g
+value: 0.01
+label: pieces
+value: 0.006
+label: pieces
+value: 0.01
+label: pieces
+value: 0.016
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 7.675
+label: pieces
+value: 4.912
+label: pieces
+value: 7.291
+label: pieces
+value: 12.203
+
+
+name: 18:1 c
+unit: g
+value: 7.623
+label: pieces
+value: 4.879
+label: pieces
+value: 7.242
+label: pieces
+value: 12.121
+
+
+name: 18:1 t
+unit: g
+value: 0.052
+label: pieces
+value: 0.033
+label: pieces
+value: 0.049
+label: pieces
+value: 0.083
+
+
+name: 20:1
+unit: g
+value: 0.141
+label: pieces
+value: 0.09
+label: pieces
+value: 0.134
+label: pieces
+value: 0.224
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.004
+label: pieces
+value: 0.003
+label: pieces
+value: 0.004
+label: pieces
+value: 0.006
+
+
+name: 22:1 c
+unit: g
+value: 0.004
+label: pieces
+value: 0.003
+label: pieces
+value: 0.004
+label: pieces
+value: 0.006
+
+
+name: 22:1 t
+unit: g
+value: 0.0
+label: pieces
+value: 0.0
+label: pieces
+value: 0.0
+label: pieces
+value: 0.0
+
+
+name: 24:1 c
+unit: g
+value: 0.015
+label: pieces
+value: 0.01
+label: pieces
+value: 0.014
+label: pieces
+value: 0.024
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 5.61
+label: pieces
+value: 3.59
+label: pieces
+value: 5.33
+label: pieces
+value: 8.92
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 5.186
+label: pieces
+value: 3.319
+label: pieces
+value: 4.927
+label: pieces
+value: 8.246
+
+
+name: 18:2 n-6 c,c
+unit: g
+value: 5.105
+label: pieces
+value: 3.267
+label: pieces
+value: 4.85
+label: pieces
+value: 8.117
+
+
+name: 18:2 CLAs
+unit: g
+value: 0.02
+label: pieces
+value: 0.013
+label: pieces
+value: 0.019
+label: pieces
+value: 0.032
+
+
+name: 18:2 t not further defined
+unit: g
+value: 0.061
+label: pieces
+value: 0.039
+label: pieces
+value: 0.058
+label: pieces
+value: 0.097
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.321
+label: pieces
+value: 0.205
+label: pieces
+value: 0.305
+label: pieces
+value: 0.51
+
+
+name: 18:3 n-3 c,c,c (ALA)
+unit: g
+value: 0.296
+label: pieces
+value: 0.189
+label: pieces
+value: 0.281
+label: pieces
+value: 0.471
+
+
+name: 18:3 n-6 c,c,c
+unit: g
+value: 0.025
+label: pieces
+value: 0.016
+label: pieces
+value: 0.024
+label: pieces
+value: 0.04
+
+
+name: 18:4
+unit: g
+value: 0.001
+label: pieces
+value: 0.001
+label: pieces
+value: 0.001
+label: pieces
+value: 0.002
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.014
+label: pieces
+value: 0.009
+label: pieces
+value: 0.013
+label: pieces
+value: 0.022
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.016
+label: pieces
+value: 0.01
+label: pieces
+value: 0.015
+label: pieces
+value: 0.025
+
+
+name: 20:3 n-6
+unit: g
+value: 0.015
+label: pieces
+value: 0.01
+label: pieces
+value: 0.014
+label: pieces
+value: 0.024
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.049
+label: pieces
+value: 0.031
+label: pieces
+value: 0.047
+label: pieces
+value: 0.078
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.001
+label: pieces
+value: 0.001
+label: pieces
+value: 0.001
+label: pieces
+value: 0.002
+
+
+name: 22:4
+unit: g
+value: 0.015
+label: pieces
+value: 0.01
+label: pieces
+value: 0.014
+label: pieces
+value: 0.024
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.004
+label: pieces
+value: 0.003
+label: pieces
+value: 0.004
+label: pieces
+value: 0.006
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.003
+label: pieces
+value: 0.002
+label: pieces
+value: 0.003
+label: pieces
+value: 0.005
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.114
+label: pieces
+value: 0.073
+label: pieces
+value: 0.108
+label: pieces
+value: 0.181
+
+
+name: Fatty acids, total trans-monoenoic
+unit: g
+value: 0.053
+label: pieces
+value: 0.034
+label: pieces
+value: 0.05
+label: pieces
+value: 0.084
+
+
+name: Cholesterol
+unit: mg
+value: 44.0
+label: pieces
+value: 28.0
+label: pieces
+value: 42.0
+label: pieces
+value: 70.0
+
+

@@ -1,0 +1,539 @@
+ndbno: 12169
+
+
+name: Seeds, sesame butter, paste
+
+
+name: Water
+unit: g
+value: 1.6
+label: tbsp
+value: 0.26
+
+
+name: Energy
+unit: kcal
+value: 586.0
+label: tbsp
+value: 94.0
+
+
+name: Energy
+unit: kJ
+value: 2454.0
+label: tbsp
+value: 393.0
+
+
+name: Protein
+unit: g
+value: 18.08
+label: tbsp
+value: 2.89
+
+
+name: Total lipid (fat)
+unit: g
+value: 50.87
+label: tbsp
+value: 8.14
+
+
+name: Ash
+unit: g
+value: 5.4
+label: tbsp
+value: 0.86
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 24.05
+label: tbsp
+value: 3.85
+
+
+name: Fiber, total dietary
+unit: g
+value: 5.5
+label: tbsp
+value: 0.9
+
+
+name: Calcium, Ca
+unit: mg
+value: 960.0
+label: tbsp
+value: 154.0
+
+
+name: Iron, Fe
+unit: mg
+value: 19.2
+label: tbsp
+value: 3.07
+
+
+name: Magnesium, Mg
+unit: mg
+value: 362.0
+label: tbsp
+value: 58.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 659.0
+label: tbsp
+value: 105.0
+
+
+name: Potassium, K
+unit: mg
+value: 582.0
+label: tbsp
+value: 93.0
+
+
+name: Sodium, Na
+unit: mg
+value: 12.0
+label: tbsp
+value: 2.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 7.29
+label: tbsp
+value: 1.17
+
+
+name: Copper, Cu
+unit: mg
+value: 4.214
+label: tbsp
+value: 0.674
+
+
+name: Manganese, Mn
+unit: mg
+value: 2.54
+label: tbsp
+value: 0.406
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 35.5
+label: tbsp
+value: 5.7
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.24
+label: tbsp
+value: 0.038
+
+
+name: Riboflavin
+unit: mg
+value: 0.2
+label: tbsp
+value: 0.032
+
+
+name: Niacin
+unit: mg
+value: 6.7
+label: tbsp
+value: 1.072
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.052
+label: tbsp
+value: 0.008
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.816
+label: tbsp
+value: 0.131
+
+
+name: Folate, total
+unit: \u00B5g
+value: 100.0
+label: tbsp
+value: 16.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 100.0
+label: tbsp
+value: 16.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 100.0
+label: tbsp
+value: 16.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 3.0
+label: tbsp
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 50.0
+label: tbsp
+value: 8.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 7.124
+label: tbsp
+value: 1.14
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.127
+label: tbsp
+value: 0.02
+
+
+name: 16:0
+unit: g
+value: 4.548
+label: tbsp
+value: 0.728
+
+
+name: 18:0
+unit: g
+value: 2.14
+label: tbsp
+value: 0.342
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 19.209
+label: tbsp
+value: 3.073
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.153
+label: tbsp
+value: 0.024
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 18.966
+label: tbsp
+value: 3.035
+
+
+name: 20:1
+unit: g
+value: 0.071
+label: tbsp
+value: 0.011
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 22.296
+label: tbsp
+value: 3.567
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 21.888
+label: tbsp
+value: 3.502
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.385
+label: tbsp
+value: 0.062
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+name: Tryptophan
+unit: g
+value: 0.396
+label: tbsp
+value: 0.063
+
+
+name: Threonine
+unit: g
+value: 0.751
+label: tbsp
+value: 0.12
+
+
+name: Isoleucine
+unit: g
+value: 0.778
+label: tbsp
+value: 0.124
+
+
+name: Leucine
+unit: g
+value: 1.385
+label: tbsp
+value: 0.222
+
+
+name: Lysine
+unit: g
+value: 0.58
+label: tbsp
+value: 0.093
+
+
+name: Methionine
+unit: g
+value: 0.597
+label: tbsp
+value: 0.096
+
+
+name: Cystine
+unit: g
+value: 0.365
+label: tbsp
+value: 0.058
+
+
+name: Phenylalanine
+unit: g
+value: 0.959
+label: tbsp
+value: 0.153
+
+
+name: Tyrosine
+unit: g
+value: 0.757
+label: tbsp
+value: 0.121
+
+
+name: Valine
+unit: g
+value: 1.01
+label: tbsp
+value: 0.162
+
+
+name: Arginine
+unit: g
+value: 2.682
+label: tbsp
+value: 0.429
+
+
+name: Histidine
+unit: g
+value: 0.532
+label: tbsp
+value: 0.085
+
+
+name: Alanine
+unit: g
+value: 0.945
+label: tbsp
+value: 0.151
+
+
+name: Aspartic acid
+unit: g
+value: 1.679
+label: tbsp
+value: 0.269
+
+
+name: Glutamic acid
+unit: g
+value: 4.033
+label: tbsp
+value: 0.645
+
+
+name: Glycine
+unit: g
+value: 1.239
+label: tbsp
+value: 0.198
+
+
+name: Proline
+unit: g
+value: 0.826
+label: tbsp
+value: 0.132
+
+
+name: Serine
+unit: g
+value: 0.986
+label: tbsp
+value: 0.158
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: tbsp
+value: 0.0
+
+
+

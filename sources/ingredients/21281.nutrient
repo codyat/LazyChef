@@ -1,0 +1,942 @@
+ndbno: 21281
+
+
+name: DOMINO'S 14\ Pepperoni Pizza, Ultimate Deep Dish Crust
+
+
+name: Water
+unit: g
+value: 41.9
+label: slice
+value: 51.54
+label: pizza
+value: 412.3
+
+
+name: Energy
+unit: kcal
+value: 283.0
+label: slice
+value: 348.0
+label: pizza
+value: 2785.0
+
+
+name: Energy
+unit: kJ
+value: 1182.0
+label: slice
+value: 1454.0
+label: pizza
+value: 11631.0
+
+
+name: Protein
+unit: g
+value: 11.52
+label: slice
+value: 14.17
+label: pizza
+value: 113.36
+
+
+name: Total lipid (fat)
+unit: g
+value: 12.1
+label: slice
+value: 14.88
+label: pizza
+value: 119.06
+
+
+name: Ash
+unit: g
+value: 2.6
+label: slice
+value: 3.2
+label: pizza
+value: 25.58
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 31.89
+label: slice
+value: 39.22
+label: pizza
+value: 313.8
+
+
+name: Fiber, total dietary
+unit: g
+value: 2.4
+label: slice
+value: 3.0
+label: pizza
+value: 23.6
+
+
+name: Sugars, total
+unit: g
+value: 3.91
+label: slice
+value: 4.81
+label: pizza
+value: 38.47
+
+
+name: Sucrose
+unit: g
+value: 0.33
+label: slice
+value: 0.41
+label: pizza
+value: 3.25
+
+
+name: Glucose (dextrose)
+unit: g
+value: 0.6
+label: slice
+value: 0.74
+label: pizza
+value: 5.9
+
+
+name: Fructose
+unit: g
+value: 0.93
+label: slice
+value: 1.14
+label: pizza
+value: 9.15
+
+
+name: Lactose
+unit: g
+value: 0.67
+label: slice
+value: 0.82
+label: pizza
+value: 6.59
+
+
+name: Maltose
+unit: g
+value: 1.3
+label: slice
+value: 1.6
+label: pizza
+value: 12.79
+
+
+name: Galactose
+unit: g
+value: 0.07
+label: slice
+value: 0.09
+label: pizza
+value: 0.69
+
+
+name: Starch
+unit: g
+value: 22.97
+label: slice
+value: 28.25
+label: pizza
+value: 226.02
+
+
+name: Calcium, Ca
+unit: mg
+value: 149.0
+label: slice
+value: 183.0
+label: pizza
+value: 1466.0
+
+
+name: Iron, Fe
+unit: mg
+value: 2.54
+label: slice
+value: 3.12
+label: pizza
+value: 24.99
+
+
+name: Magnesium, Mg
+unit: mg
+value: 24.0
+label: slice
+value: 30.0
+label: pizza
+value: 236.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 197.0
+label: slice
+value: 242.0
+label: pizza
+value: 1938.0
+
+
+name: Potassium, K
+unit: mg
+value: 190.0
+label: slice
+value: 234.0
+label: pizza
+value: 1870.0
+
+
+name: Sodium, Na
+unit: mg
+value: 693.0
+label: slice
+value: 852.0
+label: pizza
+value: 6819.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 1.33
+label: slice
+value: 1.64
+label: pizza
+value: 13.09
+
+
+name: Copper, Cu
+unit: mg
+value: 0.114
+label: slice
+value: 0.14
+label: pizza
+value: 1.122
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.298
+label: slice
+value: 0.367
+label: pizza
+value: 2.932
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 24.5
+label: slice
+value: 30.1
+label: pizza
+value: 241.1
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.4
+label: slice
+value: 0.5
+label: pizza
+value: 3.9
+
+
+name: Thiamin
+unit: mg
+value: 0.36
+label: slice
+value: 0.443
+label: pizza
+value: 3.542
+
+
+name: Riboflavin
+unit: mg
+value: 0.19
+label: slice
+value: 0.234
+label: pizza
+value: 1.87
+
+
+name: Niacin
+unit: mg
+value: 3.25
+label: slice
+value: 3.998
+label: pizza
+value: 31.98
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.07
+label: slice
+value: 0.086
+label: pizza
+value: 0.689
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.52
+label: slice
+value: 0.64
+label: pizza
+value: 5.12
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.88
+label: slice
+value: 1.08
+label: pizza
+value: 8.66
+
+
+name: Tocopherol, beta
+unit: mg
+value: 0.06
+label: slice
+value: 0.07
+label: pizza
+value: 0.59
+
+
+name: Tocopherol, gamma
+unit: mg
+value: 2.13
+label: slice
+value: 2.62
+label: pizza
+value: 20.96
+
+
+name: Tocopherol, delta
+unit: mg
+value: 0.67
+label: slice
+value: 0.82
+label: pizza
+value: 6.59
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 5.9
+label: slice
+value: 7.3
+label: pizza
+value: 58.1
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 4.856
+label: slice
+value: 5.973
+label: pizza
+value: 47.783
+
+
+name: 4:0
+unit: g
+value: 0.086
+label: slice
+value: 0.106
+label: pizza
+value: 0.846
+
+
+name: 6:0
+unit: g
+value: 0.067
+label: slice
+value: 0.082
+label: pizza
+value: 0.659
+
+
+name: 8:0
+unit: g
+value: 0.046
+label: slice
+value: 0.057
+label: pizza
+value: 0.453
+
+
+name: 10:0
+unit: g
+value: 0.118
+label: slice
+value: 0.145
+label: pizza
+value: 1.161
+
+
+name: 12:0
+unit: g
+value: 0.145
+label: slice
+value: 0.178
+label: pizza
+value: 1.427
+
+
+name: 14:0
+unit: g
+value: 0.559
+label: slice
+value: 0.688
+label: pizza
+value: 5.501
+
+
+name: 15:0
+unit: g
+value: 0.061
+label: slice
+value: 0.075
+label: pizza
+value: 0.6
+
+
+name: 16:0
+unit: g
+value: 2.513
+label: slice
+value: 3.091
+label: pizza
+value: 24.728
+
+
+name: 17:0
+unit: g
+value: 0.064
+label: slice
+value: 0.079
+label: pizza
+value: 0.63
+
+
+name: 18:0
+unit: g
+value: 1.146
+label: slice
+value: 1.41
+label: pizza
+value: 11.277
+
+
+name: 20:0
+unit: g
+value: 0.024
+label: slice
+value: 0.03
+label: pizza
+value: 0.236
+
+
+name: 22:0
+unit: g
+value: 0.017
+label: slice
+value: 0.021
+label: pizza
+value: 0.167
+
+
+name: 24:0
+unit: g
+value: 0.008
+label: slice
+value: 0.01
+label: pizza
+value: 0.079
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 3.618
+label: slice
+value: 4.45
+label: pizza
+value: 35.601
+
+
+name: 14:1
+unit: g
+value: 0.05
+label: slice
+value: 0.062
+label: pizza
+value: 0.492
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: slice
+value: 0.0
+label: pizza
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.181
+label: slice
+value: 0.223
+label: pizza
+value: 1.781
+
+
+name: 16:1 c
+unit: g
+value: 0.158
+label: slice
+value: 0.194
+label: pizza
+value: 1.555
+
+
+name: 16:1 t
+unit: g
+value: 0.023
+label: slice
+value: 0.028
+label: pizza
+value: 0.226
+
+
+name: 17:1
+unit: g
+value: 0.031
+label: slice
+value: 0.038
+label: pizza
+value: 0.305
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 3.291
+label: slice
+value: 4.048
+label: pizza
+value: 32.383
+
+
+name: 18:1 c
+unit: g
+value: 3.021
+label: slice
+value: 3.716
+label: pizza
+value: 29.727
+
+
+name: 18:1 t
+unit: g
+value: 0.269
+label: slice
+value: 0.331
+label: pizza
+value: 2.647
+
+
+name: 20:1
+unit: g
+value: 0.055
+label: slice
+value: 0.068
+label: pizza
+value: 0.541
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.007
+label: slice
+value: 0.009
+label: pizza
+value: 0.069
+
+
+name: 22:1 c
+unit: g
+value: 0.007
+label: slice
+value: 0.009
+label: pizza
+value: 0.069
+
+
+name: 22:1 t
+unit: g
+value: 0.0
+label: slice
+value: 0.0
+label: pizza
+value: 0.0
+
+
+name: 24:1 c
+unit: g
+value: 0.003
+label: slice
+value: 0.004
+label: pizza
+value: 0.03
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 2.55
+label: slice
+value: 3.136
+label: pizza
+value: 25.092
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 2.226
+label: slice
+value: 2.738
+label: pizza
+value: 21.904
+
+
+name: 18:2 n-6 c,c
+unit: g
+value: 2.115
+label: slice
+value: 2.601
+label: pizza
+value: 20.812
+
+
+name: 18:2 CLAs
+unit: g
+value: 0.045
+label: slice
+value: 0.055
+label: pizza
+value: 0.443
+
+
+name: 18:2 t not further defined
+unit: g
+value: 0.066
+label: slice
+value: 0.081
+label: pizza
+value: 0.649
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.255
+label: slice
+value: 0.314
+label: pizza
+value: 2.509
+
+
+name: 18:3 n-3 c,c,c (ALA)
+unit: g
+value: 0.252
+label: slice
+value: 0.31
+label: pizza
+value: 2.48
+
+
+name: 18:3 n-6 c,c,c
+unit: g
+value: 0.003
+label: slice
+value: 0.004
+label: pizza
+value: 0.03
+
+
+name: 18:4
+unit: g
+value: 0.002
+label: slice
+value: 0.002
+label: pizza
+value: 0.02
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.016
+label: slice
+value: 0.02
+label: pizza
+value: 0.157
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.013
+label: slice
+value: 0.016
+label: pizza
+value: 0.128
+
+
+name: 20:3 n-6
+unit: g
+value: 0.011
+label: slice
+value: 0.014
+label: pizza
+value: 0.108
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.02
+label: slice
+value: 0.025
+label: pizza
+value: 0.197
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.003
+label: slice
+value: 0.004
+label: pizza
+value: 0.03
+
+
+name: 22:4
+unit: g
+value: 0.008
+label: slice
+value: 0.01
+label: pizza
+value: 0.079
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.005
+label: slice
+value: 0.006
+label: pizza
+value: 0.049
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: slice
+value: 0.0
+label: pizza
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.358
+label: slice
+value: 0.44
+label: pizza
+value: 3.523
+
+
+name: Fatty acids, total trans-monoenoic
+unit: g
+value: 0.292
+label: slice
+value: 0.359
+label: pizza
+value: 2.873
+
+
+name: Cholesterol
+unit: mg
+value: 24.0
+label: slice
+value: 30.0
+label: pizza
+value: 236.0
+
+
+name: Tryptophan
+unit: g
+value: 0.113
+label: slice
+value: 0.139
+label: pizza
+value: 1.112
+
+
+name: Threonine
+unit: g
+value: 0.359
+label: slice
+value: 0.442
+label: pizza
+value: 3.533
+
+
+name: Isoleucine
+unit: g
+value: 0.465
+label: slice
+value: 0.572
+label: pizza
+value: 4.576
+
+
+name: Leucine
+unit: g
+value: 0.958
+label: slice
+value: 1.178
+label: pizza
+value: 9.427
+
+
+name: Lysine
+unit: g
+value: 0.657
+label: slice
+value: 0.808
+label: pizza
+value: 6.465
+
+
+name: Methionine
+unit: g
+value: 0.246
+label: slice
+value: 0.303
+label: pizza
+value: 2.421
+
+
+name: Cystine
+unit: g
+value: 0.186
+label: slice
+value: 0.229
+label: pizza
+value: 1.83
+
+
+name: Phenylalanine
+unit: g
+value: 0.599
+label: slice
+value: 0.737
+label: pizza
+value: 5.894
+
+
+name: Tyrosine
+unit: g
+value: 0.365
+label: slice
+value: 0.449
+label: pizza
+value: 3.592
+
+
+name: Valine
+unit: g
+value: 0.586
+label: slice
+value: 0.721
+label: pizza
+value: 5.766
+
+
+name: Arginine
+unit: g
+value: 0.478
+label: slice
+value: 0.588
+label: pizza
+value: 4.704
+
+
+name: Histidine
+unit: g
+value: 0.301
+label: slice
+value: 0.37
+label: pizza
+value: 2.962
+
+
+name: Alanine
+unit: g
+value: 0.398
+label: slice
+value: 0.49
+label: pizza
+value: 3.916
+
+
+name: Aspartic acid
+unit: g
+value: 0.792
+label: slice
+value: 0.974
+label: pizza
+value: 7.793
+
+
+name: Glutamic acid
+unit: g
+value: 3.417
+label: slice
+value: 4.203
+label: pizza
+value: 33.623
+
+
+name: Glycine
+unit: g
+value: 0.402
+label: slice
+value: 0.494
+label: pizza
+value: 3.956
+
+
+name: Proline
+unit: g
+value: 1.57
+label: slice
+value: 1.931
+label: pizza
+value: 15.449
+
+
+name: Serine
+unit: g
+value: 0.683
+label: slice
+value: 0.84
+label: pizza
+value: 6.721
+
+

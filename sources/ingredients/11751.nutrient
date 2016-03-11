@@ -1,0 +1,960 @@
+ndbno: 11751
+
+
+name: Cabbage, common, cooked, boiled, drained, with salt
+
+
+name: Water
+unit: g
+value: 92.57
+label: cup, shredded
+value: 69.43
+label: head
+value: 1168.23
+
+
+name: Energy
+unit: kcal
+value: 23.0
+label: cup, shredded
+value: 17.0
+label: head
+value: 290.0
+
+
+name: Energy
+unit: kJ
+value: 97.0
+label: cup, shredded
+value: 73.0
+label: head
+value: 1224.0
+
+
+name: Protein
+unit: g
+value: 1.27
+label: cup, shredded
+value: 0.95
+label: head
+value: 16.03
+
+
+name: Total lipid (fat)
+unit: g
+value: 0.06
+label: cup, shredded
+value: 0.04
+label: head
+value: 0.76
+
+
+name: Ash
+unit: g
+value: 0.59
+label: cup, shredded
+value: 0.44
+label: head
+value: 7.45
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 5.51
+label: cup, shredded
+value: 4.13
+label: head
+value: 69.54
+
+
+name: Fiber, total dietary
+unit: g
+value: 1.9
+label: cup, shredded
+value: 1.4
+label: head
+value: 24.0
+
+
+name: Sugars, total
+unit: g
+value: 2.79
+label: cup, shredded
+value: 2.09
+label: head
+value: 35.21
+
+
+name: Sucrose
+unit: g
+value: 0.0
+label: cup, shredded
+value: 0.0
+label: head
+value: 0.0
+
+
+name: Glucose (dextrose)
+unit: g
+value: 1.62
+label: cup, shredded
+value: 1.22
+label: head
+value: 20.44
+
+
+name: Fructose
+unit: g
+value: 1.16
+label: cup, shredded
+value: 0.87
+label: head
+value: 14.64
+
+
+name: Lactose
+unit: g
+value: 0.0
+label: cup, shredded
+value: 0.0
+label: head
+value: 0.0
+
+
+name: Maltose
+unit: g
+value: 0.0
+label: cup, shredded
+value: 0.0
+label: head
+value: 0.0
+
+
+name: Galactose
+unit: g
+value: 0.0
+label: cup, shredded
+value: 0.0
+label: head
+value: 0.0
+
+
+name: Starch
+unit: g
+value: 0.0
+label: cup, shredded
+value: 0.0
+label: head
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 48.0
+label: cup, shredded
+value: 36.0
+label: head
+value: 606.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.17
+label: cup, shredded
+value: 0.13
+label: head
+value: 2.15
+
+
+name: Magnesium, Mg
+unit: mg
+value: 15.0
+label: cup, shredded
+value: 11.0
+label: head
+value: 189.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 33.0
+label: cup, shredded
+value: 25.0
+label: head
+value: 416.0
+
+
+name: Potassium, K
+unit: mg
+value: 196.0
+label: cup, shredded
+value: 147.0
+label: head
+value: 2474.0
+
+
+name: Sodium, Na
+unit: mg
+value: 255.0
+label: cup, shredded
+value: 191.0
+label: head
+value: 3218.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.2
+label: cup, shredded
+value: 0.15
+label: head
+value: 2.52
+
+
+name: Copper, Cu
+unit: mg
+value: 0.017
+label: cup, shredded
+value: 0.013
+label: head
+value: 0.215
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.205
+label: cup, shredded
+value: 0.154
+label: head
+value: 2.587
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 0.6
+label: cup, shredded
+value: 0.4
+label: head
+value: 7.6
+
+
+name: Fluoride, F
+unit: \u00B5g
+value: 1.0
+label: cup, shredded
+value: 0.8
+label: head
+value: 12.6
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 37.5
+label: cup, shredded
+value: 28.1
+label: head
+value: 473.2
+
+
+name: Thiamin
+unit: mg
+value: 0.061
+label: cup, shredded
+value: 0.046
+label: head
+value: 0.77
+
+
+name: Riboflavin
+unit: mg
+value: 0.038
+label: cup, shredded
+value: 0.028
+label: head
+value: 0.48
+
+
+name: Niacin
+unit: mg
+value: 0.248
+label: cup, shredded
+value: 0.186
+label: head
+value: 3.13
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.174
+label: cup, shredded
+value: 0.13
+label: head
+value: 2.196
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.112
+label: cup, shredded
+value: 0.084
+label: head
+value: 1.413
+
+
+name: Folate, total
+unit: \u00B5g
+value: 30.0
+label: cup, shredded
+value: 22.0
+label: head
+value: 379.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: cup, shredded
+value: 0.0
+label: head
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 30.0
+label: cup, shredded
+value: 22.0
+label: head
+value: 379.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 30.0
+label: cup, shredded
+value: 22.0
+label: head
+value: 379.0
+
+
+name: Choline, total
+unit: mg
+value: 20.3
+label: cup, shredded
+value: 15.2
+label: head
+value: 256.2
+
+
+name: Betaine
+unit: mg
+value: 0.3
+label: cup, shredded
+value: 0.2
+label: head
+value: 3.8
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: cup, shredded
+value: 0.0
+label: head
+value: 0.0
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: cup, shredded
+value: 0.0
+label: head
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 4.0
+label: cup, shredded
+value: 3.0
+label: head
+value: 50.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: cup, shredded
+value: 0.0
+label: head
+value: 0.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 48.0
+label: cup, shredded
+value: 36.0
+label: head
+value: 606.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 0.0
+label: cup, shredded
+value: 0.0
+label: head
+value: 0.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 0.0
+label: cup, shredded
+value: 0.0
+label: head
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 80.0
+label: cup, shredded
+value: 60.0
+label: head
+value: 1010.0
+
+
+name: Lycopene
+unit: \u00B5g
+value: 0.0
+label: cup, shredded
+value: 0.0
+label: head
+value: 0.0
+
+
+name: Lutein + zeaxanthin
+unit: \u00B5g
+value: 27.0
+label: cup, shredded
+value: 20.0
+label: head
+value: 341.0
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.14
+label: cup, shredded
+value: 0.11
+label: head
+value: 1.77
+
+
+name: Vitamin E, added
+unit: mg
+value: 0.0
+label: cup, shredded
+value: 0.0
+label: head
+value: 0.0
+
+
+name: Vitamin D (D2 + D3)
+unit: \u00B5g
+value: 0.0
+label: cup, shredded
+value: 0.0
+label: head
+value: 0.0
+
+
+name: Vitamin D
+unit: IU
+value: 0.0
+label: cup, shredded
+value: 0.0
+label: head
+value: 0.0
+
+
+name: Vitamin K (phylloquinone)
+unit: \u00B5g
+value: 108.7
+label: cup, shredded
+value: 81.5
+label: head
+value: 1371.8
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.0
+label: cup, shredded
+value: 0.0
+label: head
+value: 0.0
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: cup, shredded
+value: 0.0
+label: head
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: cup, shredded
+value: 0.0
+label: head
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: cup, shredded
+value: 0.0
+label: head
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: cup, shredded
+value: 0.0
+label: head
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.0
+label: cup, shredded
+value: 0.0
+label: head
+value: 0.0
+
+
+name: 15:0
+unit: g
+value: 0.0
+label: cup, shredded
+value: 0.0
+label: head
+value: 0.0
+
+
+name: 16:0
+unit: g
+value: 0.0
+label: cup, shredded
+value: 0.0
+label: head
+value: 0.0
+
+
+name: 17:0
+unit: g
+value: 0.0
+label: cup, shredded
+value: 0.0
+label: head
+value: 0.0
+
+
+name: 18:0
+unit: g
+value: 0.0
+label: cup, shredded
+value: 0.0
+label: head
+value: 0.0
+
+
+name: 20:0
+unit: g
+value: 0.0
+label: cup, shredded
+value: 0.0
+label: head
+value: 0.0
+
+
+name: 22:0
+unit: g
+value: 0.0
+label: cup, shredded
+value: 0.0
+label: head
+value: 0.0
+
+
+name: 24:0
+unit: g
+value: 0.0
+label: cup, shredded
+value: 0.0
+label: head
+value: 0.0
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.019
+label: cup, shredded
+value: 0.014
+label: head
+value: 0.24
+
+
+name: 14:1
+unit: g
+value: 0.0
+label: cup, shredded
+value: 0.0
+label: head
+value: 0.0
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: cup, shredded
+value: 0.0
+label: head
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.009
+label: cup, shredded
+value: 0.007
+label: head
+value: 0.114
+
+
+name: 17:1
+unit: g
+value: 0.0
+label: cup, shredded
+value: 0.0
+label: head
+value: 0.0
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.009
+label: cup, shredded
+value: 0.007
+label: head
+value: 0.114
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: cup, shredded
+value: 0.0
+label: head
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: cup, shredded
+value: 0.0
+label: head
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.023
+label: cup, shredded
+value: 0.017
+label: head
+value: 0.29
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.009
+label: cup, shredded
+value: 0.007
+label: head
+value: 0.114
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.014
+label: cup, shredded
+value: 0.01
+label: head
+value: 0.177
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: cup, shredded
+value: 0.0
+label: head
+value: 0.0
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.0
+label: cup, shredded
+value: 0.0
+label: head
+value: 0.0
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.0
+label: cup, shredded
+value: 0.0
+label: head
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: cup, shredded
+value: 0.0
+label: head
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: cup, shredded
+value: 0.0
+label: head
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: cup, shredded
+value: 0.0
+label: head
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: cup, shredded
+value: 0.0
+label: head
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.0
+label: cup, shredded
+value: 0.0
+label: head
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: cup, shredded
+value: 0.0
+label: head
+value: 0.0
+
+
+name: Phytosterols
+unit: mg
+value: 10.0
+label: cup, shredded
+value: 8.0
+label: head
+value: 126.0
+
+
+name: Tryptophan
+unit: g
+value: 0.011
+label: cup, shredded
+value: 0.008
+label: head
+value: 0.139
+
+
+name: Threonine
+unit: g
+value: 0.035
+label: cup, shredded
+value: 0.026
+label: head
+value: 0.442
+
+
+name: Isoleucine
+unit: g
+value: 0.03
+label: cup, shredded
+value: 0.022
+label: head
+value: 0.379
+
+
+name: Leucine
+unit: g
+value: 0.041
+label: cup, shredded
+value: 0.031
+label: head
+value: 0.517
+
+
+name: Lysine
+unit: g
+value: 0.043
+label: cup, shredded
+value: 0.032
+label: head
+value: 0.543
+
+
+name: Methionine
+unit: g
+value: 0.012
+label: cup, shredded
+value: 0.009
+label: head
+value: 0.151
+
+
+name: Cystine
+unit: g
+value: 0.011
+label: cup, shredded
+value: 0.008
+label: head
+value: 0.139
+
+
+name: Phenylalanine
+unit: g
+value: 0.032
+label: cup, shredded
+value: 0.024
+label: head
+value: 0.404
+
+
+name: Tyrosine
+unit: g
+value: 0.019
+label: cup, shredded
+value: 0.014
+label: head
+value: 0.24
+
+
+name: Valine
+unit: g
+value: 0.042
+label: cup, shredded
+value: 0.032
+label: head
+value: 0.53
+
+
+name: Arginine
+unit: g
+value: 0.074
+label: cup, shredded
+value: 0.056
+label: head
+value: 0.934
+
+
+name: Histidine
+unit: g
+value: 0.022
+label: cup, shredded
+value: 0.016
+label: head
+value: 0.278
+
+
+name: Alanine
+unit: g
+value: 0.042
+label: cup, shredded
+value: 0.032
+label: head
+value: 0.53
+
+
+name: Aspartic acid
+unit: g
+value: 0.121
+label: cup, shredded
+value: 0.091
+label: head
+value: 1.527
+
+
+name: Glutamic acid
+unit: g
+value: 0.292
+label: cup, shredded
+value: 0.219
+label: head
+value: 3.685
+
+
+name: Glycine
+unit: g
+value: 0.03
+label: cup, shredded
+value: 0.022
+label: head
+value: 0.379
+
+
+name: Proline
+unit: g
+value: 0.048
+label: cup, shredded
+value: 0.036
+label: head
+value: 0.606
+
+
+name: Serine
+unit: g
+value: 0.052
+label: cup, shredded
+value: 0.039
+label: head
+value: 0.656
+
+

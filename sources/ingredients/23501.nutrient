@@ -1,0 +1,433 @@
+ndbno: 23501
+
+
+name: USDA Commodity, beef patties with VPP, frozen, cooked
+
+
+name: Water
+unit: g
+value: 58.54
+label: patty
+value: 39.81
+
+
+name: Energy
+unit: kcal
+value: 247.0
+label: patty
+value: 168.0
+
+
+name: Energy
+unit: kJ
+value: 1033.0
+label: patty
+value: 702.0
+
+
+name: Protein
+unit: g
+value: 15.64
+label: patty
+value: 10.64
+
+
+name: Total lipid (fat)
+unit: g
+value: 16.94
+label: patty
+value: 11.52
+
+
+name: Ash
+unit: g
+value: 0.99
+label: patty
+value: 0.67
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 7.89
+label: patty
+value: 5.37
+
+
+name: Fiber, total dietary
+unit: g
+value: 1.4
+label: patty
+value: 1.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 39.0
+label: patty
+value: 27.0
+
+
+name: Iron, Fe
+unit: mg
+value: 3.64
+label: patty
+value: 2.48
+
+
+name: Magnesium, Mg
+unit: mg
+value: 49.0
+label: patty
+value: 33.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 235.0
+label: patty
+value: 160.0
+
+
+name: Potassium, K
+unit: mg
+value: 325.0
+label: patty
+value: 221.0
+
+
+name: Sodium, Na
+unit: mg
+value: 66.0
+label: patty
+value: 45.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 8.32
+label: patty
+value: 5.66
+
+
+name: Copper, Cu
+unit: mg
+value: 0.251
+label: patty
+value: 0.171
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.35
+label: patty
+value: 0.238
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 14.6
+label: patty
+value: 9.9
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: patty
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.253
+label: patty
+value: 0.172
+
+
+name: Riboflavin
+unit: mg
+value: 0.209
+label: patty
+value: 0.142
+
+
+name: Niacin
+unit: mg
+value: 3.853
+label: patty
+value: 2.62
+
+
+name: Pantothenic acid
+unit: mg
+value: 1.165
+label: patty
+value: 0.792
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.264
+label: patty
+value: 0.18
+
+
+name: Folate, total
+unit: \u00B5g
+value: 17.0
+label: patty
+value: 12.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: patty
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 17.0
+label: patty
+value: 12.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 17.0
+label: patty
+value: 12.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 2.87
+label: patty
+value: 1.95
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 16.0
+label: patty
+value: 11.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 14.0
+label: patty
+value: 10.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 26.0
+label: patty
+value: 18.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 89.0
+label: patty
+value: 61.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 6.253
+label: patty
+value: 4.252
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: patty
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: patty
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.003
+label: patty
+value: 0.002
+
+
+name: 10:0
+unit: g
+value: 0.013
+label: patty
+value: 0.009
+
+
+name: 12:0
+unit: g
+value: 0.014
+label: patty
+value: 0.01
+
+
+name: 14:0
+unit: g
+value: 0.407
+label: patty
+value: 0.277
+
+
+name: 16:0
+unit: g
+value: 3.488
+label: patty
+value: 2.372
+
+
+name: 18:0
+unit: g
+value: 1.782
+label: patty
+value: 1.212
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 7.709
+label: patty
+value: 5.242
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.817
+label: patty
+value: 0.556
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 6.672
+label: patty
+value: 4.537
+
+
+name: 20:1
+unit: g
+value: 0.044
+label: patty
+value: 0.03
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.002
+label: patty
+value: 0.001
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.626
+label: patty
+value: 0.426
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.468
+label: patty
+value: 0.318
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.087
+label: patty
+value: 0.059
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: patty
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.039
+label: patty
+value: 0.027
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.004
+label: patty
+value: 0.003
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: patty
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: patty
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 38.0
+label: patty
+value: 26.0
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: patty
+value: 0.0
+
+
+name: Daidzein
+unit: mg
+value: 0.67
+label: patty
+value: 0.46
+
+
+name: Genistein
+unit: mg
+value: 1.09
+label: patty
+value: 0.74
+
+
+name: Glycitein
+unit: mg
+value: 0.1
+label: patty
+value: 0.07
+
+
+name: Total isoflavones
+unit: mg
+value: 1.86
+label: patty
+value: 1.26
+
+

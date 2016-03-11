@@ -1,0 +1,753 @@
+ndbno: 16171
+
+
+name: Refried beans, canned, vegetarian
+
+
+name: Water
+unit: g
+value: 78.39
+label: cup
+value: 189.7
+label: can
+value: 348.05
+
+
+name: Energy
+unit: kcal
+value: 83.0
+label: cup
+value: 201.0
+label: can
+value: 369.0
+
+
+name: Energy
+unit: kJ
+value: 347.0
+label: cup
+value: 840.0
+label: can
+value: 1541.0
+
+
+name: Protein
+unit: g
+value: 5.28
+label: cup
+value: 12.78
+label: can
+value: 23.44
+
+
+name: Total lipid (fat)
+unit: g
+value: 0.87
+label: cup
+value: 2.11
+label: can
+value: 3.86
+
+
+name: Ash
+unit: g
+value: 1.95
+label: cup
+value: 4.72
+label: can
+value: 8.66
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 13.5
+label: cup
+value: 32.67
+label: can
+value: 59.94
+
+
+name: Fiber, total dietary
+unit: g
+value: 4.7
+label: cup
+value: 11.4
+label: can
+value: 20.9
+
+
+name: Sugars, total
+unit: g
+value: 0.59
+label: cup
+value: 1.43
+label: can
+value: 2.62
+
+
+name: Sucrose
+unit: g
+value: 0.59
+label: cup
+value: 1.43
+label: can
+value: 2.62
+
+
+name: Glucose (dextrose)
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can
+value: 0.0
+
+
+name: Fructose
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can
+value: 0.0
+
+
+name: Lactose
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can
+value: 0.0
+
+
+name: Maltose
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can
+value: 0.0
+
+
+name: Galactose
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can
+value: 0.0
+
+
+name: Starch
+unit: g
+value: 8.65
+label: cup
+value: 20.93
+label: can
+value: 38.41
+
+
+name: Calcium, Ca
+unit: mg
+value: 35.0
+label: cup
+value: 85.0
+label: can
+value: 155.0
+
+
+name: Iron, Fe
+unit: mg
+value: 1.7
+label: cup
+value: 4.11
+label: can
+value: 7.55
+
+
+name: Magnesium, Mg
+unit: mg
+value: 38.0
+label: cup
+value: 92.0
+label: can
+value: 169.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 114.0
+label: cup
+value: 276.0
+label: can
+value: 506.0
+
+
+name: Potassium, K
+unit: mg
+value: 344.0
+label: cup
+value: 832.0
+label: can
+value: 1527.0
+
+
+name: Sodium, Na
+unit: mg
+value: 430.0
+label: cup
+value: 1041.0
+label: can
+value: 1909.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.74
+label: cup
+value: 1.79
+label: can
+value: 3.29
+
+
+name: Copper, Cu
+unit: mg
+value: 0.171
+label: cup
+value: 0.414
+label: can
+value: 0.759
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.332
+label: cup
+value: 0.803
+label: can
+value: 1.474
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 5.6
+label: cup
+value: 13.6
+label: can
+value: 24.9
+
+
+name: Thiamin
+unit: mg
+value: 0.04
+label: cup
+value: 0.097
+label: can
+value: 0.178
+
+
+name: Riboflavin
+unit: mg
+value: 0.015
+label: cup
+value: 0.036
+label: can
+value: 0.067
+
+
+name: Niacin
+unit: mg
+value: 0.37
+label: cup
+value: 0.895
+label: can
+value: 1.643
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.175
+label: cup
+value: 0.423
+label: can
+value: 0.777
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.107
+label: cup
+value: 0.259
+label: can
+value: 0.475
+
+
+name: Vitamin E (alpha-tocopherol)
+unit: mg
+value: 0.09
+label: cup
+value: 0.22
+label: can
+value: 0.4
+
+
+name: Tocopherol, beta
+unit: mg
+value: 0.01
+label: cup
+value: 0.02
+label: can
+value: 0.04
+
+
+name: Tocopherol, gamma
+unit: mg
+value: 1.31
+label: cup
+value: 3.17
+label: can
+value: 5.82
+
+
+name: Tocopherol, delta
+unit: mg
+value: 0.18
+label: cup
+value: 0.44
+label: can
+value: 0.8
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.142
+label: cup
+value: 0.344
+label: can
+value: 0.63
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.002
+label: cup
+value: 0.005
+label: can
+value: 0.009
+
+
+name: 15:0
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can
+value: 0.0
+
+
+name: 16:0
+unit: g
+value: 0.104
+label: cup
+value: 0.252
+label: can
+value: 0.462
+
+
+name: 17:0
+unit: g
+value: 0.002
+label: cup
+value: 0.005
+label: can
+value: 0.009
+
+
+name: 18:0
+unit: g
+value: 0.025
+label: cup
+value: 0.061
+label: can
+value: 0.111
+
+
+name: 20:0
+unit: g
+value: 0.003
+label: cup
+value: 0.007
+label: can
+value: 0.013
+
+
+name: 22:0
+unit: g
+value: 0.003
+label: cup
+value: 0.007
+label: can
+value: 0.013
+
+
+name: 24:0
+unit: g
+value: 0.003
+label: cup
+value: 0.007
+label: can
+value: 0.013
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.206
+label: cup
+value: 0.499
+label: can
+value: 0.915
+
+
+name: 14:1
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can
+value: 0.0
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.002
+label: cup
+value: 0.005
+label: can
+value: 0.009
+
+
+name: 16:1 c
+unit: g
+value: 0.002
+label: cup
+value: 0.005
+label: can
+value: 0.009
+
+
+name: 16:1 t
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can
+value: 0.0
+
+
+name: 17:1
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can
+value: 0.0
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.195
+label: cup
+value: 0.472
+label: can
+value: 0.866
+
+
+name: 18:1 c
+unit: g
+value: 0.195
+label: cup
+value: 0.472
+label: can
+value: 0.866
+
+
+name: 18:1 t
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can
+value: 0.0
+
+
+name: 20:1
+unit: g
+value: 0.008
+label: cup
+value: 0.019
+label: can
+value: 0.036
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can
+value: 0.0
+
+
+name: 22:1 c
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can
+value: 0.0
+
+
+name: 22:1 t
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can
+value: 0.0
+
+
+name: 24:1 c
+unit: g
+value: 0.002
+label: cup
+value: 0.005
+label: can
+value: 0.009
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.471
+label: cup
+value: 1.14
+label: can
+value: 2.091
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.295
+label: cup
+value: 0.714
+label: can
+value: 1.31
+
+
+name: 18:2 n-6 c,c
+unit: g
+value: 0.291
+label: cup
+value: 0.704
+label: can
+value: 1.292
+
+
+name: 18:2 CLAs
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can
+value: 0.0
+
+
+name: 18:2 t not further defined
+unit: g
+value: 0.003
+label: cup
+value: 0.007
+label: can
+value: 0.013
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.176
+label: cup
+value: 0.426
+label: can
+value: 0.781
+
+
+name: 18:3 n-3 c,c,c (ALA)
+unit: g
+value: 0.176
+label: cup
+value: 0.426
+label: can
+value: 0.781
+
+
+name: 18:3 n-6 c,c,c
+unit: g
+value: 0.001
+label: cup
+value: 0.002
+label: can
+value: 0.004
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can
+value: 0.0
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can
+value: 0.0
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can
+value: 0.0
+
+
+name: 20:3 n-6
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can
+value: 0.0
+
+
+name: 22:4
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.003
+label: cup
+value: 0.007
+label: can
+value: 0.013
+
+
+name: Fatty acids, total trans-monoenoic
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can
+value: 0.0
+
+

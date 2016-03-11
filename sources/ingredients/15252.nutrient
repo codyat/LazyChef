@@ -1,0 +1,371 @@
+ndbno: 15252
+
+
+name: USDA Commodity, salmon nuggets, cooked as purchased, unheated
+
+
+name: Water
+unit: g
+value: 64.57
+label: oz
+value: 18.31
+
+
+name: Energy
+unit: kcal
+value: 189.0
+label: oz
+value: 54.0
+
+
+name: Energy
+unit: kJ
+value: 791.0
+label: oz
+value: 224.0
+
+
+name: Protein
+unit: g
+value: 11.97
+label: oz
+value: 3.39
+
+
+name: Total lipid (fat)
+unit: g
+value: 10.43
+label: oz
+value: 2.96
+
+
+name: Ash
+unit: g
+value: 1.19
+label: oz
+value: 0.34
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 11.85
+label: oz
+value: 3.36
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 9.0
+label: oz
+value: 3.0
+
+
+name: Iron, Fe
+unit: mg
+value: 1.46
+label: oz
+value: 0.41
+
+
+name: Magnesium, Mg
+unit: mg
+value: 20.0
+label: oz
+value: 6.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 173.0
+label: oz
+value: 49.0
+
+
+name: Potassium, K
+unit: mg
+value: 161.0
+label: oz
+value: 46.0
+
+
+name: Sodium, Na
+unit: mg
+value: 167.0
+label: oz
+value: 47.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.46
+label: oz
+value: 0.13
+
+
+name: Copper, Cu
+unit: mg
+value: 0.069
+label: oz
+value: 0.02
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.106
+label: oz
+value: 0.03
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.195
+label: oz
+value: 0.055
+
+
+name: Riboflavin
+unit: mg
+value: 0.14
+label: oz
+value: 0.04
+
+
+name: Niacin
+unit: mg
+value: 5.948
+label: oz
+value: 1.686
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.52
+label: oz
+value: 0.147
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.22
+label: oz
+value: 0.062
+
+
+name: Folate, total
+unit: \u00B5g
+value: 9.0
+label: oz
+value: 3.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 3.0
+label: oz
+value: 1.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 6.0
+label: oz
+value: 2.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 11.0
+label: oz
+value: 3.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 2.18
+label: oz
+value: 0.62
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 1.497
+label: oz
+value: 0.424
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.011
+label: oz
+value: 0.003
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.002
+label: oz
+value: 0.001
+
+
+name: 14:0
+unit: g
+value: 0.06
+label: oz
+value: 0.017
+
+
+name: 16:0
+unit: g
+value: 0.921
+label: oz
+value: 0.261
+
+
+name: 18:0
+unit: g
+value: 0.339
+label: oz
+value: 0.096
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 4.33
+label: oz
+value: 1.228
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.068
+label: oz
+value: 0.019
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 4.044
+label: oz
+value: 1.146
+
+
+name: 20:1
+unit: g
+value: 0.191
+label: oz
+value: 0.054
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.012
+label: oz
+value: 0.003
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 2.863
+label: oz
+value: 0.812
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 2.237
+label: oz
+value: 0.634
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.122
+label: oz
+value: 0.035
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.012
+label: oz
+value: 0.003
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.05
+label: oz
+value: 0.014
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.413
+label: oz
+value: 0.117
+
+
+name: Cholesterol
+unit: mg
+value: 27.0
+label: oz
+value: 8.0
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: oz
+value: 0.0
+
+
+

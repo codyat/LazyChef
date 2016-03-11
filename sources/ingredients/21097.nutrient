@@ -1,0 +1,399 @@
+ndbno: 21097
+
+
+name: Fast foods, cheeseburger; single, large patty; with condiments and bacon
+
+
+name: Water
+unit: g
+value: 46.85
+label: item
+value: 98.85
+
+
+name: Energy
+unit: kcal
+value: 282.0
+label: item
+value: 595.0
+
+
+name: Energy
+unit: kJ
+value: 1180.0
+label: item
+value: 2490.0
+
+
+name: Protein
+unit: g
+value: 15.78
+label: item
+value: 33.3
+
+
+name: Total lipid (fat)
+unit: g
+value: 15.86
+label: item
+value: 33.46
+
+
+name: Ash
+unit: g
+value: 2.62
+label: item
+value: 5.53
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 18.89
+label: item
+value: 39.86
+
+
+name: Fiber, total dietary
+unit: g
+value: 1.3
+label: item
+value: 2.7
+
+
+name: Sugars, total
+unit: g
+value: 4.63
+label: item
+value: 9.77
+
+
+name: Sucrose
+unit: g
+value: 0.18
+label: item
+value: 0.38
+
+
+name: Glucose (dextrose)
+unit: g
+value: 1.55
+label: item
+value: 3.27
+
+
+name: Fructose
+unit: g
+value: 1.79
+label: item
+value: 3.78
+
+
+name: Lactose
+unit: g
+value: 0.52
+label: item
+value: 1.1
+
+
+name: Maltose
+unit: g
+value: 0.59
+label: item
+value: 1.24
+
+
+name: Galactose
+unit: g
+value: 0.0
+label: item
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 137.0
+label: item
+value: 289.0
+
+
+name: Iron, Fe
+unit: mg
+value: 2.07
+label: item
+value: 4.37
+
+
+name: Magnesium, Mg
+unit: mg
+value: 23.0
+label: item
+value: 49.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 181.0
+label: item
+value: 382.0
+
+
+name: Potassium, K
+unit: mg
+value: 238.0
+label: item
+value: 502.0
+
+
+name: Sodium, Na
+unit: mg
+value: 674.0
+label: item
+value: 1422.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 2.67
+label: item
+value: 5.63
+
+
+name: Copper, Cu
+unit: mg
+value: 0.102
+label: item
+value: 0.215
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.166
+label: item
+value: 0.35
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 3.4
+label: item
+value: 7.2
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.7
+label: item
+value: 1.5
+
+
+name: Thiamin
+unit: mg
+value: 0.174
+label: item
+value: 0.367
+
+
+name: Riboflavin
+unit: mg
+value: 0.348
+label: item
+value: 0.734
+
+
+name: Niacin
+unit: mg
+value: 4.233
+label: item
+value: 8.932
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.354
+label: item
+value: 0.747
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.242
+label: item
+value: 0.511
+
+
+name: Folate, total
+unit: \u00B5g
+value: 49.0
+label: item
+value: 103.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 1.25
+label: item
+value: 2.64
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 6.126
+label: item
+value: 12.926
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 5.427
+label: item
+value: 11.451
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.672
+label: item
+value: 1.418
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.772
+label: item
+value: 1.629
+
+
+name: Cholesterol
+unit: mg
+value: 50.0
+label: item
+value: 106.0
+
+
+name: Tryptophan
+unit: g
+value: 0.199
+label: item
+value: 0.42
+
+
+name: Threonine
+unit: g
+value: 0.617
+label: item
+value: 1.302
+
+
+name: Isoleucine
+unit: g
+value: 0.696
+label: item
+value: 1.469
+
+
+name: Leucine
+unit: g
+value: 1.271
+label: item
+value: 2.682
+
+
+name: Lysine
+unit: g
+value: 1.239
+label: item
+value: 2.614
+
+
+name: Methionine
+unit: g
+value: 0.365
+label: item
+value: 0.77
+
+
+name: Cystine
+unit: g
+value: 0.169
+label: item
+value: 0.357
+
+
+name: Phenylalanine
+unit: g
+value: 0.683
+label: item
+value: 1.441
+
+
+name: Tyrosine
+unit: g
+value: 0.551
+label: item
+value: 1.163
+
+
+name: Valine
+unit: g
+value: 0.826
+label: item
+value: 1.743
+
+
+name: Arginine
+unit: g
+value: 0.948
+label: item
+value: 2.0
+
+
+name: Histidine
+unit: g
+value: 0.508
+label: item
+value: 1.072
+
+
+name: Alanine
+unit: g
+value: 0.852
+label: item
+value: 1.798
+
+
+name: Aspartic acid
+unit: g
+value: 1.292
+label: item
+value: 2.726
+
+
+name: Glutamic acid
+unit: g
+value: 3.034
+label: item
+value: 6.402
+
+
+name: Glycine
+unit: g
+value: 0.956
+label: item
+value: 2.017
+
+
+name: Proline
+unit: g
+value: 1.112
+label: item
+value: 2.346
+
+
+name: Serine
+unit: g
+value: 0.63
+label: item
+value: 1.329
+
+
+

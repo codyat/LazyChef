@@ -1,0 +1,457 @@
+ndbno: 06056
+
+
+name: Soup, cream of shrimp, canned, condensed
+
+
+name: Water
+unit: g
+value: 84.85
+label: cup
+value: 106.91
+label: can
+value: 258.79
+
+
+name: Energy
+unit: kcal
+value: 72.0
+label: cup
+value: 91.0
+label: can
+value: 220.0
+
+
+name: Energy
+unit: kJ
+value: 301.0
+label: cup
+value: 379.0
+label: can
+value: 918.0
+
+
+name: Protein
+unit: g
+value: 2.22
+label: cup
+value: 2.8
+label: can
+value: 6.77
+
+
+name: Total lipid (fat)
+unit: g
+value: 4.14
+label: cup
+value: 5.22
+label: can
+value: 12.63
+
+
+name: Ash
+unit: g
+value: 2.26
+label: cup
+value: 2.85
+label: can
+value: 6.89
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 6.53
+label: cup
+value: 8.23
+label: can
+value: 19.92
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.2
+label: cup
+value: 0.3
+label: can
+value: 0.6
+
+
+name: Calcium, Ca
+unit: mg
+value: 14.0
+label: cup
+value: 18.0
+label: can
+value: 43.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.42
+label: cup
+value: 0.53
+label: can
+value: 1.28
+
+
+name: Magnesium, Mg
+unit: mg
+value: 7.0
+label: cup
+value: 9.0
+label: can
+value: 21.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 26.0
+label: cup
+value: 33.0
+label: can
+value: 79.0
+
+
+name: Potassium, K
+unit: mg
+value: 47.0
+label: cup
+value: 59.0
+label: can
+value: 143.0
+
+
+name: Sodium, Na
+unit: mg
+value: 685.0
+label: cup
+value: 863.0
+label: can
+value: 2089.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.6
+label: cup
+value: 0.76
+label: can
+value: 1.83
+
+
+name: Copper, Cu
+unit: mg
+value: 0.1
+label: cup
+value: 0.126
+label: can
+value: 0.305
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.3
+label: cup
+value: 0.378
+label: can
+value: 0.915
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 4.5
+label: cup
+value: 5.7
+label: can
+value: 13.7
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: cup
+value: 0.0
+label: can
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.015
+label: cup
+value: 0.019
+label: can
+value: 0.046
+
+
+name: Riboflavin
+unit: mg
+value: 0.022
+label: cup
+value: 0.028
+label: can
+value: 0.067
+
+
+name: Niacin
+unit: mg
+value: 0.34
+label: cup
+value: 0.428
+label: can
+value: 1.037
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.11
+label: cup
+value: 0.139
+label: can
+value: 0.335
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.03
+label: cup
+value: 0.038
+label: can
+value: 0.092
+
+
+name: Folate, total
+unit: \u00B5g
+value: 3.0
+label: cup
+value: 4.0
+label: can
+value: 9.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: cup
+value: 0.0
+label: can
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 3.0
+label: cup
+value: 4.0
+label: can
+value: 9.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 3.0
+label: cup
+value: 4.0
+label: can
+value: 9.0
+
+
+name: Choline, total
+unit: mg
+value: 6.9
+label: cup
+value: 8.7
+label: can
+value: 21.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.47
+label: cup
+value: 0.59
+label: can
+value: 1.43
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 32.0
+label: cup
+value: 40.0
+label: can
+value: 98.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 30.0
+label: cup
+value: 38.0
+label: can
+value: 92.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 126.0
+label: cup
+value: 159.0
+label: can
+value: 384.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 2.58
+label: cup
+value: 3.251
+label: can
+value: 7.869
+
+
+name: 4:0
+unit: g
+value: 0.13
+label: cup
+value: 0.164
+label: can
+value: 0.396
+
+
+name: 6:0
+unit: g
+value: 0.08
+label: cup
+value: 0.101
+label: can
+value: 0.244
+
+
+name: 8:0
+unit: g
+value: 0.05
+label: cup
+value: 0.063
+label: can
+value: 0.152
+
+
+name: 10:0
+unit: g
+value: 0.1
+label: cup
+value: 0.126
+label: can
+value: 0.305
+
+
+name: 12:0
+unit: g
+value: 0.12
+label: cup
+value: 0.151
+label: can
+value: 0.366
+
+
+name: 14:0
+unit: g
+value: 0.42
+label: cup
+value: 0.529
+label: can
+value: 1.281
+
+
+name: 16:0
+unit: g
+value: 1.09
+label: cup
+value: 1.373
+label: can
+value: 3.325
+
+
+name: 18:0
+unit: g
+value: 0.5
+label: cup
+value: 0.63
+label: can
+value: 1.525
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 1.19
+label: cup
+value: 1.499
+label: can
+value: 3.629
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.09
+label: cup
+value: 0.113
+label: can
+value: 0.274
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 1.04
+label: cup
+value: 1.31
+label: can
+value: 3.172
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.15
+label: cup
+value: 0.189
+label: can
+value: 0.458
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.1
+label: cup
+value: 0.126
+label: can
+value: 0.305
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.06
+label: cup
+value: 0.076
+label: can
+value: 0.183
+
+
+name: Cholesterol
+unit: mg
+value: 13.0
+label: cup
+value: 16.0
+label: can
+value: 40.0
+
+
+name: Alcohol, ethyl
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: can
+value: 0.0
+
+
+

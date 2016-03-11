@@ -1,0 +1,761 @@
+ndbno: 09446
+
+
+name: Plantains, green, fried
+
+
+name: Water
+unit: g
+value: 36.08
+label: cup
+value: 42.57
+label: slices (1/4\ thick)
+value: 19.12
+
+
+name: Energy
+unit: kcal
+value: 309.0
+label: cup
+value: 365.0
+label: slices (1/4\ thick)
+value: 164.0
+
+
+name: Energy
+unit: kJ
+value: 1293.0
+label: cup
+value: 1526.0
+label: slices (1/4\ thick)
+value: 685.0
+
+
+name: Protein
+unit: g
+value: 1.5
+label: cup
+value: 1.77
+label: slices (1/4\ thick)
+value: 0.8
+
+
+name: Total lipid (fat)
+unit: g
+value: 11.81
+label: cup
+value: 13.94
+label: slices (1/4\ thick)
+value: 6.26
+
+
+name: Ash
+unit: g
+value: 1.44
+label: cup
+value: 1.7
+label: slices (1/4\ thick)
+value: 0.76
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 49.17
+label: cup
+value: 58.02
+label: slices (1/4\ thick)
+value: 26.06
+
+
+name: Fiber, total dietary
+unit: g
+value: 3.5
+label: cup
+value: 4.1
+label: slices (1/4\ thick)
+value: 1.9
+
+
+name: Sugars, total
+unit: g
+value: 3.63
+label: cup
+value: 4.28
+label: slices (1/4\ thick)
+value: 1.92
+
+
+name: Sucrose
+unit: g
+value: 2.36
+label: cup
+value: 2.78
+label: slices (1/4\ thick)
+value: 1.25
+
+
+name: Glucose (dextrose)
+unit: g
+value: 0.61
+label: cup
+value: 0.72
+label: slices (1/4\ thick)
+value: 0.32
+
+
+name: Fructose
+unit: g
+value: 0.66
+label: cup
+value: 0.78
+label: slices (1/4\ thick)
+value: 0.35
+
+
+name: Lactose
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: slices (1/4\ thick)
+value: 0.0
+
+
+name: Maltose
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: slices (1/4\ thick)
+value: 0.0
+
+
+name: Galactose
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: slices (1/4\ thick)
+value: 0.0
+
+
+name: Starch
+unit: g
+value: 40.7
+label: cup
+value: 48.03
+label: slices (1/4\ thick)
+value: 21.57
+
+
+name: Calcium, Ca
+unit: mg
+value: 4.0
+label: cup
+value: 5.0
+label: slices (1/4\ thick)
+value: 2.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.67
+label: cup
+value: 0.79
+label: slices (1/4\ thick)
+value: 0.36
+
+
+name: Magnesium, Mg
+unit: mg
+value: 58.0
+label: cup
+value: 68.0
+label: slices (1/4\ thick)
+value: 31.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 44.0
+label: cup
+value: 52.0
+label: slices (1/4\ thick)
+value: 23.0
+
+
+name: Potassium, K
+unit: mg
+value: 482.0
+label: cup
+value: 569.0
+label: slices (1/4\ thick)
+value: 255.0
+
+
+name: Sodium, Na
+unit: mg
+value: 2.0
+label: cup
+value: 2.0
+label: slices (1/4\ thick)
+value: 1.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.23
+label: cup
+value: 0.27
+label: slices (1/4\ thick)
+value: 0.12
+
+
+name: Copper, Cu
+unit: mg
+value: 0.183
+label: cup
+value: 0.216
+label: slices (1/4\ thick)
+value: 0.097
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.188
+label: cup
+value: 0.222
+label: slices (1/4\ thick)
+value: 0.1
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 3.4
+label: cup
+value: 4.0
+label: slices (1/4\ thick)
+value: 1.8
+
+
+name: Thiamin
+unit: mg
+value: 0.047
+label: cup
+value: 0.055
+label: slices (1/4\ thick)
+value: 0.025
+
+
+name: Riboflavin
+unit: mg
+value: 0.102
+label: cup
+value: 0.12
+label: slices (1/4\ thick)
+value: 0.054
+
+
+name: Niacin
+unit: mg
+value: 0.818
+label: cup
+value: 0.965
+label: slices (1/4\ thick)
+value: 0.434
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.388
+label: cup
+value: 0.458
+label: slices (1/4\ thick)
+value: 0.206
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.264
+label: cup
+value: 0.312
+label: slices (1/4\ thick)
+value: 0.14
+
+
+name: Folate, total
+unit: \u00B5g
+value: 15.0
+label: cup
+value: 18.0
+label: slices (1/4\ thick)
+value: 8.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 15.0
+label: cup
+value: 18.0
+label: slices (1/4\ thick)
+value: 8.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 60.0
+label: cup
+value: 71.0
+label: slices (1/4\ thick)
+value: 32.0
+
+
+name: Carotene, beta
+unit: \u00B5g
+value: 548.0
+label: cup
+value: 647.0
+label: slices (1/4\ thick)
+value: 290.0
+
+
+name: Carotene, alpha
+unit: \u00B5g
+value: 332.0
+label: cup
+value: 392.0
+label: slices (1/4\ thick)
+value: 176.0
+
+
+name: Cryptoxanthin, beta
+unit: \u00B5g
+value: 2.0
+label: cup
+value: 2.0
+label: slices (1/4\ thick)
+value: 1.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 1192.0
+label: cup
+value: 1407.0
+label: slices (1/4\ thick)
+value: 632.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 3.69
+label: cup
+value: 4.354
+label: slices (1/4\ thick)
+value: 1.956
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: slices (1/4\ thick)
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.016
+label: cup
+value: 0.019
+label: slices (1/4\ thick)
+value: 0.008
+
+
+name: 12:0
+unit: g
+value: 0.009
+label: cup
+value: 0.011
+label: slices (1/4\ thick)
+value: 0.005
+
+
+name: 14:0
+unit: g
+value: 0.127
+label: cup
+value: 0.15
+label: slices (1/4\ thick)
+value: 0.067
+
+
+name: 15:0
+unit: g
+value: 0.008
+label: cup
+value: 0.009
+label: slices (1/4\ thick)
+value: 0.004
+
+
+name: 16:0
+unit: g
+value: 2.269
+label: cup
+value: 2.677
+label: slices (1/4\ thick)
+value: 1.203
+
+
+name: 17:0
+unit: g
+value: 0.036
+label: cup
+value: 0.042
+label: slices (1/4\ thick)
+value: 0.019
+
+
+name: 18:0
+unit: g
+value: 1.196
+label: cup
+value: 1.411
+label: slices (1/4\ thick)
+value: 0.634
+
+
+name: 20:0
+unit: g
+value: 0.022
+label: cup
+value: 0.026
+label: slices (1/4\ thick)
+value: 0.012
+
+
+name: 22:0
+unit: g
+value: 0.004
+label: cup
+value: 0.005
+label: slices (1/4\ thick)
+value: 0.002
+
+
+name: 24:0
+unit: g
+value: 0.003
+label: cup
+value: 0.004
+label: slices (1/4\ thick)
+value: 0.002
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 4.353
+label: cup
+value: 5.137
+label: slices (1/4\ thick)
+value: 2.307
+
+
+name: 14:1
+unit: g
+value: 0.002
+label: cup
+value: 0.002
+label: slices (1/4\ thick)
+value: 0.001
+
+
+name: 15:1
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: slices (1/4\ thick)
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.189
+label: cup
+value: 0.223
+label: slices (1/4\ thick)
+value: 0.1
+
+
+name: 16:1 c
+unit: g
+value: 0.186
+label: cup
+value: 0.219
+label: slices (1/4\ thick)
+value: 0.099
+
+
+name: 16:1 t
+unit: g
+value: 0.003
+label: cup
+value: 0.004
+label: slices (1/4\ thick)
+value: 0.002
+
+
+name: 17:1
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: slices (1/4\ thick)
+value: 0.0
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 4.078
+label: cup
+value: 4.812
+label: slices (1/4\ thick)
+value: 2.161
+
+
+name: 18:1 c
+unit: g
+value: 3.965
+label: cup
+value: 4.679
+label: slices (1/4\ thick)
+value: 2.101
+
+
+name: 18:1 t
+unit: g
+value: 0.113
+label: cup
+value: 0.133
+label: slices (1/4\ thick)
+value: 0.06
+
+
+name: 20:1
+unit: g
+value: 0.08
+label: cup
+value: 0.094
+label: slices (1/4\ thick)
+value: 0.042
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.001
+label: cup
+value: 0.001
+label: slices (1/4\ thick)
+value: 0.001
+
+
+name: 22:1 c
+unit: g
+value: 0.001
+label: cup
+value: 0.001
+label: slices (1/4\ thick)
+value: 0.001
+
+
+name: 22:1 t
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: slices (1/4\ thick)
+value: 0.0
+
+
+name: 24:1 c
+unit: g
+value: 0.003
+label: cup
+value: 0.004
+label: slices (1/4\ thick)
+value: 0.002
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 2.697
+label: cup
+value: 3.182
+label: slices (1/4\ thick)
+value: 1.429
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 2.348
+label: cup
+value: 2.771
+label: slices (1/4\ thick)
+value: 1.244
+
+
+name: 18:2 n-6 c,c
+unit: g
+value: 2.278
+label: cup
+value: 2.688
+label: slices (1/4\ thick)
+value: 1.207
+
+
+name: 18:2 CLAs
+unit: g
+value: 0.027
+label: cup
+value: 0.032
+label: slices (1/4\ thick)
+value: 0.014
+
+
+name: 18:2 t not further defined
+unit: g
+value: 0.043
+label: cup
+value: 0.051
+label: slices (1/4\ thick)
+value: 0.023
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.215
+label: cup
+value: 0.254
+label: slices (1/4\ thick)
+value: 0.114
+
+
+name: 18:3 n-3 c,c,c (ALA)
+unit: g
+value: 0.212
+label: cup
+value: 0.25
+label: slices (1/4\ thick)
+value: 0.112
+
+
+name: 18:3 n-6 c,c,c
+unit: g
+value: 0.003
+label: cup
+value: 0.004
+label: slices (1/4\ thick)
+value: 0.002
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: cup
+value: 0.0
+label: slices (1/4\ thick)
+value: 0.0
+
+
+name: 20:2 n-6 c,c
+unit: g
+value: 0.07
+label: cup
+value: 0.083
+label: slices (1/4\ thick)
+value: 0.037
+
+
+name: 20:3 undifferentiated
+unit: g
+value: 0.024
+label: cup
+value: 0.028
+label: slices (1/4\ thick)
+value: 0.013
+
+
+name: 20:3 n-6
+unit: g
+value: 0.01
+label: cup
+value: 0.012
+label: slices (1/4\ thick)
+value: 0.005
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.021
+label: cup
+value: 0.025
+label: slices (1/4\ thick)
+value: 0.011
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.001
+label: cup
+value: 0.001
+label: slices (1/4\ thick)
+value: 0.001
+
+
+name: 22:4
+unit: g
+value: 0.008
+label: cup
+value: 0.009
+label: slices (1/4\ thick)
+value: 0.004
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.006
+label: cup
+value: 0.007
+label: slices (1/4\ thick)
+value: 0.003
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.003
+label: cup
+value: 0.004
+label: slices (1/4\ thick)
+value: 0.002
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.159
+label: cup
+value: 0.188
+label: slices (1/4\ thick)
+value: 0.084
+
+
+name: Fatty acids, total trans-monoenoic
+unit: g
+value: 0.116
+label: cup
+value: 0.137
+label: slices (1/4\ thick)
+value: 0.061
+

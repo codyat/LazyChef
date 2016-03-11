@@ -1,0 +1,537 @@
+ndbno: 14052
+
+
+name: Alcoholic beverage, distilled, whiskey, 86 proof
+
+
+name: Water
+unit: g
+value: 63.9
+label: fl oz
+value: 17.76
+label: jigger (1.5 fl oz)
+value: 26.84
+
+
+name: Energy
+unit: kcal
+value: 250.0
+label: fl oz
+value: 70.0
+label: jigger (1.5 fl oz)
+value: 105.0
+
+
+name: Energy
+unit: kJ
+value: 1046.0
+label: fl oz
+value: 291.0
+label: jigger (1.5 fl oz)
+value: 439.0
+
+
+name: Protein
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger (1.5 fl oz)
+value: 0.0
+
+
+name: Total lipid (fat)
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger (1.5 fl oz)
+value: 0.0
+
+
+name: Ash
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger (1.5 fl oz)
+value: 0.0
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 0.1
+label: fl oz
+value: 0.03
+label: jigger (1.5 fl oz)
+value: 0.04
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger (1.5 fl oz)
+value: 0.0
+
+
+name: Sugars, total
+unit: g
+value: 0.1
+label: fl oz
+value: 0.03
+label: jigger (1.5 fl oz)
+value: 0.04
+
+
+name: Calcium, Ca
+unit: mg
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger (1.5 fl oz)
+value: 0.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.02
+label: fl oz
+value: 0.01
+label: jigger (1.5 fl oz)
+value: 0.01
+
+
+name: Magnesium, Mg
+unit: mg
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger (1.5 fl oz)
+value: 0.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 3.0
+label: fl oz
+value: 1.0
+label: jigger (1.5 fl oz)
+value: 1.0
+
+
+name: Potassium, K
+unit: mg
+value: 1.0
+label: fl oz
+value: 0.0
+label: jigger (1.5 fl oz)
+value: 0.0
+
+
+name: Sodium, Na
+unit: mg
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger (1.5 fl oz)
+value: 0.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.02
+label: fl oz
+value: 0.01
+label: jigger (1.5 fl oz)
+value: 0.01
+
+
+name: Copper, Cu
+unit: mg
+value: 0.014
+label: fl oz
+value: 0.004
+label: jigger (1.5 fl oz)
+value: 0.006
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.008
+label: fl oz
+value: 0.002
+label: jigger (1.5 fl oz)
+value: 0.003
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger (1.5 fl oz)
+value: 0.0
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger (1.5 fl oz)
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.008
+label: fl oz
+value: 0.002
+label: jigger (1.5 fl oz)
+value: 0.003
+
+
+name: Riboflavin
+unit: mg
+value: 0.001
+label: fl oz
+value: 0.0
+label: jigger (1.5 fl oz)
+value: 0.0
+
+
+name: Niacin
+unit: mg
+value: 0.05
+label: fl oz
+value: 0.014
+label: jigger (1.5 fl oz)
+value: 0.021
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger (1.5 fl oz)
+value: 0.0
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger (1.5 fl oz)
+value: 0.0
+
+
+name: Folate, total
+unit: \u00B5g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger (1.5 fl oz)
+value: 0.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger (1.5 fl oz)
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger (1.5 fl oz)
+value: 0.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger (1.5 fl oz)
+value: 0.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger (1.5 fl oz)
+value: 0.0
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger (1.5 fl oz)
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger (1.5 fl oz)
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger (1.5 fl oz)
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger (1.5 fl oz)
+value: 0.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger (1.5 fl oz)
+value: 0.0
+
+
+name: 4:0
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger (1.5 fl oz)
+value: 0.0
+
+
+name: 6:0
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger (1.5 fl oz)
+value: 0.0
+
+
+name: 8:0
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger (1.5 fl oz)
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger (1.5 fl oz)
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger (1.5 fl oz)
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger (1.5 fl oz)
+value: 0.0
+
+
+name: 16:0
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger (1.5 fl oz)
+value: 0.0
+
+
+name: 18:0
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger (1.5 fl oz)
+value: 0.0
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger (1.5 fl oz)
+value: 0.0
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger (1.5 fl oz)
+value: 0.0
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger (1.5 fl oz)
+value: 0.0
+
+
+name: 20:1
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger (1.5 fl oz)
+value: 0.0
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger (1.5 fl oz)
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger (1.5 fl oz)
+value: 0.0
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger (1.5 fl oz)
+value: 0.0
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger (1.5 fl oz)
+value: 0.0
+
+
+name: 18:4
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger (1.5 fl oz)
+value: 0.0
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger (1.5 fl oz)
+value: 0.0
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger (1.5 fl oz)
+value: 0.0
+
+
+name: 22:5 n-3 (DPA)
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger (1.5 fl oz)
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger (1.5 fl oz)
+value: 0.0
+
+
+name: Fatty acids, total trans
+unit: g
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger (1.5 fl oz)
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: fl oz
+value: 0.0
+label: jigger (1.5 fl oz)
+value: 0.0
+
+
+name: Alcohol, ethyl
+unit: g
+value: 36.0
+label: fl oz
+value: 10.0
+label: jigger (1.5 fl oz)
+value: 15.1
+
+

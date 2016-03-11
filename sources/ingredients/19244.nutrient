@@ -1,0 +1,475 @@
+ndbno: 19244
+
+
+name: Frostings, vanilla, creamy, dry mix
+
+
+name: Water
+unit: g
+value: 0.7
+label: package
+value: 2.88
+label: package
+value: 0.24
+
+
+name: Energy
+unit: kcal
+value: 410.0
+label: package
+value: 1685.0
+label: package
+value: 139.0
+
+
+name: Energy
+unit: kJ
+value: 1715.0
+label: package
+value: 7049.0
+label: package
+value: 583.0
+
+
+name: Protein
+unit: g
+value: 0.3
+label: package
+value: 1.23
+label: package
+value: 0.1
+
+
+name: Total lipid (fat)
+unit: g
+value: 4.9
+label: package
+value: 20.14
+label: package
+value: 1.67
+
+
+name: Ash
+unit: g
+value: 0.3
+label: package
+value: 1.23
+label: package
+value: 0.1
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 93.8
+label: package
+value: 385.52
+label: package
+value: 31.89
+
+
+name: Fiber, total dietary
+unit: g
+value: 0.1
+label: package
+value: 0.4
+label: package
+value: 0.0
+
+
+name: Calcium, Ca
+unit: mg
+value: 3.0
+label: package
+value: 12.0
+label: package
+value: 1.0
+
+
+name: Iron, Fe
+unit: mg
+value: 0.0
+label: package
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Magnesium, Mg
+unit: mg
+value: 2.0
+label: package
+value: 8.0
+label: package
+value: 1.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 4.0
+label: package
+value: 16.0
+label: package
+value: 1.0
+
+
+name: Potassium, K
+unit: mg
+value: 7.0
+label: package
+value: 29.0
+label: package
+value: 2.0
+
+
+name: Sodium, Na
+unit: mg
+value: 13.0
+label: package
+value: 53.0
+label: package
+value: 4.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.01
+label: package
+value: 0.04
+label: package
+value: 0.0
+
+
+name: Copper, Cu
+unit: mg
+value: 0.035
+label: package
+value: 0.144
+label: package
+value: 0.012
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.012
+label: package
+value: 0.049
+label: package
+value: 0.004
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 0.8
+label: package
+value: 3.3
+label: package
+value: 0.3
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: package
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.0
+label: package
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Riboflavin
+unit: mg
+value: 0.002
+label: package
+value: 0.008
+label: package
+value: 0.001
+
+
+name: Niacin
+unit: mg
+value: 0.001
+label: package
+value: 0.004
+label: package
+value: 0.0
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.007
+label: package
+value: 0.029
+label: package
+value: 0.002
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.001
+label: package
+value: 0.004
+label: package
+value: 0.0
+
+
+name: Folate, total
+unit: \u00B5g
+value: 0.0
+label: package
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 0.0
+label: package
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 0.0
+label: package
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 0.0
+label: package
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.0
+label: package
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Vitamin B-12, added
+unit: \u00B5g
+value: 0.0
+label: package
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 0.0
+label: package
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 0.0
+label: package
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 0.0
+label: package
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Cholesterol
+unit: mg
+value: 0.0
+label: package
+value: 0.0
+label: package
+value: 0.0
+
+
+name: Tryptophan
+unit: g
+value: 0.001
+label: package
+value: 0.004
+label: package
+value: 0.0
+
+
+name: Threonine
+unit: g
+value: 0.009
+label: package
+value: 0.037
+label: package
+value: 0.003
+
+
+name: Isoleucine
+unit: g
+value: 0.01
+label: package
+value: 0.041
+label: package
+value: 0.003
+
+
+name: Leucine
+unit: g
+value: 0.035
+label: package
+value: 0.144
+label: package
+value: 0.012
+
+
+name: Lysine
+unit: g
+value: 0.006
+label: package
+value: 0.025
+label: package
+value: 0.002
+
+
+name: Methionine
+unit: g
+value: 0.005
+label: package
+value: 0.021
+label: package
+value: 0.002
+
+
+name: Cystine
+unit: g
+value: 0.006
+label: package
+value: 0.025
+label: package
+value: 0.002
+
+
+name: Phenylalanine
+unit: g
+value: 0.013
+label: package
+value: 0.053
+label: package
+value: 0.004
+
+
+name: Tyrosine
+unit: g
+value: 0.01
+label: package
+value: 0.041
+label: package
+value: 0.003
+
+
+name: Valine
+unit: g
+value: 0.013
+label: package
+value: 0.053
+label: package
+value: 0.004
+
+
+name: Arginine
+unit: g
+value: 0.012
+label: package
+value: 0.049
+label: package
+value: 0.004
+
+
+name: Histidine
+unit: g
+value: 0.008
+label: package
+value: 0.033
+label: package
+value: 0.003
+
+
+name: Alanine
+unit: g
+value: 0.019
+label: package
+value: 0.078
+label: package
+value: 0.006
+
+
+name: Aspartic acid
+unit: g
+value: 0.02
+label: package
+value: 0.082
+label: package
+value: 0.007
+
+
+name: Glutamic acid
+unit: g
+value: 0.052
+label: package
+value: 0.214
+label: package
+value: 0.018
+
+
+name: Glycine
+unit: g
+value: 0.009
+label: package
+value: 0.037
+label: package
+value: 0.003
+
+
+name: Proline
+unit: g
+value: 0.024
+label: package
+value: 0.099
+label: package
+value: 0.008
+
+
+name: Serine
+unit: g
+value: 0.011
+label: package
+value: 0.045
+label: package
+value: 0.004
+
+
+

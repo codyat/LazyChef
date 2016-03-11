@@ -1,0 +1,628 @@
+ndbno: 18188
+
+
+name: Cookies, peanut butter, refrigerated dough, baked
+
+
+name: Water
+unit: g
+value: 4.0
+label: oz
+value: 1.13
+label: cookie
+value: 0.48
+
+
+name: Energy
+unit: kcal
+value: 503.0
+label: oz
+value: 143.0
+label: cookie
+value: 60.0
+
+
+name: Energy
+unit: kJ
+value: 2105.0
+label: oz
+value: 597.0
+label: cookie
+value: 253.0
+
+
+name: Protein
+unit: g
+value: 9.1
+label: oz
+value: 2.58
+label: cookie
+value: 1.09
+
+
+name: Total lipid (fat)
+unit: g
+value: 27.5
+label: oz
+value: 7.8
+label: cookie
+value: 3.3
+
+
+name: Ash
+unit: g
+value: 2.1
+label: oz
+value: 0.6
+label: cookie
+value: 0.25
+
+
+name: Carbohydrate, by difference
+unit: g
+value: 57.3
+label: oz
+value: 16.24
+label: cookie
+value: 6.88
+
+
+name: Fiber, total dietary
+unit: g
+value: 1.2
+label: oz
+value: 0.3
+label: cookie
+value: 0.1
+
+
+name: Calcium, Ca
+unit: mg
+value: 111.0
+label: oz
+value: 31.0
+label: cookie
+value: 13.0
+
+
+name: Iron, Fe
+unit: mg
+value: 1.87
+label: oz
+value: 0.53
+label: cookie
+value: 0.22
+
+
+name: Magnesium, Mg
+unit: mg
+value: 41.0
+label: oz
+value: 12.0
+label: cookie
+value: 5.0
+
+
+name: Phosphorus, P
+unit: mg
+value: 264.0
+label: oz
+value: 75.0
+label: cookie
+value: 32.0
+
+
+name: Potassium, K
+unit: mg
+value: 338.0
+label: oz
+value: 96.0
+label: cookie
+value: 41.0
+
+
+name: Sodium, Na
+unit: mg
+value: 436.0
+label: oz
+value: 124.0
+label: cookie
+value: 52.0
+
+
+name: Zinc, Zn
+unit: mg
+value: 0.75
+label: oz
+value: 0.21
+label: cookie
+value: 0.09
+
+
+name: Copper, Cu
+unit: mg
+value: 0.166
+label: oz
+value: 0.047
+label: cookie
+value: 0.02
+
+
+name: Manganese, Mn
+unit: mg
+value: 0.461
+label: oz
+value: 0.131
+label: cookie
+value: 0.055
+
+
+name: Selenium, Se
+unit: \u00B5g
+value: 5.1
+label: oz
+value: 1.4
+label: cookie
+value: 0.6
+
+
+name: Vitamin C, total ascorbic acid
+unit: mg
+value: 0.0
+label: oz
+value: 0.0
+label: cookie
+value: 0.0
+
+
+name: Thiamin
+unit: mg
+value: 0.168
+label: oz
+value: 0.048
+label: cookie
+value: 0.02
+
+
+name: Riboflavin
+unit: mg
+value: 0.184
+label: oz
+value: 0.052
+label: cookie
+value: 0.022
+
+
+name: Niacin
+unit: mg
+value: 4.098
+label: oz
+value: 1.162
+label: cookie
+value: 0.492
+
+
+name: Pantothenic acid
+unit: mg
+value: 0.3
+label: oz
+value: 0.085
+label: cookie
+value: 0.036
+
+
+name: Vitamin B-6
+unit: mg
+value: 0.064
+label: oz
+value: 0.018
+label: cookie
+value: 0.008
+
+
+name: Folate, total
+unit: \u00B5g
+value: 44.0
+label: oz
+value: 12.0
+label: cookie
+value: 5.0
+
+
+name: Folic acid
+unit: \u00B5g
+value: 35.0
+label: oz
+value: 10.0
+label: cookie
+value: 4.0
+
+
+name: Folate, food
+unit: \u00B5g
+value: 9.0
+label: oz
+value: 3.0
+label: cookie
+value: 1.0
+
+
+name: Folate, DFE
+unit: \u00B5g
+value: 69.0
+label: oz
+value: 20.0
+label: cookie
+value: 8.0
+
+
+name: Vitamin B-12
+unit: \u00B5g
+value: 0.06
+label: oz
+value: 0.02
+label: cookie
+value: 0.01
+
+
+name: Vitamin A, RAE
+unit: \u00B5g
+value: 14.0
+label: oz
+value: 4.0
+label: cookie
+value: 2.0
+
+
+name: Retinol
+unit: \u00B5g
+value: 14.0
+label: oz
+value: 4.0
+label: cookie
+value: 2.0
+
+
+name: Vitamin A, IU
+unit: IU
+value: 46.0
+label: oz
+value: 13.0
+label: cookie
+value: 6.0
+
+
+name: Fatty acids, total saturated
+unit: g
+value: 6.199
+label: oz
+value: 1.757
+label: cookie
+value: 0.744
+
+
+name: 8:0
+unit: g
+value: 0.001
+label: oz
+value: 0.0
+label: cookie
+value: 0.0
+
+
+name: 10:0
+unit: g
+value: 0.001
+label: oz
+value: 0.0
+label: cookie
+value: 0.0
+
+
+name: 12:0
+unit: g
+value: 0.004
+label: oz
+value: 0.001
+label: cookie
+value: 0.0
+
+
+name: 14:0
+unit: g
+value: 0.099
+label: oz
+value: 0.028
+label: cookie
+value: 0.012
+
+
+name: 16:0
+unit: g
+value: 3.539
+label: oz
+value: 1.003
+label: cookie
+value: 0.425
+
+
+name: 18:0
+unit: g
+value: 2.552
+label: oz
+value: 0.723
+label: cookie
+value: 0.306
+
+
+name: Fatty acids, total monounsaturated
+unit: g
+value: 14.526
+label: oz
+value: 4.118
+label: cookie
+value: 1.743
+
+
+name: 16:1 undifferentiated
+unit: g
+value: 0.044
+label: oz
+value: 0.012
+label: cookie
+value: 0.005
+
+
+name: 18:1 undifferentiated
+unit: g
+value: 14.372
+label: oz
+value: 4.074
+label: cookie
+value: 1.725
+
+
+name: 20:1
+unit: g
+value: 0.11
+label: oz
+value: 0.031
+label: cookie
+value: 0.013
+
+
+name: 22:1 undifferentiated
+unit: g
+value: 0.001
+label: oz
+value: 0.0
+label: cookie
+value: 0.0
+
+
+name: Fatty acids, total polyunsaturated
+unit: g
+value: 4.889
+label: oz
+value: 1.386
+label: cookie
+value: 0.587
+
+
+name: 18:2 undifferentiated
+unit: g
+value: 4.7
+label: oz
+value: 1.332
+label: cookie
+value: 0.564
+
+
+name: 18:3 undifferentiated
+unit: g
+value: 0.131
+label: oz
+value: 0.037
+label: cookie
+value: 0.016
+
+
+name: 20:4 undifferentiated
+unit: g
+value: 0.052
+label: oz
+value: 0.015
+label: cookie
+value: 0.006
+
+
+name: 20:5 n-3 (EPA)
+unit: g
+value: 0.001
+label: oz
+value: 0.0
+label: cookie
+value: 0.0
+
+
+name: 22:6 n-3 (DHA)
+unit: g
+value: 0.005
+label: oz
+value: 0.001
+label: cookie
+value: 0.001
+
+
+name: Cholesterol
+unit: mg
+value: 30.0
+label: oz
+value: 9.0
+label: cookie
+value: 4.0
+
+
+name: Tryptophan
+unit: g
+value: 0.108
+label: oz
+value: 0.031
+label: cookie
+value: 0.013
+
+
+name: Threonine
+unit: g
+value: 0.305
+label: oz
+value: 0.086
+label: cookie
+value: 0.037
+
+
+name: Isoleucine
+unit: g
+value: 0.356
+label: oz
+value: 0.101
+label: cookie
+value: 0.043
+
+
+name: Leucine
+unit: g
+value: 0.628
+label: oz
+value: 0.178
+label: cookie
+value: 0.075
+
+
+name: Lysine
+unit: g
+value: 0.372
+label: oz
+value: 0.105
+label: cookie
+value: 0.045
+
+
+name: Methionine
+unit: g
+value: 0.141
+label: oz
+value: 0.04
+label: cookie
+value: 0.017
+
+
+name: Cystine
+unit: g
+value: 0.162
+label: oz
+value: 0.046
+label: cookie
+value: 0.019
+
+
+name: Phenylalanine
+unit: g
+value: 0.453
+label: oz
+value: 0.128
+label: cookie
+value: 0.054
+
+
+name: Tyrosine
+unit: g
+value: 0.321
+label: oz
+value: 0.091
+label: cookie
+value: 0.039
+
+
+name: Valine
+unit: g
+value: 0.415
+label: oz
+value: 0.118
+label: cookie
+value: 0.05
+
+
+name: Arginine
+unit: g
+value: 0.695
+label: oz
+value: 0.197
+label: cookie
+value: 0.083
+
+
+name: Histidine
+unit: g
+value: 0.208
+label: oz
+value: 0.059
+label: cookie
+value: 0.025
+
+
+name: Alanine
+unit: g
+value: 0.347
+label: oz
+value: 0.098
+label: cookie
+value: 0.042
+
+
+name: Aspartic acid
+unit: g
+value: 0.774
+label: oz
+value: 0.219
+label: cookie
+value: 0.093
+
+
+name: Glutamic acid
+unit: g
+value: 2.218
+label: oz
+value: 0.629
+label: cookie
+value: 0.266
+
+
+name: Glycine
+unit: g
+value: 0.407
+label: oz
+value: 0.115
+label: cookie
+value: 0.049
+
+
+name: Proline
+unit: g
+value: 0.639
+label: oz
+value: 0.181
+label: cookie
+value: 0.077
+
+
+name: Serine
+unit: g
+value: 0.494
+label: oz
+value: 0.14
+label: cookie
+value: 0.059
+
+
+
