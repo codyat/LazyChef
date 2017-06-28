@@ -1,0 +1,10 @@
+#!/bin/bash
+
+rm cb_contents.txt 2>/dev/null
+
+ls recipes | grep -v template > cb_contents.txt
+chmod 777 cb_contents.txt
+
+python3 -B main.py
+
+rm cb_contents.txt 2>/dev/null

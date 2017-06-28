@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipe name="Sauce" id="1" prep_time="15 minutes" cook_time="20 minutes">
+  <ingredients>
+    <ingredient name="Potatoes" id="11355" amount="1" units="Cup"/>
+    <ingredient name="Carrots" id="11124" amount=".5" units="Cup"/>
+    <ingredient name="Lemon Juice" id="09152" amount="1" units="Tbsp"/>
+    <ingredient name="Almond Milk" id="45234241" amount=".25" units="Cup"/>
+    <ingredient name="Nutritional Yeast" id="45067042" amount="1" units="Tbsp"/>
+    <ingredient name="Garlic Salt" id="45081129" amount=".5" units="Tsp"/>
+    <ingredient name="Oil" id="04053" amount="1" units="Tsp"/>
+    <ingredient name="Jalepeno" id="45065090" amount="3" units="Slices"/>
+  </ingredients>
+  <steps>
+    <step id="1">
+      Wash, peel, and cut the potatoes and carrots. Place them into a pot and boil them until they're soft.
+    </step>
+    <step id="2">
+      Add everything to a blender and begin blending until the mixture is pureed.
+    </step>
+  </steps>
+  <nutrients>
+    <nutrient id="0"  name="Water"                              amount="131.3" units="g"/>
+    <nutrient id="1"  name="Energy"                             amount="217.0" units="Cal"/>
+    <nutrient id="2"  name="Protein"                            amount="5.73" units="g"/>
+    <nutrient id="3"  name="Total lipid (fat)"                  amount="5.64" units="g"/>
+    <nutrient id="4"  name="Carbohydrate, by difference"        amount="34.78" units="g"/>
+    <nutrient id="5"  name="Fiber, total dietary"               amount="7.0" units="g"/>
+    <nutrient id="6"  name="Sugars, total"                      amount="5.35" units="g"/>
+    <nutrient id="7"  name="Calcium, Ca"                        amount="150.0" units="mg"/>
+    <nutrient id="8"  name="Iron, Fe"                           amount="1.83" units="mg"/>
+    <nutrient id="9"  name="Magnesium, Mg"                      amount="46.0" units="mg"/>
+    <nutrient id="10" name="Phosphorus, P"                      amount="120.0" units="mg"/>
+    <nutrient id="11" name="Potassium, K"                       amount="943.0" units="mg"/>
+    <nutrient id="12" name="Sodium, Na"                         amount="1199" units="mg"/>
+    <nutrient id="13" name="Zinc, Zn"                           amount="1.55" units="mg"/>
+    <nutrient id="14" name="Vitamin C, total ascorbic acid"     amount="22.6" units="mg"/>
+    <nutrient id="15" name="Thiamin"                            amount="2.87" units="mg"/>
+    <nutrient id="16" name="Riboflavin"                         amount="27.29" units="mg"/>
+    <nutrient id="17" name="Niacin"                             amount="16.37" units="mg"/>
+    <nutrient id="18" name="Vitamin B-6"                        amount="3.15" units="mg"/>
+    <nutrient id="19" name="Folate, DFE"                        amount="42.0" units="μg"/>
+    <nutrient id="20" name="Vitamin B-12"                       amount="2.4" units="μg"/>
+    <nutrient id="21" name="Vitamin A, RAE"                     amount="534.0" units="μg"/>
+    <nutrient id="22" name="Vitamin A, IU"                      amount="10828.0" units="IU"/>
+    <nutrient id="23" name="Vitamin E (alpha-tocopherol)"       amount="0.45" units="mg"/>
+    <nutrient id="24" name="Vitamin D (D2 + D3)"                amount="0.0" units="μg"/>
+    <nutrient id="25" name="Vitamin D"                          amount="25.0" units="IU"/>
+    <nutrient id="26" name="Vitamin K (phylloquinone)"          amount="12.7" units="μg"/>
+    <nutrient id="27" name="Fatty acids, total saturated"       amount="0.62" units="g"/>
+    <nutrient id="28" name="Fatty acids, total monounsaturated" amount="3.65" units="g"/>
+    <nutrient id="29" name="Fatty acids, total polyunsaturated" amount="0.92" units="g"/>
+    <nutrient id="30" name="Fatty acids, total trans"           amount="0.0" units="g"/>
+    <nutrient id="31" name="Cholesterol"                        amount="0.0" units="mg"/>
+    <nutrient id="32" name="Caffeine"                           amount="0.0" units="mg"/>
+  </nutrients>
+</recipe>

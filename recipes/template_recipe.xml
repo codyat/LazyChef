@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipe name="" id="" prep_time="" cook_time="">
+  <ingredients>
+    <ingredient name="" id="" amount="" units=""/>
+    <ingredient name="" id="" amount="" units=""/>
+  </ingredients>
+  <steps>
+    <step id="1">
+      ahpl nuhoaos nart. Paete noaon olte niltesf.
+    </step>
+    <step id="2">
+      vrti gtoab edradbgn bedn nilt mxrei ued.
+    </step>
+  </steps>
+  <nutrients>
+    <nutrient id="0"  name="Water"                              amount="" units="g"/>
+    <nutrient id="1"  name="Energy"                             amount="" units="Cal"/>
+    <nutrient id="2"  name="Protein"                            amount="" units="g"/>
+    <nutrient id="3"  name="Total lipid (fat)"                  amount="" units="g"/>
+    <nutrient id="4"  name="Carbohydrate, by difference"        amount="" units="g"/>
+    <nutrient id="5"  name="Fiber, total dietary"               amount="" units="g"/>
+    <nutrient id="6"  name="Sugars, total"                      amount="" units="g"/>
+    <nutrient id="7"  name="Calcium, Ca"                        amount="" units="mg"/>
+    <nutrient id="8"  name="Iron, Fe"                           amount="" units="mg"/>
+    <nutrient id="9"  name="Magnesium, Mg"                      amount="" units="mg"/>
+    <nutrient id="10" name="Phosphorus, P"                      amount="" units="mg"/>
+    <nutrient id="11" name="Potassium, K"                       amount="" units="mg"/>
+    <nutrient id="12" name="Sodium, Na"                         amount="" units="mg"/>
+    <nutrient id="13" name="Zinc, Zn"                           amount="" units="mg"/>
+    <nutrient id="14" name="Vitamin C, total ascorbic acid"     amount="" units="mg"/>
+    <nutrient id="15" name="Thiamin"                            amount="" units="mg"/>
+    <nutrient id="16" name="Riboflavin"                         amount="" units="mg"/>
+    <nutrient id="17" name="Niacin"                             amount="" units="mg"/>
+    <nutrient id="18" name="Vitamin B-6"                        amount="" units="mg"/>
+    <nutrient id="19" name="Folate, DFE"                        amount="" units="μg"/>
+    <nutrient id="20" name="Vitamin B-12"                       amount="" units="μg"/>
+    <nutrient id="21" name="Vitamin A, RAE"                     amount="" units="μg"/>
+    <nutrient id="22" name="Vitamin A, IU"                      amount="" units="IU"/>
+    <nutrient id="23" name="Vitamin E (alpha-tocopherol)"       amount="" units="mg"/>
+    <nutrient id="24" name="Vitamin D (D2 + D3)"                amount="" units="μg"/>
+    <nutrient id="25" name="Vitamin D"                          amount="" units="IU"/>
+    <nutrient id="26" name="Vitamin K (phylloquinone)"          amount="" units="μg"/>
+    <nutrient id="27" name="Fatty acids, total saturated"       amount="" units="g"/>
+    <nutrient id="28" name="Fatty acids, total monounsaturated" amount="" units="g"/>
+    <nutrient id="29" name="Fatty acids, total polyunsaturated" amount="" units="g"/>
+    <nutrient id="30" name="Fatty acids, total trans"           amount="" units="g"/>
+    <nutrient id="31" name="Cholesterol"                        amount="" units="mg"/>
+    <nutrient id="32" name="Caffeine"                           amount="" units="mg"/>
+  </nutrients>
+</recipe>
